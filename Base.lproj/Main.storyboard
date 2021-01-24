@@ -13,7 +13,7 @@
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Welcome to JobStop! Click on an option below to get started. " textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oo8-VR-qsO">
@@ -64,10 +64,9 @@
         <!--State2 Job Input-->
         <scene sceneID="0Bv-7u-X2E">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Ypu-En-7y2" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <viewController id="82K-4s-4Rf" customClass="_1State2JobInput" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="NHI-2H-owA">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="State" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rJj-h0-0LM">
@@ -103,6 +102,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="W04-mj-4eC"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ypu-En-7y2" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2021.7391304347827" y="75.669642857142847"/>
         </scene>
@@ -111,7 +111,7 @@
             <objects>
                 <viewController id="FPz-tF-8lC" customClass="SingleJobInput" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="dwh-xN-qW4">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="1gU-dd-kbc">
@@ -165,12 +165,78 @@
             </objects>
             <point key="canvasLocation" x="1047.8260869565217" y="-705.13392857142856"/>
         </scene>
+        <!--Single Job OutputA-->
+        <scene sceneID="hl0-sB-k0k">
+            <objects>
+                <viewController id="GWF-Ei-vhA" customClass="SingleJobOutputA" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="uFg-tj-Idl">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="State: California" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qor-fH-0xW">
+                                <rect key="frame" x="53" y="136" width="308" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Income Data: Software Developers" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jmm-Z3-BCQ">
+                                <rect key="frame" x="53" y="250" width="308" height="206"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kUM-Ix-ijj">
+                                <rect key="frame" x="224" y="787" width="137" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="New Search?"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="show" identifier="" id="6Ek-3o-b33"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Annual Salary: $135,000/yr" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aID-yX-kQc">
+                                <rect key="frame" x="53" y="508" width="308" height="87"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Hourly Salary: $65/hr" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kPN-AO-b1U">
+                                <rect key="frame" x="53" y="603" width="308" height="87"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Z5j-cc-fRc"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="N5a-rN-noC"/>
+                    <connections>
+                        <outlet property="annualIncomeTextView" destination="aID-yX-kQc" id="hAr-R5-7d3"/>
+                        <outlet property="hourlyIncomeTextView" destination="kPN-AO-b1U" id="Xwo-qX-EOy"/>
+                        <outlet property="jobTextView" destination="jmm-Z3-BCQ" id="f07-qA-g1J"/>
+                        <outlet property="newSearchButton" destination="kUM-Ix-ijj" id="Brv-cd-sGq"/>
+                        <outlet property="stateTextView" destination="qor-fH-0xW" id="0Ev-gk-c4g"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JY7-Sm-FJ0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2021.7391304347827" y="-2184.375"/>
+        </scene>
         <!--Single Job Input 3a-->
         <scene sceneID="MFK-SJ-LSP">
             <objects>
                 <viewController id="8kO-fN-nnw" customClass="SingleJobInput3a" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="v2I-CJ-KYU">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="View Income Data For:" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ty6-vM-l39">
@@ -191,7 +257,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="JobCell" id="CZr-B3-obd">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="JobIncomeCell" id="CZr-B3-obd">
                                         <rect key="frame" x="0.0" y="28" width="414" height="43.5"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="CZr-B3-obd" id="y0s-1j-MyW">
@@ -206,6 +272,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Search"/>
+                                <connections>
+                                    <segue destination="GWF-Ei-vhA" kind="show" identifier="SingleJobOutputA" id="5Un-Hx-YB8"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Kto-3c-bSW"/>
@@ -226,7 +295,7 @@
             <objects>
                 <viewController id="a9M-W4-Bsb" customClass="SingleJobInput2" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Dta-PA-OrF">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="View:" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dhm-2B-mdo">
@@ -270,7 +339,7 @@
             <objects>
                 <viewController id="lK3-w2-Sov" customClass="SingleJobInput3b" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="yHM-HK-efD">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="View Job Projections For:" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vM0-cf-h4p">
@@ -291,7 +360,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="JobCell" id="XbL-AF-n2M">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="JobProjectionCell" id="XbL-AF-n2M">
                                         <rect key="frame" x="0.0" y="28" width="414" height="43.5"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="XbL-AF-n2M" id="tEP-C0-hxY">
@@ -306,12 +375,19 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Search"/>
+                                <connections>
+                                    <segue destination="obB-f8-X6u" kind="show" identifier="SingleJobOutputB" id="t67-Iv-WCa"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="owu-WY-s7i"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="Q1I-2u-fAB"/>
+                    <connections>
+                        <outlet property="searchBar" destination="KYL-hm-Rbd" id="L8U-PP-QrN"/>
+                        <outlet property="tableView" destination="Vc6-UO-uBx" id="tgZ-sU-nfB"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IYm-Za-k3H" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -340,7 +416,7 @@
             <objects>
                 <viewController id="dGR-Hx-eWg" customClass="_1State2JobInput3a" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tEu-aC-As2">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Job 1" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q1C-xi-Nrf">
@@ -390,7 +466,7 @@
             <objects>
                 <viewController id="Fl5-4P-fgk" customClass="_2State2JobInput" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="K4Y-Oo-C31">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="State 2" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ayB-cb-e2k">
@@ -443,7 +519,7 @@
             <objects>
                 <viewController id="3HM-6Y-Y4s" customClass="_2State2JobInput2" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="avr-0x-xBL">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Compare:" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="l03-4Q-3IN">
@@ -487,7 +563,7 @@
             <objects>
                 <viewController id="e43-8z-V1B" customClass="_2State2JobInput3b" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="OSV-A6-hgK">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Job 1" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eBy-bU-xFH">
@@ -537,7 +613,7 @@
             <objects>
                 <viewController id="qhx-vI-9cz" customClass="_2State2JobInput3a" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="rng-qG-xGl">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Job 1" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZWg-1t-APc">
@@ -587,7 +663,7 @@
             <objects>
                 <viewController id="oAh-LY-W0P" customClass="_1State2JobInput2" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="pR5-EE-h5H">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Compare:" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L6h-Wl-AlB">
@@ -631,7 +707,7 @@
             <objects>
                 <viewController id="tug-OR-ZUD" customClass="_1State2JobInput3b" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="0bZ-cO-bRF">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Job 1" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TWB-gc-1bi">
@@ -676,7 +752,84 @@
             </objects>
             <point key="canvasLocation" x="4099" y="429"/>
         </scene>
+        <!--Single Job OutputB-->
+        <scene sceneID="Xg1-PC-sqV">
+            <objects>
+                <viewController id="obB-f8-X6u" customClass="SingleJobOutputB" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ye7-xb-dEk">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="State: California" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6c4-ta-6yl">
+                                <rect key="frame" x="53" y="129" width="308" height="95"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Job Projections: Software Developers" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="STA-oB-kcs">
+                                <rect key="frame" x="53" y="243" width="308" height="206"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Current Jobs (2018): 6,500" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VeY-HX-ZBX">
+                                <rect key="frame" x="53" y="501" width="308" height="87"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1B4-SK-Qiv">
+                                <rect key="frame" x="224" y="786" width="137" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="New Search?"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="show" id="Eqa-qy-wUe"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="18% Growth (2018 to 2018)" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hWL-2q-hEi">
+                                <rect key="frame" x="53" y="691" width="308" height="87"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Projected Jobs (2028): 8,000" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cVZ-dJ-WuS">
+                                <rect key="frame" x="53" y="576" width="308" height="87"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="pce-2G-HcD"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="bNY-2e-pGH"/>
+                    <connections>
+                        <outlet property="currentJobsTextView" destination="VeY-HX-ZBX" id="AfA-2D-UKx"/>
+                        <outlet property="growthTextView" destination="hWL-2q-hEi" id="xZh-vr-uPt"/>
+                        <outlet property="jobTextView" destination="STA-oB-kcs" id="vrS-Vq-vAi"/>
+                        <outlet property="projectedJobsTextView" destination="cVZ-dJ-WuS" id="HDW-dL-FWM"/>
+                        <outlet property="stateTextView" destination="6c4-ta-6yl" id="JBf-l3-sNJ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Yg0-QC-Czs" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3061" y="-1436"/>
+        </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="Eqa-qy-wUe"/>
+    </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

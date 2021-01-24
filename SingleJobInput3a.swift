@@ -55,8 +55,18 @@ class SingleJobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelega
                 break
             }
             
-            // Else, attempt to parse the row data ...
-            let rowData = row.components(separatedBy: ",")
+            // Parse the row data by separating different categories with semicolons, not commas ...
+            // ... because some job titles include commas
+            let rowCopy = row.replacingOccurrences(of: "\"", with: "")
+            let commaIndices = findCommas(s: rowCopy)
+            let comma1 = commaIndices[0]
+            let comma2 = commaIndices[commaIndices.count - 7]
+            
+            let rowParsed = replaceSeparatorCommas(commaIndices: commaIndices, ignoreStart: comma1, ignoreEnd: comma2, s: rowCopy)
+            
+            // Separate the row data into categories & attempt to parse each category ...
+            let rowData = rowParsed.components(separatedBy: ";")
+            
             guard let title = rowData[1] as String? else {
                 continue
             }
@@ -74,6 +84,39 @@ class SingleJobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelega
         
         // Initially, display all jobs in the text view
         jobListFiltered = jobList
+    }
+    
+    // Replaces commas with semicolons in string `s` besides indices `ignoreStart...ignoreEnd`
+    func replaceSeparatorCommas(commaIndices: [Int], ignoreStart: Int, ignoreEnd: Int, s: String) -> String {
+        var sCopy = s
+        
+        for i in 0...(s.count - 1) {
+            if i > ignoreStart && i < ignoreEnd {
+                continue
+            }
+            
+            if commaIndices.contains(i) {
+                let index = s.index(s.startIndex, offsetBy: i)
+                sCopy.replaceSubrange(index...index, with: [";"])
+            }
+        }
+        
+        return sCopy
+    }
+    
+    // Finds comma indices in a string
+    func findCommas(s: String) -> [Int] {
+        var commaIndices: [Int] = []
+        
+        for i in 0...(s.count - 1) {
+            let index = s.index(s.startIndex, offsetBy: i)
+            
+            if s[index] == "," {
+                commaIndices.append(i)
+            }
+        }
+        
+        return commaIndices
     }
 
     // Implement search bar functionality
@@ -99,7 +142,7 @@ class SingleJobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelega
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "JobCell", for: indexPath)
+        let cell = tableView.dequeueReusableCell(withIdentifier: "JobIncomeCell", for: indexPath)
         cell.textLabel?.text = jobListFiltered[indexPath.row].title
         return cell
     }
@@ -107,5 +150,14 @@ class SingleJobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelega
     // When the user selects a TableView row, update the `selectedJob` variable
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         selectedJob = jobListFiltered[indexPath.row]
+    }
+    
+    // Send data about selected state & job to the next view
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "SingleJobOutputA",
+           let destination = segue.destination as? SingleJobOutputA {
+            destination.stateName = stateFilename.capitalized
+            destination.selectedJob = selectedJob
+        }
     }
 }

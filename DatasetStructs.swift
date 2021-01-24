@@ -13,3 +13,12 @@ struct JobIncomeData {
     var hourlySalary: Double
     var annualSalary: Int
 }
+
+// Represents growth projection data for a given job
+struct JobProjectionData {
+    var title: String
+    var currentJobs: Double
+    var projectedJobs: Double
+    var netChange: Double
+    var percentChange: Double
+}
