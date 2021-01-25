@@ -8,6 +8,7 @@
 import Foundation
 import UIKit
 
+// View displaying growth projection data about the selected job
 class SingleJobOutputB: UIViewController {
     // Outlets connecting to different `TextView` elements
     @IBOutlet var stateTextView: UITextView!

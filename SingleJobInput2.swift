@@ -8,6 +8,7 @@
 import Foundation
 import UIKit
 
+// View where users chooses to view income data or job growth projections
 class SingleJobInput2: UIViewController {
     // Variable to hold filename of selected state
     var stateFilename: String!

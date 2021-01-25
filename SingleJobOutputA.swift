@@ -8,6 +8,7 @@
 import Foundation
 import UIKit
 
+// View displaying income data about the selected job
 class SingleJobOutputA: UIViewController {
     // Outlets connecting to different `TextView` elements
     @IBOutlet var stateTextView: UITextView!

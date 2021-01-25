@@ -9,15 +9,7 @@ import Foundation
 import UIKit
 import SwiftUI
 
-/* TODO
-struct JobProjectionData {
-    var title: String
-    var currentJobs: Int
-    var projectedJobs: Int
-    var netChange: Int
-    var percentChange: Double
-}*/
-
+// View where users searches for a job in the selected state
 class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource {
     // Outlets connecting to search bar & table view
     @IBOutlet var searchBar: UISearchBar!
