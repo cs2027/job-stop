@@ -42,8 +42,8 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
         self.tableView2.dataSource = self
         
         // Add appropriate text to storyboard
-        state1TextView.text = "Compare Income Data For: \(state1Filename.capitalized)"
-        state2TextView.text = "And: \(state2Filename.capitalized)"
+        state1TextView.text = "Compare Income Data For: \(state1Filename.capitalized.replacingOccurrences(of: "_", with: " "))"
+        state2TextView.text = "And: \(state2Filename.capitalized.replacingOccurrences(of: "_", with: " "))"
         
         // Load all jobs for the selected states, initially set the filtered lists to these complete lists
         jobList1 = loadIncomeData(stateFilename: state1Filename!)
@@ -74,6 +74,7 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
         var fileRows = fileData.components(separatedBy: "\n")
         fileRows.removeFirst()
         
+        print(fileRows)
         
         // Loop over each row ...
         for row in fileRows {
@@ -82,7 +83,7 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
                 break
             }
             
-            if !(row.contains(stateFilename.capitalized)) {
+            if !(row.contains(stateFilename.capitalized.replacingOccurrences(of: "_", with: " "))) {
                 break
             }
             
@@ -104,6 +105,13 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
             
             // Separate the row data into categories & attempt to parse each category ...
             let rowData = rowParsed.components(separatedBy: ";")
+            
+            if stateFilename == "south_dakota" {
+                print("----")
+                print(rowCopy)
+                print(rowParsed)
+                print(rowData)
+            }
             
             guard let title = rowData[1] as String? else {
                 continue
@@ -224,8 +232,8 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "2State2JobOutputA",
            let destination = segue.destination as? _2State2JobOutputA {
-            destination.state1Name = state1Filename.capitalized
-            destination.state2Name = state2Filename.capitalized
+            destination.state1Name = state1Filename.capitalized.replacingOccurrences(of: "_", with: " ")
+            destination.state2Name = state2Filename.capitalized.replacingOccurrences(of: "_", with: " ")
             destination.selectedJob1 = selectedJob1
             destination.selectedJob2 = selectedJob2
         }

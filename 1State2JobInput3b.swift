@@ -215,7 +215,7 @@ class _1State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "1State2JobOutputB",
            let destination = segue.destination as? _1State2JobOutputB {
-            destination.stateName = stateFilename.capitalized
+            destination.stateName = stateFilename.capitalized.replacingOccurrences(of: "_", with: " ")
             destination.selectedJob1 = selectedJob1
             destination.selectedJob2 = selectedJob2
         }

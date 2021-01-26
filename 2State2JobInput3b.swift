@@ -41,8 +41,8 @@ class _2State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
         self.tableView2.dataSource = self
         
         // Display appropriate text in storyboard based on selected states
-        state1TextView.text = "Compare Projections For: \(state1Filename.capitalized)"
-        state2TextView.text = "And: \(state2Filename.capitalized)"
+        state1TextView.text = "Compare Projections For: \(state1Filename.capitalized.replacingOccurrences(of: "_", with: " "))"
+        state2TextView.text = "And: \(state2Filename.capitalized.replacingOccurrences(of: "_", with: " "))"
         
         // Load the job growth projection data for both states
         // Initially set the filtered lists equal to the complete list as well
@@ -81,7 +81,7 @@ class _2State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
                 break
             }
             
-            if !(row.contains(stateFilename.capitalized)) {
+            if !(row.contains(stateFilename.capitalized.replacingOccurrences(of: "_", with: " "))) {
                 break
             }
             
@@ -235,8 +235,8 @@ class _2State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "2State2JobOutputB",
            let destination = segue.destination as? _2State2JobOutputB {
-            destination.state1Name = state1Filename.capitalized
-            destination.state2Name = state2Filename.capitalized
+            destination.state1Name = state1Filename.capitalized.replacingOccurrences(of: "_", with: " ")
+            destination.state2Name = state2Filename.capitalized.replacingOccurrences(of: "_", with: " ")
             destination.selectedJob1 = selectedJob1
             destination.selectedJob2 = selectedJob2
         }

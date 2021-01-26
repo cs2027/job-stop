@@ -243,7 +243,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JY7-Sm-FJ0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2021.7391304347827" y="-2184.375"/>
+            <point key="canvasLocation" x="1048" y="-1436"/>
         </scene>
         <!--Single Job Input 3a-->
         <scene sceneID="MFK-SJ-LSP">
@@ -773,6 +773,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Compare"/>
+                                <connections>
+                                    <segue destination="bZj-za-hMk" kind="show" identifier="2State2JobOutputB" id="x1C-IM-fgH"/>
+                                </connections>
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Compare Projections For: Arizona" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="6ob-Z3-CfK">
                                 <rect key="frame" x="0.0" y="93" width="414" height="93"/>
@@ -859,6 +862,190 @@
             </objects>
             <point key="canvasLocation" x="2021.7391304347827" y="1566.9642857142856"/>
         </scene>
+        <!--State2 Job OutputB-->
+        <scene sceneID="Gty-3F-itV">
+            <objects>
+                <viewController id="bZj-za-hMk" customClass="_2State2JobOutputB" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="uiI-GO-tbF">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Current Jobs (2018): 5,000" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Pqo-Fi-oQa">
+                                <rect key="frame" x="0.0" y="636" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Projected Jobs (2028): 7,000" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Ofy-PO-Edk">
+                                <rect key="frame" x="0.0" y="693" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mv8-nJ-e6F">
+                                <rect key="frame" x="257" y="799" width="137" height="57"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="New Search?"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="show" id="qjd-rh-cLT"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Growth Rate (2018 - 2028): 13%" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Pgi-Gj-Hq4">
+                                <rect key="frame" x="0.0" y="746" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Growth Projection: Financial Managers (Colorado)" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="hnh-4d-obV">
+                                <rect key="frame" x="0.0" y="185" width="414" height="137"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Growth Projection: Software Developers (Arizona)" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="6eY-om-F3l">
+                                <rect key="frame" x="6" y="475" width="403" height="153"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Current Jobs (2018): 2,000" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="p1k-OG-5vz">
+                                <rect key="frame" x="0.0" y="316" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Projected Jobs (2028): 2,250" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="4f9-C9-HJe">
+                                <rect key="frame" x="0.0" y="373" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Growth Rate (2018 - 2028): 7%" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="6Qg-I5-fMu">
+                                <rect key="frame" x="0.0" y="426" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="NIl-un-56c"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="1k7-ve-fh3"/>
+                    <connections>
+                        <outlet property="current1TextView" destination="p1k-OG-5vz" id="UnX-Ex-bim"/>
+                        <outlet property="current2TextView" destination="Pqo-Fi-oQa" id="qth-ko-aQz"/>
+                        <outlet property="growth1TextView" destination="6Qg-I5-fMu" id="kbe-PU-Scq"/>
+                        <outlet property="growth2TextView" destination="Pgi-Gj-Hq4" id="Sn2-ak-B8K"/>
+                        <outlet property="job1TextView" destination="hnh-4d-obV" id="13l-Ph-y7L"/>
+                        <outlet property="job2TextView" destination="6eY-om-F3l" id="cSR-6I-qu9"/>
+                        <outlet property="projected1TextView" destination="4f9-C9-HJe" id="3Wl-m0-GQm"/>
+                        <outlet property="projected2TextView" destination="Ofy-PO-Edk" id="iRW-mQ-Mik"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wqA-Ye-ice" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1047.8260869565217" y="1566.9642857142856"/>
+        </scene>
+        <!--State2 Job OutputA-->
+        <scene sceneID="Jcq-LF-c57">
+            <objects>
+                <viewController id="nNV-Yr-ubK" customClass="_2State2JobOutputA" customModule="JobStop" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="odF-pn-MIW">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Income Data: Financial Managers (Colorado)" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="LYe-ma-1TW">
+                                <rect key="frame" x="0.0" y="171" width="414" height="137"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Income Data: Software Developers (Arizona)" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="sw3-iw-VSt">
+                                <rect key="frame" x="6" y="461" width="403" height="153"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Annual Salary: $90,000/yr" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="w4a-ZO-zU1">
+                                <rect key="frame" x="0.0" y="302" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Hourly Salary: $45/hr" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="qBm-85-HmM">
+                                <rect key="frame" x="0.0" y="380" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Annual Salary: $114,000/yr" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Rpg-z3-kDt">
+                                <rect key="frame" x="0.0" y="612" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Hourly Salary: $57/hr" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="XH9-FY-aSz">
+                                <rect key="frame" x="0.0" y="705" width="414" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yUk-io-iPc">
+                                <rect key="frame" x="238" y="781" width="156" height="61"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="New Search?"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="show" id="syh-3r-ROJ"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="W5M-Tc-DpO"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="BxF-eU-Xzm"/>
+                    <connections>
+                        <outlet property="annualSalary1TextView" destination="w4a-ZO-zU1" id="BPy-Ue-czA"/>
+                        <outlet property="annualSalary2TextView" destination="Rpg-z3-kDt" id="QOP-Iv-miv"/>
+                        <outlet property="hourlySalary1TextView" destination="qBm-85-HmM" id="aY8-xS-Yqq"/>
+                        <outlet property="hourlySalary2TextView" destination="XH9-FY-aSz" id="HVW-6R-cGI"/>
+                        <outlet property="job1TextView" destination="LYe-ma-1TW" id="Lu6-TM-smX"/>
+                        <outlet property="job2TextView" destination="sw3-iw-VSt" id="3WO-8O-55N"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="DaO-L5-oNK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3060.8695652173915" y="1566.9642857142856"/>
+        </scene>
         <!--State2 Job Input 3a-->
         <scene sceneID="0BM-lf-JeQ">
             <objects>
@@ -877,6 +1064,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Compare"/>
+                                <connections>
+                                    <segue destination="nNV-Yr-ubK" kind="show" identifier="2State2JobOutputA" id="EUk-ea-tgB"/>
+                                </connections>
                             </button>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Fg1-DI-AUc">
                                 <rect key="frame" x="0.0" y="226" width="414" height="216"/>
@@ -1298,7 +1488,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Mad-ZE-cut"/>
+        <segue reference="qjd-rh-cLT"/>
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">

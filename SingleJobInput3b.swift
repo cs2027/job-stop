@@ -179,7 +179,7 @@ class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelega
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "SingleJobOutputB",
            let destination = segue.destination as? SingleJobOutputB {
-            destination.stateName = stateFilename.capitalized
+            destination.stateName = stateFilename.capitalized.replacingOccurrences(of: "_", with: " ")
             destination.selectedJob = selectedJob
         }
     }
