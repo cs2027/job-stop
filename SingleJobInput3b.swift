@@ -50,12 +50,28 @@ class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelega
         
         // Loop over each row ...
         for row in fileRows {
+            // If row contains no relevant data, we have reached the end of the file, so break
+            if row == "" {
+                break
+            }
+            
+            if !(row.contains(stateFilename.capitalized)) {
+                break
+            }
+            
             // Parse the row data by separating different categories with semicolons, not commas ...
             // ... because some job titles include commas
             let rowCopy = row.replacingOccurrences(of: "\"", with: "")
             let commaIndices = findCommas(s: rowCopy)
             let comma1 = commaIndices[0]
-            let comma2 = commaIndices[commaIndices.count - 7]
+            var index = commaIndices.count - 1
+            var comma2 = commaIndices[index]
+            
+            while index >= 0 && commaIndices[index] - commaIndices[index - 1] == 1 {
+                index = index - 1
+            }
+            
+            comma2 = commaIndices[index - 5]
             
             let rowParsed = replaceSeparatorCommas(commaIndices: commaIndices, ignoreStart: comma1, ignoreEnd: comma2, s: rowCopy)
             
