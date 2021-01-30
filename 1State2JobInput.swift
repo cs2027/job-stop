@@ -19,15 +19,7 @@ class _1State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     var stateFilename: String!
     
     // List of all states
-    let stateList = [
-        "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
-        "District of Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana",
-        "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
-        "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
-        "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma",
-        "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas",
-        "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
-    ]
+    let stateList = Globals.singleton.stateList
     
     // List of states, filtered by search bar query
     var stateListFiltered: [String] = []
@@ -44,17 +36,7 @@ class _1State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     
     // Implement search bar functionality
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
-        if searchText == "" {
-            stateListFiltered = stateList
-        } else {
-            stateListFiltered.removeAll()
-            
-            for state in stateList {
-                if state.lowercased().contains(searchText.lowercased()) {
-                    stateListFiltered.append(state)
-                }
-            }
-        }
+        stateListFiltered = Globals.singleton.searchStates(stateList: stateList, searchText: searchText)
         
         self.tableView.reloadData()
     }

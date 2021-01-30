@@ -22,15 +22,7 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     var state2Filename: String!
     
     // List of all states
-    let stateList = [
-        "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
-        "District of Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana",
-        "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
-        "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
-        "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma",
-        "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas",
-        "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
-    ]
+    let stateList = Globals.singleton.stateList
     
     // Filtered list of states, based on whether user types into search bars
     var stateListFiltered1: [String] = []
@@ -53,31 +45,11 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     // Implement search bar functionality
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         if searchBar == searchBar1 {
-            if searchText == "" {
-                stateListFiltered1 = stateList
-            } else {
-                stateListFiltered1.removeAll()
-                
-                for state in stateList {
-                    if state.lowercased().contains(searchText.lowercased()) {
-                        stateListFiltered1.append(state)
-                    }
-                }
-            }
+            stateListFiltered1 = Globals.singleton.searchStates(stateList: stateList, searchText: searchText)
             
             self.tableView1.reloadData()
         } else {
-            if searchText == "" {
-                stateListFiltered2 = stateList
-            } else {
-                stateListFiltered2.removeAll()
-                
-                for state in stateList {
-                    if state.lowercased().contains(searchText.lowercased()) {
-                        stateListFiltered2.append(state)
-                    }
-                }
-            }
+            stateListFiltered2 = Globals.singleton.searchStates(stateList: stateList, searchText: searchText)
             
             self.tableView2.reloadData()
         }
