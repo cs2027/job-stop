@@ -65,5 +65,4 @@ class _1State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
             destination.stateFilename = stateFilename
         }
     }
-    
 }
