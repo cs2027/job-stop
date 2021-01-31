@@ -203,15 +203,6 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="32"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kUM-Ix-ijj">
-                                <rect key="frame" x="224" y="787" width="137" height="41"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="New Search?"/>
-                                <connections>
-                                    <segue destination="BYZ-38-t0r" kind="show" identifier="" id="6Ek-3o-b33"/>
-                                </connections>
-                            </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Annual Salary: $135,000/yr" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aID-yX-kQc">
                                 <rect key="frame" x="53" y="508" width="308" height="87"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -228,6 +219,24 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kUM-Ix-ijj">
+                                <rect key="frame" x="257" y="787" width="137" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="New Search?"/>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="show" identifier="" id="6Ek-3o-b33"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vse-7N-eRN">
+                                <rect key="frame" x="20" y="719" width="374" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="Adjust for Cost of Living?"/>
+                                <connections>
+                                    <action selector="adjustIncomeData" destination="GWF-Ei-vhA" eventType="touchUpInside" id="cqP-3C-iup"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Z5j-cc-fRc"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -235,6 +244,7 @@
                     <navigationItem key="navigationItem" id="N5a-rN-noC"/>
                     <connections>
                         <outlet property="annualIncomeTextView" destination="aID-yX-kQc" id="hAr-R5-7d3"/>
+                        <outlet property="costOfLivingButton" destination="vse-7N-eRN" id="VNv-ox-vwc"/>
                         <outlet property="hourlyIncomeTextView" destination="kPN-AO-b1U" id="Xwo-qX-EOy"/>
                         <outlet property="jobTextView" destination="jmm-Z3-BCQ" id="f07-qA-g1J"/>
                         <outlet property="newSearchButton" destination="kUM-Ix-ijj" id="Brv-cd-sGq"/>
@@ -243,7 +253,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JY7-Sm-FJ0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1048" y="-1436"/>
+            <point key="canvasLocation" x="1047.8260869565217" y="-1436.3839285714284"/>
         </scene>
         <!--Single Job Input 3a-->
         <scene sceneID="MFK-SJ-LSP">
@@ -555,7 +565,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sa1-pK-n9t">
-                                <rect key="frame" x="257" y="801" width="137" height="41"/>
+                                <rect key="frame" x="257" y="817" width="137" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="New Search?"/>
@@ -588,7 +598,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Annual Salary: $140,000/yr" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="grn-Mo-qQa">
-                                <rect key="frame" x="0.0" y="691" width="414" height="45"/>
+                                <rect key="frame" x="0.0" y="677" width="414" height="45"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <color key="textColor" systemColor="labelColor"/>
@@ -596,23 +606,33 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Hourly Salary: $70/hr" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="BJZ-18-wHI">
-                                <rect key="frame" x="0.0" y="748" width="414" height="45"/>
+                                <rect key="frame" x="0.0" y="734" width="414" height="45"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="laj-Ux-t4l">
+                                <rect key="frame" x="20" y="780" width="374" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="Adjust for Cost of Living?"/>
+                                <connections>
+                                    <action selector="adjustIncomeData" destination="g6h-eU-Kbv" eventType="touchUpInside" id="QXg-vV-1cD"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="pPD-72-Rvm"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="ZwV-mY-dVd"/>
                     <connections>
-                        <outlet property="annualSalary1TextView" destination="MXP-3t-D6h" id="3YP-fv-wIj"/>
-                        <outlet property="annualSalary2TextView" destination="grn-Mo-qQa" id="UGe-5p-AkX"/>
-                        <outlet property="hourlySalary1TextView" destination="GeC-IL-6ir" id="C7j-Be-OIJ"/>
-                        <outlet property="hourlySalary2TextView" destination="BJZ-18-wHI" id="dJN-kK-esd"/>
+                        <outlet property="annualIncome1TextView" destination="MXP-3t-D6h" id="aWm-zl-Nal"/>
+                        <outlet property="annualIncome2TextView" destination="grn-Mo-qQa" id="HgT-bq-8LY"/>
+                        <outlet property="costOfLivingButton" destination="laj-Ux-t4l" id="MU9-23-fxX"/>
+                        <outlet property="hourlyIncome1TextView" destination="GeC-IL-6ir" id="pnP-ZX-o7a"/>
+                        <outlet property="hourlyIncome2TextView" destination="BJZ-18-wHI" id="nXO-H0-1up"/>
                         <outlet property="job1TextView" destination="6Ym-if-9i2" id="NOW-zZ-jeI"/>
                         <outlet property="job2TextView" destination="GTg-zn-nhF" id="zAd-0x-5LX"/>
                         <outlet property="stateTextView" destination="zK6-fc-TMW" id="9DM-3u-Kz5"/>
@@ -1020,12 +1040,21 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yUk-io-iPc">
-                                <rect key="frame" x="238" y="781" width="156" height="61"/>
+                                <rect key="frame" x="238" y="802" width="156" height="61"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="New Search?"/>
                                 <connections>
                                     <segue destination="BYZ-38-t0r" kind="show" id="syh-3r-ROJ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UIZ-HT-Rl1">
+                                <rect key="frame" x="20" y="758" width="374" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="Adjust for Cost of Living?"/>
+                                <connections>
+                                    <action selector="adjustIncomeData" destination="nNV-Yr-ubK" eventType="touchUpInside" id="L2R-8O-HrC"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -1034,10 +1063,11 @@
                     </view>
                     <navigationItem key="navigationItem" id="BxF-eU-Xzm"/>
                     <connections>
-                        <outlet property="annualSalary1TextView" destination="w4a-ZO-zU1" id="BPy-Ue-czA"/>
-                        <outlet property="annualSalary2TextView" destination="Rpg-z3-kDt" id="QOP-Iv-miv"/>
-                        <outlet property="hourlySalary1TextView" destination="qBm-85-HmM" id="aY8-xS-Yqq"/>
-                        <outlet property="hourlySalary2TextView" destination="XH9-FY-aSz" id="HVW-6R-cGI"/>
+                        <outlet property="annualIncome1TextView" destination="w4a-ZO-zU1" id="kEU-kj-4Dn"/>
+                        <outlet property="annualIncome2TextView" destination="Rpg-z3-kDt" id="5mP-BX-FM4"/>
+                        <outlet property="costOfLivingButton" destination="UIZ-HT-Rl1" id="C12-f1-E8N"/>
+                        <outlet property="hourlyIncome1TextView" destination="qBm-85-HmM" id="Lk8-p1-0ei"/>
+                        <outlet property="hourlyIncome2TextView" destination="XH9-FY-aSz" id="bm7-2V-nfL"/>
                         <outlet property="job1TextView" destination="LYe-ma-1TW" id="Lu6-TM-smX"/>
                         <outlet property="job2TextView" destination="sw3-iw-VSt" id="3WO-8O-55N"/>
                     </connections>
@@ -1488,7 +1518,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="qjd-rh-cLT"/>
+        <segue reference="syh-3r-ROJ"/>
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">

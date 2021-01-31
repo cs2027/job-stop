@@ -95,6 +95,7 @@ class _1State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
             destination.stateName = stateFilename.capitalized.replacingOccurrences(of: "_", with: " ")
             destination.selectedJob1 = selectedJob1
             destination.selectedJob2 = selectedJob2
+            destination.stateCostOfLiving = Globals.singleton.costOfLiving(stateFilename: stateFilename)
         }
     }
 }

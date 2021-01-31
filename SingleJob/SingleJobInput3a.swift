@@ -67,6 +67,7 @@ class SingleJobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelega
            let destination = segue.destination as? SingleJobOutputA {
             destination.stateName = stateFilename.capitalized.replacingOccurrences(of: "_", with: " ")
             destination.selectedJob = selectedJob
+            destination.stateCostOfLiving = Globals.singleton.costOfLiving(stateFilename: stateFilename)
         }
     }
 }

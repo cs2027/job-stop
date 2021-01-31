@@ -178,6 +178,42 @@ class Globals {
         return jobList
     }
     
+    // Determine the cost of living index for a given state
+    func costOfLiving(stateFilename: String!) -> Double {
+        // Parse the state name & create a variable to store the cost of living
+        let stateName = stateFilename.replacingOccurrences(of: "_", with: " ")
+        var costOfLiving: Double = 1.00
+        
+        // Obtain a path to the file w/ cost of living data
+        guard let filePath = Bundle.main.path(forResource: "cost_of_living_data", ofType: "csv", inDirectory: "income_job_datasets", forLocalization: nil) else {
+            return costOfLiving
+        }
+        
+        // Parse the file data as a string
+        var fileData = ""
+        do {
+            fileData = try String(contentsOfFile: filePath)
+        } catch {
+            return costOfLiving
+        }
+        
+        // Split the data into rows and remove the first header row
+        var fileRows = fileData.components(separatedBy: "\n")
+        fileRows.removeFirst()
+        
+        // Loop over each row ...
+        for row in fileRows {
+            let rowData = row.components(separatedBy: ",")
+            
+            if rowData[0].lowercased() == stateName {
+                costOfLiving = Double(rowData[1])! / 100.00
+                break
+            }
+        }
+        
+        return costOfLiving
+    }
+    
     // Search bar functionality to filter down list of states
     func searchStates(stateList: [String], searchText: String) -> [String] {
         var stateListFiltered: [String] = []
