@@ -11,18 +11,18 @@ import UIKit
 // Displays growth projection data for two selected jobs in two different statess
 class _2State2JobOutputB: UIViewController {
     // Outlets to `TextViews` displaying job growth projection data
-    @IBOutlet var job1TextView: UITextView!
-    @IBOutlet var current1TextView: UITextView!
-    @IBOutlet var projected1TextView: UITextView!
-    @IBOutlet var growth1TextView: UITextView!
-    @IBOutlet var job2TextView: UITextView!
-    @IBOutlet var current2TextView: UITextView!
-    @IBOutlet var projected2TextView: UITextView!
-    @IBOutlet var growth2TextView: UITextView!
+    @IBOutlet var jobTextView1: UITextView!
+    @IBOutlet var currentTextView1: UITextView!
+    @IBOutlet var projectedTextView1: UITextView!
+    @IBOutlet var growthTextView1: UITextView!
+    @IBOutlet var jobTextView2: UITextView!
+    @IBOutlet var currentTextView2: UITextView!
+    @IBOutlet var projectedTextView2: UITextView!
+    @IBOutlet var growthTextView2: UITextView!
     
     // Variables to hold state names & growth projections for selected jobs
-    var state1Name: String!
-    var state2Name: String!
+    var stateName1: String!
+    var stateName2: String!
     var selectedJob1: JobProjectionData!
     var selectedJob2: JobProjectionData!
     var currentJobs1: String!
@@ -41,14 +41,23 @@ class _2State2JobOutputB: UIViewController {
         currentJobs2 = numberFormatter.string(from: NSNumber(value: Int(selectedJob2.currentJobs)))
         projectedJobs2 = numberFormatter.string(from: NSNumber(value: Int(selectedJob2.projectedJobs)))
         
-        // Display relevant data in the storyboard view
-        job1TextView.text = "Income Data (\(state1Name!)): \(selectedJob1.title)"
-        current1TextView.text = "Current Jobs (2018): \(currentJobs1!)"
-        projected1TextView.text = "Projected Jobs (2028): \(projectedJobs1!)"
-        growth1TextView.text = "Growth Rate (2018 - 2028): \(selectedJob1.percentChange)%"
-        job2TextView.text = "Income Data (\(state2Name!): \(selectedJob2.title)"
-        current2TextView.text = "Current Jobs (2018): \(currentJobs2!)"
-        projected2TextView.text = "Projected Jobs (2028): \(projectedJobs2!)"
-        growth2TextView.text = "Growth Rate (2018 - 2028): \(selectedJob2.percentChange)%"
+        // Display relevant data in the storyboard view, adjusting the font size if necessary
+        let jobText1 = "Growth Projection \(stateName1!): \(selectedJob1.title)"
+        let jobFontSize1 = Globals.singleton.maxFontSize(s: jobText1, maxChars: 60, defaultSize: 32)
+        jobTextView1.text = jobText1
+        jobTextView1.font = jobTextView1.font?.withSize(CGFloat(jobFontSize1))
+        
+        currentTextView1.text = "Current Jobs (2018): \(currentJobs1!)"
+        projectedTextView1.text = "Projected Jobs (2028): \(projectedJobs1!)"
+        growthTextView1.text = "Growth Rate (2018 - 2028): \(selectedJob1.percentChange)%"
+    
+        let jobText2 = "Growth Projection \(stateName2!): \(selectedJob2.title)"
+        let jobFontSize2 = Globals.singleton.maxFontSize(s: jobText2, maxChars: 60, defaultSize: 32)
+        jobTextView2.text = jobText2
+        jobTextView2.font = jobTextView2.font?.withSize(CGFloat(jobFontSize2))
+        
+        currentTextView2.text = "Current Jobs (2018): \(currentJobs2!)"
+        projectedTextView2.text = "Projected Jobs (2028): \(projectedJobs2!)"
+        growthTextView2.text = "Growth Rate (2018 - 2028): \(selectedJob2.percentChange)%"
     }
 }

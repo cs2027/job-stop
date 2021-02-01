@@ -11,15 +11,17 @@ import SwiftUI
 
 // View where user selects two states to compare
 class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource {
-    // Outlets for both search bars & table views
+    // Outlets connecting to various UI storyboard elements
+    @IBOutlet var stateTextView1: UITextView!
+    @IBOutlet var stateTextView2: UITextView!
     @IBOutlet var searchBar1: UISearchBar!
     @IBOutlet var searchBar2: UISearchBar!
     @IBOutlet var tableView1: UITableView!
     @IBOutlet var tableView2: UITableView!
     
     // Variables to store filenames of two selected states
-    var state1Filename: String!
-    var state2Filename: String!
+    var stateFilename1: String!
+    var stateFilename2: String!
     
     // List of all states
     let stateList = Globals.singleton.stateList
@@ -30,6 +32,9 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        stateTextView1.text = "State 1"
+        stateTextView2.text = "State 2"
         
         self.searchBar1.delegate = self
         self.searchBar2.delegate = self
@@ -76,14 +81,17 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
         }
     }
     
-    // Update the state filename variables each time a new state is selected in each `TableView` obj.
+    // Each time a state is selected, update the `state{1, 2}Filename` variable ...
+    // ... and display the selected state on screen
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if tableView == tableView1 {
             let cell = self.tableView1.cellForRow(at: indexPath)
-            state1Filename = cell?.textLabel?.text?.lowercased().replacingOccurrences(of: " ", with: "_")
+            stateTextView1.text = "State 1: \(cell?.textLabel?.text ?? "State 1")"
+            stateFilename1 = cell?.textLabel?.text?.lowercased().replacingOccurrences(of: " ", with: "_")
         } else {
             let cell = self.tableView2.cellForRow(at: indexPath)
-            state2Filename = cell?.textLabel?.text?.lowercased().replacingOccurrences(of: " ", with: "_")
+            stateTextView2.text = "State 2: \(cell?.textLabel?.text ?? "State 2")"
+            stateFilename2 = cell?.textLabel?.text?.lowercased().replacingOccurrences(of: " ", with: "_")
         }
     }
     
@@ -91,8 +99,8 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "2State2JobInput2",
            let destination = segue.destination as? _2State2JobInput2 {
-            destination.state1Filename = state1Filename
-            destination.state2Filename = state2Filename
+            destination.stateFilename1 = stateFilename1
+            destination.stateFilename2 = stateFilename2
         }
     }
 }

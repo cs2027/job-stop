@@ -9,7 +9,8 @@ import UIKit
 
 // View where user selects a state (to load the correct CSV file)
 class SingleJobInput: UIViewController, UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource {
-    // Connections to search bar & table view
+    // Outlets connecting to various storyboard UI elements
+    @IBOutlet var stateTextView: UITextView!
     @IBOutlet var searchBar: UISearchBar!
     @IBOutlet var tableView: UITableView!
     
@@ -24,6 +25,8 @@ class SingleJobInput: UIViewController, UISearchBarDelegate, UITableViewDelegate
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        stateTextView.text = "State"
         
         self.searchBar.delegate = self
         self.tableView.delegate = self
@@ -50,9 +53,11 @@ class SingleJobInput: UIViewController, UISearchBarDelegate, UITableViewDelegate
         return cell
     }
     
-    // Update the `stateFilename` variable each time a new row is selected
+    // When a new state is selected, update the `stateFilename` variable and ...
+    // ... display the selected state on screen
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let cell = self.tableView.cellForRow(at: indexPath)
+        stateTextView.text = "State: \(cell?.textLabel?.text ?? "State")"
         stateFilename = cell?.textLabel?.text?.lowercased().replacingOccurrences(of: " ", with: "_")
     }
     

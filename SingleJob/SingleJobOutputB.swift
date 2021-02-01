@@ -32,9 +32,12 @@ class SingleJobOutputB: UIViewController {
         currentJobsParsed = numberFormatter.string(from: NSNumber(value: Int(selectedJob.currentJobs)))
         projectedJobsParsed = numberFormatter.string(from: NSNumber(value: Int(selectedJob.projectedJobs)))
         
-        // Display relevant data in the storyboard view
+        // Display relevant data in the storyboard view, adjusting font sizes if needed
         stateTextView.text = "State: \(stateName!)"
-        jobTextView.text = "Income Data: \(selectedJob.title)"
+        let jobText = "Growth Projection: \(selectedJob.title)"
+        let jobFontSize = Globals.singleton.maxFontSize(s: jobText, maxChars: 80, defaultSize: 32)
+        jobTextView.text = jobText
+        jobTextView.font = jobTextView.font?.withSize(CGFloat(jobFontSize))
         currentJobsTextView.text = "Current Jobs (2018): \(currentJobsParsed!)"
         projectedJobsTextView.text = "Projected Jobs (2028): \(projectedJobsParsed!)"
         growthTextView.text = "Growth Rate (2018 - 2028): \(selectedJob.percentChange)%"

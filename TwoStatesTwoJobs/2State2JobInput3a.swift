@@ -12,16 +12,18 @@ import SwiftUI
 // View where user selects two jobs to compare income data for
 class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource {
     // Various outlets connecting to storyboard UI features
-    @IBOutlet var state1TextView: UITextView!
-    @IBOutlet var state2TextView: UITextView!
+    @IBOutlet var jobTextView1: UITextView!
+    @IBOutlet var jobTextView2: UITextView!
+    @IBOutlet var stateTextView1: UITextView!
+    @IBOutlet var stateTextView2: UITextView!
     @IBOutlet var searchBar1: UISearchBar!
     @IBOutlet var searchBar2: UISearchBar!
     @IBOutlet var tableView1: UITableView!
     @IBOutlet var tableView2: UITableView!
     
     // Variables to hold (1) state filenames and (2) the jobs to compare
-    var state1Filename: String!
-    var state2Filename: String!
+    var stateFilename1: String!
+    var stateFilename2: String!
     var selectedJob1: JobIncomeData!
     var selectedJob2: JobIncomeData!
     
@@ -34,6 +36,9 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        jobTextView1.text = "<Job 1 Goes Here>"
+        jobTextView2.text = "& <Job 2 Goes Here>"
+        
         self.searchBar1.delegate = self
         self.searchBar2.delegate = self
         self.tableView1.delegate = self
@@ -42,12 +47,12 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
         self.tableView2.dataSource = self
         
         // Add appropriate text to storyboard
-        state1TextView.text = "Compare Income Data For: \(state1Filename.capitalized.replacingOccurrences(of: "_", with: " "))"
-        state2TextView.text = "And: \(state2Filename.capitalized.replacingOccurrences(of: "_", with: " "))"
+        stateTextView1.text = "Incomes: (\(stateFilename1.capitalized.replacingOccurrences(of: "_", with: " ")))"
+        stateTextView2.text = "& (\(stateFilename2.capitalized.replacingOccurrences(of: "_", with: " ")))"
         
         // Load all jobs for the selected states, initially set the filtered lists to these complete lists
-        jobList1 = Globals.singleton.loadIncomeData(stateFilename: state1Filename!)
-        jobList2 = Globals.singleton.loadIncomeData(stateFilename: state2Filename!)
+        jobList1 = Globals.singleton.loadIncomeData(stateFilename: stateFilename1!)
+        jobList2 = Globals.singleton.loadIncomeData(stateFilename: stateFilename2!)
         filteredList1 = jobList1
         filteredList2 = jobList2
     }
@@ -86,12 +91,19 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
         }
     }
     
-    // Update appropriate variable each time the user selects a job in either TableView object
+    // When a row is selected, update the `selectedJob{1, 2}` variable ...
+    // ... and display the selected job on screen
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if tableView == tableView1 {
             selectedJob1 = filteredList1[indexPath.row]
+            let jobFontSize = Globals.singleton.maxFontSize(s: selectedJob1.title, maxChars: 30, defaultSize: 24)
+            jobTextView1.text = "\(selectedJob1.title)"
+            jobTextView1.font = jobTextView1.font?.withSize(CGFloat(jobFontSize))
         } else {
             selectedJob2 = filteredList2[indexPath.row]
+            let jobFontSize = Globals.singleton.maxFontSize(s: selectedJob2.title, maxChars: 30, defaultSize: 24)
+            jobTextView2.text = "\(selectedJob2.title)"
+            jobTextView2.font = jobTextView2.font?.withSize(CGFloat(jobFontSize))
         }
     }
     
@@ -99,12 +111,12 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "2State2JobOutputA",
            let destination = segue.destination as? _2State2JobOutputA {
-            destination.state1Name = state1Filename.capitalized.replacingOccurrences(of: "_", with: " ")
-            destination.state2Name = state2Filename.capitalized.replacingOccurrences(of: "_", with: " ")
+            destination.stateName1 = stateFilename1.capitalized.replacingOccurrences(of: "_", with: " ")
+            destination.stateName2 = stateFilename2.capitalized.replacingOccurrences(of: "_", with: " ")
             destination.selectedJob1 = selectedJob1
             destination.selectedJob2 = selectedJob2
-            destination.state1CostOfLiving = Globals.singleton.costOfLiving(stateFilename: state1Filename!)
-            destination.state2CostOfLiving = Globals.singleton.costOfLiving(stateFilename: state2Filename!)
+            destination.stateCostOfLiving1 = Globals.singleton.costOfLiving(stateFilename: stateFilename1!)
+            destination.stateCostOfLiving2 = Globals.singleton.costOfLiving(stateFilename: stateFilename2!)
         }
     }
 }

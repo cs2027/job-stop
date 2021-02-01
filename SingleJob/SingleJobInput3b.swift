@@ -11,7 +11,8 @@ import SwiftUI
 
 // View where users searches for a job in the selected state
 class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource {
-    // Outlets connecting to search bar & table view
+    // Outlets connecting to various storyboard UI elements
+    @IBOutlet var jobTextView: UITextView!
     @IBOutlet var searchBar: UISearchBar!
     @IBOutlet var tableView: UITableView!
     
@@ -26,6 +27,8 @@ class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelega
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        jobTextView.text = "<Job Title Goes Here>"
         
         self.searchBar.delegate = self
         self.tableView.delegate = self
@@ -56,9 +59,14 @@ class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelega
         return cell
     }
     
-    // When the user selects a TableView row, update the `selectedJob` variable
+    // When a new job is selected, update the `selectedJob` variable and ...
+    // ... display the selected job on screen
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         selectedJob = jobListFiltered[indexPath.row]
+        
+        let jobFontSize = Globals.singleton.maxFontSize(s: selectedJob.title, maxChars: 30, defaultSize: 24)
+        jobTextView.text = selectedJob.title
+        jobTextView.font = jobTextView.font?.withSize(CGFloat(jobFontSize))
     }
     
     // Send data about selected state & job to the next view

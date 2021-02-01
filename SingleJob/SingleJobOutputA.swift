@@ -38,9 +38,12 @@ class SingleJobOutputA: UIViewController {
         adjustedAnnualParsed = numberFormatter.string(from: NSNumber(value: Int(Double(selectedJob.annualSalary) / stateCostOfLiving)))
         adjustedHourlyParsed = numberFormatter.string(from: NSNumber(value: Double(selectedJob.hourlySalary) / stateCostOfLiving))
         
-        // Display relevant data in the storyboard view
+        // Display relevant data in the storyboard view, adjusting font sizes where necessary
         stateTextView.text = "State: \(stateName!)"
-        jobTextView.text = "Income Data: \(selectedJob.title)"
+        let jobText = "Income Data: \(selectedJob.title)"
+        let jobFontSize = Globals.singleton.maxFontSize(s: jobText, maxChars: 80, defaultSize: 32)
+        jobTextView.text = jobText
+        jobTextView.font = jobTextView.font?.withSize(CGFloat(jobFontSize))
         viewRawIncomes()
     }
     

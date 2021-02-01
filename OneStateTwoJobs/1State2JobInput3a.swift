@@ -11,7 +11,9 @@ import SwiftUI
 
 // View where user selects two jobs to compare in a given state
 class _1State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource {
-    // Outlets for both search bars & table views
+    // Outlets connecting to various storyboard UI elements
+    @IBOutlet var jobTextView1: UITextView!
+    @IBOutlet var jobTextView2: UITextView!
     @IBOutlet var searchBar1: UISearchBar!
     @IBOutlet var searchBar2: UISearchBar!
     @IBOutlet var tableView1: UITableView!
@@ -29,6 +31,9 @@ class _1State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        jobTextView1.text = "<Job 1 Goes Here>"
+        jobTextView2.text = "& <Job 2 Goes Here>"
         
         self.searchBar1.delegate = self
         self.searchBar2.delegate = self
@@ -79,12 +84,19 @@ class _1State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
         }
     }
     
-    // Update appropriate variable each time the user selects a job in either TableView object
+    // When a new job is selected, update the relevant class variables and ...
+    // ... display the selected job on screen
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if tableView == tableView1 {
             selectedJob1 = filteredList1[indexPath.row]
+            let jobFontSize = Globals.singleton.maxFontSize(s: selectedJob1.title, maxChars: 30, defaultSize: 24)
+            jobTextView1.text = "\(selectedJob1.title)"
+            jobTextView1.font = jobTextView1.font?.withSize(CGFloat(jobFontSize))
         } else {
             selectedJob2 = filteredList2[indexPath.row]
+            let jobFontSize = Globals.singleton.maxFontSize(s: selectedJob2.title, maxChars: 30, defaultSize: 24)
+            jobTextView2.text = "& \(selectedJob2.title)"
+            jobTextView2.font = jobTextView2.font?.withSize(CGFloat(jobFontSize))
         }
     }
     

@@ -304,4 +304,15 @@ class Globals {
         
         return commaIndices
     }
+    
+    // Determines the maximum reasonable font size for a string `s` in a fixed-sized 'TextView`
+    func maxFontSize(s: String, maxChars: Int, defaultSize: Int) -> Int {
+        let stringLen = s.count
+        
+        if stringLen <= maxChars {
+            return defaultSize
+        } else {
+            return Int((maxChars * defaultSize) / stringLen)
+        }
+    }
 }
