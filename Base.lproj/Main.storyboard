@@ -56,6 +56,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" title="JobStop" id="QX4-ry-74D"/>
+                    <connections>
+                        <outlet property="textView" destination="oo8-VR-qsO" id="BXX-QD-Gfk"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
@@ -316,6 +319,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="WGB-4x-CjU"/>
                     <connections>
+                        <outlet property="headerTextView" destination="Ty6-vM-l39" id="kcG-W9-Y6r"/>
                         <outlet property="jobTextView" destination="XnU-MN-YUk" id="VIU-gh-pYS"/>
                         <outlet property="searchBar" destination="R8x-J6-HWU" id="XD5-jX-G5h"/>
                         <outlet property="tableView" destination="QwR-L8-mBb" id="MQh-s3-VnX"/>
@@ -364,6 +368,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="N1a-co-rOU"/>
+                    <connections>
+                        <outlet property="textView" destination="Dhm-2B-mdo" id="bhS-vn-KEm"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="s4N-RC-OC0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -428,6 +435,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="Q1I-2u-fAB"/>
                     <connections>
+                        <outlet property="headerTextView" destination="vM0-cf-h4p" id="DNt-gG-Nir"/>
                         <outlet property="jobTextView" destination="uyP-96-Vy8" id="JKD-lB-25E"/>
                         <outlet property="searchBar" destination="KYL-hm-Rbd" id="L8U-PP-QrN"/>
                         <outlet property="tableView" destination="Vc6-UO-uBx" id="tgZ-sU-nfB"/>
@@ -542,6 +550,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="FEI-qE-9L4"/>
                     <connections>
+                        <outlet property="headerTextView" destination="bsc-NI-G8j" id="WYj-6D-hxY"/>
                         <outlet property="jobTextView1" destination="qtG-qB-3Hj" id="B3Y-E1-2Uw"/>
                         <outlet property="jobTextView2" destination="FFi-wK-xkL" id="wgk-kD-IGG"/>
                         <outlet property="searchBar1" destination="shl-mc-UUE" id="cse-S8-4XS"/>
@@ -786,6 +795,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="ATd-Wo-wx2"/>
+                    <connections>
+                        <outlet property="textView" destination="l03-4Q-3IN" id="e1j-s9-XKw"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="F9B-bn-HGP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1242,6 +1254,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="JNk-LV-wmu"/>
+                    <connections>
+                        <outlet property="textView" destination="L6h-Wl-AlB" id="TNA-3a-ldf"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7Xk-dx-6o1" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1334,6 +1349,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="jkb-rr-NiL"/>
                     <connections>
+                        <outlet property="headerTextView" destination="S2G-Lb-AGu" id="47E-IO-iC1"/>
                         <outlet property="jobTextView1" destination="hi0-u5-cdP" id="NX3-C1-NUL"/>
                         <outlet property="jobTextView2" destination="rEJ-Ry-uKZ" id="JIg-oB-06I"/>
                         <outlet property="searchBar1" destination="hz8-tR-vFG" id="j2B-ab-esK"/>
@@ -1532,7 +1548,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Mad-ZE-cut"/>
+        <segue reference="ubL-vb-J8s"/>
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">

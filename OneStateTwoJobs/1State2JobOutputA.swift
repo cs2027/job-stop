@@ -13,12 +13,16 @@ class _1State2JobOutputA: UIViewController {
     // Outlets connecting to appropriate storyboard elements
     @IBOutlet var stateTextView: UITextView!
     @IBOutlet var jobTextView1: UITextView!
-    @IBOutlet var annualIncomeTextView1: UITextView!
-    @IBOutlet var hourlyIncomeTextView1: UITextView!
     @IBOutlet var jobTextView2: UITextView!
+    @IBOutlet var annualIncomeTextView1: UITextView!
     @IBOutlet var annualIncomeTextView2: UITextView!
+    @IBOutlet var hourlyIncomeTextView1: UITextView!
     @IBOutlet var hourlyIncomeTextView2: UITextView!
     @IBOutlet var costOfLivingButton: UIButton!
+    
+    // Background color & highlighted color for selected cells
+    let defaultColor = Globals.singleton.defaultColor
+    let selectedColor = Globals.singleton.selectedColor
     
     // Variables to store state name & job income data
     var stateName: String!
@@ -33,8 +37,17 @@ class _1State2JobOutputA: UIViewController {
     var adjustedHourlyParsed2: String!
     var adjustedForCOL = false
     
+    // Called once view loads
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Set background color for entire view & constituent components
+        self.view.backgroundColor = defaultColor
+        
+        let components = [self.stateTextView, self.jobTextView1, self.jobTextView2, self.annualIncomeTextView1, self.annualIncomeTextView2, self.hourlyIncomeTextView1, self.hourlyIncomeTextView2]
+        for component in components {
+            component?.backgroundColor = defaultColor
+        }
         
         // Format annual incomes nicely with commas, correct # of decimals
         let numberFormatter = NumberFormatter()

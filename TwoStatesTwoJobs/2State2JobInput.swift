@@ -19,23 +19,36 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     @IBOutlet var tableView1: UITableView!
     @IBOutlet var tableView2: UITableView!
     
-    // Variables to store filenames of two selected states
-    var stateFilename1: String!
+    // Background color & highlighted color for selected cells
+    let defaultColor = Globals.singleton.defaultColor
+    let selectedColor = Globals.singleton.selectedColor
+    
+    // Variables to store: (1) state filenames, (2) list of all states,
+    // (3) list of filtered states (by search bar query)
+    var stateFilename1: String! // (1)
     var stateFilename2: String!
-    
-    // List of all states
-    let stateList = Globals.singleton.stateList
-    
-    // Filtered list of states, based on whether user types into search bars
-    var stateListFiltered1: [String] = []
+    let stateList = Globals.singleton.stateList // (2)
+    var stateListFiltered1: [String] = [] // (3)
     var stateListFiltered2: [String] = []
     
+    // Called once view loads
     override func viewDidLoad() {
         super.viewDidLoad()
         
         stateTextView1.text = "State 1"
         stateTextView2.text = "State 2"
         
+        // Set background color for entire view & constituent components
+        self.view.backgroundColor = defaultColor
+        self.searchBar1.searchBarStyle = UISearchBar.Style.minimal
+        self.searchBar2.searchBarStyle = UISearchBar.Style.minimal
+        
+        let components = [self.stateTextView1, self.stateTextView2, self.tableView1, self.tableView2]
+        for component in components {
+            component?.backgroundColor = defaultColor
+        }
+        
+        // Initial setup for search bars & table views
         self.searchBar1.delegate = self
         self.searchBar2.delegate = self
         self.tableView1.delegate = self
@@ -43,6 +56,7 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
         self.tableView2.delegate = self
         self.tableView2.dataSource = self
         
+        // Initially, display all states in each table view
         self.stateListFiltered1 = self.stateList
         self.stateListFiltered2 = self.stateList
     }
@@ -60,7 +74,7 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
         }
     }
     
-    // Implement standard `TableView` methods, dispatching based on whether `tableView{1 or 2}` was selected
+    // # of rows in table view = number of states in filtered list
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         if tableView == tableView1 {
             return stateListFiltered1.count
@@ -69,6 +83,7 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
         }
     }
     
+    // For a given cell, display the appropriate state name from the filtered list
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         if tableView == tableView1 {
             let cell = tableView1.dequeueReusableCell(withIdentifier: "StateCell", for: indexPath)
@@ -81,17 +96,41 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
         }
     }
     
-    // Each time a state is selected, update the `state{1, 2}Filename` variable ...
-    // ... and display the selected state on screen
+    // Have each table view cell set to the default background color
+    func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
+        cell.contentView.backgroundColor = defaultColor
+    }
+    
+    // Each time a state is selected, (1) highlight the selected cell and
+    // (2) update the `state{1, 2}Filename` variable & display the state on screen
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if tableView == tableView1 {
+            // (1)
             let cell = self.tableView1.cellForRow(at: indexPath)
+            cell?.contentView.backgroundColor = selectedColor
+            
+            // (2)
             stateTextView1.text = "State 1: \(cell?.textLabel?.text ?? "State 1")"
             stateFilename1 = cell?.textLabel?.text?.lowercased().replacingOccurrences(of: " ", with: "_")
         } else {
+            // (1)
             let cell = self.tableView2.cellForRow(at: indexPath)
+            cell?.contentView.backgroundColor = selectedColor
+            
+            // (2)
             stateTextView2.text = "State 2: \(cell?.textLabel?.text ?? "State 2")"
             stateFilename2 = cell?.textLabel?.text?.lowercased().replacingOccurrences(of: " ", with: "_")
+        }
+    }
+    
+    // If a cell is de-selected, have it return to the default background color
+    func tableView(_ tableView: UITableView, didDeselectRowAt indexPath: IndexPath) {
+        if tableView == tableView1 {
+            let cell = self.tableView1.cellForRow(at: indexPath)
+            cell?.contentView.backgroundColor = defaultColor
+        } else {
+            let cell = self.tableView2.cellForRow(at: indexPath)
+            cell?.contentView.backgroundColor = defaultColor
         }
     }
     

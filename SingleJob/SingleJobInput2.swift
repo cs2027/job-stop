@@ -10,8 +10,18 @@ import UIKit
 
 // View where users chooses to view income data or job growth projections
 class SingleJobInput2: UIViewController {
-    // Variable to hold filename of selected state
-    var stateFilename: String!
+    // Variables to hold: (1) state filename, (2) textView label,
+    // (3) background color
+    var stateFilename: String! // (1)
+    @IBOutlet var textView: UITextView! // (2)
+    let defaultColor = Globals.singleton.defaultColor // (3)
+    
+    // Once the view loads, set its backround color
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.view.backgroundColor = defaultColor
+        self.textView.backgroundColor = defaultColor
+    }
     
     // Pass the selected state filename via the segue to the next view
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {

@@ -21,6 +21,10 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
     @IBOutlet var tableView1: UITableView!
     @IBOutlet var tableView2: UITableView!
     
+    // Background color & highlighted color for selected cells
+    let defaultColor = Globals.singleton.defaultColor
+    let selectedColor = Globals.singleton.selectedColor
+    
     // Variables to hold (1) state filenames and (2) the jobs to compare
     var stateFilename1: String!
     var stateFilename2: String!
@@ -33,12 +37,24 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
     var filteredList1: [JobIncomeData] = []
     var filteredList2: [JobIncomeData] = []
     
+    // Called once view loads
     override func viewDidLoad() {
         super.viewDidLoad()
         
         jobTextView1.text = "<Job 1 Goes Here>"
         jobTextView2.text = "& <Job 2 Goes Here>"
         
+        // Set background color for entire view & constituent components
+        self.view.backgroundColor = defaultColor
+        self.searchBar1.searchBarStyle = UISearchBar.Style.minimal
+        self.searchBar2.searchBarStyle = UISearchBar.Style.minimal
+        
+        let components = [self.jobTextView1, self.jobTextView2, self.stateTextView1, self.stateTextView2, self.tableView1, self.tableView2]
+        for component in components {
+            component?.backgroundColor = defaultColor
+        }
+        
+        // Initial setup for search bars & table views
         self.searchBar1.delegate = self
         self.searchBar2.delegate = self
         self.tableView1.delegate = self
@@ -70,7 +86,7 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
         }
     }
     
-    // Implement standard `TableView` methods, dispatching based on `tableView1` vs. `tableView2`
+    // # of rows in table view = number of jobs in filtered list
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         if tableView == tableView1 {
             return filteredList1.count
@@ -79,6 +95,7 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
         }
     }
     
+    // For a given cell, display the appropriate title from the correct filtered job list
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         if tableView == tableView1 {
             let cell = tableView1.dequeueReusableCell(withIdentifier: "JobIncomeCell", for: indexPath)
@@ -91,19 +108,45 @@ class _2State2JobInput3a: UIViewController, UISearchBarDelegate, UITableViewDele
         }
     }
     
-    // When a row is selected, update the `selectedJob{1, 2}` variable ...
-    // ... and display the selected job on screen
+    // Have each table view cell set to the default background color
+    func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
+        cell.contentView.backgroundColor = defaultColor
+    }
+    
+    // When a new job is selected, (1) highlight the selected cell and
+    // (2) update the `selectedJob{1, 2}` variable & and display the job on screen
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if tableView == tableView1 {
+            // (1)
+            let cell = self.tableView1.cellForRow(at: indexPath)
+            cell?.contentView.backgroundColor = selectedColor
+            
+            // (2)
             selectedJob1 = filteredList1[indexPath.row]
             let jobFontSize = Globals.singleton.maxFontSize(s: selectedJob1.title, maxChars: 30, defaultSize: 24)
             jobTextView1.text = "\(selectedJob1.title)"
             jobTextView1.font = jobTextView1.font?.withSize(CGFloat(jobFontSize))
         } else {
+            // (1)
+            let cell = self.tableView2.cellForRow(at: indexPath)
+            cell?.contentView.backgroundColor = selectedColor
+            
+            // (2)
             selectedJob2 = filteredList2[indexPath.row]
             let jobFontSize = Globals.singleton.maxFontSize(s: selectedJob2.title, maxChars: 30, defaultSize: 24)
             jobTextView2.text = "\(selectedJob2.title)"
             jobTextView2.font = jobTextView2.font?.withSize(CGFloat(jobFontSize))
+        }
+    }
+    
+    // If a cell is de-selected, have it return to the default background color
+    func tableView(_ tableView: UITableView, didDeselectRowAt indexPath: IndexPath) {
+        if tableView == tableView1 {
+            let cell = self.tableView1.cellForRow(at: indexPath)
+            cell?.contentView.backgroundColor = defaultColor
+        } else {
+            let cell = self.tableView2.cellForRow(at: indexPath)
+            cell?.contentView.backgroundColor = defaultColor
         }
     }
     

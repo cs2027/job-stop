@@ -17,14 +17,27 @@ class SingleJobOutputB: UIViewController {
     @IBOutlet var projectedJobsTextView: UITextView!
     @IBOutlet var growthTextView: UITextView!
     
+    // Background color & highlighted color for selected cells
+    let defaultColor = Globals.singleton.defaultColor
+    let selectedColor = Globals.singleton.selectedColor
+    
     // Variables to store state name & job projection data
     var stateName: String!
     var selectedJob: JobProjectionData!
     var currentJobsParsed: String!
     var projectedJobsParsed: String!
     
+    // Called once view loads
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Set background color for entire view & constituent components
+        self.view.backgroundColor = defaultColor
+       
+        let components = [self.stateTextView, self.jobTextView, self.currentJobsTextView, self.projectedJobsTextView, self.growthTextView]
+        for component in components {
+            component?.backgroundColor = defaultColor
+        }
         
         // Format the current & projected number of jobs nicely with commas
         let numberFormatter = NumberFormatter()

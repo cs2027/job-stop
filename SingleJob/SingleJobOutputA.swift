@@ -18,6 +18,10 @@ class SingleJobOutputA: UIViewController {
     @IBOutlet var newSearchButton: UIButton!
     @IBOutlet var costOfLivingButton: UIButton!
     
+    // Background color & highlighted color for selected cells
+    let defaultColor = Globals.singleton.defaultColor
+    let selectedColor = Globals.singleton.selectedColor
+    
     // Variables to store state name & job income data
     var stateName: String!
     var stateCostOfLiving: Double!
@@ -27,8 +31,17 @@ class SingleJobOutputA: UIViewController {
     var adjustedHourlyParsed: String!
     var adjustedForCOL = false
     
+    // Called once view loads
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Set background color for entire view & constituent components
+        self.view.backgroundColor = defaultColor
+        
+        let components = [self.stateTextView, self.jobTextView, self.annualIncomeTextView, self.hourlyIncomeTextView]
+        for component in components {
+            component?.backgroundColor = defaultColor
+        }
         
         // Format annual incomes nicely with commas, correct # of decimals
         let numberFormatter = NumberFormatter()

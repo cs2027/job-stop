@@ -12,9 +12,14 @@ import SwiftUI
 // View where users searches for a job in the selected state
 class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelegate, UITableViewDataSource {
     // Outlets connecting to various storyboard UI elements
+    @IBOutlet var headerTextView: UITextView!
     @IBOutlet var jobTextView: UITextView!
     @IBOutlet var searchBar: UISearchBar!
     @IBOutlet var tableView: UITableView!
+    
+    // Background color & highlighted color for selected cells
+    let defaultColor = Globals.singleton.defaultColor
+    let selectedColor = Globals.singleton.selectedColor
     
     // Variables for state filename and job selected from table view
     var stateFilename: String!
@@ -25,11 +30,22 @@ class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelega
     var jobList: [JobProjectionData] = []
     var jobListFiltered: [JobProjectionData] = []
     
+    // Called once view loads
     override func viewDidLoad() {
         super.viewDidLoad()
         
         jobTextView.text = "<Job Title Goes Here>"
         
+        // Set background color for entire view & constituent components
+        self.view.backgroundColor = defaultColor
+        self.searchBar.searchBarStyle = UISearchBar.Style.minimal
+        
+        let components = [self.headerTextView, self.jobTextView, self.tableView]
+        for component in components {
+            component?.backgroundColor = defaultColor
+        }
+        
+        // Initial setup for search bar & table view
         self.searchBar.delegate = self
         self.tableView.delegate = self
         self.tableView.dataSource = self
@@ -48,25 +64,41 @@ class SingleJobInput3b: UIViewController, UISearchBarDelegate, UITableViewDelega
         self.tableView.reloadData()
     }
     
-    // Implement necessary methods for TableView object
+    // # of rows in table view = number of jobs in filtered list
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return jobListFiltered.count
     }
     
+    // For a given cell, display the appropriate title from the filtered job list
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "JobProjectionCell", for: indexPath)
         cell.textLabel?.text = jobListFiltered[indexPath.row].title
         return cell
     }
     
-    // When a new job is selected, update the `selectedJob` variable and ...
-    // ... display the selected job on screen
+    // Have each table view cell set to the default background color
+    func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
+        cell.contentView.backgroundColor = defaultColor
+    }
+    
+    // When a new job is selected, (1) highlight the selected cell and
+    // (2) update the `selectedJob` variable & display the selected job on screen
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        selectedJob = jobListFiltered[indexPath.row]
+        // (1)
+        let cell = self.tableView.cellForRow(at: indexPath)
+        cell?.contentView.backgroundColor = selectedColor
         
+        // (2)
+        selectedJob = jobListFiltered[indexPath.row]
         let jobFontSize = Globals.singleton.maxFontSize(s: selectedJob.title, maxChars: 30, defaultSize: 24)
         jobTextView.text = selectedJob.title
         jobTextView.font = jobTextView.font?.withSize(CGFloat(jobFontSize))
+    }
+    
+    // If a cell is de-selected, have it return to the default background color
+    func tableView(_ tableView: UITableView, didDeselectRowAt indexPath: IndexPath) {
+        let cell = self.tableView.cellForRow(at: indexPath)
+        cell?.contentView.backgroundColor = defaultColor
     }
     
     // Send data about selected state & job to the next view

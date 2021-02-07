@@ -13,13 +13,17 @@ class _1State2JobOutputB: UIViewController {
     // Outlets connecting to various `TextView` objects
     @IBOutlet var stateTextView: UITextView!
     @IBOutlet var jobTextView1: UITextView!
-    @IBOutlet var currentTextView1: UITextView!
-    @IBOutlet var projectedTextView1: UITextView!
-    @IBOutlet var growthTextView1: UITextView!
     @IBOutlet var jobTextView2: UITextView!
+    @IBOutlet var currentTextView1: UITextView!
     @IBOutlet var currentTextView2: UITextView!
+    @IBOutlet var projectedTextView1: UITextView!
     @IBOutlet var projectedTextView2: UITextView!
+    @IBOutlet var growthTextView1: UITextView!
     @IBOutlet var growthTextView2: UITextView!
+    
+    // Background color & highlighted color for selected cells
+    let defaultColor = Globals.singleton.defaultColor
+    let selectedColor = Globals.singleton.selectedColor
     
     // Variables to store state name & job income data
     var stateName: String!
@@ -30,8 +34,17 @@ class _1State2JobOutputB: UIViewController {
     var currentJobs2: String!
     var projectedJobs2: String!
     
+    // Called once view loads
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Set background color for entire view & constituent components
+        self.view.backgroundColor = defaultColor
+        
+        let components = [self.stateTextView, self.jobTextView1, self.jobTextView2, self.currentTextView1, self.currentTextView2, self.projectedTextView1, self.projectedTextView2,  self.growthTextView1, self.growthTextView2]
+        for component in components {
+            component?.backgroundColor = defaultColor
+        }
         
         // Format the current & projected number of jobs nicely with commas
         let numberFormatter = NumberFormatter()

@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 // Holds common variables and functions used by multiple classes
 class Globals {
@@ -15,14 +16,18 @@ class Globals {
     
     // Global list of all states
     var stateList = [
-        "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
-        "District of Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana",
+        "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", 
+        "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana",
         "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
         "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
         "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma",
         "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas",
         "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
     ]
+    
+    // Colors to use throughout app (default background color, highlighted cell color when selected)
+    var defaultColor = UIColor(red: CGFloat(175.0 / 255.0), green: CGFloat(225.0 / 255.0), blue: CGFloat(175.0 / 255.0), alpha: 1)
+    var selectedColor = UIColor(red: CGFloat(175.0 / 255.0), green: CGFloat(225.0 / 255.0), blue: CGFloat(175.0 / 255.0), alpha: 0.5)
     
     // Loads income data for all jobs associated with a given state
     func loadIncomeData(stateFilename: String!) -> [JobIncomeData] {
@@ -53,7 +58,7 @@ class Globals {
                 break
             }
             
-            if !(row.contains(stateFilename.capitalized.replacingOccurrences(of: "_", with: " "))) {
+            if !(row.lowercased().contains(stateFilename.replacingOccurrences(of: "_", with: " "))) {
                 break
             }
             
@@ -124,7 +129,7 @@ class Globals {
                 break
             }
             
-            if !(row.contains(stateFilename.capitalized.replacingOccurrences(of: "_", with: " "))) {
+            if !(row.lowercased().contains(stateFilename.replacingOccurrences(of: "_", with: " "))) {
                 break
             }
             
