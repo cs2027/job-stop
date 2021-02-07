@@ -10,17 +10,23 @@ import UIKit
 
 // View where users selects whether to compare income data or job growth projections
 class _2State2JobInput2: UIViewController {
-    // Variables to hold: (1) state filenames, (2) textView label,
-    // (3) background color
+    // Variables to hold: (1) state filename, (2) background color,
+    // (3) various storyboard outlets
     var stateFilename1: String! // (1)
     var stateFilename2: String!
-    @IBOutlet var textView: UITextView! // (2)
-    let defaultColor = Globals.singleton.defaultColor // (3)
+    let defaultColor = Globals.singleton.defaultColor // (2)
+    @IBOutlet var textView: UITextView! // (3)
+    @IBOutlet var incomeImageView: UIImageView!
+    @IBOutlet var growthImageView: UIImageView!
     
-    // Once the view loads, set its backround color
+    // Once the view loads, (1) display some pre-loaded images &
+    // (2) set its background color
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.view.backgroundColor = defaultColor
+        
+        incomeImageView.image = UIImage(named: "income") // (1)
+        growthImageView.image = UIImage(named: "growth")
+        self.view.backgroundColor = defaultColor // (2)
         self.textView.backgroundColor = defaultColor
     }
     

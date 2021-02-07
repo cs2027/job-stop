@@ -16,16 +16,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Welcome to JobStop! Click on an option below to get started. " textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oo8-VR-qsO">
-                                <rect key="frame" x="20" y="147" width="374" height="145"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="34"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SUk-9q-B07">
-                                <rect key="frame" x="34" y="392" width="349" height="34"/>
+                                <rect key="frame" x="45" y="528" width="349" height="34"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <state key="normal" title="Income Data &amp; Job Projections (Single Job)"/>
@@ -34,7 +26,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="09R-Uv-qsa">
-                                <rect key="frame" x="59" y="630" width="298" height="34"/>
+                                <rect key="frame" x="70" y="718" width="298" height="34"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <state key="normal" title="Compare Two Jobs (Different States)"/>
@@ -43,7 +35,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0MI-g9-j9H">
-                                <rect key="frame" x="76" y="507" width="265" height="34"/>
+                                <rect key="frame" x="87" y="624" width="265" height="34"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <state key="normal" title="Compare Two Jobs (Same State)"/>
@@ -51,12 +43,25 @@
                                     <segue destination="82K-4s-4Rf" kind="show" identifier="1State2JobInput" id="XQ9-7U-iaW"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="PIc-k9-EpX">
+                                <rect key="frame" x="45" y="330" width="323" height="151"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Welcome to JobStop! Click on an option below to get started. " textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oo8-VR-qsO">
+                                <rect key="frame" x="20" y="150" width="374" height="145"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="34"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" title="JobStop" id="QX4-ry-74D"/>
                     <connections>
+                        <outlet property="imageView" destination="PIc-k9-EpX" id="5qS-en-Zis"/>
                         <outlet property="textView" destination="oo8-VR-qsO" id="BXX-QD-Gfk"/>
                     </connections>
                 </viewController>
@@ -338,7 +343,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="View:" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dhm-2B-mdo">
-                                <rect key="frame" x="119" y="257" width="180" height="59"/>
+                                <rect key="frame" x="116" y="179" width="180" height="59"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <color key="textColor" systemColor="labelColor"/>
@@ -346,7 +351,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zdc-b5-5hS">
-                                <rect key="frame" x="157" y="408" width="100" height="41"/>
+                                <rect key="frame" x="20" y="266" width="100" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Incomes?"/>
@@ -355,7 +360,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K03-5g-cp1">
-                                <rect key="frame" x="116" y="502" width="183" height="41"/>
+                                <rect key="frame" x="211" y="519" width="183" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Growth Potential?"/>
@@ -363,12 +368,22 @@
                                     <segue destination="lK3-w2-Sov" kind="show" identifier="SingleJobInput3b" id="OBt-fS-Zxh"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="JYb-e8-Ug6">
+                                <rect key="frame" x="116" y="336" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Oez-aQ-DwC">
+                                <rect key="frame" x="56" y="608" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="qUK-Tw-daX"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="N1a-co-rOU"/>
                     <connections>
+                        <outlet property="growthImageView" destination="Oez-aQ-DwC" id="Fe9-rf-rP1"/>
+                        <outlet property="incomeImageView" destination="JYb-e8-Ug6" id="sdF-33-7m4"/>
                         <outlet property="textView" destination="Dhm-2B-mdo" id="bhS-vn-KEm"/>
                     </connections>
                 </viewController>
@@ -765,37 +780,47 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Compare:" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="l03-4Q-3IN">
-                                <rect key="frame" x="119" y="261" width="180" height="51"/>
+                                <rect key="frame" x="119" y="171" width="180" height="51"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="36"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WGL-ef-Hx3">
-                                <rect key="frame" x="157" y="412" width="100" height="41"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Hj-eQ-ZOk">
+                                <rect key="frame" x="22" y="261" width="100" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Incomes?"/>
                                 <connections>
-                                    <segue destination="qhx-vI-9cz" kind="show" identifier="2State2JobInput3a" id="3RJ-ZV-on8"/>
+                                    <segue destination="qhx-vI-9cz" kind="show" identifier="2State2JobInput3a" id="o86-66-HiC"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8y6-Zf-6yK">
-                                <rect key="frame" x="116" y="506" width="183" height="41"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Ek-fF-FhA">
+                                <rect key="frame" x="213" y="514" width="183" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Growth Potential?"/>
                                 <connections>
-                                    <segue destination="e43-8z-V1B" kind="show" identifier="2State2JobInput3b" id="NGg-cv-fcD"/>
+                                    <segue destination="e43-8z-V1B" kind="show" identifier="2State2JobInput3b" id="ZPC-Nn-KTV"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hKc-Ps-u9L">
+                                <rect key="frame" x="118" y="331" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Y5X-y9-VHM">
+                                <rect key="frame" x="58" y="603" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Hfe-tv-8Vh"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="ATd-Wo-wx2"/>
                     <connections>
+                        <outlet property="growthImageView" destination="Y5X-y9-VHM" id="ziP-Sr-2gh"/>
+                        <outlet property="incomeImageView" destination="hKc-Ps-u9L" id="w82-I2-xPY"/>
                         <outlet property="textView" destination="l03-4Q-3IN" id="e1j-s9-XKw"/>
                     </connections>
                 </viewController>
@@ -1224,37 +1249,47 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Compare:" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L6h-Wl-AlB">
-                                <rect key="frame" x="119" y="278" width="180" height="51"/>
+                                <rect key="frame" x="119" y="200" width="180" height="51"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="36"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6iV-6f-UoO">
-                                <rect key="frame" x="157" y="429" width="100" height="41"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oFb-7E-iyQ">
+                                <rect key="frame" x="22" y="278" width="100" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Incomes?"/>
                                 <connections>
-                                    <segue destination="dGR-Hx-eWg" kind="show" identifier="1State2JobInput3a" id="5fm-6c-ARF"/>
+                                    <segue destination="dGR-Hx-eWg" kind="show" identifier="1State2JobInput3a" id="F3L-eM-90u"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hZ0-0z-Pqp">
-                                <rect key="frame" x="116" y="523" width="183" height="41"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2C6-ll-7Xg">
+                                <rect key="frame" x="213" y="531" width="183" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="Growth Potential?"/>
                                 <connections>
-                                    <segue destination="tug-OR-ZUD" kind="show" identifier="1State2JobInput3b" id="xDa-rB-XLG"/>
+                                    <segue destination="tug-OR-ZUD" kind="show" identifier="1State2JobInput3b" id="56h-vv-J7R"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kji-OH-51i">
+                                <rect key="frame" x="118" y="348" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ky7-7f-XIg">
+                                <rect key="frame" x="58" y="620" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="qe7-2G-2XN"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="JNk-LV-wmu"/>
                     <connections>
+                        <outlet property="growthImageView" destination="ky7-7f-XIg" id="Rzj-Y6-Wkf"/>
+                        <outlet property="incomeImageView" destination="kji-OH-51i" id="JLk-69-YEb"/>
                         <outlet property="textView" destination="L6h-Wl-AlB" id="TNA-3a-ldf"/>
                     </connections>
                 </viewController>
@@ -1548,6 +1583,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="F3L-eM-90u"/>
         <segue reference="ubL-vb-J8s"/>
     </inferredMetricsTieBreakers>
     <resources>
