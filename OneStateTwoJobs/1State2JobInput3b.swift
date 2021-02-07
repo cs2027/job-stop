@@ -70,11 +70,9 @@ class _1State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         if searchBar == searchBar1 {
             filteredList1 = Globals.singleton.searchProjections(jobList: jobList, searchText: searchText)
-            
             self.tableView1.reloadData()
         } else {
             filteredList2 = Globals.singleton.searchProjections(jobList: jobList, searchText: searchText)
-            
             self.tableView2.reloadData()
         }
     }
@@ -141,6 +139,18 @@ class _1State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
             let cell = self.tableView2.cellForRow(at: indexPath)
             cell?.contentView.backgroundColor = defaultColor
         }
+    }
+    
+    // Error catching to make sure user has selected valid inputs
+    override func shouldPerformSegue(withIdentifier identifier: String, sender: Any?) -> Bool {
+        if identifier == "1State2JobOutputB" {
+            if selectedJob1 == nil || selectedJob2 == nil || selectedJob1.equals(other: selectedJob2) {
+                Globals.singleton.displayErrorMessage(message: "You must select two distinct jobs.", vc: self)
+                return false
+            }
+            return true
+        }
+        return false
     }
     
     // Send data about selected state & jobs to the next view

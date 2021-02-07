@@ -27,8 +27,8 @@ class _2State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
     // Variables to hold state filenames & jobs selected for comparison
     var stateFilename1: String!
     var stateFilename2: String!
-    var selectedJob1: JobProjectionData!
-    var selectedJob2: JobProjectionData!
+    var selectedJob1: JobProjectionData! = nil
+    var selectedJob2: JobProjectionData! = nil
     
     // List of all jobs in both states, filtered list of jobs in both states (based on search bar queries)
     var jobList1: [JobProjectionData] = []
@@ -77,11 +77,9 @@ class _2State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         if searchBar == searchBar1 {
             filteredList1 = Globals.singleton.searchProjections(jobList: jobList1, searchText: searchText)
-            
             self.tableView1.reloadData()
         } else {
             filteredList2 = Globals.singleton.searchProjections(jobList: jobList2, searchText: searchText)
-            
             self.tableView2.reloadData()
         }
     }
@@ -148,6 +146,18 @@ class _2State2JobInput3b: UIViewController, UISearchBarDelegate, UITableViewDele
             let cell = self.tableView2.cellForRow(at: indexPath)
             cell?.contentView.backgroundColor = defaultColor
         }
+    }
+    
+    // Error catching to make sure user has selected valid inputs
+    override func shouldPerformSegue(withIdentifier identifier: String, sender: Any?) -> Bool {
+        if identifier == "2State2JobOutputB" {
+            if selectedJob1 == nil || selectedJob2 == nil {
+                Globals.singleton.displayErrorMessage(message: "You must select two valid jobs.", vc: self)
+                return false
+            }
+            return true
+        }
+        return false
     }
     
     // Send data about selected states & jobs to the next view

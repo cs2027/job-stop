@@ -22,7 +22,7 @@ class _1State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     
     // Variables to store: (1) state filename, (2) list of all states,
     // and (3) list of filtered states (by search bar query)
-    var stateFilename: String! // (1)
+    var stateFilename: String! = nil // (1)
     let stateList = Globals.singleton.stateList // (2)
     var stateListFiltered: [String] = [] // (3)
     
@@ -53,7 +53,6 @@ class _1State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     // Implement search bar functionality
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         stateListFiltered = Globals.singleton.searchStates(stateList: stateList, searchText: searchText)
-        
         self.tableView.reloadData()
     }
     
@@ -87,6 +86,18 @@ class _1State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     func tableView(_ tableView: UITableView, didDeselectRowAt indexPath: IndexPath) {
         let cell = self.tableView.cellForRow(at: indexPath)
         cell?.contentView.backgroundColor = defaultColor
+    }
+    
+    // Error catching to make sure user has selected valid inputs
+    override func shouldPerformSegue(withIdentifier identifier: String, sender: Any?) -> Bool {
+        if identifier == "1State2JobInput2" {
+            if stateFilename == nil {
+                Globals.singleton.displayErrorMessage(message: "You must select a state.", vc: self)
+                return false
+            }
+            return true
+        }
+        return false
     }
     
     // Pass the selected state filename via the segue to the next view

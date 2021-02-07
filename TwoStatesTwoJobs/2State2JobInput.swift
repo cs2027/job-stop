@@ -25,8 +25,8 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     
     // Variables to store: (1) state filenames, (2) list of all states,
     // (3) list of filtered states (by search bar query)
-    var stateFilename1: String! // (1)
-    var stateFilename2: String!
+    var stateFilename1: String! = nil // (1)
+    var stateFilename2: String! = nil
     let stateList = Globals.singleton.stateList // (2)
     var stateListFiltered1: [String] = [] // (3)
     var stateListFiltered2: [String] = []
@@ -65,11 +65,9 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         if searchBar == searchBar1 {
             stateListFiltered1 = Globals.singleton.searchStates(stateList: stateList, searchText: searchText)
-            
             self.tableView1.reloadData()
         } else {
             stateListFiltered2 = Globals.singleton.searchStates(stateList: stateList, searchText: searchText)
-            
             self.tableView2.reloadData()
         }
     }
@@ -132,6 +130,18 @@ class _2State2JobInput: UIViewController, UISearchBarDelegate, UITableViewDelega
             let cell = self.tableView2.cellForRow(at: indexPath)
             cell?.contentView.backgroundColor = defaultColor
         }
+    }
+    
+    // Error catching to make sure user has selected valid inputs
+    override func shouldPerformSegue(withIdentifier identifier: String, sender: Any?) -> Bool {
+        if identifier == "2State2JobInput2" {
+            if stateFilename1 == nil || stateFilename2 == nil || stateFilename1 == stateFilename2 {
+                Globals.singleton.displayErrorMessage(message: "You must select two distinct states.", vc: self)
+                return false
+            }
+            return true
+        }
+        return false
     }
     
     // Pass data regarding the two selected states to the next view

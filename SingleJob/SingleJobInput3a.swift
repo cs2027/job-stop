@@ -23,7 +23,7 @@ class SingleJobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelega
     
     // Variables for state filename and job selected from table view
     var stateFilename: String!
-    var selectedJob: JobIncomeData!
+    var selectedJob: JobIncomeData! = nil
     
     // Variables to hold list of all jobs in selected states and ...
     // ... filtered job list from search bar
@@ -60,7 +60,6 @@ class SingleJobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelega
     // Implement search bar functionality
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         jobListFiltered = Globals.singleton.searchIncomes(jobList: jobList, searchText: searchText)
-        
         self.tableView.reloadData()
     }
     
@@ -99,6 +98,18 @@ class SingleJobInput3a: UIViewController, UISearchBarDelegate, UITableViewDelega
     func tableView(_ tableView: UITableView, didDeselectRowAt indexPath: IndexPath) {
         let cell = self.tableView.cellForRow(at: indexPath)
         cell?.contentView.backgroundColor = defaultColor
+    }
+    
+    // Error catching to make sure user has selected valid inputs
+    override func shouldPerformSegue(withIdentifier identifier: String, sender: Any?) -> Bool {
+        if identifier == "SingleJobOutputA" {
+            if selectedJob == nil {
+                Globals.singleton.displayErrorMessage(message: "You must select a job.", vc: self)
+                return false
+            }
+            return true
+        }
+        return false
     }
     
     // Send data about selected state & job to the next view

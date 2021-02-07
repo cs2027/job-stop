@@ -320,4 +320,14 @@ class Globals {
             return Int((maxChars * defaultSize) / stringLen)
         }
     }
+    
+    // Display an error message by using a dismissable alert message
+    func displayErrorMessage(message: String, vc: UIViewController) {
+        let alert = UIAlertController(title: "Error Message", message: message, preferredStyle: .alert)
+
+        alert.addAction(UIAlertAction(title: "Ok", style: .default, handler: nil))
+        alert.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
+
+        vc.present(alert, animated: true)
+    }
 }
