@@ -1,0 +1,748 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+North Carolina,All Occupations,4462800,0.3,1000,1,23.34,48550,0.4
+North Carolina,Management Occupations,205900,0.9,46.137,0.84,58.91,122540,0.5
+North Carolina,Chief Executives,3490,4.2,0.783,0.56,99.23,206390,1.8
+North Carolina,General and Operations Managers,57480,1.6,12.88,0.79,61.73,128390,0.8
+North Carolina,Advertising and Promotions Managers,230,14.5,0.053,0.31,60.01,124830,5.6
+North Carolina,Marketing Managers,7130,3.6,1.598,0.89,69.59,144750,1
+North Carolina,Sales Managers,7640,3.9,1.713,0.62,68.93,143380,1.7
+North Carolina,Public Relations and Fundraising Managers,1450,4.4,0.326,0.6,59.72,124210,2.2
+North Carolina,Administrative Services and Facilities Managers,5180,2.4,1.161,0.56,51.71,107560,0.9
+North Carolina,Computer and Information Systems Managers,14010,2.3,3.138,1.06,68.23,141910,0.9
+North Carolina,Financial Managers,16680,1.9,3.738,0.84,72.18,150140,1.6
+North Carolina,Industrial Production Managers,5900,2.4,1.323,1.05,54.24,112820,1
+North Carolina,Purchasing Managers,2360,3.2,0.53,1.08,57.43,119450,0.9
+North Carolina,"Transportation, Storage, and Distribution Managers",2720,3.1,0.609,0.68,51.86,107860,1.3
+North Carolina,Compensation and Benefits Managers,530,4.2,0.119,1.03,59.79,124360,3.3
+North Carolina,Human Resources Managers,3840,2.4,0.861,0.82,60.74,126350,1
+North Carolina,Training and Development Managers,1080,7.5,0.242,0.92,58.7,122100,1.6
+North Carolina,"Farmers, Ranchers, and Other Agricultural Managers",50,20.8,0.01,0.3,42.42,88230,4.9
+North Carolina,Construction Managers,13500,3.7,3.025,1.51,53.48,111250,1.4
+North Carolina,"Education and Childcare Administrators, Preschool and Daycare",1690,8.5,0.378,1.06,21.79,45330,2.2
+North Carolina,"Education Administrators, Kindergarten through Secondary",8390,3.4,1.881,1.02,*,74410,1.1
+North Carolina,"Education Administrators, Postsecondary",4870,3.2,1.092,1.11,53.07,110380,2.2
+North Carolina,"Education Administrators, All Other",1310,4.9,0.294,0.97,39.47,82100,2.8
+North Carolina,Architectural and Engineering Managers,4620,3.9,1.035,0.78,68.51,142490,0.9
+North Carolina,Food Service Managers,5730,6.4,1.284,0.8,29.55,61450,2
+North Carolina,Gambling Managers,40,44.7,0.01,0.32,43.83,91170,3.6
+North Carolina,Lodging Managers,410,16.6,0.091,0.35,42.39,88170,4.5
+North Carolina,Medical and Health Services Managers,10000,1.9,2.241,0.83,56.74,118020,1.6
+North Carolina,Natural Sciences Managers,3390,8.7,0.759,1.65,75.6,157250,2.4
+North Carolina,Postmasters and Mail Superintendents,480,0,0.108,1.14,38.53,80150,0.5
+North Carolina,"Property, Real Estate, and Community Association Managers",6410,6.4,1.436,0.96,33.27,69200,5.6
+North Carolina,Social and Community Service Managers,2660,4.7,0.596,0.56,33.79,70280,1.5
+North Carolina,Emergency Management Directors,210,6.9,0.048,0.7,34.59,71950,1.6
+North Carolina,Funeral Home Managers,230,15.6,0.051,0.8,46.19,96080,9.5
+North Carolina,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",12160,2.4,2.724,0.85,59.11,122940,1
+North Carolina,Business and Financial Operations Occupations,232620,0.9,52.124,0.94,36.62,76170,0.7
+North Carolina,"Agents and Business Managers of Artists, Performers, and Athletes",380,19.9,0.084,0.72,43.81,91120,21.3
+North Carolina,Buyers and Purchasing Agents,12700,3.1,2.846,0.99,30.47,63380,1.5
+North Carolina,"Claims Adjusters, Examiners, and Investigators",8720,4,1.955,1,30.54,63530,1.1
+North Carolina,"Insurance Appraisers, Auto Damage",250,17.5,0.056,0.6,31.36,65220,2.7
+North Carolina,Compliance Officers,7550,3.2,1.693,0.78,32.58,67760,1.2
+North Carolina,Cost Estimators,6360,4.9,1.426,1,30.73,63930,1.4
+North Carolina,Human Resources Specialists,19070,2.3,4.273,0.99,31.71,65970,1.1
+North Carolina,Labor Relations Specialists,840,6.5,0.188,0.36,30.89,64250,7.6
+North Carolina,Logisticians,4800,4,1.076,0.87,36.12,75130,2.1
+North Carolina,Management Analysts,17600,3.4,3.944,0.82,47.13,98020,2.2
+North Carolina,"Meeting, Convention, and Event Planners",3220,6.2,0.722,0.9,23.17,48200,2.9
+North Carolina,Fundraisers,2090,5.5,0.468,0.84,27.79,57790,1.8
+North Carolina,"Compensation, Benefits, and Job Analysis Specialists",2250,5.3,0.503,0.83,32.9,68430,2.3
+North Carolina,Training and Development Specialists,9480,3.4,2.124,1,30.95,64380,1.3
+North Carolina,Market Research Analysts and Marketing Specialists,18430,2.8,4.129,0.89,34.17,71070,1.2
+North Carolina,"Project Management Specialists and Business Operations Specialists, All Other",34530,1.6,7.738,0.89,37.38,77750,1.1
+North Carolina,Accountants and Auditors,33750,2.7,7.561,0.87,37.74,78500,1
+North Carolina,Property Appraisers and Assessors,1800,14,0.404,1.05,28.89,60100,8.8
+North Carolina,Budget Analysts,1180,2.4,0.264,0.75,35.63,74110,1
+North Carolina,Credit Analysts,2530,3.7,0.566,1.12,41.9,87150,3.6
+North Carolina,Personal Financial Advisors,7690,8.6,1.723,1.2,63.14,131340,4.8
+North Carolina,Insurance Underwriters,2700,7.2,0.605,0.89,36.75,76440,2.2
+North Carolina,Financial Examiners,4310,2.9,0.967,2.2,35.29,73400,6.6
+North Carolina,Credit Counselors,570,16.5,0.128,0.59,27.4,56990,6.3
+North Carolina,Loan Officers,13680,4.1,3.065,1.46,36.33,75570,2.2
+North Carolina,"Tax Examiners and Collectors, and Revenue Agents",**,**,**,**,29.54,61440,1
+North Carolina,Tax Preparers,1880,14.6,0.422,0.93,19.19,39920,11.3
+North Carolina,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",13070,3.4,2.928,0.94,42.18,87730,1.6
+North Carolina,Computer and Mathematical Occupations,143990,1.9,32.265,1.04,43.11,89660,0.9
+North Carolina,Computer Systems Analysts,26050,3,5.837,1.46,45.35,94330,1.2
+North Carolina,Information Security Analysts,6020,14.3,1.35,1.58,48.62,101130,2
+North Carolina,Computer and Information Research Scientists,180,45.1,0.041,0.19,44.8,93180,5.2
+North Carolina,Computer Network Support Specialists,6110,7.4,1.369,1.08,33.28,69220,2.6
+North Carolina,Computer User Support Specialists,22440,3.2,5.028,1.14,25.28,52590,0.9
+North Carolina,Computer Network Architects,4520,5.4,1.013,0.98,52.11,108390,1.5
+North Carolina,Network and Computer Systems Administrators,11460,3.6,2.567,1.06,41.31,85920,1.3
+North Carolina,Database Administrators and Architects,3800,5,0.85,1,47.11,97990,1.3
+North Carolina,Computer Programmers,5360,4.8,1.2,0.88,45.53,94700,1.9
+North Carolina,Software Developers and Software Quality Assurance Analysts and Testers,42020,2.8,9.415,0.98,50.51,105060,1.1
+North Carolina,Web Developers and Digital Interface Designers,3950,6.9,0.884,0.88,35.98,74840,2.9
+North Carolina,"Computer Occupations, All Other",5810,4.8,1.302,0.49,42.36,88100,1.3
+North Carolina,Actuaries,**,**,**,**,64.56,134280,4.6
+North Carolina,Operations Research Analysts,2810,4.2,0.63,0.93,42.98,89390,1.4
+North Carolina,Statisticians,1640,7.6,0.368,1.38,49.68,103330,2
+North Carolina,"Data Scientists and Mathematical Science Occupations, All Other",1190,11.8,0.266,1.27,57.49,119580,3.1
+North Carolina,Architecture and Engineering Occupations,68290,2.3,15.303,0.87,38.28,79620,0.7
+North Carolina,"Architects, Except Landscape and Naval",2450,10.8,0.549,0.76,39.43,82010,2.9
+North Carolina,Landscape Architects,610,17,0.137,0.99,37.39,77770,4.1
+North Carolina,Cartographers and Photogrammetrists,770,17.2,0.172,2.23,29.02,60350,4.2
+North Carolina,Surveyors,1150,7.1,0.257,0.83,33.21,69070,3.4
+North Carolina,Aerospace Engineers,530,15.7,0.118,0.27,44.76,93110,1.4
+North Carolina,Bioengineers and Biomedical Engineers,430,19.5,0.096,0.71,42.59,88590,3.5
+North Carolina,Chemical Engineers,920,12.1,0.206,1,50.05,104100,2.9
+North Carolina,Civil Engineers,10520,4.8,2.357,1.11,42.54,88470,1.2
+North Carolina,Computer Hardware Engineers,1500,12.1,0.336,0.73,53.12,110480,4
+North Carolina,Electrical Engineers,4830,6.6,1.083,0.86,47.44,98680,2
+North Carolina,"Electronics Engineers, Except Computer",2930,17.3,0.656,0.75,47.98,99800,3.3
+North Carolina,Environmental Engineers,1280,8.8,0.287,0.79,42.08,87530,3.4
+North Carolina,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",570,12.6,0.128,0.73,40.42,84080,1.9
+North Carolina,Industrial Engineers,9340,3.2,2.093,1.05,41.46,86240,0.9
+North Carolina,Marine Engineers and Naval Architects,30,37.6,0.008,0.1,39.09,81310,3.4
+North Carolina,Materials Engineers,420,10.9,0.093,0.51,48.6,101080,8.3
+North Carolina,Mechanical Engineers,8970,4.7,2.011,0.96,41.47,86260,1.2
+North Carolina,"Engineers, All Other",1590,10.9,0.357,0.34,41.85,87040,3.3
+North Carolina,Architectural and Civil Drafters,2440,9.4,0.546,0.81,26.61,55350,1.5
+North Carolina,Electrical and Electronics Drafters,600,17.2,0.135,0.82,24.1,50120,5.2
+North Carolina,Mechanical Drafters,1490,8.1,0.335,0.89,29.06,60440,4.8
+North Carolina,"Drafters, All Other",160,13.7,0.036,0.37,25.35,52720,7.7
+North Carolina,Civil Engineering Technologists and Technicians,3010,5.7,0.675,1.44,24.66,51300,1.3
+North Carolina,Electrical and Electronic Engineering Technologists and Technicians,2030,11,0.455,0.54,29.96,62310,2.6
+North Carolina,Electro-Mechanical and Mechatronics Technologists and Technicians,100,15.2,0.023,0.24,28.22,58700,5
+North Carolina,Environmental Engineering Technologists and Technicians,100,26.9,0.022,0.18,24.85,51700,4.8
+North Carolina,Industrial Engineering Technologists and Technicians,2800,5.8,0.628,1.37,24.89,51780,1.3
+North Carolina,Mechanical Engineering Technologists and Technicians,1250,16.8,0.28,0.96,26.59,55300,1.8
+North Carolina,Surveying and Mapping Technicians,3430,6.8,0.769,2.13,21.94,45640,2.2
+North Carolina,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1430,14.8,0.32,0.53,32.95,68540,1.5
+North Carolina,"Life, Physical, and Social Science Occupations",39530,2.4,8.857,1.01,34.31,71360,1.7
+North Carolina,Animal Scientists,140,9.8,0.031,1.71,*,*,*
+North Carolina,Food Scientists and Technologists,180,11.6,0.04,0.44,28.94,60190,10.1
+North Carolina,Soil and Plant Scientists,710,14,0.159,1.65,29.13,60590,5.9
+North Carolina,Biochemists and Biophysicists,570,34.6,0.128,0.6,43.71,90910,3.2
+North Carolina,Microbiologists,370,10.4,0.084,0.67,33.29,69250,3
+North Carolina,Zoologists and Wildlife Biologists,430,6.7,0.097,0.74,29.41,61170,1.3
+North Carolina,"Biological Scientists, All Other",1270,14.3,0.285,1.04,42.59,88590,3.2
+North Carolina,Conservation Scientists,330,4.1,0.075,0.5,31.26,65020,1.7
+North Carolina,Foresters,350,17.7,0.077,1.19,31.49,65510,2.6
+North Carolina,Epidemiologists,80,13.1,0.018,0.35,35.45,73740,5.6
+North Carolina,"Medical Scientists, Except Epidemiologists",5130,7.9,1.15,1.33,47.06,97890,3.3
+North Carolina,"Life Scientists, All Other",180,14,0.04,0.92,48.29,100440,3.8
+North Carolina,Physicists,310,16,0.069,0.61,67.62,140650,2.9
+North Carolina,Atmospheric and Space Scientists,140,15.2,0.031,0.5,39.32,81790,2.5
+North Carolina,Chemists,3990,11,0.895,1.57,38.42,79920,2.7
+North Carolina,Materials Scientists,150,5.8,0.033,0.71,53.79,111890,6.3
+North Carolina,"Environmental Scientists and Specialists, Including Health",3840,5.6,0.861,1.5,31.43,65380,1.8
+North Carolina,"Geoscientists, Except Hydrologists and Geographers",390,29.3,0.087,0.44,34.73,72240,2.2
+North Carolina,Hydrologists,160,7.3,0.037,0.84,35.19,73180,2.3
+North Carolina,"Physical Scientists, All Other",530,4,0.119,1,45.61,94870,6
+North Carolina,Economists,120,9.7,0.027,0.21,38.98,81080,3.1
+North Carolina,Survey Researchers,150,21.9,0.034,0.5,34.65,72070,6.1
+North Carolina,"Clinical, Counseling, and School Psychologists",3040,5.1,0.682,0.88,38.78,80670,3.8
+North Carolina,"Psychologists, All Other",410,3.8,0.092,0.95,42.73,88880,4.1
+North Carolina,Sociologists,40,4.3,0.009,0.49,53.25,110770,5.5
+North Carolina,Urban and Regional Planners,1490,5,0.334,1.27,31.76,66060,1.6
+North Carolina,Anthropologists and Archeologists,100,21.7,0.023,0.49,30.82,64110,5.2
+North Carolina,Historians,70,28.2,0.015,0.72,31.8,66140,4.7
+North Carolina,"Social Scientists and Related Workers, All Other",1220,2.2,0.274,1.19,35.21,73240,4.6
+North Carolina,Agricultural and Food Science Technicians,480,7.1,0.109,0.73,21.23,44160,2.7
+North Carolina,Biological Technicians,2360,13.6,0.529,0.98,21.68,45090,2.7
+North Carolina,Chemical Technicians,1720,6,0.385,0.86,24.84,51660,3.7
+North Carolina,"Environmental Science and Protection Technicians, Including Health",1010,10.5,0.226,1.02,21.16,44010,2.2
+North Carolina,Geological and Hydrologic Technicians,120,7.7,0.027,0.23,22.12,46010,2.1
+North Carolina,Social Science Research Assistants,2220,1.9,0.498,2.06,23.21,48280,2.5
+North Carolina,Forest and Conservation Technicians,640,2.5,0.143,1.11,19.67,40920,0.7
+North Carolina,Forensic Science Technicians,440,4.6,0.099,0.88,23.15,48150,1.9
+North Carolina,"Life, Physical, and Social Science Technicians, All Other",1100,18.6,0.245,0.56,25.79,53650,2.7
+North Carolina,Occupational Health and Safety Specialists,2580,3.3,0.578,0.91,33.9,70510,1
+North Carolina,Occupational Health and Safety Technicians,380,9.8,0.086,0.61,27.2,56580,2.9
+North Carolina,Community and Social Service Occupations,55520,2.4,12.44,0.81,22.53,46850,1
+North Carolina,"Educational, Guidance, and Career Counselors and Advisors",6890,3.1,1.545,0.77,25.17,52360,1.2
+North Carolina,Marriage and Family Therapists,400,25.5,0.09,0.22,21.01,43700,4.5
+North Carolina,Rehabilitation Counselors,2690,9.2,0.603,0.81,18.99,39490,2.9
+North Carolina,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",8950,4.4,2.005,1.04,23.73,49350,1.3
+North Carolina,"Counselors, All Other",170,14.1,0.039,0.22,21.18,44060,2.1
+North Carolina,"Child, Family, and School Social Workers",12380,4,2.775,1.24,23.21,48280,1.4
+North Carolina,Healthcare Social Workers,3160,4.5,0.707,0.59,26.28,54660,1.2
+North Carolina,Mental Health and Substance Abuse Social Workers,2390,13.7,0.536,0.67,25.29,52600,1.7
+North Carolina,"Social Workers, All Other",990,1.1,0.223,0.56,27.61,57420,1.1
+North Carolina,Health Education Specialists,1010,6.1,0.226,0.57,27.56,57330,2.6
+North Carolina,Probation Officers and Correctional Treatment Specialists,3160,1.1,0.708,1.18,21.6,44920,0.6
+North Carolina,Social and Human Service Assistants,7600,6.9,1.702,0.62,16.23,33750,3.5
+North Carolina,Community Health Workers,860,10.6,0.192,0.48,18.34,38160,2.3
+North Carolina,"Community and Social Service Specialists, All Other",3290,3.5,0.738,1.11,21.46,44630,2.4
+North Carolina,Clergy,1120,6.8,0.252,0.7,23.52,48930,1.9
+North Carolina,"Directors, Religious Activities and Education",130,11,0.03,0.2,40.29,83790,3.7
+North Carolina,"Religious Workers, All Other",310,42,0.07,1.09,18.21,37870,4.2
+North Carolina,Legal Occupations,26290,2.2,5.89,0.75,44.72,93010,3.1
+North Carolina,Lawyers,13620,3.3,3.051,0.68,64.08,133290,3.5
+North Carolina,"Administrative Law Judges, Adjudicators, and Hearing Officers",200,0,0.045,0.46,47.98,99800,1.2
+North Carolina,"Arbitrators, Mediators, and Conciliators",160,19.5,0.037,0.89,25.02,52040,2.9
+North Carolina,Paralegals and Legal Assistants,10950,4.3,2.453,1.09,22.77,47370,2
+North Carolina,"Title Examiners, Abstractors, and Searchers",580,19.4,0.131,0.36,24.95,51900,4.9
+North Carolina,"Legal Support Workers, All Other",750,3.8,0.167,0.55,32.94,68520,2.2
+North Carolina,Educational Instruction and Library Occupations,278130,0.8,62.321,1.03,24.57,51100,3.8
+North Carolina,"Business Teachers, Postsecondary",3510,2.4,0.787,1.38,*,89010,3.5
+North Carolina,"Computer Science Teachers, Postsecondary",1560,1.7,0.35,1.61,*,74010,2.1
+North Carolina,"Mathematical Science Teachers, Postsecondary",1760,2.6,0.393,1.13,*,76010,3
+North Carolina,"Architecture Teachers, Postsecondary",210,0,0.047,1.02,*,63440,2.2
+North Carolina,"Engineering Teachers, Postsecondary",1400,1.5,0.313,1.27,*,91260,3.9
+North Carolina,"Agricultural Sciences Teachers, Postsecondary",760,0.9,0.17,2.63,*,51710,3.6
+North Carolina,"Biological Science Teachers, Postsecondary",1880,1.9,0.422,1.17,*,77970,3.3
+North Carolina,"Forestry and Conservation Science Teachers, Postsecondary",90,0,0.019,1.59,*,67020,2.2
+North Carolina,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",350,3.5,0.078,1.04,*,89770,2.4
+North Carolina,"Chemistry Teachers, Postsecondary",940,3.8,0.211,1.45,*,83540,4.4
+North Carolina,"Environmental Science Teachers, Postsecondary",120,5.9,0.026,0.64,*,69370,2.8
+North Carolina,"Physics Teachers, Postsecondary",410,1.8,0.092,0.98,*,86680,1.8
+North Carolina,"Anthropology and Archeology Teachers, Postsecondary",230,7.2,0.052,1.3,*,87510,2.3
+North Carolina,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",230,0.6,0.051,0.71,*,85030,2
+North Carolina,"Economics Teachers, Postsecondary",560,4,0.126,1.4,*,106200,6.1
+North Carolina,"Geography Teachers, Postsecondary",110,2.4,0.025,0.92,*,83960,2.8
+North Carolina,"Political Science Teachers, Postsecondary",390,5.2,0.087,0.82,*,91160,5.8
+North Carolina,"Psychology Teachers, Postsecondary",970,3.3,0.218,0.85,*,80080,2.6
+North Carolina,"Sociology Teachers, Postsecondary",460,1.9,0.104,1.1,*,80730,4.5
+North Carolina,"Social Sciences Teachers, Postsecondary, All Other",710,2.6,0.16,1.4,*,80790,6.4
+North Carolina,"Health Specialties Teachers, Postsecondary",11770,1.1,2.638,1.92,*,140740,8.2
+North Carolina,"Nursing Instructors and Teachers, Postsecondary",2230,4.3,0.499,1.23,*,70300,1.5
+North Carolina,"Education Teachers, Postsecondary",2420,2.4,0.543,1.3,*,68740,1.7
+North Carolina,"Library Science Teachers, Postsecondary",110,4.3,0.026,0.86,*,74890,2.9
+North Carolina,"Criminal Justice and Law Enforcement Teachers, Postsecondary",1560,2,0.35,3.66,*,61080,1
+North Carolina,"Law Teachers, Postsecondary",380,3.8,0.085,0.77,*,141040,9
+North Carolina,"Social Work Teachers, Postsecondary",550,5.9,0.123,1.33,*,70820,3
+North Carolina,"Art, Drama, and Music Teachers, Postsecondary",2770,3.4,0.621,0.97,*,70680,1.7
+North Carolina,"Communications Teachers, Postsecondary",930,5.8,0.208,1.05,*,67620,1.9
+North Carolina,"English Language and Literature Teachers, Postsecondary",2540,3.3,0.57,1.23,*,66220,1.8
+North Carolina,"Foreign Language and Literature Teachers, Postsecondary",740,3.3,0.165,0.97,*,66200,1.4
+North Carolina,"History Teachers, Postsecondary",720,3.9,0.161,1.13,*,74230,2.4
+North Carolina,"Philosophy and Religion Teachers, Postsecondary",690,2.4,0.155,0.97,*,80640,2.8
+North Carolina,"Recreation and Fitness Studies Teachers, Postsecondary",960,2,0.215,1.99,*,66010,1.5
+North Carolina,"Career/Technical Education Teachers, Postsecondary",7750,2.9,1.737,2.27,27.01,56190,1.3
+North Carolina,"Postsecondary Teachers, All Other",4450,1.5,0.997,0.73,*,74500,5.2
+North Carolina,"Preschool Teachers, Except Special Education",15350,5.2,3.439,1.17,13.62,28320,1.6
+North Carolina,"Kindergarten Teachers, Except Special Education",3890,7.9,0.873,1.03,*,48700,1.5
+North Carolina,"Elementary School Teachers, Except Special Education",42520,4.1,9.528,0.98,*,48560,0.9
+North Carolina,"Middle School Teachers, Except Special and Career/Technical Education",18770,8.7,4.206,0.99,*,49620,1.2
+North Carolina,"Career/Technical Education Teachers, Middle School",1130,11.8,0.253,3.13,*,52500,2
+North Carolina,"Secondary School Teachers, Except Special and Career/Technical Education",24030,6.4,5.385,0.76,*,49930,0.9
+North Carolina,"Career/Technical Education Teachers, Secondary School",4490,9.4,1.006,1.98,*,52710,1.5
+North Carolina,"Special Education Teachers, Preschool",580,14.4,0.13,0.86,*,53170,4.5
+North Carolina,"Special Education Teachers, Kindergarten and Elementary School",6570,6.2,1.471,1.11,*,50610,1.9
+North Carolina,"Special Education Teachers, Middle School",2630,9.3,0.59,1.01,*,51100,2.1
+North Carolina,"Special Education Teachers, Secondary School",3830,6.4,0.858,0.88,*,51700,1.2
+North Carolina,"Special Education Teachers, All Other",130,28,0.028,0.12,*,44630,2.9
+North Carolina,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",3600,4.5,0.807,2.28,23.53,48940,2.2
+North Carolina,Self-Enrichment Teachers,8230,5.3,1.843,1.07,16.61,34560,3
+North Carolina,"Substitute Teachers, Short-Term",20830,6.2,4.667,1.17,11.57,24060,1.1
+North Carolina,"Tutors and Teachers and Instructors, All Other",7260,6.6,1.627,0.75,*,45070,3.2
+North Carolina,Archivists,110,3.3,0.024,0.54,26.01,54110,2.3
+North Carolina,Curators,540,3.9,0.121,1.38,24.26,50450,1.7
+North Carolina,Museum Technicians and Conservators,280,7.9,0.063,0.7,16.47,34250,2.1
+North Carolina,Librarians and Media Collections Specialists,4530,4.2,1.016,1.1,27.35,56890,1.5
+North Carolina,Library Technicians,2210,4.1,0.495,0.82,17.23,35840,1.5
+North Carolina,Farm and Home Management Educators,110,10.1,0.025,0.43,18.56,38610,3
+North Carolina,Instructional Coordinators,4900,5.1,1.099,0.91,28.08,58400,1.4
+North Carolina,"Teaching Assistants, Postsecondary",2200,0.6,0.494,0.53,*,34800,2.3
+North Carolina,"Teaching Assistants, Except Postsecondary",30750,3.1,6.89,0.75,*,24780,0.7
+North Carolina,"Educational Instruction and Library Workers, All Other",11400,1.7,2.555,2.91,26.97,56110,3.7
+North Carolina,"Arts, Design, Entertainment, Sports, and Media Occupations",44330,2.4,9.932,0.72,26.41,54930,1.8
+North Carolina,Art Directors,480,16,0.108,0.37,45.52,94680,2.6
+North Carolina,Craft Artists,130,30.8,0.03,0.95,19.57,40700,8.1
+North Carolina,"Fine Artists, Including Painters, Sculptors, and Illustrators",190,12.8,0.042,0.5,18.58,38650,9.3
+North Carolina,Special Effects Artists and Animators,450,15.7,0.101,0.51,34.67,72110,2.4
+North Carolina,"Artists and Related Workers, All Other",40,6.3,0.008,0.16,29.47,61300,2.9
+North Carolina,Commercial and Industrial Designers,870,11.2,0.196,0.88,41.2,85700,4.6
+North Carolina,Fashion Designers,140,17.8,0.031,0.2,34.57,71900,4.9
+North Carolina,Floral Designers,1060,8.1,0.238,0.84,14.39,29930,3
+North Carolina,Graphic Designers,6470,4.2,1.449,0.99,25.15,52320,1.9
+North Carolina,Interior Designers,1380,9.5,0.31,0.75,26.27,54640,3.2
+North Carolina,Merchandise Displayers and Window Trimmers,3410,18.4,0.764,0.8,16.48,34290,3.6
+North Carolina,Set and Exhibit Designers,130,32.7,0.03,0.36,27.76,57740,6.4
+North Carolina,"Designers, All Other",130,29.1,0.029,0.41,19.79,41170,5.6
+North Carolina,Actors,150,22.1,0.033,0.09,33.81,*,20.4
+North Carolina,Producers and Directors,2760,6.2,0.617,0.7,30.67,63790,5.4
+North Carolina,Athletes and Sports Competitors,350,26.5,0.08,1.03,*,111210,26.3
+North Carolina,Coaches and Scouts,6130,5.2,1.374,0.84,*,47890,4.4
+North Carolina,"Umpires, Referees, and Other Sports Officials",320,15.9,0.073,0.53,*,33160,4.7
+North Carolina,Dancers,140,5.5,0.032,0.49,16.67,*,7.1
+North Carolina,Music Directors and Composers,60,14.8,0.014,0.19,24.54,51050,9.4
+North Carolina,Musicians and Singers,490,42.7,0.109,0.39,42.95,*,17.2
+North Carolina,"Miscellaneous Entertainers and Performers, Sports and Related Workers",280,13.5,0.062,0.58,16.63,*,6.8
+North Carolina,Broadcast Announcers and Radio Disc Jockeys,1030,15.1,0.232,1.16,22.64,47080,8.9
+North Carolina,"News Analysts, Reporters, and Journalists",930,7.4,0.208,0.69,21.84,45420,4.6
+North Carolina,Public Relations Specialists,5000,3.4,1.12,0.67,31.54,65590,1.7
+North Carolina,Editors,2130,10.1,0.477,0.73,31.96,66480,9.8
+North Carolina,Technical Writers,1640,11,0.366,1.06,37.31,77600,2.7
+North Carolina,Writers and Authors,1000,10.7,0.224,0.72,32.48,67560,4.5
+North Carolina,Interpreters and Translators,2280,12.6,0.51,1.27,27.91,58040,11.9
+North Carolina,Court Reporters and Simultaneous Captioners,140,15.8,0.031,0.31,27.19,56550,4.9
+North Carolina,"Media and Communication Workers, All Other",360,16.5,0.081,0.47,18.69,38880,5.2
+North Carolina,Audio and Video Technicians,1100,11.2,0.245,0.49,22.07,45900,4.6
+North Carolina,Broadcast Technicians,550,15.3,0.124,0.63,19.33,40200,3.8
+North Carolina,Sound Engineering Technicians,180,17.5,0.04,0.46,*,*,*
+North Carolina,Photographers,1470,6.1,0.33,0.96,16.73,34790,4
+North Carolina,"Camera Operators, Television, Video, and Film",260,18.6,0.058,0.4,24.9,51800,5.7
+North Carolina,Film and Video Editors,370,20.9,0.082,0.44,*,*,*
+North Carolina,"Lighting Technicians and Media and Communication Equipment Workers, All Other",290,10.2,0.065,0.41,30.25,62920,4.1
+North Carolina,Healthcare Practitioners and Technical Occupations,276020,0.7,61.85,1.05,36.7,76330,0.8
+North Carolina,Chiropractors,880,12.9,0.198,0.83,46.35,96410,12.4
+North Carolina,"Dentists, General",3440,5.7,0.77,1.02,92.27,191920,4.8
+North Carolina,Oral and Maxillofacial Surgeons,**,**,**,**,135.07,280940,16.6
+North Carolina,Orthodontists,150,42.3,0.033,0.8,126.46,263040,14.7
+North Carolina,"Dentists, All Other Specialists",90,17.6,0.021,0.58,79.32,164990,13
+North Carolina,Dietitians and Nutritionists,2160,5,0.484,1.05,27.32,56830,1.2
+North Carolina,Optometrists,1020,9.1,0.228,0.85,66.44,138200,6.4
+North Carolina,Pharmacists,10020,4.5,2.245,1.06,59.4,123560,1.7
+North Carolina,Physician Assistants,5440,4.1,1.219,1.49,52.03,108210,1
+North Carolina,Podiatrists,200,12.3,0.044,0.66,83.29,173240,8.6
+North Carolina,Occupational Therapists,3530,5.1,0.791,0.87,39.65,82480,1.6
+North Carolina,Physical Therapists,6310,4.9,1.415,0.89,42.32,88020,1
+North Carolina,Radiation Therapists,590,9.9,0.132,1.08,38.06,79160,1.1
+North Carolina,Recreational Therapists,410,6.4,0.091,0.7,22.75,47310,1
+North Carolina,Respiratory Therapists,4240,2.4,0.95,1.06,27.74,57700,0.6
+North Carolina,Speech-Language Pathologists,4450,4.8,0.996,0.95,36.01,74910,2.1
+North Carolina,Exercise Physiologists,280,6.1,0.062,1.24,22.47,46740,1.6
+North Carolina,"Therapists, All Other",160,10.5,0.037,0.44,26.24,54570,5.2
+North Carolina,Veterinarians,2910,4.5,0.652,1.28,54.3,112930,6.4
+North Carolina,Registered Nurses,99960,0.9,22.397,1.1,31.94,66440,0.6
+North Carolina,Nurse Anesthetists,3190,4.5,0.714,2.41,90.89,189060,3
+North Carolina,Nurse Midwives,180,12,0.04,0.86,48.43,100730,2.6
+North Carolina,Nurse Practitioners,5540,5.7,1.241,0.91,50.91,105890,1.2
+North Carolina,Audiologists,450,19.4,0.1,1.08,34.46,71670,3.2
+North Carolina,Anesthesiologists,670,29.4,0.149,0.71,132.02,274610,12.4
+North Carolina,Family Medicine Physicians,1270,8.4,0.285,0.38,104.66,217690,3.7
+North Carolina,General Internal Medicine Physicians,280,22.4,0.063,0.21,123.08,256000,8.3
+North Carolina,Obstetricians and Gynecologists,400,20.2,0.09,0.71,115.89,241050,7
+North Carolina,"Pediatricians, General",800,18.9,0.179,0.88,83.54,173760,6.4
+North Carolina,Psychiatrists,430,9.1,0.097,0.56,88.04,183130,4.7
+North Carolina,"Physicians, All Other; and Ophthalmologists, Except Pediatric",14080,2.8,3.156,1.19,89.08,185290,4.8
+North Carolina,"Surgeons, Except Ophthalmologists",600,16.6,0.135,0.55,131.84,274240,6.1
+North Carolina,Dental Hygienists,7090,4.7,1.588,1.05,34.01,70750,1.6
+North Carolina,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",890,8,0.2,0.8,45.58,94810,2.4
+North Carolina,Clinical Laboratory Technologists and Technicians,12030,2.2,2.696,1.21,24.8,51590,1.1
+North Carolina,Cardiovascular Technologists and Technicians,1090,1.6,0.244,0.64,31.68,65890,0.7
+North Carolina,Diagnostic Medical Sonographers,2330,3.9,0.522,1.05,33.53,69740,0.8
+North Carolina,Nuclear Medicine Technologists,540,4.1,0.12,0.97,33.66,70020,1.1
+North Carolina,Radiologic Technologists and Technicians,7180,2.5,1.609,1.14,27.99,58220,0.7
+North Carolina,Magnetic Resonance Imaging Technologists,920,3.4,0.207,0.8,33.28,69220,0.6
+North Carolina,Emergency Medical Technicians and Paramedics,10680,3.4,2.394,1.35,18.4,38270,1.2
+North Carolina,Dietetic Technicians,270,10,0.06,0.3,13.98,29090,2.9
+North Carolina,Pharmacy Technicians,13560,4.4,3.039,1.07,15.67,32600,1.1
+North Carolina,Psychiatric Technicians,**,**,**,**,16.09,33470,1.2
+North Carolina,Surgical Technologists,3450,5.6,0.773,1.04,21.26,44230,1.2
+North Carolina,Veterinary Technologists and Technicians,3600,11.5,0.807,1.07,16.6,34520,1.6
+North Carolina,Ophthalmic Medical Technicians,2590,10.7,0.58,1.45,17.67,36740,2
+North Carolina,Licensed Practical and Licensed Vocational Nurses,16910,2.8,3.79,0.8,22.06,45880,0.5
+North Carolina,"Opticians, Dispensing",1730,9.8,0.387,0.79,21.15,43990,2.1
+North Carolina,Orthotists and Prosthetists,350,20.7,0.08,1.19,34.8,72380,4.1
+North Carolina,Hearing Aid Specialists,230,32.1,0.051,0.91,28.57,59420,5.8
+North Carolina,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",11860,1.7,2.657,1.18,19.62,40810,1.1
+North Carolina,Athletic Trainers,950,9.7,0.212,1.09,*,48400,1.9
+North Carolina,Genetic Counselors,130,19.1,0.028,1.75,35.35,73530,1.4
+North Carolina,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",750,8.6,0.169,0.46,25.67,53400,4.1
+North Carolina,Healthcare Support Occupations,177750,1.2,39.83,0.9,13.64,28370,0.7
+North Carolina,Home Health and Personal Care Aides,62310,2.8,13.962,0.65,10.57,21990,0.7
+North Carolina,Nursing Assistants,56780,2.1,12.724,1.32,12.76,26540,0.7
+North Carolina,Orderlies,960,0.8,0.215,0.67,13.49,28060,1.2
+North Carolina,Psychiatric Aides,**,**,**,**,15.46,32150,2.4
+North Carolina,Occupational Therapy Assistants,1390,6.8,0.312,1.02,30.79,64050,1.4
+North Carolina,Occupational Therapy Aides,90,7.3,0.021,0.41,14.69,30560,2.5
+North Carolina,Physical Therapist Assistants,2820,4.8,0.632,0.96,29.57,61500,0.9
+North Carolina,Physical Therapist Aides,790,7.9,0.176,0.53,13.26,27580,1.6
+North Carolina,Massage Therapists,2980,10.9,0.667,0.91,21.01,43700,4.1
+North Carolina,Dental Assistants,9510,3.8,2.13,0.89,20.57,42790,1.3
+North Carolina,Medical Assistants,19640,3.3,4.4,0.91,16.05,33380,0.8
+North Carolina,Medical Equipment Preparers,2040,6.7,0.457,1.18,15.91,33100,0.9
+North Carolina,Medical Transcriptionists,1340,28.4,0.301,0.79,14.53,30220,6.8
+North Carolina,Pharmacy Aides,270,31.8,0.06,0.24,12.62,26240,6
+North Carolina,Veterinary Assistants and Laboratory Animal Caretakers,4290,14.2,0.96,1.45,14.06,29230,2.5
+North Carolina,Phlebotomists,5960,4.5,1.335,1.53,16.01,33300,0.9
+North Carolina,"Healthcare Support Workers, All Other",3650,4.2,0.817,1.29,16.54,34400,1.7
+North Carolina,Protective Service Occupations,99810,1.8,22.365,0.94,19.92,41430,1.7
+North Carolina,First-Line Supervisors of Correctional Officers,1290,2.2,0.29,0.92,27.22,56620,1.5
+North Carolina,First-Line Supervisors of Police and Detectives,4720,3.4,1.058,1.28,33.44,69560,1.9
+North Carolina,First-Line Supervisors of Firefighting and Prevention Workers,2580,4.8,0.577,1.22,28.51,59290,2.4
+North Carolina,"Miscellaneous First-Line Supervisors, Protective Service Workers",2010,3,0.45,0.8,25.44,52920,4.6
+North Carolina,Firefighters,15200,3.5,3.406,1.54,16.4,34110,2.8
+North Carolina,Fire Inspectors and Investigators,450,5.8,0.101,1.08,26.22,54530,2.9
+North Carolina,Bailiffs,180,8.5,0.04,0.3,17.4,36200,2.4
+North Carolina,Correctional Officers and Jailers,15450,2.2,3.463,1.2,19.26,40060,1.2
+North Carolina,Detectives and Criminal Investigators,2820,2.5,0.632,0.88,29.75,61880,4
+North Carolina,Fish and Game Wardens,210,1.4,0.047,1.01,24.1,50120,0.7
+North Carolina,Parking Enforcement Workers,60,11.8,0.013,0.25,15.11,31440,3.5
+North Carolina,Police and Sheriff's Patrol Officers,21750,2.1,4.874,1.08,22.76,47340,2.1
+North Carolina,Animal Control Workers,410,5.8,0.091,1.12,17.07,35510,1.3
+North Carolina,Private Detectives and Investigators,680,12.2,0.153,0.64,25.26,52530,4.4
+North Carolina,Gambling Surveillance Officers and Gambling Investigators,**,**,**,**,19.44,40430,13.3
+North Carolina,Security Guards,23400,5.5,5.244,0.68,16.24,33780,3.1
+North Carolina,Crossing Guards and Flaggers,1030,8.8,0.23,0.4,11.87,24690,2
+North Carolina,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",4120,8.3,0.923,0.94,9.81,20400,1.1
+North Carolina,Transportation Security Screeners,1150,0.2,0.257,0.81,18.86,39220,1.7
+North Carolina,"School Bus Monitors and Protective Service Workers, All Other",2020,8.5,0.452,0.45,19.51,40590,3
+North Carolina,Food Preparation and Serving Related Occupations,429910,0.8,96.332,1.05,11.35,23620,0.6
+North Carolina,Chefs and Head Cooks,2600,9,0.583,0.67,25.21,52430,2.4
+North Carolina,First-Line Supervisors of Food Preparation and Serving Workers,37850,2.5,8.482,1.23,16.91,35160,1.1
+North Carolina,"Cooks, Fast Food",22720,10.5,5.092,1.42,9.83,20450,2
+North Carolina,"Cooks, Institution and Cafeteria",10960,4.3,2.457,0.9,12.56,26120,0.8
+North Carolina,"Cooks, Restaurant",50070,3.6,11.218,1.18,12.62,26260,1.5
+North Carolina,"Cooks, Short Order",2930,22.4,0.657,0.63,11.14,23160,3.7
+North Carolina,"Cooks, All Other",210,14.7,0.048,0.36,13.45,27980,5.3
+North Carolina,Food Preparation Workers,20270,4.8,4.542,0.77,11.39,23690,1
+North Carolina,Bartenders,13670,6.8,3.062,0.7,12.75,26530,2.7
+North Carolina,Fast Food and Counter Workers,136970,3,30.691,1.13,9.8,20390,0.6
+North Carolina,Waiters and Waitresses,82340,2.5,18.449,1.05,10.93,22740,1.7
+North Carolina,"Food Servers, Nonrestaurant",8320,5.8,1.864,0.99,10.73,22310,1.3
+North Carolina,Dining Room and Cafeteria Attendants and Bartender Helpers,8680,10.7,1.944,0.6,10.1,21010,1.9
+North Carolina,Dishwashers,13340,5.3,2.989,0.85,10.07,20940,1
+North Carolina,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",17500,7.9,3.921,1.36,9.76,20310,1.6
+North Carolina,"Food Preparation and Serving Related Workers, All Other",1480,15,0.332,0.68,11.57,24070,3.5
+North Carolina,Building and Grounds Cleaning and Maintenance Occupations,133740,1.2,29.969,0.99,13.11,27270,0.8
+North Carolina,First-Line Supervisors of Housekeeping and Janitorial Workers,4910,4,1.1,1.04,19.54,40640,2
+North Carolina,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3360,8.6,0.753,1.07,26.29,54690,2.5
+North Carolina,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",54770,3.2,12.273,0.84,11.98,24920,1.2
+North Carolina,Maids and Housekeeping Cleaners,32530,4.8,7.288,1.15,11.06,23010,1.3
+North Carolina,"Building Cleaning Workers, All Other",**,**,**,**,14.04,29190,10.1
+North Carolina,Pest Control Workers,3640,4.8,0.815,1.51,16.77,34870,2.8
+North Carolina,Landscaping and Groundskeeping Workers,31430,2.9,7.042,1.13,14.09,29310,0.9
+North Carolina,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",610,45.7,0.137,0.78,13.23,27520,15.3
+North Carolina,Tree Trimmers and Pruners,1710,15.6,0.384,1.19,17.3,35970,3.3
+North Carolina,"Grounds Maintenance Workers, All Other",70,37.7,0.015,0.15,20.96,43590,4.8
+North Carolina,Personal Care and Service Occupations,95430,1.7,21.384,0.95,13.35,27770,0.9
+North Carolina,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",6590,3.5,1.476,1,20.06,41720,1.1
+North Carolina,Animal Trainers,630,19.1,0.141,1.26,14.59,30340,4.7
+North Carolina,Animal Caretakers,7800,5.6,1.748,1.21,11.94,24840,1.6
+North Carolina,"Ushers, Lobby Attendants, and Ticket Takers",5530,12.9,1.239,1.32,9.6,19970,1.7
+North Carolina,Amusement and Recreation Attendants,17470,3.3,3.914,1.7,10.11,21040,0.9
+North Carolina,Costume Attendants,50,17.2,0.012,0.24,14.33,29800,6.2
+North Carolina,"Locker Room, Coatroom, and Dressing Room Attendants",120,9.9,0.027,0.24,11.96,24880,2.2
+North Carolina,Funeral Attendants,1540,9.9,0.346,1.48,13.17,27400,4.1
+North Carolina,"Morticians, Undertakers, and Funeral Arrangers",1040,10.6,0.232,1.34,26.91,55970,5
+North Carolina,Barbers,910,24.7,0.203,1.49,16.03,33340,6.2
+North Carolina,"Hairdressers, Hairstylists, and Cosmetologists",8850,6.6,1.982,0.75,13.81,28730,4
+North Carolina,Manicurists and Pedicurists,810,38.6,0.182,0.24,11.95,24850,7.3
+North Carolina,Shampooers,150,41.6,0.034,0.41,10.53,21910,4.9
+North Carolina,Skincare Specialists,1200,16.8,0.268,0.7,20.86,43390,9.4
+North Carolina,Baggage Porters and Bellhops,800,19.4,0.179,0.66,10.27,21360,2.2
+North Carolina,Concierges,520,12.6,0.117,0.41,13.75,28590,3.4
+North Carolina,Tour and Travel Guides,1140,9,0.255,0.77,13.08,27210,3.2
+North Carolina,Childcare Workers,19780,4.6,4.432,1.16,11.32,23550,1.4
+North Carolina,Exercise Trainers and Group Fitness Instructors,8910,5.3,1.997,0.9,18.56,38610,2.3
+North Carolina,Recreation Workers,7480,4,1.677,0.69,14.27,29680,2.3
+North Carolina,Residential Advisors,1940,7.7,0.435,0.59,15.66,32580,2.2
+North Carolina,"Crematory Operators and Personal Care and Service Workers, All Other",630,20.6,0.141,0.34,13.08,27210,4.5
+North Carolina,Sales and Related Occupations,479880,0.9,107.528,1.1,20.13,41870,1
+North Carolina,First-Line Supervisors of Retail Sales Workers,39720,2,8.899,1.12,22.77,47370,1.3
+North Carolina,First-Line Supervisors of Non-Retail Sales Workers,9290,3.1,2.081,1.23,48.49,100850,1.7
+North Carolina,Cashiers,126920,3,28.44,1.16,10.2,21220,0.6
+North Carolina,Counter and Rental Clerks,11090,4.8,2.486,0.89,13.92,28960,1.6
+North Carolina,Parts Salespersons,8570,5.5,1.92,1.1,15.73,32720,1.8
+North Carolina,Retail Salespersons,143830,2.2,32.23,1.1,13.2,27450,1.2
+North Carolina,Advertising Sales Agents,3850,9,0.862,0.98,30.58,63610,3.5
+North Carolina,Insurance Sales Agents,12920,3.8,2.895,1.04,31.12,64720,4.3
+North Carolina,"Securities, Commodities, and Financial Services Sales Agents",12730,4.9,2.852,0.96,41.69,86710,4
+North Carolina,Travel Agents,1260,9,0.282,0.62,20.46,42550,3.6
+North Carolina,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",35250,2.9,7.899,1.12,30.73,63930,1.7
+North Carolina,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",12040,6.3,2.699,1.29,51.19,106470,3.4
+North Carolina,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",44320,2.6,9.931,1.08,35.8,74460,2
+North Carolina,Demonstrators and Product Promoters,1780,12.1,0.398,0.75,15.5,32240,9.2
+North Carolina,Real Estate Brokers,2370,14.7,0.532,1.83,40.75,84770,12.7
+North Carolina,Real Estate Sales Agents,6860,6.1,1.538,1.39,24.12,50160,3.8
+North Carolina,Sales Engineers,1920,11.2,0.43,0.99,49.05,102020,3.9
+North Carolina,Telemarketers,2030,13.3,0.455,0.5,13.96,29040,2.8
+North Carolina,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",110,37.2,0.024,0.4,20.07,41750,14.2
+North Carolina,"Sales and Related Workers, All Other",2910,10.5,0.652,0.81,15.38,31990,2.9
+North Carolina,Office and Administrative Support Occupations,556600,0.6,124.72,0.94,18.49,38450,0.3
+North Carolina,First-Line Supervisors of Office and Administrative Support Workers,41690,1.2,9.341,0.92,26.68,55500,0.5
+North Carolina,"Switchboard Operators, Including Answering Service",1380,11.8,0.308,0.67,13.88,28860,1.2
+North Carolina,"Communications Equipment Operators, All Other",30,0,0.008,0.35,20.49,42620,2.1
+North Carolina,Bill and Account Collectors,7000,11,1.57,0.98,17.77,36960,1.7
+North Carolina,Billing and Posting Clerks,12740,2.9,2.854,0.9,18.11,37670,0.8
+North Carolina,"Bookkeeping, Accounting, and Auditing Clerks",47670,2,10.683,1.04,19.25,40040,0.7
+North Carolina,Payroll and Timekeeping Clerks,3910,5.9,0.875,0.9,21.15,44000,1.2
+North Carolina,Procurement Clerks,1320,4.6,0.295,0.66,19.37,40300,1.3
+North Carolina,Tellers,10850,4.4,2.43,0.81,16.13,33550,1
+North Carolina,"Financial Clerks, All Other",710,12.8,0.159,0.76,21.87,45480,4.6
+North Carolina,Brokerage Clerks,1760,7.4,0.394,1.21,25.25,52520,1.9
+North Carolina,"Court, Municipal, and License Clerks",4790,3.4,1.073,1.02,17.91,37240,1.1
+North Carolina,"Credit Authorizers, Checkers, and Clerks",540,10.7,0.122,0.67,20.02,41640,1.6
+North Carolina,Customer Service Representatives,88950,1.7,19.931,1,17.33,36050,0.8
+North Carolina,"Eligibility Interviewers, Government Programs",6810,4.6,1.526,1.6,18.9,39310,1.2
+North Carolina,File Clerks,1420,7.5,0.317,0.46,16.38,34080,1.4
+North Carolina,"Hotel, Motel, and Resort Desk Clerks",9230,4.6,2.069,1.13,10.75,22360,1.4
+North Carolina,"Interviewers, Except Eligibility and Loan",8440,6.3,1.891,1.47,15.95,33170,1
+North Carolina,"Library Assistants, Clerical",1760,4.5,0.395,0.68,12.74,26500,3
+North Carolina,Loan Interviewers and Clerks,6500,5.8,1.457,1.03,21.58,44880,1.5
+North Carolina,New Accounts Clerks,870,15,0.195,0.66,20.67,43000,3.9
+North Carolina,Order Clerks,2900,6.7,0.649,0.7,17.3,35990,2.6
+North Carolina,"Human Resources Assistants, Except Payroll and Timekeeping",3490,4.1,0.781,0.98,18.81,39120,0.6
+North Carolina,Receptionists and Information Clerks,39080,2,8.757,1.22,14.19,29510,0.7
+North Carolina,Reservation and Transportation Ticket Agents and Travel Clerks,2650,6.8,0.595,0.71,23.96,49830,3.5
+North Carolina,"Information and Record Clerks, All Other",4380,14.9,0.982,0.94,18.25,37960,3.7
+North Carolina,Cargo and Freight Agents,2790,6,0.624,0.96,21.95,45650,2.1
+North Carolina,Couriers and Messengers,1490,8.8,0.333,0.66,13.96,29030,1.2
+North Carolina,Public Safety Telecommunicators,3630,3.8,0.812,1.25,17.37,36130,1.2
+North Carolina,"Dispatchers, Except Police, Fire, and Ambulance",4390,5.7,0.983,0.72,19.66,40900,1.8
+North Carolina,"Meter Readers, Utilities",830,9.6,0.185,0.89,19.97,41540,2.4
+North Carolina,Postal Service Clerks,2180,0,0.489,0.88,25.13,52270,0.5
+North Carolina,Postal Service Mail Carriers,11300,0,2.531,1.09,24.9,51790,0.7
+North Carolina,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",2990,0,0.67,0.96,24.28,50500,1.5
+North Carolina,"Production, Planning, and Expediting Clerks",8140,2.4,1.824,0.72,22.65,47110,0.8
+North Carolina,"Shipping, Receiving, and Inventory Clerks",20740,2.4,4.648,0.97,16.2,33690,0.7
+North Carolina,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2070,4.4,0.463,1.12,16.4,34110,1.9
+North Carolina,Executive Secretaries and Executive Administrative Assistants,12510,2.4,2.804,0.76,28.03,58290,0.9
+North Carolina,Legal Secretaries and Administrative Assistants,2560,12.9,0.573,0.5,22.33,46450,4.8
+North Carolina,Medical Secretaries and Administrative Assistants,13060,3,2.927,0.71,16.72,34770,0.9
+North Carolina,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",53130,1.5,11.904,0.86,18.09,37620,0.4
+North Carolina,Data Entry Keyers,4630,4.7,1.037,0.95,15.73,32710,1.6
+North Carolina,Word Processors and Typists,190,9.5,0.042,0.13,19.48,40520,4.4
+North Carolina,Desktop Publishers,100,22.9,0.022,0.37,*,*,*
+North Carolina,Insurance Claims and Policy Processing Clerks,4950,7,1.11,0.63,21.48,44670,1.9
+North Carolina,"Mail Clerks and Mail Machine Operators, Except Postal Service",1380,6.8,0.308,0.54,14.44,30030,1.8
+North Carolina,"Office Clerks, General",84330,1.8,18.897,0.94,16.13,33560,0.5
+North Carolina,"Office Machine Operators, Except Computer",1350,13.6,0.303,0.97,15.78,32830,1.8
+North Carolina,Statistical Assistants,320,4.2,0.071,1.07,20.78,43230,2.4
+North Carolina,"Office and Administrative Support Workers, All Other",6610,4.1,1.48,1.15,19.73,41030,1
+North Carolina,"Farming, Fishing, and Forestry Occupations",7740,5.1,1.734,0.53,15.54,32320,2.1
+North Carolina,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",550,9.5,0.123,0.8,28.48,59240,5.8
+North Carolina,Agricultural Inspectors,300,0.8,0.068,0.73,21.12,43920,0.9
+North Carolina,"Graders and Sorters, Agricultural Products",1260,6,0.283,1.21,12.34,25670,2.4
+North Carolina,Agricultural Equipment Operators,490,10.8,0.11,0.6,13.13,27310,4.6
+North Carolina,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2680,12.5,0.601,0.3,12.24,25460,2
+North Carolina,"Farmworkers, Farm, Ranch, and Aquacultural Animals",640,23.8,0.144,0.58,12.11,25190,3.2
+North Carolina,"Agricultural Workers, All Other",50,12.2,0.011,0.24,20.43,42500,5.7
+North Carolina,Fallers,130,35.8,0.029,0.86,21.56,44840,5.7
+North Carolina,Logging Equipment Operators,1390,10,0.312,1.76,19.78,41150,2.9
+North Carolina,Log Graders and Scalers,180,23.4,0.04,1.78,17.61,36630,6.2
+North Carolina,"Logging Workers, All Other",50,49,0.01,0.4,17.15,35680,8
+North Carolina,Construction and Extraction Occupations,180690,1.2,40.489,0.96,20.41,42460,0.5
+North Carolina,First-Line Supervisors of Construction Trades and Extraction Workers,29260,2.2,6.557,1.54,29.72,61820,0.7
+North Carolina,Boilermakers,240,47,0.054,0.5,27.67,57560,5.5
+North Carolina,Brickmasons and Blockmasons,2540,7,0.569,1.38,19.18,39890,1.9
+North Carolina,Stonemasons,90,38.9,0.02,0.24,17.79,37010,10.7
+North Carolina,Carpenters,17880,4.5,4.006,0.8,18.49,38450,1.2
+North Carolina,Carpet Installers,340,28.9,0.077,0.43,17.27,35930,4.1
+North Carolina,"Floor Layers, Except Carpet, Wood, and Hard Tiles",740,36.7,0.165,1.49,15.74,32740,11.6
+North Carolina,Floor Sanders and Finishers,270,31.4,0.06,1.8,15.6,32450,4.5
+North Carolina,Tile and Stone Setters,800,15.3,0.179,0.65,20.68,43010,6.9
+North Carolina,Cement Masons and Concrete Finishers,4880,7,1.094,0.82,19.02,39560,1.7
+North Carolina,Construction Laborers,26110,3.5,5.851,0.84,15,31190,1.1
+North Carolina,"Paving, Surfacing, and Tamping Equipment Operators",1330,11.6,0.298,0.96,18.46,38390,2.3
+North Carolina,Pile Driver Operators,100,40,0.023,0.97,20.48,42590,7.6
+North Carolina,Operating Engineers and Other Construction Equipment Operators,13640,3.5,3.055,1.11,19.96,41510,1.1
+North Carolina,Drywall and Ceiling Tile Installers,2020,11.4,0.453,0.65,18.56,38600,1.9
+North Carolina,Electricians,19320,4.9,4.329,0.92,21.85,45460,1
+North Carolina,Glaziers,1550,16.4,0.347,0.97,17.54,36490,2.3
+North Carolina,"Insulation Workers, Floor, Ceiling, and Wall",1160,16.5,0.259,1.14,16.59,34510,4.5
+North Carolina,"Insulation Workers, Mechanical",1080,21.9,0.243,1.34,19.39,40340,2.5
+North Carolina,"Painters, Construction and Maintenance",3590,13.2,0.805,0.51,16.08,33460,1.4
+North Carolina,Paperhangers,180,28,0.041,1.78,17.85,37130,2
+North Carolina,Pipelayers,3160,6.3,0.708,2.87,16.95,35250,1.5
+North Carolina,"Plumbers, Pipefitters, and Steamfitters",12820,5.4,2.873,0.95,21.67,45070,1.5
+North Carolina,Plasterers and Stucco Masons,**,**,**,**,18.45,38370,12
+North Carolina,Reinforcing Iron and Rebar Workers,410,44.7,0.093,0.72,23.57,49030,4.8
+North Carolina,Roofers,3000,12,0.673,0.76,17.63,36670,2.1
+North Carolina,Sheet Metal Workers,3530,10.6,0.791,0.89,19.45,40450,2.8
+North Carolina,Structural Iron and Steel Workers,1570,14.1,0.352,0.67,20.69,43040,2.3
+North Carolina,Solar Photovoltaic Installers,670,6,0.15,1.98,17.71,36840,3.1
+North Carolina,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",970,12.2,0.217,1.36,14.63,30440,2
+North Carolina,Helpers--Carpenters,1300,14.2,0.291,1.3,14.19,29520,3.1
+North Carolina,Helpers--Electricians,5710,7.5,1.279,2.37,14.93,31050,1.4
+North Carolina,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",120,38.8,0.026,0.36,14.6,30370,5.9
+North Carolina,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",3790,13.5,0.849,2.13,14.12,29380,2.1
+North Carolina,Helpers--Roofers,380,40.2,0.084,1.38,14.13,29390,2.8
+North Carolina,"Helpers, Construction Trades, All Other",940,15.3,0.21,1.08,13.05,27150,6
+North Carolina,Construction and Building Inspectors,4720,8.1,1.058,1.41,27.25,56680,2.7
+North Carolina,Elevator and Escalator Installers and Repairers,160,32.4,0.036,0.19,27.33,56850,10.6
+North Carolina,Fence Erectors,440,24.9,0.099,0.56,19.16,39850,5.4
+North Carolina,Hazardous Materials Removal Workers,1440,8.4,0.323,1.07,14.86,30900,5.3
+North Carolina,Highway Maintenance Workers,3860,3,0.865,0.84,18.69,38880,0.8
+North Carolina,Rail-Track Laying and Maintenance Equipment Operators,100,23.8,0.022,0.2,24.52,51000,2.2
+North Carolina,Septic Tank Servicers and Sewer Pipe Cleaners,1160,14.5,0.26,1.28,16.79,34930,2.4
+North Carolina,Miscellaneous Construction and Related Workers,1080,12.9,0.242,1.11,18.33,38130,3
+North Carolina,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1190,10.1,0.266,0.89,20.61,42860,2
+North Carolina,Continuous Mining Machine Operators,**,**,**,**,23.08,48000,6.4
+North Carolina,"Loading and Moving Machine Operators, Underground Mining",60,27.5,0.014,0.48,19.92,41430,7.9
+North Carolina,"Rock Splitters, Quarry",50,45.1,0.012,0.35,18.18,37810,6.4
+North Carolina,Helpers--Extraction Workers,60,35.9,0.013,0.12,15.73,32730,3.8
+North Carolina,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",510,18.6,0.115,0.68,23.12,48100,2.5
+North Carolina,"Installation, Maintenance, and Repair Occupations",189790,1.3,42.528,1.09,22.71,47230,0.6
+North Carolina,"First-Line Supervisors of Mechanics, Installers, and Repairers",16850,2.2,3.776,1.14,33.06,68770,0.8
+North Carolina,"Computer, Automated Teller, and Office Machine Repairers",3820,10.4,0.855,1.28,20.51,42670,1.5
+North Carolina,"Radio, Cellular, and Tower Equipment Installers and Repairers",660,35,0.149,1.52,25.64,53320,4.5
+North Carolina,"Telecommunications Equipment Installers and Repairers, Except Line Installers",8300,9.6,1.86,1.31,26.46,55040,2.5
+North Carolina,Avionics Technicians,370,9.3,0.082,0.55,26.5,55130,2.7
+North Carolina,"Electric Motor, Power Tool, and Related Repairers",790,25.2,0.176,1.63,22.7,47210,4.3
+North Carolina,"Electrical and Electronics Installers and Repairers, Transportation Equipment",**,**,**,**,28.38,59020,3.6
+North Carolina,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",2280,7.4,0.511,1.27,26.99,56130,1.9
+North Carolina,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",890,11.9,0.2,1.3,33.15,68950,3
+North Carolina,"Electronic Equipment Installers and Repairers, Motor Vehicles",290,29.7,0.064,0.91,18.5,38470,5.7
+North Carolina,Audiovisual Equipment Installers and Repairers,670,17.3,0.15,0.86,17.43,36240,3.3
+North Carolina,Security and Fire Alarm Systems Installers,2110,11.6,0.474,0.97,22.56,46920,3.3
+North Carolina,Aircraft Mechanics and Service Technicians,4400,4.8,0.985,1.09,30.16,62740,8.9
+North Carolina,Automotive Body and Related Repairers,5170,5.7,1.159,1.18,25.14,52290,4.6
+North Carolina,Automotive Glass Installers and Repairers,900,26.5,0.202,1.53,17.55,36510,3.9
+North Carolina,Automotive Service Technicians and Mechanics,24050,3.4,5.39,1.21,20.81,43280,1.5
+North Carolina,Bus and Truck Mechanics and Diesel Engine Specialists,8450,5.4,1.894,1.04,22.66,47140,2.6
+North Carolina,Farm Equipment Mechanics and Service Technicians,920,15.3,0.206,0.83,18.53,38530,2.2
+North Carolina,"Mobile Heavy Equipment Mechanics, Except Engines",4390,5.6,0.984,0.98,23.63,49160,1.3
+North Carolina,Rail Car Repairers,170,40,0.038,0.22,21.07,43820,7.3
+North Carolina,Motorboat Mechanics and Service Technicians,720,14,0.16,1.03,19.16,39860,4.2
+North Carolina,Motorcycle Mechanics,500,14.4,0.113,1.06,17.75,36920,3.4
+North Carolina,Outdoor Power Equipment and Other Small Engine Mechanics,760,14.2,0.171,0.78,17.73,36870,3.1
+North Carolina,Bicycle Repairers,260,46.4,0.059,0.66,13.18,27410,5.2
+North Carolina,Recreational Vehicle Service Technicians,270,40.8,0.061,0.57,20.38,42390,6.8
+North Carolina,Tire Repairers and Changers,2680,12,0.6,0.79,15.07,31350,3.1
+North Carolina,Mechanical Door Repairers,420,26.3,0.093,0.6,18.16,37760,4.8
+North Carolina,"Control and Valve Installers and Repairers, Except Mechanical Door",1920,12.9,0.429,1.21,25.08,52170,5.1
+North Carolina,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",13800,5.6,3.091,1.33,21.15,43990,1.3
+North Carolina,Home Appliance Repairers,690,19.8,0.155,0.73,16.95,35260,4.9
+North Carolina,Industrial Machinery Mechanics,11980,4.1,2.684,1.02,24.27,50480,1.1
+North Carolina,"Maintenance Workers, Machinery",4720,8.2,1.058,2.13,20.92,43510,1.6
+North Carolina,Millwrights,900,11.9,0.202,0.63,22.99,47820,2.3
+North Carolina,Electrical Power-Line Installers and Repairers,4020,6.9,0.901,1.19,29.4,61150,1.7
+North Carolina,Telecommunications Line Installers and Repairers,2900,11,0.65,0.79,22.66,47140,3.1
+North Carolina,Medical Equipment Repairers,1500,11.2,0.337,1.07,28.22,58700,3.3
+North Carolina,Musical Instrument Repairers and Tuners,140,29.8,0.031,0.57,17.41,36210,6.5
+North Carolina,"Precision Instrument and Equipment Repairers, All Other",370,13.4,0.082,1.14,27.41,57020,4.4
+North Carolina,"Maintenance and Repair Workers, General",45390,1.9,10.171,1.05,19.38,40320,0.6
+North Carolina,"Coin, Vending, and Amusement Machine Servicers and Repairers",1190,9.7,0.266,1.25,16.82,34990,4.8
+North Carolina,Locksmiths and Safe Repairers,520,18.2,0.117,1.01,18.18,37810,8.2
+North Carolina,Riggers,470,22.9,0.105,0.67,26.39,54880,3
+North Carolina,Signal and Track Switch Repairers,**,**,**,**,39.17,81470,5.5
+North Carolina,"Helpers--Installation, Maintenance, and Repair Workers",3700,8.6,0.829,1.22,14.7,30580,1.9
+North Carolina,"Installation, Maintenance, and Repair Workers, All Other",4150,11.5,0.93,0.85,19.49,40540,2.3
+North Carolina,Production Occupations,340230,1.7,76.237,1.22,17.31,36000,0.5
+North Carolina,First-Line Supervisors of Production and Operating Workers,21530,1.7,4.825,1.12,29.42,61190,0.6
+North Carolina,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",350,5,0.08,0.27,18.33,38120,3.4
+North Carolina,"Coil Winders, Tapers, and Finishers",680,12.4,0.152,1.76,18.36,38180,8.1
+North Carolina,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",8620,8.4,1.932,0.99,16.37,34060,1.9
+North Carolina,Engine and Other Machine Assemblers,860,12.5,0.193,0.62,17.68,36780,2.4
+North Carolina,Structural Metal Fabricators and Fitters,1650,14.9,0.371,0.71,19.37,40290,2.4
+North Carolina,Fiberglass Laminators and Fabricators,730,20.8,0.162,1.19,15.28,31780,2.7
+North Carolina,Miscellaneous Assemblers and Fabricators,55030,3.8,12.33,1.32,15.03,31270,1.2
+North Carolina,Bakers,3960,5.8,0.888,0.71,12.83,26690,1.9
+North Carolina,Butchers and Meat Cutters,2930,12.9,0.656,0.71,15.7,32650,1.2
+North Carolina,"Meat, Poultry, and Fish Cutters and Trimmers",13320,22.2,2.986,2.85,12.98,26990,1.5
+North Carolina,Slaughterers and Meat Packers,5910,4.4,1.325,2.65,14.23,29610,2.4
+North Carolina,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",960,3.6,0.216,1.52,20.9,43480,6.9
+North Carolina,Food Batchmakers,3620,15.8,0.81,0.75,12.96,26950,4.1
+North Carolina,Food Cooking Machine Operators and Tenders,640,31,0.143,0.7,14.02,29170,3.3
+North Carolina,"Food Processing Workers, All Other",1580,17.9,0.353,1.21,13.48,28040,2.1
+North Carolina,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",4540,7.4,1.017,1.94,19.28,40110,3
+North Carolina,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",350,20.9,0.078,0.7,19.09,39700,6.2
+North Carolina,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",630,11.4,0.141,0.64,17.72,36860,5.3
+North Carolina,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",5970,5.3,1.337,1.01,15.62,32480,1.5
+North Carolina,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",140,9.6,0.032,0.44,17.6,36610,6.5
+North Carolina,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2420,7.3,0.543,1.04,18.65,38800,2.1
+North Carolina,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",690,18.6,0.155,0.81,23.46,48790,2.6
+North Carolina,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",220,12.4,0.05,0.39,17.71,36830,4.3
+North Carolina,Machinists,11900,5.4,2.666,1.02,21.4,44520,1.5
+North Carolina,Metal-Refining Furnace Operators and Tenders,500,1.6,0.112,0.96,22.89,47600,4.5
+North Carolina,"Pourers and Casters, Metal",130,23.6,0.03,0.55,21.96,45680,9.7
+North Carolina,"Model Makers, Metal and Plastic",90,13.1,0.021,0.72,21.39,44480,13.6
+North Carolina,"Patternmakers, Metal and Plastic",80,31,0.017,0.84,18,37440,3.5
+North Carolina,Foundry Mold and Coremakers,170,14.3,0.037,0.31,14.02,29150,3
+North Carolina,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",7130,8.7,1.597,1.36,17.15,35670,2.2
+North Carolina,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2340,24.3,0.524,0.52,15.64,32530,2.8
+North Carolina,Tool and Die Makers,1290,6.5,0.29,0.6,23.37,48620,1.5
+North Carolina,"Welders, Cutters, Solderers, and Brazers",11740,4.3,2.63,0.94,20.49,42620,1
+North Carolina,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",880,10.2,0.197,0.83,19.91,41400,4.7
+North Carolina,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",530,15.4,0.118,0.89,19.15,39830,3.2
+North Carolina,"Layout Workers, Metal and Plastic",40,45.6,0.008,0.14,19.56,40690,4.7
+North Carolina,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",1100,13.8,0.246,0.86,15.9,33080,2.1
+North Carolina,"Tool Grinders, Filers, and Sharpeners",90,21.4,0.02,0.45,20.55,42750,3.6
+North Carolina,"Metal Workers and Plastic Workers, All Other",500,26.4,0.113,0.68,18.96,39440,4.6
+North Carolina,Prepress Technicians and Workers,710,8.9,0.158,0.77,19.75,41080,1.6
+North Carolina,Printing Press Operators,4860,7.3,1.09,0.92,18.25,37950,1.6
+North Carolina,Print Binding and Finishing Workers,900,12.7,0.201,0.65,15.74,32740,2.4
+North Carolina,Laundry and Dry-Cleaning Workers,5230,5.8,1.172,0.82,10.9,22670,1
+North Carolina,"Pressers, Textile, Garment, and Related Materials",1100,16.3,0.246,0.95,10.63,22110,3
+North Carolina,Sewing Machine Operators,9240,4.5,2.071,2.28,13.63,28350,1.3
+North Carolina,Shoe and Leather Workers and Repairers,220,30.9,0.048,0.81,13.74,28580,9
+North Carolina,"Sewers, Hand",60,27.9,0.014,0.44,13.37,27800,5.4
+North Carolina,"Tailors, Dressmakers, and Custom Sewers",890,23.1,0.199,1.21,12.67,26350,3.3
+North Carolina,Textile Bleaching and Dyeing Machine Operators and Tenders,2020,9.4,0.452,7.64,14.06,29250,2.3
+North Carolina,"Textile Cutting Machine Setters, Operators, and Tenders",1200,7.8,0.268,2.98,14.48,30130,1.9
+North Carolina,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",4520,8.5,1.012,7.04,13.34,27740,2
+North Carolina,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",6750,7.4,1.513,7.13,12.97,26970,1.3
+North Carolina,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",2670,14.5,0.598,4.82,17.72,36860,2.6
+North Carolina,Fabric and Apparel Patternmakers,220,11,0.048,1.21,22.33,46450,3
+North Carolina,Upholsterers,6090,9.7,1.364,6.81,19.61,40790,1.6
+North Carolina,"Textile, Apparel, and Furnishings Workers, All Other",1660,10.2,0.372,3.02,12.5,26000,1.7
+North Carolina,Cabinetmakers and Bench Carpenters,3100,11,0.694,1.02,15,31200,2.9
+North Carolina,Furniture Finishers,1250,8.5,0.281,2.55,15.08,31360,1.4
+North Carolina,"Sawing Machine Setters, Operators, and Tenders, Wood",3290,8.8,0.738,2.14,15.26,31730,2.2
+North Carolina,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",6660,5.6,1.492,2.78,14.74,30650,1.9
+North Carolina,"Woodworkers, All Other",70,19.1,0.016,0.36,16.45,34220,5.7
+North Carolina,Nuclear Power Reactor Operators,360,4.8,0.081,2.35,48.35,100560,2.4
+North Carolina,Power Plant Operators,580,8,0.13,0.57,34.67,72120,3.2
+North Carolina,Stationary Engineers and Boiler Operators,360,8.8,0.08,0.36,25.33,52700,2.2
+North Carolina,Water and Wastewater Treatment Plant and System Operators,3460,5.6,0.774,0.92,20.23,42080,1.3
+North Carolina,Chemical Plant and System Operators,730,32.1,0.163,0.83,23.23,48330,4.4
+North Carolina,Gas Plant Operators,140,13,0.031,0.31,31.93,66420,2.7
+North Carolina,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",250,29.4,0.057,0.21,31.16,64810,6.6
+North Carolina,"Plant and System Operators, All Other",110,13.6,0.025,0.28,29.08,60490,5.2
+North Carolina,Chemical Equipment Operators and Tenders,2630,16.1,0.589,0.99,23.05,47930,2.2
+North Carolina,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1780,6.1,0.399,1.14,23.08,48010,3.3
+North Carolina,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",650,11.3,0.145,0.64,17.63,36670,3.1
+North Carolina,"Grinding and Polishing Workers, Hand",820,9.3,0.185,0.93,14.03,29180,2.7
+North Carolina,"Mixing and Blending Machine Setters, Operators, and Tenders",6100,6.3,1.367,1.6,17.68,36770,1.4
+North Carolina,"Cutters and Trimmers, Hand",1270,5.7,0.285,4.33,18.45,38370,2
+North Carolina,"Cutting and Slicing Machine Setters, Operators, and Tenders",3800,7.7,0.851,2.16,17.17,35720,1.6
+North Carolina,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",3500,8.4,0.783,1.6,18.67,38820,2.4
+North Carolina,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",1130,10.6,0.253,1.96,20.54,42730,3.3
+North Carolina,"Inspectors, Testers, Sorters, Samplers, and Weighers",20620,2.8,4.621,1.18,18.28,38020,1
+North Carolina,Jewelers and Precious Stone and Metal Workers,390,15.5,0.087,0.54,19.08,39680,6
+North Carolina,Dental Laboratory Technicians,1140,9.3,0.254,1.08,21.28,44250,2.8
+North Carolina,Medical Appliance Technicians,250,15.7,0.055,0.58,20.26,42150,3.5
+North Carolina,Ophthalmic Laboratory Technicians,400,18.9,0.091,0.46,15.61,32460,6.2
+North Carolina,Packaging and Filling Machine Operators and Tenders,15120,7,3.388,1.27,15.19,31600,2.3
+North Carolina,"Painting, Coating, and Decorating Workers",280,9.7,0.062,0.74,16.42,34160,3.3
+North Carolina,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",4850,6.1,1.087,1.09,19.4,40350,5
+North Carolina,Semiconductor Processing Technicians,1910,9.6,0.428,2.27,18.02,37480,2.7
+North Carolina,Photographic Process Workers and Processing Machine Operators,240,22.8,0.053,0.66,17.71,36850,3.7
+North Carolina,Computer Numerically Controlled Tool Operators,2580,7.5,0.579,0.56,19.53,40610,2
+North Carolina,Computer Numerically Controlled Tool Programmers,600,21.6,0.134,0.77,24.25,50440,3.2
+North Carolina,Adhesive Bonding Machine Operators and Tenders,800,10.5,0.18,1.9,14.92,31030,2.9
+North Carolina,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",260,7.1,0.057,0.51,14.8,30790,2.9
+North Carolina,Cooling and Freezing Equipment Operators and Tenders,200,0,0.044,0.74,15.9,33070,1.7
+North Carolina,Etchers and Engravers,50,31,0.01,0.15,13.85,28800,2.9
+North Carolina,"Molders, Shapers, and Casters, Except Metal and Plastic",1060,18.5,0.238,0.78,16.71,34750,4.4
+North Carolina,"Paper Goods Machine Setters, Operators, and Tenders",4540,8.9,1.018,1.49,19.33,40200,2.4
+North Carolina,Tire Builders,1610,27,0.362,2.56,18.59,38670,6
+North Carolina,Helpers--Production Workers,13430,5.9,3.01,1.46,13.15,27360,1.2
+North Carolina,"Production Workers, All Other",3560,6.1,0.798,0.53,15.69,32630,2.1
+North Carolina,Transportation and Material Moving Occupations,400610,1.1,89.767,1.05,16.17,33640,1.4
+North Carolina,Aircraft Cargo Handling Supervisors,70,11,0.017,0.26,28.89,60080,4.3
+North Carolina,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",15870,3.2,3.557,1.15,26.23,54550,0.9
+North Carolina,"Airline Pilots, Copilots, and Flight Engineers",2270,5.1,0.508,0.88,*,105730,2.9
+North Carolina,Commercial Pilots,1480,9.6,0.333,1.29,*,85480,6.1
+North Carolina,Air Traffic Controllers,440,5.9,0.099,0.66,52.37,108930,1.7
+North Carolina,Airfield Operations Specialists,180,6.8,0.041,0.56,19.37,40290,3.2
+North Carolina,Flight Attendants,4310,3.5,0.966,1.17,*,56270,10.4
+North Carolina,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",270,26.9,0.061,0.6,13.46,28010,5.4
+North Carolina,Driver/Sales Workers,19850,9.7,4.448,1.47,12.99,27020,3.6
+North Carolina,Heavy and Tractor-Trailer Truck Drivers,59030,3,13.227,1.05,21.65,45030,1.1
+North Carolina,Light Truck Drivers,29080,3.3,6.516,1.04,16.61,34540,1.6
+North Carolina,"Bus Drivers, Transit and Intercity",3330,7.2,0.747,0.61,15.89,33040,3.2
+North Carolina,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",18280,4.4,4.095,0.86,13.54,28160,1.4
+North Carolina,"Motor Vehicle Operators, All Other",3690,15.9,0.827,2.15,14.6,30360,8.1
+North Carolina,Locomotive Engineers,480,41.5,0.108,0.45,28.05,58340,3.4
+North Carolina,"Rail Yard Engineers, Dinkey Operators, and Hostlers",**,**,**,**,19.48,40510,3.8
+North Carolina,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",**,**,**,**,24.77,51520,4.2
+North Carolina,Railroad Conductors and Yardmasters,450,2.3,0.101,0.33,27.59,57390,2.7
+North Carolina,Sailors and Marine Oilers,240,7.2,0.053,0.25,17.7,36820,1.8
+North Carolina,"Captains, Mates, and Pilots of Water Vessels",430,11.8,0.096,0.42,26.71,55560,12.1
+North Carolina,Ship Engineers,90,11.8,0.021,0.37,24.56,51090,4
+North Carolina,Bridge and Lock Tenders,60,30,0.013,0.61,18.54,38570,13.2
+North Carolina,Parking Attendants,2990,7,0.669,0.67,11.6,24130,2.1
+North Carolina,Automotive and Watercraft Service Attendants,3140,15.9,0.703,0.88,12.61,26220,3.3
+North Carolina,Traffic Technicians,200,31.1,0.044,0.86,19.7,40980,2.3
+North Carolina,Transportation Inspectors,260,35,0.057,0.28,36.93,76810,4.2
+North Carolina,Passenger Attendants,260,23,0.058,0.3,12.36,25700,4.3
+North Carolina,"Aircraft Service Attendants and Transportation Workers, All Other",740,12.5,0.165,0.69,13.36,27780,3
+North Carolina,Conveyor Operators and Tenders,430,7.8,0.097,0.59,14.64,30450,3.4
+North Carolina,Crane and Tower Operators,970,12.3,0.218,0.7,23.75,49390,2.9
+North Carolina,Industrial Truck and Tractor Operators,23530,3.5,5.273,1.23,16.89,35130,1
+North Carolina,Cleaners of Vehicles and Equipment,10060,5,2.254,0.87,11.59,24120,1.7
+North Carolina,"Laborers and Freight, Stock, and Material Movers, Hand",95610,2.6,21.424,1.07,13.81,28730,0.6
+North Carolina,Machine Feeders and Offbearers,1690,4.2,0.379,0.88,13.36,27780,1.6
+North Carolina,"Packers and Packagers, Hand",26020,3.6,5.83,1.35,11.94,24840,1.3
+North Carolina,Stockers and Order Fillers,67740,2.1,15.18,1.04,13.48,28030,0.7
+North Carolina,Refuse and Recyclable Material Collectors,6470,5.2,1.451,1.76,14.68,30530,1.8
+North Carolina,"Material Moving Workers, All Other",60,31,0.013,0.07,14.3,29730,5.6

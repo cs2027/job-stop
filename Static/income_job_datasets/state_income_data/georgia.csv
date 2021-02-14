@@ -1,0 +1,751 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Georgia,All Occupations,4471860,0.3,1000,1,23.85,49620,0.5
+Georgia,Management Occupations,272140,1,60.855,1.11,56.12,116740,0.7
+Georgia,General and Operations Managers,83090,1.7,18.58,1.14,54.23,112800,1
+Georgia,Legislators,1650,4.8,0.369,1.04,*,24380,4.3
+Georgia,Advertising and Promotions Managers,670,9.2,0.149,0.87,67.17,139710,4.3
+Georgia,Marketing Managers,9220,4.7,2.061,1.15,68.61,142700,2.5
+Georgia,Sales Managers,15290,3.7,3.419,1.25,68.65,142790,1.3
+Georgia,Public Relations and Fundraising Managers,2190,7.5,0.489,0.91,56.98,118520,1.8
+Georgia,Administrative Services and Facilities Managers,10100,3.7,2.258,1.08,54.98,114360,2.6
+Georgia,Computer and Information Systems Managers,14950,2.7,3.343,1.13,71.68,149080,0.9
+Georgia,Financial Managers,18280,2.8,4.088,0.92,70.07,145750,1.7
+Georgia,Industrial Production Managers,4470,3.7,1,0.79,51.45,107010,1
+Georgia,Purchasing Managers,2370,4.2,0.531,1.08,59.13,122980,2.1
+Georgia,"Transportation, Storage, and Distribution Managers",4290,4.8,0.959,1.07,54.4,113150,2.9
+Georgia,Compensation and Benefits Managers,710,9.8,0.159,1.39,59.88,124560,2.4
+Georgia,Human Resources Managers,5670,3,1.269,1.2,61.15,127190,1.5
+Georgia,Training and Development Managers,1540,5.3,0.345,1.32,55.39,115200,2
+Georgia,"Farmers, Ranchers, and Other Agricultural Managers",60,23.6,0.014,0.41,35.83,74520,6.7
+Georgia,Construction Managers,7830,4.7,1.751,0.88,49.58,103130,1.8
+Georgia,"Education and Childcare Administrators, Preschool and Daycare",2040,15.3,0.455,1.28,20.57,42780,6.9
+Georgia,"Education Administrators, Kindergarten through Secondary",8240,2.9,1.843,1,*,96110,1
+Georgia,"Education Administrators, All Other",**,**,**,**,45.52,94670,4.2
+Georgia,Architectural and Engineering Managers,4700,4.9,1.05,0.79,70.8,147260,1.6
+Georgia,Food Service Managers,9660,5.7,2.161,1.35,28.22,58700,2.6
+Georgia,Lodging Managers,1200,11.7,0.269,1.03,32.14,66850,6.1
+Georgia,Medical and Health Services Managers,**,**,**,**,51.74,107610,4.1
+Georgia,Postmasters and Mail Superintendents,340,0,0.076,0.81,38.67,80440,0.5
+Georgia,"Property, Real Estate, and Community Association Managers",6830,10.3,1.527,1.02,31.09,64660,5.9
+Georgia,Social and Community Service Managers,3800,4.2,0.849,0.8,32.56,67720,3.3
+Georgia,Emergency Management Directors,350,2.8,0.079,1.16,34.33,71410,2.1
+Georgia,Funeral Home Managers,410,11.5,0.092,1.43,34.61,71990,6.8
+Georgia,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",**,**,**,**,52.61,109440,1.6
+Georgia,Business and Financial Operations Occupations,260840,1.4,58.329,1.05,35.71,74280,0.7
+Georgia,"Agents and Business Managers of Artists, Performers, and Athletes",330,28.6,0.074,0.64,25.63,53310,9.8
+Georgia,Buyers and Purchasing Agents,12330,2.9,2.757,0.96,33.57,69820,2.2
+Georgia,"Claims Adjusters, Examiners, and Investigators",**,**,**,**,32.63,67860,1.7
+Georgia,"Insurance Appraisers, Auto Damage",470,18.7,0.105,1.12,32.97,68580,4.2
+Georgia,Compliance Officers,10350,2.4,2.315,1.07,30.47,63380,2.4
+Georgia,Cost Estimators,4880,7.5,1.092,0.76,34.02,70760,1.8
+Georgia,Human Resources Specialists,21060,3.2,4.71,1.09,29.97,62340,1.2
+Georgia,Labor Relations Specialists,1100,10.1,0.246,0.48,30.43,63300,9.3
+Georgia,Logisticians,7780,4.9,1.739,1.4,33.68,70050,1.9
+Georgia,Management Analysts,19860,3.7,4.442,0.92,45.45,94530,2
+Georgia,"Meeting, Convention, and Event Planners",2820,6.9,0.631,0.79,24.68,51330,2.8
+Georgia,Fundraisers,2010,9.5,0.449,0.81,24.44,50840,5.5
+Georgia,"Compensation, Benefits, and Job Analysis Specialists",3240,8.7,0.725,1.19,31.28,65050,1.4
+Georgia,Training and Development Specialists,9810,3.6,2.193,1.03,30.97,64430,1.5
+Georgia,Market Research Analysts and Marketing Specialists,21300,3.6,4.763,1.03,33.31,69290,1.4
+Georgia,"Project Management Specialists and Business Operations Specialists, All Other",47170,4.2,10.547,1.21,36.44,75800,2.4
+Georgia,Accountants and Auditors,36860,3.4,8.243,0.95,38.31,79690,2
+Georgia,Property Appraisers and Assessors,2620,22.2,0.586,1.53,26.72,55570,2.5
+Georgia,Budget Analysts,1880,7.9,0.42,1.2,32.37,67320,3.5
+Georgia,Credit Analysts,2290,11.1,0.512,1.02,33.91,70540,3.8
+Georgia,Personal Financial Advisors,4950,13.6,1.107,0.77,52.23,108650,6.5
+Georgia,Insurance Underwriters,6730,6.9,1.506,2.21,38.2,79450,3
+Georgia,Financial Examiners,**,**,**,**,44.72,93020,9.4
+Georgia,Credit Counselors,690,3.2,0.155,0.71,25.71,53480,6.1
+Georgia,Loan Officers,9460,5.9,2.115,1.01,37.36,77700,3.8
+Georgia,"Tax Examiners and Collectors, and Revenue Agents",1740,2.4,0.388,1.06,25.62,53300,3
+Georgia,Tax Preparers,1850,14.9,0.415,0.91,22.07,45910,8.8
+Georgia,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",14150,5.1,3.164,1.01,41.17,85630,2
+Georgia,Computer and Mathematical Occupations,154890,1.8,34.636,1.12,42.57,88550,0.8
+Georgia,Computer Systems Analysts,19600,4.8,4.382,1.09,43.61,90700,1.1
+Georgia,Information Security Analysts,4010,18,0.897,1.05,47.8,99420,1.6
+Georgia,Computer and Information Research Scientists,720,10.4,0.16,0.77,48.91,101720,7.9
+Georgia,Computer Network Support Specialists,6460,8.9,1.444,1.14,34.32,71380,2.3
+Georgia,Computer User Support Specialists,22360,5.6,5,1.13,26.19,54470,1.6
+Georgia,Computer Network Architects,5750,5,1.285,1.24,54.54,113440,1.2
+Georgia,Network and Computer Systems Administrators,9150,5.2,2.046,0.85,42.04,87430,1.2
+Georgia,Database Administrators and Architects,5390,4.7,1.206,1.41,45.25,94110,2.1
+Georgia,Computer Programmers,4920,6.9,1.1,0.81,41.85,87040,2.3
+Georgia,Software Developers and Software Quality Assurance Analysts and Testers,45440,4,10.162,1.06,49.36,102680,1.1
+Georgia,Web Developers and Digital Interface Designers,3170,8,0.709,0.7,42.21,87800,1.4
+Georgia,"Computer Occupations, All Other",22000,4.3,4.921,1.84,43.62,90730,1.7
+Georgia,Actuaries,250,12.6,0.056,0.37,54.7,113770,4.7
+Georgia,Operations Research Analysts,3720,4.7,0.831,1.22,33.58,69840,2.7
+Georgia,Statisticians,660,10.5,0.148,0.56,47.89,99620,3.5
+Georgia,"Data Scientists and Mathematical Science Occupations, All Other",1270,8,0.284,1.35,39.19,81520,5.1
+Georgia,Architecture and Engineering Occupations,62550,2.6,13.988,0.79,40.14,83500,1.4
+Georgia,"Architects, Except Landscape and Naval",2640,15.9,0.591,0.82,50.23,104470,10.7
+Georgia,Landscape Architects,620,23.7,0.138,1,35.21,73240,5.3
+Georgia,Cartographers and Photogrammetrists,260,16.2,0.057,0.74,26.55,55230,2.2
+Georgia,Surveyors,860,16.4,0.193,0.63,28.67,59640,7.2
+Georgia,Aerospace Engineers,2430,10.8,0.542,1.26,54.17,112670,4.2
+Georgia,Bioengineers and Biomedical Engineers,300,16.2,0.067,0.5,45.41,94460,2.6
+Georgia,Chemical Engineers,570,17.2,0.128,0.62,45.37,94360,4
+Georgia,Civil Engineers,7380,5.7,1.651,0.78,38.4,79880,2.4
+Georgia,Computer Hardware Engineers,1710,18,0.381,0.83,49.5,102950,4.8
+Georgia,Electrical Engineers,4180,8.9,0.935,0.74,47.23,98240,1.9
+Georgia,"Electronics Engineers, Except Computer",4050,6.1,0.905,1.03,47.69,99200,2
+Georgia,Environmental Engineers,1760,9,0.393,1.09,39.64,82450,2.4
+Georgia,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",1340,8.4,0.299,1.7,37.5,78000,1.9
+Georgia,Industrial Engineers,7380,4.4,1.65,0.83,41.46,86240,1.5
+Georgia,Marine Engineers and Naval Architects,**,**,**,**,39.27,81670,3
+Georgia,Materials Engineers,420,13.3,0.093,0.51,45.12,93840,2.9
+Georgia,Mechanical Engineers,4970,6.8,1.112,0.53,41.55,86430,1.2
+Georgia,"Mining and Geological Engineers, Including Mining Safety Engineers",**,**,**,**,46.29,96290,2.4
+Georgia,"Engineers, All Other",6780,12.6,1.515,1.46,47.59,98990,1.5
+Georgia,Architectural and Civil Drafters,2090,8.7,0.467,0.69,26.62,55360,2
+Georgia,Electrical and Electronics Drafters,630,16.2,0.14,0.85,25.93,53930,3
+Georgia,Mechanical Drafters,810,11,0.181,0.48,27.09,56350,2.6
+Georgia,"Drafters, All Other",370,12.5,0.084,0.84,24.9,51780,2.8
+Georgia,Aerospace Engineering and Operations Technologists and Technicians,**,**,**,**,25.49,53010,11.4
+Georgia,Civil Engineering Technologists and Technicians,1240,6.9,0.278,0.59,23.26,48380,3.2
+Georgia,Electrical and Electronic Engineering Technologists and Technicians,3380,12.9,0.755,0.9,32.52,67630,1.6
+Georgia,Electro-Mechanical and Mechatronics Technologists and Technicians,320,14.8,0.071,0.73,37.11,77180,9.5
+Georgia,Environmental Engineering Technologists and Technicians,490,19.6,0.11,0.89,23.9,49720,3
+Georgia,Industrial Engineering Technologists and Technicians,1270,8.9,0.285,0.62,28.75,59800,2.3
+Georgia,Mechanical Engineering Technologists and Technicians,460,13.6,0.104,0.36,25.58,53210,3.3
+Georgia,Surveying and Mapping Technicians,1370,14.5,0.307,0.85,21.42,44560,4.1
+Georgia,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",2020,6.1,0.451,0.75,29.13,60590,1.7
+Georgia,"Life, Physical, and Social Science Occupations",29960,2.9,6.699,0.76,33.39,69440,1.6
+Georgia,Food Scientists and Technologists,580,19,0.13,1.42,33.97,70660,4.9
+Georgia,Soil and Plant Scientists,180,14.2,0.04,0.42,32.74,68110,3.8
+Georgia,Biochemists and Biophysicists,190,20.7,0.043,0.2,36.73,76410,10.1
+Georgia,Microbiologists,930,10.1,0.207,1.66,45.92,95510,2.9
+Georgia,Zoologists and Wildlife Biologists,180,1.3,0.041,0.31,30.92,64310,1.2
+Georgia,"Biological Scientists, All Other",1090,2.4,0.243,0.89,35.45,73740,2.8
+Georgia,Conservation Scientists,320,13.2,0.072,0.48,32.07,66710,2.6
+Georgia,Foresters,380,19.1,0.086,1.32,28.69,59680,2.7
+Georgia,Epidemiologists,390,5.4,0.086,1.71,31.21,64910,1.6
+Georgia,"Medical Scientists, Except Epidemiologists",2000,11.9,0.447,0.52,37.6,78210,4.9
+Georgia,"Life Scientists, All Other",120,13.2,0.028,0.63,37.66,78340,13.3
+Georgia,Physicists,60,4.6,0.014,0.13,58.59,121870,7.6
+Georgia,Atmospheric and Space Scientists,70,15,0.015,0.24,51.01,106100,9.2
+Georgia,Chemists,1270,8.1,0.283,0.5,41.16,85610,2.8
+Georgia,Materials Scientists,**,**,**,**,49.88,103750,2.2
+Georgia,"Environmental Scientists and Specialists, Including Health",1480,11.6,0.332,0.58,33.2,69050,6.7
+Georgia,"Geoscientists, Except Hydrologists and Geographers",550,24,0.123,0.62,34.83,72450,5.2
+Georgia,Hydrologists,70,39.3,0.015,0.34,51.3,106710,4.9
+Georgia,"Physical Scientists, All Other",330,2.3,0.074,0.62,51.49,107100,2.9
+Georgia,Economists,360,24,0.079,0.61,49.05,102030,2.8
+Georgia,Survey Researchers,**,**,**,**,33.8,70310,3.4
+Georgia,"Clinical, Counseling, and School Psychologists",2140,18.6,0.477,0.62,43.64,90760,11.5
+Georgia,"Psychologists, All Other",350,2,0.079,0.81,45.91,95490,1.5
+Georgia,Urban and Regional Planners,900,8.4,0.2,0.76,29.81,62010,1.5
+Georgia,Anthropologists and Archeologists,150,43.6,0.033,0.73,34.17,71060,4.1
+Georgia,Geographers,70,40,0.015,1.57,35.15,73110,2.6
+Georgia,Historians,80,23.5,0.018,0.87,32.47,67550,4.5
+Georgia,"Social Scientists and Related Workers, All Other",2060,1.6,0.46,2.01,42.25,87870,2.5
+Georgia,Agricultural and Food Science Technicians,880,15.5,0.196,1.31,22.09,45940,5.7
+Georgia,Biological Technicians,1830,16.5,0.409,0.75,22.94,47720,1.9
+Georgia,Chemical Technicians,2150,9.9,0.48,1.07,24.62,51220,3.6
+Georgia,"Environmental Science and Protection Technicians, Including Health",920,7.3,0.206,0.93,22.02,45800,4.3
+Georgia,Geological and Hydrologic Technicians,190,29,0.043,0.37,32.77,68150,6.6
+Georgia,Social Science Research Assistants,2240,2.3,0.502,2.07,25.45,52930,2.5
+Georgia,Forest and Conservation Technicians,190,4.1,0.043,0.33,21.83,45400,2
+Georgia,Forensic Science Technicians,560,5.2,0.125,1.12,24.04,49990,2.6
+Georgia,"Life, Physical, and Social Science Technicians, All Other",1830,6,0.409,0.94,26.07,54230,2.5
+Georgia,Occupational Health and Safety Specialists,1800,5,0.402,0.64,35.84,74550,1.7
+Georgia,Occupational Health and Safety Technicians,430,7.1,0.095,0.68,33.1,68850,3.1
+Georgia,Community and Social Service Occupations,48300,2.2,10.8,0.71,23.34,48540,3.2
+Georgia,"Educational, Guidance, and Career Counselors and Advisors",9540,3.5,2.134,1.06,27.79,57800,2.2
+Georgia,Marriage and Family Therapists,130,27.1,0.029,0.07,28.29,58840,6.8
+Georgia,Rehabilitation Counselors,1460,15.8,0.326,0.44,19.5,40570,1.9
+Georgia,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",5410,8.3,1.211,0.63,22.62,47050,2.1
+Georgia,"Counselors, All Other",610,18.9,0.136,0.78,22.99,47820,7.5
+Georgia,"Child, Family, and School Social Workers",7410,7.6,1.657,0.74,21.48,44680,1.9
+Georgia,Healthcare Social Workers,3490,5.9,0.78,0.65,26.15,54400,2.6
+Georgia,Mental Health and Substance Abuse Social Workers,1070,11.6,0.24,0.3,20.56,42760,3.9
+Georgia,"Social Workers, All Other",980,14.1,0.218,0.55,35.5,73830,3.7
+Georgia,Health Education Specialists,2530,3.4,0.566,1.42,41.4,86110,6.5
+Georgia,Probation Officers and Correctional Treatment Specialists,2910,3.7,0.651,1.08,21.2,44090,0.7
+Georgia,Social and Human Service Assistants,7750,3.8,1.732,0.63,14.57,30300,1.8
+Georgia,Community Health Workers,1200,16.9,0.268,0.67,20.7,43050,7.2
+Georgia,"Community and Social Service Specialists, All Other",2390,8,0.535,0.81,20.54,42730,3.2
+Georgia,Clergy,1030,18.8,0.231,0.64,24.63,51230,6.7
+Georgia,"Directors, Religious Activities and Education",180,31.3,0.04,0.27,26.69,55520,8.3
+Georgia,"Religious Workers, All Other",200,40.8,0.045,0.7,13.35,27770,6
+Georgia,Legal Occupations,34310,2.2,7.672,0.98,47.92,99660,2.6
+Georgia,Lawyers,19500,3.3,4.36,0.97,62.65,130320,2.7
+Georgia,Judicial Law Clerks,540,3.5,0.121,1.07,23.55,48980,3.3
+Georgia,"Administrative Law Judges, Adjudicators, and Hearing Officers",500,0,0.113,1.15,36.57,76070,1.1
+Georgia,"Arbitrators, Mediators, and Conciliators",110,34.9,0.024,0.58,34.73,72240,3.6
+Georgia,"Judges, Magistrate Judges, and Magistrates",1200,3.6,0.267,1.37,51.97,108100,1.7
+Georgia,Paralegals and Legal Assistants,10820,4.9,2.42,1.08,26.17,54440,2
+Georgia,"Title Examiners, Abstractors, and Searchers",450,18.3,0.101,0.28,20.18,41980,3.7
+Georgia,"Legal Support Workers, All Other",1190,21.8,0.266,0.87,27.73,57670,6.7
+Georgia,Educational Instruction and Library Occupations,273700,1.3,61.205,1.01,24.85,51680,2.8
+Georgia,"Business Teachers, Postsecondary",1390,5.7,0.311,0.54,*,103230,9.9
+Georgia,"Computer Science Teachers, Postsecondary",470,11.2,0.105,0.49,*,80550,4
+Georgia,"Mathematical Science Teachers, Postsecondary",740,6.9,0.165,0.47,*,71870,6.5
+Georgia,"Architecture Teachers, Postsecondary",320,26.2,0.072,1.56,*,86900,6.1
+Georgia,"Engineering Teachers, Postsecondary",290,24.8,0.065,0.26,*,99510,4.1
+Georgia,"Agricultural Sciences Teachers, Postsecondary",220,16.2,0.049,0.76,*,122340,4.2
+Georgia,"Biological Science Teachers, Postsecondary",740,5.9,0.166,0.46,*,92710,9.2
+Georgia,"Forestry and Conservation Science Teachers, Postsecondary",70,2.2,0.015,1.22,*,108670,9.9
+Georgia,"Chemistry Teachers, Postsecondary",300,4.7,0.068,0.46,*,90830,7.9
+Georgia,"Physics Teachers, Postsecondary",120,9.3,0.028,0.29,*,71420,5.3
+Georgia,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",120,36.9,0.026,0.36,*,59600,16.8
+Georgia,"Economics Teachers, Postsecondary",110,4.4,0.024,0.26,*,112470,8.9
+Georgia,"Geography Teachers, Postsecondary",50,2.1,0.011,0.42,*,87030,10.6
+Georgia,"Political Science Teachers, Postsecondary",300,9.9,0.067,0.63,*,89120,9.6
+Georgia,"Psychology Teachers, Postsecondary",480,8.2,0.107,0.42,*,67470,4.7
+Georgia,"Sociology Teachers, Postsecondary",160,6.6,0.036,0.38,*,83770,5.4
+Georgia,"Social Sciences Teachers, Postsecondary, All Other",90,21.8,0.021,0.18,*,63480,5.2
+Georgia,"Health Specialties Teachers, Postsecondary",5030,4.7,1.124,0.82,*,119320,8.4
+Georgia,"Nursing Instructors and Teachers, Postsecondary",1060,10.8,0.236,0.58,*,77270,6.7
+Georgia,"Education Teachers, Postsecondary",1090,15.9,0.245,0.59,*,91510,12.2
+Georgia,"Library Science Teachers, Postsecondary",150,0.4,0.034,1.12,*,57850,1.8
+Georgia,"Criminal Justice and Law Enforcement Teachers, Postsecondary",170,14.4,0.038,0.4,*,55760,2.1
+Georgia,"Law Teachers, Postsecondary",100,1.4,0.022,0.2,*,174160,10.5
+Georgia,"Art, Drama, and Music Teachers, Postsecondary",1870,9,0.418,0.65,*,66240,3.5
+Georgia,"Communications Teachers, Postsecondary",470,20.7,0.106,0.53,*,73970,6.1
+Georgia,"English Language and Literature Teachers, Postsecondary",1070,7.9,0.239,0.52,*,69320,3.4
+Georgia,"Foreign Language and Literature Teachers, Postsecondary",290,6.2,0.064,0.38,*,70720,3.2
+Georgia,"History Teachers, Postsecondary",430,3.5,0.097,0.68,*,74210,4.3
+Georgia,"Philosophy and Religion Teachers, Postsecondary",330,13.1,0.075,0.47,*,75080,9.2
+Georgia,"Recreation and Fitness Studies Teachers, Postsecondary",80,10.4,0.018,0.17,*,50400,3
+Georgia,"Career/Technical Education Teachers, Postsecondary",3660,10.3,0.819,1.07,24.58,51120,4.3
+Georgia,"Postsecondary Teachers, All Other",10560,3.7,2.361,1.72,*,84680,9.7
+Georgia,"Preschool Teachers, Except Special Education",11920,9,2.665,0.91,15.64,32540,2.5
+Georgia,"Kindergarten Teachers, Except Special Education",3570,8.4,0.798,0.94,*,57490,2.1
+Georgia,"Elementary School Teachers, Except Special Education",50250,6.8,11.236,1.15,*,58190,1.2
+Georgia,"Middle School Teachers, Except Special and Career/Technical Education",28440,8.6,6.361,1.5,*,58830,2
+Georgia,"Career/Technical Education Teachers, Middle School",780,47.7,0.175,2.17,*,58120,4.4
+Georgia,"Secondary School Teachers, Except Special and Career/Technical Education",26500,7.9,5.926,0.84,*,59860,1.2
+Georgia,"Career/Technical Education Teachers, Secondary School",990,12.6,0.221,0.43,*,68920,2.3
+Georgia,"Special Education Teachers, Preschool",120,26.8,0.026,0.17,*,47350,6.3
+Georgia,"Special Education Teachers, Kindergarten and Elementary School",5030,12,1.126,0.85,*,61190,2.3
+Georgia,"Special Education Teachers, Middle School",3080,15.1,0.689,1.18,*,60430,3.6
+Georgia,"Special Education Teachers, Secondary School",3660,17.2,0.818,0.84,*,59740,1.2
+Georgia,"Special Education Teachers, All Other",1190,18.2,0.265,1.09,*,61750,4.7
+Georgia,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",1160,16.7,0.26,0.73,19.86,41320,2
+Georgia,Self-Enrichment Teachers,6650,7.9,1.486,0.86,20.3,42230,3.3
+Georgia,"Substitute Teachers, Short-Term",13750,8.8,3.074,0.77,11.76,24450,5.2
+Georgia,"Tutors and Teachers and Instructors, All Other",**,**,**,**,*,39460,4.2
+Georgia,Archivists,220,35.2,0.05,1.11,30.31,63040,3.6
+Georgia,Curators,320,9.4,0.072,0.82,23.36,48580,2.8
+Georgia,Museum Technicians and Conservators,220,17.5,0.05,0.55,20.96,43600,2.3
+Georgia,Librarians and Media Collections Specialists,3390,3.3,0.758,0.82,29.69,61750,1.8
+Georgia,Library Technicians,1730,13.7,0.387,0.64,15.67,32590,6.5
+Georgia,Farm and Home Management Educators,130,19.4,0.03,0.5,15.58,32410,11
+Georgia,Instructional Coordinators,11080,17.9,2.477,2.06,33.43,69540,3.1
+Georgia,"Teaching Assistants, Postsecondary",4760,7.6,1.065,1.14,*,27990,13.1
+Georgia,"Teaching Assistants, Except Postsecondary",35020,4.7,7.831,0.85,*,22360,1.5
+Georgia,"Educational Instruction and Library Workers, All Other",4980,9.7,1.113,1.27,14.17,29480,5.7
+Georgia,"Arts, Design, Entertainment, Sports, and Media Occupations",64000,3.5,14.312,1.04,27.3,56780,3
+Georgia,Art Directors,920,9.4,0.207,0.71,50.06,104120,6.4
+Georgia,Craft Artists,90,26.9,0.02,0.63,18.23,37920,4.7
+Georgia,"Fine Artists, Including Painters, Sculptors, and Illustrators",210,16.9,0.046,0.55,27.06,56290,7.8
+Georgia,Special Effects Artists and Animators,1180,13.2,0.263,1.32,28.7,59700,4.2
+Georgia,"Artists and Related Workers, All Other",390,5.5,0.088,1.71,43.44,90350,3.3
+Georgia,Commercial and Industrial Designers,990,19.5,0.221,0.99,28.54,59350,4.7
+Georgia,Fashion Designers,570,30.8,0.128,0.85,36.92,76800,6.2
+Georgia,Floral Designers,1110,12.9,0.247,0.87,12.28,25540,3.6
+Georgia,Graphic Designers,5590,6.4,1.249,0.85,25.59,53230,2.6
+Georgia,Interior Designers,2200,13.6,0.493,1.19,27.85,57920,4.9
+Georgia,Merchandise Displayers and Window Trimmers,6720,13.6,1.502,1.57,15.58,32420,4.4
+Georgia,Set and Exhibit Designers,620,20.5,0.138,1.68,23.61,49100,5.7
+Georgia,"Designers, All Other",1230,22.1,0.275,3.81,32.48,67570,5.7
+Georgia,Actors,3000,14,0.67,1.87,27.81,*,25.8
+Georgia,Producers and Directors,5110,7.1,1.142,1.3,40.02,83240,4.3
+Georgia,Athletes and Sports Competitors,460,27.3,0.103,1.33,*,*,*
+Georgia,Coaches and Scouts,4320,8.7,0.965,0.59,*,41850,5.4
+Georgia,"Umpires, Referees, and Other Sports Officials",240,25.2,0.054,0.39,*,25070,7.9
+Georgia,Dancers,160,17.9,0.036,0.54,20.69,*,11
+Georgia,Choreographers,**,**,**,**,27.21,56600,3
+Georgia,Music Directors and Composers,100,29.6,0.022,0.31,31.33,65170,13.1
+Georgia,Musicians and Singers,810,29.4,0.18,0.64,62.85,*,12.7
+Georgia,"Miscellaneous Entertainers and Performers, Sports and Related Workers",2360,6.2,0.528,4.9,14.3,*,19
+Georgia,Broadcast Announcers and Radio Disc Jockeys,770,21.8,0.172,0.87,23.2,48250,16.1
+Georgia,"News Analysts, Reporters, and Journalists",1400,12.2,0.313,1.04,33.07,68780,5.2
+Georgia,Public Relations Specialists,5760,7.3,1.289,0.77,28.48,59230,3.7
+Georgia,Editors,2140,8.7,0.479,0.73,28.67,59630,3.3
+Georgia,Technical Writers,1370,17.2,0.306,0.88,36.46,75830,1.6
+Georgia,Writers and Authors,930,14.5,0.209,0.67,32.13,66820,4.2
+Georgia,Interpreters and Translators,1800,9.9,0.403,1.01,25.48,53000,5.9
+Georgia,Court Reporters and Simultaneous Captioners,470,38.3,0.105,1.06,23.08,48000,13.3
+Georgia,"Media and Communication Workers, All Other",1130,26.1,0.252,1.47,29.5,61350,5.3
+Georgia,Audio and Video Technicians,2250,14.8,0.504,1,21.79,45320,3.3
+Georgia,Broadcast Technicians,1320,17.4,0.296,1.52,22.04,45850,3.1
+Georgia,Sound Engineering Technicians,490,23,0.11,1.25,32.45,67490,4
+Georgia,Photographers,1860,11.1,0.415,1.2,22.25,46270,7.9
+Georgia,"Camera Operators, Television, Video, and Film",1360,12,0.304,2.07,28.84,59980,4.2
+Georgia,Film and Video Editors,1410,34.2,0.316,1.68,31.28,65050,4.3
+Georgia,"Lighting Technicians and Media and Communication Equipment Workers, All Other",1010,37.9,0.226,1.41,37.4,77800,4.1
+Georgia,Healthcare Practitioners and Technical Occupations,245700,1.4,54.943,0.93,37.25,77470,1.3
+Georgia,Chiropractors,990,13.3,0.221,0.93,29.55,61460,5.4
+Georgia,"Dentists, General",2950,14.4,0.66,0.88,90.21,187640,10.9
+Georgia,Orthodontists,200,45.7,0.044,1.09,114.09,237310,23.3
+Georgia,Dietitians and Nutritionists,2860,10.1,0.64,1.39,24.32,50580,3
+Georgia,Optometrists,840,13,0.187,0.7,54.71,113800,7.9
+Georgia,Pharmacists,9110,4.6,2.036,0.96,58.92,122550,1
+Georgia,Physician Assistants,3790,7.1,0.847,1.04,48.78,101460,1.7
+Georgia,Podiatrists,310,20.9,0.069,1.04,64.52,134200,8.2
+Georgia,Occupational Therapists,3070,7.8,0.687,0.76,41.02,85310,2.5
+Georgia,Physical Therapists,5430,6.4,1.215,0.76,42.11,87590,1.4
+Georgia,Radiation Therapists,440,11.1,0.099,0.81,42.12,87610,1.3
+Georgia,Recreational Therapists,600,7,0.134,1.03,20.91,43500,2.7
+Georgia,Respiratory Therapists,4320,3.5,0.967,1.08,27.77,57760,0.7
+Georgia,Speech-Language Pathologists,3440,7.2,0.77,0.73,37.71,78440,1.5
+Georgia,Exercise Physiologists,300,41.2,0.067,1.35,24.16,50250,2.3
+Georgia,"Therapists, All Other",140,19.3,0.032,0.38,28.58,59440,6.1
+Georgia,Veterinarians,2200,9.3,0.492,0.97,45.66,94970,5.3
+Georgia,Registered Nurses,75430,2,16.868,0.83,33.46,69590,0.8
+Georgia,Nurse Anesthetists,1110,49.5,0.247,0.83,83.8,174310,4.6
+Georgia,Nurse Midwives,520,20,0.117,2.48,47.33,98440,7
+Georgia,Nurse Practitioners,7690,6.6,1.719,1.26,50.8,105670,1.3
+Georgia,Audiologists,**,**,**,**,41.73,86810,3.6
+Georgia,Anesthesiologists,610,22.3,0.136,0.64,106.43,221380,8.5
+Georgia,Family Medicine Physicians,2260,23.8,0.504,0.68,99.02,205960,11.3
+Georgia,General Internal Medicine Physicians,**,**,**,**,46,95690,6.8
+Georgia,Obstetricians and Gynecologists,780,23.1,0.173,1.37,112.21,233390,8
+Georgia,"Pediatricians, General",640,30,0.143,0.71,75.15,156320,13.4
+Georgia,Psychiatrists,320,11.5,0.072,0.41,118.51,246500,5.3
+Georgia,"Physicians, All Other; and Ophthalmologists, Except Pediatric",11040,6.7,2.469,0.93,113.72,236530,3.3
+Georgia,"Surgeons, Except Ophthalmologists",**,**,**,**,118.94,247390,6.1
+Georgia,Dental Hygienists,6410,8.2,1.433,0.95,31.53,65590,3.2
+Georgia,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",2600,2.3,0.582,2.34,52.2,108580,2.2
+Georgia,Clinical Laboratory Technologists and Technicians,11330,4,2.535,1.14,24.73,51450,1.1
+Georgia,Cardiovascular Technologists and Technicians,1470,4.6,0.33,0.86,29.99,62380,1.3
+Georgia,Diagnostic Medical Sonographers,2390,6.4,0.535,1.08,29.21,60750,1.8
+Georgia,Nuclear Medicine Technologists,550,5.9,0.122,0.99,36.45,75830,1.2
+Georgia,Radiologic Technologists and Technicians,5870,4.6,1.312,0.93,28.21,58680,1
+Georgia,Magnetic Resonance Imaging Technologists,1310,25.2,0.293,1.14,33.24,69140,1.6
+Georgia,Emergency Medical Technicians and Paramedics,9370,6.1,2.096,1.18,16.56,34450,1.9
+Georgia,Dietetic Technicians,220,28.4,0.048,0.24,13.23,27510,7.3
+Georgia,Pharmacy Technicians,11360,3,2.541,0.89,15.08,31360,1.4
+Georgia,Psychiatric Technicians,850,0.4,0.19,0.36,14.96,31120,1.2
+Georgia,Surgical Technologists,4040,12.8,0.903,1.22,22.45,46690,1.9
+Georgia,Veterinary Technologists and Technicians,3400,12.6,0.76,1.01,15.68,32610,3.9
+Georgia,Ophthalmic Medical Technicians,1390,15.7,0.31,0.78,17.12,35620,3.6
+Georgia,Licensed Practical and Licensed Vocational Nurses,22610,3.5,5.056,1.06,20.47,42570,0.8
+Georgia,"Opticians, Dispensing",1750,10.3,0.392,0.8,18.06,37560,3.7
+Georgia,Orthotists and Prosthetists,330,15.2,0.074,1.1,32.97,68590,5.6
+Georgia,Hearing Aid Specialists,280,48.9,0.063,1.13,23.6,49080,22
+Georgia,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",9350,4.5,2.091,0.93,20.79,43230,1.7
+Georgia,Athletic Trainers,990,12,0.221,1.14,*,52500,2.5
+Georgia,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,20.23,42080,4.2
+Georgia,Healthcare Support Occupations,135360,1.9,30.27,0.68,14.85,30880,1.5
+Georgia,Home Health and Personal Care Aides,41150,4.4,9.203,0.43,12.74,26500,3.5
+Georgia,Nursing Assistants,33420,3.9,7.474,0.77,13.41,27890,2.5
+Georgia,Orderlies,1330,9.3,0.298,0.93,12.49,25980,1.5
+Georgia,Psychiatric Aides,**,**,**,**,12.92,26880,1.7
+Georgia,Occupational Therapy Assistants,1100,11,0.246,0.8,30.22,62850,3.2
+Georgia,Occupational Therapy Aides,120,14.9,0.027,0.53,13.67,28440,2.5
+Georgia,Physical Therapist Assistants,2570,9.4,0.574,0.87,26.45,55010,2.7
+Georgia,Physical Therapist Aides,890,6.1,0.2,0.6,13.66,28410,3.3
+Georgia,Massage Therapists,2670,24.6,0.598,0.82,16.94,35240,12.2
+Georgia,Dental Assistants,8790,8.9,1.965,0.82,19.21,39960,2
+Georgia,Medical Assistants,27180,3.6,6.078,1.25,16.01,33300,0.8
+Georgia,Medical Equipment Preparers,1780,11.2,0.398,1.03,16.99,35340,1.6
+Georgia,Medical Transcriptionists,1930,20.2,0.431,1.13,15.25,31720,3.4
+Georgia,Pharmacy Aides,900,26,0.202,0.8,13.65,28380,5.5
+Georgia,Veterinary Assistants and Laboratory Animal Caretakers,1780,17.7,0.399,0.6,13.58,28250,4.4
+Georgia,Phlebotomists,4350,9.5,0.972,1.11,15.4,32040,1.8
+Georgia,"Healthcare Support Workers, All Other",**,**,**,**,18.96,39430,2.7
+Georgia,Protective Service Occupations,111350,2.4,24.9,1.05,19.18,39900,1.5
+Georgia,First-Line Supervisors of Correctional Officers,2350,1.7,0.526,1.66,22.49,46780,0.8
+Georgia,First-Line Supervisors of Police and Detectives,6830,3.1,1.528,1.85,32.34,67280,1
+Georgia,First-Line Supervisors of Firefighting and Prevention Workers,3640,6.9,0.813,1.72,28.78,59860,1.7
+Georgia,"Miscellaneous First-Line Supervisors, Protective Service Workers",1980,9.7,0.442,0.79,26.02,54120,4.3
+Georgia,Firefighters,11760,3.1,2.63,1.19,18.7,38900,1.4
+Georgia,Fire Inspectors and Investigators,250,2.5,0.056,0.6,26.14,54380,1.4
+Georgia,Forest Fire Inspectors and Prevention Specialists,390,1.1,0.086,5.88,17.18,35740,0.4
+Georgia,Bailiffs,990,8.7,0.221,1.65,24.75,51470,8.2
+Georgia,Correctional Officers and Jailers,15110,3.3,3.378,1.17,16.5,34320,0.8
+Georgia,Detectives and Criminal Investigators,3740,2.2,0.836,1.16,32.6,67820,3.9
+Georgia,Fish and Game Wardens,220,0,0.049,1.06,28.55,59380,0.6
+Georgia,Parking Enforcement Workers,80,17.7,0.018,0.34,13.96,29030,3.2
+Georgia,Police and Sheriff's Patrol Officers,22140,3.5,4.951,1.09,21.49,44700,1
+Georgia,Transit and Railroad Police,30,27.9,0.007,0.23,33.01,68650,9.1
+Georgia,Animal Control Workers,510,5,0.114,1.4,15.91,33100,1.2
+Georgia,Private Detectives and Investigators,980,15.9,0.219,0.92,25.3,52630,4.2
+Georgia,Security Guards,32330,5.3,7.23,0.94,13.51,28090,2.1
+Georgia,Crossing Guards and Flaggers,620,13.5,0.139,0.24,13.15,27350,3
+Georgia,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2120,7.2,0.474,0.48,10.13,21080,2
+Georgia,Transportation Security Screeners,1520,1,0.34,1.07,19.58,40720,3.8
+Georgia,"School Bus Monitors and Protective Service Workers, All Other",3750,6.2,0.84,0.84,17,35360,6.7
+Georgia,Food Preparation and Serving Related Occupations,416960,1,93.241,1.01,10.87,22600,0.7
+Georgia,Chefs and Head Cooks,1960,9.4,0.438,0.5,25.46,52950,4.3
+Georgia,First-Line Supervisors of Food Preparation and Serving Workers,36270,2.8,8.11,1.18,15.5,32240,1.2
+Georgia,"Cooks, Fast Food",16400,13,3.667,1.02,10,20800,2.2
+Georgia,"Cooks, Institution and Cafeteria",8330,9.7,1.863,0.68,12.63,26270,1.9
+Georgia,"Cooks, Restaurant",39120,4.2,8.747,0.92,12.52,26030,1.2
+Georgia,"Cooks, Short Order",2620,20.4,0.585,0.56,10.93,22730,3
+Georgia,"Cooks, All Other",590,29.3,0.133,1.01,12.39,25760,8.3
+Georgia,Food Preparation Workers,33830,8.5,7.564,1.29,10.82,22500,1.5
+Georgia,Bartenders,11680,9.3,2.612,0.59,10.71,22270,3.5
+Georgia,Fast Food and Counter Workers,135320,3.9,30.261,1.11,9.51,19780,0.7
+Georgia,Waiters and Waitresses,84490,3.6,18.894,1.08,10.37,21570,2
+Georgia,"Food Servers, Nonrestaurant",4550,10.9,1.017,0.54,11.26,23430,4.4
+Georgia,Dining Room and Cafeteria Attendants and Bartender Helpers,9520,14.9,2.128,0.66,10.29,21400,2.9
+Georgia,Dishwashers,14040,5.9,3.139,0.9,9.9,20590,1.2
+Georgia,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",15130,8.2,3.384,1.17,9.75,20270,2
+Georgia,"Food Preparation and Serving Related Workers, All Other",3120,21.2,0.699,1.42,10.94,22750,4.1
+Georgia,Building and Grounds Cleaning and Maintenance Occupations,112290,1.8,25.111,0.83,13.09,27240,1
+Georgia,First-Line Supervisors of Housekeeping and Janitorial Workers,4860,7.8,1.086,1.03,18.61,38700,2.1
+Georgia,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3660,9.3,0.819,1.16,22.87,47570,3.1
+Georgia,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",54920,3.4,12.28,0.84,11.89,24720,0.8
+Georgia,Maids and Housekeeping Cleaners,19040,6.5,4.258,0.67,10.16,21140,1.1
+Georgia,"Building Cleaning Workers, All Other",830,25.2,0.185,1.5,17.91,37240,6.7
+Georgia,Pest Control Workers,4550,6.5,1.017,1.88,17.34,36070,5.2
+Georgia,Landscaping and Groundskeeping Workers,22410,4.4,5.012,0.81,14.37,29890,1.4
+Georgia,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",620,31.7,0.138,0.78,16.28,33870,2.6
+Georgia,Tree Trimmers and Pruners,1160,27.3,0.26,0.81,15.78,32820,5.1
+Georgia,"Grounds Maintenance Workers, All Other",250,19.6,0.055,0.57,23.34,48540,4.9
+Georgia,Personal Care and Service Occupations,83260,3.5,18.618,0.83,13.56,28200,1.7
+Georgia,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",5220,7.2,1.168,0.79,20.64,42920,2.8
+Georgia,Animal Trainers,410,35.6,0.091,0.81,14.66,30500,8.3
+Georgia,Animal Caretakers,6140,7.6,1.372,0.95,12.47,25940,2.5
+Georgia,Gambling Dealers,**,**,**,**,12.21,25400,9
+Georgia,"Ushers, Lobby Attendants, and Ticket Takers",6010,19.2,1.345,1.43,10.97,22810,2.5
+Georgia,Amusement and Recreation Attendants,8870,10,1.984,0.86,9.8,20380,1.6
+Georgia,Costume Attendants,300,43.5,0.068,1.34,20.72,43090,5.9
+Georgia,"Locker Room, Coatroom, and Dressing Room Attendants",230,15.8,0.052,0.48,13.02,27080,4.2
+Georgia,"Entertainment Attendants and Related Workers, All Other",240,17.8,0.053,1.72,12.82,26670,13.7
+Georgia,Embalmers,**,**,**,**,17.78,36970,13.8
+Georgia,Funeral Attendants,1380,10.4,0.309,1.32,12.68,26370,4.1
+Georgia,"Morticians, Undertakers, and Funeral Arrangers",520,10.7,0.117,0.67,25.04,52080,5.7
+Georgia,Barbers,500,39.6,0.112,0.82,12.65,26310,9.4
+Georgia,"Hairdressers, Hairstylists, and Cosmetologists",9310,9.7,2.082,0.79,15.5,32240,7.8
+Georgia,Manicurists and Pedicurists,**,**,**,**,15.55,32350,11.3
+Georgia,Shampooers,470,32.6,0.104,1.26,10.01,20810,4
+Georgia,Skincare Specialists,1670,25.1,0.373,0.97,16.04,33360,9.3
+Georgia,Baggage Porters and Bellhops,1030,15.6,0.231,0.85,11.3,23490,3.3
+Georgia,Concierges,600,9.7,0.135,0.47,14.11,29350,2
+Georgia,Tour and Travel Guides,1040,14.3,0.232,0.7,13.86,28820,3.3
+Georgia,Childcare Workers,17220,9.2,3.85,1.01,10.34,21510,3.2
+Georgia,Exercise Trainers and Group Fitness Instructors,6560,11.3,1.466,0.66,20.69,43030,5
+Georgia,Recreation Workers,9870,7.5,2.208,0.9,13.31,27690,2.5
+Georgia,Residential Advisors,2730,10.7,0.61,0.83,13.87,28840,3.9
+Georgia,"Crematory Operators and Personal Care and Service Workers, All Other",1530,30,0.343,0.82,11.68,24300,3.8
+Georgia,Sales and Related Occupations,471770,1.2,105.497,1.08,18.83,39160,1
+Georgia,First-Line Supervisors of Retail Sales Workers,37430,3,8.371,1.05,20.65,42940,1.3
+Georgia,First-Line Supervisors of Non-Retail Sales Workers,5750,5.7,1.286,0.76,35.93,74740,2.1
+Georgia,Cashiers,115640,4.3,25.86,1.06,10.31,21450,0.7
+Georgia,Counter and Rental Clerks,13220,6.9,2.956,1.05,14.07,29260,2
+Georgia,Parts Salespersons,9220,6.9,2.062,1.18,15.54,32320,2.9
+Georgia,Retail Salespersons,143080,2.8,31.997,1.09,12.59,26190,1.3
+Georgia,Advertising Sales Agents,3820,8.6,0.855,0.97,26.29,54690,4.4
+Georgia,Insurance Sales Agents,14370,7.7,3.214,1.15,27.82,57860,4.8
+Georgia,"Securities, Commodities, and Financial Services Sales Agents",10440,7.3,2.334,0.78,37.84,78700,6.8
+Georgia,Travel Agents,2030,19.2,0.454,1,17.09,35550,4.8
+Georgia,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",38640,4.1,8.641,1.22,30.51,63460,1.7
+Georgia,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",8710,11.3,1.947,0.93,35.79,74440,3.5
+Georgia,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",47670,2.9,10.66,1.16,32.86,68340,1.6
+Georgia,Demonstrators and Product Promoters,1870,18.6,0.418,0.79,17.6,36610,10.5
+Georgia,Real Estate Brokers,1000,21.3,0.223,0.77,29.91,62200,8.6
+Georgia,Real Estate Sales Agents,8910,7.8,1.993,1.8,26.28,54670,5.3
+Georgia,Sales Engineers,3220,9.9,0.721,1.67,55.02,114430,5.3
+Georgia,Telemarketers,2180,22.8,0.487,0.53,12.79,26610,4.3
+Georgia,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",40,33.9,0.009,0.14,12.32,25620,4.4
+Georgia,"Sales and Related Workers, All Other",4510,11.4,1.008,1.25,19.72,41020,4.9
+Georgia,Office and Administrative Support Occupations,580040,0.9,129.71,0.98,18.39,38260,0.4
+Georgia,First-Line Supervisors of Office and Administrative Support Workers,48300,2.4,10.802,1.07,27.27,56720,0.7
+Georgia,"Switchboard Operators, Including Answering Service",2560,18.4,0.573,1.24,15.69,32640,1.5
+Georgia,Telephone Operators,240,26.4,0.053,1.65,15.86,33000,7.5
+Georgia,"Communications Equipment Operators, All Other",60,31.1,0.013,0.57,16.18,33650,3.7
+Georgia,Bill and Account Collectors,8780,7.9,1.964,1.22,18.53,38550,1.5
+Georgia,Billing and Posting Clerks,14710,5,3.289,1.04,18.53,38530,1
+Georgia,"Bookkeeping, Accounting, and Auditing Clerks",36960,2.8,8.265,0.8,19.89,41360,0.7
+Georgia,Payroll and Timekeeping Clerks,4430,5.2,0.99,1.02,22.46,46720,1.5
+Georgia,Procurement Clerks,2860,6.9,0.64,1.42,19.42,40400,1.4
+Georgia,Tellers,10900,3.9,2.438,0.81,15.11,31420,1
+Georgia,"Financial Clerks, All Other",750,13.1,0.167,0.8,21.59,44900,5.9
+Georgia,Brokerage Clerks,820,21.7,0.184,0.56,25.86,53780,3.1
+Georgia,Correspondence Clerks,100,12.9,0.022,0.52,20.43,42500,7.7
+Georgia,"Court, Municipal, and License Clerks",5250,5.3,1.174,1.12,17.33,36050,1
+Georgia,"Credit Authorizers, Checkers, and Clerks",530,27.8,0.117,0.65,18.65,38780,3.3
+Georgia,Customer Service Representatives,112130,2.6,25.075,1.26,16.85,35050,1
+Georgia,"Eligibility Interviewers, Government Programs",3930,1.3,0.88,0.92,18.82,39150,2.1
+Georgia,File Clerks,2820,8,0.63,0.9,15.83,32930,1.3
+Georgia,"Hotel, Motel, and Resort Desk Clerks",9060,5.3,2.026,1.11,10.31,21440,1.4
+Georgia,"Interviewers, Except Eligibility and Loan",1020,31.6,0.229,0.18,14.97,31140,6.3
+Georgia,"Library Assistants, Clerical",1070,14.4,0.239,0.41,12.6,26200,2.7
+Georgia,Loan Interviewers and Clerks,4940,7.1,1.104,0.78,17.96,37360,2.3
+Georgia,New Accounts Clerks,530,17.2,0.119,0.4,16.81,34970,3.3
+Georgia,Order Clerks,2390,6.5,0.534,0.57,16.94,35240,1.6
+Georgia,"Human Resources Assistants, Except Payroll and Timekeeping",2690,8.4,0.602,0.75,19.2,39930,1.9
+Georgia,Receptionists and Information Clerks,26230,3.3,5.865,0.81,13.82,28740,0.9
+Georgia,"Information and Record Clerks, All Other",4060,4.4,0.907,0.87,21.02,43720,7.6
+Georgia,Cargo and Freight Agents,3870,11.3,0.866,1.33,22.09,45940,2.1
+Georgia,Couriers and Messengers,2740,17.6,0.612,1.2,12.64,26290,2.6
+Georgia,Public Safety Telecommunicators,3430,3.2,0.766,1.18,15.91,33080,1
+Georgia,"Dispatchers, Except Police, Fire, and Ambulance",5540,6.9,1.239,0.91,19.35,40250,2.1
+Georgia,"Meter Readers, Utilities",1520,3.2,0.34,1.64,19.28,40090,2.7
+Georgia,Postal Service Clerks,2130,0,0.477,0.86,25.13,52280,0.7
+Georgia,Postal Service Mail Carriers,10950,0,2.448,1.06,24.5,50970,0.7
+Georgia,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",2540,0,0.568,0.82,24.86,51710,2
+Georgia,"Production, Planning, and Expediting Clerks",9510,3.9,2.127,0.84,23.06,47960,1.5
+Georgia,"Shipping, Receiving, and Inventory Clerks",28830,3.6,6.447,1.34,16.34,33980,0.8
+Georgia,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2210,11.1,0.493,1.19,16.16,33610,2.7
+Georgia,Executive Secretaries and Executive Administrative Assistants,11670,3.5,2.61,0.71,30.93,64330,0.8
+Georgia,Legal Secretaries and Administrative Assistants,3830,10.4,0.857,0.75,22.43,46650,2.5
+Georgia,Medical Secretaries and Administrative Assistants,20380,4.1,4.558,1.11,17.48,36350,1
+Georgia,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",65440,2.3,14.633,1.05,16.63,34580,0.6
+Georgia,Data Entry Keyers,4120,11.5,0.921,0.85,16.28,33860,1.5
+Georgia,Word Processors and Typists,260,30.3,0.058,0.18,20.14,41890,3.7
+Georgia,Desktop Publishers,260,19.1,0.059,0.99,22.32,46430,6.1
+Georgia,Insurance Claims and Policy Processing Clerks,8700,17.3,1.945,1.11,20.74,43130,3.1
+Georgia,"Mail Clerks and Mail Machine Operators, Except Postal Service",2140,13.5,0.479,0.84,14.34,29830,2
+Georgia,"Office Clerks, General",73860,2.4,16.517,0.82,15.67,32600,0.8
+Georgia,"Office Machine Operators, Except Computer",830,12.4,0.187,0.6,15.67,32600,3.1
+Georgia,Proofreaders and Copy Markers,180,29,0.04,0.76,15.51,32260,6.7
+Georgia,Statistical Assistants,240,2,0.053,0.79,24.71,51400,3
+Georgia,"Office and Administrative Support Workers, All Other",4960,6,1.108,0.86,17.83,37080,2
+Georgia,"Farming, Fishing, and Forestry Occupations",11120,6.2,2.486,0.75,15.24,31700,2.3
+Georgia,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",720,7.9,0.162,1.05,25.56,53170,3.3
+Georgia,Agricultural Inspectors,570,4.5,0.127,1.35,20.4,42440,0.8
+Georgia,"Graders and Sorters, Agricultural Products",2750,12.9,0.616,2.63,11.32,23540,2.2
+Georgia,Agricultural Equipment Operators,780,32,0.174,0.95,12.93,26900,4.6
+Georgia,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2880,12.2,0.644,0.32,11.88,24720,3.2
+Georgia,"Farmworkers, Farm, Ranch, and Aquacultural Animals",480,15.6,0.107,0.43,16.37,34050,7
+Georgia,"Agricultural Workers, All Other",**,**,**,**,18.95,39420,8.5
+Georgia,Fallers,230,43.3,0.051,1.55,30.13,62670,11
+Georgia,Logging Equipment Operators,1970,15.6,0.441,2.49,18.52,38530,3.4
+Georgia,Log Graders and Scalers,150,20.2,0.034,1.53,15.45,32130,4.4
+Georgia,"Logging Workers, All Other",190,29.1,0.043,1.7,15.67,32600,8
+Georgia,Construction and Extraction Occupations,149200,2.1,33.364,0.79,21.01,43690,0.9
+Georgia,First-Line Supervisors of Construction Trades and Extraction Workers,17940,3.7,4.011,0.94,31.22,64940,1
+Georgia,Boilermakers,300,40.3,0.067,0.62,30.18,62780,3.4
+Georgia,Brickmasons and Blockmasons,440,20.5,0.099,0.24,17.65,36710,5.3
+Georgia,Carpenters,12580,5.5,2.813,0.56,22.74,47300,6.2
+Georgia,Carpet Installers,760,23.8,0.169,0.95,18.06,37560,5.4
+Georgia,"Floor Layers, Except Carpet, Wood, and Hard Tiles",230,20.4,0.051,0.46,23.93,49780,6.1
+Georgia,Tile and Stone Setters,520,38.7,0.117,0.42,16.68,34690,4.2
+Georgia,Cement Masons and Concrete Finishers,3480,10.8,0.779,0.58,21.09,43860,2.7
+Georgia,Construction Laborers,32250,5.4,7.211,1.04,15.84,32950,1.1
+Georgia,"Paving, Surfacing, and Tamping Equipment Operators",1630,17.6,0.365,1.17,17.35,36090,2.1
+Georgia,Pile Driver Operators,50,27.9,0.011,0.48,*,*,*
+Georgia,Operating Engineers and Other Construction Equipment Operators,12930,5.3,2.891,1.05,18.41,38290,1.1
+Georgia,Drywall and Ceiling Tile Installers,1440,22.4,0.322,0.46,17.96,37350,8.2
+Georgia,Tapers,40,49.3,0.008,0.07,24.91,51810,15.1
+Georgia,Electricians,17020,5,3.805,0.81,24.72,51430,1.3
+Georgia,Glaziers,820,15.1,0.183,0.51,19.64,40860,6
+Georgia,"Insulation Workers, Floor, Ceiling, and Wall",650,20.5,0.144,0.63,22.18,46130,2.5
+Georgia,"Insulation Workers, Mechanical",810,19.7,0.181,1,18.22,37900,1.9
+Georgia,"Painters, Construction and Maintenance",3040,9.7,0.681,0.43,19.81,41200,2.8
+Georgia,Pipelayers,1820,39.4,0.408,1.65,17.51,36420,3
+Georgia,"Plumbers, Pipefitters, and Steamfitters",9900,7.2,2.214,0.73,23.64,49180,3.6
+Georgia,Plasterers and Stucco Masons,260,48.9,0.057,0.31,17.08,35520,6.4
+Georgia,Reinforcing Iron and Rebar Workers,160,47.3,0.035,0.27,22.74,47300,4
+Georgia,Roofers,2210,5.2,0.495,0.56,17.76,36940,3.2
+Georgia,Sheet Metal Workers,4400,10.8,0.984,1.1,23.08,48000,3.7
+Georgia,Structural Iron and Steel Workers,1650,19.8,0.37,0.71,21.03,43730,2.9
+Georgia,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",**,**,**,**,11.97,24900,11.6
+Georgia,Helpers--Carpenters,460,23.8,0.103,0.46,14.69,30560,3.4
+Georgia,Helpers--Electricians,5350,9.9,1.196,2.22,14.94,31070,1.9
+Georgia,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",100,31.7,0.022,0.3,14.68,30520,8.4
+Georgia,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",1930,16.8,0.432,1.09,14.72,30620,2.8
+Georgia,Helpers--Roofers,60,12,0.013,0.21,13.51,28090,5.6
+Georgia,"Helpers, Construction Trades, All Other",1240,8.7,0.277,1.43,16.74,34820,5.1
+Georgia,Construction and Building Inspectors,2190,9.2,0.489,0.65,24.04,50010,3.6
+Georgia,Elevator and Escalator Installers and Repairers,530,15.3,0.119,0.62,26.85,55860,7.7
+Georgia,Fence Erectors,480,32.4,0.108,0.61,16.58,34490,9.4
+Georgia,Hazardous Materials Removal Workers,730,22.7,0.163,0.54,19.92,41430,4.1
+Georgia,Highway Maintenance Workers,2530,4.8,0.566,0.55,14.45,30050,1.1
+Georgia,Rail-Track Laying and Maintenance Equipment Operators,340,32.7,0.077,0.7,26.12,54330,2.6
+Georgia,Septic Tank Servicers and Sewer Pipe Cleaners,980,32,0.218,1.08,16.17,33640,3.2
+Georgia,Miscellaneous Construction and Related Workers,1920,15.3,0.429,1.97,21.51,44730,7.7
+Georgia,"Rotary Drill Operators, Oil and Gas",50,40.1,0.011,0.08,22.9,47620,23.1
+Georgia,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1370,25.1,0.307,1.02,19.56,40690,2.7
+Georgia,Continuous Mining Machine Operators,**,**,**,**,24.46,50880,4
+Georgia,"Rock Splitters, Quarry",240,22.4,0.054,1.56,18.36,38200,2.6
+Georgia,Helpers--Extraction Workers,50,21.5,0.011,0.1,13.8,28710,8.9
+Georgia,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",400,49.2,0.09,0.53,21.66,45060,7.3
+Georgia,"Underground Mining Machine Operators and Extraction Workers, All Other",160,29.6,0.037,0.39,20.28,42190,2.6
+Georgia,"Installation, Maintenance, and Repair Occupations",187070,1.5,41.833,1.08,22.85,47530,0.9
+Georgia,"First-Line Supervisors of Mechanics, Installers, and Repairers",17120,2.8,3.828,1.16,32.3,67180,0.9
+Georgia,"Computer, Automated Teller, and Office Machine Repairers",3310,9.1,0.74,1.11,18.04,37520,2.9
+Georgia,"Radio, Cellular, and Tower Equipment Installers and Repairers",170,45.8,0.037,0.38,29.08,60490,5.1
+Georgia,"Telecommunications Equipment Installers and Repairers, Except Line Installers",9850,7.6,2.203,1.55,25.8,53660,2
+Georgia,Avionics Technicians,1490,12.3,0.334,2.26,30.69,63830,2.6
+Georgia,"Electric Motor, Power Tool, and Related Repairers",280,20.6,0.063,0.58,20.49,42620,2.7
+Georgia,"Electrical and Electronics Installers and Repairers, Transportation Equipment",**,**,**,**,23.44,48750,5.7
+Georgia,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",2510,6.5,0.561,1.4,27.62,57450,1.8
+Georgia,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1100,10.1,0.246,1.6,39.63,82430,1.8
+Georgia,"Electronic Equipment Installers and Repairers, Motor Vehicles",100,42.1,0.022,0.32,21.26,44230,11.8
+Georgia,Audiovisual Equipment Installers and Repairers,510,21.8,0.115,0.66,15.81,32890,3.6
+Georgia,Security and Fire Alarm Systems Installers,2070,17,0.463,0.95,20.37,42370,2.8
+Georgia,Aircraft Mechanics and Service Technicians,7490,4,1.674,1.84,*,*,*
+Georgia,Automotive Body and Related Repairers,4570,9.4,1.023,1.04,23.31,48480,3.6
+Georgia,Automotive Glass Installers and Repairers,**,**,**,**,16.67,34660,5.5
+Georgia,Automotive Service Technicians and Mechanics,21250,4.1,4.753,1.07,20.69,43040,1.8
+Georgia,Bus and Truck Mechanics and Diesel Engine Specialists,7730,6.8,1.728,0.95,23.03,47890,1.2
+Georgia,Farm Equipment Mechanics and Service Technicians,1210,14.1,0.271,1.1,18.22,37900,3.8
+Georgia,"Mobile Heavy Equipment Mechanics, Except Engines",4620,8.6,1.034,1.03,22.75,47330,1.6
+Georgia,Rail Car Repairers,800,32.3,0.178,1.01,21.95,45650,2.9
+Georgia,Motorboat Mechanics and Service Technicians,560,27.4,0.125,0.8,16.58,34480,4.9
+Georgia,Motorcycle Mechanics,320,27.3,0.072,0.68,23.52,48930,9.8
+Georgia,Outdoor Power Equipment and Other Small Engine Mechanics,830,17,0.185,0.85,16.81,34970,3.4
+Georgia,Bicycle Repairers,**,**,**,**,16.18,33640,4.6
+Georgia,Recreational Vehicle Service Technicians,230,33.8,0.052,0.49,20.88,43440,5.9
+Georgia,Tire Repairers and Changers,2500,15.9,0.559,0.74,14.64,30450,5.8
+Georgia,Mechanical Door Repairers,1170,37,0.261,1.66,22.62,47060,2.5
+Georgia,"Control and Valve Installers and Repairers, Except Mechanical Door",1360,18.2,0.304,0.85,24.98,51960,3.2
+Georgia,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",9970,7.8,2.229,0.96,21.14,43970,2
+Georgia,Home Appliance Repairers,1280,29.2,0.285,1.35,20.6,42840,7
+Georgia,Industrial Machinery Mechanics,12620,3.6,2.821,1.07,24.7,51380,1.2
+Georgia,"Maintenance Workers, Machinery",1670,12.5,0.374,0.75,22.22,46210,2.9
+Georgia,Millwrights,2080,14.1,0.464,1.44,23.07,47980,1.7
+Georgia,Electrical Power-Line Installers and Repairers,6200,7.5,1.387,1.82,26.87,55880,2
+Georgia,Telecommunications Line Installers and Repairers,2640,21.7,0.59,0.72,20.31,42240,2.8
+Georgia,Camera and Photographic Equipment Repairers,140,37.2,0.031,1.25,20.58,42800,15.5
+Georgia,Medical Equipment Repairers,990,17.6,0.221,0.7,24.48,50930,3.7
+Georgia,Musical Instrument Repairers and Tuners,**,**,**,**,21.79,45330,12.7
+Georgia,Watch and Clock Repairers,**,**,**,**,19.21,39960,21.4
+Georgia,"Precision Instrument and Equipment Repairers, All Other",210,14.1,0.048,0.66,27.45,57090,2.9
+Georgia,"Maintenance and Repair Workers, General",43470,2.2,9.72,1.01,18.31,38090,0.6
+Georgia,"Coin, Vending, and Amusement Machine Servicers and Repairers",820,18.8,0.183,0.86,17.9,37240,4.4
+Georgia,Locksmiths and Safe Repairers,310,20.6,0.07,0.6,17.29,35960,5
+Georgia,Manufactured Building and Mobile Home Installers,40,31.7,0.008,0.41,16.42,34150,7.2
+Georgia,Riggers,430,19.6,0.095,0.61,20.52,42680,6.5
+Georgia,Signal and Track Switch Repairers,40,25.2,0.009,0.19,28.21,58690,9
+Georgia,"Helpers--Installation, Maintenance, and Repair Workers",3360,12.7,0.752,1.11,14.11,29350,2.6
+Georgia,"Installation, Maintenance, and Repair Workers, All Other",6310,10.9,1.411,1.29,19.44,40430,2
+Georgia,Production Occupations,317050,1.6,70.899,1.14,17.16,35690,0.7
+Georgia,First-Line Supervisors of Production and Operating Workers,21740,2.2,4.862,1.13,30.13,62670,1
+Georgia,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",2690,3.6,0.601,2.06,27.15,56480,4.4
+Georgia,"Coil Winders, Tapers, and Finishers",820,10.8,0.183,2.12,19.07,39670,2.8
+Georgia,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",4340,7.2,0.97,0.5,17.17,35710,2.2
+Georgia,Engine and Other Machine Assemblers,70,33.9,0.015,0.05,18.99,39500,3.6
+Georgia,Structural Metal Fabricators and Fitters,1640,17.3,0.368,0.7,17.81,37050,3.2
+Georgia,Fiberglass Laminators and Fabricators,290,30.2,0.065,0.48,14.81,30810,6.7
+Georgia,Miscellaneous Assemblers and Fabricators,60010,4.6,13.419,1.44,14.48,30120,1.1
+Georgia,Bakers,5210,10.4,1.165,0.93,13.25,27550,3.5
+Georgia,Butchers and Meat Cutters,4570,13.9,1.021,1.1,14.19,29520,2
+Georgia,"Meat, Poultry, and Fish Cutters and Trimmers",9810,9.7,2.195,2.09,12.25,25490,1.1
+Georgia,Slaughterers and Meat Packers,5550,8.7,1.241,2.48,12.58,26170,1.5
+Georgia,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",230,23.6,0.052,0.36,14.32,29790,3.7
+Georgia,Food Batchmakers,3160,7.9,0.706,0.65,15.19,31600,2.5
+Georgia,Food Cooking Machine Operators and Tenders,980,26.8,0.218,1.07,15.24,31690,3.7
+Georgia,"Food Processing Workers, All Other",**,**,**,**,13.17,27390,3.5
+Georgia,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",4120,11.8,0.922,1.76,17.96,37350,4.4
+Georgia,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",70,49.5,0.017,0.15,18.14,37740,8.5
+Georgia,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",460,16.2,0.103,0.47,17.26,35910,3.4
+Georgia,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",4260,8.2,0.953,0.72,16.54,34400,1.7
+Georgia,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",130,47.8,0.03,0.4,19.23,39990,2.8
+Georgia,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1020,7.8,0.227,0.43,17.11,35590,6.3
+Georgia,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",160,32.7,0.035,0.18,19.31,40170,3.6
+Georgia,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",100,36.9,0.023,0.18,*,*,*
+Georgia,Machinists,7860,6.1,1.757,0.67,20.73,43110,2.7
+Georgia,Metal-Refining Furnace Operators and Tenders,200,13.4,0.044,0.37,17.67,36760,5
+Georgia,"Pourers and Casters, Metal",60,21.6,0.014,0.25,16.39,34090,7.6
+Georgia,"Model Makers, Metal and Plastic",40,28.3,0.009,0.3,27.01,56180,3.3
+Georgia,Foundry Mold and Coremakers,250,19,0.055,0.46,13.47,28010,2.4
+Georgia,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",4060,11.4,0.908,0.77,15.86,33000,2
+Georgia,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3150,11.5,0.704,0.7,17.59,36580,3.4
+Georgia,Tool and Die Makers,1040,10.2,0.233,0.48,25.35,52730,1.8
+Georgia,"Welders, Cutters, Solderers, and Brazers",14810,7.1,3.312,1.18,18.64,38780,1.4
+Georgia,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",620,15.2,0.138,0.58,18.8,39110,3.4
+Georgia,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",310,26.7,0.069,0.52,17.77,36950,3
+Georgia,"Layout Workers, Metal and Plastic",**,**,**,**,24.39,50720,3.7
+Georgia,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",690,18.9,0.155,0.54,19.15,39830,10.9
+Georgia,"Tool Grinders, Filers, and Sharpeners",140,16.8,0.031,0.7,15.99,33260,9.2
+Georgia,"Metal Workers and Plastic Workers, All Other",**,**,**,**,22.93,47690,2.2
+Georgia,Prepress Technicians and Workers,830,26,0.186,0.9,20.14,41900,3.2
+Georgia,Printing Press Operators,6110,11.3,1.367,1.16,17.19,35760,2.5
+Georgia,Print Binding and Finishing Workers,1130,13.2,0.253,0.81,16.17,33640,3.1
+Georgia,Laundry and Dry-Cleaning Workers,6140,8.5,1.374,0.96,10.96,22790,2.1
+Georgia,"Pressers, Textile, Garment, and Related Materials",1660,15.2,0.372,1.43,9.95,20700,3.1
+Georgia,Sewing Machine Operators,6900,10.9,1.543,1.7,12.28,25540,1.8
+Georgia,Shoe and Leather Workers and Repairers,160,35.3,0.036,0.61,*,*,*
+Georgia,"Tailors, Dressmakers, and Custom Sewers",550,20.3,0.124,0.75,16.55,34420,4.2
+Georgia,Textile Bleaching and Dyeing Machine Operators and Tenders,1410,12,0.315,5.33,14.87,30930,1.7
+Georgia,"Textile Cutting Machine Setters, Operators, and Tenders",1640,11.4,0.367,4.08,14.1,29330,1.8
+Georgia,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",4040,8.3,0.904,6.29,16.59,34510,1.5
+Georgia,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",12070,4,2.699,12.71,14.72,30620,1
+Georgia,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",2460,11.2,0.55,4.43,16.51,34340,1.5
+Georgia,Fabric and Apparel Patternmakers,70,47.3,0.015,0.37,13.89,28900,6.9
+Georgia,Upholsterers,540,11.7,0.12,0.6,19.28,40090,5
+Georgia,"Textile, Apparel, and Furnishings Workers, All Other",1120,7.6,0.251,2.04,14.96,31120,3.1
+Georgia,Cabinetmakers and Bench Carpenters,2530,7.8,0.567,0.84,18.32,38110,2.1
+Georgia,Furniture Finishers,440,17.4,0.098,0.89,15.94,33150,2.2
+Georgia,"Model Makers, Wood",40,25.4,0.008,1.43,28.04,58320,3.4
+Georgia,"Sawing Machine Setters, Operators, and Tenders, Wood",2370,15.9,0.53,1.53,14.08,29290,2.7
+Georgia,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",3730,9.9,0.834,1.55,13.87,28850,1.7
+Georgia,"Woodworkers, All Other",130,17.7,0.029,0.65,15.64,32540,6.1
+Georgia,Power Distributors and Dispatchers,470,10.6,0.104,1.42,42.95,89330,3.5
+Georgia,Power Plant Operators,760,23.2,0.17,0.74,35.19,73200,2.9
+Georgia,Stationary Engineers and Boiler Operators,300,6.9,0.067,0.3,27.56,57330,3.4
+Georgia,Water and Wastewater Treatment Plant and System Operators,3530,5,0.79,0.94,19.12,39780,1.3
+Georgia,Chemical Plant and System Operators,690,24.1,0.154,0.78,24.75,51480,7
+Georgia,Gas Plant Operators,150,15.2,0.033,0.33,28.95,60220,2.1
+Georgia,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",**,**,**,**,27.98,58190,3.7
+Georgia,"Plant and System Operators, All Other",260,22.2,0.058,0.66,21.8,45340,4.7
+Georgia,Chemical Equipment Operators and Tenders,2280,10.9,0.51,0.86,19.43,40420,3.2
+Georgia,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",860,17.1,0.193,0.55,15.67,32600,2.7
+Georgia,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",610,13.2,0.137,0.6,19.13,39790,4
+Georgia,"Grinding and Polishing Workers, Hand",850,17.5,0.19,0.96,15.4,32020,4.1
+Georgia,"Mixing and Blending Machine Setters, Operators, and Tenders",5490,6.3,1.228,1.44,18.43,38320,1.9
+Georgia,"Cutters and Trimmers, Hand",640,17,0.143,2.17,16.17,33640,9.4
+Georgia,"Cutting and Slicing Machine Setters, Operators, and Tenders",1860,11.5,0.416,1.05,17.69,36790,3.9
+Georgia,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1240,14.7,0.276,0.56,16.68,34690,2.5
+Georgia,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",1140,9.8,0.255,1.98,19.49,40530,4.4
+Georgia,"Inspectors, Testers, Sorters, Samplers, and Weighers",20500,4.1,4.583,1.17,18.14,37740,1.8
+Georgia,Jewelers and Precious Stone and Metal Workers,330,21,0.073,0.45,16.46,34240,8.6
+Georgia,Dental Laboratory Technicians,1280,31.9,0.286,1.22,20.89,43450,1.6
+Georgia,Medical Appliance Technicians,580,28.8,0.129,1.34,18.51,38490,2.6
+Georgia,Ophthalmic Laboratory Technicians,860,10.9,0.191,0.96,13.71,28510,6.6
+Georgia,Packaging and Filling Machine Operators and Tenders,10290,5.2,2.3,0.87,16.66,34650,3.1
+Georgia,"Painting, Coating, and Decorating Workers",290,26.8,0.064,0.76,19.5,40550,5.2
+Georgia,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",4280,7.3,0.956,0.96,19.12,39780,3.1
+Georgia,Photographic Process Workers and Processing Machine Operators,430,27.6,0.096,1.19,13.7,28500,8.1
+Georgia,Computer Numerically Controlled Tool Operators,2320,14.8,0.518,0.5,19.71,40990,2.6
+Georgia,Computer Numerically Controlled Tool Programmers,220,15.7,0.05,0.29,23.34,48550,4.3
+Georgia,Adhesive Bonding Machine Operators and Tenders,**,**,**,**,16.76,34850,2.2
+Georgia,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",430,12,0.095,0.85,15.26,31740,3.5
+Georgia,Cooling and Freezing Equipment Operators and Tenders,390,10.4,0.088,1.48,15.8,32860,3.8
+Georgia,Etchers and Engravers,100,19.9,0.023,0.33,15.23,31670,4.8
+Georgia,"Molders, Shapers, and Casters, Except Metal and Plastic",1110,15.1,0.248,0.81,16.82,34990,3.8
+Georgia,"Paper Goods Machine Setters, Operators, and Tenders",5630,9.8,1.258,1.84,20.86,43400,4.8
+Georgia,Tire Builders,1450,17,0.323,2.29,18.65,38790,4.7
+Georgia,Helpers--Production Workers,9520,9.9,2.13,1.03,13.72,28540,2
+Georgia,"Production Workers, All Other",11490,5.4,2.57,1.7,14.21,29560,2.6
+Georgia,Transportation and Material Moving Occupations,450020,1.4,100.633,1.18,16.95,35260,1.8
+Georgia,Aircraft Cargo Handling Supervisors,300,10.6,0.068,1.05,25.92,53910,4.2
+Georgia,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",17430,3.4,3.897,1.26,26.51,55140,1.3
+Georgia,"Airline Pilots, Copilots, and Flight Engineers",**,**,**,**,*,99640,12.4
+Georgia,Commercial Pilots,1370,16.9,0.307,1.19,*,140500,11.7
+Georgia,Air Traffic Controllers,970,1.8,0.217,1.44,64.69,134550,2.6
+Georgia,Airfield Operations Specialists,370,6.2,0.082,1.13,28.49,59250,3.4
+Georgia,Flight Attendants,**,**,**,**,*,55780,3.5
+Georgia,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",990,15.3,0.22,2.2,14.72,30620,6
+Georgia,Driver/Sales Workers,16080,11.1,3.595,1.19,14.27,29670,3.9
+Georgia,Heavy and Tractor-Trailer Truck Drivers,63010,3.1,14.09,1.11,21.83,45410,1.2
+Georgia,Light Truck Drivers,30520,4.2,6.826,1.09,17.82,37060,2.2
+Georgia,"Bus Drivers, Transit and Intercity",2680,14.2,0.599,0.49,13.15,27350,2.1
+Georgia,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",20930,6,4.68,0.98,12.94,26910,4.5
+Georgia,"Motor Vehicle Operators, All Other",1210,14,0.27,0.7,16.79,34920,3.6
+Georgia,Locomotive Engineers,**,**,**,**,29.53,61430,4.2
+Georgia,"Rail Yard Engineers, Dinkey Operators, and Hostlers",210,14.8,0.048,1.3,21.1,43880,6.6
+Georgia,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",**,**,**,**,24.89,51780,4.9
+Georgia,Railroad Conductors and Yardmasters,1100,44.5,0.245,0.79,31.12,64730,2.8
+Georgia,Subway and Streetcar Operators,240,42.9,0.054,0.74,18.46,38410,16.1
+Georgia,Sailors and Marine Oilers,**,**,**,**,19.11,39740,4.8
+Georgia,"Captains, Mates, and Pilots of Water Vessels",420,43.3,0.093,0.41,33.12,68880,2.6
+Georgia,Ship Engineers,**,**,**,**,37.1,77160,3.1
+Georgia,Parking Attendants,3350,16.6,0.749,0.75,10.29,21400,2.3
+Georgia,Automotive and Watercraft Service Attendants,3610,13.8,0.808,1.01,12.2,25380,2.9
+Georgia,Traffic Technicians,240,5.8,0.053,1.05,18.04,37530,2
+Georgia,Transportation Inspectors,1250,7.3,0.28,1.37,41.27,85840,3.2
+Georgia,Passenger Attendants,570,22,0.128,0.66,12.15,25270,7.9
+Georgia,"Aircraft Service Attendants and Transportation Workers, All Other",1790,17.1,0.4,1.68,16.53,34390,4.3
+Georgia,Conveyor Operators and Tenders,710,44.2,0.159,0.97,17.84,37100,6.2
+Georgia,Crane and Tower Operators,1050,13.3,0.234,0.76,24.75,51480,4.9
+Georgia,Dredge Operators,**,**,**,**,33.83,70370,6.2
+Georgia,Hoist and Winch Operators,**,**,**,**,31.64,65810,3.6
+Georgia,Industrial Truck and Tractor Operators,36650,2.8,8.195,1.91,17.82,37050,2.5
+Georgia,Cleaners of Vehicles and Equipment,9680,9.6,2.164,0.83,12.13,25230,2.6
+Georgia,"Laborers and Freight, Stock, and Material Movers, Hand",127990,3.2,28.621,1.42,14.07,29270,0.8
+Georgia,Machine Feeders and Offbearers,2580,6.9,0.577,1.34,16.02,33320,3.5
+Georgia,"Packers and Packagers, Hand",25590,4.7,5.723,1.33,11.88,24700,1.3
+Georgia,Stockers and Order Fillers,57900,2.7,12.948,0.89,13.01,27070,0.7
+Georgia,"Pump Operators, Except Wellhead Pumpers",110,32.5,0.025,0.36,22.6,47010,7.2
+Georgia,Refuse and Recyclable Material Collectors,3750,6,0.838,1.01,14.98,31160,2.1
+Georgia,"Tank Car, Truck, and Ship Loaders",480,42.6,0.108,1.36,24.03,49990,19.1
+Georgia,"Material Moving Workers, All Other",720,19.2,0.162,0.84,17.95,37340,3.3

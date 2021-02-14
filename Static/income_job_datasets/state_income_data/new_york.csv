@@ -1,0 +1,782 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+New York,All Occupations,9522980,0.3,1000,1,30.76,63970,0.5
+New York,Management Occupations,502060,0.8,52.72,0.96,75.69,157440,0.6
+New York,Chief Executives,8990,3.2,0.945,0.67,103.6,215490,2.2
+New York,General and Operations Managers,168730,1.4,17.719,1.08,74.83,155640,0.7
+New York,Legislators,6310,2.1,0.663,1.86,*,90230,0.6
+New York,Advertising and Promotions Managers,7840,5.8,0.824,4.82,88.9,184920,1.9
+New York,Marketing Managers,21550,3,2.263,1.26,89.59,186350,1.2
+New York,Sales Managers,24730,2.4,2.597,0.95,93.31,194090,1
+New York,Public Relations and Fundraising Managers,6550,4.8,0.688,1.28,83.77,174240,2.5
+New York,Administrative Services and Facilities Managers,19460,1.9,2.043,0.98,66.44,138190,1
+New York,Computer and Information Systems Managers,28960,2.5,3.041,1.03,91.53,190390,1.4
+New York,Financial Managers,46100,2.3,4.84,1.09,101.08,210240,1.1
+New York,Industrial Production Managers,5530,2.9,0.581,0.46,62.99,131010,0.9
+New York,Purchasing Managers,4310,3.9,0.452,0.92,76.23,158560,3.2
+New York,"Transportation, Storage, and Distribution Managers",4510,3.5,0.473,0.53,58.03,120700,2.1
+New York,Compensation and Benefits Managers,1550,4.1,0.163,1.42,84.65,176070,3
+New York,Human Resources Managers,10980,1.7,1.153,1.09,76.36,158830,1.9
+New York,Training and Development Managers,3050,3.6,0.32,1.22,75.44,156910,1.2
+New York,"Farmers, Ranchers, and Other Agricultural Managers",110,21.8,0.012,0.35,48.44,100750,6.2
+New York,Construction Managers,11380,4.3,1.195,0.6,65.06,135320,2.9
+New York,"Education and Childcare Administrators, Preschool and Daycare",3070,6.1,0.322,0.9,36.44,75790,3.1
+New York,"Education Administrators, Kindergarten through Secondary",20670,2.9,2.171,1.18,*,130600,1.7
+New York,"Education Administrators, Postsecondary",**,**,**,**,67.73,140870,1.9
+New York,"Education Administrators, All Other",2120,8.8,0.223,0.73,53.8,111910,3.2
+New York,Architectural and Engineering Managers,7060,3.2,0.742,0.56,79.01,164340,1.2
+New York,Food Service Managers,10470,5.6,1.099,0.69,36.43,75760,1.8
+New York,Gambling Managers,200,47.1,0.021,0.7,39.27,81670,2.4
+New York,Lodging Managers,1070,12.2,0.112,0.43,39.76,82700,5.4
+New York,Medical and Health Services Managers,25740,2.1,2.703,1.01,70.67,147000,2
+New York,Natural Sciences Managers,1450,6.7,0.153,0.33,76.73,159600,3.2
+New York,Postmasters and Mail Superintendents,830,0,0.087,0.93,38.14,79340,0.7
+New York,"Property, Real Estate, and Community Association Managers",8620,8.4,0.905,0.6,52.69,109600,3.3
+New York,Social and Community Service Managers,13820,2.2,1.451,1.36,41.51,86330,1
+New York,Emergency Management Directors,640,2.9,0.068,0.99,48.22,100290,2.8
+New York,Funeral Home Managers,540,6.1,0.056,0.88,52.52,109250,9.8
+New York,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",16620,2.7,1.745,0.54,63.8,132710,2.1
+New York,Business and Financial Operations Occupations,611820,0.9,64.247,1.15,46.22,96150,0.9
+New York,"Agents and Business Managers of Artists, Performers, and Athletes",3560,8.4,0.373,3.21,48.92,101750,5.4
+New York,Buyers and Purchasing Agents,25840,4.5,2.714,0.95,36.55,76030,1
+New York,"Claims Adjusters, Examiners, and Investigators",17930,3.9,1.882,0.96,35.24,73300,1.4
+New York,"Insurance Appraisers, Auto Damage",580,14.9,0.061,0.65,32.67,67950,3.5
+New York,Compliance Officers,22040,2.2,2.314,1.07,37.61,78240,1
+New York,Cost Estimators,9940,3.7,1.043,0.73,37.56,78120,1.4
+New York,Human Resources Specialists,41880,2.7,4.398,1.02,36.62,76170,1.1
+New York,Labor Relations Specialists,8080,7.6,0.848,1.65,39.21,81560,4
+New York,Logisticians,3900,5.6,0.41,0.33,36.52,75960,1.4
+New York,Management Analysts,53370,2.4,5.604,1.16,53.98,112280,1.7
+New York,"Meeting, Convention, and Event Planners",10990,6.7,1.154,1.44,33.3,69250,3.7
+New York,Fundraisers,8260,4.4,0.867,1.56,34.06,70840,2.2
+New York,"Compensation, Benefits, and Job Analysis Specialists",9760,3.7,1.024,1.68,37.89,78810,1.1
+New York,Training and Development Specialists,24190,2.8,2.54,1.19,34.65,72070,1.5
+New York,Market Research Analysts and Marketing Specialists,68680,2.8,7.212,1.56,37.61,78240,0.9
+New York,"Project Management Specialists and Business Operations Specialists, All Other",49010,2.8,5.146,0.59,44.26,92060,1.3
+New York,Accountants and Auditors,112030,2.2,11.764,1.35,47.43,98650,1
+New York,Property Appraisers and Assessors,2970,11.2,0.312,0.81,31.43,65380,2.6
+New York,Budget Analysts,3150,3.4,0.331,0.95,38.61,80300,1.5
+New York,Credit Analysts,7690,10.9,0.807,1.6,59.36,123470,3
+New York,Personal Financial Advisors,26150,4.4,2.746,1.92,80.19,166790,3.1
+New York,Insurance Underwriters,7790,8.2,0.818,1.2,47.48,98760,3.1
+New York,Financial Examiners,11310,7.1,1.187,2.7,58.1,120840,2.7
+New York,Credit Counselors,2480,19.3,0.26,1.19,30.53,63510,3
+New York,Loan Officers,13420,6.2,1.409,0.67,49.54,103040,4.9
+New York,"Tax Examiners and Collectors, and Revenue Agents",4650,0.6,0.489,1.34,34.16,71060,0.9
+New York,Tax Preparers,4200,12.1,0.442,0.97,31.53,65580,5.1
+New York,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",57980,2.8,6.088,1.95,63.6,132290,1.8
+New York,Computer and Mathematical Occupations,272070,1.8,28.57,0.92,48.11,100060,0.8
+New York,Computer Systems Analysts,39860,5.3,4.186,1.04,52.84,109910,1.9
+New York,Information Security Analysts,7120,4.9,0.748,0.87,58.53,121750,1.6
+New York,Computer and Information Research Scientists,1390,17.4,0.146,0.7,66.26,137810,2
+New York,Computer Network Support Specialists,13710,6,1.439,1.14,37.4,77790,1.7
+New York,Computer User Support Specialists,45250,4,4.751,1.08,29.53,61420,0.9
+New York,Computer Network Architects,8350,4,0.877,0.85,59.02,122760,2.3
+New York,Network and Computer Systems Administrators,25910,2.1,2.721,1.13,47.03,97820,0.7
+New York,Database Administrators and Architects,7730,3.8,0.812,0.95,49.6,103170,1.4
+New York,Computer Programmers,13380,5.5,1.405,1.03,44.5,92550,1.8
+New York,Software Developers and Software Quality Assurance Analysts and Testers,78890,4,8.284,0.86,57.48,119570,1.1
+New York,Web Developers and Digital Interface Designers,13000,4.8,1.365,1.35,39.86,82910,2
+New York,"Computer Occupations, All Other",5360,6.4,0.563,0.21,37.63,78260,2.5
+New York,Actuaries,2330,8.6,0.244,1.61,73.52,152920,2.8
+New York,Mathematicians,100,1.1,0.01,0.56,57.31,119200,9.1
+New York,Operations Research Analysts,6510,6.3,0.683,1.01,50.43,104890,3
+New York,Statisticians,1200,14.6,0.126,0.47,45.87,95400,1.3
+New York,"Data Scientists and Mathematical Science Occupations, All Other",1980,11,0.208,0.99,60.18,125170,4.4
+New York,Architecture and Engineering Occupations,107230,1.7,11.26,0.64,43.5,90480,0.9
+New York,"Architects, Except Landscape and Naval",11470,7.7,1.204,1.67,51.4,106910,3.1
+New York,Landscape Architects,1570,27.1,0.165,1.2,38.61,80300,5
+New York,Cartographers and Photogrammetrists,130,26.1,0.014,0.18,40.29,83810,7.4
+New York,Surveyors,1610,17.2,0.169,0.55,39.93,83050,4.5
+New York,Aerospace Engineers,270,12.8,0.028,0.07,57.75,120120,3.5
+New York,Bioengineers and Biomedical Engineers,560,10.1,0.059,0.44,48.68,101260,2.4
+New York,Chemical Engineers,770,10.5,0.081,0.4,50.1,104220,1.8
+New York,Civil Engineers,16400,4.2,1.723,0.81,49.43,102820,2
+New York,Computer Hardware Engineers,1240,9.7,0.131,0.28,57.85,120320,2.8
+New York,Electrical Engineers,9560,5.8,1.004,0.79,51.14,106360,1.4
+New York,"Electronics Engineers, Except Computer",3660,7.7,0.384,0.44,47.6,99000,2
+New York,Environmental Engineers,3110,7.8,0.327,0.9,45.55,94750,2.3
+New York,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",1760,9.3,0.184,1.05,47.33,98440,2.3
+New York,Industrial Engineers,11760,3.8,1.235,0.62,46.41,96530,3.1
+New York,Marine Engineers and Naval Architects,200,33.7,0.021,0.28,*,*,*
+New York,Materials Engineers,800,15.8,0.084,0.46,48.41,100680,4
+New York,Mechanical Engineers,10050,3.3,1.055,0.5,44.75,93090,1
+New York,"Mining and Geological Engineers, Including Mining Safety Engineers",30,20.2,0.003,0.08,50.77,105600,8.2
+New York,Nuclear Engineers,290,6.8,0.03,0.28,54.52,113400,2.2
+New York,"Engineers, All Other",4740,6.8,0.498,0.48,45.45,94540,1.8
+New York,Architectural and Civil Drafters,6360,11.2,0.668,0.99,29.73,61840,1.6
+New York,Electrical and Electronics Drafters,1230,11.8,0.13,0.79,35.93,74740,7.1
+New York,Mechanical Drafters,2540,5.9,0.267,0.71,28.34,58950,1.6
+New York,"Drafters, All Other",650,13,0.068,0.68,31.18,64850,3.5
+New York,Aerospace Engineering and Operations Technologists and Technicians,280,29.1,0.029,0.37,32.3,67190,4.5
+New York,Civil Engineering Technologists and Technicians,1790,14.5,0.188,0.4,27.73,57680,1.9
+New York,Electrical and Electronic Engineering Technologists and Technicians,5730,4.6,0.601,0.72,32.51,67620,1.8
+New York,Electro-Mechanical and Mechatronics Technologists and Technicians,300,16.8,0.031,0.32,30.83,64130,6.3
+New York,Environmental Engineering Technologists and Technicians,640,11.9,0.068,0.55,26.21,54510,2.7
+New York,Industrial Engineering Technologists and Technicians,2830,4.6,0.297,0.65,27.36,56900,1.7
+New York,Mechanical Engineering Technologists and Technicians,1440,10.5,0.151,0.52,27.75,57720,3.4
+New York,Surveying and Mapping Technicians,1370,7.4,0.144,0.4,25.38,52790,2.2
+New York,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",2040,5.9,0.214,0.36,29.94,62280,2.2
+New York,"Life, Physical, and Social Science Occupations",72570,2.8,7.621,0.87,37.84,78720,1.5
+New York,Animal Scientists,140,13.6,0.014,0.79,30.81,64080,3.6
+New York,Food Scientists and Technologists,590,4.5,0.062,0.68,36.31,75520,6.1
+New York,Soil and Plant Scientists,160,12.1,0.017,0.18,38.64,80370,9.5
+New York,Biochemists and Biophysicists,910,10.9,0.095,0.45,39.67,82520,5.4
+New York,Microbiologists,680,7.7,0.072,0.58,39.2,81540,3.1
+New York,Zoologists and Wildlife Biologists,390,5,0.041,0.31,36.6,76120,3.2
+New York,"Biological Scientists, All Other",710,6,0.075,0.27,44.39,92330,1.7
+New York,Conservation Scientists,470,18.1,0.049,0.33,34.8,72380,3.3
+New York,Foresters,250,13.1,0.026,0.41,32.28,67140,1.6
+New York,Epidemiologists,260,17.5,0.028,0.55,*,*,*
+New York,"Medical Scientists, Except Epidemiologists",8590,8.3,0.902,1.04,50.37,104760,3.8
+New York,"Life Scientists, All Other",140,24.6,0.015,0.35,37.51,78020,9
+New York,Physicists,900,2.9,0.095,0.83,69.47,144490,3.6
+New York,Atmospheric and Space Scientists,360,23.8,0.037,0.59,51.53,107180,4.7
+New York,Chemists,3650,5.9,0.383,0.67,41.72,86790,4.8
+New York,Materials Scientists,230,12.5,0.024,0.52,48.92,101750,5.2
+New York,"Environmental Scientists and Specialists, Including Health",3840,9.5,0.403,0.7,40.42,84080,2.7
+New York,"Geoscientists, Except Hydrologists and Geographers",660,23.1,0.069,0.35,37.37,77720,1.8
+New York,Hydrologists,170,4.3,0.018,0.41,37.78,78570,2.6
+New York,"Physical Scientists, All Other",910,0.5,0.096,0.8,52.09,108350,1.6
+New York,Economists,820,11.9,0.086,0.67,70.12,145840,6.2
+New York,Survey Researchers,610,18.2,0.065,0.95,38.54,80150,2.4
+New York,"Clinical, Counseling, and School Psychologists",11030,3.9,1.159,1.5,46.23,96170,3.1
+New York,"Psychologists, All Other",550,14.9,0.058,0.6,46.73,97190,1.9
+New York,Sociologists,160,25,0.017,0.95,39.67,82510,13.5
+New York,Urban and Regional Planners,1390,8.2,0.146,0.56,42.08,87520,4.5
+New York,Anthropologists and Archeologists,70,26.3,0.007,0.16,35.28,73380,7.5
+New York,Historians,410,7.1,0.043,2.09,16.26,33830,2
+New York,Political Scientists,80,8.3,0.008,0.21,61.38,127660,3.2
+New York,"Social Scientists and Related Workers, All Other",2220,3.7,0.233,1.01,43.5,90470,1.3
+New York,Agricultural and Food Science Technicians,1040,2.7,0.109,0.73,25.71,53480,5.1
+New York,Biological Technicians,3920,5.6,0.411,0.76,23.97,49870,1.3
+New York,Chemical Technicians,2510,6.8,0.264,0.59,25.3,52630,2.2
+New York,"Environmental Science and Protection Technicians, Including Health",2220,16.4,0.233,1.05,25.24,52490,2.8
+New York,Geological and Hydrologic Technicians,170,9.1,0.018,0.16,25.87,53800,5.5
+New York,Nuclear Technicians,290,10.4,0.031,0.7,48.76,101420,6.9
+New York,Social Science Research Assistants,6170,23.3,0.648,2.67,25.12,52250,3.7
+New York,Forest and Conservation Technicians,360,28.5,0.038,0.29,24.32,50590,3.2
+New York,Forensic Science Technicians,860,3,0.09,0.8,32.69,68000,1.4
+New York,"Life, Physical, and Social Science Technicians, All Other",8680,6.8,0.911,2.08,26.52,55170,1.9
+New York,Occupational Health and Safety Specialists,3930,5,0.412,0.65,37.19,77350,2.2
+New York,Occupational Health and Safety Technicians,1020,3.1,0.107,0.77,29.64,61660,1.8
+New York,Community and Social Service Occupations,198410,1.3,20.835,1.36,26.47,55060,1.3
+New York,"Educational, Guidance, and Career Counselors and Advisors",26500,2.5,2.782,1.38,33.12,68890,3.8
+New York,Marriage and Family Therapists,1440,31.2,0.151,0.38,23.76,49420,5.5
+New York,Rehabilitation Counselors,9190,6.8,0.965,1.3,17.77,36960,2.1
+New York,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",14910,5.4,1.566,0.81,26.1,54280,3
+New York,"Counselors, All Other",490,15,0.051,0.29,29.5,61370,13.1
+New York,"Child, Family, and School Social Workers",29880,4,3.137,1.41,29.03,60380,2.8
+New York,Healthcare Social Workers,15720,4.4,1.651,1.39,29.55,61470,1.1
+New York,Mental Health and Substance Abuse Social Workers,11540,3.6,1.212,1.51,30.54,63520,2.2
+New York,"Social Workers, All Other",4910,6.6,0.515,1.3,32.49,67580,1.7
+New York,Health Education Specialists,4360,5.5,0.458,1.15,28.11,58460,1.4
+New York,Probation Officers and Correctional Treatment Specialists,4940,3.1,0.519,0.87,34.27,71280,0.9
+New York,Social and Human Service Assistants,39810,3.2,4.181,1.52,18.67,38840,0.8
+New York,Community Health Workers,7750,5.9,0.814,2.03,21.65,45040,1.8
+New York,"Community and Social Service Specialists, All Other",13750,3.7,1.444,2.18,27.73,57680,2.1
+New York,Clergy,7210,6.5,0.757,2.09,28.12,58500,3.2
+New York,"Directors, Religious Activities and Education",5230,9.6,0.55,3.7,24.37,50690,4.7
+New York,"Religious Workers, All Other",780,12.2,0.082,1.27,18.64,38770,5.6
+New York,Legal Occupations,116130,1.7,12.195,1.56,65.6,136450,2.5
+New York,Lawyers,77060,3,8.092,1.81,81.14,168780,2.5
+New York,Judicial Law Clerks,710,0.8,0.074,0.66,57.46,119510,2.2
+New York,"Administrative Law Judges, Adjudicators, and Hearing Officers",1420,0,0.149,1.52,54.4,113150,1.4
+New York,"Arbitrators, Mediators, and Conciliators",510,12.2,0.054,1.3,40.72,84700,2
+New York,"Judges, Magistrate Judges, and Magistrates",3260,1.4,0.343,1.75,88.51,184090,6.9
+New York,Paralegals and Legal Assistants,29310,5.1,3.078,1.37,27.92,58070,1.9
+New York,"Title Examiners, Abstractors, and Searchers",1600,23.2,0.168,0.47,30.78,64020,3.2
+New York,"Legal Support Workers, All Other",2260,5.6,0.237,0.77,31.23,64960,1.6
+New York,Educational Instruction and Library Occupations,708490,1.2,74.398,1.23,35.16,73130,1.7
+New York,"Business Teachers, Postsecondary",9050,3.7,0.951,1.66,*,115970,5.4
+New York,"Computer Science Teachers, Postsecondary",3310,4.3,0.347,1.6,*,111670,3.3
+New York,"Mathematical Science Teachers, Postsecondary",4730,4.4,0.497,1.43,*,111060,2.7
+New York,"Architecture Teachers, Postsecondary",1000,8.4,0.105,2.28,*,133360,6.1
+New York,"Engineering Teachers, Postsecondary",2950,5.7,0.309,1.26,*,129000,3.4
+New York,"Agricultural Sciences Teachers, Postsecondary",470,10.5,0.049,0.76,*,105040,7.1
+New York,"Biological Science Teachers, Postsecondary",4890,9,0.514,1.42,*,108590,2.9
+New York,"Forestry and Conservation Science Teachers, Postsecondary",150,33.7,0.015,1.28,*,82770,8
+New York,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",1320,8.6,0.139,1.85,*,116290,4.7
+New York,"Chemistry Teachers, Postsecondary",2530,7,0.266,1.83,*,109360,2.5
+New York,"Environmental Science Teachers, Postsecondary",850,12.4,0.09,2.17,*,96920,6
+New York,"Physics Teachers, Postsecondary",1540,6.2,0.162,1.73,*,123920,3.5
+New York,"Anthropology and Archeology Teachers, Postsecondary",900,10.9,0.095,2.38,*,109110,3.5
+New York,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",1670,6.6,0.176,2.44,*,104470,3.4
+New York,"Economics Teachers, Postsecondary",2080,10.8,0.218,2.41,*,135000,3.7
+New York,"Geography Teachers, Postsecondary",210,17.2,0.023,0.83,*,83670,2.9
+New York,"Political Science Teachers, Postsecondary",1640,8.5,0.172,1.61,*,131090,7.7
+New York,"Psychology Teachers, Postsecondary",4160,5.5,0.437,1.71,*,98840,3
+New York,"Sociology Teachers, Postsecondary",1560,8.1,0.164,1.74,*,105730,3.6
+New York,"Social Sciences Teachers, Postsecondary, All Other",3630,5.7,0.381,3.33,*,108000,3.6
+New York,"Health Specialties Teachers, Postsecondary",22350,10.8,2.347,1.71,*,130330,3.8
+New York,"Nursing Instructors and Teachers, Postsecondary",5030,3.9,0.528,1.3,*,97750,3.4
+New York,"Education Teachers, Postsecondary",6210,4.6,0.652,1.56,*,92870,3.7
+New York,"Library Science Teachers, Postsecondary",260,17.2,0.027,0.9,*,88340,5.9
+New York,"Criminal Justice and Law Enforcement Teachers, Postsecondary",1130,9.7,0.118,1.23,*,72750,3.3
+New York,"Law Teachers, Postsecondary",3330,13,0.35,3.18,*,136410,5.6
+New York,"Social Work Teachers, Postsecondary",2750,11.8,0.288,3.1,*,96080,4.8
+New York,"Art, Drama, and Music Teachers, Postsecondary",11590,7.2,1.217,1.9,*,104830,4.1
+New York,"Communications Teachers, Postsecondary",3280,5.9,0.344,1.74,*,93960,4.3
+New York,"English Language and Literature Teachers, Postsecondary",8130,5.3,0.854,1.85,*,102950,2.9
+New York,"Foreign Language and Literature Teachers, Postsecondary",2610,9.1,0.274,1.62,*,91110,3.2
+New York,"History Teachers, Postsecondary",2190,8.3,0.23,1.61,*,101100,3.1
+New York,"Philosophy and Religion Teachers, Postsecondary",3280,13,0.345,2.16,*,86280,2.8
+New York,"Recreation and Fitness Studies Teachers, Postsecondary",990,9.6,0.104,0.97,*,78480,5.1
+New York,"Career/Technical Education Teachers, Postsecondary",4860,7.9,0.511,0.67,36.02,74910,4
+New York,"Postsecondary Teachers, All Other",5390,6.2,0.566,0.41,*,119890,8.5
+New York,"Preschool Teachers, Except Special Education",23890,7.8,2.508,0.85,20.35,42330,2.6
+New York,"Kindergarten Teachers, Except Special Education",6450,7.7,0.677,0.8,*,78140,3.3
+New York,"Elementary School Teachers, Except Special Education",92560,3.3,9.72,1,*,82830,2.7
+New York,"Middle School Teachers, Except Special and Career/Technical Education",42010,4.3,4.411,1.04,*,87050,1.7
+New York,"Career/Technical Education Teachers, Middle School",1480,17.8,0.155,1.92,*,85700,3.1
+New York,"Secondary School Teachers, Except Special and Career/Technical Education",75360,4.1,7.913,1.12,*,87240,1.5
+New York,"Career/Technical Education Teachers, Secondary School",4680,7.3,0.491,0.97,*,78940,2.1
+New York,"Special Education Teachers, Preschool",5930,10.4,0.622,4.09,*,89930,6.7
+New York,"Special Education Teachers, Kindergarten and Elementary School",20500,4.1,2.153,1.63,*,81660,2.5
+New York,"Special Education Teachers, Middle School",10960,4.6,1.15,1.97,*,87440,1.8
+New York,"Special Education Teachers, Secondary School",17340,3,1.821,1.87,*,83890,1.7
+New York,"Special Education Teachers, All Other",3060,16.3,0.321,1.33,*,88160,3.8
+New York,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",3650,11.9,0.384,1.08,34.32,71390,3.2
+New York,Self-Enrichment Teachers,33030,4.3,3.469,2.02,29.94,62270,2.9
+New York,"Substitute Teachers, Short-Term",32440,4.7,3.406,0.85,19.83,41250,7.4
+New York,"Tutors and Teachers and Instructors, All Other",18790,7.4,1.973,0.91,*,62990,8
+New York,Archivists,1000,30.5,0.105,2.35,29,60310,1.9
+New York,Curators,1580,15.5,0.166,1.89,34.82,72420,2.8
+New York,Museum Technicians and Conservators,1480,12.9,0.156,1.74,28.65,59600,2.8
+New York,Librarians and Media Collections Specialists,12990,8.7,1.364,1.48,33.64,69980,0.9
+New York,Library Technicians,8400,10.9,0.882,1.46,17.28,35940,1.8
+New York,Farm and Home Management Educators,90,30.2,0.01,0.17,22.86,47550,5.5
+New York,Instructional Coordinators,17120,3.5,1.797,1.49,36.02,74930,2
+New York,"Teaching Assistants, Postsecondary",9310,14.5,0.978,1.04,*,45040,3.7
+New York,"Teaching Assistants, Except Postsecondary",131100,1.8,13.767,1.5,*,33720,3.1
+New York,"Educational Instruction and Library Workers, All Other",1240,7.9,0.13,0.15,25,52000,3.3
+New York,"Arts, Design, Entertainment, Sports, and Media Occupations",221800,1.9,23.291,1.7,40.09,83390,1.2
+New York,Art Directors,8720,5.2,0.915,3.13,64.82,134840,4.1
+New York,Craft Artists,100,24.2,0.011,0.34,24.4,50750,6
+New York,"Fine Artists, Including Painters, Sculptors, and Illustrators",1700,15.5,0.178,2.12,46.81,97360,18.6
+New York,Special Effects Artists and Animators,2600,11.3,0.273,1.37,45.81,95280,3.7
+New York,"Artists and Related Workers, All Other",230,18.9,0.024,0.46,45.97,95620,11.4
+New York,Commercial and Industrial Designers,2040,10.3,0.215,0.96,40.9,85070,3.9
+New York,Fashion Designers,8460,5.5,0.889,5.93,44.64,92860,2.5
+New York,Floral Designers,2040,7.8,0.215,0.76,16.07,33420,4
+New York,Graphic Designers,21090,3.3,2.214,1.51,32.15,66870,1.5
+New York,Interior Designers,5250,11.7,0.551,1.34,33.15,68940,3.6
+New York,Merchandise Displayers and Window Trimmers,7400,9.3,0.777,0.81,18.32,38100,2.4
+New York,Set and Exhibit Designers,2350,13.4,0.246,3.01,41.23,85760,3.5
+New York,"Designers, All Other",940,19,0.099,1.37,35.4,73630,4
+New York,Actors,7440,9.1,0.782,2.18,*,*,*
+New York,Producers and Directors,27370,4.9,2.875,3.27,56.77,118090,2.4
+New York,Athletes and Sports Competitors,280,15.1,0.03,0.39,*,91950,10.7
+New York,Coaches and Scouts,12610,8.5,1.324,0.81,*,56050,4
+New York,"Umpires, Referees, and Other Sports Officials",710,25.7,0.074,0.54,*,*,*
+New York,Dancers,1940,18.3,0.204,3.09,23.76,*,10.4
+New York,Choreographers,**,**,**,**,44.24,92010,11.5
+New York,Music Directors and Composers,2490,16.1,0.261,3.63,37.1,77160,13.5
+New York,Musicians and Singers,7580,7.6,0.796,2.84,42.1,*,6.4
+New York,"Miscellaneous Entertainers and Performers, Sports and Related Workers",840,29.4,0.088,0.82,32.22,*,24.8
+New York,Broadcast Announcers and Radio Disc Jockeys,1710,13.2,0.18,0.9,38.24,79550,9.7
+New York,"News Analysts, Reporters, and Journalists",6020,11.9,0.632,2.1,43.34,90160,3.5
+New York,Public Relations Specialists,25760,5.2,2.705,1.62,37.61,78230,1.9
+New York,Editors,20440,4,2.146,3.28,41.9,87140,1.9
+New York,Technical Writers,1740,7.8,0.183,0.53,37.59,78190,2.2
+New York,Writers and Authors,7680,5.3,0.807,2.58,43.88,91280,3
+New York,Interpreters and Translators,3770,25.3,0.396,0.99,34.89,72580,3.2
+New York,Court Reporters and Simultaneous Captioners,1320,9.4,0.138,1.4,43.51,90500,2.6
+New York,"Media and Communication Workers, All Other",**,**,**,**,27.71,57640,5.1
+New York,Audio and Video Technicians,7760,6.5,0.815,1.62,28.04,58320,2.2
+New York,Broadcast Technicians,4710,13.5,0.495,2.54,27.8,57820,2.5
+New York,Sound Engineering Technicians,1830,11.6,0.192,2.19,38.17,79400,6
+New York,Photographers,4680,7.5,0.491,1.43,31.28,65070,7
+New York,"Camera Operators, Television, Video, and Film",2910,9.5,0.306,2.09,47.97,99780,5
+New York,Film and Video Editors,4330,10.2,0.455,2.42,43.41,90290,3.5
+New York,"Lighting Technicians and Media and Communication Equipment Workers, All Other",**,**,**,**,35.35,73520,2.5
+New York,Healthcare Practitioners and Technical Occupations,546900,1.5,57.43,0.97,44.77,93110,0.9
+New York,Chiropractors,1550,13.6,0.162,0.68,39.79,82760,3.3
+New York,"Dentists, General",8780,3.7,0.922,1.22,80.33,167090,4.4
+New York,Oral and Maxillofacial Surgeons,360,32,0.038,1.2,110.92,230720,12.7
+New York,Orthodontists,**,**,**,**,93.55,194590,16.1
+New York,"Dentists, All Other Specialists",280,31.8,0.029,0.81,90.33,187880,12.7
+New York,Dietitians and Nutritionists,4640,4.1,0.488,1.06,32.98,68590,1.1
+New York,Optometrists,1910,9.4,0.201,0.75,65.64,136530,5.8
+New York,Pharmacists,20180,5.1,2.119,1,58.4,121480,1.9
+New York,Physician Assistants,13270,4.8,1.394,1.7,59.17,123080,0.8
+New York,Podiatrists,1060,6.6,0.111,1.67,75.68,157410,4.8
+New York,Occupational Therapists,12460,4,1.308,1.44,43.23,89920,2.6
+New York,Physical Therapists,17710,3.3,1.86,1.17,43.69,90880,1.1
+New York,Radiation Therapists,1170,8.7,0.123,1.01,55.36,115150,3.9
+New York,Recreational Therapists,1450,5.2,0.152,1.17,27.03,56220,1.3
+New York,Respiratory Therapists,5860,10.9,0.616,0.68,37.01,76990,0.7
+New York,Speech-Language Pathologists,13130,4.6,1.379,1.31,46.52,96770,2.5
+New York,Exercise Physiologists,330,16.8,0.034,0.7,32.89,68410,9
+New York,"Therapists, All Other",820,8.9,0.086,1.04,30.62,63700,1.7
+New York,Veterinarians,3890,9.2,0.408,0.8,57.97,120580,3.1
+New York,Registered Nurses,178320,2,18.725,0.92,42.23,87840,1.1
+New York,Nurse Anesthetists,1900,14.2,0.2,0.67,96.32,200350,3.6
+New York,Nurse Midwives,480,9.5,0.051,1.08,57.88,120380,5.4
+New York,Nurse Practitioners,14060,3.8,1.476,1.08,58.92,122550,2.3
+New York,Audiologists,720,29,0.076,0.82,41.11,85500,4.6
+New York,Anesthesiologists,1540,17.9,0.162,0.77,102.28,212730,10.2
+New York,Family Medicine Physicians,**,**,**,**,93.3,194070,3.7
+New York,General Internal Medicine Physicians,**,**,**,**,90.56,188370,6.3
+New York,Obstetricians and Gynecologists,1580,9.6,0.166,1.31,104.21,216760,6.1
+New York,"Pediatricians, General",**,**,**,**,81.15,168800,3.7
+New York,Psychiatrists,3690,11.5,0.387,2.23,103.98,216280,5.5
+New York,"Physicians, All Other; and Ophthalmologists, Except Pediatric",38380,4.3,4.031,1.52,86.11,179110,4.4
+New York,"Surgeons, Except Ophthalmologists",**,**,**,**,111.01,230890,5.6
+New York,Dental Hygienists,11620,8,1.22,0.81,37,76960,1.7
+New York,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",2720,13.3,0.285,1.15,38.11,79270,4.3
+New York,Clinical Laboratory Technologists and Technicians,18110,3.6,1.901,0.86,31.52,65560,1.3
+New York,Cardiovascular Technologists and Technicians,3370,5.4,0.354,0.93,31.09,64670,1.4
+New York,Diagnostic Medical Sonographers,5880,6.5,0.618,1.25,37.05,77060,1.3
+New York,Nuclear Medicine Technologists,970,6.9,0.102,0.83,41.71,86750,1
+New York,Radiologic Technologists and Technicians,12620,3.4,1.325,0.94,33.95,70620,1
+New York,Magnetic Resonance Imaging Technologists,2410,10.7,0.253,0.98,40.52,84280,1.9
+New York,Emergency Medical Technicians and Paramedics,18610,3.5,1.954,1.1,21.6,44920,2
+New York,Dietetic Technicians,1040,5.3,0.11,0.55,19.78,41130,1.6
+New York,Pharmacy Technicians,20360,4.1,2.138,0.75,17.21,35790,1.5
+New York,Psychiatric Technicians,**,**,**,**,19.39,40330,2.6
+New York,Surgical Technologists,5620,3.9,0.59,0.79,27.61,57420,1
+New York,Veterinary Technologists and Technicians,5020,6,0.527,0.7,21.01,43700,2
+New York,Ophthalmic Medical Technicians,4270,15.4,0.448,1.12,17.87,37170,3.9
+New York,Licensed Practical and Licensed Vocational Nurses,46320,2.3,4.865,1.02,23.97,49860,0.6
+New York,"Opticians, Dispensing",2840,9.3,0.299,0.61,26.28,54670,3.3
+New York,Orthotists and Prosthetists,400,25.9,0.042,0.62,34.19,71120,7.2
+New York,Hearing Aid Specialists,100,20,0.011,0.19,26.1,54290,4.7
+New York,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",14990,4.3,1.574,0.7,25.26,52540,1.6
+New York,Athletic Trainers,1280,8.8,0.135,0.69,*,53810,2.7
+New York,Genetic Counselors,190,11.7,0.02,1.2,44.68,92940,1.7
+New York,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,33.28,69230,3.2
+New York,Healthcare Support Occupations,629090,1.3,66.06,1.49,15.64,32540,0.7
+New York,Home Health and Personal Care Aides,444880,1.8,46.716,2.17,14.08,29290,0.7
+New York,Nursing Assistants,85090,2.2,8.935,0.92,18.66,38810,0.8
+New York,Orderlies,3070,5,0.322,1.01,18.06,37570,1.3
+New York,Psychiatric Aides,5770,7.9,0.606,1.62,20.87,43410,1.1
+New York,Occupational Therapy Assistants,2880,7.1,0.303,0.99,30.42,63270,1.7
+New York,Occupational Therapy Aides,260,30.7,0.028,0.54,23.2,48250,7.3
+New York,Physical Therapist Assistants,5410,7.4,0.568,0.86,26.43,54970,3.1
+New York,Physical Therapist Aides,3290,13.3,0.346,1.03,15.48,32200,2.2
+New York,Massage Therapists,6580,15.3,0.691,0.95,25.34,52700,4.9
+New York,Dental Assistants,19520,4.4,2.05,0.86,19.56,40680,2
+New York,Medical Assistants,27730,4.6,2.912,0.6,18.56,38590,0.9
+New York,Medical Equipment Preparers,3590,4.4,0.377,0.97,21.73,45200,0.9
+New York,Medical Transcriptionists,2700,6.6,0.283,0.75,16.79,34910,6.9
+New York,Pharmacy Aides,1670,11.2,0.175,0.69,14.99,31170,2.3
+New York,Veterinary Assistants and Laboratory Animal Caretakers,4890,8.1,0.513,0.78,15.97,33220,1.8
+New York,Phlebotomists,6360,7.5,0.668,0.76,20.65,42950,1.4
+New York,"Healthcare Support Workers, All Other",5390,6.7,0.566,0.89,19.25,40040,1.3
+New York,Protective Service Occupations,314490,1.9,33.025,1.39,27.49,57180,3
+New York,First-Line Supervisors of Correctional Officers,3890,1.2,0.409,1.29,44.92,93430,1.7
+New York,First-Line Supervisors of Police and Detectives,13230,0.9,1.389,1.68,57.3,119180,1.2
+New York,First-Line Supervisors of Firefighting and Prevention Workers,4300,1.8,0.452,0.95,53.12,110490,2.2
+New York,"Miscellaneous First-Line Supervisors, Protective Service Workers",8720,9.6,0.916,1.63,28.9,60100,3.3
+New York,Firefighters,14050,2.2,1.476,0.67,36.13,75160,1.9
+New York,Bailiffs,4030,1.3,0.423,3.16,33.49,69650,1.8
+New York,Correctional Officers and Jailers,35420,1.3,3.719,1.29,31.73,66000,1.3
+New York,Detectives and Criminal Investigators,9010,0.5,0.946,1.32,44.52,92600,2.1
+New York,Fish and Game Wardens,380,1.2,0.04,0.85,33.07,68790,0.7
+New York,Parking Enforcement Workers,570,11.2,0.06,1.15,21.53,44780,2.9
+New York,Police and Sheriff's Patrol Officers,55590,0.6,5.837,1.29,37.25,77490,1.5
+New York,Transit and Railroad Police,1730,12.8,0.182,5.69,33.69,70080,5.4
+New York,Animal Control Workers,780,5.4,0.081,1,19.25,40040,1.9
+New York,Private Detectives and Investigators,1480,13.3,0.155,0.65,28.41,59100,6.6
+New York,Gambling Surveillance Officers and Gambling Investigators,170,32.7,0.018,0.25,17.96,37360,8.4
+New York,Security Guards,118210,4.2,12.413,1.62,18.03,37510,1.7
+New York,Crossing Guards and Flaggers,10860,3.7,1.141,1.97,18.59,38660,1.4
+New York,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",7820,8.7,0.821,0.84,14.5,30150,1.4
+New York,Transportation Security Screeners,3720,0,0.391,1.23,20.27,42170,2.7
+New York,"School Bus Monitors and Protective Service Workers, All Other",19430,4.6,2.041,2.05,15.06,31330,1.4
+New York,Food Preparation and Serving Related Occupations,768040,0.7,80.652,0.88,16,33290,0.8
+New York,Chefs and Head Cooks,17950,9.6,1.885,2.16,28.55,59380,7.3
+New York,First-Line Supervisors of Food Preparation and Serving Workers,49170,4,5.164,0.75,20.32,42260,1.2
+New York,"Cooks, Fast Food",11290,14.4,1.185,0.33,13.39,27850,1.7
+New York,"Cooks, Institution and Cafeteria",16120,3,1.693,0.62,17.29,35970,0.7
+New York,"Cooks, Private Household",**,**,**,**,23.72,49340,10.5
+New York,"Cooks, Restaurant",71100,3.1,7.466,0.78,15.6,32450,1.1
+New York,"Cooks, Short Order",9600,13,1.008,0.97,14.06,29250,3.6
+New York,"Cooks, All Other",1240,17.1,0.13,0.99,16.61,34560,1.7
+New York,Food Preparation Workers,59850,5.3,6.285,1.07,14.64,30460,1.2
+New York,Bartenders,44970,3.3,4.722,1.07,18.16,37770,2.1
+New York,Fast Food and Counter Workers,211970,2.6,22.259,0.82,13.32,27700,0.6
+New York,Waiters and Waitresses,160470,2.7,16.851,0.96,17.86,37150,1.8
+New York,"Food Servers, Nonrestaurant",15930,6.1,1.673,0.89,16.32,33940,1.2
+New York,Dining Room and Cafeteria Attendants and Bartender Helpers,40770,5.9,4.281,1.32,15.58,32400,2.2
+New York,Dishwashers,34830,5.1,3.658,1.04,13.7,28500,1.1
+New York,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",19580,4.4,2.056,0.71,14.42,29980,1.3
+New York,"Food Preparation and Serving Related Workers, All Other",3090,13.6,0.324,0.66,15.12,31440,2.2
+New York,Building and Grounds Cleaning and Maintenance Occupations,311150,1.3,32.674,1.08,18.19,37840,0.8
+New York,First-Line Supervisors of Housekeeping and Janitorial Workers,11920,4.5,1.252,1.18,26.65,55420,1.7
+New York,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",4920,7,0.517,0.73,29.98,62360,1.9
+New York,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",190730,1.8,20.028,1.37,17.5,36400,1.1
+New York,Maids and Housekeeping Cleaners,47990,4.1,5.039,0.8,18.05,37550,1.9
+New York,"Building Cleaning Workers, All Other",**,**,**,**,21.61,44950,14.5
+New York,Pest Control Workers,3230,8.3,0.34,0.63,20.31,42240,2.9
+New York,Landscaping and Groundskeeping Workers,44730,3,4.697,0.76,17.36,36110,1.1
+New York,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",**,**,**,**,22.17,46110,6.1
+New York,Tree Trimmers and Pruners,2660,20.3,0.28,0.87,24.26,50460,6.5
+New York,"Grounds Maintenance Workers, All Other",3270,1,0.344,3.53,14.57,30310,2.3
+New York,Personal Care and Service Occupations,262220,1.7,27.536,1.22,17.58,36560,1
+New York,First-Line Supervisors of Gambling Services Workers,1020,38,0.107,0.53,27.2,56570,3.2
+New York,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",19590,3.7,2.057,1.39,23.55,48980,1.2
+New York,Animal Trainers,1300,46.6,0.136,1.21,20.26,42150,6.6
+New York,Animal Caretakers,12450,5.5,1.307,0.9,14.87,30920,1.6
+New York,Gambling Dealers,3710,43.8,0.39,0.58,15.21,31630,13.8
+New York,Gambling and Sports Book Writers and Runners,520,25.7,0.054,0.8,14.51,30180,8.4
+New York,"Gambling Service Workers, All Other",100,46.9,0.01,0.14,15.22,31650,4.3
+New York,Motion Picture Projectionists,280,32.2,0.03,0.96,19.98,41550,7.6
+New York,"Ushers, Lobby Attendants, and Ticket Takers",11200,7,1.176,1.25,15.57,32380,2.9
+New York,Amusement and Recreation Attendants,18390,5.4,1.931,0.84,13.53,28140,0.9
+New York,Costume Attendants,1350,12,0.141,2.78,36.52,75960,5.6
+New York,"Locker Room, Coatroom, and Dressing Room Attendants",1560,11.8,0.163,1.5,15.94,33160,3.1
+New York,"Entertainment Attendants and Related Workers, All Other",380,26.1,0.04,1.3,15.55,32350,3.4
+New York,Funeral Attendants,1460,13.1,0.153,0.65,16.2,33700,3.2
+New York,"Morticians, Undertakers, and Funeral Arrangers",1420,18.3,0.149,0.86,31.05,64580,8
+New York,Barbers,1790,44,0.188,1.37,16.15,33580,5
+New York,"Hairdressers, Hairstylists, and Cosmetologists",24590,9.7,2.582,0.98,16.39,34080,2.4
+New York,"Makeup Artists, Theatrical and Performance",490,33.3,0.051,2.2,50.62,105290,7.9
+New York,Manicurists and Pedicurists,23470,11,2.464,3.24,12.8,26630,1.4
+New York,Shampooers,780,30.4,0.082,1,12.23,25430,2.8
+New York,Skincare Specialists,5680,15.9,0.597,1.55,20.03,41660,4.5
+New York,Baggage Porters and Bellhops,3660,7.7,0.384,1.42,17.5,36390,3.3
+New York,Concierges,5520,12.1,0.58,2.04,22.57,46950,3.7
+New York,Tour and Travel Guides,2710,10.5,0.285,0.86,17.71,36830,4.1
+New York,Childcare Workers,53290,4.5,5.596,1.46,14.37,29880,1.6
+New York,Exercise Trainers and Group Fitness Instructors,24330,4.8,2.555,1.15,28.21,58680,2.7
+New York,Recreation Workers,30000,5.3,3.151,1.29,16.57,34460,1.1
+New York,Residential Advisors,9280,5.3,0.974,1.33,17.91,37250,1.2
+New York,"Crematory Operators and Personal Care and Service Workers, All Other",1880,11,0.197,0.47,17.71,36830,3.4
+New York,Sales and Related Occupations,903950,0.9,94.923,0.97,26.71,55560,1.6
+New York,First-Line Supervisors of Retail Sales Workers,65890,2.8,6.919,0.87,24.89,51780,1.4
+New York,First-Line Supervisors of Non-Retail Sales Workers,22570,3.5,2.37,1.4,50.89,105850,1.7
+New York,Cashiers,198340,2.7,20.828,0.85,13.37,27810,1.4
+New York,Gambling Change Persons and Booth Cashiers,590,10.5,0.062,0.43,*,*,*
+New York,Counter and Rental Clerks,19130,7.4,2.009,0.72,16.17,33630,1.4
+New York,Parts Salespersons,10780,4.7,1.132,0.65,19.06,39640,1.3
+New York,Retail Salespersons,288630,2,30.309,1.03,15.53,32310,1
+New York,Advertising Sales Agents,21030,3.9,2.208,2.5,40.85,84960,2.4
+New York,Insurance Sales Agents,22400,4.8,2.352,0.84,40.08,83360,3.1
+New York,"Securities, Commodities, and Financial Services Sales Agents",67120,3.8,7.048,2.36,73.94,153800,3.5
+New York,Travel Agents,5400,5.3,0.568,1.25,21.52,44760,4.6
+New York,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",68110,2.6,7.152,1.01,38.18,79410,1.8
+New York,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",15040,6.7,1.579,0.76,54.86,114110,6.9
+New York,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",75220,2.7,7.899,0.86,35.5,73830,2
+New York,Demonstrators and Product Promoters,6290,19.3,0.661,1.25,18.7,38900,5.6
+New York,Models,170,36,0.018,1.11,22.71,47230,7.6
+New York,Real Estate Brokers,2240,31.8,0.235,0.81,48.05,99930,16.9
+New York,Real Estate Sales Agents,4700,15.1,0.494,0.45,53.75,111800,6.9
+New York,Sales Engineers,2660,10.8,0.279,0.64,53.83,111960,3.8
+New York,Telemarketers,4570,13.7,0.48,0.52,17.07,35500,3.3
+New York,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",670,33.8,0.071,1.16,23.12,48090,8.1
+New York,"Sales and Related Workers, All Other",2400,15,0.252,0.31,18.52,38520,2.7
+New York,Office and Administrative Support Occupations,1334940,0.7,140.181,1.05,22.57,46940,0.4
+New York,First-Line Supervisors of Office and Administrative Support Workers,110080,1.2,11.559,1.14,34.72,72220,0.5
+New York,"Switchboard Operators, Including Answering Service",3100,8.6,0.325,0.7,19.08,39680,1.9
+New York,Telephone Operators,620,10.6,0.065,2.02,21.86,45470,1.3
+New York,"Communications Equipment Operators, All Other",80,15.4,0.008,0.37,23.53,48940,7.1
+New York,Bill and Account Collectors,14570,6.6,1.53,0.95,20.65,42960,1.9
+New York,Billing and Posting Clerks,33630,3,3.531,1.11,21.88,45500,0.8
+New York,"Bookkeeping, Accounting, and Auditing Clerks",101030,2,10.609,1.03,22.7,47220,0.6
+New York,Gambling Cage Workers,**,**,**,**,15.78,32810,3.3
+New York,Payroll and Timekeeping Clerks,8620,4.2,0.905,0.93,23.89,49700,1
+New York,Procurement Clerks,3560,5.2,0.374,0.83,21.63,44990,1.1
+New York,Tellers,23240,3.3,2.441,0.81,16.13,33560,1.2
+New York,"Financial Clerks, All Other",1720,10.4,0.181,0.87,26.78,55700,2.9
+New York,Brokerage Clerks,4590,10.9,0.482,1.48,34.08,70890,2.1
+New York,Correspondence Clerks,190,11.2,0.02,0.47,19.46,40480,2.7
+New York,"Court, Municipal, and License Clerks",7480,1.1,0.785,0.75,28.22,58690,3.1
+New York,"Credit Authorizers, Checkers, and Clerks",1570,10.3,0.165,0.91,23.62,49120,1.7
+New York,Customer Service Representatives,158520,1.8,16.646,0.84,20.44,42520,0.7
+New York,"Eligibility Interviewers, Government Programs",12130,2.5,1.273,1.34,24.24,50420,1.2
+New York,File Clerks,5910,6.2,0.621,0.89,16.96,35280,1.3
+New York,"Hotel, Motel, and Resort Desk Clerks",10850,4.5,1.139,0.62,16.69,34710,2.6
+New York,"Interviewers, Except Eligibility and Loan",15480,5.9,1.625,1.27,19.79,41170,1.3
+New York,"Library Assistants, Clerical",6540,4.5,0.687,1.17,16.74,34820,1.3
+New York,Loan Interviewers and Clerks,6820,9.9,0.716,0.5,22.17,46110,2.3
+New York,New Accounts Clerks,1570,15.6,0.165,0.56,19.12,39760,2.5
+New York,Order Clerks,6430,14.2,0.676,0.72,17.41,36220,2.2
+New York,"Human Resources Assistants, Except Payroll and Timekeeping",9580,6.6,1.006,1.26,22.81,47440,1.4
+New York,Receptionists and Information Clerks,95590,2.1,10.038,1.39,17.24,35870,0.7
+New York,Reservation and Transportation Ticket Agents and Travel Clerks,7570,5.6,0.795,0.94,20.99,43660,3.1
+New York,"Information and Record Clerks, All Other",4260,3.4,0.448,0.43,22.47,46730,1.1
+New York,Cargo and Freight Agents,7460,6.1,0.783,1.2,24.46,50870,4.7
+New York,Couriers and Messengers,8760,9.5,0.92,1.81,16.88,35100,3.4
+New York,Public Safety Telecommunicators,5480,4,0.576,0.89,23.41,48700,1.3
+New York,"Dispatchers, Except Police, Fire, and Ambulance",13370,7.6,1.404,1.03,25.21,52430,4.2
+New York,"Meter Readers, Utilities",1040,8.2,0.11,0.53,29.42,61190,2.7
+New York,Postal Service Clerks,6100,0,0.64,1.16,24.47,50910,0.7
+New York,Postal Service Mail Carriers,22220,0,2.334,1.01,25.32,52670,1
+New York,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",8730,0,0.917,1.31,24.79,51550,1.1
+New York,"Production, Planning, and Expediting Clerks",44610,2,4.684,1.86,24.97,51940,0.6
+New York,"Shipping, Receiving, and Inventory Clerks",27580,3.9,2.896,0.6,18.65,38790,0.7
+New York,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2700,12.1,0.283,0.68,18.21,37870,1.9
+New York,Executive Secretaries and Executive Administrative Assistants,91240,1.8,9.581,2.59,35.31,73450,0.5
+New York,Legal Secretaries and Administrative Assistants,12320,5.5,1.294,1.13,26.92,56000,2.4
+New York,Medical Secretaries and Administrative Assistants,8950,7,0.94,0.23,19.95,41490,1.7
+New York,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",166810,1.5,17.516,1.26,20.43,42490,0.8
+New York,Data Entry Keyers,11190,6.7,1.175,1.08,18.95,39410,1.4
+New York,Word Processors and Typists,14920,7.8,1.566,4.85,20.98,43630,1.5
+New York,Desktop Publishers,690,20.5,0.073,1.23,25.1,52210,4
+New York,Insurance Claims and Policy Processing Clerks,8450,6.4,0.888,0.51,23.3,48460,1.2
+New York,"Mail Clerks and Mail Machine Operators, Except Postal Service",8180,8.8,0.859,1.51,17.33,36050,1.4
+New York,"Office Clerks, General",186380,1.8,19.572,0.97,17.87,37160,0.5
+New York,"Office Machine Operators, Except Computer",4190,10.1,0.44,1.41,17.92,37280,1.8
+New York,Proofreaders and Copy Markers,1150,13.3,0.121,2.3,24.35,50650,2.3
+New York,Statistical Assistants,450,7,0.047,0.71,27.94,58120,2.5
+New York,"Office and Administrative Support Workers, All Other",15980,1.6,1.678,1.31,*,*,*
+New York,"Farming, Fishing, and Forestry Occupations",4220,16.9,0.444,0.13,18.47,38410,1.7
+New York,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",260,13.6,0.028,0.18,30.05,62510,3.8
+New York,Agricultural Inspectors,290,0.6,0.031,0.33,30.58,63600,0.9
+New York,Animal Breeders,80,7.6,0.009,0.81,21.84,45420,2.3
+New York,"Graders and Sorters, Agricultural Products",90,31.4,0.009,0.04,15.57,32390,7.6
+New York,Agricultural Equipment Operators,110,22.9,0.012,0.06,19.32,40180,4.3
+New York,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2290,29.8,0.24,0.12,15.7,32660,3.2
+New York,"Farmworkers, Farm, Ranch, and Aquacultural Animals",370,19.8,0.039,0.16,17.66,36730,3.3
+New York,Forest and Conservation Workers,110,42.1,0.011,0.24,17.27,35930,5.7
+New York,Logging Equipment Operators,470,8.9,0.049,0.28,19.07,39670,3.5
+New York,Log Graders and Scalers,70,23.7,0.007,0.3,19.56,40680,6.1
+New York,Construction and Extraction Occupations,358350,1,37.63,0.89,31.92,66390,0.8
+New York,First-Line Supervisors of Construction Trades and Extraction Workers,27590,2.8,2.897,0.68,42.93,89290,1
+New York,Boilermakers,720,31.2,0.076,0.7,41.49,86290,6.5
+New York,Brickmasons and Blockmasons,4170,10.6,0.438,1.06,36.41,75720,3.2
+New York,Stonemasons,790,35.7,0.083,0.98,26.14,54370,12.6
+New York,Carpenters,52640,4.1,5.527,1.11,31.66,65850,1.6
+New York,Carpet Installers,1030,43.1,0.108,0.61,23.45,48770,14.3
+New York,"Floor Layers, Except Carpet, Wood, and Hard Tiles",940,25.6,0.099,0.89,27.55,57310,6.9
+New York,Floor Sanders and Finishers,210,48.1,0.022,0.66,16.39,34090,13.9
+New York,Tile and Stone Setters,3500,17.7,0.367,1.33,29.72,61820,8.2
+New York,Cement Masons and Concrete Finishers,6000,10.9,0.63,0.47,32.87,68370,2.8
+New York,Terrazzo Workers and Finishers,**,**,**,**,39.69,82560,6.5
+New York,Construction Laborers,66740,3.3,7.008,1.01,25.97,54020,1.4
+New York,"Paving, Surfacing, and Tamping Equipment Operators",1720,13.4,0.181,0.58,29.18,60690,6.7
+New York,Pile Driver Operators,**,**,**,**,49.76,103500,5.1
+New York,Operating Engineers and Other Construction Equipment Operators,13960,4,1.466,0.53,40.31,83840,1.9
+New York,Drywall and Ceiling Tile Installers,5730,17.2,0.602,0.86,25.9,53860,5.3
+New York,Tapers,740,21.1,0.078,0.64,35.13,73070,5.8
+New York,Electricians,43890,3.5,4.609,0.98,38.21,79480,2.8
+New York,Glaziers,2850,15.7,0.299,0.84,31.37,65260,4.8
+New York,"Insulation Workers, Floor, Ceiling, and Wall",710,19.5,0.075,0.33,23.68,49260,6.1
+New York,"Insulation Workers, Mechanical",690,16.6,0.073,0.4,38.71,80520,6.8
+New York,"Painters, Construction and Maintenance",15050,5.3,1.58,1,25.25,52520,3.6
+New York,Paperhangers,620,41.7,0.065,2.83,27.25,56680,10.5
+New York,Pipelayers,740,37.4,0.078,0.32,26.73,55610,3.4
+New York,"Plumbers, Pipefitters, and Steamfitters",29630,4.7,3.111,1.03,35.06,72910,2.4
+New York,Plasterers and Stucco Masons,1210,24.3,0.128,0.68,*,*,*
+New York,Reinforcing Iron and Rebar Workers,1280,19.7,0.135,1.05,38.39,79860,7.5
+New York,Roofers,5330,7.6,0.559,0.63,32.33,67250,4.6
+New York,Sheet Metal Workers,6720,10.8,0.706,0.79,35.02,72850,7.8
+New York,Structural Iron and Steel Workers,5370,13.7,0.564,1.08,42.07,87510,3.3
+New York,Solar Photovoltaic Installers,470,38.2,0.049,0.65,24.68,51330,6
+New York,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",1430,30,0.15,0.94,24.1,50130,9.7
+New York,Helpers--Carpenters,1630,20,0.171,0.76,16.5,34320,5.1
+New York,Helpers--Electricians,5760,18.6,0.604,1.12,19.44,40440,3
+New York,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",360,48.5,0.038,0.51,20.56,42770,8.8
+New York,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",3590,14,0.377,0.95,18.65,38800,3.2
+New York,Helpers--Roofers,220,31.1,0.023,0.37,15.11,31430,5.8
+New York,"Helpers, Construction Trades, All Other",1460,23.1,0.154,0.79,18.23,37920,3.9
+New York,Construction and Building Inspectors,8330,5.4,0.875,1.16,32.84,68310,1.7
+New York,Elevator and Escalator Installers and Repairers,5020,6.3,0.527,2.73,40.35,83930,2.6
+New York,Fence Erectors,1240,32.6,0.13,0.74,21.3,44310,7.9
+New York,Hazardous Materials Removal Workers,4780,10.4,0.502,1.67,29.95,62300,2.7
+New York,Highway Maintenance Workers,14990,1.9,1.574,1.53,22.24,46260,0.5
+New York,Rail-Track Laying and Maintenance Equipment Operators,3140,6.1,0.33,3,34.01,70740,3.8
+New York,Septic Tank Servicers and Sewer Pipe Cleaners,1570,18.5,0.165,0.81,20.82,43310,3.9
+New York,Miscellaneous Construction and Related Workers,370,27.6,0.039,0.18,21.66,45040,4.4
+New York,"Rotary Drill Operators, Oil and Gas",**,**,**,**,23.89,49700,6.7
+New York,"Service Unit Operators, Oil and Gas",60,19.8,0.006,0.02,30.12,62640,19.2
+New York,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1710,11.5,0.179,0.6,33.49,69650,3.8
+New York,Continuous Mining Machine Operators,60,20.2,0.006,0.06,21.67,45070,3
+New York,"Rock Splitters, Quarry",90,35.9,0.009,0.27,15.97,33220,5.1
+New York,Helpers--Extraction Workers,90,35.2,0.009,0.08,20.74,43140,3.7
+New York,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",570,15.1,0.06,0.35,29.29,60920,3.8
+New York,"Underground Mining Machine Operators and Extraction Workers, All Other",90,27,0.01,0.11,22.73,47280,8.7
+New York,"Installation, Maintenance, and Repair Occupations",318830,1.3,33.48,0.86,26.2,54490,0.8
+New York,"First-Line Supervisors of Mechanics, Installers, and Repairers",26960,2.6,2.831,0.86,37.86,78760,1
+New York,"Computer, Automated Teller, and Office Machine Repairers",6300,9.6,0.662,0.99,21.77,45290,2.1
+New York,"Radio, Cellular, and Tower Equipment Installers and Repairers",620,26.8,0.065,0.66,29.6,61560,8.8
+New York,"Telecommunications Equipment Installers and Repairers, Except Line Installers",9690,9.4,1.018,0.72,34.32,71390,2.5
+New York,Avionics Technicians,120,5.7,0.012,0.08,33.26,69180,2.2
+New York,"Electric Motor, Power Tool, and Related Repairers",390,36.4,0.041,0.38,23.54,48950,9.5
+New York,"Electrical and Electronics Installers and Repairers, Transportation Equipment",530,8.3,0.056,0.83,32.36,67320,6.3
+New York,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1500,11.8,0.158,0.39,28.78,59860,3
+New York,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",2470,5.8,0.259,1.68,41.19,85670,1.9
+New York,"Electronic Equipment Installers and Repairers, Motor Vehicles",730,23.8,0.077,1.09,20.16,41920,3.9
+New York,Audiovisual Equipment Installers and Repairers,1600,33.7,0.168,0.96,22.59,47000,4.5
+New York,Security and Fire Alarm Systems Installers,4000,13.1,0.42,0.86,27.1,56380,4.5
+New York,Aircraft Mechanics and Service Technicians,3410,5.8,0.359,0.4,34.31,71360,3.2
+New York,Automotive Body and Related Repairers,7030,6.5,0.739,0.75,22.92,47680,2.3
+New York,Automotive Glass Installers and Repairers,1080,34.8,0.113,0.86,16.68,34700,8.1
+New York,Automotive Service Technicians and Mechanics,35680,3.1,3.747,0.84,21.47,44660,1.7
+New York,Bus and Truck Mechanics and Diesel Engine Specialists,13150,4,1.381,0.76,27.28,56730,2.5
+New York,Farm Equipment Mechanics and Service Technicians,640,7.3,0.067,0.27,20.02,41630,1.6
+New York,"Mobile Heavy Equipment Mechanics, Except Engines",3110,8.7,0.326,0.32,30.77,63990,6.4
+New York,Rail Car Repairers,1970,20.7,0.207,1.17,34.03,70770,6.4
+New York,Motorboat Mechanics and Service Technicians,1240,17.4,0.13,0.83,20,41610,4.9
+New York,Motorcycle Mechanics,520,17.3,0.055,0.51,19.45,40450,4.3
+New York,Outdoor Power Equipment and Other Small Engine Mechanics,1490,14.7,0.156,0.71,19.91,41420,3.6
+New York,Bicycle Repairers,550,31.6,0.058,0.65,16.49,34300,3
+New York,Recreational Vehicle Service Technicians,400,19.4,0.042,0.39,18.67,38830,5.2
+New York,Tire Repairers and Changers,2680,24.7,0.282,0.37,14.84,30880,2.7
+New York,Mechanical Door Repairers,1040,28.5,0.109,0.7,21.41,44530,2.3
+New York,"Control and Valve Installers and Repairers, Except Mechanical Door",4900,10.5,0.515,1.45,36.57,76070,2.5
+New York,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",18810,6.3,1.975,0.85,28.68,59660,1.7
+New York,Home Appliance Repairers,1510,20.8,0.159,0.75,20.42,42460,7.8
+New York,Industrial Machinery Mechanics,11360,3.7,1.193,0.45,28.82,59950,1.4
+New York,"Maintenance Workers, Machinery",3240,5.4,0.34,0.69,25.91,53890,1.9
+New York,Millwrights,1120,17.9,0.117,0.36,34.16,71050,6.2
+New York,Electrical Power-Line Installers and Repairers,5070,9.4,0.532,0.7,38.75,80600,2.6
+New York,Telecommunications Line Installers and Repairers,11750,11.8,1.234,1.5,34.12,70960,3.5
+New York,Camera and Photographic Equipment Repairers,190,29.7,0.02,0.79,22.83,47490,7
+New York,Medical Equipment Repairers,1950,8.8,0.204,0.65,30.66,63780,4
+New York,Musical Instrument Repairers and Tuners,590,23.1,0.062,1.13,20.13,41870,6.5
+New York,Watch and Clock Repairers,350,32.5,0.037,1.93,23.59,49080,11.3
+New York,"Precision Instrument and Equipment Repairers, All Other",310,16,0.032,0.45,27.58,57360,3.8
+New York,"Maintenance and Repair Workers, General",112560,1.7,11.82,1.22,22.34,46470,0.9
+New York,"Coin, Vending, and Amusement Machine Servicers and Repairers",1950,13.7,0.205,0.96,22.86,47560,10.9
+New York,Commercial Divers,120,46.6,0.013,0.55,41.46,86230,20
+New York,Locksmiths and Safe Repairers,800,26.1,0.085,0.73,25.29,52610,3.1
+New York,Manufactured Building and Mobile Home Installers,160,31.6,0.017,0.87,16.83,35000,5.9
+New York,Riggers,570,26.1,0.06,0.38,39.37,81890,7.3
+New York,Signal and Track Switch Repairers,1140,2.1,0.12,2.56,35.81,74480,4
+New York,"Helpers--Installation, Maintenance, and Repair Workers",5240,8.1,0.551,0.81,18.77,39030,2.4
+New York,"Installation, Maintenance, and Repair Workers, All Other",6090,22.9,0.64,0.58,20.81,43280,3.8
+New York,Production Occupations,328630,1.4,34.509,0.55,20.4,42440,0.6
+New York,First-Line Supervisors of Production and Operating Workers,24760,2.1,2.6,0.61,33.25,69160,0.8
+New York,"Coil Winders, Tapers, and Finishers",300,31.1,0.032,0.37,17.03,35430,4
+New York,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",13300,7,1.397,0.72,17.28,35950,1.2
+New York,Engine and Other Machine Assemblers,1170,4.3,0.122,0.39,23.25,48350,4.6
+New York,Structural Metal Fabricators and Fitters,2160,18.2,0.227,0.43,24.24,50410,4
+New York,Fiberglass Laminators and Fabricators,280,35.8,0.029,0.21,19.14,39800,9.4
+New York,Miscellaneous Assemblers and Fabricators,39610,3.8,4.16,0.45,16.79,34920,1
+New York,Bakers,11690,6.4,1.227,0.97,15.76,32780,1.5
+New York,Butchers and Meat Cutters,8570,16.8,0.9,0.97,18.44,38360,2.9
+New York,"Meat, Poultry, and Fish Cutters and Trimmers",1770,31.2,0.186,0.18,13.87,28860,2.5
+New York,Slaughterers and Meat Packers,590,21.8,0.062,0.12,16.62,34580,4.2
+New York,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",780,13.8,0.082,0.58,15.36,31950,2.1
+New York,Food Batchmakers,7630,6.5,0.802,0.74,15.28,31790,1.9
+New York,Food Cooking Machine Operators and Tenders,700,12.9,0.073,0.36,16.96,35280,2
+New York,"Food Processing Workers, All Other",600,18.7,0.063,0.21,14.19,29510,2.4
+New York,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1330,14.6,0.14,0.27,18.28,38020,1.8
+New York,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",200,8.6,0.021,0.19,21.75,45250,5.7
+New York,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",590,22.8,0.062,0.28,21.67,45070,2.2
+New York,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",4820,5.4,0.507,0.38,19.55,40670,3.3
+New York,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",120,19.8,0.013,0.18,18.57,38620,5.1
+New York,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1950,8.2,0.205,0.39,18.95,39410,1.5
+New York,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1030,11.8,0.108,0.57,19.73,41040,6.4
+New York,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",460,22.7,0.049,0.38,21.02,43720,3
+New York,Machinists,13630,3.7,1.431,0.55,22.73,47280,1
+New York,Metal-Refining Furnace Operators and Tenders,530,23.9,0.055,0.47,21.59,44900,3.1
+New York,"Pourers and Casters, Metal",120,42.5,0.013,0.23,20.99,43650,6.1
+New York,"Model Makers, Metal and Plastic",110,18.1,0.012,0.4,28.92,60140,5.2
+New York,Foundry Mold and Coremakers,120,14.5,0.013,0.11,19.56,40690,4.2
+New York,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",3880,6.6,0.407,0.35,16.15,33590,1.5
+New York,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",4210,10.2,0.442,0.44,18.72,38930,3.1
+New York,Tool and Die Makers,2090,7.8,0.219,0.45,26.98,56110,1.6
+New York,"Welders, Cutters, Solderers, and Brazers",10210,5.3,1.072,0.38,23.62,49130,2.1
+New York,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",450,11.3,0.047,0.2,21.8,45330,4.9
+New York,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",430,9,0.046,0.34,21.17,44040,2.3
+New York,"Layout Workers, Metal and Plastic",50,24.3,0.005,0.1,23.46,48800,3.1
+New York,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",1100,38.7,0.116,0.41,18.22,37900,3.4
+New York,"Tool Grinders, Filers, and Sharpeners",210,25.5,0.022,0.51,20.87,43400,7.6
+New York,"Metal Workers and Plastic Workers, All Other",250,11.9,0.027,0.16,20.51,42660,8.3
+New York,Prepress Technicians and Workers,1550,11.6,0.163,0.79,22.41,46610,4.1
+New York,Printing Press Operators,9460,6.3,0.993,0.84,20.03,41650,2.1
+New York,Print Binding and Finishing Workers,1840,20.6,0.193,0.62,17.21,35790,3.7
+New York,Laundry and Dry-Cleaning Workers,15640,7.8,1.642,1.15,13.83,28760,1.6
+New York,"Pressers, Textile, Garment, and Related Materials",1520,11.9,0.16,0.62,14.07,29270,3
+New York,Sewing Machine Operators,8960,8.2,0.941,1.04,15.8,32870,1.8
+New York,Shoe and Leather Workers and Repairers,670,29.3,0.07,1.17,13.48,28030,3.2
+New York,Shoe Machine Operators and Tenders,70,5.8,0.007,0.21,14.33,29810,8.3
+New York,"Sewers, Hand",440,48.7,0.046,1.43,16.05,33390,3.7
+New York,"Tailors, Dressmakers, and Custom Sewers",1470,18.1,0.154,0.94,18.73,38960,3.8
+New York,Textile Bleaching and Dyeing Machine Operators and Tenders,**,**,**,**,13.55,28190,2.4
+New York,"Textile Cutting Machine Setters, Operators, and Tenders",500,30.1,0.053,0.59,16.53,34370,5.3
+New York,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",760,35.9,0.08,0.55,15.23,31680,3.4
+New York,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",150,24.8,0.015,0.07,15.18,31570,3.9
+New York,Fabric and Apparel Patternmakers,1200,12.7,0.126,3.15,36.07,75020,6.5
+New York,Upholsterers,640,16.1,0.067,0.33,19.04,39600,6.6
+New York,"Textile, Apparel, and Furnishings Workers, All Other",260,19.2,0.028,0.23,18.44,38360,6.1
+New York,Cabinetmakers and Bench Carpenters,4210,8.2,0.442,0.65,21.79,45320,2.5
+New York,Furniture Finishers,860,16.6,0.091,0.82,19.24,40010,2.5
+New York,"Sawing Machine Setters, Operators, and Tenders, Wood",920,9.6,0.097,0.28,16.57,34470,2.6
+New York,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1750,10.8,0.184,0.34,16.39,34100,2.4
+New York,"Woodworkers, All Other",60,41.1,0.006,0.13,20.45,42530,26.2
+New York,Nuclear Power Reactor Operators,380,14.4,0.04,1.17,54.57,113500,2.2
+New York,Power Distributors and Dispatchers,200,16.7,0.021,0.28,49.43,102810,3.8
+New York,Power Plant Operators,1930,5.3,0.203,0.89,41.53,86380,2.1
+New York,Stationary Engineers and Boiler Operators,4300,2.4,0.452,2.04,38.32,79710,2
+New York,Water and Wastewater Treatment Plant and System Operators,5140,5.6,0.54,0.64,29.85,62080,2.7
+New York,Chemical Plant and System Operators,380,16,0.04,0.2,27.19,56550,2.8
+New York,Gas Plant Operators,300,13.8,0.032,0.32,40.62,84490,4.3
+New York,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",240,36.9,0.026,0.09,24.74,51470,2.4
+New York,"Plant and System Operators, All Other",180,27,0.018,0.21,29.81,62010,2.5
+New York,Chemical Equipment Operators and Tenders,2950,13.9,0.31,0.52,23.48,48850,3
+New York,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",2100,9.2,0.22,0.63,20.98,43640,3.7
+New York,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1440,14,0.151,0.66,19.36,40260,2.8
+New York,"Grinding and Polishing Workers, Hand",1680,12.1,0.176,0.89,18.17,37800,5.9
+New York,"Mixing and Blending Machine Setters, Operators, and Tenders",5570,6.3,0.584,0.68,19.3,40130,2
+New York,"Cutters and Trimmers, Hand",380,12.6,0.04,0.6,19.09,39700,5.3
+New York,"Cutting and Slicing Machine Setters, Operators, and Tenders",2010,7.9,0.211,0.54,18.25,37960,2
+New York,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",2900,12,0.304,0.62,20.73,43120,3.5
+New York,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",640,10.7,0.067,0.52,21.79,45320,2.5
+New York,"Inspectors, Testers, Sorters, Samplers, and Weighers",22760,3.4,2.39,0.61,21.07,43820,1.1
+New York,Jewelers and Precious Stone and Metal Workers,4500,15.7,0.473,2.94,26.62,55370,6.2
+New York,Dental Laboratory Technicians,1730,14.4,0.182,0.77,25.32,52660,5.2
+New York,Medical Appliance Technicians,400,24.8,0.042,0.44,19.92,41430,4.9
+New York,Ophthalmic Laboratory Technicians,2850,13.9,0.299,1.51,18.03,37510,1.8
+New York,Packaging and Filling Machine Operators and Tenders,18860,5.5,1.98,0.74,15.89,33060,1.5
+New York,"Painting, Coating, and Decorating Workers",920,9.9,0.097,1.15,18.05,37550,2.8
+New York,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",3470,6.5,0.364,0.37,19.84,41270,1.7
+New York,Photographic Process Workers and Processing Machine Operators,870,21,0.092,1.13,22.89,47600,6.1
+New York,Computer Numerically Controlled Tool Operators,4440,7.2,0.466,0.45,19.33,40200,1.3
+New York,Computer Numerically Controlled Tool Programmers,880,8.5,0.092,0.53,27.49,57190,2.6
+New York,Adhesive Bonding Machine Operators and Tenders,390,11.1,0.041,0.44,17.36,36120,1.7
+New York,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",500,12.7,0.052,0.47,17.7,36810,2.6
+New York,Cooling and Freezing Equipment Operators and Tenders,240,18.2,0.025,0.42,18.19,37840,5.4
+New York,Etchers and Engravers,**,**,**,**,19.37,40290,5.5
+New York,"Molders, Shapers, and Casters, Except Metal and Plastic",890,22.2,0.093,0.3,18.03,37490,6.3
+New York,"Paper Goods Machine Setters, Operators, and Tenders",4100,7,0.431,0.63,19.36,40260,2.4
+New York,Helpers--Production Workers,5860,6.3,0.615,0.3,16.05,33380,2
+New York,"Production Workers, All Other",5150,12.8,0.54,0.36,17.7,36810,2.5
+New York,Transportation and Material Moving Occupations,631580,1,66.322,0.78,20.51,42650,1.4
+New York,Aircraft Cargo Handling Supervisors,370,8.6,0.039,0.6,30.11,62620,4.8
+New York,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",23830,2.5,2.502,0.81,30.25,62930,1.9
+New York,"Airline Pilots, Copilots, and Flight Engineers",6940,2.8,0.729,1.27,*,120570,7.4
+New York,Commercial Pilots,1090,9.9,0.115,0.44,*,147980,14
+New York,Air Traffic Controllers,1220,0.7,0.128,0.85,63.08,131200,1.5
+New York,Airfield Operations Specialists,400,5.4,0.042,0.58,31.04,64560,1.2
+New York,Flight Attendants,10820,2.1,1.137,1.38,*,50410,6.8
+New York,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",990,39.8,0.104,1.04,16.56,34450,13.8
+New York,Driver/Sales Workers,20110,9.1,2.112,0.7,15.12,31440,2.1
+New York,Heavy and Tractor-Trailer Truck Drivers,63090,2.6,6.625,0.52,25.58,53210,1.3
+New York,Light Truck Drivers,47210,3.4,4.958,0.79,19.16,39850,1.8
+New York,"Bus Drivers, Transit and Intercity",18600,3.2,1.953,1.6,29.84,62060,5.9
+New York,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",67150,2.8,7.052,1.48,20,41600,1.3
+New York,"Motor Vehicle Operators, All Other",3300,12.2,0.346,0.9,17.32,36030,2.2
+New York,Locomotive Engineers,1650,26.7,0.173,0.72,38.61,80310,4.4
+New York,"Rail Yard Engineers, Dinkey Operators, and Hostlers",110,18,0.011,0.31,36.4,75700,6.9
+New York,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",650,9.8,0.068,0.91,35.05,72910,5.4
+New York,Railroad Conductors and Yardmasters,6170,10.3,0.648,2.08,33.29,69250,6
+New York,Sailors and Marine Oilers,1640,8.8,0.172,0.81,23.1,48040,3.1
+New York,"Captains, Mates, and Pilots of Water Vessels",2070,6.3,0.218,0.96,43.29,90050,5.7
+New York,Motorboat Operators,50,42,0.005,0.36,32.96,68550,3.2
+New York,Ship Engineers,580,7,0.06,1.06,47.54,98880,4.6
+New York,Bridge and Lock Tenders,270,3.6,0.029,1.34,23.12,48100,2.4
+New York,Parking Attendants,14740,5.5,1.547,1.54,13.94,29000,1.4
+New York,Automotive and Watercraft Service Attendants,4280,13.2,0.449,0.56,13.45,27980,1.6
+New York,Traffic Technicians,1400,8.5,0.147,2.88,29.68,61730,4.8
+New York,Transportation Inspectors,4520,1.5,0.475,2.32,*,*,*
+New York,Passenger Attendants,4210,23,0.442,2.3,15.22,31670,4
+New York,"Aircraft Service Attendants and Transportation Workers, All Other",1200,8.3,0.126,0.53,18.31,38090,7.6
+New York,Conveyor Operators and Tenders,930,24.8,0.098,0.6,16.4,34120,3.3
+New York,Crane and Tower Operators,1370,17,0.144,0.47,*,*,*
+New York,Hoist and Winch Operators,70,16.8,0.008,0.24,20.13,41870,6.9
+New York,Industrial Truck and Tractor Operators,17230,4.3,1.809,0.42,21.09,43870,1.7
+New York,Cleaners of Vehicles and Equipment,20360,3.9,2.138,0.82,16.95,35250,7.9
+New York,"Laborers and Freight, Stock, and Material Movers, Hand",132350,2.1,13.898,0.69,17.44,36280,1.1
+New York,Machine Feeders and Offbearers,1370,9.8,0.144,0.33,16.47,34250,2.8
+New York,"Packers and Packagers, Hand",21880,5.2,2.298,0.53,14.5,30170,1
+New York,Stockers and Order Fillers,111920,3.5,11.753,0.81,14.81,30800,0.8
+New York,Gas Compressor and Gas Pumping Station Operators,100,21.6,0.01,0.43,28.17,58580,5.6
+New York,"Pump Operators, Except Wellhead Pumpers",40,38.9,0.004,0.06,24.99,51990,7.8
+New York,Wellhead Pumpers,70,43.1,0.007,0.08,20.67,43000,21.8
+New York,Refuse and Recyclable Material Collectors,10370,2,1.089,1.32,28.44,59150,2.4
+New York,"Tank Car, Truck, and Ship Loaders",**,**,**,**,19.64,40860,4.6
+New York,"Material Moving Workers, All Other",1100,22.7,0.116,0.6,23.85,49610,6.4

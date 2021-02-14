@@ -1,0 +1,710 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Utah,All Occupations,1504070,0.6,1000,1,23.76,49420,0.8
+Utah,Management Occupations,108630,1.3,72.223,1.32,46.23,96150,0.8
+Utah,Chief Executives,4680,4.4,3.113,2.22,78.2,162660,2.3
+Utah,General and Operations Managers,47380,2.2,31.501,1.93,39.96,83130,1
+Utah,Legislators,590,7.5,0.391,1.1,*,29770,4.6
+Utah,Advertising and Promotions Managers,100,12.8,0.067,0.39,42.39,88170,8.8
+Utah,Marketing Managers,3140,5.5,2.09,1.16,59.02,122760,5.7
+Utah,Sales Managers,5000,4.2,3.323,1.21,58.73,122160,1.7
+Utah,Public Relations and Fundraising Managers,720,11.5,0.48,0.89,46.26,96210,5.6
+Utah,Administrative Services and Facilities Managers,2880,3.1,1.918,0.92,41.77,86890,1.8
+Utah,Computer and Information Systems Managers,5160,3.9,3.43,1.16,65.29,135800,1.4
+Utah,Financial Managers,7940,3.6,5.281,1.18,54.33,113000,1.6
+Utah,Industrial Production Managers,1670,4,1.108,0.88,45.05,93710,1.9
+Utah,Purchasing Managers,470,5.7,0.315,0.64,49.58,103120,1.7
+Utah,"Transportation, Storage, and Distribution Managers",1600,5.3,1.067,1.19,40.91,85080,2.4
+Utah,Compensation and Benefits Managers,200,12.8,0.132,1.15,51.2,106500,2
+Utah,Human Resources Managers,1610,5.5,1.068,1.01,49.76,103500,1.9
+Utah,Training and Development Managers,620,6,0.41,1.56,49.75,103490,1.9
+Utah,Construction Managers,2800,8.8,1.864,0.93,41.71,86760,2.5
+Utah,"Education and Childcare Administrators, Preschool and Daycare",140,24,0.095,0.27,20.38,42390,5.8
+Utah,"Education Administrators, Kindergarten through Secondary",2170,5,1.445,0.78,*,99380,2.4
+Utah,"Education Administrators, Postsecondary",1580,16.2,1.053,1.07,46.94,97630,4.7
+Utah,"Education Administrators, All Other",410,17.8,0.276,0.91,34.43,71620,4.8
+Utah,Architectural and Engineering Managers,2000,3.3,1.33,1.01,61.3,127510,1.7
+Utah,Food Service Managers,1840,11,1.226,0.76,25.09,52180,4.2
+Utah,Lodging Managers,330,16.8,0.221,0.85,27,56150,3.7
+Utah,Medical and Health Services Managers,3800,4.3,2.528,0.94,50.48,105010,3.3
+Utah,Natural Sciences Managers,930,8.2,0.616,1.34,50.41,104850,4
+Utah,Postmasters and Mail Superintendents,110,0,0.072,0.77,38.08,79200,1
+Utah,"Property, Real Estate, and Community Association Managers",2960,9.3,1.966,1.31,24.84,51660,5.4
+Utah,Social and Community Service Managers,1110,5.6,0.735,0.69,32.54,67690,2.3
+Utah,Emergency Management Directors,110,4.7,0.07,1.02,30.6,63650,2.3
+Utah,Funeral Home Managers,90,30.1,0.059,0.93,37.55,78090,21
+Utah,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",**,**,**,**,47.92,99670,2.5
+Utah,Business and Financial Operations Occupations,87320,1.3,58.056,1.04,31.68,65890,1.2
+Utah,Buyers and Purchasing Agents,4240,3.7,2.816,0.98,33.49,69660,6
+Utah,"Claims Adjusters, Examiners, and Investigators",1780,13.5,1.187,0.61,26.83,55800,3.8
+Utah,"Insurance Appraisers, Auto Damage",**,**,**,**,40.6,84450,4.6
+Utah,Compliance Officers,3090,3.7,2.053,0.95,28.78,59870,2.1
+Utah,Cost Estimators,2690,5.8,1.79,1.25,33.39,69450,1.6
+Utah,Human Resources Specialists,6660,3.2,4.429,1.03,26.97,56100,1.1
+Utah,Labor Relations Specialists,270,18,0.178,0.35,23.9,49710,8.5
+Utah,Logisticians,2440,2.8,1.619,1.31,35.16,73140,3.2
+Utah,Management Analysts,4330,5.9,2.877,0.6,36.81,76560,3.6
+Utah,"Meeting, Convention, and Event Planners",1410,6.3,0.94,1.17,21.82,45380,3
+Utah,Fundraisers,460,8.2,0.308,0.55,27.14,56450,3.9
+Utah,"Compensation, Benefits, and Job Analysis Specialists",720,10.3,0.481,0.79,36.06,75000,18.4
+Utah,Training and Development Specialists,5070,4.1,3.369,1.58,26.26,54610,1.9
+Utah,Market Research Analysts and Marketing Specialists,8370,3.8,5.563,1.2,27.75,57730,2
+Utah,"Project Management Specialists and Business Operations Specialists, All Other",15350,2.3,10.208,1.17,35.3,73410,2.3
+Utah,Accountants and Auditors,10250,3.2,6.814,0.78,32.96,68560,1.6
+Utah,Property Appraisers and Assessors,740,16.1,0.495,1.29,28.23,58730,7.1
+Utah,Budget Analysts,390,10.2,0.26,0.74,36.55,76030,2.2
+Utah,Credit Analysts,620,6.4,0.41,0.81,28.3,58870,4.9
+Utah,Personal Financial Advisors,2510,20.6,1.667,1.16,47.2,98180,7.7
+Utah,Insurance Underwriters,610,15.9,0.405,0.59,30.1,62610,2.4
+Utah,Financial Examiners,610,9,0.405,0.92,33.92,70560,8.7
+Utah,Credit Counselors,670,12.1,0.443,2.03,20.12,41850,2.8
+Utah,Loan Officers,6000,8.9,3.986,1.9,29.38,61110,4.3
+Utah,"Tax Examiners and Collectors, and Revenue Agents",1910,0,1.27,3.47,23.34,48550,2.5
+Utah,Tax Preparers,840,17.5,0.556,1.22,24.3,50550,8.7
+Utah,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",5150,5.5,3.424,1.1,35.22,73250,2.7
+Utah,Computer and Mathematical Occupations,57360,1.9,38.138,1.23,39.59,82340,1
+Utah,Computer Systems Analysts,3650,6.7,2.428,0.61,37.46,77910,2.2
+Utah,Information Security Analysts,930,7.4,0.616,0.72,42.54,88480,2
+Utah,Computer and Information Research Scientists,810,3.3,0.539,2.57,48.02,99870,6.8
+Utah,Computer Network Support Specialists,1590,7.4,1.059,0.84,28.74,59790,3
+Utah,Computer User Support Specialists,10230,3.4,6.799,1.54,25.53,53100,2
+Utah,Computer Network Architects,960,9.2,0.635,0.61,53.27,110790,4.8
+Utah,Network and Computer Systems Administrators,3740,13.1,2.486,1.03,39.2,81530,2
+Utah,Database Administrators and Architects,1800,7.6,1.196,1.4,44.32,92190,1.6
+Utah,Computer Programmers,2630,10.4,1.749,1.29,40.44,84120,2.6
+Utah,Software Developers and Software Quality Assurance Analysts and Testers,18480,3.6,12.289,1.28,48.74,101380,1.1
+Utah,Web Developers and Digital Interface Designers,2700,6.2,1.797,1.78,33.6,69880,2.5
+Utah,"Computer Occupations, All Other",7270,3.2,4.833,1.81,38.8,80690,2.7
+Utah,Actuaries,150,4.7,0.1,0.66,34.85,72480,5.2
+Utah,Operations Research Analysts,1690,13.9,1.123,1.65,35.97,74830,5.3
+Utah,Statisticians,550,7.2,0.366,1.38,34.29,71320,2.7
+Utah,"Data Scientists and Mathematical Science Occupations, All Other",180,12.5,0.122,0.58,35.64,74120,4.4
+Utah,Architecture and Engineering Occupations,29510,2.4,19.622,1.11,37.39,77780,1.8
+Utah,"Architects, Except Landscape and Naval",1030,10.7,0.684,0.95,35.69,74240,5.5
+Utah,Landscape Architects,110,25.9,0.072,0.52,29.05,60410,7.2
+Utah,Cartographers and Photogrammetrists,170,10.7,0.115,1.49,27.96,58160,3.1
+Utah,Surveyors,570,12.4,0.378,1.23,32.6,67800,3.7
+Utah,Aerospace Engineers,710,9.5,0.47,1.09,49.97,103930,1.8
+Utah,Bioengineers and Biomedical Engineers,380,18,0.255,1.89,35.92,74720,3.5
+Utah,Chemical Engineers,170,11.5,0.114,0.55,40.27,83750,5.2
+Utah,Civil Engineers,3180,5.5,2.116,1,40.1,83410,4.2
+Utah,Computer Hardware Engineers,960,1.7,0.641,1.39,52.64,109490,4.3
+Utah,Electrical Engineers,1690,8.8,1.124,0.89,44.01,91530,2.7
+Utah,"Electronics Engineers, Except Computer",1250,7.1,0.832,0.95,44.76,93090,1.8
+Utah,Environmental Engineers,580,10,0.384,1.06,37.51,78020,3.3
+Utah,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",680,37.7,0.449,2.55,33.44,69560,11.5
+Utah,Industrial Engineers,2250,8.5,1.497,0.75,41.99,87330,1.4
+Utah,Materials Engineers,410,11.6,0.274,1.5,40.2,83620,2.4
+Utah,Mechanical Engineers,3550,4.8,2.362,1.13,44.13,91790,1.6
+Utah,"Mining and Geological Engineers, Including Mining Safety Engineers",230,35.5,0.156,3.65,48.98,101880,13.5
+Utah,Nuclear Engineers,30,33.2,0.022,0.21,66.8,138940,25.2
+Utah,Petroleum Engineers,180,30.8,0.119,0.53,*,*,*
+Utah,"Engineers, All Other",1500,9.3,0.996,0.96,42.98,89390,3.1
+Utah,Architectural and Civil Drafters,2070,8.1,1.376,2.05,25.45,52940,1.6
+Utah,Electrical and Electronics Drafters,230,26,0.152,0.92,30.4,63220,3.8
+Utah,Mechanical Drafters,600,11.3,0.4,1.06,30.53,63510,4
+Utah,"Drafters, All Other",170,34.6,0.111,1.11,27.56,57320,5
+Utah,Aerospace Engineering and Operations Technologists and Technicians,130,10.5,0.089,1.13,30.77,64000,4.4
+Utah,Civil Engineering Technologists and Technicians,590,23.9,0.391,0.83,*,*,*
+Utah,Electrical and Electronic Engineering Technologists and Technicians,1500,9.1,0.999,1.2,27.21,56590,3
+Utah,Electro-Mechanical and Mechatronics Technologists and Technicians,160,14.7,0.106,1.09,31.64,65810,6
+Utah,Environmental Engineering Technologists and Technicians,210,15.4,0.143,1.17,21.74,45220,3.9
+Utah,Industrial Engineering Technologists and Technicians,1040,7.5,0.693,1.52,27.06,56270,3.9
+Utah,Mechanical Engineering Technologists and Technicians,940,15.7,0.623,2.14,20.35,42330,4.1
+Utah,Surveying and Mapping Technicians,490,14.1,0.329,0.91,25.18,52370,3.5
+Utah,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1590,3.1,1.055,1.75,27.92,58080,2.1
+Utah,"Life, Physical, and Social Science Occupations",13700,2.7,9.109,1.04,30.75,63950,2.9
+Utah,Food Scientists and Technologists,160,19.7,0.106,1.16,28.51,59310,6.6
+Utah,Soil and Plant Scientists,60,6,0.037,0.39,27.01,56180,2.5
+Utah,Biochemists and Biophysicists,150,6.9,0.101,0.47,28.72,59740,2.4
+Utah,Microbiologists,150,2.1,0.097,0.78,30.98,64430,4.1
+Utah,Zoologists and Wildlife Biologists,290,3.9,0.191,1.46,29.36,61070,3.6
+Utah,"Biological Scientists, All Other",340,6.2,0.229,0.84,36.78,76500,1.3
+Utah,Conservation Scientists,240,2,0.157,1.04,30.5,63450,0.9
+Utah,Foresters,60,3.5,0.041,0.63,28.39,59050,1.4
+Utah,"Medical Scientists, Except Epidemiologists",1350,13.7,0.895,1.03,34.09,70910,5.1
+Utah,"Life Scientists, All Other",50,8.4,0.032,0.73,*,*,*
+Utah,Physicists,50,26.1,0.036,0.32,61.92,128790,7.7
+Utah,Atmospheric and Space Scientists,260,41.2,0.17,2.69,45.68,95010,4.9
+Utah,Chemists,660,6.7,0.438,0.77,32.47,67540,1.9
+Utah,Materials Scientists,150,17.8,0.1,2.2,51.36,106830,5.4
+Utah,"Environmental Scientists and Specialists, Including Health",780,18,0.522,0.91,33.96,70630,8
+Utah,"Geoscientists, Except Hydrologists and Geographers",270,11.3,0.177,0.89,39.65,82470,5.8
+Utah,Hydrologists,70,11.8,0.05,1.13,39.91,83020,2.1
+Utah,"Physical Scientists, All Other",120,0.3,0.079,0.66,40.38,83990,1.7
+Utah,Economists,100,29.4,0.068,0.53,46.4,96520,5.8
+Utah,Survey Researchers,140,34.1,0.091,1.35,28.09,58430,8
+Utah,"Clinical, Counseling, and School Psychologists",1140,6.2,0.756,0.98,42.54,88480,7.1
+Utah,"Psychologists, All Other",80,4.8,0.054,0.56,42.51,88430,3
+Utah,Sociologists,60,15.8,0.037,2.08,34.57,71900,3.1
+Utah,Urban and Regional Planners,360,4.9,0.242,0.92,32.82,68260,1.4
+Utah,Anthropologists and Archeologists,70,6.2,0.047,1.02,33.78,70260,2
+Utah,Historians,220,47.3,0.144,6.96,39.47,82100,11.4
+Utah,"Social Scientists and Related Workers, All Other",140,5.8,0.09,0.39,35.6,74040,1.2
+Utah,Agricultural and Food Science Technicians,110,15.6,0.075,0.5,18.18,37810,6.8
+Utah,Biological Technicians,610,5.7,0.408,0.75,22.22,46220,1.7
+Utah,Chemical Technicians,1040,5.9,0.689,1.54,23.69,49270,2.5
+Utah,"Environmental Science and Protection Technicians, Including Health",130,10.7,0.089,0.4,24.82,51630,3.5
+Utah,Geological and Hydrologic Technicians,230,24,0.152,1.31,26.29,54690,4.1
+Utah,Social Science Research Assistants,470,10,0.311,1.28,23.93,49780,5.9
+Utah,Forest and Conservation Technicians,580,0.4,0.388,2.99,18.63,38740,0.9
+Utah,Occupational Health and Safety Specialists,920,6.5,0.609,0.96,36.54,76000,4
+Utah,Occupational Health and Safety Technicians,170,7.2,0.115,0.82,28.7,59700,4.9
+Utah,Community and Social Service Occupations,20880,4.2,13.88,0.91,23.63,49150,2.4
+Utah,"Educational, Guidance, and Career Counselors and Advisors",3920,9.9,2.604,1.29,25.54,53120,5.3
+Utah,Marriage and Family Therapists,640,23.5,0.429,1.07,36.65,76240,4.9
+Utah,Rehabilitation Counselors,730,12.3,0.488,0.66,19.57,40710,4.7
+Utah,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",3270,11.1,2.173,1.13,32.41,67410,6
+Utah,"Counselors, All Other",620,24.2,0.415,2.4,19.75,41090,2.7
+Utah,"Child, Family, and School Social Workers",1930,13.9,1.283,0.57,22.31,46400,4.9
+Utah,Healthcare Social Workers,990,7.6,0.656,0.55,30.42,63280,1.5
+Utah,Mental Health and Substance Abuse Social Workers,670,16.2,0.446,0.56,24.59,51160,4.6
+Utah,"Social Workers, All Other",490,2.1,0.324,0.81,24.87,51720,4
+Utah,Health Education Specialists,410,9.2,0.272,0.68,24.81,51600,3.9
+Utah,Probation Officers and Correctional Treatment Specialists,690,0,0.456,0.76,25.56,53170,1.6
+Utah,Social and Human Service Assistants,5400,5.7,3.59,1.3,14.91,31020,1.7
+Utah,Community Health Workers,620,9.8,0.412,1.03,23.48,48840,1.9
+Utah,"Community and Social Service Specialists, All Other",250,26.8,0.169,0.26,25.1,52210,8
+Utah,Legal Occupations,10240,3,6.805,0.87,45.65,94960,6.1
+Utah,Lawyers,5310,7.5,3.528,0.79,64.8,134770,7.1
+Utah,Judicial Law Clerks,530,2.8,0.35,3.09,19.33,40200,1.6
+Utah,"Administrative Law Judges, Adjudicators, and Hearing Officers",170,1.4,0.111,1.13,40.66,84570,1.3
+Utah,"Arbitrators, Mediators, and Conciliators",120,14.9,0.079,1.9,27.36,56920,8.4
+Utah,"Judges, Magistrate Judges, and Magistrates",90,5.7,0.057,0.29,44.72,93020,6.5
+Utah,Paralegals and Legal Assistants,3000,10.9,1.996,0.89,25.1,52200,3.9
+Utah,"Title Examiners, Abstractors, and Searchers",840,26.2,0.559,1.55,22.2,46170,6.5
+Utah,"Legal Support Workers, All Other",190,13,0.126,0.41,28.89,60090,7.4
+Utah,Educational Instruction and Library Occupations,92440,3.5,61.462,1.02,25.63,53310,6.2
+Utah,"Business Teachers, Postsecondary",840,18.7,0.556,0.97,*,97280,7.4
+Utah,"Computer Science Teachers, Postsecondary",450,19.8,0.301,1.39,*,104250,7.3
+Utah,"Mathematical Science Teachers, Postsecondary",680,27.1,0.452,1.3,*,88490,5.5
+Utah,"Architecture Teachers, Postsecondary",100,6,0.068,1.46,*,81650,3.7
+Utah,"Engineering Teachers, Postsecondary",350,7,0.232,0.95,*,121700,4.3
+Utah,"Agricultural Sciences Teachers, Postsecondary",110,0,0.074,1.15,*,86970,2
+Utah,"Biological Science Teachers, Postsecondary",600,15.9,0.399,1.1,*,119380,10.3
+Utah,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",190,20.3,0.123,1.64,*,110690,6.3
+Utah,"Chemistry Teachers, Postsecondary",270,13.2,0.18,1.24,*,110810,7.9
+Utah,"Environmental Science Teachers, Postsecondary",100,3.9,0.066,1.6,*,93250,5.5
+Utah,"Physics Teachers, Postsecondary",210,18.9,0.139,1.48,*,88200,4
+Utah,"Anthropology and Archeology Teachers, Postsecondary",40,0,0.025,0.63,*,81530,3
+Utah,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",50,3.6,0.036,0.5,*,89320,4.6
+Utah,"Economics Teachers, Postsecondary",170,20.7,0.115,1.27,*,118850,4.3
+Utah,"Geography Teachers, Postsecondary",70,11.9,0.048,1.76,*,80640,2.7
+Utah,"Political Science Teachers, Postsecondary",70,5.3,0.047,0.44,*,84140,3
+Utah,"Psychology Teachers, Postsecondary",240,10.8,0.158,0.62,*,80880,3.8
+Utah,"Sociology Teachers, Postsecondary",270,34.4,0.177,1.87,*,97530,3.5
+Utah,"Social Sciences Teachers, Postsecondary, All Other",110,6.6,0.072,0.63,*,79510,3.8
+Utah,"Health Specialties Teachers, Postsecondary",2360,3.9,1.572,1.14,*,144740,14.7
+Utah,"Nursing Instructors and Teachers, Postsecondary",340,15.8,0.226,0.56,*,82790,5.4
+Utah,"Education Teachers, Postsecondary",980,8.4,0.65,1.56,*,97750,8.3
+Utah,"Library Science Teachers, Postsecondary",30,0,0.023,0.77,*,84440,2.7
+Utah,"Criminal Justice and Law Enforcement Teachers, Postsecondary",500,40,0.331,3.46,*,73230,6.5
+Utah,"Law Teachers, Postsecondary",110,16.8,0.072,0.66,*,183970,16.2
+Utah,"Social Work Teachers, Postsecondary",140,11.1,0.093,1,*,78440,7.6
+Utah,"Art, Drama, and Music Teachers, Postsecondary",1250,25,0.831,1.3,*,83950,5.6
+Utah,"Communications Teachers, Postsecondary",450,24.7,0.296,1.49,*,75260,3.4
+Utah,"English Language and Literature Teachers, Postsecondary",870,26.9,0.576,1.24,*,77180,3.4
+Utah,"Foreign Language and Literature Teachers, Postsecondary",340,30.8,0.227,1.34,*,85410,2.8
+Utah,"History Teachers, Postsecondary",250,27,0.165,1.15,*,92340,5.4
+Utah,"Philosophy and Religion Teachers, Postsecondary",190,39.3,0.127,0.8,*,91190,3.4
+Utah,"Family and Consumer Sciences Teachers, Postsecondary",50,4.7,0.031,2.12,*,72320,5
+Utah,"Recreation and Fitness Studies Teachers, Postsecondary",300,24,0.197,1.82,*,71900,4.6
+Utah,"Career/Technical Education Teachers, Postsecondary",2510,8.9,1.668,2.18,24.8,51590,4.4
+Utah,"Postsecondary Teachers, All Other",720,13.4,0.48,0.35,*,53450,5.4
+Utah,"Preschool Teachers, Except Special Education",2100,21.1,1.398,0.48,14.87,30930,6.2
+Utah,"Kindergarten Teachers, Except Special Education",550,35.2,0.365,0.43,*,64710,15.9
+Utah,"Elementary School Teachers, Except Special Education",13110,8.1,8.719,0.9,*,60660,4
+Utah,"Middle School Teachers, Except Special and Career/Technical Education",6540,14.3,4.346,1.03,*,63720,3.6
+Utah,"Career/Technical Education Teachers, Middle School",50,49.7,0.032,0.4,*,55900,6
+Utah,"Secondary School Teachers, Except Special and Career/Technical Education",8920,10.8,5.932,0.84,*,61050,3.3
+Utah,"Career/Technical Education Teachers, Secondary School",**,**,**,**,*,60710,3.3
+Utah,"Special Education Teachers, Preschool",290,32.5,0.194,1.28,*,47840,5
+Utah,"Special Education Teachers, Kindergarten and Elementary School",1420,17.3,0.944,0.71,*,47630,5.4
+Utah,"Special Education Teachers, Middle School",590,9.9,0.395,0.68,*,51970,11.4
+Utah,"Special Education Teachers, Secondary School",1360,13.2,0.904,0.93,*,42830,6
+Utah,"Special Education Teachers, All Other",170,49.1,0.11,0.45,*,50730,26.8
+Utah,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",80,30.4,0.056,0.16,21.34,44390,10
+Utah,Self-Enrichment Teachers,5270,6.7,3.502,2.03,18.96,39440,3.7
+Utah,"Substitute Teachers, Short-Term",5820,2.6,3.868,0.97,11.11,23100,5.7
+Utah,"Tutors and Teachers and Instructors, All Other",3440,11.8,2.285,1.05,*,31420,6
+Utah,Archivists,50,16.7,0.036,0.81,23.13,48110,3.2
+Utah,Curators,110,19.4,0.071,0.8,24.27,50480,3.7
+Utah,Museum Technicians and Conservators,40,28.3,0.026,0.29,18.22,37910,4
+Utah,Librarians and Media Collections Specialists,1590,6,1.058,1.14,22.02,45800,3.3
+Utah,Library Technicians,470,8.3,0.31,0.51,13.8,28710,6
+Utah,Instructional Coordinators,3150,9.4,2.097,1.74,27.01,56180,4.3
+Utah,"Teaching Assistants, Postsecondary",2340,1.4,1.558,1.66,*,45620,4.3
+Utah,"Teaching Assistants, Except Postsecondary",16600,5.9,11.035,1.2,*,27500,1.6
+Utah,"Educational Instruction and Library Workers, All Other",800,1.3,0.529,0.6,14.24,29610,9.9
+Utah,"Arts, Design, Entertainment, Sports, and Media Occupations",23580,3.2,15.678,1.14,23.66,49210,1.9
+Utah,Art Directors,430,8.3,0.285,0.98,47.52,98840,2.9
+Utah,Craft Artists,140,38.4,0.095,2.99,16.49,34300,9.3
+Utah,"Fine Artists, Including Painters, Sculptors, and Illustrators",240,16,0.161,1.91,21.3,44300,5.4
+Utah,Special Effects Artists and Animators,200,25.7,0.135,0.68,33.24,69140,6.5
+Utah,"Artists and Related Workers, All Other",480,0,0.322,6.26,17.39,36170,2.7
+Utah,Commercial and Industrial Designers,630,23.2,0.422,1.89,26.77,55690,7.6
+Utah,Fashion Designers,90,11.4,0.057,0.38,23.01,47870,7.8
+Utah,Floral Designers,690,13.7,0.461,1.62,12.6,26210,2.2
+Utah,Graphic Designers,3010,5.9,2.004,1.36,23.94,49800,1.7
+Utah,Interior Designers,470,16.8,0.313,0.76,26.35,54800,10.1
+Utah,Merchandise Displayers and Window Trimmers,1140,18.5,0.757,0.79,14.92,31040,3.2
+Utah,Set and Exhibit Designers,110,15.3,0.073,0.9,23.92,49760,8.1
+Utah,"Designers, All Other",120,35.2,0.077,1.07,29.17,60660,7.4
+Utah,Producers and Directors,920,5.8,0.609,0.69,30.98,64440,4.2
+Utah,Athletes and Sports Competitors,140,10.6,0.095,1.23,*,100750,19.8
+Utah,Coaches and Scouts,2730,13.9,1.812,1.1,*,38460,7.1
+Utah,"Umpires, Referees, and Other Sports Officials",1190,0.9,0.794,5.79,*,22420,2
+Utah,Dancers,230,14.4,0.151,2.29,19.94,*,11.3
+Utah,Music Directors and Composers,40,36.9,0.028,0.38,28.76,59810,16.1
+Utah,Musicians and Singers,360,6.9,0.241,0.86,31.66,*,9.1
+Utah,"Miscellaneous Entertainers and Performers, Sports and Related Workers",110,25.3,0.071,0.66,19.67,*,7.9
+Utah,Broadcast Announcers and Radio Disc Jockeys,210,14,0.14,0.7,28.67,59630,12.8
+Utah,"News Analysts, Reporters, and Journalists",330,10.6,0.22,0.73,31.57,65670,7.3
+Utah,Public Relations Specialists,2420,7.9,1.61,0.97,30.18,62770,5.1
+Utah,Editors,900,9.4,0.598,0.92,30.13,62670,6.2
+Utah,Technical Writers,750,5.5,0.497,1.44,31.71,65960,1.9
+Utah,Writers and Authors,820,11.7,0.546,1.75,24.34,50630,6.5
+Utah,Interpreters and Translators,1190,22.9,0.791,1.97,23.94,49800,4.7
+Utah,"Media and Communication Workers, All Other",190,42,0.124,0.73,20.11,41830,12.6
+Utah,Audio and Video Technicians,1290,20.2,0.854,1.7,20.21,42040,5.1
+Utah,Broadcast Technicians,280,7.4,0.184,0.94,18.09,37630,3.7
+Utah,Sound Engineering Technicians,310,4.3,0.204,2.32,13.66,28410,10.5
+Utah,Photographers,540,12.3,0.356,1.03,25.66,53380,23.9
+Utah,"Camera Operators, Television, Video, and Film",200,11.4,0.132,0.9,25.81,53690,6
+Utah,Film and Video Editors,250,19.5,0.167,0.89,24.24,50420,4
+Utah,"Lighting Technicians and Media and Communication Equipment Workers, All Other",100,20.8,0.064,0.4,27.4,57000,7.1
+Utah,Healthcare Practitioners and Technical Occupations,68350,1.5,45.443,0.77,36.09,75070,1.8
+Utah,Chiropractors,370,20.6,0.248,1.04,23.38,48640,9.2
+Utah,"Dentists, General",1510,21.6,1.003,1.33,64.77,134730,16.4
+Utah,Orthodontists,50,37.1,0.033,0.81,62.98,130990,17.5
+Utah,Dietitians and Nutritionists,680,6.1,0.454,0.99,28.1,58450,2.4
+Utah,Optometrists,490,16.5,0.325,1.21,40.12,83450,9.8
+Utah,Pharmacists,2280,5.6,1.516,0.72,58.18,121020,2
+Utah,Physician Assistants,1230,6.7,0.817,1,50.36,104740,1.9
+Utah,Podiatrists,170,48.8,0.116,1.74,74.08,154090,11.4
+Utah,Occupational Therapists,860,6.1,0.573,0.63,40.23,83670,2.5
+Utah,Physical Therapists,1890,6.2,1.255,0.79,41.29,85880,2.3
+Utah,Recreational Therapists,350,6.4,0.231,1.78,23.45,48780,3
+Utah,Respiratory Therapists,1070,8.5,0.712,0.79,29.91,62210,1.2
+Utah,Speech-Language Pathologists,1360,10.4,0.906,0.86,38.21,79480,3.3
+Utah,Exercise Physiologists,80,19.4,0.055,1.11,24.81,51600,5
+Utah,"Therapists, All Other",60,31.9,0.04,0.49,22.64,47090,10.6
+Utah,Veterinarians,580,13.9,0.388,0.76,42.7,88810,9
+Utah,Registered Nurses,21650,2.2,14.396,0.71,32.68,67970,0.8
+Utah,Nurse Anesthetists,**,**,**,**,70.42,146470,8.1
+Utah,Nurse Midwives,60,21.2,0.037,0.78,50.28,104580,6.1
+Utah,Nurse Practitioners,1640,5.7,1.09,0.8,50.6,105240,2.6
+Utah,Audiologists,110,19,0.07,0.76,39.34,81830,5.5
+Utah,Anesthesiologists,**,**,**,**,86.84,180630,28.2
+Utah,Family Medicine Physicians,1280,11.3,0.851,1.14,93.41,194290,4.3
+Utah,General Internal Medicine Physicians,150,9.8,0.1,0.33,110.66,230170,5.5
+Utah,Obstetricians and Gynecologists,200,20.1,0.136,1.07,102.92,214070,9
+Utah,"Pediatricians, General",190,28,0.127,0.63,109.83,228440,13.2
+Utah,Psychiatrists,220,36.5,0.147,0.85,57.9,120440,11.2
+Utah,"Physicians, All Other; and Ophthalmologists, Except Pediatric",1980,5.1,1.319,0.5,100.68,209420,7
+Utah,"Surgeons, Except Ophthalmologists",350,11.2,0.234,0.95,129.93,270260,8.4
+Utah,Dental Hygienists,2770,11.4,1.842,1.22,33.33,69320,2.8
+Utah,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",140,5.9,0.096,0.39,40,83200,3.2
+Utah,Clinical Laboratory Technologists and Technicians,4450,2.2,2.957,1.33,23.9,49720,1.5
+Utah,Diagnostic Medical Sonographers,630,8.4,0.422,0.85,35.48,73800,3
+Utah,Nuclear Medicine Technologists,100,7.3,0.069,0.56,37.1,77160,1.3
+Utah,Radiologic Technologists and Technicians,1460,3.8,0.967,0.69,27.82,57870,1.2
+Utah,Magnetic Resonance Imaging Technologists,220,7.5,0.144,0.56,37.53,78060,4.4
+Utah,Emergency Medical Technicians and Paramedics,2160,4,1.433,0.81,17.13,35630,1.7
+Utah,Dietetic Technicians,550,11.1,0.364,1.83,13.57,28230,3.1
+Utah,Pharmacy Technicians,3700,5.6,2.457,0.86,18.01,37470,1.1
+Utah,Psychiatric Technicians,1350,7.5,0.9,1.68,14.36,29860,2.4
+Utah,Surgical Technologists,1110,3.8,0.736,0.99,21.89,45530,1.3
+Utah,Veterinary Technologists and Technicians,1220,8.3,0.812,1.08,14.71,30610,2.5
+Utah,Ophthalmic Medical Technicians,200,26.4,0.13,0.33,17.62,36640,3.1
+Utah,Licensed Practical and Licensed Vocational Nurses,1970,8.2,1.309,0.28,23.88,49660,2.8
+Utah,"Opticians, Dispensing",780,16,0.516,1.05,13.99,29090,5.3
+Utah,Hearing Aid Specialists,120,44.2,0.079,1.42,24.34,50620,6.3
+Utah,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",2690,6.2,1.787,0.79,21.04,43770,2.2
+Utah,Athletic Trainers,310,14.9,0.209,1.07,*,48250,3.7
+Utah,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,23.81,49530,6
+Utah,Healthcare Support Occupations,46750,3.1,31.085,0.7,15.01,31220,1
+Utah,Home Health and Personal Care Aides,14080,9.6,9.359,0.43,13.19,27430,2
+Utah,Nursing Assistants,11760,5.1,7.818,0.81,13.89,28890,1.2
+Utah,Psychiatric Aides,200,5.3,0.133,0.36,13.98,29070,2.1
+Utah,Occupational Therapy Assistants,290,14.4,0.191,0.63,28.6,59490,4.9
+Utah,Occupational Therapy Aides,150,31.3,0.098,1.91,13.34,27740,14.2
+Utah,Physical Therapist Assistants,800,8.9,0.53,0.8,26.51,55130,4.3
+Utah,Physical Therapist Aides,900,11.9,0.6,1.79,11.2,23300,2.5
+Utah,Massage Therapists,1520,10.8,1.014,1.39,21.8,45350,4.9
+Utah,Dental Assistants,5450,4.4,3.623,1.51,15.74,32740,3.3
+Utah,Medical Assistants,7940,4.8,5.28,1.09,16.39,34090,0.8
+Utah,Medical Equipment Preparers,580,3.2,0.385,0.99,18.22,37900,1.2
+Utah,Medical Transcriptionists,400,20.2,0.266,0.7,17.81,37050,7.7
+Utah,Pharmacy Aides,260,17.8,0.176,0.69,16.97,35300,4.7
+Utah,Veterinary Assistants and Laboratory Animal Caretakers,300,18.4,0.198,0.3,11.58,24090,3.9
+Utah,Phlebotomists,1180,9,0.785,0.9,15.57,32390,1.5
+Utah,"Healthcare Support Workers, All Other",**,**,**,**,17.43,36250,3.8
+Utah,Protective Service Occupations,23540,2.3,15.652,0.66,21.32,44340,1.9
+Utah,First-Line Supervisors of Correctional Officers,290,1.3,0.192,0.61,37.94,78910,1.9
+Utah,First-Line Supervisors of Police and Detectives,970,1.2,0.644,0.78,37.97,78990,0.7
+Utah,First-Line Supervisors of Firefighting and Prevention Workers,590,2,0.392,0.83,33.27,69200,2.3
+Utah,"Miscellaneous First-Line Supervisors, Protective Service Workers",420,8.9,0.282,0.5,25.34,52700,1.8
+Utah,Firefighters,2050,3,1.362,0.62,18.44,38360,1.7
+Utah,Fire Inspectors and Investigators,170,8.2,0.111,1.19,30.07,62550,2.7
+Utah,Forest Fire Inspectors and Prevention Specialists,40,9.2,0.029,1.99,24.92,51830,2.1
+Utah,Bailiffs,30,4.7,0.023,0.17,23.12,48090,4.1
+Utah,Correctional Officers and Jailers,2300,2.3,1.53,0.53,22.93,47690,1.5
+Utah,Detectives and Criminal Investigators,330,1.9,0.217,0.3,39.87,82930,4.6
+Utah,Parking Enforcement Workers,70,5.7,0.046,0.88,17.36,36110,2.7
+Utah,Police and Sheriff's Patrol Officers,4790,4.1,3.181,0.7,27,56170,1.2
+Utah,Animal Control Workers,180,6.5,0.121,1.48,18.21,37870,1.9
+Utah,Private Detectives and Investigators,130,35.5,0.085,0.36,30.98,64440,12.8
+Utah,Security Guards,5840,6.5,3.884,0.51,17.28,35940,2.9
+Utah,Crossing Guards and Flaggers,1810,2.9,1.206,2.09,13.72,28550,2.4
+Utah,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2430,6.6,1.615,1.65,11.6,24120,2.7
+Utah,Transportation Security Screeners,520,0,0.343,1.08,18.62,38730,2.5
+Utah,"School Bus Monitors and Protective Service Workers, All Other",520,8.7,0.343,0.34,19.36,40260,2.5
+Utah,Food Preparation and Serving Related Occupations,112750,1.3,74.964,0.82,11.76,24450,1.3
+Utah,Chefs and Head Cooks,1340,19.2,0.893,1.02,21.48,44670,3.5
+Utah,First-Line Supervisors of Food Preparation and Serving Workers,8430,10.4,5.603,0.81,16.03,33350,2.8
+Utah,"Cooks, Fast Food",3800,17.6,2.525,0.7,11.47,23850,2.9
+Utah,"Cooks, Institution and Cafeteria",3680,6.6,2.447,0.89,13.76,28620,1.8
+Utah,"Cooks, Restaurant",8950,6.9,5.947,0.62,12.98,27010,2.1
+Utah,"Cooks, Short Order",1770,28.5,1.174,1.13,13.54,28170,4.3
+Utah,"Cooks, All Other",**,**,**,**,15.88,33030,5.3
+Utah,Food Preparation Workers,5340,14.7,3.55,0.6,12.12,25200,1.7
+Utah,Bartenders,2320,9.4,1.54,0.35,12.09,25150,5.3
+Utah,Fast Food and Counter Workers,46610,3.9,30.99,1.14,10.2,21210,1.2
+Utah,Waiters and Waitresses,17700,4,11.767,0.67,11.78,24500,3
+Utah,"Food Servers, Nonrestaurant",2050,13.8,1.364,0.72,13.5,28070,6.8
+Utah,Dining Room and Cafeteria Attendants and Bartender Helpers,3460,21.3,2.297,0.71,11.99,24940,9.5
+Utah,Dishwashers,3710,11.1,2.468,0.7,10.47,21780,1.9
+Utah,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",3230,9.1,2.147,0.74,10.48,21800,2.3
+Utah,"Food Preparation and Serving Related Workers, All Other",340,49.7,0.223,0.45,*,*,*
+Utah,Building and Grounds Cleaning and Maintenance Occupations,44500,2.8,29.586,0.98,13.69,28470,1.3
+Utah,First-Line Supervisors of Housekeeping and Janitorial Workers,1110,8.9,0.741,0.7,22.05,45860,5.2
+Utah,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",950,12.7,0.63,0.89,25.76,53580,3.8
+Utah,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",23180,4.9,15.413,1.06,12.33,25640,1.6
+Utah,Maids and Housekeeping Cleaners,8420,5.6,5.597,0.89,12.6,26210,2.1
+Utah,Pest Control Workers,720,10.2,0.478,0.88,16.66,34650,6.2
+Utah,Landscaping and Groundskeeping Workers,9510,4.3,6.322,1.02,15.2,31620,1.7
+Utah,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",180,38.7,0.119,0.68,17.9,37230,2.3
+Utah,Tree Trimmers and Pruners,290,35,0.195,0.61,20.55,42750,8.9
+Utah,"Grounds Maintenance Workers, All Other",130,26.4,0.087,0.89,18.71,38910,9.5
+Utah,Personal Care and Service Occupations,36360,3,24.176,1.07,13.85,28800,1.8
+Utah,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1750,5.8,1.161,0.78,17.4,36190,1.7
+Utah,Animal Trainers,210,37.4,0.139,1.24,16.3,33900,6
+Utah,Animal Caretakers,2320,8.9,1.541,1.07,12.81,26650,2.3
+Utah,Motion Picture Projectionists,80,29.4,0.054,1.73,10.67,22190,3.6
+Utah,"Ushers, Lobby Attendants, and Ticket Takers",1570,9,1.045,1.11,10.77,22400,2.4
+Utah,Amusement and Recreation Attendants,6720,6.9,4.468,1.94,11.06,23000,2.2
+Utah,Costume Attendants,130,16.2,0.087,1.71,16.79,34920,18.2
+Utah,"Locker Room, Coatroom, and Dressing Room Attendants",260,28,0.174,1.6,*,*,*
+Utah,"Entertainment Attendants and Related Workers, All Other",140,27.6,0.096,3.12,14.18,29490,6.1
+Utah,Funeral Attendants,150,28.5,0.102,0.44,12.74,26510,7.6
+Utah,"Morticians, Undertakers, and Funeral Arrangers",210,37.5,0.143,0.82,23.92,49750,4.8
+Utah,Barbers,450,47.3,0.298,2.19,12.75,26520,12.9
+Utah,"Hairdressers, Hairstylists, and Cosmetologists",2370,14.6,1.573,0.6,15.04,31280,6.1
+Utah,Manicurists and Pedicurists,810,27.3,0.539,0.71,15.83,32920,8.2
+Utah,Skincare Specialists,1300,23.1,0.867,2.25,16.43,34170,7.3
+Utah,Baggage Porters and Bellhops,240,11.4,0.16,0.59,14.36,29860,18.3
+Utah,Concierges,360,23.1,0.237,0.84,16.4,34110,7.5
+Utah,Tour and Travel Guides,1140,15.8,0.757,2.28,14.04,29200,6.4
+Utah,Childcare Workers,5600,11.3,3.722,0.97,11.19,23270,2.9
+Utah,Exercise Trainers and Group Fitness Instructors,3700,7.7,2.46,1.11,20.85,43370,3.6
+Utah,Recreation Workers,4230,8.9,2.81,1.15,12.61,26230,2.6
+Utah,Residential Advisors,2300,12.9,1.528,2.08,13.88,28880,1.6
+Utah,"Crematory Operators and Personal Care and Service Workers, All Other",320,44.3,0.211,0.5,11.34,23590,10.5
+Utah,Sales and Related Occupations,145780,2.1,96.921,0.99,19.44,40440,1.6
+Utah,First-Line Supervisors of Retail Sales Workers,9420,5,6.264,0.79,19.29,40130,1.3
+Utah,First-Line Supervisors of Non-Retail Sales Workers,1210,8.2,0.805,0.47,39.21,81560,8
+Utah,Cashiers,30840,5.9,20.507,0.84,11.24,23390,1
+Utah,Counter and Rental Clerks,3020,10.7,2.006,0.72,15.03,31260,2.8
+Utah,Parts Salespersons,2380,9.4,1.585,0.91,19.09,39710,3
+Utah,Retail Salespersons,47650,3.6,31.683,1.08,13.45,27970,1.5
+Utah,Advertising Sales Agents,600,10.3,0.402,0.45,29.74,61860,5.9
+Utah,Insurance Sales Agents,3710,11.1,2.467,0.88,24.36,50670,8.4
+Utah,"Securities, Commodities, and Financial Services Sales Agents",3410,23.3,2.264,0.76,35.9,74660,4.9
+Utah,Travel Agents,590,8.1,0.39,0.86,21.22,44130,7.4
+Utah,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",12250,5.2,8.146,1.15,30.31,63050,6.2
+Utah,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",2900,8.3,1.925,0.92,45.34,94300,4.3
+Utah,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",19980,3.4,13.287,1.45,30.23,62880,2.3
+Utah,Demonstrators and Product Promoters,750,28.1,0.497,0.94,15.55,32340,8.9
+Utah,Models,40,19,0.028,1.78,*,*,*
+Utah,Real Estate Brokers,670,28.4,0.444,1.53,22.82,47460,10.4
+Utah,Real Estate Sales Agents,1830,16.6,1.217,1.1,36.14,75170,17
+Utah,Sales Engineers,390,19.5,0.26,0.6,58.99,122700,14
+Utah,Telemarketers,3210,7,2.135,2.33,14.47,30090,6.4
+Utah,Office and Administrative Support Occupations,216480,1.3,143.928,1.08,18.03,37500,0.6
+Utah,First-Line Supervisors of Office and Administrative Support Workers,14910,2.4,9.915,0.98,25.44,52910,1
+Utah,"Switchboard Operators, Including Answering Service",520,16.7,0.347,0.75,12.88,26790,2.1
+Utah,Telephone Operators,60,5.3,0.041,1.27,19.39,40320,3.2
+Utah,"Communications Equipment Operators, All Other",40,27.3,0.027,1.23,19.91,41420,4.2
+Utah,Bill and Account Collectors,4310,11.4,2.865,1.78,16.93,35210,1.7
+Utah,Billing and Posting Clerks,6390,5.3,4.249,1.34,18.28,38020,1.5
+Utah,"Bookkeeping, Accounting, and Auditing Clerks",13590,3.6,9.036,0.88,19.31,40150,0.9
+Utah,Payroll and Timekeeping Clerks,1480,9.1,0.981,1.01,23.22,48290,1.8
+Utah,Procurement Clerks,740,4.8,0.492,1.09,21.18,44050,2.5
+Utah,Tellers,4370,5.9,2.906,0.97,13.69,28470,1.4
+Utah,"Financial Clerks, All Other",400,23.7,0.264,1.27,20.71,43080,5.8
+Utah,Brokerage Clerks,290,33.5,0.192,0.59,21.14,43960,7.1
+Utah,Correspondence Clerks,80,11.4,0.051,1.19,16.93,35220,4
+Utah,"Court, Municipal, and License Clerks",1240,5.5,0.826,0.79,18.89,39290,2.1
+Utah,"Credit Authorizers, Checkers, and Clerks",290,12.7,0.192,1.06,18.03,37500,2.7
+Utah,Customer Service Representatives,49070,2.4,32.626,1.64,16.78,34900,0.9
+Utah,"Eligibility Interviewers, Government Programs",2080,1.4,1.38,1.45,22.06,45890,1.7
+Utah,File Clerks,1850,3.3,1.227,1.76,15.34,31910,1.7
+Utah,"Hotel, Motel, and Resort Desk Clerks",3860,13.2,2.567,1.41,12.77,26560,4.2
+Utah,"Interviewers, Except Eligibility and Loan",1870,7.8,1.245,0.97,15.59,32430,2.2
+Utah,"Library Assistants, Clerical",870,5.5,0.581,0.99,12.9,26840,2.6
+Utah,Loan Interviewers and Clerks,2960,8.8,1.97,1.39,20.07,41740,2
+Utah,New Accounts Clerks,210,24.5,0.139,0.47,17.58,36570,4
+Utah,Order Clerks,1030,11.6,0.686,0.73,16.39,34100,2.4
+Utah,"Human Resources Assistants, Except Payroll and Timekeeping",600,7.6,0.396,0.5,19.13,39790,1.8
+Utah,Receptionists and Information Clerks,10360,4.4,6.888,0.96,13.57,28230,1
+Utah,Reservation and Transportation Ticket Agents and Travel Clerks,4190,33,2.788,3.31,19.79,41160,7.8
+Utah,"Information and Record Clerks, All Other",1500,2.2,0.999,0.95,18.42,38320,3.1
+Utah,Cargo and Freight Agents,810,17.7,0.538,0.82,19.79,41170,6.9
+Utah,Couriers and Messengers,570,15.3,0.376,0.74,14.82,30820,3.5
+Utah,Public Safety Telecommunicators,770,4.7,0.514,0.79,19.37,40280,1
+Utah,"Dispatchers, Except Police, Fire, and Ambulance",2180,7.1,1.446,1.07,21.59,44910,2.4
+Utah,"Meter Readers, Utilities",320,10.5,0.216,1.04,25.39,52810,2.7
+Utah,Postal Service Clerks,650,0,0.43,0.78,23.66,49220,1.1
+Utah,Postal Service Mail Carriers,2380,0,1.584,0.68,24.84,51670,1.7
+Utah,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",700,0,0.463,0.66,23.6,49080,2.5
+Utah,"Production, Planning, and Expediting Clerks",4100,3.2,2.727,1.08,23.16,48170,1.3
+Utah,"Shipping, Receiving, and Inventory Clerks",8100,4.2,5.384,1.12,15.94,33150,1
+Utah,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",930,7.6,0.62,1.49,16.23,33760,3
+Utah,Executive Secretaries and Executive Administrative Assistants,3150,4.2,2.091,0.57,26.9,55940,1.5
+Utah,Legal Secretaries and Administrative Assistants,1160,12.4,0.772,0.67,21.15,44000,3.7
+Utah,Medical Secretaries and Administrative Assistants,4570,7,3.04,0.74,16.93,35220,3.2
+Utah,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",18210,3.4,12.107,0.87,17.59,36580,1.2
+Utah,Data Entry Keyers,3270,6.1,2.174,2,16.85,35050,5
+Utah,Word Processors and Typists,260,9.2,0.171,0.53,15.53,32300,5
+Utah,Desktop Publishers,70,27.1,0.047,0.79,21.62,44970,4.7
+Utah,Insurance Claims and Policy Processing Clerks,1180,9.8,0.781,0.45,19.12,39770,7.3
+Utah,"Mail Clerks and Mail Machine Operators, Except Postal Service",1100,15.4,0.732,1.29,15.2,31610,2.1
+Utah,"Office Clerks, General",31500,2.5,20.944,1.04,16.56,34440,0.8
+Utah,"Office Machine Operators, Except Computer",300,14,0.199,0.64,14.95,31100,3.4
+Utah,Proofreaders and Copy Markers,90,47.3,0.059,1.12,18.96,39430,8.6
+Utah,Statistical Assistants,100,13.8,0.065,0.97,*,*,*
+Utah,"Office and Administrative Support Workers, All Other",870,8.6,0.576,0.45,18.59,38670,1.8
+Utah,"Farming, Fishing, and Forestry Occupations",1030,10.3,0.685,0.21,15.23,31690,4.1
+Utah,Agricultural Equipment Operators,40,48.6,0.029,0.16,18.15,37740,5.1
+Utah,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",270,23.2,0.178,0.09,12.84,26700,3.6
+Utah,"Farmworkers, Farm, Ranch, and Aquacultural Animals",460,22,0.303,1.21,13.18,27410,5.2
+Utah,Construction and Extraction Occupations,92340,3.3,61.396,1.46,22.85,47520,0.9
+Utah,First-Line Supervisors of Construction Trades and Extraction Workers,9090,4.6,6.045,1.42,31.09,64660,1.6
+Utah,Boilermakers,80,18.3,0.052,0.49,30.23,62870,3.9
+Utah,Brickmasons and Blockmasons,1690,13.6,1.122,2.72,21.76,45260,3.1
+Utah,Stonemasons,620,39.9,0.415,4.91,20.82,43310,5.2
+Utah,Carpenters,10010,6.4,6.658,1.33,21.12,43920,1.4
+Utah,Carpet Installers,350,33.4,0.231,1.3,18.25,37970,10.3
+Utah,"Floor Layers, Except Carpet, Wood, and Hard Tiles",**,**,**,**,19.27,40080,11.1
+Utah,Tile and Stone Setters,1370,17.2,0.914,3.32,22.29,46360,4.8
+Utah,Cement Masons and Concrete Finishers,4660,10,3.098,2.32,21.07,43830,2
+Utah,Construction Laborers,14570,4.8,9.689,1.39,17.72,36860,2.5
+Utah,"Paving, Surfacing, and Tamping Equipment Operators",470,27.1,0.313,1,19.19,39910,5.3
+Utah,Operating Engineers and Other Construction Equipment Operators,4330,8.4,2.88,1.04,23.92,49760,2.1
+Utah,Drywall and Ceiling Tile Installers,3470,13.5,2.305,3.29,21.35,44400,4.1
+Utah,Tapers,570,29.2,0.378,3.09,22.46,46720,7.3
+Utah,Electricians,11460,19.4,7.622,1.63,24.72,51410,2.9
+Utah,Glaziers,710,23.8,0.474,1.33,22.42,46640,3.6
+Utah,"Insulation Workers, Floor, Ceiling, and Wall",320,31.1,0.213,0.93,19.58,40730,7.9
+Utah,"Insulation Workers, Mechanical",120,47.3,0.079,0.43,20.52,42680,11.2
+Utah,"Painters, Construction and Maintenance",3180,8.3,2.114,1.33,18.14,37730,2.8
+Utah,Pipelayers,570,21.9,0.382,1.55,19.5,40570,2.5
+Utah,"Plumbers, Pipefitters, and Steamfitters",5170,8.6,3.439,1.14,24.9,51790,3.1
+Utah,Plasterers and Stucco Masons,1190,15,0.793,4.26,21.77,45280,7.8
+Utah,Reinforcing Iron and Rebar Workers,410,40.6,0.276,2.15,26.53,55180,4.5
+Utah,Roofers,2190,16.1,1.457,1.65,20.48,42590,2.6
+Utah,Sheet Metal Workers,2080,11.5,1.384,1.55,26.54,55200,3.1
+Utah,Structural Iron and Steel Workers,1230,21.1,0.816,1.56,22.58,46960,4.2
+Utah,Solar Photovoltaic Installers,150,20.3,0.099,1.31,17.12,35610,2.6
+Utah,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",500,20.6,0.333,2.08,18.17,37790,4.4
+Utah,Helpers--Carpenters,320,29.1,0.211,0.94,16.87,35100,5
+Utah,Helpers--Electricians,870,31.6,0.581,1.08,20.51,42660,3
+Utah,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",310,36.9,0.209,2.83,14.83,30840,4.7
+Utah,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",610,21.9,0.406,1.02,17.39,36170,3.4
+Utah,Helpers--Roofers,**,**,**,**,16.67,34680,4.8
+Utah,"Helpers, Construction Trades, All Other",170,26.9,0.111,0.57,16.9,35160,6.8
+Utah,Construction and Building Inspectors,1110,12.6,0.74,0.98,27.82,57870,2
+Utah,Elevator and Escalator Installers and Repairers,**,**,**,**,38.24,79530,3.6
+Utah,Fence Erectors,130,39.5,0.088,0.5,15.25,31720,8.4
+Utah,Hazardous Materials Removal Workers,230,21.4,0.153,0.51,20.72,43090,3.4
+Utah,Highway Maintenance Workers,1170,6.1,0.776,0.76,20.46,42550,0.7
+Utah,Rail-Track Laying and Maintenance Equipment Operators,50,25.4,0.033,0.3,22.1,45960,2.5
+Utah,Septic Tank Servicers and Sewer Pipe Cleaners,230,15.2,0.154,0.76,21.76,45260,3.6
+Utah,Miscellaneous Construction and Related Workers,180,38,0.118,0.54,18.02,37490,4.3
+Utah,"Derrick Operators, Oil and Gas",370,49.4,0.249,3.02,21.53,44780,2.6
+Utah,"Rotary Drill Operators, Oil and Gas",450,31.1,0.3,2.1,26.9,55950,6.7
+Utah,"Service Unit Operators, Oil and Gas",360,23.4,0.238,0.68,29.11,60560,3
+Utah,"Excavating and Loading Machine and Dragline Operators, Surface Mining",900,20.5,0.602,2,21.26,44230,3
+Utah,Continuous Mining Machine Operators,1400,3.5,0.929,9.33,29.37,61100,2.8
+Utah,"Roustabouts, Oil and Gas",320,31.5,0.21,0.52,22.4,46600,11.3
+Utah,Helpers--Extraction Workers,110,34.2,0.072,0.63,14.81,30810,8.1
+Utah,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",380,22.2,0.249,1.47,24.44,50840,4
+Utah,"Underground Mining Machine Operators and Extraction Workers, All Other",530,7.7,0.351,3.74,29.69,61760,3.3
+Utah,"Installation, Maintenance, and Repair Occupations",55590,1.9,36.96,0.95,23.54,48960,1.4
+Utah,"First-Line Supervisors of Mechanics, Installers, and Repairers",4490,4,2.986,0.9,31.71,65950,1.4
+Utah,"Computer, Automated Teller, and Office Machine Repairers",830,17.6,0.549,0.82,27.53,57260,17.7
+Utah,"Radio, Cellular, and Tower Equipment Installers and Repairers",40,43.8,0.03,0.31,31.53,65590,5.3
+Utah,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1290,12.3,0.858,0.6,26.2,54500,3.5
+Utah,Avionics Technicians,190,4.6,0.126,0.85,29.7,61770,3.1
+Utah,"Electric Motor, Power Tool, and Related Repairers",100,39,0.068,0.63,24.32,50590,7
+Utah,"Electrical and Electronics Installers and Repairers, Transportation Equipment",30,13.8,0.021,0.31,25.25,52520,2.3
+Utah,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1260,8.1,0.836,2.08,30.82,64100,3.4
+Utah,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",120,19,0.083,0.54,42.61,88630,1.8
+Utah,"Electronic Equipment Installers and Repairers, Motor Vehicles",**,**,**,**,19.06,39640,13.7
+Utah,Audiovisual Equipment Installers and Repairers,690,42.4,0.461,2.65,19.18,39900,3.1
+Utah,Security and Fire Alarm Systems Installers,650,22.6,0.433,0.89,23.6,49080,2.5
+Utah,Aircraft Mechanics and Service Technicians,1790,8.6,1.191,1.31,29.25,60840,3.7
+Utah,Automotive Body and Related Repairers,1300,10.4,0.866,0.88,20.82,43300,4.1
+Utah,Automotive Glass Installers and Repairers,280,36.3,0.187,1.41,13.05,27140,6.7
+Utah,Automotive Service Technicians and Mechanics,6680,4.8,4.443,1,21.41,44530,2.1
+Utah,Bus and Truck Mechanics and Diesel Engine Specialists,2620,7.2,1.739,0.96,23.34,48550,1.6
+Utah,Farm Equipment Mechanics and Service Technicians,180,15.7,0.121,0.49,20.22,42050,2.4
+Utah,"Mobile Heavy Equipment Mechanics, Except Engines",2160,9.7,1.437,1.43,26.1,54290,1.5
+Utah,Rail Car Repairers,160,33.5,0.107,0.61,24.54,51030,3.9
+Utah,Motorboat Mechanics and Service Technicians,100,49.2,0.069,0.44,24.04,50010,5.9
+Utah,Motorcycle Mechanics,280,41.9,0.183,1.73,19.16,39850,2.6
+Utah,Outdoor Power Equipment and Other Small Engine Mechanics,180,27.6,0.12,0.55,17.14,35650,3.4
+Utah,Bicycle Repairers,440,48.3,0.291,3.25,14.31,29770,10.4
+Utah,Recreational Vehicle Service Technicians,360,23.8,0.237,2.23,26.78,55690,19.8
+Utah,Tire Repairers and Changers,2530,11.5,1.682,2.23,14.77,30730,4.3
+Utah,Mechanical Door Repairers,320,27,0.212,1.35,20.01,41620,3.9
+Utah,"Control and Valve Installers and Repairers, Except Mechanical Door",430,8.9,0.283,0.8,29.47,61300,3.5
+Utah,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",3470,11.9,2.306,0.99,24.14,50210,2.7
+Utah,Home Appliance Repairers,300,27.8,0.202,0.95,18.35,38160,9.1
+Utah,Industrial Machinery Mechanics,3190,6.1,2.12,0.8,27.57,57350,1.7
+Utah,"Maintenance Workers, Machinery",1090,8.1,0.728,1.47,31.98,66520,11.6
+Utah,Millwrights,**,**,**,**,28.9,60110,4.4
+Utah,Electrical Power-Line Installers and Repairers,1100,14.2,0.728,0.96,33.96,70630,3.2
+Utah,Telecommunications Line Installers and Repairers,420,24.6,0.278,0.34,22.45,46690,2.4
+Utah,Medical Equipment Repairers,580,22.7,0.383,1.21,26.11,54310,8.9
+Utah,Musical Instrument Repairers and Tuners,**,**,**,**,17.97,37370,5.6
+Utah,"Precision Instrument and Equipment Repairers, All Other",100,21.4,0.067,0.94,27.68,57560,6.4
+Utah,"Maintenance and Repair Workers, General",12290,3.7,8.172,0.85,19.94,41470,1.6
+Utah,"Coin, Vending, and Amusement Machine Servicers and Repairers",200,31.5,0.131,0.61,17.45,36300,3.7
+Utah,Locksmiths and Safe Repairers,180,30.1,0.12,1.04,20.58,42800,11.7
+Utah,Riggers,280,26.8,0.185,1.18,22.41,46620,5.8
+Utah,"Helpers--Installation, Maintenance, and Repair Workers",800,21.7,0.533,0.79,13.98,29080,3.9
+Utah,"Installation, Maintenance, and Repair Workers, All Other",1690,11.8,1.12,1.02,21.54,44810,3.4
+Utah,Production Occupations,99930,1.9,66.441,1.07,18.24,37930,0.9
+Utah,First-Line Supervisors of Production and Operating Workers,6280,2.6,4.172,0.97,28.72,59730,1.3
+Utah,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",2540,6.3,1.69,0.87,16.99,35330,2.7
+Utah,Engine and Other Machine Assemblers,90,0,0.063,0.2,15.22,31650,3.1
+Utah,Structural Metal Fabricators and Fitters,1630,18.4,1.082,2.07,21.36,44420,3.8
+Utah,Fiberglass Laminators and Fabricators,80,34.3,0.055,0.4,15.85,32970,8.4
+Utah,Miscellaneous Assemblers and Fabricators,14580,3.4,9.696,1.04,15.71,32670,2.1
+Utah,Bakers,3120,18.3,2.072,1.65,13.9,28920,4.5
+Utah,Butchers and Meat Cutters,1340,14.9,0.894,0.96,16.38,34060,7.1
+Utah,"Meat, Poultry, and Fish Cutters and Trimmers",560,45.3,0.37,0.35,13.33,27720,2.3
+Utah,Slaughterers and Meat Packers,800,7.4,0.534,1.07,14.87,30930,4.2
+Utah,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",390,20.3,0.258,1.82,16.67,34680,2.3
+Utah,Food Batchmakers,2690,8.5,1.787,1.65,15.95,33170,3.4
+Utah,Food Cooking Machine Operators and Tenders,210,15.5,0.141,0.69,15.43,32080,5.1
+Utah,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",570,17.7,0.376,0.72,17.33,36050,2.2
+Utah,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",100,32.1,0.07,0.31,21.48,44680,5.1
+Utah,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",1090,8.8,0.728,0.55,16.94,35240,1.9
+Utah,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",320,13.3,0.213,0.41,16.23,33760,1.7
+Utah,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",140,14.5,0.091,0.47,18.22,37900,2.9
+Utah,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",60,19.9,0.042,0.33,21.52,44760,7.7
+Utah,Machinists,3340,5.8,2.222,0.85,24.26,50470,1.5
+Utah,Metal-Refining Furnace Operators and Tenders,410,10.5,0.274,2.35,26.6,55330,2.6
+Utah,"Model Makers, Metal and Plastic",40,24.5,0.023,0.8,24.51,50990,5.7
+Utah,Foundry Mold and Coremakers,180,20.9,0.121,1.01,19.87,41330,3.4
+Utah,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1820,6.8,1.212,1.03,19.36,40260,4.7
+Utah,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1900,9.5,1.26,1.26,19.07,39680,5.9
+Utah,Tool and Die Makers,240,14,0.162,0.34,26.03,54150,5.2
+Utah,"Welders, Cutters, Solderers, and Brazers",4470,6.6,2.97,1.06,21.71,45150,1.4
+Utah,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",90,16.4,0.061,0.26,18.15,37760,4.5
+Utah,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",100,10.6,0.065,0.49,17.3,35990,4
+Utah,"Layout Workers, Metal and Plastic",80,36,0.054,0.97,18.73,38960,4.6
+Utah,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",500,14.4,0.334,1.17,16.6,34530,4.4
+Utah,"Metal Workers and Plastic Workers, All Other",70,27.6,0.043,0.26,21.97,45700,12.2
+Utah,Prepress Technicians and Workers,380,31.6,0.25,1.21,18.3,38070,4.1
+Utah,Printing Press Operators,1650,9.5,1.096,0.93,18.3,38070,2.5
+Utah,Print Binding and Finishing Workers,450,40.5,0.3,0.97,16.61,34540,5.7
+Utah,Laundry and Dry-Cleaning Workers,1480,11.5,0.984,0.69,12.84,26710,7.4
+Utah,"Pressers, Textile, Garment, and Related Materials",290,19.8,0.192,0.74,11.84,24630,2.4
+Utah,Sewing Machine Operators,1170,13.2,0.78,0.86,13.84,28790,2.8
+Utah,Shoe and Leather Workers and Repairers,**,**,**,**,11.44,23790,11
+Utah,"Sewers, Hand",280,25.6,0.187,5.76,12.08,25130,7
+Utah,"Tailors, Dressmakers, and Custom Sewers",110,40.7,0.073,0.44,15.14,31500,5.6
+Utah,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",140,39.6,0.095,0.77,14.96,31120,4
+Utah,Fabric and Apparel Patternmakers,50,35.6,0.03,0.76,14.58,30330,2.2
+Utah,Upholsterers,130,35.5,0.084,0.42,15.38,31980,3.1
+Utah,"Textile, Apparel, and Furnishings Workers, All Other",1040,25.9,0.692,5.63,13.68,28460,2.4
+Utah,Cabinetmakers and Bench Carpenters,1860,10.2,1.236,1.83,16.47,34260,1.9
+Utah,Furniture Finishers,190,16.8,0.129,1.17,17.09,35550,3.9
+Utah,"Sawing Machine Setters, Operators, and Tenders, Wood",360,20.4,0.237,0.69,15.07,31340,6.5
+Utah,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",710,18,0.471,0.88,15.48,32190,3.8
+Utah,"Woodworkers, All Other",50,34.2,0.034,0.74,17.06,35480,13.3
+Utah,Power Distributors and Dispatchers,**,**,**,**,39.61,82400,4.1
+Utah,Power Plant Operators,340,13.6,0.228,0.99,36.81,76570,1.9
+Utah,Stationary Engineers and Boiler Operators,100,22,0.068,0.31,27.57,57350,5.9
+Utah,Water and Wastewater Treatment Plant and System Operators,1260,6.8,0.841,1,23.1,48040,1.9
+Utah,Gas Plant Operators,150,23.5,0.1,1.02,31.16,64810,4.6
+Utah,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",640,13.2,0.422,1.54,34.64,72050,5.7
+Utah,"Plant and System Operators, All Other",130,9.6,0.083,0.94,27.65,57520,4.5
+Utah,Chemical Equipment Operators and Tenders,720,24.1,0.48,0.81,18.5,38480,3.1
+Utah,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",390,21.5,0.257,0.74,20.14,41890,4.5
+Utah,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",460,12.5,0.308,1.36,22.63,47070,4.9
+Utah,"Grinding and Polishing Workers, Hand",380,16.8,0.25,1.26,15.08,31370,2.5
+Utah,"Mixing and Blending Machine Setters, Operators, and Tenders",2550,8.1,1.698,1.99,17.81,37050,3.1
+Utah,"Cutters and Trimmers, Hand",90,38.6,0.061,0.93,19.9,41400,13.3
+Utah,"Cutting and Slicing Machine Setters, Operators, and Tenders",760,13.7,0.507,1.29,16.65,34620,3.9
+Utah,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",450,16.5,0.3,0.61,17.23,35840,3.1
+Utah,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",90,10.5,0.061,0.47,20.86,43380,5.1
+Utah,"Inspectors, Testers, Sorters, Samplers, and Weighers",6230,4.5,4.144,1.06,20.81,43290,2.2
+Utah,Jewelers and Precious Stone and Metal Workers,320,14.5,0.215,1.34,18.96,39440,4.7
+Utah,Dental Laboratory Technicians,890,14.3,0.595,2.53,23.01,47870,4.4
+Utah,Medical Appliance Technicians,450,31.3,0.302,3.14,18.31,38080,9.5
+Utah,Ophthalmic Laboratory Technicians,420,43,0.28,1.41,13,27040,5.9
+Utah,Packaging and Filling Machine Operators and Tenders,4970,6.1,3.305,1.24,15.62,32480,1.7
+Utah,"Painting, Coating, and Decorating Workers",120,17,0.081,0.96,16.99,35340,3.2
+Utah,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",1330,13.1,0.884,0.89,17.51,36430,2
+Utah,Photographic Process Workers and Processing Machine Operators,80,35.5,0.054,0.66,16.31,33920,4.2
+Utah,Computer Numerically Controlled Tool Operators,2490,7.6,1.652,1.6,17.11,35600,2.2
+Utah,Computer Numerically Controlled Tool Programmers,270,11.3,0.178,1.02,25.18,52360,7
+Utah,Adhesive Bonding Machine Operators and Tenders,150,1.9,0.099,1.05,16.91,35170,3.7
+Utah,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",170,11.9,0.11,0.99,20.05,41710,2.6
+Utah,Cooling and Freezing Equipment Operators and Tenders,40,0,0.028,0.47,17.25,35880,3.1
+Utah,Etchers and Engravers,650,26.7,0.43,6.12,12.67,26350,5.9
+Utah,"Molders, Shapers, and Casters, Except Metal and Plastic",1080,13.5,0.719,2.35,17.21,35800,2.6
+Utah,"Paper Goods Machine Setters, Operators, and Tenders",640,41.4,0.424,0.62,16.01,33290,5.5
+Utah,Helpers--Production Workers,4380,19.1,2.914,1.41,13.22,27490,2.8
+Utah,"Production Workers, All Other",4150,8.5,2.762,1.83,14.46,30080,2.4
+Utah,Transportation and Material Moving Occupations,117010,1.9,77.793,0.91,18.37,38220,1.6
+Utah,Aircraft Cargo Handling Supervisors,70,42.7,0.047,0.72,22.06,45890,8.1
+Utah,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",4250,3.7,2.827,0.91,25.34,52700,1.4
+Utah,"Airline Pilots, Copilots, and Flight Engineers",1490,36.5,0.994,1.73,*,106880,2.2
+Utah,Commercial Pilots,340,35.3,0.223,0.86,*,70960,6.6
+Utah,Air Traffic Controllers,380,2.8,0.252,1.67,55.65,115740,2.4
+Utah,Airfield Operations Specialists,150,21.4,0.099,1.36,24.7,51380,4
+Utah,Flight Attendants,**,**,**,**,*,51400,2.2
+Utah,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",80,0.1,0.053,0.53,15.04,31270,2.7
+Utah,Driver/Sales Workers,3280,15.3,2.18,0.72,15.56,32370,7
+Utah,Heavy and Tractor-Trailer Truck Drivers,23300,3.8,15.494,1.23,23.11,48070,3.2
+Utah,Light Truck Drivers,9880,5,6.571,1.05,19.37,40280,3.6
+Utah,"Bus Drivers, Transit and Intercity",900,9,0.6,0.49,18.16,37780,3
+Utah,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",4730,7.8,3.144,0.66,17.26,35900,3.1
+Utah,"Motor Vehicle Operators, All Other",170,27.3,0.112,0.29,19.79,41160,3
+Utah,Locomotive Engineers,**,**,**,**,29.53,61430,8.3
+Utah,"Rail Yard Engineers, Dinkey Operators, and Hostlers",60,44.2,0.041,1.13,22.26,46300,6.9
+Utah,Railroad Conductors and Yardmasters,**,**,**,**,27.01,56170,2.3
+Utah,Parking Attendants,1000,18.7,0.663,0.66,12.32,25620,1.7
+Utah,Automotive and Watercraft Service Attendants,2440,14.3,1.622,2.02,13.39,27840,2.5
+Utah,Traffic Technicians,60,13.6,0.04,0.78,24.03,49980,1.9
+Utah,Transportation Inspectors,460,28,0.309,1.51,23.3,48470,9.2
+Utah,Passenger Attendants,890,5.6,0.591,3.08,13.87,28860,4.2
+Utah,"Aircraft Service Attendants and Transportation Workers, All Other",100,29.4,0.067,0.28,21.07,43820,2.6
+Utah,Conveyor Operators and Tenders,90,17.1,0.062,0.38,19.86,41310,2.7
+Utah,Crane and Tower Operators,250,32.3,0.167,0.54,24.51,50990,4.2
+Utah,Industrial Truck and Tractor Operators,4540,5,3.019,0.7,18.79,39090,1.6
+Utah,Cleaners of Vehicles and Equipment,3970,13,2.638,1.01,12.57,26150,3.1
+Utah,"Laborers and Freight, Stock, and Material Movers, Hand",24050,4,15.993,0.8,15.08,31360,1.1
+Utah,Machine Feeders and Offbearers,350,26.8,0.231,0.54,15.52,32280,3.4
+Utah,"Packers and Packagers, Hand",5960,6.8,3.96,0.92,12.73,26480,1.9
+Utah,Stockers and Order Fillers,19630,3.8,13.054,0.9,14.58,30330,1.2
+Utah,"Pump Operators, Except Wellhead Pumpers",70,43.8,0.046,0.68,22.14,46050,9.4
+Utah,Wellhead Pumpers,150,24.3,0.097,1.09,29.71,61790,5.7
+Utah,Refuse and Recyclable Material Collectors,1020,14.2,0.681,0.82,18.62,38730,2.9
+Utah,"Tank Car, Truck, and Ship Loaders",70,20.9,0.048,0.61,28.96,60240,4
+Utah,"Material Moving Workers, All Other",50,18.7,0.036,0.19,20.59,42820,6.9

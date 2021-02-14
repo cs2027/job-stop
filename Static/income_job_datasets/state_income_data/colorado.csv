@@ -1,0 +1,746 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Colorado,All Occupations,2678490,0.3,1000,1,27.73,57690,0.5
+Colorado,Management Occupations,118210,1.1,44.132,0.8,64.75,134670,0.6
+Colorado,Chief Executives,570,6,0.214,0.15,95.91,199500,3.5
+Colorado,General and Operations Managers,38220,1.9,14.269,0.87,64.65,134480,0.9
+Colorado,Legislators,710,8.8,0.263,0.74,*,64130,3.3
+Colorado,Advertising and Promotions Managers,430,23.4,0.161,0.94,68.71,142910,7.2
+Colorado,Marketing Managers,3800,8.7,1.419,0.79,82.68,171970,1.9
+Colorado,Sales Managers,5150,4.7,1.922,0.7,80.42,167260,2.1
+Colorado,Public Relations and Fundraising Managers,1180,5.1,0.442,0.82,68.73,142970,2.8
+Colorado,Administrative Services and Facilities Managers,2670,4.5,0.995,0.48,58.19,121040,1.5
+Colorado,Computer and Information Systems Managers,7920,4.1,2.958,1,83.08,172810,2
+Colorado,Financial Managers,7480,3.7,2.793,0.63,79.02,164370,1.4
+Colorado,Industrial Production Managers,1200,5.4,0.447,0.35,65.8,136860,1.9
+Colorado,Purchasing Managers,910,5,0.341,0.69,72.6,151000,1.6
+Colorado,"Transportation, Storage, and Distribution Managers",1560,5.8,0.583,0.65,56.98,118510,2.8
+Colorado,Compensation and Benefits Managers,160,8.7,0.06,0.52,75.34,156700,2
+Colorado,Human Resources Managers,1910,3.5,0.712,0.68,70.14,145890,1.7
+Colorado,Training and Development Managers,500,10.7,0.186,0.71,64.06,133250,4.8
+Colorado,Construction Managers,10300,5.8,3.844,1.92,48.79,101490,2.4
+Colorado,"Education and Childcare Administrators, Preschool and Daycare",720,12.3,0.268,0.75,25.2,52410,3.3
+Colorado,"Education Administrators, Kindergarten through Secondary",4890,1,1.826,0.99,*,94150,1.1
+Colorado,"Education Administrators, Postsecondary",1870,4.1,0.697,0.71,53.71,111710,3.1
+Colorado,"Education Administrators, All Other",590,4.4,0.219,0.72,49.95,103900,2.2
+Colorado,Architectural and Engineering Managers,3400,6.8,1.27,0.96,85.75,178360,1.5
+Colorado,Food Service Managers,1520,14.7,0.568,0.35,*,*,*
+Colorado,Gambling Managers,60,14,0.022,0.72,41.46,86230,7.6
+Colorado,Lodging Managers,1030,15.2,0.385,1.47,45.47,94580,5.7
+Colorado,Medical and Health Services Managers,5790,3.6,2.161,0.8,57.71,120040,1.5
+Colorado,Natural Sciences Managers,1160,1.7,0.433,0.94,70.9,147480,2.6
+Colorado,Postmasters and Mail Superintendents,200,0,0.075,0.79,35.42,73680,0.7
+Colorado,"Property, Real Estate, and Community Association Managers",1700,11.8,0.634,0.42,42.65,88710,4
+Colorado,Social and Community Service Managers,1550,6.2,0.579,0.54,41.59,86510,2.2
+Colorado,Emergency Management Directors,170,16.9,0.063,0.93,41.5,86320,2.4
+Colorado,Funeral Home Managers,60,21.1,0.024,0.37,39.63,82440,10.3
+Colorado,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",8820,1.9,3.293,1.02,68.18,141820,1
+Colorado,Business and Financial Operations Occupations,207380,1.1,77.423,1.39,39.11,81340,0.7
+Colorado,"Agents and Business Managers of Artists, Performers, and Athletes",90,23.1,0.033,0.28,*,*,*
+Colorado,Buyers and Purchasing Agents,9720,3.2,3.629,1.27,33.13,68900,1.1
+Colorado,"Claims Adjusters, Examiners, and Investigators",5560,8.8,2.074,1.06,34.62,72010,1.8
+Colorado,"Insurance Appraisers, Auto Damage",220,30.9,0.084,0.9,27.66,57540,11.1
+Colorado,Compliance Officers,6790,2.5,2.535,1.17,35.8,74460,1.1
+Colorado,Cost Estimators,5580,4.7,2.083,1.46,35.88,74630,1.6
+Colorado,Human Resources Specialists,14140,2,5.28,1.23,34.09,70900,0.9
+Colorado,Labor Relations Specialists,380,10.6,0.143,0.28,39.84,82880,6.2
+Colorado,Logisticians,3500,4.7,1.306,1.05,38.23,79530,2.4
+Colorado,Management Analysts,11400,6.7,4.257,0.88,46.91,97570,2.5
+Colorado,"Meeting, Convention, and Event Planners",3530,5.4,1.319,1.65,26.24,54580,2.2
+Colorado,Fundraisers,2110,5.8,0.787,1.42,30.15,62720,2
+Colorado,"Compensation, Benefits, and Job Analysis Specialists",1520,8.4,0.568,0.93,36.52,75960,2.2
+Colorado,Training and Development Specialists,7250,4.3,2.707,1.27,34.73,72240,1.9
+Colorado,Market Research Analysts and Marketing Specialists,20330,3.1,7.59,1.64,36.55,76020,1.3
+Colorado,"Project Management Specialists and Business Operations Specialists, All Other",50930,1.9,19.015,2.18,42,87360,1.3
+Colorado,Accountants and Auditors,37180,2.1,13.882,1.59,39.87,82930,1.1
+Colorado,Property Appraisers and Assessors,1460,20,0.544,1.42,37.3,77580,14.2
+Colorado,Budget Analysts,970,2.4,0.361,1.03,40.9,85070,1
+Colorado,Credit Analysts,1660,10.5,0.619,1.23,42.02,87410,6.6
+Colorado,Personal Financial Advisors,4890,9.4,1.825,1.27,54.6,113570,6.1
+Colorado,Insurance Underwriters,1520,11.9,0.568,0.83,38.97,81070,3
+Colorado,Financial Examiners,1400,15,0.524,1.19,40.06,83330,3.1
+Colorado,Credit Counselors,170,10.1,0.063,0.29,24.61,51180,2.2
+Colorado,Loan Officers,5450,6.2,2.036,0.97,32.84,68310,2.7
+Colorado,"Tax Examiners and Collectors, and Revenue Agents",590,0.3,0.221,0.6,32.77,68170,1.8
+Colorado,Tax Preparers,1080,27.2,0.404,0.89,28.82,59940,7
+Colorado,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",7940,4.8,2.965,0.95,46.16,96010,3.1
+Colorado,Computer and Mathematical Occupations,123040,1.7,45.934,1.48,47.23,98240,0.8
+Colorado,Computer Systems Analysts,9320,3.7,3.481,0.87,48.01,99860,0.9
+Colorado,Information Security Analysts,3980,6.3,1.485,1.74,50.24,104510,2.4
+Colorado,Computer and Information Research Scientists,400,7.5,0.149,0.71,60.68,126220,5
+Colorado,Computer Network Support Specialists,4410,8.7,1.646,1.3,36.08,75040,2.3
+Colorado,Computer User Support Specialists,15020,4.8,5.607,1.27,29.01,60340,1.1
+Colorado,Computer Network Architects,6790,6.5,2.534,2.44,58.19,121040,1.3
+Colorado,Network and Computer Systems Administrators,12580,3.4,4.697,1.95,42.37,88130,1.1
+Colorado,Database Administrators and Architects,3190,7.8,1.19,1.39,45.12,93840,1.7
+Colorado,Computer Programmers,2550,17.1,0.953,0.7,45.04,93690,3
+Colorado,Software Developers and Software Quality Assurance Analysts and Testers,44510,2.9,16.618,1.73,53.62,111540,0.9
+Colorado,Web Developers and Digital Interface Designers,3430,14.2,1.282,1.27,37.31,77600,6.1
+Colorado,"Computer Occupations, All Other",14010,6.8,5.231,1.95,51,106070,3
+Colorado,Actuaries,220,24.2,0.083,0.55,57.49,119580,6.5
+Colorado,Mathematicians,60,29.7,0.023,1.26,58.96,122630,13.7
+Colorado,Operations Research Analysts,780,8.1,0.29,0.43,44.54,92640,2.4
+Colorado,Statisticians,1110,7.7,0.413,1.55,41.6,86540,1.1
+Colorado,"Data Scientists and Mathematical Science Occupations, All Other",680,7.3,0.256,1.22,46.14,95960,2.9
+Colorado,Architecture and Engineering Occupations,64100,2,23.93,1.36,45.23,94080,1.1
+Colorado,"Architects, Except Landscape and Naval",3470,6.8,1.296,1.8,36.08,75040,2.9
+Colorado,Landscape Architects,920,21.7,0.342,2.48,35.57,73980,3.1
+Colorado,Cartographers and Photogrammetrists,1130,6.4,0.423,5.5,35.95,74770,1.5
+Colorado,Surveyors,1540,9.1,0.576,1.87,32.11,66800,2.4
+Colorado,Aerospace Engineers,2230,8.6,0.833,1.94,60.13,125070,2.2
+Colorado,Bioengineers and Biomedical Engineers,800,9.7,0.299,2.22,45.81,95280,2.5
+Colorado,Chemical Engineers,760,11.3,0.282,1.38,50.38,104800,5.3
+Colorado,Civil Engineers,10090,5.4,3.769,1.78,45.61,94870,1.8
+Colorado,Computer Hardware Engineers,4700,6.8,1.754,3.8,57.42,119440,1.7
+Colorado,Electrical Engineers,3470,7.4,1.297,1.03,48.77,101440,1.6
+Colorado,"Electronics Engineers, Except Computer",6170,9.3,2.304,2.63,55.06,114520,1.7
+Colorado,Environmental Engineers,1110,8.5,0.414,1.14,47.73,99290,1.7
+Colorado,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",310,6.6,0.115,0.65,51.84,107830,2.6
+Colorado,Industrial Engineers,3710,3.9,1.386,0.7,49.74,103460,1.4
+Colorado,Materials Engineers,540,11.2,0.201,1.1,49.47,102890,2.8
+Colorado,Mechanical Engineers,5580,5.4,2.084,1,49.61,103180,4
+Colorado,"Mining and Geological Engineers, Including Mining Safety Engineers",320,20,0.118,2.76,52.27,108720,5.4
+Colorado,Petroleum Engineers,1340,7.8,0.502,2.26,74.14,154210,3.9
+Colorado,"Engineers, All Other",2320,8.7,0.867,0.84,55.67,115790,1.4
+Colorado,Architectural and Civil Drafters,2440,8.5,0.911,1.35,30.32,63070,1.8
+Colorado,Electrical and Electronics Drafters,800,21.3,0.3,1.83,30.66,63760,3.9
+Colorado,Mechanical Drafters,440,7.2,0.166,0.44,31.11,64700,2
+Colorado,"Drafters, All Other",360,19.3,0.134,1.35,25.51,53070,3.3
+Colorado,Aerospace Engineering and Operations Technologists and Technicians,280,10.6,0.104,1.32,44.52,92600,5.3
+Colorado,Civil Engineering Technologists and Technicians,1390,12.9,0.52,1.11,26.87,55880,4
+Colorado,Electrical and Electronic Engineering Technologists and Technicians,1800,14,0.673,0.81,34.69,72150,2.6
+Colorado,Electro-Mechanical and Mechatronics Technologists and Technicians,180,34,0.066,0.67,33.74,70180,4
+Colorado,Environmental Engineering Technologists and Technicians,360,21.5,0.134,1.09,26.97,56090,5.9
+Colorado,Industrial Engineering Technologists and Technicians,1150,6.1,0.43,0.94,27.87,57970,3
+Colorado,Mechanical Engineering Technologists and Technicians,440,18,0.165,0.56,32.47,67530,3
+Colorado,Surveying and Mapping Technicians,2320,6.9,0.868,2.4,22.41,46610,2.5
+Colorado,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1570,7,0.588,0.98,32.2,66980,2
+Colorado,"Life, Physical, and Social Science Occupations",32050,2.5,11.967,1.36,38.67,80440,2.5
+Colorado,Animal Scientists,50,35.8,0.019,1.02,25.68,53410,7.9
+Colorado,Food Scientists and Technologists,200,16.3,0.074,0.81,30.38,63180,3.3
+Colorado,Soil and Plant Scientists,410,11.8,0.153,1.59,28.04,58330,3.8
+Colorado,Biochemists and Biophysicists,890,20.9,0.33,1.55,43.38,90230,4.3
+Colorado,Microbiologists,550,15,0.207,1.67,33.82,70350,4.6
+Colorado,Zoologists and Wildlife Biologists,550,2.3,0.205,1.56,34.43,71610,0.9
+Colorado,"Biological Scientists, All Other",700,6.4,0.26,0.95,36.87,76690,1.9
+Colorado,Conservation Scientists,1300,4.5,0.484,3.22,35.45,73740,2
+Colorado,Foresters,220,15.8,0.082,1.26,30.26,62940,1.2
+Colorado,Epidemiologists,340,14.2,0.129,2.55,30.75,63950,4.1
+Colorado,"Medical Scientists, Except Epidemiologists",1590,9.3,0.595,0.69,46.76,97260,10.7
+Colorado,"Life Scientists, All Other",80,0.5,0.031,0.71,36.43,75780,6.4
+Colorado,Physicists,910,1.4,0.34,2.98,63.21,131480,2.1
+Colorado,Atmospheric and Space Scientists,970,6.1,0.362,5.72,*,*,*
+Colorado,Chemists,1670,8.2,0.623,1.1,38.48,80040,2.9
+Colorado,Materials Scientists,100,25.4,0.036,0.79,51.27,106640,3.4
+Colorado,"Environmental Scientists and Specialists, Including Health",2420,4.8,0.903,1.57,40.72,84690,2.2
+Colorado,"Geoscientists, Except Hydrologists and Geographers",1910,13.3,0.714,3.59,55.18,114780,6.8
+Colorado,Hydrologists,460,19.4,0.17,3.88,45.99,95660,4.7
+Colorado,"Physical Scientists, All Other",520,0.8,0.192,1.61,*,*,*
+Colorado,Economists,230,10.5,0.086,0.66,49.83,103650,3.2
+Colorado,Survey Researchers,40,16.5,0.015,0.23,31.79,66120,3.8
+Colorado,"Clinical, Counseling, and School Psychologists",2630,5.5,0.983,1.27,44.63,92840,2.4
+Colorado,"Psychologists, All Other",320,1.9,0.119,1.23,47.01,97790,1.5
+Colorado,Urban and Regional Planners,1050,4.2,0.391,1.49,36.65,76230,1.3
+Colorado,Anthropologists and Archeologists,250,20.3,0.092,2.01,27.2,56580,3.4
+Colorado,Geographers,70,0,0.026,2.7,42.28,87940,2.3
+Colorado,Historians,50,12.1,0.017,0.84,38.2,79450,3.4
+Colorado,"Social Scientists and Related Workers, All Other",650,4.8,0.243,1.06,40.85,84970,1.3
+Colorado,Agricultural and Food Science Technicians,230,5.4,0.084,0.57,22.05,45870,3.5
+Colorado,Biological Technicians,2910,12.7,1.088,2.01,21.69,45120,1.6
+Colorado,Chemical Technicians,1020,9.4,0.381,0.85,24.4,50740,1.9
+Colorado,"Environmental Science and Protection Technicians, Including Health",610,14.1,0.227,1.02,26.45,55010,1.8
+Colorado,Social Science Research Assistants,200,27.2,0.076,0.31,27.56,57320,3.1
+Colorado,Forest and Conservation Technicians,440,5.5,0.166,1.28,23.46,48790,1.1
+Colorado,Forensic Science Technicians,330,0.3,0.124,1.1,32,66560,0.9
+Colorado,"Life, Physical, and Social Science Technicians, All Other",1270,12.4,0.475,1.09,24.61,51190,3.4
+Colorado,Occupational Health and Safety Specialists,2410,7,0.901,1.43,41.88,87120,3.1
+Colorado,Occupational Health and Safety Technicians,500,15.7,0.188,1.34,30.75,63950,3.3
+Colorado,Community and Social Service Occupations,40810,1.8,15.238,1,24.96,51910,1.1
+Colorado,"Educational, Guidance, and Career Counselors and Advisors",5470,2.6,2.042,1.01,26.23,54560,2.3
+Colorado,Marriage and Family Therapists,800,22.1,0.297,0.74,34.04,70800,17.7
+Colorado,Rehabilitation Counselors,1390,14.2,0.52,0.7,25.19,52390,5.8
+Colorado,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",8320,5,3.106,1.61,24.9,51790,1.7
+Colorado,"Counselors, All Other",**,**,**,**,26.77,55680,2.7
+Colorado,"Child, Family, and School Social Workers",7040,4.9,2.627,1.18,25.6,53240,1.5
+Colorado,Healthcare Social Workers,3060,4.8,1.141,0.96,26.92,55980,1.8
+Colorado,Mental Health and Substance Abuse Social Workers,1630,8.5,0.607,0.76,22.84,47500,2.2
+Colorado,"Social Workers, All Other",1440,4.1,0.537,1.35,26.77,55690,1.5
+Colorado,Health Education Specialists,840,9.3,0.312,0.78,27.99,58220,2.5
+Colorado,Social and Human Service Assistants,3300,10.7,1.231,0.45,18.14,37730,1.3
+Colorado,Community Health Workers,860,7.8,0.32,0.8,20.7,43060,2
+Colorado,"Community and Social Service Specialists, All Other",3040,6.3,1.137,1.71,21.06,43810,2.8
+Colorado,Clergy,500,10.3,0.187,0.52,27.19,56550,1.2
+Colorado,"Directors, Religious Activities and Education",180,24.2,0.066,0.45,36.44,75790,5.5
+Colorado,"Religious Workers, All Other",530,14.2,0.199,3.09,20.51,42660,5.8
+Colorado,Legal Occupations,23830,2.1,8.896,1.14,56.93,118420,4.6
+Colorado,Lawyers,14320,3.4,5.347,1.19,72.42,150630,5.4
+Colorado,Judicial Law Clerks,210,14.9,0.077,0.68,26.47,55070,2
+Colorado,"Administrative Law Judges, Adjudicators, and Hearing Officers",210,3.3,0.08,0.81,53.05,110350,5.5
+Colorado,"Arbitrators, Mediators, and Conciliators",140,16,0.051,1.24,29.55,61460,2.8
+Colorado,"Judges, Magistrate Judges, and Magistrates",580,1.9,0.215,1.1,75.22,156460,1.1
+Colorado,Paralegals and Legal Assistants,5290,7.1,1.975,0.88,29.93,62250,2.3
+Colorado,"Title Examiners, Abstractors, and Searchers",1300,10.6,0.486,1.35,31.65,65830,3.3
+Colorado,"Legal Support Workers, All Other",1790,10.9,0.666,2.17,31.37,65250,4.6
+Colorado,Educational Instruction and Library Occupations,143990,0.8,53.759,0.89,27.04,56250,3.5
+Colorado,"Business Teachers, Postsecondary",1590,5.5,0.593,1.04,*,84140,4
+Colorado,"Computer Science Teachers, Postsecondary",550,3.9,0.205,0.95,*,84880,4.9
+Colorado,"Mathematical Science Teachers, Postsecondary",1030,4.3,0.385,1.1,*,75590,2.8
+Colorado,"Architecture Teachers, Postsecondary",120,0,0.045,0.96,*,83270,2.2
+Colorado,"Engineering Teachers, Postsecondary",**,**,**,**,*,102470,3
+Colorado,"Agricultural Sciences Teachers, Postsecondary",310,29.2,0.114,1.77,*,82220,4.3
+Colorado,"Biological Science Teachers, Postsecondary",980,4.8,0.365,1.01,*,80430,5
+Colorado,"Forestry and Conservation Science Teachers, Postsecondary",120,21.1,0.047,3.87,*,92180,5.8
+Colorado,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",390,2.1,0.144,1.92,*,83970,3.8
+Colorado,"Chemistry Teachers, Postsecondary",350,4.2,0.131,0.9,*,72610,4.2
+Colorado,"Environmental Science Teachers, Postsecondary",150,5.6,0.056,1.35,*,67970,3.6
+Colorado,"Physics Teachers, Postsecondary",350,5.5,0.13,1.39,*,81080,2.1
+Colorado,"Anthropology and Archeology Teachers, Postsecondary",190,4.5,0.073,1.82,*,77050,2.3
+Colorado,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",200,5.5,0.076,1.05,*,77490,4.3
+Colorado,"Economics Teachers, Postsecondary",300,4.4,0.112,1.24,*,96910,2.9
+Colorado,"Geography Teachers, Postsecondary",170,6.4,0.064,2.36,*,81010,2
+Colorado,"Political Science Teachers, Postsecondary",300,4,0.113,1.06,*,82890,5.3
+Colorado,"Psychology Teachers, Postsecondary",680,2.9,0.254,0.99,*,76270,4.2
+Colorado,"Sociology Teachers, Postsecondary",310,16.1,0.115,1.22,*,71290,4
+Colorado,"Health Specialties Teachers, Postsecondary",5830,3.7,2.177,1.58,*,147460,13.6
+Colorado,"Nursing Instructors and Teachers, Postsecondary",970,7.3,0.362,0.89,*,75530,2.5
+Colorado,"Education Teachers, Postsecondary",1040,3.6,0.388,0.93,*,74670,5.9
+Colorado,"Library Science Teachers, Postsecondary",110,2,0.04,1.35,*,74350,3
+Colorado,"Criminal Justice and Law Enforcement Teachers, Postsecondary",330,11.7,0.123,1.28,*,73950,6.3
+Colorado,"Law Teachers, Postsecondary",**,**,**,**,*,118420,4.9
+Colorado,"Social Work Teachers, Postsecondary",250,8,0.094,1.01,*,73100,7.7
+Colorado,"Art, Drama, and Music Teachers, Postsecondary",2120,3.9,0.79,1.23,*,66360,3.6
+Colorado,"Communications Teachers, Postsecondary",540,2.6,0.202,1.02,*,67830,2.7
+Colorado,"English Language and Literature Teachers, Postsecondary",1340,3.5,0.5,1.08,*,66180,3.4
+Colorado,"Foreign Language and Literature Teachers, Postsecondary",470,5.9,0.177,1.04,*,74800,4
+Colorado,"History Teachers, Postsecondary",390,4.3,0.147,1.02,*,72330,3.1
+Colorado,"Philosophy and Religion Teachers, Postsecondary",440,11.5,0.163,1.02,*,76420,3
+Colorado,"Recreation and Fitness Studies Teachers, Postsecondary",190,7.3,0.071,0.66,*,59280,5.2
+Colorado,"Career/Technical Education Teachers, Postsecondary",1630,7,0.608,0.8,25.51,53060,2.3
+Colorado,"Postsecondary Teachers, All Other",380,4.2,0.14,0.1,*,81980,7.4
+Colorado,"Preschool Teachers, Except Special Education",6650,6.8,2.482,0.85,16.56,34440,2.7
+Colorado,"Kindergarten Teachers, Except Special Education",2570,5.6,0.958,1.13,*,50920,2.7
+Colorado,"Elementary School Teachers, Except Special Education",25740,1.2,9.609,0.99,*,54670,1.8
+Colorado,"Middle School Teachers, Except Special and Career/Technical Education",12980,0.8,4.847,1.14,*,54940,1.6
+Colorado,"Career/Technical Education Teachers, Middle School",240,2.4,0.09,1.11,*,60220,2.9
+Colorado,"Secondary School Teachers, Except Special and Career/Technical Education",17580,2.3,6.565,0.93,*,56370,1.8
+Colorado,"Career/Technical Education Teachers, Secondary School",750,2.9,0.279,0.55,*,58820,1.7
+Colorado,"Special Education Teachers, Preschool",810,0.5,0.304,2,*,58190,1.5
+Colorado,"Special Education Teachers, Kindergarten and Elementary School",3820,1.2,1.425,1.08,*,55960,1.5
+Colorado,"Special Education Teachers, Middle School",1820,1.4,0.681,1.17,*,55790,1.5
+Colorado,"Special Education Teachers, Secondary School",2370,2,0.884,0.91,*,56880,1.4
+Colorado,"Special Education Teachers, All Other",170,6.9,0.064,0.26,*,56760,3.3
+Colorado,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",970,7.9,0.363,1.03,20.77,43200,2.9
+Colorado,Self-Enrichment Teachers,4940,9.7,1.845,1.07,19.89,41370,3.5
+Colorado,"Tutors and Teachers and Instructors, All Other",4200,12.2,1.567,0.72,*,44900,4.3
+Colorado,Archivists,100,20.2,0.037,0.82,23.78,49470,5.3
+Colorado,Curators,270,4.8,0.102,1.17,30.54,63520,2.3
+Colorado,Museum Technicians and Conservators,290,16.1,0.11,1.22,20.97,43630,3.6
+Colorado,Librarians and Media Collections Specialists,2060,1.8,0.77,0.83,29.68,61730,1.2
+Colorado,Library Technicians,2750,2.5,1.026,1.7,16.91,35170,1.2
+Colorado,Farm and Home Management Educators,160,0.1,0.059,0.99,30.66,63770,2.4
+Colorado,Instructional Coordinators,2930,2.7,1.096,0.91,33.22,69100,1.4
+Colorado,"Teaching Assistants, Postsecondary",**,**,**,**,*,41370,3.7
+Colorado,"Teaching Assistants, Except Postsecondary",20390,1.7,7.613,0.83,*,30760,1
+Colorado,"Educational Instruction and Library Workers, All Other",2610,4,0.974,1.11,26.74,55620,1.8
+Colorado,"Arts, Design, Entertainment, Sports, and Media Occupations",42270,2.4,15.78,1.15,27.25,56690,1.4
+Colorado,Art Directors,730,10.8,0.271,0.93,46.04,95760,6.1
+Colorado,Craft Artists,210,36.3,0.079,2.5,17.08,35530,8.5
+Colorado,"Fine Artists, Including Painters, Sculptors, and Illustrators",180,25.9,0.066,0.78,23.43,48740,10.5
+Colorado,Special Effects Artists and Animators,250,15.4,0.094,0.47,35.98,74830,4
+Colorado,"Artists and Related Workers, All Other",250,18.1,0.093,1.81,26.58,55290,8.6
+Colorado,Commercial and Industrial Designers,680,19.7,0.253,1.13,31.81,66170,4.1
+Colorado,Fashion Designers,180,19.8,0.068,0.45,28.8,59910,5
+Colorado,Floral Designers,780,10,0.292,1.03,15.56,32360,2.4
+Colorado,Graphic Designers,4610,5.5,1.72,1.17,28.61,59520,3.4
+Colorado,Interior Designers,2370,13.4,0.885,2.14,27.76,57740,3.9
+Colorado,Merchandise Displayers and Window Trimmers,1750,8.9,0.655,0.68,15.79,32840,2.6
+Colorado,Set and Exhibit Designers,80,9.3,0.031,0.37,22.15,46070,3.2
+Colorado,"Designers, All Other",270,17.7,0.1,1.38,31.7,65950,4.5
+Colorado,Actors,650,25.8,0.244,0.68,29.92,*,18.3
+Colorado,Producers and Directors,1670,9,0.623,0.71,35.76,74370,6.1
+Colorado,Athletes and Sports Competitors,270,13,0.102,1.32,*,161690,16.8
+Colorado,Coaches and Scouts,7020,8.7,2.62,1.59,*,39840,3.2
+Colorado,"Umpires, Referees, and Other Sports Officials",1500,2.5,0.559,4.08,*,32850,1.6
+Colorado,Dancers,170,18.9,0.063,0.95,15.89,*,10.5
+Colorado,Music Directors and Composers,110,14.8,0.04,0.55,26.65,55430,7.6
+Colorado,Musicians and Singers,590,10.1,0.22,0.78,24.35,*,5.1
+Colorado,"Miscellaneous Entertainers and Performers, Sports and Related Workers",540,12.8,0.2,1.86,24.17,*,4.3
+Colorado,Broadcast Announcers and Radio Disc Jockeys,420,22.8,0.155,0.78,15.96,33210,5.2
+Colorado,"News Analysts, Reporters, and Journalists",700,8.4,0.263,0.88,28.99,60300,6
+Colorado,Public Relations Specialists,6100,5.1,2.277,1.37,33.78,70260,2.7
+Colorado,Editors,1880,7.7,0.701,1.07,30.05,62500,3.9
+Colorado,Technical Writers,1400,8.7,0.521,1.51,38.16,79370,2.7
+Colorado,Writers and Authors,750,14.7,0.279,0.89,30.13,62670,7.5
+Colorado,Interpreters and Translators,1430,10.9,0.533,1.33,29.72,61810,4.6
+Colorado,Court Reporters and Simultaneous Captioners,270,30.8,0.101,1.02,33.23,69120,10.6
+Colorado,"Media and Communication Workers, All Other",460,13.6,0.173,1.01,27.32,56820,3.5
+Colorado,Audio and Video Technicians,960,17.7,0.36,0.71,23.08,48010,3.7
+Colorado,Broadcast Technicians,700,8.5,0.26,1.33,25.07,52140,5.7
+Colorado,Sound Engineering Technicians,170,11.3,0.062,0.71,28.91,60130,7
+Colorado,Photographers,780,17.4,0.291,0.85,19.02,39560,4.5
+Colorado,"Camera Operators, Television, Video, and Film",390,18.2,0.146,1,27.26,56700,5.8
+Colorado,Film and Video Editors,360,27.7,0.134,0.71,25.24,52490,4.7
+Colorado,"Lighting Technicians and Media and Communication Equipment Workers, All Other",650,13.7,0.243,1.52,31.61,65750,8
+Colorado,Healthcare Practitioners and Technical Occupations,144680,1.6,54.017,0.91,40.64,84520,1.2
+Colorado,Chiropractors,860,15.9,0.319,1.34,33.95,70610,11.6
+Colorado,"Dentists, General",2280,10,0.852,1.13,81.29,169070,12.6
+Colorado,Oral and Maxillofacial Surgeons,**,**,**,**,127.83,265890,29.1
+Colorado,"Dentists, All Other Specialists",**,**,**,**,91.53,190380,9.6
+Colorado,Dietitians and Nutritionists,1130,5.8,0.422,0.92,29.37,61080,1.2
+Colorado,Optometrists,880,18.9,0.329,1.22,59.38,123520,7.7
+Colorado,Pharmacists,5150,5.1,1.924,0.91,58.01,120660,2.9
+Colorado,Physician Assistants,3030,6.6,1.132,1.38,51.59,107300,2
+Colorado,Podiatrists,90,19.8,0.032,0.48,60.98,126840,10.7
+Colorado,Occupational Therapists,3340,5.6,1.246,1.37,43.74,90990,1.5
+Colorado,Physical Therapists,5100,5,1.903,1.2,41.7,86740,1.5
+Colorado,Radiation Therapists,220,6.8,0.081,0.66,45.33,94280,1.4
+Colorado,Recreational Therapists,270,15.2,0.1,0.77,21.36,44440,4
+Colorado,Respiratory Therapists,2080,5.3,0.778,0.86,30.98,64450,0.9
+Colorado,Speech-Language Pathologists,3980,5.7,1.485,1.41,44.51,92580,2.3
+Colorado,Exercise Physiologists,170,4.6,0.064,1.3,24.35,50650,1.1
+Colorado,"Therapists, All Other",220,7.5,0.083,1,28.29,58840,2.1
+Colorado,Veterinarians,2260,4.6,0.845,1.67,44.11,91760,3.5
+Colorado,Registered Nurses,52510,2.5,19.603,0.97,36.65,76230,0.6
+Colorado,Nurse Anesthetists,430,19.4,0.161,0.54,84.18,175100,2.8
+Colorado,Nurse Midwives,170,24.1,0.065,1.38,49.29,102520,1.4
+Colorado,Nurse Practitioners,2870,6.7,1.07,0.78,51.33,106760,1.4
+Colorado,Audiologists,**,**,**,**,38.93,80980,4.5
+Colorado,Anesthesiologists,610,14,0.229,1.08,128.92,268160,11.3
+Colorado,Family Medicine Physicians,2510,8.6,0.936,1.26,97.47,202740,5
+Colorado,General Internal Medicine Physicians,550,11.9,0.205,0.67,93.84,195190,6.3
+Colorado,Obstetricians and Gynecologists,650,24.8,0.243,1.92,132.06,274680,8.4
+Colorado,"Pediatricians, General",340,22.5,0.128,0.63,77.89,162010,5.2
+Colorado,Psychiatrists,380,14.4,0.142,0.82,116.84,243030,5.9
+Colorado,"Physicians, All Other; and Ophthalmologists, Except Pediatric",3480,6.9,1.298,0.49,106.11,220710,4.9
+Colorado,"Surgeons, Except Ophthalmologists",790,19.7,0.295,1.19,120.43,250480,7.9
+Colorado,Dental Hygienists,4190,11.1,1.566,1.04,41.42,86140,1.4
+Colorado,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",760,12.8,0.283,1.14,33.1,68860,5.1
+Colorado,Clinical Laboratory Technologists and Technicians,4960,5.3,1.853,0.83,27.81,57850,1.3
+Colorado,Cardiovascular Technologists and Technicians,670,4.6,0.249,0.65,33.44,69560,2.4
+Colorado,Diagnostic Medical Sonographers,1260,7.9,0.472,0.95,40.35,83920,1.6
+Colorado,Nuclear Medicine Technologists,340,22.6,0.127,1.03,40.86,84990,1.8
+Colorado,Radiologic Technologists and Technicians,3750,3.7,1.4,0.99,31.93,66420,1
+Colorado,Magnetic Resonance Imaging Technologists,490,4.9,0.183,0.71,39.48,82120,0.9
+Colorado,Emergency Medical Technicians and Paramedics,3960,5.1,1.477,0.83,20.13,41880,2.5
+Colorado,Dietetic Technicians,190,13.4,0.071,0.35,14.86,30910,2.5
+Colorado,Pharmacy Technicians,5600,5.2,2.089,0.73,18.27,38000,1.2
+Colorado,Psychiatric Technicians,1100,5.5,0.409,0.77,18.7,38890,1.9
+Colorado,Surgical Technologists,1720,7.7,0.641,0.86,26.61,55350,2
+Colorado,Veterinary Technologists and Technicians,3570,10.2,1.333,1.77,17.88,37200,2
+Colorado,Ophthalmic Medical Technicians,1380,16.3,0.514,1.29,19.12,39780,2.9
+Colorado,Licensed Practical and Licensed Vocational Nurses,5340,4,1.992,0.42,25.57,53180,0.9
+Colorado,"Opticians, Dispensing",1560,11.6,0.583,1.18,19.25,40030,2.8
+Colorado,Orthotists and Prosthetists,100,24.7,0.039,0.58,28.29,58840,4.2
+Colorado,Hearing Aid Specialists,**,**,**,**,27.51,57230,10.1
+Colorado,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",5350,3.4,1.999,0.88,23.61,49100,1.4
+Colorado,Athletic Trainers,490,12.2,0.182,0.94,*,54080,2.9
+Colorado,Genetic Counselors,40,12,0.015,0.91,43.68,90850,5.2
+Colorado,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",680,15.1,0.255,0.69,27.39,56960,4.9
+Colorado,Healthcare Support Occupations,95560,1.6,35.677,0.8,16.42,34150,0.9
+Colorado,Home Health and Personal Care Aides,35790,2.6,13.361,0.62,13.47,28020,1.1
+Colorado,Nursing Assistants,21970,2.5,8.203,0.85,16.34,33980,0.9
+Colorado,Orderlies,580,14.1,0.216,0.67,15.06,31330,1.9
+Colorado,Psychiatric Aides,810,17.4,0.303,0.81,16.28,33870,1.8
+Colorado,Occupational Therapy Assistants,660,13.4,0.248,0.81,27.88,57990,1.5
+Colorado,Occupational Therapy Aides,60,46.2,0.024,0.46,16.68,34700,3.5
+Colorado,Physical Therapist Assistants,1500,10.2,0.561,0.85,25.85,53770,2.5
+Colorado,Physical Therapist Aides,510,15.1,0.189,0.56,16.01,33290,3
+Colorado,Massage Therapists,5490,13.1,2.049,2.81,21.82,45380,3.2
+Colorado,Dental Assistants,8390,6.1,3.132,1.31,20.22,42050,1.8
+Colorado,Medical Assistants,12100,3.7,4.518,0.93,17.98,37410,0.9
+Colorado,Medical Equipment Preparers,1180,11.5,0.439,1.13,20.94,43550,1.7
+Colorado,Medical Transcriptionists,770,14.5,0.288,0.76,17.33,36040,6.4
+Colorado,Pharmacy Aides,170,16.5,0.064,0.25,18.31,38080,4
+Colorado,Veterinary Assistants and Laboratory Animal Caretakers,1480,30.2,0.554,0.84,14.77,30730,2.7
+Colorado,Phlebotomists,1940,11.3,0.723,0.83,17.53,36470,1
+Colorado,"Healthcare Support Workers, All Other",2160,4,0.805,1.27,16.48,34290,1.6
+Colorado,Protective Service Occupations,60210,1.6,22.477,0.94,24.69,51360,2.7
+Colorado,First-Line Supervisors of Correctional Officers,690,1.9,0.256,0.81,34.12,70980,1.7
+Colorado,First-Line Supervisors of Police and Detectives,1380,0.9,0.516,0.62,51.35,106800,0.9
+Colorado,First-Line Supervisors of Firefighting and Prevention Workers,1200,4,0.448,0.94,43.99,91510,1.9
+Colorado,"Miscellaneous First-Line Supervisors, Protective Service Workers",2020,9.7,0.754,1.34,23.79,49480,2.8
+Colorado,Firefighters,5650,4.1,2.108,0.95,30.31,63050,2.7
+Colorado,Fire Inspectors and Investigators,130,5,0.047,0.5,37.32,77630,1.9
+Colorado,Forest Fire Inspectors and Prevention Specialists,50,6.8,0.019,1.31,24.25,50430,3.4
+Colorado,Bailiffs,150,3.5,0.057,0.43,27.79,57810,5.6
+Colorado,Correctional Officers and Jailers,7230,2.1,2.697,0.94,24.94,51880,1.8
+Colorado,Detectives and Criminal Investigators,1830,0.3,0.682,0.95,43.6,90680,1.7
+Colorado,Police and Sheriff's Patrol Officers,10100,1.1,3.769,0.83,36.41,75720,1.1
+Colorado,Animal Control Workers,180,5.2,0.068,0.84,23.26,48390,1.6
+Colorado,Private Detectives and Investigators,410,7.6,0.153,0.64,25.8,53670,5.2
+Colorado,Gambling Surveillance Officers and Gambling Investigators,180,9.5,0.066,0.95,17.7,36810,3
+Colorado,Security Guards,15540,5.8,5.803,0.76,16.31,33930,1.8
+Colorado,Crossing Guards and Flaggers,**,**,**,**,15.46,32150,1.4
+Colorado,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",5160,3.3,1.928,1.97,12.73,26490,1.4
+Colorado,"School Bus Monitors and Protective Service Workers, All Other",4500,13.1,1.681,1.69,17.61,36630,2.5
+Colorado,Food Preparation and Serving Related Occupations,259440,0.9,96.861,1.05,13.81,28730,0.7
+Colorado,Chefs and Head Cooks,**,**,**,**,24.47,50890,2
+Colorado,First-Line Supervisors of Food Preparation and Serving Workers,19600,4.1,7.318,1.06,20.36,42340,1.7
+Colorado,"Cooks, Fast Food",6720,31.5,2.508,0.7,12.56,26120,1.7
+Colorado,"Cooks, Institution and Cafeteria",9730,2.6,3.632,1.33,14.87,30930,0.9
+Colorado,"Cooks, Restaurant",33720,4.4,12.59,1.32,14.37,29890,0.9
+Colorado,"Cooks, Short Order",1680,32,0.628,0.6,13.42,27910,4
+Colorado,"Cooks, All Other",40,24.8,0.017,0.13,18.03,37510,5.2
+Colorado,Food Preparation Workers,13610,12.1,5.082,0.86,13.97,29060,1.5
+Colorado,Bartenders,12560,5.1,4.691,1.07,14.65,30470,4.5
+Colorado,Fast Food and Counter Workers,71430,6,26.666,0.98,12.34,25660,0.6
+Colorado,Waiters and Waitresses,49420,2.9,18.45,1.05,12.81,26640,2
+Colorado,"Food Servers, Nonrestaurant",6990,5.8,2.61,1.38,13.46,27990,1.8
+Colorado,Dining Room and Cafeteria Attendants and Bartender Helpers,8790,8.9,3.281,1.01,12.45,25890,1.6
+Colorado,Dishwashers,9840,9.2,3.674,1.05,12.42,25840,1
+Colorado,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",10520,7.6,3.927,1.36,12.87,26760,1.7
+Colorado,"Food Preparation and Serving Related Workers, All Other",1630,16.6,0.61,1.24,12.6,26210,2.1
+Colorado,Building and Grounds Cleaning and Maintenance Occupations,84190,2,31.432,1.04,15.56,32360,0.8
+Colorado,First-Line Supervisors of Housekeeping and Janitorial Workers,3040,7,1.136,1.07,23.59,49060,2.4
+Colorado,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2290,13.1,0.855,1.21,27.75,57720,2.1
+Colorado,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",33650,5,12.564,0.86,14.38,29900,1.1
+Colorado,Maids and Housekeeping Cleaners,20420,5.6,7.624,1.21,13.29,27640,0.9
+Colorado,"Building Cleaning Workers, All Other",840,24,0.312,2.53,15.85,32970,3.6
+Colorado,Pest Control Workers,820,16.3,0.307,0.57,18.17,37790,7.5
+Colorado,Landscaping and Groundskeeping Workers,21520,3.7,8.036,1.29,16.84,35020,1.1
+Colorado,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",340,19.1,0.125,0.71,20.56,42770,5.6
+Colorado,Tree Trimmers and Pruners,850,45.2,0.317,0.99,15.82,32900,7.1
+Colorado,"Grounds Maintenance Workers, All Other",420,8.5,0.155,1.6,19.82,41220,1.5
+Colorado,Personal Care and Service Occupations,70150,1.9,26.189,1.16,16.53,34380,1.1
+Colorado,First-Line Supervisors of Gambling Services Workers,320,12.3,0.12,0.6,23.71,49310,3.5
+Colorado,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",4500,6,1.678,1.13,21.71,45150,1.6
+Colorado,Animal Trainers,200,29,0.073,0.65,18.31,38090,6.9
+Colorado,Animal Caretakers,5240,6.5,1.957,1.35,13.92,28950,3
+Colorado,Gambling Dealers,1120,9.5,0.417,0.62,11.87,24680,3.1
+Colorado,"Gambling Service Workers, All Other",220,19,0.08,1.13,16.03,33350,2.3
+Colorado,Motion Picture Projectionists,**,**,**,**,14.79,30760,15
+Colorado,"Ushers, Lobby Attendants, and Ticket Takers",2420,12.7,0.904,0.96,12,24960,1.6
+Colorado,Amusement and Recreation Attendants,10690,6.8,3.992,1.73,12.93,26890,1.5
+Colorado,Costume Attendants,30,9.3,0.012,0.24,18.66,38810,3.9
+Colorado,"Locker Room, Coatroom, and Dressing Room Attendants",130,19.7,0.049,0.45,14.46,30070,2.9
+Colorado,"Entertainment Attendants and Related Workers, All Other",70,28.3,0.026,0.84,*,*,*
+Colorado,Embalmers,40,24.7,0.015,0.58,21.62,44960,8.8
+Colorado,Funeral Attendants,160,27.9,0.061,0.26,15.14,31490,6
+Colorado,"Morticians, Undertakers, and Funeral Arrangers",330,19.2,0.122,0.7,23.71,49330,7.9
+Colorado,Barbers,870,36.3,0.324,2.38,15.88,33040,4.2
+Colorado,"Hairdressers, Hairstylists, and Cosmetologists",8000,8,2.987,1.14,18.1,37640,4.7
+Colorado,"Makeup Artists, Theatrical and Performance",**,**,**,**,21.22,44130,3.8
+Colorado,Manicurists and Pedicurists,2110,34.2,0.787,1.03,14.55,30260,7.5
+Colorado,Skincare Specialists,1210,18.8,0.452,1.17,26.35,54810,15.1
+Colorado,Baggage Porters and Bellhops,980,11.2,0.365,1.35,11.73,24410,1.1
+Colorado,Concierges,760,8.5,0.284,1,16.29,33880,2
+Colorado,Tour and Travel Guides,1210,15.3,0.45,1.36,16.82,34990,4
+Colorado,Childcare Workers,10110,7.5,3.776,0.99,14.56,30280,1.4
+Colorado,Exercise Trainers and Group Fitness Instructors,10180,5.3,3.799,1.71,21.87,45480,2
+Colorado,Recreation Workers,6390,6.5,2.386,0.98,15.56,32370,2.3
+Colorado,Residential Advisors,760,10.8,0.282,0.38,15.8,32860,2.5
+Colorado,"Crematory Operators and Personal Care and Service Workers, All Other",**,**,**,**,15.33,31890,3.4
+Colorado,Sales and Related Occupations,287130,1.3,107.2,1.1,24.35,50660,1.3
+Colorado,First-Line Supervisors of Retail Sales Workers,19570,3.2,7.307,0.92,25.33,52680,1.6
+Colorado,First-Line Supervisors of Non-Retail Sales Workers,6270,5.9,2.342,1.38,46.98,97730,3.5
+Colorado,Cashiers,55790,3.8,20.827,0.85,13.31,27690,1
+Colorado,Gambling Change Persons and Booth Cashiers,**,**,**,**,12.74,26510,3.1
+Colorado,Counter and Rental Clerks,12280,5.5,4.585,1.64,19.26,40060,1.9
+Colorado,Parts Salespersons,3410,7.1,1.274,0.73,20.58,42800,1.9
+Colorado,Retail Salespersons,82750,2.9,30.894,1.05,15.46,32160,1.6
+Colorado,Advertising Sales Agents,1780,7.5,0.666,0.75,27.21,56600,4.7
+Colorado,Insurance Sales Agents,9450,15.9,3.527,1.26,32.95,68530,5.2
+Colorado,"Securities, Commodities, and Financial Services Sales Agents",11730,7.3,4.38,1.47,32.34,67260,3.1
+Colorado,Travel Agents,1510,6.2,0.563,1.24,22.11,46000,5
+Colorado,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",30860,3.7,11.522,1.63,36.64,76220,3
+Colorado,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",6170,10.7,2.302,1.1,52.91,110050,8.1
+Colorado,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",27650,3.4,10.321,1.13,39.27,81670,2.6
+Colorado,Demonstrators and Product Promoters,960,11.4,0.358,0.68,15.17,31540,4.6
+Colorado,Real Estate Brokers,3940,11.5,1.472,5.06,35.24,73290,10.3
+Colorado,Real Estate Sales Agents,4100,12,1.531,1.39,36.95,76850,5
+Colorado,Sales Engineers,2180,13,0.813,1.88,61.64,128210,5.5
+Colorado,Telemarketers,2040,18.2,0.761,0.83,14.81,30800,3.2
+Colorado,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",140,43.5,0.051,0.84,18.42,38310,17.9
+Colorado,"Sales and Related Workers, All Other",3750,9.2,1.4,1.73,20.39,42420,2.7
+Colorado,Office and Administrative Support Occupations,325200,0.9,121.412,0.91,20.66,42960,0.3
+Colorado,First-Line Supervisors of Office and Administrative Support Workers,22060,2.2,8.236,0.81,30.19,62790,1
+Colorado,"Switchboard Operators, Including Answering Service",970,23.8,0.362,0.78,15.23,31680,2.8
+Colorado,Bill and Account Collectors,2700,8,1.009,0.63,20.53,42710,1.7
+Colorado,Billing and Posting Clerks,7380,3.9,2.753,0.87,20.23,42090,1
+Colorado,"Bookkeeping, Accounting, and Auditing Clerks",27160,2.7,10.139,0.98,21.04,43750,0.7
+Colorado,Gambling Cage Workers,160,8.6,0.058,0.6,15.35,31940,2.3
+Colorado,Payroll and Timekeeping Clerks,2310,8.6,0.864,0.89,24.16,50260,1.9
+Colorado,Procurement Clerks,990,5.9,0.369,0.82,22.35,46490,1.7
+Colorado,Tellers,7160,4.9,2.673,0.89,16,33270,1.2
+Colorado,"Financial Clerks, All Other",1700,4.6,0.636,3.06,23.33,48530,1.4
+Colorado,Brokerage Clerks,710,13.6,0.267,0.82,25.95,53980,1.4
+Colorado,Correspondence Clerks,80,15.9,0.029,0.69,19.54,40650,8.5
+Colorado,"Court, Municipal, and License Clerks",5590,3,2.086,1.99,20.6,42850,0.8
+Colorado,"Credit Authorizers, Checkers, and Clerks",400,16,0.148,0.82,23.09,48030,4.5
+Colorado,Customer Service Representatives,48650,3.1,18.162,0.91,18.61,38710,1.2
+Colorado,"Eligibility Interviewers, Government Programs",2750,1.9,1.028,1.08,22.07,45900,1.5
+Colorado,File Clerks,1810,6.8,0.675,0.97,17.83,37100,1.3
+Colorado,"Hotel, Motel, and Resort Desk Clerks",6020,6.7,2.249,1.23,14.22,29580,1.5
+Colorado,"Interviewers, Except Eligibility and Loan",5270,3.7,1.966,1.53,18.1,37650,1.3
+Colorado,"Library Assistants, Clerical",810,4.8,0.303,0.52,14,29110,1.8
+Colorado,Loan Interviewers and Clerks,3490,6,1.303,0.92,22.07,45900,1.5
+Colorado,New Accounts Clerks,450,21.6,0.167,0.56,18.62,38740,5
+Colorado,Order Clerks,3860,8.5,1.443,1.54,18.43,38340,2.6
+Colorado,"Human Resources Assistants, Except Payroll and Timekeeping",2230,4.1,0.831,1.04,21.52,44770,1.2
+Colorado,Receptionists and Information Clerks,18810,3.5,7.022,0.98,15.89,33050,0.8
+Colorado,Reservation and Transportation Ticket Agents and Travel Clerks,2050,11.8,0.767,0.91,21.19,44070,8
+Colorado,"Information and Record Clerks, All Other",12090,2.5,4.514,4.31,21.77,45280,0.8
+Colorado,Cargo and Freight Agents,970,11.4,0.361,0.55,22.66,47130,8.7
+Colorado,Couriers and Messengers,1200,29.1,0.449,0.88,16.67,34670,4.5
+Colorado,Public Safety Telecommunicators,1800,5.3,0.671,1.03,24.26,50460,0.9
+Colorado,"Dispatchers, Except Police, Fire, and Ambulance",3260,6.1,1.216,0.9,21.98,45710,2.2
+Colorado,"Meter Readers, Utilities",390,22.5,0.147,0.71,29.24,60820,2.6
+Colorado,Postal Service Clerks,1270,0,0.473,0.86,24.32,50590,0.8
+Colorado,Postal Service Mail Carriers,5280,0,1.971,0.85,24.97,51930,1.1
+Colorado,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1980,0,0.74,1.06,24.7,51380,2.1
+Colorado,"Production, Planning, and Expediting Clerks",2860,3.9,1.066,0.42,26.2,54500,1.1
+Colorado,"Shipping, Receiving, and Inventory Clerks",11430,4.1,4.266,0.89,17.93,37290,0.9
+Colorado,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",770,8.9,0.286,0.69,17.81,37040,3.2
+Colorado,Executive Secretaries and Executive Administrative Assistants,10240,2.7,3.824,1.04,27.93,58100,0.8
+Colorado,Legal Secretaries and Administrative Assistants,2940,10.9,1.098,0.96,26.07,54220,2.9
+Colorado,Medical Secretaries and Administrative Assistants,7160,5.6,2.675,0.65,18.6,38690,1.4
+Colorado,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",36530,2.1,13.639,0.98,19.18,39890,0.5
+Colorado,Data Entry Keyers,2600,10.8,0.97,0.89,17.61,36630,1.4
+Colorado,Word Processors and Typists,210,9.2,0.078,0.24,20.7,43050,4.1
+Colorado,Desktop Publishers,130,22.8,0.048,0.81,26.91,55970,5
+Colorado,Insurance Claims and Policy Processing Clerks,**,**,**,**,24.2,50340,2.6
+Colorado,"Mail Clerks and Mail Machine Operators, Except Postal Service",1250,17.6,0.468,0.82,17.27,35920,1.9
+Colorado,"Office Clerks, General",39570,2.8,14.772,0.73,20.46,42550,0.8
+Colorado,"Office Machine Operators, Except Computer",800,16.6,0.297,0.95,18.27,38010,4.5
+Colorado,Proofreaders and Copy Markers,160,13.4,0.061,1.16,20.2,42010,8.2
+Colorado,Statistical Assistants,130,4.4,0.049,0.73,20.95,43580,3.9
+Colorado,"Office and Administrative Support Workers, All Other",1350,8,0.504,0.39,19.08,39680,2.3
+Colorado,"Farming, Fishing, and Forestry Occupations",7010,9.3,2.616,0.79,16.1,33490,1.7
+Colorado,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",360,12.9,0.136,0.89,27.78,57780,3.5
+Colorado,Agricultural Inspectors,200,4.1,0.073,0.78,23.15,48140,1.3
+Colorado,Agricultural Equipment Operators,160,37.3,0.06,0.33,17.96,37360,6.7
+Colorado,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",3310,10.9,1.237,0.62,16.1,33490,2.1
+Colorado,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1230,12,0.461,1.85,14.99,31180,3
+Colorado,"Agricultural Workers, All Other",130,26.3,0.048,1.07,19.79,41160,9
+Colorado,Logging Equipment Operators,150,21.8,0.055,0.31,20.72,43100,11.3
+Colorado,Log Graders and Scalers,**,**,**,**,15.52,32280,7.7
+Colorado,Construction and Extraction Occupations,143530,1.6,53.584,1.27,24.76,51490,0.6
+Colorado,First-Line Supervisors of Construction Trades and Extraction Workers,17160,3.2,6.407,1.5,35.79,74440,1.3
+Colorado,Boilermakers,60,44.3,0.022,0.2,35.07,72960,4.1
+Colorado,Brickmasons and Blockmasons,1010,25.2,0.377,0.91,26.58,55280,4.7
+Colorado,Stonemasons,390,20.9,0.147,1.74,21.19,44070,5.5
+Colorado,Carpenters,14850,5.2,5.543,1.11,23.88,49680,1.4
+Colorado,Carpet Installers,370,43.2,0.139,0.79,22.43,46660,7.8
+Colorado,Floor Sanders and Finishers,**,**,**,**,16.58,34490,10.6
+Colorado,Tile and Stone Setters,730,19.5,0.271,0.98,21.84,45420,8.1
+Colorado,Cement Masons and Concrete Finishers,5200,11.1,1.942,1.45,22.32,46430,2
+Colorado,Construction Laborers,22060,4.4,8.235,1.19,18.09,37630,1.2
+Colorado,"Paving, Surfacing, and Tamping Equipment Operators",1460,17.2,0.544,1.75,22.44,46680,1.9
+Colorado,Operating Engineers and Other Construction Equipment Operators,10970,4.6,4.096,1.48,24.14,50220,0.9
+Colorado,Drywall and Ceiling Tile Installers,3190,18.3,1.191,1.7,24.77,51530,2.8
+Colorado,Tapers,250,28.4,0.094,0.77,24.72,51410,2.4
+Colorado,Electricians,16160,6.5,6.034,1.29,26.47,55050,1.9
+Colorado,Glaziers,1400,16.5,0.521,1.46,24.22,50380,2.6
+Colorado,"Insulation Workers, Floor, Ceiling, and Wall",630,44.5,0.237,1.04,18.07,37590,2.8
+Colorado,"Insulation Workers, Mechanical",1090,29.9,0.406,2.24,21.71,45150,3.1
+Colorado,"Painters, Construction and Maintenance",3960,12.6,1.48,0.93,20.25,42110,2.1
+Colorado,Paperhangers,170,47.5,0.063,2.72,18.45,38370,5
+Colorado,Pipelayers,940,19.5,0.35,1.42,22.16,46100,5.5
+Colorado,"Plumbers, Pipefitters, and Steamfitters",10440,10,3.897,1.29,26.14,54380,2.9
+Colorado,Plasterers and Stucco Masons,250,27,0.094,0.51,19.23,40000,4.4
+Colorado,Reinforcing Iron and Rebar Workers,580,26.9,0.218,1.7,22.53,46860,4.7
+Colorado,Roofers,3120,15,1.164,1.32,21.37,44460,2.4
+Colorado,Sheet Metal Workers,2340,13.1,0.873,0.98,24.09,50120,4.4
+Colorado,Structural Iron and Steel Workers,1370,16.6,0.513,0.98,25.03,52060,3.4
+Colorado,Solar Photovoltaic Installers,**,**,**,**,22.77,47370,6.2
+Colorado,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",530,16.4,0.196,1.23,19.54,40640,3.2
+Colorado,Helpers--Carpenters,270,29.8,0.101,0.45,17.19,35760,3.3
+Colorado,Helpers--Electricians,**,**,**,**,16.82,34980,4.6
+Colorado,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",100,40.9,0.037,0.51,16.3,33900,8.5
+Colorado,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",260,40.7,0.097,0.24,17.38,36150,5.3
+Colorado,Helpers--Roofers,**,**,**,**,16.13,33550,5.2
+Colorado,"Helpers, Construction Trades, All Other",100,23,0.036,0.19,18.17,37800,5.1
+Colorado,Construction and Building Inspectors,3260,12.8,1.217,1.62,33.05,68750,3.5
+Colorado,Fence Erectors,**,**,**,**,17.27,35920,3.6
+Colorado,Hazardous Materials Removal Workers,1340,18.5,0.5,1.66,22.01,45790,4.5
+Colorado,Highway Maintenance Workers,2780,3.6,1.038,1.01,21.67,45080,0.6
+Colorado,Rail-Track Laying and Maintenance Equipment Operators,**,**,**,**,21.89,45530,2.8
+Colorado,Septic Tank Servicers and Sewer Pipe Cleaners,830,17.2,0.31,1.53,22.81,47450,6.1
+Colorado,Miscellaneous Construction and Related Workers,1360,22.6,0.506,2.32,19.13,39800,4.4
+Colorado,"Derrick Operators, Oil and Gas",**,**,**,**,23.53,48950,5.2
+Colorado,"Rotary Drill Operators, Oil and Gas",520,15.4,0.193,1.35,32.21,67010,6.1
+Colorado,"Service Unit Operators, Oil and Gas",2970,12.3,1.11,3.15,24.93,51850,2.5
+Colorado,"Excavating and Loading Machine and Dragline Operators, Surface Mining",800,13.2,0.298,0.99,27.02,56190,3.7
+Colorado,Continuous Mining Machine Operators,360,15.7,0.136,1.36,29.78,61950,3.4
+Colorado,"Loading and Moving Machine Operators, Underground Mining",90,0,0.032,1.11,31.13,64740,2.8
+Colorado,"Rock Splitters, Quarry",210,20.7,0.079,2.29,20.3,42220,5.4
+Colorado,"Roustabouts, Oil and Gas",2840,11.3,1.061,2.64,22.21,46210,2.7
+Colorado,Helpers--Extraction Workers,530,14.6,0.2,1.76,17.97,37370,3.2
+Colorado,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",550,29.1,0.207,1.22,25.07,52150,2.9
+Colorado,"Underground Mining Machine Operators and Extraction Workers, All Other",**,**,**,**,22.76,47340,3.2
+Colorado,"Installation, Maintenance, and Repair Occupations",104660,1.7,39.076,1,25.21,52440,0.6
+Colorado,"First-Line Supervisors of Mechanics, Installers, and Repairers",9910,3.9,3.699,1.12,35.25,73310,1.1
+Colorado,"Computer, Automated Teller, and Office Machine Repairers",1430,11.5,0.532,0.8,20.21,42030,2.8
+Colorado,"Radio, Cellular, and Tower Equipment Installers and Repairers",500,34.5,0.187,1.92,25.73,53520,11.4
+Colorado,"Telecommunications Equipment Installers and Repairers, Except Line Installers",4350,11.6,1.623,1.14,30.6,63650,2.3
+Colorado,Avionics Technicians,360,25.5,0.133,0.9,28.42,59110,2.8
+Colorado,"Electric Motor, Power Tool, and Related Repairers",640,25.8,0.24,2.22,22.41,46610,5.2
+Colorado,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",2220,9,0.83,2.07,29.77,61920,2
+Colorado,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",300,26.6,0.113,0.74,42.44,88270,1.8
+Colorado,"Electronic Equipment Installers and Repairers, Motor Vehicles",270,36,0.101,1.43,19.87,41330,3.5
+Colorado,Audiovisual Equipment Installers and Repairers,1150,31.3,0.428,2.45,20.29,42210,4.2
+Colorado,Security and Fire Alarm Systems Installers,1630,12.9,0.609,1.25,26.77,55680,2.4
+Colorado,Aircraft Mechanics and Service Technicians,1920,6.8,0.718,0.79,35.71,74280,4.1
+Colorado,Automotive Body and Related Repairers,3390,6.2,1.265,1.29,24.33,50600,3.1
+Colorado,Automotive Glass Installers and Repairers,180,44.8,0.067,0.51,20.16,41930,5.4
+Colorado,Automotive Service Technicians and Mechanics,11390,4.3,4.251,0.95,24.03,49970,1.5
+Colorado,Bus and Truck Mechanics and Diesel Engine Specialists,4670,6.8,1.744,0.96,25.43,52890,1.3
+Colorado,Farm Equipment Mechanics and Service Technicians,490,16.5,0.181,0.73,21.77,45280,4
+Colorado,"Mobile Heavy Equipment Mechanics, Except Engines",3760,9.3,1.402,1.39,26.94,56040,2
+Colorado,Rail Car Repairers,480,33,0.178,1.01,27.07,56300,4.9
+Colorado,Motorboat Mechanics and Service Technicians,50,44.3,0.019,0.12,21.76,45260,7.2
+Colorado,Motorcycle Mechanics,520,37,0.195,1.83,19.1,39730,5.4
+Colorado,Outdoor Power Equipment and Other Small Engine Mechanics,620,15.5,0.232,1.06,19.34,40230,2.9
+Colorado,Bicycle Repairers,750,22.7,0.28,3.12,15.59,32440,2.6
+Colorado,Recreational Vehicle Service Technicians,220,16.7,0.08,0.76,22.9,47630,4.3
+Colorado,Tire Repairers and Changers,3220,14.7,1.204,1.59,15.46,32160,2.8
+Colorado,Mechanical Door Repairers,420,31,0.158,1.01,21.46,44640,4
+Colorado,"Control and Valve Installers and Repairers, Except Mechanical Door",870,12.6,0.324,0.91,29.53,61420,3.9
+Colorado,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",7610,9.9,2.84,1.22,26.4,54920,2.7
+Colorado,Home Appliance Repairers,1130,21.2,0.423,2,21.44,44590,7
+Colorado,Industrial Machinery Mechanics,4390,3.9,1.639,0.62,29.34,61030,1.2
+Colorado,"Maintenance Workers, Machinery",420,16.3,0.158,0.32,23.56,49000,3
+Colorado,Millwrights,330,32.4,0.121,0.38,26.93,56020,6.1
+Colorado,Electrical Power-Line Installers and Repairers,2170,9.7,0.812,1.07,38.36,79790,1.9
+Colorado,Telecommunications Line Installers and Repairers,2180,15.9,0.815,0.99,24.39,50720,2.5
+Colorado,Camera and Photographic Equipment Repairers,**,**,**,**,19.48,40510,14.5
+Colorado,Medical Equipment Repairers,850,15.9,0.317,1,29.17,60680,6.6
+Colorado,Musical Instrument Repairers and Tuners,**,**,**,**,17.33,36040,6.5
+Colorado,Watch and Clock Repairers,**,**,**,**,24.87,51720,3.8
+Colorado,"Precision Instrument and Equipment Repairers, All Other",50,2.4,0.018,0.25,33.79,70280,2.3
+Colorado,"Maintenance and Repair Workers, General",23880,2.9,8.915,0.92,20.43,42490,0.8
+Colorado,Wind Turbine Service Technicians,290,22.7,0.109,2.69,29.94,62270,5.2
+Colorado,"Coin, Vending, and Amusement Machine Servicers and Repairers",330,14.3,0.122,0.57,20.37,42370,3
+Colorado,Locksmiths and Safe Repairers,320,26.5,0.12,1.03,20.23,42070,3.7
+Colorado,Riggers,200,21.1,0.073,0.47,23.11,48080,2.7
+Colorado,Signal and Track Switch Repairers,110,30.1,0.039,0.84,29.54,61440,4.1
+Colorado,"Helpers--Installation, Maintenance, and Repair Workers",1050,13.8,0.393,0.58,16.56,34440,2.5
+Colorado,"Installation, Maintenance, and Repair Workers, All Other",3440,13.9,1.284,1.17,19.75,41090,2.2
+Colorado,Production Occupations,105080,2.2,39.233,0.63,20.38,42390,0.7
+Colorado,First-Line Supervisors of Production and Operating Workers,7340,2.7,2.74,0.64,33.89,70500,1
+Colorado,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",320,46.4,0.118,0.4,24.5,50960,2.9
+Colorado,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",5520,5.3,2.06,1.06,18.02,37470,1.7
+Colorado,Engine and Other Machine Assemblers,440,11.8,0.163,0.52,19.11,39750,2.5
+Colorado,Structural Metal Fabricators and Fitters,1240,16.1,0.464,0.89,20.38,42380,4.6
+Colorado,Fiberglass Laminators and Fabricators,60,38,0.021,0.15,19.06,39650,5.1
+Colorado,Miscellaneous Assemblers and Fabricators,7910,5,2.952,0.32,16.27,33840,1.3
+Colorado,Bakers,3610,6.4,1.347,1.07,16.11,33510,2.9
+Colorado,Butchers and Meat Cutters,2300,9.2,0.857,0.92,18.04,37520,1.3
+Colorado,"Meat, Poultry, and Fish Cutters and Trimmers",2940,25.2,1.098,1.05,16.76,34850,2.6
+Colorado,Slaughterers and Meat Packers,1790,23.2,0.669,1.34,17.56,36530,2.4
+Colorado,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",460,40.9,0.173,1.22,*,*,*
+Colorado,Food Batchmakers,2530,11.6,0.944,0.87,16.11,33500,2.1
+Colorado,Food Cooking Machine Operators and Tenders,370,32.2,0.14,0.68,15.51,32250,3.5
+Colorado,"Food Processing Workers, All Other",1260,12.2,0.469,1.61,14.51,30180,2.1
+Colorado,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",430,16.6,0.159,0.3,19.04,39610,2.8
+Colorado,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",240,1.6,0.09,0.81,20.05,41700,7.1
+Colorado,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",160,13.8,0.061,0.27,21.3,44310,6.1
+Colorado,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",1130,13.5,0.423,0.32,18.96,39430,3.9
+Colorado,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",100,22.5,0.038,0.52,18.77,39050,7.3
+Colorado,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",620,15.8,0.232,0.44,16.82,34990,3.5
+Colorado,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",130,16.8,0.05,0.26,17.13,35630,2.8
+Colorado,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",40,41.1,0.016,0.13,22.23,46240,13.9
+Colorado,Machinists,4520,8.7,1.686,0.65,23.02,47880,1.8
+Colorado,Metal-Refining Furnace Operators and Tenders,**,**,**,**,21.16,44010,3.1
+Colorado,"Pourers and Casters, Metal",50,27,0.018,0.33,22.38,46540,6.9
+Colorado,"Model Makers, Metal and Plastic",50,28.5,0.017,0.59,30.11,62630,5.5
+Colorado,"Patternmakers, Metal and Plastic",60,39.4,0.022,1.09,17.31,36000,14.2
+Colorado,Foundry Mold and Coremakers,**,**,**,**,16.78,34900,5.2
+Colorado,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",730,11.1,0.273,0.27,20.78,43230,7
+Colorado,Tool and Die Makers,270,13.6,0.101,0.21,25.24,52510,4.8
+Colorado,"Welders, Cutters, Solderers, and Brazers",4950,4.9,1.849,0.66,23.98,49870,1.6
+Colorado,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",420,20.8,0.157,0.65,20.51,42660,6
+Colorado,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",80,19.6,0.03,0.22,18.5,38480,2.6
+Colorado,"Layout Workers, Metal and Plastic",30,28.5,0.012,0.22,19.81,41200,5.6
+Colorado,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",280,23.5,0.103,0.36,18.34,38140,4.5
+Colorado,"Tool Grinders, Filers, and Sharpeners",**,**,**,**,13.29,27650,9.7
+Colorado,"Metal Workers and Plastic Workers, All Other",360,26.2,0.133,0.8,17.39,36180,5.2
+Colorado,Prepress Technicians and Workers,290,20.1,0.11,0.53,21.28,44260,3.1
+Colorado,Printing Press Operators,2780,8,1.039,0.88,19.8,41180,4.3
+Colorado,Print Binding and Finishing Workers,320,17.6,0.118,0.38,17.55,36510,6.3
+Colorado,Laundry and Dry-Cleaning Workers,3880,7.3,1.449,1.02,12.78,26580,1.2
+Colorado,"Pressers, Textile, Garment, and Related Materials",190,27.7,0.071,0.28,12.6,26200,2
+Colorado,Sewing Machine Operators,1220,10.6,0.457,0.5,14.78,30740,2
+Colorado,Shoe and Leather Workers and Repairers,70,18.1,0.025,0.42,16.34,33990,6.2
+Colorado,"Sewers, Hand",50,20.4,0.018,0.56,15.71,32670,4.2
+Colorado,"Tailors, Dressmakers, and Custom Sewers",200,22.9,0.074,0.45,17.71,36830,4.7
+Colorado,Upholsterers,350,15.1,0.131,0.66,19.19,39920,3.2
+Colorado,"Textile, Apparel, and Furnishings Workers, All Other",80,22.5,0.029,0.24,16.09,33460,5.3
+Colorado,Cabinetmakers and Bench Carpenters,2450,8.1,0.913,1.35,18.26,37970,1.7
+Colorado,Furniture Finishers,190,17.5,0.069,0.63,17.43,36260,2.8
+Colorado,"Sawing Machine Setters, Operators, and Tenders, Wood",230,16.4,0.087,0.25,17.5,36390,3.2
+Colorado,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",440,21,0.164,0.31,18.12,37700,1.9
+Colorado,"Woodworkers, All Other",30,6.4,0.013,0.28,23.75,49410,3.5
+Colorado,Power Distributors and Dispatchers,160,11.5,0.061,0.84,43.74,90980,1.6
+Colorado,Power Plant Operators,660,7.8,0.245,1.07,39.42,82000,2.2
+Colorado,Stationary Engineers and Boiler Operators,**,**,**,**,28.63,59550,3.9
+Colorado,Water and Wastewater Treatment Plant and System Operators,2140,6.8,0.801,0.95,27.44,57070,1.6
+Colorado,Chemical Plant and System Operators,390,15.4,0.144,0.74,27.31,56800,8
+Colorado,Gas Plant Operators,260,18.1,0.099,1,34.08,70880,2.4
+Colorado,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",590,13,0.222,0.81,39.69,82560,4.6
+Colorado,"Plant and System Operators, All Other",830,10.4,0.31,3.52,24.75,51480,5
+Colorado,Chemical Equipment Operators and Tenders,810,19.5,0.304,0.51,22.22,46210,2.4
+Colorado,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",2130,7.4,0.794,2.28,22.34,46460,5.7
+Colorado,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",620,21.4,0.232,1.02,19.33,40210,2.8
+Colorado,"Grinding and Polishing Workers, Hand",**,**,**,**,18.04,37520,4.5
+Colorado,"Mixing and Blending Machine Setters, Operators, and Tenders",710,13.7,0.264,0.31,18.92,39360,4.4
+Colorado,"Cutters and Trimmers, Hand",190,25.3,0.071,1.08,14.68,30540,2.9
+Colorado,"Cutting and Slicing Machine Setters, Operators, and Tenders",930,13.2,0.345,0.88,18.69,38870,3.1
+Colorado,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",560,15.8,0.208,0.43,19.18,39880,4
+Colorado,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",110,8.6,0.041,0.32,20.01,41620,3.6
+Colorado,"Inspectors, Testers, Sorters, Samplers, and Weighers",5580,4.8,2.084,0.53,23.91,49740,1.6
+Colorado,Jewelers and Precious Stone and Metal Workers,350,25.4,0.132,0.82,19.14,39810,15
+Colorado,Dental Laboratory Technicians,540,19.1,0.202,0.86,24.01,49940,3.8
+Colorado,Medical Appliance Technicians,**,**,**,**,20.35,42340,8.2
+Colorado,Ophthalmic Laboratory Technicians,530,21.7,0.196,0.99,17.64,36690,4.3
+Colorado,Packaging and Filling Machine Operators and Tenders,4410,15.8,1.647,0.62,16.42,34160,2.2
+Colorado,"Painting, Coating, and Decorating Workers",180,17.8,0.067,0.79,19.27,40090,5.3
+Colorado,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",1940,7.2,0.723,0.73,21.55,44830,3.2
+Colorado,Semiconductor Processing Technicians,950,4.9,0.353,1.87,15.4,32020,5.2
+Colorado,Photographic Process Workers and Processing Machine Operators,120,12.2,0.045,0.55,20.02,41640,6.7
+Colorado,Computer Numerically Controlled Tool Operators,1080,9.5,0.402,0.39,21.35,44410,2.7
+Colorado,Computer Numerically Controlled Tool Programmers,280,13.5,0.104,0.6,28.09,58420,4.4
+Colorado,Adhesive Bonding Machine Operators and Tenders,**,**,**,**,17.6,36600,3
+Colorado,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",70,18.2,0.025,0.22,17.16,35690,7.2
+Colorado,Cooling and Freezing Equipment Operators and Tenders,180,7.5,0.065,1.1,16.94,35240,3.2
+Colorado,Etchers and Engravers,**,**,**,**,17.88,37200,16.5
+Colorado,"Molders, Shapers, and Casters, Except Metal and Plastic",900,21.6,0.335,1.09,18.62,38730,2.8
+Colorado,"Paper Goods Machine Setters, Operators, and Tenders",270,20.1,0.1,0.15,18.01,37460,4.4
+Colorado,Helpers--Production Workers,3850,10,1.439,0.7,14.98,31150,4.8
+Colorado,"Production Workers, All Other",1270,11.2,0.474,0.31,16.64,34600,3.2
+Colorado,Transportation and Material Moving Occupations,195980,1.5,73.167,0.86,20.22,42060,2.5
+Colorado,Aircraft Cargo Handling Supervisors,220,11.4,0.082,1.27,31.27,65050,6
+Colorado,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",8120,3.4,3.031,0.98,29.17,60660,1.2
+Colorado,"Airline Pilots, Copilots, and Flight Engineers",3660,3,1.368,2.38,*,186620,12.6
+Colorado,Commercial Pilots,1000,12.3,0.374,1.45,*,96410,3.9
+Colorado,Air Traffic Controllers,750,0.5,0.279,1.85,60.69,126240,3.2
+Colorado,Airfield Operations Specialists,120,15.6,0.044,0.61,29.31,60960,3.7
+Colorado,Flight Attendants,4300,0.5,1.606,1.95,*,49270,3.7
+Colorado,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",120,21.9,0.046,0.46,*,*,*
+Colorado,Driver/Sales Workers,12360,11.4,4.615,1.52,15.94,33150,4
+Colorado,Heavy and Tractor-Trailer Truck Drivers,25320,3.9,9.455,0.75,24.03,49980,1.4
+Colorado,Light Truck Drivers,15830,6,5.911,0.94,18.89,39300,2.6
+Colorado,"Bus Drivers, Transit and Intercity",4000,7.4,1.495,1.22,19.22,39970,1.5
+Colorado,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",8300,3.6,3.097,0.65,16.65,34630,1.5
+Colorado,"Motor Vehicle Operators, All Other",3320,11.8,1.239,3.22,15.98,33240,4.1
+Colorado,"Rail Yard Engineers, Dinkey Operators, and Hostlers",**,**,**,**,18.71,38910,5
+Colorado,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",40,28,0.015,0.2,23.43,48740,16.5
+Colorado,Railroad Conductors and Yardmasters,60,29.6,0.022,0.07,23.84,49580,3.9
+Colorado,Subway and Streetcar Operators,260,19.1,0.098,1.34,20.77,43210,3.3
+Colorado,Parking Attendants,2100,13.4,0.782,0.78,13.43,27930,2.4
+Colorado,Automotive and Watercraft Service Attendants,2200,8.4,0.821,1.03,14.03,29190,1.7
+Colorado,Transportation Inspectors,450,11.5,0.167,0.82,35.17,73160,4.9
+Colorado,Passenger Attendants,**,**,**,**,11.75,24440,3.2
+Colorado,"Aircraft Service Attendants and Transportation Workers, All Other",1800,6.7,0.672,2.82,26.23,54570,5.4
+Colorado,Conveyor Operators and Tenders,310,24.4,0.116,0.71,17.85,37130,3.5
+Colorado,Industrial Truck and Tractor Operators,10100,4.2,3.772,0.88,18.79,39090,1.7
+Colorado,Cleaners of Vehicles and Equipment,6810,10.4,2.543,0.98,14.08,29290,1.4
+Colorado,"Laborers and Freight, Stock, and Material Movers, Hand",28360,4.1,10.589,0.53,16.72,34770,1.1
+Colorado,Machine Feeders and Offbearers,980,18.3,0.365,0.85,15.43,32090,4.1
+Colorado,"Packers and Packagers, Hand",7590,7.6,2.835,0.66,13.86,28820,2
+Colorado,Stockers and Order Fillers,40590,2.9,15.153,1.04,15.82,32910,0.9
+Colorado,Gas Compressor and Gas Pumping Station Operators,130,20.6,0.048,2.04,28.71,59720,6.3
+Colorado,"Pump Operators, Except Wellhead Pumpers",400,15.6,0.15,2.2,25.38,52790,8.3
+Colorado,Wellhead Pumpers,920,7.7,0.342,3.87,34.55,71860,2.6
+Colorado,Refuse and Recyclable Material Collectors,2550,9.5,0.952,1.15,20.48,42590,2.2
+Colorado,"Tank Car, Truck, and Ship Loaders",250,31.4,0.094,1.18,24.08,50080,5.7
+Colorado,"Material Moving Workers, All Other",550,49.9,0.204,1.06,22.6,47020,3.4

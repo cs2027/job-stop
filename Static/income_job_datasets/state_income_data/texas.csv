@@ -1,0 +1,795 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Texas,All Occupations,12431200,0.2,1000,1,24.27,50490,0.4
+Texas,Management Occupations,634640,0.7,51.052,0.93,57.33,119250,0.4
+Texas,Chief Executives,6170,4.7,0.496,0.35,111.21,231310,1.4
+Texas,General and Operations Managers,217080,1.3,17.462,1.07,58.3,121270,0.7
+Texas,Legislators,1970,7,0.159,0.45,*,46010,5.3
+Texas,Advertising and Promotions Managers,1390,7,0.112,0.65,53.43,111140,2.6
+Texas,Marketing Managers,16290,3.7,1.31,0.73,71.84,149420,0.9
+Texas,Sales Managers,30420,2.6,2.447,0.89,70.3,146230,1
+Texas,Public Relations and Fundraising Managers,5500,3.6,0.443,0.82,59.43,123620,1.2
+Texas,Administrative Services and Facilities Managers,29720,2,2.391,1.14,48.64,101170,1.3
+Texas,Computer and Information Systems Managers,26980,3.2,2.17,0.73,75.28,156590,0.8
+Texas,Financial Managers,46710,3,3.758,0.84,70.05,145700,1
+Texas,Industrial Production Managers,13440,2.9,1.081,0.85,58.68,122060,1
+Texas,Purchasing Managers,6150,3.8,0.494,1.01,66.19,137670,1.1
+Texas,"Transportation, Storage, and Distribution Managers",13030,3.4,1.048,1.17,49.83,103650,1.1
+Texas,Compensation and Benefits Managers,1410,7.6,0.113,0.98,54.73,113850,2
+Texas,Human Resources Managers,10260,2.7,0.825,0.78,60.8,126470,0.9
+Texas,Training and Development Managers,2310,5.4,0.186,0.71,60.94,126750,1.6
+Texas,"Farmers, Ranchers, and Other Agricultural Managers",470,19.5,0.038,1.1,34.53,71830,6.8
+Texas,Construction Managers,34560,2.9,2.78,1.39,47.1,97970,1.4
+Texas,"Education and Childcare Administrators, Preschool and Daycare",3580,6.3,0.288,0.81,23.91,49730,2.5
+Texas,"Education Administrators, Kindergarten through Secondary",29960,1.9,2.41,1.31,*,86270,0.5
+Texas,"Education Administrators, Postsecondary",10380,3.6,0.835,0.85,54.84,114070,2.7
+Texas,"Education Administrators, All Other",2120,7.8,0.171,0.56,39.18,81500,2.6
+Texas,Architectural and Engineering Managers,14500,4.1,1.166,0.88,82.27,171120,1.2
+Texas,Food Service Managers,15690,5.1,1.262,0.79,28.62,59520,1.3
+Texas,Gambling Managers,40,28.4,0.003,0.1,26.21,54520,15.8
+Texas,Lodging Managers,3560,10.1,0.286,1.1,26.32,54750,4.4
+Texas,Medical and Health Services Managers,33320,2.4,2.681,1,51.87,107880,1.2
+Texas,Natural Sciences Managers,2880,6.7,0.232,0.5,62.74,130490,2.4
+Texas,Postmasters and Mail Superintendents,810,0,0.065,0.69,38.61,80300,0.4
+Texas,"Property, Real Estate, and Community Association Managers",20320,5.6,1.634,1.09,36.21,75310,2.9
+Texas,Social and Community Service Managers,6710,3.5,0.54,0.51,34.62,72010,1.3
+Texas,Emergency Management Directors,680,6,0.055,0.8,44.4,92350,2
+Texas,Funeral Home Managers,610,13.9,0.049,0.76,35.03,72850,6
+Texas,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",25630,2.8,2.061,0.64,59.83,124450,1
+Texas,Business and Financial Operations Occupations,643140,1.2,51.736,0.93,37.38,77760,0.4
+Texas,"Agents and Business Managers of Artists, Performers, and Athletes",660,14.5,0.053,0.46,32.03,66620,9.7
+Texas,Buyers and Purchasing Agents,37660,2.4,3.03,1.06,34.97,72740,1.8
+Texas,"Claims Adjusters, Examiners, and Investigators",22390,9.4,1.801,0.92,32.47,67530,1.4
+Texas,"Insurance Appraisers, Auto Damage",1560,9.7,0.125,1.34,32.36,67310,3.8
+Texas,Compliance Officers,27130,2.4,2.182,1.01,35.62,74080,1.4
+Texas,Cost Estimators,17380,3.2,1.398,0.98,36.18,75250,1.3
+Texas,Human Resources Specialists,49190,1.8,3.957,0.92,32.52,67650,0.8
+Texas,Labor Relations Specialists,2500,11.8,0.201,0.39,31.31,65130,4.2
+Texas,Logisticians,15710,4,1.264,1.02,40.56,84370,1.6
+Texas,Management Analysts,39880,4.4,3.208,0.66,45.15,93920,1.1
+Texas,"Meeting, Convention, and Event Planners",7960,4.7,0.64,0.8,25,52000,1.4
+Texas,Fundraisers,4380,7.3,0.352,0.63,28.48,59230,1.8
+Texas,"Compensation, Benefits, and Job Analysis Specialists",6840,6,0.55,0.9,31.87,66280,0.9
+Texas,Training and Development Specialists,27110,3,2.181,1.03,30.77,64000,1.1
+Texas,Market Research Analysts and Marketing Specialists,35030,3.2,2.818,0.61,35.67,74190,1
+Texas,"Project Management Specialists and Business Operations Specialists, All Other",117990,2.6,9.492,1.09,39.78,82750,0.8
+Texas,Accountants and Auditors,114410,3.2,9.203,1.06,38.15,79360,0.6
+Texas,Property Appraisers and Assessors,4600,10,0.37,0.97,30.76,63970,2.5
+Texas,Budget Analysts,3980,3.9,0.32,0.91,37.51,78030,1.7
+Texas,Credit Analysts,6830,5.7,0.549,1.09,37.51,78020,1.7
+Texas,Personal Financial Advisors,12800,7.9,1.03,0.72,49.17,102280,4.3
+Texas,Insurance Underwriters,7330,10.6,0.59,0.87,33.68,70050,2.4
+Texas,Financial Examiners,5810,10.7,0.467,1.06,40.42,84060,3.1
+Texas,Credit Counselors,2360,8,0.19,0.87,21.21,44110,3
+Texas,Loan Officers,22410,5.7,1.803,0.86,39.39,81930,2.1
+Texas,"Tax Examiners and Collectors, and Revenue Agents",3720,0.6,0.299,0.82,27.94,58110,1.4
+Texas,Tax Preparers,5060,9.2,0.407,0.9,25.71,53470,4.7
+Texas,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",40460,4.8,3.254,1.04,42.19,87750,1.4
+Texas,Computer and Mathematical Occupations,385370,1.6,31,1,43.97,91460,0.7
+Texas,Computer Systems Analysts,54150,3.9,4.356,1.09,49.1,102120,1.7
+Texas,Information Security Analysts,10430,4.3,0.839,0.98,52.31,108810,1.4
+Texas,Computer and Information Research Scientists,1520,17.7,0.122,0.58,62,128970,2.5
+Texas,Computer Network Support Specialists,15530,6.6,1.249,0.99,34.39,71530,1.8
+Texas,Computer User Support Specialists,60980,2.4,4.905,1.11,25.09,52190,0.9
+Texas,Computer Network Architects,13080,5.2,1.052,1.01,56.76,118060,1
+Texas,Network and Computer Systems Administrators,35890,3.4,2.887,1.2,42.71,88840,0.8
+Texas,Database Administrators and Architects,11620,4.2,0.935,1.09,48.77,101450,1.7
+Texas,Computer Programmers,20430,6.7,1.644,1.21,45.97,95620,5.5
+Texas,Software Developers and Software Quality Assurance Analysts and Testers,109510,2.9,8.809,0.92,51.89,107940,0.7
+Texas,Web Developers and Digital Interface Designers,9510,5.7,0.765,0.76,35.52,73890,1.6
+Texas,"Computer Occupations, All Other",27540,4.2,2.215,0.83,41.15,85590,1.2
+Texas,Actuaries,1080,16.4,0.087,0.57,54.32,112990,4.6
+Texas,Mathematicians,150,9.3,0.012,0.66,37.01,76980,3.4
+Texas,Operations Research Analysts,9820,5.4,0.79,1.16,40.62,84500,1.6
+Texas,Statisticians,1940,6.8,0.156,0.59,42.07,87510,2.1
+Texas,"Data Scientists and Mathematical Science Occupations, All Other",2200,12.3,0.177,0.84,47.28,98340,1.7
+Texas,Architecture and Engineering Occupations,243980,1.6,19.626,1.11,46.63,96990,1.4
+Texas,"Architects, Except Landscape and Naval",9380,5.7,0.754,1.05,45.21,94030,4
+Texas,Landscape Architects,1130,17.6,0.091,0.66,33.99,70690,6.3
+Texas,Cartographers and Photogrammetrists,1270,8.9,0.102,1.32,31.31,65120,2.7
+Texas,Surveyors,4480,5.8,0.36,1.17,31.86,66270,1.8
+Texas,Aerospace Engineers,6140,10.3,0.494,1.15,60.93,126740,1.5
+Texas,Agricultural Engineers,80,22.9,0.007,0.64,42.78,88970,8.7
+Texas,Bioengineers and Biomedical Engineers,970,15.7,0.078,0.58,43.6,90680,6.4
+Texas,Chemical Engineers,7260,7.3,0.584,2.85,72.36,150510,3.5
+Texas,Civil Engineers,27920,3.2,2.246,1.06,46.39,96480,2.5
+Texas,Computer Hardware Engineers,3970,20.4,0.319,0.69,54.66,113700,2.2
+Texas,Electrical Engineers,14440,8.1,1.162,0.92,51.27,106650,1.8
+Texas,"Electronics Engineers, Except Computer",11970,6.1,0.963,1.1,56.73,118000,2.1
+Texas,Environmental Engineers,3250,9.3,0.261,0.72,52.18,108530,5.3
+Texas,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",3700,6,0.298,1.69,48.97,101870,1.7
+Texas,Industrial Engineers,19520,3.6,1.57,0.79,52.36,108900,1.2
+Texas,Marine Engineers and Naval Architects,600,27.1,0.049,0.63,51.97,108090,5.7
+Texas,Materials Engineers,2760,11.1,0.222,1.22,50.12,104250,1.8
+Texas,Mechanical Engineers,22020,5.4,1.771,0.85,49.51,102980,1.6
+Texas,"Mining and Geological Engineers, Including Mining Safety Engineers",570,22.7,0.046,1.08,41.87,87080,8.1
+Texas,Nuclear Engineers,390,26.6,0.032,0.29,54.72,113820,13.2
+Texas,Petroleum Engineers,18720,6.3,1.506,6.78,83.12,172890,3.6
+Texas,"Engineers, All Other",10380,4.4,0.835,0.8,55.48,115390,1.5
+Texas,Architectural and Civil Drafters,11280,6,0.908,1.35,27.43,57060,1.2
+Texas,Electrical and Electronics Drafters,3390,18.9,0.273,1.66,28.07,58390,2.3
+Texas,Mechanical Drafters,4960,6.4,0.399,1.06,28.06,58360,1.4
+Texas,"Drafters, All Other",1330,19.1,0.107,1.08,24.09,50110,1.8
+Texas,Aerospace Engineering and Operations Technologists and Technicians,1380,24.1,0.111,1.41,31.9,66350,3.5
+Texas,Civil Engineering Technologists and Technicians,7390,3.9,0.595,1.27,23.68,49250,2.1
+Texas,Electrical and Electronic Engineering Technologists and Technicians,11140,5.4,0.896,1.07,32.96,68560,1.9
+Texas,Electro-Mechanical and Mechatronics Technologists and Technicians,1910,11.8,0.153,1.58,27.28,56750,2.8
+Texas,Environmental Engineering Technologists and Technicians,1410,14.5,0.113,0.92,27.97,58180,4.8
+Texas,Industrial Engineering Technologists and Technicians,6250,7.1,0.502,1.1,32.01,66580,3.3
+Texas,Mechanical Engineering Technologists and Technicians,3410,8.6,0.274,0.94,31.56,65640,2
+Texas,Surveying and Mapping Technicians,9410,6.3,0.757,2.1,20.97,43630,0.9
+Texas,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",9800,7,0.788,1.31,29.31,60970,2.9
+Texas,"Life, Physical, and Social Science Occupations",102540,1.8,8.248,0.94,35.83,74530,1.4
+Texas,Animal Scientists,300,16.5,0.024,1.32,27.25,56680,5.4
+Texas,Food Scientists and Technologists,670,14.3,0.054,0.58,32.75,68130,3.9
+Texas,Soil and Plant Scientists,510,12.1,0.041,0.43,33.11,68880,3.4
+Texas,Biochemists and Biophysicists,1640,17.3,0.132,0.62,38.66,80410,7.2
+Texas,Microbiologists,1060,4.6,0.085,0.69,26.46,55030,2
+Texas,Zoologists and Wildlife Biologists,490,21.7,0.039,0.3,30.45,63330,4.7
+Texas,"Biological Scientists, All Other",1670,7.4,0.134,0.49,39.8,82780,1.8
+Texas,Conservation Scientists,2050,4,0.165,1.1,28.69,59680,1.7
+Texas,Foresters,180,32.8,0.014,0.22,32.87,68370,2.6
+Texas,Epidemiologists,730,4.1,0.058,1.16,31.54,65610,2.1
+Texas,"Medical Scientists, Except Epidemiologists",6280,4.4,0.505,0.58,33.48,69640,4.1
+Texas,"Life Scientists, All Other",320,30,0.026,0.59,35.37,73560,15.2
+Texas,Astronomers,230,32.2,0.019,1.33,53.05,110350,9.4
+Texas,Physicists,980,13.1,0.079,0.69,55.1,114600,6.2
+Texas,Atmospheric and Space Scientists,660,13.4,0.053,0.84,48.54,100960,3.5
+Texas,Chemists,5000,7.6,0.403,0.71,43.04,89520,2.9
+Texas,Materials Scientists,650,22.4,0.052,1.14,48.31,100490,7.3
+Texas,"Environmental Scientists and Specialists, Including Health",5190,7.6,0.418,0.73,37.23,77430,2.6
+Texas,"Geoscientists, Except Hydrologists and Geographers",7240,8.8,0.583,2.93,74.2,154330,3.5
+Texas,Hydrologists,250,13.5,0.02,0.45,40.26,83740,5.6
+Texas,"Physical Scientists, All Other",1740,9.7,0.14,1.17,41.41,86130,7.9
+Texas,Economists,860,25.9,0.069,0.53,50.62,105290,3.1
+Texas,Survey Researchers,520,28.6,0.042,0.62,26.58,55280,7.2
+Texas,"Clinical, Counseling, and School Psychologists",8430,3.3,0.678,0.88,35.54,73920,2.7
+Texas,"Psychologists, All Other",790,4.1,0.064,0.66,44.36,92270,1.4
+Texas,Urban and Regional Planners,2050,4.3,0.165,0.63,33.58,69850,1.1
+Texas,Anthropologists and Archeologists,320,14.8,0.025,0.55,33.85,70410,3.3
+Texas,Geographers,160,10.1,0.013,1.32,31.12,64740,2.9
+Texas,Historians,180,27.1,0.015,0.71,33.63,69950,4.6
+Texas,Political Scientists,280,32.3,0.022,0.55,42.94,89310,2.2
+Texas,"Social Scientists and Related Workers, All Other",2020,12.6,0.163,0.71,39.88,82950,1.3
+Texas,Agricultural and Food Science Technicians,1280,10.5,0.103,0.69,22.16,46090,5.8
+Texas,Biological Technicians,6810,7.1,0.548,1.01,24.06,50030,3.6
+Texas,Chemical Technicians,7350,6.5,0.591,1.32,29.28,60900,2.1
+Texas,"Environmental Science and Protection Technicians, Including Health",3060,11.6,0.246,1.11,23.27,48400,1.6
+Texas,Geological and Hydrologic Technicians,6460,8.6,0.519,4.46,29.4,61150,3.7
+Texas,Nuclear Technicians,160,15.2,0.013,0.29,37.79,78600,7.6
+Texas,Social Science Research Assistants,1510,5.7,0.122,0.5,17.95,37330,5
+Texas,Forest and Conservation Technicians,400,1.6,0.033,0.25,21.03,43740,0.9
+Texas,Forensic Science Technicians,1480,4,0.119,1.06,28.87,60040,3.7
+Texas,"Life, Physical, and Social Science Technicians, All Other",4150,9.1,0.333,0.76,25.58,53210,3.3
+Texas,Occupational Health and Safety Specialists,12860,2.8,1.034,1.64,36.4,75720,1.1
+Texas,Occupational Health and Safety Technicians,3540,6.3,0.285,2.03,23.88,49670,1.3
+Texas,Community and Social Service Occupations,124830,1.7,10.042,0.66,23.81,49530,0.7
+Texas,"Educational, Guidance, and Career Counselors and Advisors",25810,2.1,2.076,1.03,29.07,60470,1
+Texas,Marriage and Family Therapists,630,22.5,0.051,0.13,24.44,50840,4.3
+Texas,Rehabilitation Counselors,3040,6.8,0.244,0.33,21.78,45300,2.9
+Texas,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",11570,4.8,0.931,0.48,23.72,49330,1.6
+Texas,"Counselors, All Other",2280,13.5,0.183,1.06,26.87,55890,2.6
+Texas,"Child, Family, and School Social Workers",21120,4.2,1.699,0.76,23.59,49060,1.1
+Texas,Healthcare Social Workers,10250,4.1,0.824,0.69,28.09,58430,1.2
+Texas,Mental Health and Substance Abuse Social Workers,6010,11.2,0.483,0.6,20.75,43170,1.7
+Texas,"Social Workers, All Other",2530,8.2,0.203,0.51,28.96,60240,3.5
+Texas,Health Education Specialists,2810,9.1,0.226,0.57,26.23,54560,2.6
+Texas,Probation Officers and Correctional Treatment Specialists,7960,2.1,0.641,1.07,22.29,46360,0.9
+Texas,Social and Human Service Assistants,20490,4.1,1.648,0.6,17.28,35950,1
+Texas,Community Health Workers,2900,6.4,0.234,0.58,19.89,41360,1.8
+Texas,"Community and Social Service Specialists, All Other",3740,7.8,0.301,0.45,16.82,34980,2.6
+Texas,Clergy,3140,10.8,0.253,0.7,25.93,53940,2.4
+Texas,"Directors, Religious Activities and Education",300,20.3,0.024,0.16,32.49,67570,9.2
+Texas,"Religious Workers, All Other",250,21.2,0.02,0.32,16.6,34530,6.7
+Texas,Legal Occupations,86420,1.7,6.952,0.89,49.65,103280,2.1
+Texas,Lawyers,44700,2.9,3.596,0.8,69.28,144110,2.4
+Texas,Judicial Law Clerks,420,10.5,0.034,0.3,23.76,49410,3.4
+Texas,"Administrative Law Judges, Adjudicators, and Hearing Officers",1010,3.5,0.082,0.83,41.77,86880,1.7
+Texas,"Arbitrators, Mediators, and Conciliators",560,13.4,0.045,1.08,31.04,64560,4.1
+Texas,"Judges, Magistrate Judges, and Magistrates",3180,1.7,0.256,1.31,47.45,98700,2
+Texas,Paralegals and Legal Assistants,27040,4.8,2.175,0.97,26.17,54430,2.1
+Texas,"Title Examiners, Abstractors, and Searchers",7060,10.8,0.568,1.58,27.73,57680,4
+Texas,"Legal Support Workers, All Other",2440,9.6,0.196,0.64,28.55,59380,4.2
+Texas,Educational Instruction and Library Occupations,764970,1.3,61.536,1.02,24.58,51130,1.8
+Texas,"Business Teachers, Postsecondary",6200,4.6,0.499,0.87,*,93390,7.9
+Texas,"Computer Science Teachers, Postsecondary",2440,4.6,0.197,0.91,*,85460,4.9
+Texas,"Mathematical Science Teachers, Postsecondary",4910,2.9,0.395,1.14,*,69120,5.4
+Texas,"Architecture Teachers, Postsecondary",580,9.2,0.047,1.01,*,87810,4.1
+Texas,"Engineering Teachers, Postsecondary",3260,7.4,0.263,1.07,*,120440,7.1
+Texas,"Agricultural Sciences Teachers, Postsecondary",820,10.7,0.066,1.02,*,91010,8
+Texas,"Biological Science Teachers, Postsecondary",4030,3.3,0.325,0.9,*,88990,4.1
+Texas,"Forestry and Conservation Science Teachers, Postsecondary",90,18.7,0.007,0.57,*,87110,4.8
+Texas,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",820,6.3,0.066,0.88,*,94440,6.2
+Texas,"Chemistry Teachers, Postsecondary",1360,4.3,0.109,0.75,*,90180,5.3
+Texas,"Environmental Science Teachers, Postsecondary",340,9.6,0.027,0.66,*,91790,4.2
+Texas,"Physics Teachers, Postsecondary",1050,5.2,0.084,0.9,*,92710,7.2
+Texas,"Anthropology and Archeology Teachers, Postsecondary",340,5,0.028,0.69,*,85320,4.6
+Texas,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",560,6.4,0.045,0.63,*,60930,5.7
+Texas,"Economics Teachers, Postsecondary",860,5.2,0.07,0.77,*,111010,7.6
+Texas,"Geography Teachers, Postsecondary",220,14.5,0.018,0.66,*,85130,5
+Texas,"Political Science Teachers, Postsecondary",1760,5,0.142,1.32,*,74240,5.5
+Texas,"Psychology Teachers, Postsecondary",2870,4.8,0.231,0.9,*,67690,4
+Texas,"Sociology Teachers, Postsecondary",940,6.2,0.075,0.8,*,73380,5.4
+Texas,"Social Sciences Teachers, Postsecondary, All Other",1420,4.6,0.115,1,*,49290,5.3
+Texas,"Health Specialties Teachers, Postsecondary",17920,6.1,1.441,1.05,*,146000,10.2
+Texas,"Nursing Instructors and Teachers, Postsecondary",4310,6.3,0.347,0.85,*,66190,2.4
+Texas,"Education Teachers, Postsecondary",4650,5.8,0.374,0.9,*,59710,4.4
+Texas,"Library Science Teachers, Postsecondary",310,11.8,0.025,0.83,*,69020,3.4
+Texas,"Criminal Justice and Law Enforcement Teachers, Postsecondary",1150,10,0.092,0.96,*,60680,4.4
+Texas,"Law Teachers, Postsecondary",1000,12.4,0.08,0.73,*,110970,6.2
+Texas,"Social Work Teachers, Postsecondary",570,10.1,0.046,0.5,*,73440,6.1
+Texas,"Art, Drama, and Music Teachers, Postsecondary",5830,3.9,0.469,0.73,*,63370,3.9
+Texas,"Communications Teachers, Postsecondary",2260,4.4,0.182,0.92,*,62980,3.8
+Texas,"English Language and Literature Teachers, Postsecondary",5250,3.2,0.422,0.91,*,62860,4.3
+Texas,"Foreign Language and Literature Teachers, Postsecondary",1430,10.4,0.115,0.68,*,64760,3.6
+Texas,"History Teachers, Postsecondary",2160,3.3,0.173,1.21,*,65770,5.6
+Texas,"Philosophy and Religion Teachers, Postsecondary",1320,11.1,0.106,0.66,*,85360,4.9
+Texas,"Family and Consumer Sciences Teachers, Postsecondary",140,20.6,0.011,0.76,*,63840,5.6
+Texas,"Recreation and Fitness Studies Teachers, Postsecondary",1580,5.9,0.127,1.18,*,63950,5.1
+Texas,"Career/Technical Education Teachers, Postsecondary",10440,4.8,0.84,1.1,27.76,57740,3.1
+Texas,"Postsecondary Teachers, All Other",3210,6.5,0.258,0.19,*,52160,5.1
+Texas,"Preschool Teachers, Except Special Education",33810,5.4,2.72,0.93,17.8,37030,2.7
+Texas,"Kindergarten Teachers, Except Special Education",15770,3.2,1.269,1.5,*,55340,1.1
+Texas,"Elementary School Teachers, Except Special Education",131880,1.3,10.609,1.09,*,56280,0.8
+Texas,"Middle School Teachers, Except Special and Career/Technical Education",64340,1.9,5.176,1.22,*,56290,0.7
+Texas,"Career/Technical Education Teachers, Middle School",1550,7.1,0.125,1.54,*,59490,1.1
+Texas,"Secondary School Teachers, Except Special and Career/Technical Education",107190,1.6,8.623,1.22,*,58000,0.8
+Texas,"Career/Technical Education Teachers, Secondary School",12010,4.8,0.966,1.9,*,59960,0.9
+Texas,"Special Education Teachers, Preschool",760,21.3,0.061,0.4,*,50720,2.7
+Texas,"Special Education Teachers, Kindergarten and Elementary School",15600,4.9,1.255,0.95,*,57360,0.8
+Texas,"Special Education Teachers, Middle School",8450,4.8,0.68,1.16,*,56720,0.8
+Texas,"Special Education Teachers, Secondary School",13990,3.2,1.126,1.15,*,57890,0.8
+Texas,"Special Education Teachers, All Other",1750,6.6,0.14,0.58,*,54830,1.6
+Texas,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",3650,8.3,0.294,0.83,25.35,52730,6.7
+Texas,Self-Enrichment Teachers,12080,7.4,0.972,0.56,21.33,44360,4.6
+Texas,"Substitute Teachers, Short-Term",85390,4.3,6.869,1.72,11.22,23340,1.4
+Texas,"Tutors and Teachers and Instructors, All Other",21820,5,1.755,0.8,*,36140,2.8
+Texas,Archivists,310,9.7,0.025,0.56,30.08,62580,2.7
+Texas,Curators,610,9.4,0.049,0.56,27.71,57630,2.1
+Texas,Museum Technicians and Conservators,480,13.1,0.039,0.43,20.33,42290,3.3
+Texas,Librarians and Media Collections Specialists,9670,2.1,0.778,0.84,29.38,61110,0.7
+Texas,Library Technicians,3740,3,0.301,0.5,15.26,31740,1.1
+Texas,Farm and Home Management Educators,400,7,0.032,0.54,12.95,26930,2.2
+Texas,Instructional Coordinators,18560,2.5,1.493,1.24,31.76,66060,0.9
+Texas,"Teaching Assistants, Postsecondary",9530,11.4,0.766,0.82,*,37410,4.1
+Texas,"Teaching Assistants, Except Postsecondary",88330,1.7,7.106,0.77,*,23220,0.9
+Texas,"Educational Instruction and Library Workers, All Other",4880,10.9,0.392,0.45,17.71,36840,3.3
+Texas,"Arts, Design, Entertainment, Sports, and Media Occupations",141300,2,11.366,0.83,25.93,53940,1.2
+Texas,Art Directors,2510,8.5,0.202,0.69,39.49,82140,2
+Texas,Craft Artists,480,14.3,0.039,1.23,18.18,37810,4.8
+Texas,"Fine Artists, Including Painters, Sculptors, and Illustrators",700,22.3,0.057,0.67,24.64,51250,7.8
+Texas,Special Effects Artists and Animators,2320,18.9,0.187,0.94,37.54,78070,9.9
+Texas,"Artists and Related Workers, All Other",230,16.5,0.018,0.36,28.23,58710,4.7
+Texas,Commercial and Industrial Designers,1910,21.7,0.153,0.69,35.27,73370,4.4
+Texas,Fashion Designers,300,28.3,0.024,0.16,37.83,78690,7.6
+Texas,Floral Designers,2560,7.6,0.206,0.73,12.84,26700,2.5
+Texas,Graphic Designers,14050,3.4,1.13,0.77,25.02,52050,1.1
+Texas,Interior Designers,4830,7.8,0.389,0.94,28.25,58750,1.7
+Texas,Merchandise Displayers and Window Trimmers,18550,8.1,1.492,1.56,13.93,28980,1.4
+Texas,Set and Exhibit Designers,580,19.3,0.046,0.57,20.13,41880,4.1
+Texas,"Designers, All Other",320,21.8,0.025,0.35,26.17,54430,9.8
+Texas,Actors,1120,27.4,0.09,0.25,20.29,*,9.5
+Texas,Producers and Directors,5260,5.8,0.423,0.48,33.35,69370,1.7
+Texas,Athletes and Sports Competitors,390,23.7,0.031,0.41,*,108920,18.2
+Texas,Coaches and Scouts,13990,7.5,1.125,0.68,*,49620,3.2
+Texas,"Umpires, Referees, and Other Sports Officials",840,19.7,0.068,0.49,*,36960,7.5
+Texas,Dancers,680,33,0.055,0.83,23.06,*,8.6
+Texas,Choreographers,680,33.2,0.054,1.73,30.17,62750,7.6
+Texas,Music Directors and Composers,860,8,0.069,0.96,32.23,67040,3
+Texas,Musicians and Singers,1790,12.4,0.144,0.51,33.89,*,6.8
+Texas,"Miscellaneous Entertainers and Performers, Sports and Related Workers",380,43.2,0.031,0.29,21.8,*,7.8
+Texas,Broadcast Announcers and Radio Disc Jockeys,2240,11.6,0.181,0.91,24.64,51260,5.7
+Texas,"News Analysts, Reporters, and Journalists",2640,11.1,0.212,0.71,25.32,52660,6.1
+Texas,Public Relations Specialists,26110,2.8,2.1,1.26,29.14,60600,1
+Texas,Editors,4800,7.4,0.386,0.59,36.15,75180,6.2
+Texas,Technical Writers,4700,7,0.378,1.09,34.46,71680,2.6
+Texas,Writers and Authors,2580,10.6,0.208,0.67,27.67,57550,2
+Texas,Interpreters and Translators,6590,12.6,0.53,1.32,29.02,60350,5.3
+Texas,Court Reporters and Simultaneous Captioners,1450,20.7,0.116,1.18,35.13,73070,3.6
+Texas,"Media and Communication Workers, All Other",1110,12.4,0.089,0.52,15.57,32390,5.4
+Texas,Audio and Video Technicians,4820,11.2,0.388,0.77,19.34,40240,1.5
+Texas,Broadcast Technicians,1790,7.8,0.144,0.74,19.39,40330,3.6
+Texas,Sound Engineering Technicians,560,14.2,0.045,0.51,27.78,57790,5.9
+Texas,Photographers,3300,6.2,0.265,0.77,24.41,50770,5.3
+Texas,"Camera Operators, Television, Video, and Film",1050,11.5,0.084,0.58,25.1,52220,3
+Texas,Film and Video Editors,1460,10.2,0.117,0.63,27,56160,5.3
+Texas,"Lighting Technicians and Media and Communication Equipment Workers, All Other",790,15.3,0.063,0.4,37.16,77280,3.5
+Texas,Healthcare Practitioners and Technical Occupations,676860,1,54.448,0.92,37.73,78470,1.1
+Texas,Chiropractors,2230,11.3,0.179,0.75,43.98,91470,6.5
+Texas,"Dentists, General",8590,8.1,0.691,0.92,88.22,183510,5.3
+Texas,Oral and Maxillofacial Surgeons,**,**,**,**,95.83,199330,12.5
+Texas,Orthodontists,570,26.6,0.046,1.13,93.88,195270,17.1
+Texas,"Dentists, All Other Specialists",670,47,0.054,1.48,103.48,215250,23.2
+Texas,Dietitians and Nutritionists,5050,5.5,0.406,0.88,27.42,57030,1.9
+Texas,Optometrists,2930,12.5,0.236,0.88,58.07,120790,3.9
+Texas,Pharmacists,22770,3.9,1.832,0.86,61.21,127320,0.7
+Texas,Physician Assistants,8040,7,0.646,0.79,52.54,109270,3.7
+Texas,Podiatrists,470,16.9,0.038,0.57,70.37,146370,5.3
+Texas,Occupational Therapists,9180,5.7,0.738,0.81,40.91,85090,1.3
+Texas,Physical Therapists,15400,4.9,1.239,0.78,43.09,89630,1
+Texas,Radiation Therapists,1990,15.4,0.16,1.31,43.4,90270,2.2
+Texas,Recreational Therapists,1400,11.1,0.112,0.87,20.64,42940,1.9
+Texas,Respiratory Therapists,11730,3.1,0.943,1.05,29.11,60560,0.6
+Texas,Speech-Language Pathologists,14820,6.4,1.193,1.13,35.61,74060,2.1
+Texas,Exercise Physiologists,**,**,**,**,23.25,48360,1.8
+Texas,"Therapists, All Other",**,**,**,**,32.06,66690,3.4
+Texas,Veterinarians,4770,9.2,0.384,0.76,60.23,125280,5.8
+Texas,Registered Nurses,218090,1.5,17.544,0.86,35.84,74540,0.6
+Texas,Nurse Anesthetists,4300,17.7,0.346,1.17,80.3,167020,2.3
+Texas,Nurse Midwives,540,43.6,0.043,0.92,44.5,92560,2.8
+Texas,Nurse Practitioners,13620,5.7,1.096,0.8,55.5,115440,1.5
+Texas,Audiologists,610,22.5,0.049,0.53,40.72,84690,2.2
+Texas,Anesthesiologists,2550,20.7,0.205,0.97,115.91,241090,7.6
+Texas,Family Medicine Physicians,8380,8.8,0.674,0.9,107.17,222900,3.8
+Texas,General Internal Medicine Physicians,4520,15.4,0.364,1.2,77.01,160180,9.4
+Texas,Obstetricians and Gynecologists,1500,13.7,0.12,0.95,85.56,177970,9.2
+Texas,"Pediatricians, General",2250,12.5,0.181,0.89,89.62,186410,5.5
+Texas,Psychiatrists,1480,17.6,0.119,0.69,100.95,209980,8.6
+Texas,"Physicians, All Other; and Ophthalmologists, Except Pediatric",23490,7.4,1.89,0.71,96.44,200590,4.2
+Texas,"Surgeons, Except Ophthalmologists",3480,11.3,0.28,1.13,114.06,237240,7
+Texas,Dental Hygienists,14310,5.7,1.151,0.76,36.77,76490,1.4
+Texas,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",1310,13.3,0.105,0.42,37.66,78330,10.4
+Texas,Clinical Laboratory Technologists and Technicians,27120,3.4,2.181,0.98,25.35,52720,0.9
+Texas,Cardiovascular Technologists and Technicians,5450,6.4,0.438,1.15,26.73,55590,1.7
+Texas,Diagnostic Medical Sonographers,5120,4.6,0.412,0.83,34.69,72160,0.6
+Texas,Nuclear Medicine Technologists,1180,14,0.095,0.77,37.46,77920,1.4
+Texas,Radiologic Technologists and Technicians,16480,3.6,1.326,0.94,29.35,61050,0.9
+Texas,Magnetic Resonance Imaging Technologists,2540,8.3,0.205,0.79,35.37,73570,1.2
+Texas,Emergency Medical Technicians and Paramedics,19380,5.6,1.559,0.88,17.79,37000,2
+Texas,Dietetic Technicians,2070,11.6,0.167,0.84,14.16,29450,2.5
+Texas,Pharmacy Technicians,38550,3.8,3.101,1.09,17.13,35620,0.8
+Texas,Psychiatric Technicians,4430,9.4,0.356,0.67,16.37,34060,1.2
+Texas,Surgical Technologists,10220,3.4,0.822,1.11,23.65,49190,1.3
+Texas,Veterinary Technologists and Technicians,12280,6.1,0.987,1.31,15.72,32700,2.1
+Texas,Ophthalmic Medical Technicians,6220,9.6,0.501,1.25,16.09,33470,1.6
+Texas,Licensed Practical and Licensed Vocational Nurses,70290,2.8,5.654,1.19,22.77,47370,0.6
+Texas,"Opticians, Dispensing",6390,11.8,0.514,1.04,17.11,35590,2.1
+Texas,Orthotists and Prosthetists,**,**,**,**,33.48,69640,5.8
+Texas,Hearing Aid Specialists,650,30.1,0.052,0.93,26.45,55020,7.9
+Texas,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",28940,3.3,2.328,1.03,21.04,43760,1.1
+Texas,Athletic Trainers,2430,10.5,0.195,1,*,60830,2
+Texas,Genetic Counselors,150,18.2,0.012,0.72,41.38,86070,2.3
+Texas,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,26.01,54100,3.9
+Texas,Healthcare Support Occupations,543430,1.2,43.715,0.98,12.85,26730,0.8
+Texas,Home Health and Personal Care Aides,300820,1.8,24.199,1.12,10.07,20950,0.6
+Texas,Nursing Assistants,80110,2.8,6.444,0.67,13.43,27930,0.8
+Texas,Orderlies,3330,15.3,0.268,0.84,12.36,25700,1.4
+Texas,Psychiatric Aides,5170,10.4,0.416,1.11,13.26,27580,1.7
+Texas,Occupational Therapy Assistants,3900,12.3,0.314,1.02,32.25,67090,2.9
+Texas,Occupational Therapy Aides,530,23.4,0.043,0.83,13.88,28880,3.6
+Texas,Physical Therapist Assistants,7550,7.9,0.607,0.92,33.02,68680,1.7
+Texas,Physical Therapist Aides,5070,8.8,0.408,1.21,12.94,26910,1.1
+Texas,Massage Therapists,6970,13,0.56,0.77,24.9,51790,9.8
+Texas,Dental Assistants,31550,3.8,2.538,1.06,18.57,38630,1.2
+Texas,Medical Assistants,65170,3.2,5.242,1.08,15.65,32550,0.6
+Texas,Medical Equipment Preparers,3290,5.5,0.264,0.68,16.55,34430,1.1
+Texas,Medical Transcriptionists,4280,8,0.345,0.91,15.28,31790,5.5
+Texas,Pharmacy Aides,2670,15.5,0.214,0.85,13.87,28850,7.9
+Texas,Veterinary Assistants and Laboratory Animal Caretakers,6060,10.6,0.487,0.74,13.09,27230,2.1
+Texas,Phlebotomists,9490,7.2,0.763,0.87,16.21,33720,1
+Texas,"Healthcare Support Workers, All Other",7490,7.7,0.603,0.95,20.12,41850,1.6
+Texas,Protective Service Occupations,299220,1.1,24.07,1.01,22.36,46520,2
+Texas,First-Line Supervisors of Correctional Officers,4550,1.4,0.366,1.16,25.7,53450,1.4
+Texas,First-Line Supervisors of Police and Detectives,6530,1.7,0.525,0.64,42.6,88600,0.8
+Texas,First-Line Supervisors of Firefighting and Prevention Workers,3500,4.1,0.281,0.59,38.03,79110,1.4
+Texas,"Miscellaneous First-Line Supervisors, Protective Service Workers",5820,7,0.468,0.83,24.81,51600,2.2
+Texas,Firefighters,25670,2.4,2.065,0.93,26.33,54760,1.7
+Texas,Fire Inspectors and Investigators,1680,1.4,0.135,1.44,31.99,66540,3.9
+Texas,Forest Fire Inspectors and Prevention Specialists,100,29.9,0.008,0.53,31.56,65640,6.1
+Texas,Bailiffs,940,3.4,0.076,0.57,24.57,51100,2
+Texas,Correctional Officers and Jailers,47160,1.8,3.794,1.32,20.42,42470,0.9
+Texas,Detectives and Criminal Investigators,16810,0.6,1.352,1.88,38.22,79490,1
+Texas,Fish and Game Wardens,460,0.5,0.037,0.81,31.83,66210,0.7
+Texas,Parking Enforcement Workers,400,5.5,0.032,0.62,15.36,31950,1.8
+Texas,Police and Sheriff's Patrol Officers,58840,1.4,4.734,1.05,30.65,63740,1.2
+Texas,Animal Control Workers,1270,3.2,0.102,1.26,17.82,37070,0.7
+Texas,Private Detectives and Investigators,2260,24.3,0.182,0.76,27.01,56190,4.2
+Texas,Security Guards,90820,2.4,7.306,0.95,14.78,30740,1.3
+Texas,Crossing Guards and Flaggers,6100,8.8,0.49,0.85,10.98,22830,1.8
+Texas,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",12240,7.7,0.985,1,10.54,21920,1.2
+Texas,Transportation Security Screeners,3890,1.6,0.313,0.98,20.26,42140,1.8
+Texas,"School Bus Monitors and Protective Service Workers, All Other",10090,3.7,0.812,0.81,12.98,27010,1.2
+Texas,Food Preparation and Serving Related Occupations,1175750,0.6,94.58,1.03,11.47,23860,0.4
+Texas,Chefs and Head Cooks,5350,8.7,0.43,0.49,27.34,56880,1.8
+Texas,First-Line Supervisors of Food Preparation and Serving Workers,93030,2.2,7.483,1.09,18.01,37450,1.5
+Texas,"Cooks, Fast Food",38680,7.3,3.112,0.87,10.53,21900,1.3
+Texas,"Cooks, Institution and Cafeteria",30000,3.4,2.413,0.88,12.24,25450,0.8
+Texas,"Cooks, Restaurant",117010,2.9,9.413,0.99,12.55,26100,0.7
+Texas,"Cooks, Short Order",13640,12.5,1.097,1.06,10.73,22330,2
+Texas,"Cooks, All Other",1370,29.6,0.11,0.83,12.05,25070,6.3
+Texas,Food Preparation Workers,59330,5.1,4.773,0.81,11.86,24670,0.9
+Texas,Bartenders,42520,4.3,3.42,0.78,12.35,25700,1.7
+Texas,Fast Food and Counter Workers,419820,2.1,33.771,1.24,10.24,21290,0.6
+Texas,Waiters and Waitresses,219180,2,17.631,1,10.61,22070,1.3
+Texas,"Food Servers, Nonrestaurant",17680,8.7,1.422,0.75,10.88,22630,1.4
+Texas,Dining Room and Cafeteria Attendants and Bartender Helpers,45250,4.5,3.64,1.12,10,20790,0.8
+Texas,Dishwashers,34540,4.5,2.778,0.79,10.53,21900,0.8
+Texas,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",32980,3.8,2.653,0.92,10.34,21500,1
+Texas,"Food Preparation and Serving Related Workers, All Other",5370,16.3,0.432,0.88,11.54,24000,4.2
+Texas,Building and Grounds Cleaning and Maintenance Occupations,340670,1.1,27.404,0.91,13.1,27250,0.6
+Texas,First-Line Supervisors of Housekeeping and Janitorial Workers,10620,3.6,0.854,0.81,19.08,39690,1.3
+Texas,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",6580,6.8,0.53,0.75,23.69,49270,1.4
+Texas,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",168160,2,13.528,0.93,12.38,25760,0.6
+Texas,Maids and Housekeeping Cleaners,76040,3.2,6.117,0.97,10.92,22710,0.7
+Texas,"Building Cleaning Workers, All Other",**,**,**,**,14.08,29280,5.7
+Texas,Pest Control Workers,7310,5.6,0.588,1.09,21.85,45450,5.9
+Texas,Landscaping and Groundskeeping Workers,66350,3,5.337,0.86,14.18,29480,0.8
+Texas,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",930,23.2,0.075,0.43,16.75,34840,3.6
+Texas,Tree Trimmers and Pruners,2840,22.5,0.229,0.71,16.7,34730,4.3
+Texas,"Grounds Maintenance Workers, All Other",990,27.3,0.08,0.82,16.66,34650,10.3
+Texas,Personal Care and Service Occupations,219120,1.7,17.627,0.78,13.57,28220,0.8
+Texas,First-Line Supervisors of Gambling Services Workers,230,26.2,0.018,0.09,24.71,51400,10.7
+Texas,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",14050,4,1.13,0.76,20.35,42340,1.8
+Texas,Animal Trainers,1190,17.3,0.096,0.85,14.97,31140,6.2
+Texas,Animal Caretakers,16370,5.5,1.317,0.91,11.72,24390,1.3
+Texas,Gambling Dealers,240,39.9,0.019,0.03,12.39,25770,7.8
+Texas,Gambling and Sports Book Writers and Runners,770,17.7,0.062,0.91,13.4,27870,5.4
+Texas,"Gambling Service Workers, All Other",1060,14.1,0.085,1.19,16.05,33390,8
+Texas,Motion Picture Projectionists,390,33.5,0.032,1.02,14.57,30310,6.4
+Texas,"Ushers, Lobby Attendants, and Ticket Takers",10020,8.7,0.806,0.86,11.61,24140,2.2
+Texas,Amusement and Recreation Attendants,18570,7.5,1.494,0.65,10.76,22380,1
+Texas,Costume Attendants,130,30.5,0.011,0.21,17.22,35810,3.8
+Texas,"Locker Room, Coatroom, and Dressing Room Attendants",490,16.2,0.04,0.37,13.97,29060,5.3
+Texas,"Entertainment Attendants and Related Workers, All Other",280,36.4,0.022,0.73,23.23,48320,14.4
+Texas,Embalmers,460,35.4,0.037,1.4,22.25,46290,6.4
+Texas,Funeral Attendants,2280,8.9,0.183,0.78,12.88,26790,3.6
+Texas,"Morticians, Undertakers, and Funeral Arrangers",2030,12.9,0.163,0.94,26.3,54690,4.3
+Texas,Barbers,3450,23.3,0.278,2.04,16.43,34170,7.9
+Texas,"Hairdressers, Hairstylists, and Cosmetologists",31150,5.9,2.506,0.95,12.99,27030,2.4
+Texas,"Makeup Artists, Theatrical and Performance",50,41.2,0.004,0.16,24.13,50190,14.2
+Texas,Manicurists and Pedicurists,1890,23,0.152,0.2,13.24,27550,4.8
+Texas,Shampooers,740,26.8,0.059,0.72,10.64,22120,7.6
+Texas,Skincare Specialists,4720,14.4,0.379,0.98,17.87,37180,8.6
+Texas,Baggage Porters and Bellhops,1730,11.5,0.139,0.51,11.77,24490,1.9
+Texas,Concierges,2680,13.9,0.215,0.76,14.87,30920,1.8
+Texas,Tour and Travel Guides,2210,18.6,0.178,0.54,13.3,27670,3
+Texas,Childcare Workers,51120,3.8,4.112,1.08,11.11,23100,1.4
+Texas,Exercise Trainers and Group Fitness Instructors,21690,4.4,1.745,0.79,19.02,39560,2.6
+Texas,Recreation Workers,21500,4.2,1.729,0.71,12.24,25460,1.2
+Texas,Residential Advisors,6010,7.7,0.483,0.66,13.46,27990,2.1
+Texas,"Crematory Operators and Personal Care and Service Workers, All Other",1620,22,0.131,0.31,10.89,22660,2.4
+Texas,Sales and Related Occupations,1262690,0.7,101.574,1.04,20.2,42030,0.7
+Texas,First-Line Supervisors of Retail Sales Workers,103010,1.8,8.286,1.04,21.78,45290,0.8
+Texas,First-Line Supervisors of Non-Retail Sales Workers,24030,2.9,1.933,1.14,40.02,83250,1.3
+Texas,Cashiers,284770,2.3,22.908,0.94,11.02,22930,0.4
+Texas,Gambling Change Persons and Booth Cashiers,110,28.9,0.009,0.06,16.6,34530,5.9
+Texas,Counter and Rental Clerks,43110,4,3.468,1.24,15.72,32700,1.2
+Texas,Parts Salespersons,24090,5,1.938,1.11,15.53,32310,1.8
+Texas,Retail Salespersons,383920,1.6,30.883,1.05,13.29,27640,1
+Texas,Advertising Sales Agents,7830,6,0.63,0.71,28.5,59280,3.6
+Texas,Insurance Sales Agents,33290,4.8,2.678,0.96,33.05,68740,3.6
+Texas,"Securities, Commodities, and Financial Services Sales Agents",39630,4.1,3.188,1.07,38.74,80580,2.9
+Texas,Travel Agents,3900,10,0.314,0.69,20.03,41660,3.2
+Texas,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",105020,2.3,8.448,1.19,29.44,61230,1.3
+Texas,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",28850,10.4,2.321,1.11,44.83,93250,1.8
+Texas,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",119170,2.2,9.587,1.05,33.15,68950,0.9
+Texas,Demonstrators and Product Promoters,7430,10.8,0.597,1.13,15.13,31470,2.8
+Texas,Models,30,11.2,0.003,0.17,16.91,35180,4.7
+Texas,Real Estate Brokers,1820,20.7,0.146,0.5,45.74,95150,15.3
+Texas,Real Estate Sales Agents,16380,6.9,1.318,1.19,35.02,72830,2.8
+Texas,Sales Engineers,9120,17.7,0.734,1.7,58.7,122090,2.7
+Texas,Telemarketers,12550,11.4,1.01,1.1,15.27,31770,4
+Texas,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",1550,19.9,0.125,2.05,19.22,39990,7
+Texas,"Sales and Related Workers, All Other",13070,4.8,1.051,1.3,16.26,33820,2.9
+Texas,Office and Administrative Support Occupations,1820280,0.7,146.428,1.1,18.66,38810,0.2
+Texas,First-Line Supervisors of Office and Administrative Support Workers,121920,1.3,9.808,0.97,28.03,58310,0.4
+Texas,"Switchboard Operators, Including Answering Service",5380,12.1,0.433,0.93,13.44,27950,2.2
+Texas,Telephone Operators,270,31.5,0.021,0.66,13.95,29030,6.2
+Texas,"Communications Equipment Operators, All Other",**,**,**,**,22.29,46360,8.2
+Texas,Bill and Account Collectors,29610,6,2.382,1.48,17.31,36010,0.9
+Texas,Billing and Posting Clerks,45260,3.5,3.641,1.15,18.55,38590,0.6
+Texas,"Bookkeeping, Accounting, and Auditing Clerks",131870,1.7,10.608,1.03,20.16,41920,0.5
+Texas,Payroll and Timekeeping Clerks,13270,5,1.068,1.1,21.82,45370,1.5
+Texas,Procurement Clerks,6140,3.9,0.494,1.1,21.17,44030,1.2
+Texas,Tellers,42850,4.5,3.447,1.15,14.46,30080,0.8
+Texas,"Financial Clerks, All Other",3180,20.8,0.256,1.23,20.27,42150,8.8
+Texas,Brokerage Clerks,4280,10.5,0.344,1.05,25.62,53300,1.9
+Texas,Correspondence Clerks,800,22.8,0.064,1.51,18.47,38410,3.5
+Texas,"Court, Municipal, and License Clerks",12520,2.6,1.007,0.96,18.22,37900,0.8
+Texas,"Credit Authorizers, Checkers, and Clerks",2730,11.2,0.22,1.21,20.46,42550,2
+Texas,Customer Service Representatives,291550,2.1,23.453,1.18,16.5,34320,0.6
+Texas,"Eligibility Interviewers, Government Programs",11580,10.4,0.932,0.98,19.28,40110,2.1
+Texas,File Clerks,10880,6.1,0.875,1.26,15.95,33170,1.4
+Texas,"Hotel, Motel, and Resort Desk Clerks",24790,3.5,1.994,1.09,11.15,23200,1
+Texas,"Interviewers, Except Eligibility and Loan",11190,9.1,0.9,0.7,16.02,33320,1.2
+Texas,"Library Assistants, Clerical",4830,3,0.388,0.66,12.99,27010,1.2
+Texas,Loan Interviewers and Clerks,23360,6.3,1.879,1.32,20.64,42930,1.1
+Texas,New Accounts Clerks,6530,8.1,0.525,1.78,17.03,35410,1.7
+Texas,Order Clerks,13260,6.6,1.066,1.14,16.74,34820,1.2
+Texas,"Human Resources Assistants, Except Payroll and Timekeeping",11590,3.7,0.932,1.17,19.77,41110,0.7
+Texas,Receptionists and Information Clerks,71890,2.6,5.783,0.8,13.68,28460,0.5
+Texas,Reservation and Transportation Ticket Agents and Travel Clerks,18490,14.1,1.487,1.77,24.47,50900,2.4
+Texas,"Information and Record Clerks, All Other",16770,2.3,1.349,1.29,17.54,36480,2
+Texas,Cargo and Freight Agents,8500,9.9,0.684,1.05,21.12,43930,2.7
+Texas,Couriers and Messengers,6190,8.3,0.498,0.98,13.25,27560,1.8
+Texas,Public Safety Telecommunicators,7430,2.2,0.598,0.92,19.06,39640,0.7
+Texas,"Dispatchers, Except Police, Fire, and Ambulance",22900,8.1,1.842,1.36,20.21,42040,2.1
+Texas,"Meter Readers, Utilities",2490,9.9,0.2,0.97,16.88,35110,1.7
+Texas,Postal Service Clerks,5120,0,0.412,0.74,24.47,50890,0.6
+Texas,Postal Service Mail Carriers,26050,0,2.095,0.91,24.88,51760,0.9
+Texas,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",6290,0,0.506,0.73,25.21,52440,1.5
+Texas,"Production, Planning, and Expediting Clerks",35220,2.7,2.833,1.12,23.8,49510,0.8
+Texas,"Shipping, Receiving, and Inventory Clerks",68970,2.6,5.548,1.16,16.69,34710,0.7
+Texas,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",4770,9.2,0.384,0.93,17.21,35790,1.5
+Texas,Executive Secretaries and Executive Administrative Assistants,40110,1.8,3.227,0.87,28.54,59370,0.6
+Texas,Legal Secretaries and Administrative Assistants,12070,7.3,0.971,0.85,22.37,46530,2.4
+Texas,Medical Secretaries and Administrative Assistants,82490,2.3,6.636,1.61,16.68,34690,0.7
+Texas,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",168070,1.3,13.52,0.97,17.38,36160,0.5
+Texas,Data Entry Keyers,19300,5.1,1.552,1.43,15.41,32040,0.8
+Texas,Word Processors and Typists,1650,23.5,0.133,0.41,18.27,38000,4
+Texas,Desktop Publishers,880,16.8,0.071,1.19,22.43,46650,4.6
+Texas,Insurance Claims and Policy Processing Clerks,29610,9.6,2.382,1.36,19.66,40900,0.8
+Texas,"Mail Clerks and Mail Machine Operators, Except Postal Service",8260,16.1,0.664,1.17,14.51,30170,2.2
+Texas,"Office Clerks, General",313750,1.3,25.239,1.25,17.66,36720,0.5
+Texas,"Office Machine Operators, Except Computer",4650,9.5,0.374,1.2,16.01,33290,1.8
+Texas,Proofreaders and Copy Markers,480,44.1,0.039,0.74,*,*,*
+Texas,Statistical Assistants,380,15.9,0.031,0.46,26.71,55560,1.7
+Texas,"Office and Administrative Support Workers, All Other",7690,4.6,0.619,0.48,18,37440,1.6
+Texas,"Farming, Fishing, and Forestry Occupations",23800,8,1.915,0.58,14.4,29950,2.3
+Texas,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",1200,16.5,0.097,0.63,24.66,51290,4.1
+Texas,Agricultural Inspectors,890,43.1,0.071,0.76,28.08,58400,5
+Texas,Animal Breeders,80,16.3,0.007,0.61,18.64,38760,9.3
+Texas,"Graders and Sorters, Agricultural Products",4610,18.8,0.371,1.59,12.04,25030,2.3
+Texas,Agricultural Equipment Operators,2720,10.8,0.219,1.19,12.8,26620,4.5
+Texas,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",4500,21.4,0.362,0.18,11.61,24150,2.1
+Texas,"Farmworkers, Farm, Ranch, and Aquacultural Animals",5940,12.2,0.478,1.92,13.68,28450,3.5
+Texas,"Agricultural Workers, All Other",980,40.7,0.079,1.77,12.52,26050,9.6
+Texas,Forest and Conservation Workers,170,40.7,0.014,0.3,17.03,35410,6.4
+Texas,Fallers,260,41.6,0.021,0.63,22.71,47240,9.3
+Texas,Logging Equipment Operators,890,20.3,0.071,0.4,19.64,40850,3.4
+Texas,Log Graders and Scalers,70,40.8,0.005,0.24,15.27,31750,4.2
+Texas,"Logging Workers, All Other",**,**,**,**,10.46,21760,20.6
+Texas,Construction and Extraction Occupations,656840,1,52.838,1.25,21.83,45410,0.4
+Texas,First-Line Supervisors of Construction Trades and Extraction Workers,75570,2.1,6.079,1.43,32.78,68170,0.6
+Texas,Boilermakers,4590,21.8,0.369,3.43,28.41,59090,1.7
+Texas,Brickmasons and Blockmasons,4250,8.4,0.342,0.83,23.42,48710,1.7
+Texas,Stonemasons,840,35.9,0.067,0.8,18.17,37800,6.1
+Texas,Carpenters,41230,4.3,3.317,0.66,19.84,41270,0.7
+Texas,Carpet Installers,1440,32.4,0.116,0.65,18.06,37560,10.1
+Texas,"Floor Layers, Except Carpet, Wood, and Hard Tiles",170,21.8,0.014,0.12,18.42,38310,4.2
+Texas,Floor Sanders and Finishers,**,**,**,**,21.3,44310,3.3
+Texas,Tile and Stone Setters,2920,14.7,0.235,0.85,16.46,34230,3.4
+Texas,Cement Masons and Concrete Finishers,21550,6.2,1.733,1.3,18.45,38380,0.9
+Texas,Terrazzo Workers and Finishers,**,**,**,**,17.17,35710,4.6
+Texas,Construction Laborers,112370,2.8,9.039,1.3,16.32,33940,0.7
+Texas,"Paving, Surfacing, and Tamping Equipment Operators",4660,7.6,0.375,1.2,19.04,39610,1.4
+Texas,Pile Driver Operators,460,23.3,0.037,1.54,31.62,65770,4.8
+Texas,Operating Engineers and Other Construction Equipment Operators,46290,3.6,3.724,1.35,21.07,43820,0.7
+Texas,Drywall and Ceiling Tile Installers,6880,12.3,0.553,0.79,18.98,39480,2.9
+Texas,Electricians,63750,3.7,5.128,1.09,25.11,52230,0.9
+Texas,Glaziers,5300,12.4,0.426,1.2,17.26,35900,1.9
+Texas,"Insulation Workers, Floor, Ceiling, and Wall",4730,14.6,0.38,1.67,20.78,43220,3
+Texas,"Insulation Workers, Mechanical",4230,13.2,0.34,1.87,22.39,46570,3.2
+Texas,"Painters, Construction and Maintenance",20350,7.3,1.637,1.03,17.75,36910,1.3
+Texas,Paperhangers,40,25.3,0.003,0.12,22.72,47250,14.2
+Texas,Pipelayers,4450,13.4,0.358,1.45,17.08,35520,1.4
+Texas,"Plumbers, Pipefitters, and Steamfitters",43240,4.1,3.478,1.15,24.19,50320,1.2
+Texas,Plasterers and Stucco Masons,2110,21.1,0.169,0.91,22.31,46400,3.6
+Texas,Reinforcing Iron and Rebar Workers,3870,13.7,0.311,2.42,24.5,50960,2.4
+Texas,Roofers,7400,10.2,0.596,0.67,17.15,35670,1.6
+Texas,Sheet Metal Workers,10130,8.5,0.815,0.91,21.11,43910,1.5
+Texas,Structural Iron and Steel Workers,9290,8.4,0.747,1.43,22.15,46080,1.7
+Texas,Solar Photovoltaic Installers,**,**,**,**,25.82,53700,5.5
+Texas,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",1900,18.4,0.153,0.95,16.53,34380,2.6
+Texas,Helpers--Carpenters,2900,8.8,0.233,1.04,17.2,35770,2.1
+Texas,Helpers--Electricians,11500,8.9,0.925,1.71,16.33,33960,1.4
+Texas,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",1640,17.8,0.132,1.79,14.74,30660,4
+Texas,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",11780,11.5,0.948,2.38,16.39,34080,2.5
+Texas,Helpers--Roofers,800,31.5,0.065,1.06,14.19,29520,5.1
+Texas,"Helpers, Construction Trades, All Other",5360,9.8,0.431,2.22,16.1,33490,1.5
+Texas,Construction and Building Inspectors,11210,5,0.901,1.2,30.07,62540,2
+Texas,Elevator and Escalator Installers and Repairers,2650,12,0.213,1.1,36.94,76830,1.9
+Texas,Fence Erectors,2540,21.2,0.204,1.16,15.84,32940,3.4
+Texas,Hazardous Materials Removal Workers,3720,12,0.299,0.99,19.01,39530,2.5
+Texas,Highway Maintenance Workers,6750,4.6,0.543,0.53,16.94,35220,1.1
+Texas,Rail-Track Laying and Maintenance Equipment Operators,970,13.9,0.078,0.71,26.39,54890,4.5
+Texas,Septic Tank Servicers and Sewer Pipe Cleaners,1690,17.2,0.136,0.67,16.67,34680,2.8
+Texas,Miscellaneous Construction and Related Workers,1930,16,0.156,0.71,19.3,40140,3.3
+Texas,"Derrick Operators, Oil and Gas",6150,11.1,0.495,6,21.95,45660,1.8
+Texas,"Rotary Drill Operators, Oil and Gas",8220,10.7,0.661,4.62,27.51,57220,1.9
+Texas,"Service Unit Operators, Oil and Gas",23210,5.6,1.867,5.3,24.1,50120,2.2
+Texas,"Excavating and Loading Machine and Dragline Operators, Surface Mining",7660,7.2,0.616,2.05,19.68,40940,1
+Texas,Continuous Mining Machine Operators,310,26.8,0.025,0.25,19.18,39900,5.4
+Texas,"Loading and Moving Machine Operators, Underground Mining",160,22,0.013,0.45,18.47,38410,3.8
+Texas,"Rock Splitters, Quarry",240,30.2,0.02,0.57,16.51,34340,11.7
+Texas,"Roustabouts, Oil and Gas",27860,6.1,2.241,5.58,19.4,40340,1.5
+Texas,Helpers--Extraction Workers,7040,9.7,0.567,4.98,17.27,35920,1.4
+Texas,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",3190,12.9,0.257,1.51,20.16,41930,2.9
+Texas,"Installation, Maintenance, and Repair Occupations",530380,1,42.665,1.1,23.14,48130,0.4
+Texas,"First-Line Supervisors of Mechanics, Installers, and Repairers",42220,1.8,3.397,1.03,33.27,69190,0.7
+Texas,"Computer, Automated Teller, and Office Machine Repairers",9490,7.6,0.764,1.14,18.09,37630,1.5
+Texas,"Radio, Cellular, and Tower Equipment Installers and Repairers",1850,14.6,0.149,1.52,24.68,51340,4.2
+Texas,"Telecommunications Equipment Installers and Repairers, Except Line Installers",20450,8.9,1.645,1.16,26.45,55010,1.5
+Texas,Avionics Technicians,2970,49,0.239,1.62,30.82,64110,3.4
+Texas,"Electric Motor, Power Tool, and Related Repairers",1450,19.1,0.116,1.07,20.33,42290,2.7
+Texas,"Electrical and Electronics Installers and Repairers, Transportation Equipment",810,23.1,0.065,0.97,28.76,59830,2.6
+Texas,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",6280,9.7,0.505,1.26,28.15,58560,1.2
+Texas,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1920,19.1,0.154,1,32.48,67560,2
+Texas,"Electronic Equipment Installers and Repairers, Motor Vehicles",1320,30.5,0.106,1.51,18.7,38900,2.8
+Texas,Audiovisual Equipment Installers and Repairers,2880,14.2,0.232,1.33,17.41,36210,4.9
+Texas,Security and Fire Alarm Systems Installers,8610,8,0.692,1.42,22.41,46610,1
+Texas,Aircraft Mechanics and Service Technicians,16480,5.9,1.325,1.46,32.15,66870,3.4
+Texas,Automotive Body and Related Repairers,11000,6.3,0.885,0.9,21.98,45720,2.1
+Texas,Automotive Glass Installers and Repairers,1820,21.3,0.146,1.11,17.77,36960,3
+Texas,Automotive Service Technicians and Mechanics,51010,2.4,4.104,0.92,22.08,45920,1
+Texas,Bus and Truck Mechanics and Diesel Engine Specialists,26430,4,2.126,1.17,23.73,49350,0.9
+Texas,Farm Equipment Mechanics and Service Technicians,2460,9.1,0.198,0.8,21.03,43750,2.2
+Texas,"Mobile Heavy Equipment Mechanics, Except Engines",18730,4.9,1.507,1.5,24.74,51460,0.9
+Texas,Rail Car Repairers,2660,21.8,0.214,1.21,25.5,53040,5.8
+Texas,Motorboat Mechanics and Service Technicians,1280,14,0.103,0.66,23.28,48420,3.5
+Texas,Motorcycle Mechanics,880,12.8,0.071,0.67,19.47,40500,3.2
+Texas,Outdoor Power Equipment and Other Small Engine Mechanics,2420,13.8,0.195,0.89,18.31,38090,3.9
+Texas,Bicycle Repairers,**,**,**,**,12.53,26060,9.2
+Texas,Recreational Vehicle Service Technicians,1520,23.8,0.122,1.15,20.18,41980,3.2
+Texas,Tire Repairers and Changers,14430,8.1,1.161,1.54,13.65,28390,1.2
+Texas,Mechanical Door Repairers,2500,20.4,0.201,1.28,19.09,39710,3.1
+Texas,"Control and Valve Installers and Repairers, Except Mechanical Door",9830,10.9,0.791,2.22,21.12,43930,2.8
+Texas,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",26690,5.3,2.147,0.92,22.52,46840,1.2
+Texas,Home Appliance Repairers,2210,19.6,0.178,0.84,21.1,43890,2.8
+Texas,Industrial Machinery Mechanics,41370,4.5,3.328,1.26,27.29,56770,1.1
+Texas,"Maintenance Workers, Machinery",6860,5.1,0.552,1.11,22,45760,1.3
+Texas,Millwrights,4520,18.8,0.364,1.13,25.33,52690,3.1
+Texas,"Refractory Materials Repairers, Except Brickmasons",180,31.8,0.014,2.59,27.26,56690,2.4
+Texas,Electrical Power-Line Installers and Repairers,10600,5.9,0.852,1.12,28.16,58570,1.7
+Texas,Telecommunications Line Installers and Repairers,14790,9.4,1.19,1.45,26.48,55080,3.2
+Texas,Camera and Photographic Equipment Repairers,**,**,**,**,21.62,44960,7.1
+Texas,Medical Equipment Repairers,3880,10.2,0.312,0.99,23.96,49830,2.4
+Texas,Musical Instrument Repairers and Tuners,580,28,0.047,0.85,20.03,41670,5.4
+Texas,Watch and Clock Repairers,180,41,0.015,0.77,18.37,38220,5.9
+Texas,"Precision Instrument and Equipment Repairers, All Other",900,12.1,0.072,1,26.46,55050,2.8
+Texas,"Maintenance and Repair Workers, General",115850,1.7,9.32,0.96,18.7,38890,0.6
+Texas,Wind Turbine Service Technicians,1600,30,0.129,3.18,25.57,53180,3
+Texas,"Coin, Vending, and Amusement Machine Servicers and Repairers",1880,12.2,0.151,0.71,15.58,32420,3.8
+Texas,Commercial Divers,250,29.1,0.02,0.87,28.63,59560,9
+Texas,Locksmiths and Safe Repairers,1170,22.3,0.094,0.81,19.64,40850,4
+Texas,Manufactured Building and Mobile Home Installers,330,40.7,0.026,1.37,15.82,32900,6.1
+Texas,Riggers,3920,13.9,0.316,2.01,23.83,49570,2.5
+Texas,Signal and Track Switch Repairers,520,8.7,0.042,0.9,33.87,70450,4.2
+Texas,"Helpers--Installation, Maintenance, and Repair Workers",15170,5.1,1.22,1.8,15.11,31430,1.1
+Texas,"Installation, Maintenance, and Repair Workers, All Other",12600,8.2,1.013,0.92,20.18,41970,1.9
+Texas,Production Occupations,705670,1.2,56.766,0.91,19.27,40090,0.7
+Texas,First-Line Supervisors of Production and Operating Workers,50230,1.9,4.041,0.94,33.03,68700,1
+Texas,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",3060,19.6,0.246,0.84,27.69,57600,6.8
+Texas,"Coil Winders, Tapers, and Finishers",1050,21.2,0.084,0.98,18.85,39220,3.4
+Texas,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",22840,6.2,1.837,0.95,18.04,37520,2.2
+Texas,Engine and Other Machine Assemblers,1900,17.2,0.153,0.49,19.76,41100,3.3
+Texas,Structural Metal Fabricators and Fitters,9970,8.4,0.802,1.53,20.37,42360,1.9
+Texas,Fiberglass Laminators and Fabricators,1030,27.6,0.083,0.61,21.17,44040,9.7
+Texas,Miscellaneous Assemblers and Fabricators,81750,5.2,6.577,0.7,15.26,31750,3.7
+Texas,Bakers,15850,9.1,1.275,1.01,12.42,25830,1.2
+Texas,Butchers and Meat Cutters,13470,6.1,1.083,1.16,13.96,29050,3.2
+Texas,"Meat, Poultry, and Fish Cutters and Trimmers",5640,12.9,0.454,0.43,13.83,28770,3.9
+Texas,Slaughterers and Meat Packers,6020,13.1,0.484,0.97,14.15,29430,2.9
+Texas,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1740,14.7,0.14,0.99,12.31,25590,2.4
+Texas,Food Batchmakers,10390,7.7,0.836,0.77,14.23,29590,1.7
+Texas,Food Cooking Machine Operators and Tenders,2440,20.4,0.196,0.96,13.66,28420,2.2
+Texas,"Food Processing Workers, All Other",3560,11.8,0.286,0.98,13.5,28080,1.3
+Texas,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",5880,12.6,0.473,0.9,17.82,37070,2.8
+Texas,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",810,13.2,0.065,0.59,18.85,39220,1.9
+Texas,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1730,14.4,0.139,0.63,17.29,35960,1.8
+Texas,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",14970,7.1,1.204,0.91,15.88,33030,1
+Texas,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1150,20.9,0.093,1.25,23.87,49640,3.4
+Texas,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",4110,8.7,0.33,0.63,16.11,33510,3.4
+Texas,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2620,14,0.211,1.1,19.16,39850,2.9
+Texas,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",1820,18,0.147,1.15,19.79,41160,3.5
+Texas,Machinists,28590,4.2,2.3,0.88,22.32,46420,1.6
+Texas,Metal-Refining Furnace Operators and Tenders,740,17.4,0.06,0.51,18.55,38590,3
+Texas,"Pourers and Casters, Metal",300,33.2,0.024,0.44,*,*,*
+Texas,"Model Makers, Metal and Plastic",200,27.5,0.016,0.55,28.84,59980,4.6
+Texas,"Patternmakers, Metal and Plastic",160,27.9,0.013,0.64,19.04,39600,6.8
+Texas,Foundry Mold and Coremakers,580,16.9,0.046,0.39,14.27,29690,3.4
+Texas,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",8880,8,0.715,0.61,14.38,29900,1.9
+Texas,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",12000,8.4,0.965,0.96,16.26,33830,1.8
+Texas,Tool and Die Makers,2460,6.6,0.198,0.41,23.29,48450,2.8
+Texas,"Welders, Cutters, Solderers, and Brazers",50790,3,4.086,1.46,22.57,46940,0.8
+Texas,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",2480,9.6,0.2,0.83,17.83,37100,1.9
+Texas,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1790,18.4,0.144,1.08,17.77,36960,3.1
+Texas,"Layout Workers, Metal and Plastic",330,19.6,0.026,0.47,19.53,40630,2.3
+Texas,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",3680,15.7,0.296,1.04,16.13,33540,2.7
+Texas,"Tool Grinders, Filers, and Sharpeners",350,24.4,0.028,0.65,19.4,40350,4.7
+Texas,"Metal Workers and Plastic Workers, All Other",1740,18.2,0.14,0.84,19.35,40240,4.9
+Texas,Prepress Technicians and Workers,1960,13.5,0.158,0.77,18.15,37750,4
+Texas,Printing Press Operators,10600,6.4,0.853,0.72,19.57,40710,3.1
+Texas,Print Binding and Finishing Workers,2960,12.5,0.238,0.77,15.55,32350,3.7
+Texas,Laundry and Dry-Cleaning Workers,14590,5,1.173,0.82,11.6,24130,1.3
+Texas,"Pressers, Textile, Garment, and Related Materials",4860,9.5,0.391,1.51,10.53,21910,1.3
+Texas,Sewing Machine Operators,10240,6.9,0.823,0.91,11.59,24100,1.9
+Texas,Shoe and Leather Workers and Repairers,1390,16.9,0.112,1.88,13.94,28990,2.4
+Texas,Shoe Machine Operators and Tenders,830,46,0.067,1.95,15.4,32040,7.5
+Texas,"Sewers, Hand",290,24.8,0.023,0.72,14.59,30350,4.8
+Texas,"Tailors, Dressmakers, and Custom Sewers",2280,18.5,0.183,1.12,14.86,30910,4.5
+Texas,Textile Bleaching and Dyeing Machine Operators and Tenders,80,35.1,0.006,0.11,11.27,23450,9.8
+Texas,"Textile Cutting Machine Setters, Operators, and Tenders",750,12.9,0.06,0.67,12.03,25030,3.5
+Texas,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",270,32.5,0.022,0.15,15.04,31290,4.9
+Texas,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",90,16.3,0.007,0.03,12.17,25310,6.4
+Texas,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",1000,23.3,0.081,0.65,16.46,34230,3.5
+Texas,Fabric and Apparel Patternmakers,**,**,**,**,26.93,56010,5.5
+Texas,Upholsterers,1910,14.5,0.154,0.77,15.53,32300,2.6
+Texas,"Textile, Apparel, and Furnishings Workers, All Other",790,15.1,0.064,0.52,13.06,27170,4.8
+Texas,Cabinetmakers and Bench Carpenters,8900,8.8,0.716,1.06,15.31,31840,1.9
+Texas,Furniture Finishers,1160,27.4,0.093,0.84,14.69,30550,3.1
+Texas,"Sawing Machine Setters, Operators, and Tenders, Wood",3980,12.7,0.32,0.93,12.35,25700,2.6
+Texas,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",4150,13,0.334,0.62,12.69,26380,2
+Texas,"Woodworkers, All Other",620,18.9,0.05,1.09,18.7,38900,2.7
+Texas,Power Distributors and Dispatchers,900,10.8,0.072,0.99,36.49,75900,2.3
+Texas,Power Plant Operators,2930,10.9,0.236,1.03,36.51,75930,2
+Texas,Stationary Engineers and Boiler Operators,1900,14.3,0.153,0.69,26.28,54670,7.8
+Texas,Water and Wastewater Treatment Plant and System Operators,10880,4,0.875,1.04,19.41,40370,1.1
+Texas,Chemical Plant and System Operators,5740,16.4,0.462,2.35,33.84,70390,2.4
+Texas,Gas Plant Operators,3670,12.9,0.295,3.01,32.93,68490,2.6
+Texas,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",11170,9.7,0.899,3.27,37.14,77260,1.7
+Texas,"Plant and System Operators, All Other",1290,14.8,0.103,1.17,24.76,51510,3.4
+Texas,Chemical Equipment Operators and Tenders,14480,7.7,1.165,1.96,28.88,60080,2.4
+Texas,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",3480,15.5,0.28,0.8,21.74,45210,5.7
+Texas,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",2590,11.4,0.208,0.92,17.43,36260,2.1
+Texas,"Grinding and Polishing Workers, Hand",2440,24.9,0.196,0.99,15.04,31290,3.3
+Texas,"Mixing and Blending Machine Setters, Operators, and Tenders",7370,6,0.593,0.69,17.06,35480,1.4
+Texas,"Cutters and Trimmers, Hand",490,17.8,0.04,0.6,13.58,28250,3
+Texas,"Cutting and Slicing Machine Setters, Operators, and Tenders",3310,9.5,0.266,0.67,16.16,33620,1.5
+Texas,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",5440,9.5,0.437,0.89,15.09,31390,1.9
+Texas,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",840,14.1,0.068,0.52,19.16,39860,2.5
+Texas,"Inspectors, Testers, Sorters, Samplers, and Weighers",52250,3.7,4.203,1.07,20.96,43590,1.4
+Texas,Jewelers and Precious Stone and Metal Workers,1930,14.1,0.155,0.97,20.25,42110,3.3
+Texas,Dental Laboratory Technicians,2220,11.1,0.179,0.76,21.59,44910,3.3
+Texas,Medical Appliance Technicians,750,13.2,0.06,0.63,19.29,40130,3.5
+Texas,Ophthalmic Laboratory Technicians,2940,12.7,0.236,1.19,15.15,31520,2.8
+Texas,Packaging and Filling Machine Operators and Tenders,22970,4.5,1.848,0.69,14.82,30820,1.4
+Texas,"Painting, Coating, and Decorating Workers",940,12.8,0.075,0.89,17.39,36160,3.6
+Texas,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",13910,4.9,1.119,1.12,19.93,41450,1.9
+Texas,Semiconductor Processing Technicians,4090,21,0.329,1.75,17.25,35880,2.3
+Texas,Photographic Process Workers and Processing Machine Operators,700,19.9,0.056,0.69,14.35,29840,3.1
+Texas,Computer Numerically Controlled Tool Operators,9900,8.6,0.797,0.77,19.94,41470,2.1
+Texas,Computer Numerically Controlled Tool Programmers,2090,10,0.168,0.97,30.16,62730,1.9
+Texas,Adhesive Bonding Machine Operators and Tenders,610,14,0.049,0.52,17.55,36510,3.4
+Texas,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",1810,14.5,0.146,1.3,14.26,29670,2.9
+Texas,Cooling and Freezing Equipment Operators and Tenders,600,18.6,0.048,0.81,18.26,37980,6.5
+Texas,Etchers and Engravers,1300,24.2,0.104,1.49,14.83,30850,7.3
+Texas,"Molders, Shapers, and Casters, Except Metal and Plastic",3530,12.8,0.284,0.93,15.45,32140,2
+Texas,"Paper Goods Machine Setters, Operators, and Tenders",5720,11.3,0.46,0.67,16.52,34370,4.2
+Texas,Tire Builders,**,**,**,**,15.13,31470,4.7
+Texas,Helpers--Production Workers,33760,8.1,2.716,1.32,14.32,29780,1.3
+Texas,"Production Workers, All Other",11210,8.9,0.902,0.6,15.41,32060,1.5
+Texas,Transportation and Material Moving Occupations,1049310,0.9,84.409,0.99,18.46,38400,1.4
+Texas,Aircraft Cargo Handling Supervisors,1080,7.7,0.087,1.34,30.36,63150,4
+Texas,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",40170,2.1,3.231,1.04,27.59,57380,0.6
+Texas,"Airline Pilots, Copilots, and Flight Engineers",**,**,**,**,*,183000,10.2
+Texas,Commercial Pilots,4380,7.9,0.352,1.37,*,108210,4.9
+Texas,Air Traffic Controllers,1890,0.9,0.152,1.01,63.8,132700,1.7
+Texas,Airfield Operations Specialists,1300,12.7,0.105,1.44,32.27,67130,11.3
+Texas,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",850,24,0.069,0.68,12.64,26280,3.8
+Texas,Driver/Sales Workers,44690,7.6,3.595,1.19,13.53,28150,2.1
+Texas,Heavy and Tractor-Trailer Truck Drivers,199500,2.1,16.048,1.27,22.09,45940,0.7
+Texas,Light Truck Drivers,67250,3.2,5.41,0.86,18.96,39440,1.6
+Texas,"Bus Drivers, Transit and Intercity",10620,5,0.854,0.7,19.44,40430,2.4
+Texas,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",46180,2.5,3.715,0.78,13.25,27570,1.3
+Texas,"Motor Vehicle Operators, All Other",2630,15,0.212,0.55,14.79,30750,2.6
+Texas,Locomotive Engineers,1760,43.2,0.141,0.59,34.56,71880,4.9
+Texas,"Rail Yard Engineers, Dinkey Operators, and Hostlers",560,44.8,0.045,1.23,25.43,52890,8.5
+Texas,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",**,**,**,**,29.53,61410,5.6
+Texas,Railroad Conductors and Yardmasters,3890,13.9,0.313,1.01,34.8,72380,2.8
+Texas,Subway and Streetcar Operators,**,**,**,**,24.12,50170,5.9
+Texas,Sailors and Marine Oilers,2570,28.6,0.207,0.97,20.93,43540,4.1
+Texas,"Captains, Mates, and Pilots of Water Vessels",2520,18.7,0.203,0.89,38.55,80190,6.4
+Texas,Motorboat Operators,290,20.7,0.023,1.61,26.88,55900,3.3
+Texas,Ship Engineers,200,20.5,0.016,0.28,39.54,82240,4.9
+Texas,Bridge and Lock Tenders,160,35,0.013,0.59,21.8,45340,5.7
+Texas,Parking Attendants,10180,7.9,0.819,0.82,11.27,23450,1
+Texas,Automotive and Watercraft Service Attendants,11990,7,0.964,1.2,12.85,26730,1
+Texas,Traffic Technicians,500,22.4,0.04,0.8,22.87,47570,3.7
+Texas,Transportation Inspectors,4250,22.6,0.342,1.67,42.47,88340,4.9
+Texas,Passenger Attendants,230,27,0.019,0.1,10.43,21690,4.1
+Texas,"Aircraft Service Attendants and Transportation Workers, All Other",5240,16.7,0.421,1.77,24.45,50860,11
+Texas,Conveyor Operators and Tenders,1840,13.8,0.148,0.9,14.26,29660,2.5
+Texas,Crane and Tower Operators,6420,7.2,0.517,1.67,27.15,56470,1.7
+Texas,Dredge Operators,**,**,**,**,22.71,47240,4.8
+Texas,Industrial Truck and Tractor Operators,68830,3.5,5.537,1.29,16.82,34990,0.7
+Texas,Cleaners of Vehicles and Equipment,36530,4.1,2.938,1.13,12.51,26020,1.8
+Texas,"Laborers and Freight, Stock, and Material Movers, Hand",204030,2.5,16.413,0.82,15.43,32090,1.8
+Texas,Machine Feeders and Offbearers,5550,7.9,0.446,1.04,15.23,31690,1.9
+Texas,"Packers and Packagers, Hand",31740,5.4,2.553,0.59,12.05,25070,1.6
+Texas,Stockers and Order Fillers,180680,2,14.534,1,14.05,29220,0.6
+Texas,Gas Compressor and Gas Pumping Station Operators,220,25.5,0.017,0.74,23.23,48320,8.3
+Texas,"Pump Operators, Except Wellhead Pumpers",2890,14.8,0.233,3.42,21.52,44770,3.8
+Texas,Wellhead Pumpers,5510,10.2,0.443,5.02,26.5,55130,2.9
+Texas,Refuse and Recyclable Material Collectors,8830,6.8,0.711,0.86,16.31,33920,1.2
+Texas,"Tank Car, Truck, and Ship Loaders",1630,33.2,0.131,1.66,18.23,37910,4.9
+Texas,"Material Moving Workers, All Other",1900,15.5,0.153,0.79,18.13,37700,4.8

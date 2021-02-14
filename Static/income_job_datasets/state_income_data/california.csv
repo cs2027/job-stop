@@ -1,0 +1,802 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+California,All Occupations,17382400,0.2,1000,1,29.47,61290,0.4
+California,Management Occupations,1070120,0.6,61.563,1.12,66.22,137750,0.4
+California,Chief Executives,31730,1.8,1.826,1.3,104.1,216520,0.8
+California,General and Operations Managers,259550,1.1,14.932,0.91,65.89,137050,0.6
+California,Legislators,3190,5.4,0.183,0.52,*,70530,2.1
+California,Advertising and Promotions Managers,2670,7.2,0.154,0.9,71.79,149320,2.1
+California,Marketing Managers,40900,2,2.353,1.31,81.34,169200,0.7
+California,Sales Managers,80610,1.7,4.638,1.69,65.86,137000,0.8
+California,Public Relations and Fundraising Managers,9210,4.6,0.53,0.98,67.65,140710,1.3
+California,Administrative Services and Facilities Managers,41650,1.7,2.396,1.15,55.31,115050,0.8
+California,Computer and Information Systems Managers,75700,2,4.355,1.47,89.25,185640,0.7
+California,Financial Managers,92060,1.9,5.296,1.19,75.24,156500,0.7
+California,Industrial Production Managers,20770,2,1.195,0.94,59.67,124110,0.9
+California,Purchasing Managers,7830,2.8,0.45,0.92,68.44,142350,0.9
+California,"Transportation, Storage, and Distribution Managers",19430,3.3,1.118,1.24,51.43,106980,1.3
+California,Compensation and Benefits Managers,**,**,**,**,71.7,149130,1.6
+California,Human Resources Managers,21600,1.7,1.243,1.18,70.05,145710,0.6
+California,Training and Development Managers,5180,3.7,0.298,1.14,66.59,138500,1.4
+California,"Farmers, Ranchers, and Other Agricultural Managers",1490,13,0.086,2.49,46.67,97080,5.2
+California,Construction Managers,32830,3.5,1.889,0.95,58.43,121540,1.7
+California,"Education and Childcare Administrators, Preschool and Daycare",7420,4.5,0.427,1.2,27.97,58170,3.3
+California,"Education Administrators, Kindergarten through Secondary",24540,4.8,1.412,0.77,*,128880,1.1
+California,"Education Administrators, Postsecondary",11670,6.7,0.671,0.68,62.21,129400,1.1
+California,"Education Administrators, All Other",**,**,**,**,48.43,100730,2.5
+California,Architectural and Engineering Managers,34140,4.1,1.964,1.49,86.47,179860,0.9
+California,Food Service Managers,40440,3.7,2.326,1.45,29.25,60840,1.6
+California,Gambling Managers,690,8.4,0.04,1.31,45.99,95650,2.1
+California,Lodging Managers,4290,6.9,0.247,0.94,36.02,74910,2.8
+California,Medical and Health Services Managers,36940,2.2,2.125,0.79,63.96,133040,0.9
+California,Natural Sciences Managers,**,**,**,**,90.73,188710,4
+California,Postmasters and Mail Superintendents,790,0,0.045,0.48,39.41,81970,0.6
+California,"Property, Real Estate, and Community Association Managers",37870,3.3,2.179,1.45,36.35,75600,2.4
+California,Social and Community Service Managers,**,**,**,**,36.26,75420,2.2
+California,Emergency Management Directors,760,4,0.044,0.64,56.68,117900,2.3
+California,Funeral Home Managers,650,14.6,0.037,0.58,45.19,93980,4.2
+California,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",69780,1.6,4.014,1.25,70.63,146910,0.7
+California,Business and Financial Operations Occupations,1052970,0.7,60.577,1.09,40.31,83840,0.4
+California,"Agents and Business Managers of Artists, Performers, and Athletes",**,**,**,**,51.93,108010,4.3
+California,Buyers and Purchasing Agents,45970,1.8,2.645,0.92,35.06,72930,0.6
+California,"Claims Adjusters, Examiners, and Investigators",**,**,**,**,37.07,77110,1
+California,"Insurance Appraisers, Auto Damage",2340,13.5,0.134,1.44,33.21,69070,1.5
+California,Compliance Officers,39250,1.7,2.258,1.04,39.57,82310,0.6
+California,Cost Estimators,27130,2.9,1.561,1.09,38.27,79610,1.3
+California,Human Resources Specialists,71130,1.9,4.092,0.95,36.63,76200,0.6
+California,Farm Labor Contractors,130,13,0.007,6.89,29.29,60910,9.7
+California,Labor Relations Specialists,7860,6.7,0.452,0.88,39.17,81480,2.9
+California,Logisticians,23020,3.3,1.325,1.07,40.72,84690,0.8
+California,Management Analysts,103970,2.1,5.981,1.24,46.72,97170,1.2
+California,"Meeting, Convention, and Event Planners",17020,6.3,0.979,1.22,28.84,59980,1.7
+California,Fundraisers,9400,6.6,0.541,0.97,33.46,69590,4.4
+California,"Compensation, Benefits, and Job Analysis Specialists",10630,4.1,0.612,1.01,36.52,75950,0.9
+California,Training and Development Specialists,29600,3.1,1.703,0.8,36,74890,0.8
+California,Market Research Analysts and Marketing Specialists,98760,1.8,5.682,1.23,38.02,79070,0.7
+California,"Project Management Specialists and Business Operations Specialists, All Other",209160,1.7,12.033,1.38,40.09,83390,0.7
+California,Accountants and Auditors,148500,2.4,8.543,0.98,40.34,83910,1
+California,Property Appraisers and Assessors,4760,7,0.274,0.71,41.33,85970,2.3
+California,Budget Analysts,6030,3.5,0.347,0.99,43.59,90670,1.5
+California,Credit Analysts,8130,6.4,0.467,0.93,43.78,91050,2.1
+California,Personal Financial Advisors,25910,4.6,1.49,1.04,56.58,117690,2.9
+California,Insurance Underwriters,9110,9.1,0.524,0.77,40.2,83620,2.3
+California,Financial Examiners,5130,11.4,0.295,0.67,52.82,109870,4
+California,Credit Counselors,3520,8.2,0.203,0.93,25.94,53950,1.6
+California,Loan Officers,34740,3.9,1.999,0.95,37.15,77270,2
+California,"Tax Examiners and Collectors, and Revenue Agents",8300,0.1,0.478,1.31,33.22,69090,1
+California,Tax Preparers,8910,7.4,0.513,1.13,28.22,58700,3.8
+California,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",58810,3.1,3.383,1.08,47.52,98850,1.5
+California,Computer and Mathematical Occupations,644300,1.2,37.066,1.2,53.95,112220,0.9
+California,Computer Systems Analysts,64260,3.8,3.697,0.92,53.28,110820,1
+California,Information Security Analysts,9200,3.7,0.529,0.62,55.11,114620,1
+California,Computer and Information Research Scientists,7370,11.5,0.424,2.02,67.32,140020,3.1
+California,Computer Network Support Specialists,16860,4.5,0.97,0.77,36.13,75150,1
+California,Computer User Support Specialists,81230,2.6,4.673,1.06,33.68,70060,1.3
+California,Computer Network Architects,18210,4.8,1.047,1.01,61.59,128100,2.1
+California,Network and Computer Systems Administrators,33630,2.8,1.935,0.8,47.83,99480,0.8
+California,Database Administrators and Architects,13530,4.4,0.778,0.91,51.31,106720,1.7
+California,Computer Programmers,24400,5.3,1.404,1.03,49.9,103790,1.2
+California,Software Developers and Software Quality Assurance Analysts and Testers,249620,2.4,14.361,1.5,64.6,134370,1.2
+California,Web Developers and Digital Interface Designers,20920,4.5,1.204,1.19,43.38,90230,1.7
+California,"Computer Occupations, All Other",83270,2.4,4.791,1.79,50.28,104580,1.5
+California,Actuaries,1630,19.7,0.094,0.62,56.51,117530,2.3
+California,Mathematicians,550,32.8,0.032,1.78,51.22,106540,2.1
+California,Operations Research Analysts,10000,4.4,0.576,0.85,48.63,101150,1.2
+California,Statisticians,4930,8.3,0.284,1.07,53,110240,1.9
+California,"Data Scientists and Mathematical Science Occupations, All Other",4690,7.3,0.27,1.29,55.45,115340,5.6
+California,Architecture and Engineering Occupations,344670,1.4,19.829,1.12,49.45,102850,0.7
+California,"Architects, Except Landscape and Naval",14480,6.6,0.833,1.16,47.14,98050,2.6
+California,Landscape Architects,2510,10.7,0.144,1.05,43.72,90940,3.6
+California,Cartographers and Photogrammetrists,860,9.9,0.049,0.64,43.8,91100,2.9
+California,Surveyors,4260,6.1,0.245,0.8,44.75,93090,1.5
+California,Aerospace Engineers,11440,12.8,0.658,1.53,60.09,125000,1.9
+California,Agricultural Engineers,180,24,0.01,0.99,40.18,83570,3.3
+California,Bioengineers and Biomedical Engineers,2540,8.5,0.146,1.09,50.94,105960,2.7
+California,Chemical Engineers,2020,12.9,0.116,0.57,50.3,104620,2.5
+California,Civil Engineers,49090,3.6,2.824,1.33,53.12,110480,1.1
+California,Computer Hardware Engineers,19940,9,1.147,2.48,68.31,142090,3.6
+California,Electrical Engineers,25370,4.5,1.46,1.16,56.29,117070,1.2
+California,"Electronics Engineers, Except Computer",27110,4.7,1.56,1.78,61.47,127860,1.7
+California,Environmental Engineers,8640,6.4,0.497,1.37,50.12,104260,1.7
+California,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",2190,6.1,0.126,0.72,54.51,113380,1.1
+California,Industrial Engineers,26800,3.5,1.542,0.78,51.87,107890,1
+California,Marine Engineers and Naval Architects,280,41.5,0.016,0.21,53.53,111350,3.1
+California,Materials Engineers,2550,8.5,0.147,0.8,51.68,107490,1.9
+California,Mechanical Engineers,27830,3.9,1.601,0.77,51.88,107920,1
+California,"Mining and Geological Engineers, Including Mining Safety Engineers",550,41,0.031,0.73,58.47,121610,2.1
+California,Nuclear Engineers,510,16.1,0.029,0.27,70.42,146470,3.9
+California,Petroleum Engineers,2440,18,0.14,0.63,68.71,142910,2.4
+California,"Engineers, All Other",25740,5,1.481,1.43,54.64,113640,1.3
+California,Architectural and Civil Drafters,13390,5.7,0.77,1.14,30.77,64000,1.2
+California,Electrical and Electronics Drafters,3480,7,0.2,1.22,36.66,76250,2.6
+California,Mechanical Drafters,5260,5.6,0.303,0.81,33.11,68870,2.1
+California,"Drafters, All Other",1660,8.9,0.096,0.96,27.95,58150,2.2
+California,Aerospace Engineering and Operations Technologists and Technicians,2220,18.1,0.128,1.63,33.05,68750,3.4
+California,Civil Engineering Technologists and Technicians,8050,5.5,0.463,0.99,32.35,67300,1.8
+California,Electrical and Electronic Engineering Technologists and Technicians,23380,3.6,1.345,1.61,33.84,70380,1.2
+California,Electro-Mechanical and Mechatronics Technologists and Technicians,2370,15.4,0.136,1.4,29.98,62360,3.1
+California,Environmental Engineering Technologists and Technicians,3560,16.9,0.205,1.67,28.71,59720,3
+California,Industrial Engineering Technologists and Technicians,4570,20.6,0.263,0.58,31.49,65490,1.9
+California,Mechanical Engineering Technologists and Technicians,3470,6.9,0.2,0.69,31.43,65360,2.5
+California,Surveying and Mapping Technicians,4110,6.2,0.236,0.65,34.33,71410,1.7
+California,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",11810,5.1,0.679,1.13,34.28,71310,1.7
+California,"Life, Physical, and Social Science Occupations",182360,2.9,10.491,1.2,42.42,88230,0.9
+California,Food Scientists and Technologists,1980,10.4,0.114,1.25,37.47,77940,1.5
+California,Soil and Plant Scientists,2580,20,0.149,1.54,38.22,79490,2.8
+California,Biochemists and Biophysicists,5610,15.5,0.323,1.51,51.84,107830,6.4
+California,Microbiologists,3470,29.2,0.199,1.6,50.46,104960,4.7
+California,Zoologists and Wildlife Biologists,2140,11.9,0.123,0.94,36.44,75790,2
+California,"Biological Scientists, All Other",10650,8.8,0.613,2.24,46.46,96640,1.8
+California,Conservation Scientists,1760,10,0.101,0.67,38.71,80510,2.5
+California,Foresters,730,23.2,0.042,0.65,38.72,80540,2.9
+California,Epidemiologists,720,4.9,0.041,0.82,44.13,91800,2.2
+California,"Medical Scientists, Except Epidemiologists",23460,8.8,1.35,1.56,52.57,109350,1.5
+California,"Life Scientists, All Other",1300,19.4,0.075,1.7,48.23,100310,12.8
+California,Astronomers,360,22.2,0.021,1.47,78.91,164130,13.5
+California,Physicists,1950,30.2,0.112,0.98,58.98,122670,3.5
+California,Atmospheric and Space Scientists,830,19,0.048,0.76,59.89,124570,3.8
+California,Chemists,10130,6.4,0.583,1.02,40.77,84810,2.1
+California,Materials Scientists,670,19.4,0.038,0.84,50.17,104350,3.6
+California,"Environmental Scientists and Specialists, Including Health",14380,6.1,0.827,1.44,44.38,92320,2.1
+California,"Geoscientists, Except Hydrologists and Geographers",4660,8.7,0.268,1.35,46.53,96790,3
+California,Hydrologists,930,14.9,0.054,1.23,47.72,99250,2.5
+California,"Physical Scientists, All Other",1850,11.9,0.107,0.89,63.07,131180,3.4
+California,Economists,1810,9.8,0.104,0.81,57.97,120580,4.1
+California,Survey Researchers,860,19.9,0.049,0.73,34.83,72450,8.1
+California,"Clinical, Counseling, and School Psychologists",16960,5.7,0.976,1.26,53.73,111750,3.5
+California,Industrial-Organizational Psychologists,40,12.4,0.002,0.57,69.91,145410,12.8
+California,"Psychologists, All Other",**,**,**,**,56.54,117610,7
+California,Sociologists,1020,8,0.058,3.27,47.54,98890,4.6
+California,Urban and Regional Planners,7980,5.5,0.459,1.75,45.7,95060,1.2
+California,Anthropologists and Archeologists,1610,20.5,0.093,2.02,33.6,69890,3.9
+California,Geographers,110,16.3,0.007,0.69,44.57,92700,2.2
+California,Historians,240,36.5,0.014,0.65,42.14,87650,2
+California,Political Scientists,140,7,0.008,0.2,38.27,79600,7.5
+California,"Social Scientists and Related Workers, All Other",4150,13.6,0.239,1.04,40.96,85200,2.6
+California,Agricultural and Food Science Technicians,4170,8,0.24,1.61,22.47,46730,3.2
+California,Biological Technicians,9740,10,0.56,1.03,25.83,53740,1.5
+California,Chemical Technicians,6510,5.8,0.375,0.84,24.38,50720,1.3
+California,"Environmental Science and Protection Technicians, Including Health",5830,7.9,0.336,1.51,27.29,56760,2.5
+California,Geological and Hydrologic Technicians,1490,20.8,0.086,0.74,26.97,56100,3.1
+California,Nuclear Technicians,110,24.3,0.006,0.14,48.91,101730,6.2
+California,Social Science Research Assistants,2470,17.3,0.142,0.59,27.02,56210,2.1
+California,Forest and Conservation Technicians,4060,3.2,0.234,1.8,22.77,47360,0.9
+California,Forensic Science Technicians,2150,1.8,0.124,1.1,41.92,87200,1.8
+California,"Life, Physical, and Social Science Technicians, All Other",8520,7.7,0.49,1.12,28.84,59980,1.7
+California,Occupational Health and Safety Specialists,8430,3.4,0.485,0.77,43.54,90560,1.1
+California,Occupational Health and Safety Technicians,1700,8.4,0.098,0.7,27.88,58000,2.2
+California,Community and Social Service Occupations,303870,2,17.482,1.14,28.54,59370,1.9
+California,"Educational, Guidance, and Career Counselors and Advisors",32650,3.1,1.879,0.93,37.62,78250,1.3
+California,Marriage and Family Therapists,31710,6.9,1.824,4.54,24.98,51950,2.2
+California,Rehabilitation Counselors,15210,6.6,0.875,1.18,17.94,37320,2.6
+California,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",32380,4.9,1.863,0.96,26.24,54580,2.7
+California,"Counselors, All Other",5300,11.5,0.305,1.76,26.51,55150,5.3
+California,"Child, Family, and School Social Workers",32630,3.8,1.877,0.84,28.84,59990,3.9
+California,Healthcare Social Workers,19020,9.2,1.094,0.92,38.28,79620,2.6
+California,Mental Health and Substance Abuse Social Workers,14970,4.8,0.861,1.07,31.26,65020,2.5
+California,"Social Workers, All Other",12210,4.6,0.702,1.77,34.14,71020,2.3
+California,Health Education Specialists,7230,5.3,0.416,1.04,31.15,64790,2.5
+California,Probation Officers and Correctional Treatment Specialists,13390,2.1,0.77,1.28,44.12,91760,1.5
+California,Social and Human Service Assistants,53690,8.6,3.089,1.12,21.16,44020,1.5
+California,Community Health Workers,5720,6.9,0.329,0.82,23.79,49480,2.8
+California,"Community and Social Service Specialists, All Other",16630,5.6,0.957,1.44,24.33,50610,2
+California,Clergy,6610,6.6,0.38,1.05,34.04,70800,3.9
+California,"Directors, Religious Activities and Education",3120,6.1,0.179,1.21,28.47,59210,4.4
+California,"Religious Workers, All Other",1430,24,0.082,1.28,21.56,44850,7.9
+California,Legal Occupations,137550,1.8,7.913,1.01,63.56,132200,2.2
+California,Lawyers,83750,2.1,4.818,1.08,83.64,173970,2.1
+California,Judicial Law Clerks,3060,8.1,0.176,1.56,31.12,64730,2.8
+California,"Administrative Law Judges, Adjudicators, and Hearing Officers",1800,0.9,0.104,1.06,58.13,120900,2
+California,"Arbitrators, Mediators, and Conciliators",560,16.3,0.032,0.78,48.88,101680,7.4
+California,"Judges, Magistrate Judges, and Magistrates",1690,0.7,0.097,0.5,88.62,184340,4
+California,Paralegals and Legal Assistants,35040,4.9,2.016,0.9,29.72,61810,2.2
+California,"Title Examiners, Abstractors, and Searchers",3510,12.9,0.202,0.56,28.05,58340,4
+California,"Legal Support Workers, All Other",8140,9.1,0.469,1.53,27.15,56470,3.1
+California,Educational Instruction and Library Occupations,1064410,0.9,61.235,1.01,32.42,67440,1
+California,"Business Teachers, Postsecondary",5470,8.6,0.315,0.55,*,126520,2.2
+California,"Computer Science Teachers, Postsecondary",2200,9.8,0.126,0.58,*,135700,4.8
+California,"Mathematical Science Teachers, Postsecondary",5460,4.6,0.314,0.9,*,126550,3.1
+California,"Architecture Teachers, Postsecondary",440,30,0.025,0.54,*,116570,7.8
+California,"Engineering Teachers, Postsecondary",2470,8.2,0.142,0.58,*,127290,2.5
+California,"Agricultural Sciences Teachers, Postsecondary",330,20.1,0.019,0.29,*,103260,10
+California,"Biological Science Teachers, Postsecondary",3590,6.1,0.207,0.57,*,128580,3.1
+California,"Forestry and Conservation Science Teachers, Postsecondary",110,34,0.006,0.51,*,134040,17.7
+California,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",1420,9.4,0.082,1.09,*,126590,3.4
+California,"Chemistry Teachers, Postsecondary",1620,8.1,0.093,0.64,*,119030,3.2
+California,"Environmental Science Teachers, Postsecondary",580,16.1,0.033,0.81,*,136250,7.5
+California,"Physics Teachers, Postsecondary",910,12.2,0.052,0.56,*,126480,3.5
+California,"Anthropology and Archeology Teachers, Postsecondary",620,8.8,0.036,0.89,*,124800,3.1
+California,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",1120,16.9,0.064,0.89,*,100180,6.2
+California,"Economics Teachers, Postsecondary",690,12.7,0.04,0.44,*,146410,5.9
+California,"Geography Teachers, Postsecondary",250,12.8,0.014,0.53,*,118560,3.4
+California,"Political Science Teachers, Postsecondary",1010,12.7,0.058,0.54,*,132950,4.4
+California,"Psychology Teachers, Postsecondary",4980,11.5,0.286,1.12,*,116330,2.6
+California,"Sociology Teachers, Postsecondary",910,7.6,0.052,0.55,*,113860,3.3
+California,"Social Sciences Teachers, Postsecondary, All Other",2050,13.4,0.118,1.03,*,124680,4.7
+California,"Health Specialties Teachers, Postsecondary",9180,31.6,0.528,0.38,*,117800,6.2
+California,"Nursing Instructors and Teachers, Postsecondary",3970,10.9,0.228,0.56,*,101930,2.9
+California,"Education Teachers, Postsecondary",3170,11.6,0.182,0.44,*,91190,4
+California,"Library Science Teachers, Postsecondary",270,18.6,0.016,0.52,*,109060,4.3
+California,"Criminal Justice and Law Enforcement Teachers, Postsecondary",1250,16.3,0.072,0.75,*,120550,3.8
+California,"Law Teachers, Postsecondary",1540,12.9,0.089,0.81,*,143660,4.6
+California,"Social Work Teachers, Postsecondary",480,46.1,0.028,0.3,*,84230,2.5
+California,"Art, Drama, and Music Teachers, Postsecondary",9990,8.5,0.575,0.9,*,111970,4.5
+California,"Communications Teachers, Postsecondary",2170,8.6,0.125,0.63,*,129220,2.9
+California,"English Language and Literature Teachers, Postsecondary",6820,4.7,0.392,0.85,*,121450,3.2
+California,"Foreign Language and Literature Teachers, Postsecondary",3040,12.6,0.175,1.03,*,106190,4.7
+California,"History Teachers, Postsecondary",1380,6.5,0.079,0.55,*,117870,3.5
+California,"Philosophy and Religion Teachers, Postsecondary",2940,24.7,0.169,1.06,*,136460,7.6
+California,"Family and Consumer Sciences Teachers, Postsecondary",280,18.4,0.016,1.12,*,134700,11.4
+California,"Recreation and Fitness Studies Teachers, Postsecondary",2150,5.7,0.124,1.14,*,114660,2.9
+California,"Career/Technical Education Teachers, Postsecondary",10540,6.1,0.606,0.79,40.12,83450,3.5
+California,"Postsecondary Teachers, All Other",68650,8.8,3.95,2.88,*,94540,2.4
+California,"Preschool Teachers, Except Special Education",53290,3.8,3.066,1.04,18.27,37990,1.4
+California,"Kindergarten Teachers, Except Special Education",9870,12.9,0.568,0.67,*,73480,3.2
+California,"Elementary School Teachers, Except Special Education",164910,3.2,9.487,0.97,*,82560,0.9
+California,"Middle School Teachers, Except Special and Career/Technical Education",39780,8.2,2.288,0.54,*,80160,1.5
+California,"Career/Technical Education Teachers, Middle School",360,46.7,0.021,0.26,*,59880,18.8
+California,"Secondary School Teachers, Except Special and Career/Technical Education",109840,6.3,6.319,0.9,*,85080,1
+California,"Career/Technical Education Teachers, Secondary School",3100,18.8,0.178,0.35,*,81810,3
+California,"Special Education Teachers, Preschool",660,29.3,0.038,0.25,*,52670,4.7
+California,"Special Education Teachers, Kindergarten and Elementary School",15320,6.7,0.882,0.67,*,78440,2.1
+California,"Special Education Teachers, Middle School",3010,16.7,0.173,0.3,*,75980,2.3
+California,"Special Education Teachers, Secondary School",9750,8.5,0.561,0.58,*,83000,1.5
+California,"Special Education Teachers, All Other",7420,22.5,0.427,1.76,*,66760,3.5
+California,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",8670,23.3,0.499,1.41,41.16,85600,3.4
+California,Self-Enrichment Teachers,32210,5.9,1.853,1.08,22.5,46810,2.1
+California,"Substitute Teachers, Short-Term",103210,4.9,5.937,1.49,20.03,41650,1.3
+California,"Tutors and Teachers and Instructors, All Other",69720,4.8,4.011,1.84,*,54120,4.1
+California,Archivists,520,14.1,0.03,0.67,33.51,69700,2.6
+California,Curators,1320,13.2,0.076,0.87,33.52,69720,2.4
+California,Museum Technicians and Conservators,2030,10.3,0.117,1.3,23.97,49850,3.5
+California,Librarians and Media Collections Specialists,10300,10.6,0.593,0.64,37.81,78650,2.1
+California,Library Technicians,11220,14.4,0.645,1.07,22.31,46410,1.5
+California,Farm and Home Management Educators,90,30.4,0.005,0.09,30.86,64190,13.3
+California,Instructional Coordinators,20910,7,1.203,1,38.93,80970,1.9
+California,"Teaching Assistants, Postsecondary",23920,11,1.376,1.47,*,35080,3.6
+California,"Teaching Assistants, Except Postsecondary",163260,2.4,9.392,1.02,*,36200,0.6
+California,"Educational Instruction and Library Workers, All Other",35680,4.4,2.052,2.34,27.07,56300,2.5
+California,"Arts, Design, Entertainment, Sports, and Media Occupations",327840,3.1,18.86,1.37,36.71,76360,2.2
+California,Art Directors,8300,4.8,0.477,1.63,65.1,135410,2.2
+California,Craft Artists,430,43.4,0.025,0.78,24.13,50190,13.1
+California,"Fine Artists, Including Painters, Sculptors, and Illustrators",2220,14.2,0.128,1.52,45.19,94000,5.3
+California,Special Effects Artists and Animators,11910,8.3,0.685,3.43,48.4,100670,3.1
+California,"Artists and Related Workers, All Other",620,24.8,0.036,0.69,32.3,67180,5.1
+California,Commercial and Industrial Designers,3910,8.7,0.225,1.01,39.39,81930,2.5
+California,Fashion Designers,7180,9.4,0.413,2.76,45.13,93870,5.6
+California,Floral Designers,4640,7.6,0.267,0.94,16.79,34930,3
+California,Graphic Designers,29060,2.8,1.672,1.14,30.63,63710,0.9
+California,Interior Designers,9420,11.8,0.542,1.31,34.1,70920,4.3
+California,Merchandise Displayers and Window Trimmers,18910,8.8,1.088,1.13,17.07,35500,2.5
+California,Set and Exhibit Designers,3020,20.2,0.174,2.12,31.77,66070,6.4
+California,"Designers, All Other",2410,8.9,0.139,1.92,45.62,94890,4.5
+California,Actors,19470,35.7,1.12,3.13,29.6,*,7.6
+California,Producers and Directors,33610,21.4,1.934,2.2,58.63,121950,5
+California,Athletes and Sports Competitors,730,21.3,0.042,0.54,*,144700,17.8
+California,Coaches and Scouts,26340,5.4,1.515,0.92,*,46550,1.7
+California,"Umpires, Referees, and Other Sports Officials",2160,10.2,0.124,0.91,*,34820,3.3
+California,Dancers,1400,35.2,0.08,1.22,23.32,*,10.5
+California,Choreographers,320,29,0.018,0.58,30.84,64160,11.5
+California,Music Directors and Composers,870,9.4,0.05,0.69,35.54,73930,5.9
+California,Musicians and Singers,5890,9.6,0.339,1.21,45.57,*,8.5
+California,"Miscellaneous Entertainers and Performers, Sports and Related Workers",2530,14.1,0.146,1.35,23.63,*,8.6
+California,Broadcast Announcers and Radio Disc Jockeys,2920,8.5,0.168,0.84,41.03,85340,6
+California,"News Analysts, Reporters, and Journalists",4500,12.8,0.259,0.86,32.63,67870,4.1
+California,Public Relations Specialists,26700,4.1,1.536,0.92,36.05,74990,2
+California,Editors,11700,5.7,0.673,1.03,38.44,79960,2.5
+California,Technical Writers,6650,5.3,0.382,1.11,45.11,93830,2
+California,Writers and Authors,7840,6,0.451,1.44,43.74,90970,4.3
+California,Interpreters and Translators,8050,9.1,0.463,1.16,29.4,61150,2.7
+California,Court Reporters and Simultaneous Captioners,2150,9.8,0.124,1.25,42.97,89370,3.3
+California,"Media and Communication Workers, All Other",8610,9.3,0.495,2.89,28.64,59570,3.7
+California,Audio and Video Technicians,13610,7.3,0.783,1.55,29.38,61120,3.7
+California,Broadcast Technicians,3750,7.8,0.216,1.11,22.36,46500,2.7
+California,Sound Engineering Technicians,4160,10.6,0.239,2.73,38.1,79240,7.9
+California,Photographers,6600,6.8,0.38,1.1,26.19,54470,3.1
+California,"Camera Operators, Television, Video, and Film",4380,13.3,0.252,1.72,38.57,80220,7.2
+California,Film and Video Editors,10520,9.8,0.605,3.22,56.98,118510,7.6
+California,"Lighting Technicians and Media and Communication Equipment Workers, All Other",10350,17.6,0.596,3.73,37.29,77560,3.5
+California,Healthcare Practitioners and Technical Occupations,844930,1.2,48.608,0.82,49.59,103150,0.8
+California,Chiropractors,3250,14.2,0.187,0.78,34.56,71890,5.4
+California,"Dentists, General",16220,6.3,0.933,1.24,74.84,155670,3.3
+California,Oral and Maxillofacial Surgeons,690,30.7,0.039,1.25,106.82,222180,18.1
+California,Orthodontists,420,36.6,0.024,0.59,105.97,220410,20.9
+California,"Dentists, All Other Specialists",420,24.1,0.024,0.66,88.73,184560,9.1
+California,Dietitians and Nutritionists,7880,5,0.453,0.98,37.04,77040,1.3
+California,Optometrists,4270,10.1,0.246,0.92,63.92,132950,3.6
+California,Pharmacists,32150,6.5,1.85,0.87,69.25,144050,1
+California,Physician Assistants,10890,7.4,0.626,0.77,61.31,127520,1.1
+California,Podiatrists,1020,18.9,0.059,0.89,49.06,102040,7.3
+California,Occupational Therapists,10060,6.1,0.579,0.64,47.33,98450,0.9
+California,Physical Therapists,21730,5.7,1.25,0.79,48.04,99920,1.8
+California,Radiation Therapists,1160,14.5,0.067,0.55,57.6,119800,2.4
+California,Recreational Therapists,1580,3.9,0.091,0.7,36.24,75370,2.5
+California,Respiratory Therapists,16650,3.2,0.958,1.06,40.35,83920,1
+California,Speech-Language Pathologists,14980,10.1,0.862,0.82,44.59,92740,1.1
+California,Exercise Physiologists,480,30.4,0.028,0.56,44.75,93080,20.6
+California,"Therapists, All Other",810,20.9,0.047,0.56,31,64470,8
+California,Veterinarians,7380,5.9,0.424,0.84,55.98,116440,2.5
+California,Registered Nurses,302770,2.1,17.418,0.86,54.44,113240,0.9
+California,Nurse Anesthetists,1270,9.4,0.073,0.25,109.28,227290,4.8
+California,Nurse Midwives,690,8.7,0.04,0.85,74.28,154500,2
+California,Nurse Practitioners,13900,4.5,0.8,0.59,66.66,138660,1.2
+California,Audiologists,950,15.1,0.055,0.59,48.82,101540,7.7
+California,Anesthesiologists,3850,19.3,0.222,1.05,#,#,7.2
+California,Family Medicine Physicians,11050,7.6,0.635,0.85,97.75,203320,5
+California,General Internal Medicine Physicians,3410,25.4,0.196,0.65,102.17,212510,11
+California,Obstetricians and Gynecologists,1540,16.1,0.089,0.7,113.81,236730,6.3
+California,"Pediatricians, General",3160,16.7,0.182,0.9,96.28,200270,5.8
+California,Psychiatrists,3560,10.7,0.205,1.18,113.91,236930,5.6
+California,"Physicians, All Other; and Ophthalmologists, Except Pediatric",32070,6.3,1.845,0.69,101.03,210140,2.8
+California,"Surgeons, Except Ophthalmologists",3650,19.8,0.21,0.85,119.28,248100,7.5
+California,Dental Hygienists,23320,5.3,1.342,0.89,51.08,106240,1.6
+California,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",4950,10.5,0.285,1.15,37.38,77750,4
+California,Clinical Laboratory Technologists and Technicians,27220,4.9,1.566,0.71,30.23,62890,1.5
+California,Cardiovascular Technologists and Technicians,4830,5.9,0.278,0.73,36.84,76630,2.3
+California,Diagnostic Medical Sonographers,6650,4.7,0.383,0.77,48.54,100960,1.2
+California,Nuclear Medicine Technologists,1330,5.5,0.077,0.62,55.48,115390,1
+California,Radiologic Technologists and Technicians,17390,3,1.001,0.71,41.4,86120,1.2
+California,Magnetic Resonance Imaging Technologists,3150,8.2,0.181,0.7,46.72,97180,1.1
+California,Emergency Medical Technicians and Paramedics,21990,4.6,1.265,0.71,21,43680,3.4
+California,Dietetic Technicians,5270,6,0.303,1.52,17.22,35810,1.5
+California,Pharmacy Technicians,36560,2.7,2.103,0.74,21.73,45200,1
+California,Psychiatric Technicians,9490,2.9,0.546,1.02,28.96,60240,2.1
+California,Surgical Technologists,9480,3.3,0.546,0.74,30.05,62510,0.9
+California,Veterinary Technologists and Technicians,9750,6.5,0.561,0.74,20.9,43470,2.3
+California,Ophthalmic Medical Technicians,3760,13.8,0.216,0.54,21.02,43730,2.4
+California,Licensed Practical and Licensed Vocational Nurses,67590,2.9,3.889,0.82,28.96,60240,0.7
+California,"Opticians, Dispensing",8050,8.6,0.463,0.94,22.42,46620,2.9
+California,Orthotists and Prosthetists,850,14.3,0.049,0.73,41.64,86610,10.3
+California,Hearing Aid Specialists,750,22.9,0.043,0.77,27.29,56760,2.5
+California,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",40900,3.5,2.353,1.04,25.28,52580,1.1
+California,Athletic Trainers,1270,8.8,0.073,0.38,*,58220,1.7
+California,Genetic Counselors,**,**,**,**,49.92,103840,2.9
+California,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,30.65,63750,2.7
+California,Healthcare Support Occupations,945700,1,54.406,1.23,15.94,33160,0.7
+California,Home Health and Personal Care Aides,595760,1.5,34.274,1.59,13.83,28780,1.2
+California,Nursing Assistants,100190,2.4,5.764,0.6,17.61,36630,0.9
+California,Orderlies,3780,6.4,0.218,0.68,20.3,42230,1.7
+California,Psychiatric Aides,1220,17.8,0.07,0.19,16.94,35230,4.2
+California,Occupational Therapy Assistants,2640,10.9,0.152,0.5,33.73,70150,2.4
+California,Occupational Therapy Aides,670,17.9,0.038,0.75,17.2,35770,3.1
+California,Physical Therapist Assistants,5750,8.2,0.331,0.5,31.81,66150,2.2
+California,Physical Therapist Aides,7220,7,0.416,1.24,15.13,31480,1.8
+California,Massage Therapists,16330,6.8,0.939,1.29,21.01,43690,3.1
+California,Dental Assistants,56840,2.7,3.27,1.37,20.81,43280,1.2
+California,Medical Assistants,96850,2.7,5.571,1.15,19.29,40120,0.9
+California,Medical Equipment Preparers,7510,7.7,0.432,1.12,24.16,50250,2.3
+California,Medical Transcriptionists,5270,6.9,0.303,0.8,19.02,39560,7
+California,Pharmacy Aides,8820,9.2,0.507,2,17.67,36750,2.4
+California,Veterinary Assistants and Laboratory Animal Caretakers,12360,5.3,0.711,1.08,16.19,33680,1.5
+California,Phlebotomists,12860,6.4,0.74,0.85,22.09,45940,1.3
+California,"Healthcare Support Workers, All Other",11640,5.6,0.67,1.05,22.81,47440,1.2
+California,Protective Service Occupations,403270,1.1,23.2,0.97,29.9,62180,4.2
+California,First-Line Supervisors of Correctional Officers,4820,1,0.277,0.88,50.94,105960,0.7
+California,First-Line Supervisors of Police and Detectives,4930,1.3,0.284,0.34,76.02,158120,1.6
+California,First-Line Supervisors of Firefighting and Prevention Workers,3000,4,0.173,0.36,66.56,138450,2.3
+California,"Miscellaneous First-Line Supervisors, Protective Service Workers",10480,6.6,0.603,1.07,27.95,58130,1.9
+California,Firefighters,33780,2.5,1.943,0.88,40.56,84370,2.3
+California,Fire Inspectors and Investigators,680,5.3,0.039,0.42,51.57,107270,3.7
+California,Forest Fire Inspectors and Prevention Specialists,390,3.8,0.022,1.52,41.56,86450,1.6
+California,Bailiffs,**,**,**,**,32.15,66880,4.3
+California,Correctional Officers and Jailers,36090,2.3,2.076,0.72,37.75,78510,1
+California,Detectives and Criminal Investigators,11810,0.5,0.68,0.94,51.81,107760,1.8
+California,Fish and Game Wardens,350,1.8,0.02,0.44,38.09,79220,0.8
+California,Parking Enforcement Workers,1160,2.9,0.067,1.28,27.81,57850,3.6
+California,Police and Sheriff's Patrol Officers,72380,1.5,4.164,0.92,50.58,105220,0.8
+California,Transit and Railroad Police,610,30.4,0.035,1.1,29.69,61760,5.5
+California,Animal Control Workers,1360,13.6,0.078,0.96,25.92,53920,1.6
+California,Private Detectives and Investigators,3390,36.3,0.195,0.82,32.97,68570,4
+California,Gambling Surveillance Officers and Gambling Investigators,1120,15.5,0.065,0.92,19.31,40160,3.3
+California,Security Guards,162850,2.1,9.368,1.22,16.17,33640,1.1
+California,Crossing Guards and Flaggers,5980,28,0.344,0.59,20.71,43070,4.1
+California,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",15610,3.4,0.898,0.92,17.15,35660,3.6
+California,"School Bus Monitors and Protective Service Workers, All Other",26330,6.1,1.515,1.52,18.69,38870,1.9
+California,Food Preparation and Serving Related Occupations,1627490,0.4,93.628,1.02,14.77,30720,0.5
+California,Chefs and Head Cooks,21370,11,1.229,1.41,29.35,61040,6.3
+California,First-Line Supervisors of Food Preparation and Serving Workers,95590,2.6,5.499,0.8,19.05,39620,0.9
+California,"Cooks, Fast Food",120240,4,6.917,1.93,12.86,26740,0.5
+California,"Cooks, Institution and Cafeteria",24900,3.9,1.432,0.52,17.64,36700,0.9
+California,"Cooks, Private Household",180,26.5,0.011,3.94,20.56,42760,4.5
+California,"Cooks, Restaurant",179050,2.7,10.301,1.08,15.48,32200,0.8
+California,"Cooks, Short Order",19420,10.8,1.117,1.07,14.43,30010,1.3
+California,"Cooks, All Other",4990,11.2,0.287,2.18,17.46,36320,2
+California,Food Preparation Workers,109410,4.2,6.294,1.07,13.95,29010,0.6
+California,Bartenders,70880,3.4,4.078,0.93,15.41,32040,1.4
+California,Fast Food and Counter Workers,436540,1.8,25.114,0.92,13.38,27830,0.4
+California,Waiters and Waitresses,289160,1.7,16.635,0.95,15.55,32350,1.3
+California,"Food Servers, Nonrestaurant",25560,4.9,1.47,0.78,15.46,32160,1
+California,Dining Room and Cafeteria Attendants and Bartender Helpers,75960,3.4,4.37,1.34,13.83,28770,1
+California,Dishwashers,83340,2.7,4.794,1.37,13.11,27260,0.6
+California,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",47330,6.3,2.723,0.94,13.6,28280,1.3
+California,"Food Preparation and Serving Related Workers, All Other",23580,9.1,1.356,2.76,13.59,28270,1.2
+California,Building and Grounds Cleaning and Maintenance Occupations,488960,1,28.13,0.93,17.46,36320,0.5
+California,First-Line Supervisors of Housekeeping and Janitorial Workers,13320,3.4,0.766,0.72,23.73,49360,1.3
+California,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",10110,4.7,0.582,0.82,28.6,59490,1.7
+California,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",232970,1.6,13.402,0.92,16.77,34870,0.8
+California,Maids and Housekeeping Cleaners,101370,2.7,5.832,0.92,15.81,32890,0.8
+California,Pest Control Workers,10240,3.9,0.589,1.09,21.35,44400,3.1
+California,Landscaping and Groundskeeping Workers,106550,2,6.13,0.99,17.51,36420,0.9
+California,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",2400,12,0.138,0.79,26.43,54980,4.6
+California,Tree Trimmers and Pruners,8520,13.8,0.49,1.52,23.13,48110,3
+California,"Grounds Maintenance Workers, All Other",2260,18.2,0.13,1.34,21.79,45320,4.5
+California,Personal Care and Service Occupations,401870,1.3,23.119,1.03,16.75,34850,0.7
+California,First-Line Supervisors of Gambling Services Workers,4110,9.1,0.236,1.18,26.48,55070,1.9
+California,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",28130,4.9,1.618,1.09,22.21,46200,1.8
+California,Animal Trainers,1980,9.7,0.114,1.01,20.69,43030,2.8
+California,Animal Caretakers,22530,6.8,1.296,0.9,15.27,31770,1.2
+California,Gambling Dealers,16050,6.4,0.924,1.37,13.19,27430,1.7
+California,Gambling and Sports Book Writers and Runners,1620,20.7,0.093,1.37,16.09,33480,6.1
+California,"Gambling Service Workers, All Other",1760,11.8,0.101,1.42,16.99,35330,2.3
+California,Motion Picture Projectionists,380,32.3,0.022,0.7,20.89,43440,9.8
+California,"Ushers, Lobby Attendants, and Ticket Takers",17470,7.3,1.005,1.07,13.99,29110,1.8
+California,Amusement and Recreation Attendants,52540,3.1,3.022,1.31,13.51,28100,1
+California,Costume Attendants,2220,13.9,0.128,2.51,19.23,40000,3.9
+California,"Locker Room, Coatroom, and Dressing Room Attendants",2220,8.3,0.128,1.17,17.53,36470,1.6
+California,"Entertainment Attendants and Related Workers, All Other",760,44.5,0.044,1.43,15.06,31330,3.5
+California,Embalmers,490,18.6,0.028,1.05,25.68,53420,3.2
+California,Funeral Attendants,2060,11,0.119,0.51,18.1,37650,2.6
+California,"Morticians, Undertakers, and Funeral Arrangers",1230,19.1,0.071,0.41,26.1,54300,3.9
+California,Barbers,830,45.8,0.048,0.35,19.25,40050,15.5
+California,"Hairdressers, Hairstylists, and Cosmetologists",37210,6.5,2.14,0.81,15.73,32720,2.1
+California,"Makeup Artists, Theatrical and Performance",1720,20,0.099,4.28,43.25,89960,9.8
+California,Manicurists and Pedicurists,23590,10.3,1.357,1.78,13.55,28190,1.5
+California,Shampooers,420,28.5,0.024,0.29,12.74,26490,4.5
+California,Skincare Specialists,8480,10,0.488,1.27,17.51,36430,2.7
+California,Baggage Porters and Bellhops,5570,5.8,0.321,1.18,15.47,32180,1.6
+California,Concierges,4360,14.1,0.251,0.88,18.24,37930,2.2
+California,Tour and Travel Guides,5930,9.8,0.341,1.03,17.23,35850,2.3
+California,Childcare Workers,55430,4.3,3.189,0.83,14.52,30190,1
+California,Exercise Trainers and Group Fitness Instructors,41460,4.2,2.385,1.08,24.61,51180,2.2
+California,Recreation Workers,48360,3.8,2.782,1.14,15.57,32380,1.5
+California,Residential Advisors,8350,8.5,0.48,0.65,17.44,36280,1.7
+California,"Crematory Operators and Personal Care and Service Workers, All Other",4620,23.2,0.266,0.64,14.86,30910,2.1
+California,Sales and Related Occupations,1636580,0.7,94.152,0.96,22.43,46660,0.6
+California,First-Line Supervisors of Retail Sales Workers,116620,1.9,6.709,0.84,22.32,46430,0.8
+California,First-Line Supervisors of Non-Retail Sales Workers,24580,3.3,1.414,0.83,35.57,73990,1.1
+California,Cashiers,431140,2.1,24.803,1.01,13.89,28900,0.4
+California,Gambling Change Persons and Booth Cashiers,2890,15,0.166,1.15,14.06,29240,1.7
+California,Counter and Rental Clerks,82980,2.9,4.774,1.7,17.21,35790,0.9
+California,Parts Salespersons,26140,4.2,1.504,0.86,18.22,37890,1.4
+California,Retail Salespersons,418900,1.9,24.099,0.82,15.79,32850,0.7
+California,Advertising Sales Agents,16880,13.2,0.971,1.1,35.78,74420,3.5
+California,Insurance Sales Agents,41900,3.2,2.411,0.86,36.23,75360,4.1
+California,"Securities, Commodities, and Financial Services Sales Agents",57210,3.3,3.291,1.1,37.71,78430,2.7
+California,Travel Agents,8780,5.7,0.505,1.11,23.72,49330,2.6
+California,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",134040,3.4,7.711,1.09,33.38,69420,1.1
+California,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",39230,4.2,2.257,1.08,46.86,97470,1.5
+California,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",147310,2,8.475,0.93,36.09,75070,1.1
+California,Demonstrators and Product Promoters,17570,8.7,1.011,1.91,18.89,39290,2
+California,Models,290,34.9,0.017,1.05,20.92,43500,8.5
+California,Real Estate Brokers,6320,11.5,0.363,1.25,50.06,104120,10.3
+California,Real Estate Sales Agents,9750,7.7,0.561,0.51,35.64,74140,4.4
+California,Sales Engineers,11440,8,0.658,1.52,56.07,116620,2.3
+California,Telemarketers,11790,12.3,0.678,0.74,15.07,31350,2
+California,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",1790,18.4,0.103,1.69,18,37440,7.8
+California,"Sales and Related Workers, All Other",29030,4.6,1.67,2.06,24.71,51400,2.4
+California,Office and Administrative Support Occupations,2154700,0.6,123.959,0.93,22.08,45930,0.3
+California,First-Line Supervisors of Office and Administrative Support Workers,167310,1.2,9.625,0.95,30.67,63790,0.4
+California,"Switchboard Operators, Including Answering Service",11960,10.9,0.688,1.48,19.72,41010,3.7
+California,Telephone Operators,580,14.8,0.033,1.03,21.21,44120,2.5
+California,Bill and Account Collectors,20350,5.2,1.171,0.73,22.05,45850,1.4
+California,Billing and Posting Clerks,52010,3.2,2.992,0.94,21.65,45020,0.7
+California,"Bookkeeping, Accounting, and Auditing Clerks",180050,1.3,10.358,1.01,23.3,48460,0.4
+California,Gambling Cage Workers,2320,6.7,0.133,1.37,15.18,31570,1.9
+California,Payroll and Timekeeping Clerks,21740,2.8,1.251,1.29,25.92,53910,0.5
+California,Procurement Clerks,7070,3.8,0.407,0.9,22.01,45790,0.9
+California,Tellers,41140,3,2.367,0.79,16.69,34710,0.9
+California,"Financial Clerks, All Other",4480,11.2,0.258,1.24,23.1,48050,1.4
+California,Brokerage Clerks,4670,10.2,0.268,0.82,27.85,57920,1.6
+California,Correspondence Clerks,1240,19.7,0.071,1.67,20.26,42130,2
+California,"Court, Municipal, and License Clerks",12220,4,0.703,0.67,24.77,51520,1.6
+California,"Credit Authorizers, Checkers, and Clerks",2150,7.5,0.123,0.68,20.86,43390,2.1
+California,Customer Service Representatives,208600,1.9,12.001,0.6,20.5,42650,0.5
+California,"Eligibility Interviewers, Government Programs",21160,1.8,1.218,1.28,26.21,54530,1.7
+California,File Clerks,12950,5.6,0.745,1.07,18.05,37550,1.5
+California,"Hotel, Motel, and Resort Desk Clerks",26560,3.3,1.528,0.84,15.03,31260,1
+California,"Interviewers, Except Eligibility and Loan",19450,4.9,1.119,0.87,21.25,44190,1.1
+California,"Library Assistants, Clerical",8610,4.5,0.495,0.85,18.4,38280,1.9
+California,Loan Interviewers and Clerks,18840,4.7,1.084,0.76,22.52,46840,1.2
+California,New Accounts Clerks,2890,15.4,0.166,0.56,*,*,*
+California,Order Clerks,30150,4.8,1.735,1.86,19.12,39780,1
+California,"Human Resources Assistants, Except Payroll and Timekeeping",13150,3,0.757,0.95,21.89,45530,0.7
+California,Receptionists and Information Clerks,95470,2.3,5.493,0.76,16.7,34740,0.5
+California,Reservation and Transportation Ticket Agents and Travel Clerks,15970,6.2,0.918,1.09,20.97,43610,2.9
+California,"Information and Record Clerks, All Other",21630,2.8,1.244,1.19,22.75,47320,1.1
+California,Cargo and Freight Agents,13670,5.6,0.786,1.21,23.01,47850,2.5
+California,Couriers and Messengers,9410,8.4,0.541,1.06,17.4,36200,2.4
+California,Public Safety Telecommunicators,6850,3,0.394,0.61,31.96,66480,1.1
+California,"Dispatchers, Except Police, Fire, and Ambulance",20850,3.6,1.2,0.88,22.29,46370,1.1
+California,"Meter Readers, Utilities",1600,7.7,0.092,0.44,29.8,61980,1.5
+California,Postal Service Clerks,7400,0,0.426,0.77,25.58,53220,1
+California,Postal Service Mail Carriers,33730,0,1.94,0.84,26.18,54450,1.3
+California,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",12210,0,0.703,1.01,24.85,51680,1.2
+California,"Production, Planning, and Expediting Clerks",52540,4.2,3.023,1.2,25.85,53770,0.6
+California,"Shipping, Receiving, and Inventory Clerks",88910,2.6,5.115,1.07,17.98,37410,0.6
+California,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",10940,6.6,0.629,1.52,17.22,35820,1.4
+California,Executive Secretaries and Executive Administrative Assistants,65800,2.4,3.785,1.02,34.61,71990,0.6
+California,Legal Secretaries and Administrative Assistants,26710,4.2,1.537,1.34,27.58,57370,1.8
+California,Medical Secretaries and Administrative Assistants,95120,2.6,5.472,1.33,21.21,44110,0.8
+California,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",227540,2.1,13.09,0.94,21.58,44880,0.5
+California,Data Entry Keyers,18290,4.6,1.052,0.97,17.65,36710,0.9
+California,Word Processors and Typists,7610,3.7,0.438,1.36,22.54,46880,2.7
+California,Desktop Publishers,690,20.2,0.04,0.67,29.21,60750,5.1
+California,Insurance Claims and Policy Processing Clerks,37710,4.2,2.17,1.24,22.34,46470,1.1
+California,"Mail Clerks and Mail Machine Operators, Except Postal Service",6020,8.2,0.346,0.61,16.57,34480,1.9
+California,"Office Clerks, General",333940,2.7,19.211,0.95,19.14,39810,0.8
+California,"Office Machine Operators, Except Computer",5480,15,0.315,1.01,18.34,38150,2.1
+California,Proofreaders and Copy Markers,860,17,0.05,0.95,22.56,46930,3.5
+California,Statistical Assistants,1100,15.2,0.063,0.95,23.85,49600,4.8
+California,"Office and Administrative Support Workers, All Other",44450,3.5,2.557,1.99,19.67,40910,2
+California,"Farming, Fishing, and Forestry Occupations",234050,2.1,13.465,4.08,13.91,28920,0.7
+California,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",7450,5.1,0.429,2.79,23.52,48920,2.1
+California,Agricultural Inspectors,2090,2.1,0.12,1.28,23.35,48570,2.2
+California,Animal Breeders,160,35.1,0.009,0.81,21.09,43870,7.4
+California,"Graders and Sorters, Agricultural Products",8310,9.7,0.478,2.04,12.91,26850,1.3
+California,Agricultural Equipment Operators,6880,9.4,0.396,2.16,15.93,33120,1.8
+California,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",201440,2.6,11.589,5.76,13.25,27550,0.8
+California,"Farmworkers, Farm, Ranch, and Aquacultural Animals",2410,6.3,0.139,0.56,15.58,32410,1.9
+California,"Agricultural Workers, All Other",1550,11.8,0.089,2,19.33,40200,4.5
+California,Forest and Conservation Workers,2000,10.5,0.115,2.5,14.6,30360,1.3
+California,Fallers,330,28,0.019,0.57,30.96,64390,7.5
+California,Logging Equipment Operators,1090,16,0.063,0.35,25.69,53440,2.7
+California,Log Graders and Scalers,180,36.2,0.01,0.46,20.56,42770,5.6
+California,"Logging Workers, All Other",90,39.2,0.005,0.2,22.26,46290,4.5
+California,Construction and Extraction Occupations,688660,0.8,39.618,0.94,29.52,61400,0.5
+California,First-Line Supervisors of Construction Trades and Extraction Workers,57530,2.6,3.31,0.78,40.31,83840,0.9
+California,Boilermakers,570,22.1,0.033,0.3,37.03,77020,5.4
+California,Brickmasons and Blockmasons,3260,14,0.187,0.45,34.03,70780,7
+California,Stonemasons,3560,16.6,0.205,2.43,25.75,53560,6.2
+California,Carpenters,106300,2.5,6.115,1.22,29.7,61780,0.9
+California,Carpet Installers,5700,12.6,0.328,1.85,24.3,50540,4.4
+California,"Floor Layers, Except Carpet, Wood, and Hard Tiles",4590,13.6,0.264,2.38,25.67,53400,4.8
+California,Floor Sanders and Finishers,570,35.1,0.033,0.98,27.77,57760,12.4
+California,Tile and Stone Setters,7230,10.4,0.416,1.51,25.31,52650,2.4
+California,Cement Masons and Concrete Finishers,28170,4.7,1.62,1.21,27.54,57290,1.5
+California,Terrazzo Workers and Finishers,330,36.9,0.019,0.94,29.52,61400,5.8
+California,Construction Laborers,101900,2.7,5.862,0.84,23.89,49680,0.8
+California,"Paving, Surfacing, and Tamping Equipment Operators",2870,13.6,0.165,0.53,27.38,56950,3
+California,Pile Driver Operators,390,24.2,0.023,0.94,45.08,93780,8.2
+California,Operating Engineers and Other Construction Equipment Operators,28450,3.1,1.637,0.59,36.27,75440,1
+California,Drywall and Ceiling Tile Installers,31430,4.9,1.808,2.58,29.33,61000,2.1
+California,Tapers,6830,9.7,0.393,3.21,31.2,64900,2
+California,Electricians,72870,2.6,4.192,0.89,33.87,70460,1.8
+California,Glaziers,6470,14.8,0.372,1.04,29.25,60840,3.7
+California,"Insulation Workers, Floor, Ceiling, and Wall",2020,18.7,0.116,0.51,26.9,55960,5.3
+California,"Painters, Construction and Maintenance",38510,3.4,2.216,1.4,25,52000,1.6
+California,Paperhangers,**,**,**,**,22.32,46430,20.9
+California,Pipelayers,2380,15,0.137,0.55,28.39,59060,2.6
+California,"Plumbers, Pipefitters, and Steamfitters",47360,4.3,2.725,0.9,31.13,64740,2.1
+California,Plasterers and Stucco Masons,8610,11.4,0.496,2.66,26.17,54440,2.4
+California,Reinforcing Iron and Rebar Workers,2330,19.8,0.134,1.04,21.55,44830,7.1
+California,Roofers,18900,4.1,1.087,1.23,25.47,52980,1.7
+California,Sheet Metal Workers,12410,8.6,0.714,0.8,29.46,61270,2.7
+California,Structural Iron and Steel Workers,9950,8.9,0.572,1.1,31.84,66220,2
+California,Solar Photovoltaic Installers,4970,17.5,0.286,3.79,22.91,47640,2.9
+California,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",4400,10,0.253,1.58,19.97,41540,2.8
+California,Helpers--Carpenters,3500,11.8,0.201,0.9,18.73,38970,2
+California,Helpers--Electricians,4740,13.3,0.272,0.5,19.13,39800,3.2
+California,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",2040,25.6,0.117,1.59,17.56,36520,3.4
+California,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",3400,14.1,0.196,0.49,18.26,37970,4.3
+California,Helpers--Roofers,990,34.1,0.057,0.93,21.36,44420,5.7
+California,"Helpers, Construction Trades, All Other",3140,13.5,0.181,0.93,17.01,35380,3.2
+California,Construction and Building Inspectors,10320,5.3,0.594,0.79,42.72,88860,2
+California,Elevator and Escalator Installers and Repairers,2740,21.4,0.158,0.82,44.36,92280,3.5
+California,Fence Erectors,3490,15.5,0.201,1.14,21,43680,5.6
+California,Hazardous Materials Removal Workers,6240,10.9,0.359,1.19,24.14,50210,2.2
+California,Highway Maintenance Workers,6480,5.4,0.373,0.36,26.22,54540,1.5
+California,Rail-Track Laying and Maintenance Equipment Operators,240,37.8,0.014,0.13,26.37,54850,2.8
+California,Septic Tank Servicers and Sewer Pipe Cleaners,2570,15.9,0.148,0.73,22.57,46950,4.6
+California,Miscellaneous Construction and Related Workers,3030,16.4,0.174,0.8,26.14,54360,4.8
+California,"Derrick Operators, Oil and Gas",890,23.8,0.051,0.62,25.15,52310,2.3
+California,"Rotary Drill Operators, Oil and Gas",1680,11.6,0.096,0.67,33.14,68930,4.2
+California,"Service Unit Operators, Oil and Gas",2340,13.3,0.134,0.38,27.53,57260,2.5
+California,"Excavating and Loading Machine and Dragline Operators, Surface Mining",2300,13.6,0.133,0.44,30.47,63390,2.9
+California,Continuous Mining Machine Operators,650,18.8,0.038,0.38,24.18,50300,3.9
+California,"Loading and Moving Machine Operators, Underground Mining",50,48.2,0.003,0.1,36.95,76860,12
+California,"Rock Splitters, Quarry",100,31.7,0.006,0.17,20.3,42230,9.9
+California,"Roustabouts, Oil and Gas",1350,30.6,0.078,0.19,18.62,38730,6.2
+California,Helpers--Extraction Workers,1100,15.8,0.063,0.56,20.66,42960,4.3
+California,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",2430,17.6,0.14,0.82,25.82,53710,3.7
+California,"Underground Mining Machine Operators and Extraction Workers, All Other",530,30.3,0.031,0.33,28.23,58710,8.3
+California,"Installation, Maintenance, and Repair Occupations",538120,1,30.958,0.8,26.77,55680,0.4
+California,"First-Line Supervisors of Mechanics, Installers, and Repairers",40350,1.8,2.321,0.7,39.33,81810,0.6
+California,"Computer, Automated Teller, and Office Machine Repairers",10600,7.7,0.61,0.91,21.04,43770,1.5
+California,"Radio, Cellular, and Tower Equipment Installers and Repairers",990,26.5,0.057,0.58,33.09,68830,8.5
+California,"Telecommunications Equipment Installers and Repairers, Except Line Installers",26340,6,1.515,1.07,30.06,62530,1.8
+California,Avionics Technicians,1620,10.7,0.093,0.63,36.41,75740,3
+California,"Electric Motor, Power Tool, and Related Repairers",1250,36,0.072,0.66,23.92,49750,4.3
+California,"Electrical and Electronics Installers and Repairers, Transportation Equipment",1160,16.2,0.066,1,37.5,78000,2.7
+California,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",5190,9.3,0.299,0.74,31.1,64680,2.3
+California,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1420,11.3,0.082,0.53,46.83,97400,3.6
+California,"Electronic Equipment Installers and Repairers, Motor Vehicles",1880,23.8,0.108,1.54,19.06,39650,4.2
+California,Audiovisual Equipment Installers and Repairers,1280,26,0.073,0.42,22.94,47710,4.6
+California,Security and Fire Alarm Systems Installers,8440,9.7,0.485,1,25.03,52070,1.8
+California,Aircraft Mechanics and Service Technicians,13800,5.1,0.794,0.87,34.56,71890,2.1
+California,Automotive Body and Related Repairers,12940,4.5,0.744,0.76,25.46,52950,2.1
+California,Automotive Glass Installers and Repairers,2340,22.7,0.135,1.02,16.88,35110,5.5
+California,Automotive Service Technicians and Mechanics,66270,2.5,3.812,0.85,24.15,50230,1.1
+California,Bus and Truck Mechanics and Diesel Engine Specialists,22330,5,1.285,0.71,28.11,58470,1.3
+California,Farm Equipment Mechanics and Service Technicians,3680,8.7,0.212,0.86,22.38,46540,2.4
+California,"Mobile Heavy Equipment Mechanics, Except Engines",12980,4.7,0.747,0.74,32.42,67430,1.2
+California,Rail Car Repairers,**,**,**,**,25.79,53650,7.6
+California,Motorboat Mechanics and Service Technicians,1690,14.1,0.097,0.62,22.33,46450,3.7
+California,Motorcycle Mechanics,1430,14.4,0.082,0.77,23.57,49030,2.8
+California,Outdoor Power Equipment and Other Small Engine Mechanics,2200,9.7,0.127,0.58,19.99,41580,1.9
+California,Bicycle Repairers,3460,22.5,0.199,2.22,16.13,33560,4.5
+California,Recreational Vehicle Service Technicians,1810,14.7,0.104,0.98,20.38,42390,2.9
+California,Tire Repairers and Changers,10940,9.4,0.63,0.83,16.35,34010,1.6
+California,Mechanical Door Repairers,2140,21.4,0.123,0.79,24.57,51100,3
+California,"Control and Valve Installers and Repairers, Except Mechanical Door",3990,10,0.23,0.65,33.4,69470,2.8
+California,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",29650,6.5,1.706,0.73,28.63,59550,1.6
+California,Home Appliance Repairers,2180,11.2,0.126,0.59,22.14,46060,3.2
+California,Industrial Machinery Mechanics,27170,3.4,1.563,0.59,29.83,62050,0.9
+California,"Maintenance Workers, Machinery",6740,5.5,0.388,0.78,27.1,56370,1.5
+California,Millwrights,2710,15.2,0.156,0.48,32.85,68340,4.1
+California,Electrical Power-Line Installers and Repairers,6730,6.1,0.387,0.51,46.78,97300,1.5
+California,Telecommunications Line Installers and Repairers,14760,8.4,0.849,1.03,31.89,66340,2.9
+California,Camera and Photographic Equipment Repairers,610,32,0.035,1.43,20.4,42430,4.1
+California,Medical Equipment Repairers,5210,7.8,0.3,0.95,30.09,62580,2.2
+California,Musical Instrument Repairers and Tuners,930,21.6,0.053,0.98,19.67,40910,6
+California,Watch and Clock Repairers,400,39.9,0.023,1.22,25.73,53510,13.8
+California,"Precision Instrument and Equipment Repairers, All Other",1960,15.2,0.112,1.56,30.36,63140,4.2
+California,"Maintenance and Repair Workers, General",135160,1.7,7.776,0.8,22.58,46970,0.6
+California,Wind Turbine Service Technicians,480,19.4,0.028,0.68,31.31,65130,4.4
+California,"Coin, Vending, and Amusement Machine Servicers and Repairers",3000,10.1,0.172,0.81,18.21,37870,3.8
+California,Commercial Divers,390,46.9,0.022,0.95,*,*,*
+California,Locksmiths and Safe Repairers,2290,14.1,0.132,1.14,22.6,47010,2.9
+California,Manufactured Building and Mobile Home Installers,**,**,**,**,18.62,38720,11
+California,Riggers,2350,22.8,0.135,0.86,28.04,58320,4.8
+California,Signal and Track Switch Repairers,280,13.3,0.016,0.34,41.33,85970,6.7
+California,"Helpers--Installation, Maintenance, and Repair Workers",10190,9.1,0.586,0.87,17.13,35620,1.4
+California,"Installation, Maintenance, and Repair Workers, All Other",21640,6.1,1.245,1.13,22.94,47720,1.5
+California,Production Occupations,836780,1,48.139,0.77,19.99,41580,0.4
+California,First-Line Supervisors of Production and Operating Workers,49390,1.7,2.842,0.66,33.31,69280,0.6
+California,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",3120,13.3,0.179,0.61,24.54,51040,4.1
+California,"Coil Winders, Tapers, and Finishers",1340,28.8,0.077,0.89,17.69,36790,4
+California,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",41520,4.3,2.388,1.23,19.23,40000,1.5
+California,Engine and Other Machine Assemblers,1690,17.5,0.097,0.31,19.27,40080,3.7
+California,Structural Metal Fabricators and Fitters,5430,9.3,0.312,0.6,20.39,42420,2.4
+California,Fiberglass Laminators and Fabricators,1270,31.9,0.073,0.54,18.59,38670,2.9
+California,Miscellaneous Assemblers and Fabricators,110380,2.7,6.35,0.68,16.96,35280,1.6
+California,Bakers,23580,5.3,1.357,1.08,15.67,32580,1.2
+California,Butchers and Meat Cutters,24010,6.1,1.381,1.48,16.56,34440,1.6
+California,"Meat, Poultry, and Fish Cutters and Trimmers",8000,17.4,0.46,0.44,14.38,29900,2.1
+California,Slaughterers and Meat Packers,4980,18.3,0.286,0.57,13.8,28710,1.1
+California,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1900,11.4,0.109,0.77,16.32,33940,1.9
+California,Food Batchmakers,17380,7.1,1,0.92,15.12,31460,1.1
+California,Food Cooking Machine Operators and Tenders,3660,18.3,0.211,1.03,15.64,32520,1.5
+California,"Food Processing Workers, All Other",6200,12.8,0.356,1.22,14.68,30530,1.2
+California,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",5490,14.3,0.316,0.6,16.38,34080,2.6
+California,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1610,22,0.093,0.83,19.61,40780,2.9
+California,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1250,14.8,0.072,0.33,19.46,40470,3.4
+California,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",11800,5.8,0.679,0.51,18.36,38190,1.3
+California,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1890,11.7,0.108,1.47,19.54,40650,2.6
+California,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",8180,6.9,0.47,0.9,18.15,37750,1.4
+California,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3060,11.8,0.176,0.92,21.52,44760,1.7
+California,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",2390,12.2,0.138,1.08,20.46,42550,2.7
+California,Machinists,36120,3.5,2.078,0.8,23.25,48360,1.1
+California,Metal-Refining Furnace Operators and Tenders,460,16.9,0.026,0.23,19.75,41080,5.3
+California,"Pourers and Casters, Metal",490,32,0.028,0.52,17.79,37000,4.9
+California,"Model Makers, Metal and Plastic",300,35.5,0.017,0.6,27.5,57200,4.7
+California,"Patternmakers, Metal and Plastic",50,18.4,0.003,0.15,24.55,51070,11.5
+California,Foundry Mold and Coremakers,600,38.1,0.035,0.29,16.99,35350,3.4
+California,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",7920,9.1,0.456,0.39,18.09,37640,1.5
+California,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",5890,12,0.339,0.34,18.24,37930,1.8
+California,Tool and Die Makers,2700,7.3,0.155,0.32,29.29,60930,1.8
+California,"Welders, Cutters, Solderers, and Brazers",28980,3.7,1.667,0.6,23.03,47910,1.1
+California,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",2790,18.8,0.161,0.67,19.95,41500,2
+California,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1100,16.8,0.063,0.47,20.82,43300,3.5
+California,"Layout Workers, Metal and Plastic",440,17.5,0.025,0.45,21.7,45140,3.1
+California,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",5690,11,0.327,1.15,18.13,37720,1.7
+California,"Tool Grinders, Filers, and Sharpeners",680,17.5,0.039,0.89,20.83,43320,5.6
+California,"Metal Workers and Plastic Workers, All Other",2090,11.1,0.12,0.73,18.83,39170,2.5
+California,Prepress Technicians and Workers,3470,8.8,0.2,0.97,20.41,42460,2.9
+California,Printing Press Operators,14860,4.8,0.855,0.72,19.16,39860,1.3
+California,Print Binding and Finishing Workers,3790,14.6,0.218,0.7,17.57,36550,1.9
+California,Laundry and Dry-Cleaning Workers,16540,4.4,0.951,0.67,14.49,30140,1
+California,"Pressers, Textile, Garment, and Related Materials",6560,9.8,0.377,1.46,13.51,28090,1.2
+California,Sewing Machine Operators,22800,5.1,1.312,1.44,13.57,28220,0.9
+California,Shoe and Leather Workers and Repairers,1180,16,0.068,1.14,15.89,33060,2.6
+California,Shoe Machine Operators and Tenders,70,31.5,0.004,0.11,15.39,32010,4.2
+California,"Sewers, Hand",720,26.8,0.041,1.27,15.31,31840,3
+California,"Tailors, Dressmakers, and Custom Sewers",3350,16.7,0.193,1.17,21.68,45090,4.1
+California,Textile Bleaching and Dyeing Machine Operators and Tenders,1420,22.9,0.082,1.38,14.74,30660,4
+California,"Textile Cutting Machine Setters, Operators, and Tenders",1300,23.6,0.075,0.83,14.37,29890,2
+California,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",1290,27.9,0.074,0.52,13.65,28400,2.2
+California,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",370,42.2,0.021,0.1,16.19,33670,10.3
+California,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",720,31.3,0.041,0.33,17.81,37040,2
+California,Fabric and Apparel Patternmakers,1590,14.7,0.091,2.29,27.41,57010,4.6
+California,Upholsterers,2760,12,0.159,0.79,18.45,38370,2.1
+California,"Textile, Apparel, and Furnishings Workers, All Other",1620,15.3,0.093,0.76,15.42,32070,3
+California,Cabinetmakers and Bench Carpenters,9260,6.4,0.533,0.79,18.8,39110,1.7
+California,Furniture Finishers,1510,10.5,0.087,0.79,16.38,34060,2.3
+California,"Model Makers, Wood",**,**,**,**,31.05,64590,2.7
+California,"Sawing Machine Setters, Operators, and Tenders, Wood",2950,11.6,0.17,0.49,15.43,32080,1.4
+California,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",4280,8.6,0.246,0.46,16.37,34040,1.9
+California,"Woodworkers, All Other",950,34.5,0.054,1.19,19.28,40100,3.7
+California,Power Distributors and Dispatchers,1150,9.6,0.066,0.9,47.34,98480,2.9
+California,Power Plant Operators,3820,13.9,0.22,0.96,45.62,94880,1.8
+California,Stationary Engineers and Boiler Operators,3270,3.8,0.188,0.85,41.59,86510,1.9
+California,Water and Wastewater Treatment Plant and System Operators,11400,3.2,0.656,0.78,35.86,74590,1.1
+California,Chemical Plant and System Operators,1560,24.5,0.09,0.46,28.47,59220,6.6
+California,Gas Plant Operators,890,8.7,0.051,0.52,48.99,101900,1.4
+California,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",4360,8.1,0.251,0.91,41.67,86670,1.9
+California,"Plant and System Operators, All Other",1590,11.6,0.091,1.03,34.4,71540,3.2
+California,Chemical Equipment Operators and Tenders,3570,14.1,0.205,0.35,24.45,50850,2.4
+California,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",8810,5.7,0.507,1.45,24.72,51410,2.3
+California,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",3130,8.5,0.18,0.79,17.33,36040,1.9
+California,"Grinding and Polishing Workers, Hand",3770,8.7,0.217,1.09,16.77,34870,2.1
+California,"Mixing and Blending Machine Setters, Operators, and Tenders",12200,6.5,0.702,0.82,20.19,41990,2
+California,"Cutters and Trimmers, Hand",1690,19.9,0.097,1.47,15.89,33040,2.2
+California,"Cutting and Slicing Machine Setters, Operators, and Tenders",4220,11.4,0.243,0.62,18.28,38020,2.3
+California,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",4960,8.7,0.285,0.58,18.08,37610,1.6
+California,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",830,12,0.048,0.37,20.09,41790,2.6
+California,"Inspectors, Testers, Sorters, Samplers, and Weighers",58360,2.4,3.358,0.85,21.84,45420,0.7
+California,Jewelers and Precious Stone and Metal Workers,2660,15.1,0.153,0.95,21.05,43770,4.2
+California,Dental Laboratory Technicians,4960,8.8,0.285,1.22,21.01,43700,2.7
+California,Medical Appliance Technicians,1350,24.4,0.078,0.81,26,54090,3.5
+California,Ophthalmic Laboratory Technicians,3290,21.3,0.189,0.95,18.23,37920,2.8
+California,Packaging and Filling Machine Operators and Tenders,47860,5,2.753,1.04,16.12,33530,0.9
+California,"Painting, Coating, and Decorating Workers",1200,13.1,0.069,0.82,19.43,40420,4.9
+California,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",12960,4.3,0.746,0.75,20.84,43340,1.5
+California,Semiconductor Processing Technicians,5010,16.3,0.288,1.53,19.55,40660,2.8
+California,Photographic Process Workers and Processing Machine Operators,2180,17.8,0.125,1.54,19.73,41040,3.7
+California,Computer Numerically Controlled Tool Operators,13140,5.7,0.756,0.73,21.89,45530,1.6
+California,Computer Numerically Controlled Tool Programmers,2690,6.8,0.155,0.89,35.18,73170,1.8
+California,Adhesive Bonding Machine Operators and Tenders,990,17.8,0.057,0.6,17.54,36490,3.8
+California,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",1980,8.7,0.114,1.02,19.25,40040,4.7
+California,Cooling and Freezing Equipment Operators and Tenders,1280,15.3,0.073,1.23,17.21,35800,4
+California,Etchers and Engravers,790,22.3,0.045,0.64,16.53,34370,2.9
+California,"Molders, Shapers, and Casters, Except Metal and Plastic",4690,9.8,0.27,0.88,18.6,38680,2
+California,"Paper Goods Machine Setters, Operators, and Tenders",5460,11.3,0.314,0.46,18.48,38430,3.3
+California,Tire Builders,310,40.3,0.018,0.12,17.07,35500,9.5
+California,Helpers--Production Workers,26810,4.1,1.542,0.75,14.87,30920,0.8
+California,"Production Workers, All Other",27860,5.6,1.603,1.06,17.27,35920,1.7
+California,Transportation and Material Moving Occupations,1453200,1,83.602,0.98,19.03,39570,1.1
+California,Aircraft Cargo Handling Supervisors,1140,23.1,0.066,1.02,24.43,50820,3.1
+California,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",50040,2.1,2.879,0.93,28.39,59040,0.8
+California,"Airline Pilots, Copilots, and Flight Engineers",10340,6,0.595,1.03,*,208070,7.8
+California,Commercial Pilots,4030,10.6,0.232,0.9,*,108580,4.8
+California,Air Traffic Controllers,2210,1.8,0.127,0.85,63.71,132510,1.4
+California,Airfield Operations Specialists,1830,11.9,0.106,1.45,29.8,61990,4.3
+California,Flight Attendants,16540,4.3,0.951,1.16,*,54580,2.1
+California,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",1310,32.3,0.075,0.75,19.6,40770,9.4
+California,Driver/Sales Workers,43980,6.8,2.53,0.84,17.24,35860,2.2
+California,Heavy and Tractor-Trailer Truck Drivers,146730,2.1,8.441,0.67,23.29,48450,0.8
+California,Light Truck Drivers,110370,2.9,6.349,1.01,20.66,42960,1.2
+California,"Bus Drivers, Transit and Intercity",30750,11.1,1.769,1.45,24.86,51700,2.6
+California,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",56120,10.3,3.229,0.68,18.01,37460,1.2
+California,"Motor Vehicle Operators, All Other",5590,13.4,0.321,0.83,26.27,54640,5.3
+California,Locomotive Engineers,1770,23.9,0.102,0.42,40.74,84740,5
+California,"Rail Yard Engineers, Dinkey Operators, and Hostlers",890,48.3,0.051,1.39,24.76,51500,2.7
+California,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",420,4.4,0.024,0.32,37.1,77170,6.5
+California,Railroad Conductors and Yardmasters,1660,36.4,0.096,0.31,35.28,73380,5.9
+California,Subway and Streetcar Operators,1730,28.5,0.1,1.36,27.59,57390,2.3
+California,"Rail Transportation Workers, All Other",610,15.9,0.035,1.94,28.37,59000,6.1
+California,Sailors and Marine Oilers,1700,19.7,0.098,0.46,24.76,51490,5.6
+California,"Captains, Mates, and Pilots of Water Vessels",1790,10.8,0.103,0.45,38.87,80850,4.7
+California,Motorboat Operators,70,11.1,0.004,0.27,22.51,46810,14
+California,Ship Engineers,310,29.1,0.018,0.31,40.13,83470,2
+California,Bridge and Lock Tenders,50,4.4,0.003,0.15,25.78,53620,3.5
+California,Parking Attendants,23580,8.4,1.356,1.35,14.24,29620,1.7
+California,Automotive and Watercraft Service Attendants,6760,11.2,0.389,0.49,15.2,31620,1.2
+California,Traffic Technicians,690,17,0.04,0.79,31.08,64640,4.1
+California,Transportation Inspectors,3080,11.2,0.177,0.87,38.22,79510,2.9
+California,Passenger Attendants,3960,16.6,0.228,1.19,15.88,33020,5
+California,"Aircraft Service Attendants and Transportation Workers, All Other",2120,7,0.122,0.51,*,*,*
+California,Conveyor Operators and Tenders,2180,15.1,0.125,0.77,17.7,36810,4.4
+California,Crane and Tower Operators,3530,18,0.203,0.66,34.01,70740,6.6
+California,Dredge Operators,90,21.2,0.005,0.49,*,*,*
+California,Hoist and Winch Operators,**,**,**,**,33.12,68880,2.4
+California,Industrial Truck and Tractor Operators,64760,3.9,3.726,0.87,18.78,39060,0.7
+California,Cleaners of Vehicles and Equipment,59010,3,3.395,1.3,14.68,30530,1.3
+California,"Laborers and Freight, Stock, and Material Movers, Hand",393460,2.3,22.636,1.13,16.25,33800,0.7
+California,Machine Feeders and Offbearers,7350,9.6,0.423,0.98,16.03,33340,1.7
+California,"Packers and Packagers, Hand",98280,7.8,5.654,1.31,13.91,28930,1
+California,Stockers and Order Fillers,263730,2.7,15.172,1.04,15.57,32390,0.4
+California,Gas Compressor and Gas Pumping Station Operators,**,**,**,**,23.94,49800,27.4
+California,"Pump Operators, Except Wellhead Pumpers",450,23.9,0.026,0.38,26.97,56090,4.9
+California,Wellhead Pumpers,180,27.8,0.01,0.12,23.45,48780,3.5
+California,Refuse and Recyclable Material Collectors,13640,8.6,0.785,0.95,27.16,56500,2.8
+California,"Tank Car, Truck, and Ship Loaders",870,34,0.05,0.64,22.69,47190,8.4
+California,"Material Moving Workers, All Other",11890,7.3,0.684,3.56,15.49,32220,1.9

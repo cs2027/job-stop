@@ -1,0 +1,753 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+New Jersey,All Occupations,4087950,0.5,1000,1,28.84,59980,0.6
+New Jersey,Management Occupations,218260,1.1,53.391,0.97,73.63,153160,0.6
+New Jersey,Chief Executives,770,7.2,0.188,0.13,121.79,253320,4
+New Jersey,General and Operations Managers,46400,2.9,11.349,0.69,78.89,164090,1
+New Jersey,Legislators,2780,9.2,0.679,1.91,*,*,*
+New Jersey,Advertising and Promotions Managers,360,9.4,0.089,0.52,81.75,170040,3.2
+New Jersey,Marketing Managers,11220,4,2.743,1.53,85.72,178300,2
+New Jersey,Sales Managers,14770,3.1,3.613,1.32,85.07,176950,1.3
+New Jersey,Public Relations and Fundraising Managers,2100,5.2,0.515,0.95,79.55,165470,2.8
+New Jersey,Administrative Services and Facilities Managers,12840,2.4,3.14,1.5,62.91,130850,1.3
+New Jersey,Computer and Information Systems Managers,15570,3.5,3.81,1.29,87.32,181620,1.5
+New Jersey,Financial Managers,22000,2.3,5.383,1.21,85.29,177410,1.1
+New Jersey,Industrial Production Managers,5290,3.8,1.295,1.02,65.78,136830,1.7
+New Jersey,Purchasing Managers,2010,4.6,0.491,1,80.26,166940,1.7
+New Jersey,"Transportation, Storage, and Distribution Managers",5680,3.8,1.389,1.54,60.05,124890,1.2
+New Jersey,Compensation and Benefits Managers,430,7.8,0.105,0.91,90.73,188710,2.2
+New Jersey,Human Resources Managers,4220,5.4,1.031,0.98,82.72,172060,3.4
+New Jersey,Training and Development Managers,960,5.6,0.234,0.89,81.7,169940,1.9
+New Jersey,Construction Managers,6920,5.4,1.693,0.85,70.87,147410,2.3
+New Jersey,"Education and Childcare Administrators, Preschool and Daycare",1760,8.7,0.431,1.21,35.98,74840,9.8
+New Jersey,"Education Administrators, Kindergarten through Secondary",9370,4.1,2.291,1.24,*,129990,1
+New Jersey,"Education Administrators, Postsecondary",2110,11.2,0.517,0.52,74.25,154430,3.3
+New Jersey,"Education Administrators, All Other",530,12.7,0.129,0.42,49.69,103350,3.6
+New Jersey,Architectural and Engineering Managers,4160,5.2,1.018,0.77,80.81,168080,1.2
+New Jersey,Food Service Managers,3170,8.7,0.776,0.48,40.07,83350,2.6
+New Jersey,Gambling Managers,180,12.9,0.044,1.46,*,*,*
+New Jersey,Lodging Managers,340,42.2,0.084,0.32,40.61,84470,9.3
+New Jersey,Medical and Health Services Managers,12620,3.3,3.086,1.15,58.01,120650,1.1
+New Jersey,Natural Sciences Managers,**,**,**,**,91.46,190240,2.4
+New Jersey,Postmasters and Mail Superintendents,440,0,0.107,1.13,39.67,82500,0.9
+New Jersey,"Property, Real Estate, and Community Association Managers",4550,10.6,1.112,0.74,43.85,91200,9.2
+New Jersey,Social and Community Service Managers,3470,4.4,0.85,0.8,42.44,88270,1.5
+New Jersey,Emergency Management Directors,310,13.9,0.077,1.12,44.14,91820,3.2
+New Jersey,Funeral Home Managers,320,32.4,0.078,1.22,*,*,*
+New Jersey,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",15360,2.8,3.758,1.17,68.95,143410,1
+New Jersey,Business and Financial Operations Occupations,251600,1.1,61.546,1.1,42.3,87980,0.7
+New Jersey,"Agents and Business Managers of Artists, Performers, and Athletes",140,28.4,0.035,0.3,41.04,85360,6
+New Jersey,Buyers and Purchasing Agents,11410,3.6,2.791,0.97,40.55,84350,1.6
+New Jersey,"Claims Adjusters, Examiners, and Investigators",10070,4.9,2.463,1.26,37.92,78880,1.6
+New Jersey,"Insurance Appraisers, Auto Damage",640,49.5,0.156,1.67,32.93,68500,2.8
+New Jersey,Compliance Officers,12870,3.8,3.149,1.46,40.8,84860,1.6
+New Jersey,Cost Estimators,5510,6.1,1.348,0.94,36.48,75880,2
+New Jersey,Human Resources Specialists,18200,3.6,4.453,1.03,36.72,76380,1.5
+New Jersey,Labor Relations Specialists,4160,8.6,1.018,1.98,53.64,111570,7.3
+New Jersey,Logisticians,8310,5.7,2.033,1.64,41.66,86660,2
+New Jersey,Management Analysts,15250,3.7,3.731,0.77,51.14,106380,2.2
+New Jersey,"Meeting, Convention, and Event Planners",2620,9.9,0.64,0.8,32.98,68590,2.7
+New Jersey,Fundraisers,1090,7.7,0.268,0.48,32.33,67240,2.5
+New Jersey,"Compensation, Benefits, and Job Analysis Specialists",3940,12.9,0.965,1.59,42.6,88600,4.6
+New Jersey,Training and Development Specialists,6410,4.4,1.568,0.74,37.2,77370,1.5
+New Jersey,Market Research Analysts and Marketing Specialists,20400,4.4,4.99,1.08,43.92,91360,2.5
+New Jersey,"Project Management Specialists and Business Operations Specialists, All Other",49290,2.2,12.057,1.38,40.02,83250,1
+New Jersey,Accountants and Auditors,39820,2.1,9.741,1.12,44.21,91960,0.9
+New Jersey,Property Appraisers and Assessors,1090,6,0.268,0.7,36.52,75950,2.9
+New Jersey,Budget Analysts,1910,6.1,0.467,1.33,41.19,85680,1.5
+New Jersey,Credit Analysts,2440,8.4,0.596,1.18,42.76,88940,1.9
+New Jersey,Personal Financial Advisors,4480,11.4,1.096,0.77,58.12,120880,4.2
+New Jersey,Insurance Underwriters,3470,10.1,0.848,1.24,40.35,83940,2
+New Jersey,Financial Examiners,1890,14.9,0.461,1.05,55.11,114640,3.3
+New Jersey,Credit Counselors,740,15,0.182,0.83,34.23,71190,2.5
+New Jersey,Loan Officers,5790,7.1,1.415,0.67,38.73,80570,2.6
+New Jersey,"Tax Examiners and Collectors, and Revenue Agents",1460,2.6,0.358,0.98,37.49,77980,1
+New Jersey,Tax Preparers,1330,31.2,0.325,0.72,25.36,52750,10.5
+New Jersey,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",16870,3.9,4.126,1.32,47.68,99170,1.7
+New Jersey,Computer and Mathematical Occupations,143860,2.2,35.191,1.14,49.61,103180,1.2
+New Jersey,Computer Systems Analysts,18510,5.8,4.528,1.13,50.3,104630,1.8
+New Jersey,Information Security Analysts,4120,7.5,1.009,1.18,58.45,121570,1.7
+New Jersey,Computer and Information Research Scientists,1110,16.3,0.271,1.29,59.87,124540,3
+New Jersey,Computer Network Support Specialists,5350,9.6,1.308,1.04,42.82,89060,2.1
+New Jersey,Computer User Support Specialists,14200,3.4,3.473,0.79,32.31,67210,2.2
+New Jersey,Computer Network Architects,4940,8.9,1.209,1.17,60.73,126310,3.4
+New Jersey,Network and Computer Systems Administrators,11140,4.1,2.724,1.13,49.64,103240,1.4
+New Jersey,Database Administrators and Architects,4090,4.7,1,1.17,55.58,115600,1.3
+New Jersey,Computer Programmers,9070,8.5,2.219,1.63,44.91,93410,3
+New Jersey,Software Developers and Software Quality Assurance Analysts and Testers,50320,3.1,12.308,1.28,54.57,113510,1.2
+New Jersey,Web Developers and Digital Interface Designers,3930,9.8,0.962,0.95,41.67,86680,4.6
+New Jersey,"Computer Occupations, All Other",10630,5.7,2.6,0.97,43.45,90370,5.1
+New Jersey,Actuaries,850,9.7,0.208,1.37,57.92,120480,3
+New Jersey,Mathematicians,290,20.9,0.071,3.99,58.19,121040,3.3
+New Jersey,Operations Research Analysts,3010,8.6,0.736,1.08,53.04,110320,2.4
+New Jersey,Statisticians,1250,11.1,0.306,1.15,53.57,111410,2.8
+New Jersey,"Data Scientists and Mathematical Science Occupations, All Other",1050,8.3,0.258,1.23,55.52,115480,3.1
+New Jersey,Architecture and Engineering Occupations,52280,2.8,12.789,0.72,45.95,95570,1.4
+New Jersey,"Architects, Except Landscape and Naval",2590,9.5,0.634,0.88,41.16,85620,3.3
+New Jersey,Landscape Architects,340,24.4,0.084,0.61,34.89,72570,4.1
+New Jersey,Cartographers and Photogrammetrists,190,20.1,0.046,0.59,43.35,90180,2.1
+New Jersey,Surveyors,1270,12.9,0.31,1.01,37.26,77490,5.6
+New Jersey,Aerospace Engineers,2100,20.1,0.513,1.19,56.12,116740,1.5
+New Jersey,Bioengineers and Biomedical Engineers,450,18.2,0.11,0.81,54.38,113120,3.6
+New Jersey,Chemical Engineers,1350,14.9,0.331,1.62,60.9,126670,5.5
+New Jersey,Civil Engineers,7420,5.1,1.815,0.86,49.5,102950,1.5
+New Jersey,Computer Hardware Engineers,1580,10.2,0.386,0.83,56.18,116860,1.8
+New Jersey,Electrical Engineers,3440,10.1,0.841,0.67,57.42,119430,6.2
+New Jersey,"Electronics Engineers, Except Computer",3020,7.5,0.738,0.84,55.83,116120,2.1
+New Jersey,Environmental Engineers,1250,12.9,0.305,0.84,44.91,93400,3
+New Jersey,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",520,15.5,0.128,0.73,49.78,103540,2
+New Jersey,Industrial Engineers,5090,4.3,1.245,0.63,47.02,97810,1
+New Jersey,Marine Engineers and Naval Architects,130,40.5,0.031,0.4,44.83,93250,9.2
+New Jersey,Materials Engineers,460,13.1,0.112,0.61,45.72,95090,1.9
+New Jersey,Mechanical Engineers,5040,6.2,1.232,0.59,46.18,96060,1.5
+New Jersey,Nuclear Engineers,**,**,**,**,56.91,118370,3.6
+New Jersey,Petroleum Engineers,270,34.2,0.066,0.3,88.25,183550,11.5
+New Jersey,"Engineers, All Other",3950,7.9,0.966,0.93,53.29,110840,5.6
+New Jersey,Architectural and Civil Drafters,2550,8.9,0.623,0.93,29.8,61980,2.8
+New Jersey,Electrical and Electronics Drafters,400,15.5,0.098,0.6,33.76,70230,3.1
+New Jersey,Mechanical Drafters,1080,10.5,0.264,0.7,32.5,67600,2.3
+New Jersey,"Drafters, All Other",230,16.1,0.056,0.56,28.63,59550,4.7
+New Jersey,Aerospace Engineering and Operations Technologists and Technicians,**,**,**,**,34.29,71320,9.6
+New Jersey,Civil Engineering Technologists and Technicians,970,12.8,0.238,0.51,29.49,61340,2.8
+New Jersey,Electrical and Electronic Engineering Technologists and Technicians,2500,14.5,0.611,0.73,32.44,67480,1.6
+New Jersey,Electro-Mechanical and Mechatronics Technologists and Technicians,140,25.4,0.035,0.36,29,60320,4.4
+New Jersey,Environmental Engineering Technologists and Technicians,300,20.9,0.072,0.59,24.58,51120,3.5
+New Jersey,Industrial Engineering Technologists and Technicians,950,17.3,0.232,0.51,26.84,55820,2.3
+New Jersey,Mechanical Engineering Technologists and Technicians,500,19.3,0.122,0.42,25.41,52840,3.2
+New Jersey,Surveying and Mapping Technicians,**,**,**,**,27.72,57660,4.3
+New Jersey,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1410,17.3,0.346,0.58,32.36,67300,6.1
+New Jersey,"Life, Physical, and Social Science Occupations",43130,5.3,10.55,1.2,46.6,96930,4.8
+New Jersey,Food Scientists and Technologists,1340,10.8,0.327,3.57,37.67,78360,3.8
+New Jersey,Soil and Plant Scientists,60,4.2,0.014,0.15,36.66,76260,2.4
+New Jersey,Biochemists and Biophysicists,7280,17.2,1.78,8.34,*,*,*
+New Jersey,Microbiologists,560,12.9,0.136,1.09,39.07,81270,3.2
+New Jersey,Zoologists and Wildlife Biologists,130,12.6,0.033,0.25,36.68,76300,3
+New Jersey,"Biological Scientists, All Other",370,4.5,0.09,0.33,37.89,78820,4.5
+New Jersey,Conservation Scientists,310,16.6,0.076,0.5,42.3,87970,3.4
+New Jersey,Foresters,30,8.4,0.008,0.12,37.83,78680,2.7
+New Jersey,Epidemiologists,130,9.2,0.033,0.65,49.71,103390,3.3
+New Jersey,"Medical Scientists, Except Epidemiologists",3300,10.9,0.808,0.93,61.94,128830,2.5
+New Jersey,"Life Scientists, All Other",370,11.1,0.092,2.08,40.24,83690,5.6
+New Jersey,Physicists,510,25,0.124,1.09,70.57,146780,6.5
+New Jersey,Atmospheric and Space Scientists,380,30,0.092,1.46,45.84,95350,14.6
+New Jersey,Chemists,7350,8.7,1.797,3.16,45.86,95400,1.4
+New Jersey,Materials Scientists,180,19.3,0.044,0.96,50.73,105510,3.9
+New Jersey,"Environmental Scientists and Specialists, Including Health",2740,8.5,0.67,1.17,39.53,82230,2.6
+New Jersey,"Geoscientists, Except Hydrologists and Geographers",200,21.5,0.049,0.25,46.25,96190,6.6
+New Jersey,Hydrologists,160,31.9,0.038,0.87,55.26,114950,1.6
+New Jersey,"Physical Scientists, All Other",540,2,0.131,1.1,46.56,96850,5.9
+New Jersey,Economists,200,12.6,0.049,0.38,43.33,90120,4.4
+New Jersey,Survey Researchers,430,16.8,0.105,1.55,41.35,86000,11.5
+New Jersey,"Clinical, Counseling, and School Psychologists",3570,4.9,0.873,1.13,46,95680,5.3
+New Jersey,Sociologists,40,40.9,0.01,0.54,55.53,115500,8.8
+New Jersey,Urban and Regional Planners,530,8.9,0.13,0.5,36.38,75670,2.4
+New Jersey,Anthropologists and Archeologists,**,**,**,**,32.05,66660,3
+New Jersey,Historians,90,15.4,0.022,1.04,37.31,77610,3.2
+New Jersey,"Social Scientists and Related Workers, All Other",460,3.3,0.112,0.49,*,*,*
+New Jersey,Agricultural and Food Science Technicians,470,18.9,0.116,0.78,24.35,50650,5.2
+New Jersey,Biological Technicians,1130,15.1,0.277,0.51,26.73,55610,2.4
+New Jersey,Chemical Technicians,3850,8.3,0.942,2.1,29.41,61170,6.2
+New Jersey,"Environmental Science and Protection Technicians, Including Health",800,12.8,0.196,0.88,23.4,48680,2.8
+New Jersey,Geological and Hydrologic Technicians,390,5.1,0.097,0.83,54.27,112890,9.6
+New Jersey,Social Science Research Assistants,160,18.1,0.039,0.16,26.61,55350,2.4
+New Jersey,Forest and Conservation Technicians,40,23.2,0.009,0.07,21.38,44470,6.5
+New Jersey,Forensic Science Technicians,100,25.7,0.024,0.22,29.63,61640,6.3
+New Jersey,"Life, Physical, and Social Science Technicians, All Other",**,**,**,**,25.26,52550,4.3
+New Jersey,Occupational Health and Safety Specialists,2410,5.1,0.59,0.93,40.32,83870,1.5
+New Jersey,Occupational Health and Safety Technicians,280,9.6,0.068,0.48,32.65,67920,3
+New Jersey,Community and Social Service Occupations,71370,2.1,17.458,1.14,26.6,55320,1.4
+New Jersey,"Educational, Guidance, and Career Counselors and Advisors",7010,2.9,1.715,0.85,35.18,73160,1
+New Jersey,Marriage and Family Therapists,4300,1.6,1.051,2.61,36.5,75930,0.7
+New Jersey,Rehabilitation Counselors,940,14.1,0.229,0.31,31.51,65540,1.9
+New Jersey,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",10130,5.2,2.478,1.28,28.9,60120,1.7
+New Jersey,"Counselors, All Other",1190,20,0.291,1.68,32.74,68090,3.7
+New Jersey,"Child, Family, and School Social Workers",4910,5.2,1.202,0.54,33.09,68830,2.1
+New Jersey,Healthcare Social Workers,3200,5,0.783,0.66,30.84,64150,1.4
+New Jersey,Mental Health and Substance Abuse Social Workers,1670,16.8,0.408,0.51,39.93,83050,5.8
+New Jersey,"Social Workers, All Other",480,5.3,0.118,0.3,34.34,71420,1.3
+New Jersey,Health Education Specialists,540,13.9,0.133,0.33,30.5,63440,1.2
+New Jersey,Probation Officers and Correctional Treatment Specialists,2910,0.8,0.712,1.19,34.34,71420,0.7
+New Jersey,Social and Human Service Assistants,27530,4.4,6.734,2.45,18.02,37490,1.2
+New Jersey,Community Health Workers,1110,12.7,0.271,0.68,25.16,52330,8
+New Jersey,"Community and Social Service Specialists, All Other",3320,6.4,0.812,1.22,28.99,60310,1.9
+New Jersey,Clergy,1230,14.7,0.3,0.83,26.59,55300,7.2
+New Jersey,"Directors, Religious Activities and Education",250,14.1,0.062,0.42,29.14,60610,5.2
+New Jersey,"Religious Workers, All Other",650,44,0.159,2.48,18.91,39330,12.9
+New Jersey,Legal Occupations,33650,3.3,8.232,1.05,57.33,119240,2.7
+New Jersey,Lawyers,21690,3.8,5.305,1.19,70.76,147170,2.8
+New Jersey,Judicial Law Clerks,550,1.1,0.134,1.19,23.82,49540,1.3
+New Jersey,"Administrative Law Judges, Adjudicators, and Hearing Officers",300,0.5,0.073,0.74,54.57,113510,1.3
+New Jersey,"Arbitrators, Mediators, and Conciliators",130,31.6,0.032,0.77,50.18,104370,12.3
+New Jersey,"Judges, Magistrate Judges, and Magistrates",1070,2.4,0.263,1.35,64.54,134250,2.1
+New Jersey,Paralegals and Legal Assistants,7960,8.9,1.947,0.87,28.99,60300,2.5
+New Jersey,"Title Examiners, Abstractors, and Searchers",1150,23.3,0.281,0.78,29.26,60870,6.4
+New Jersey,"Legal Support Workers, All Other",810,30,0.198,0.65,31.27,65040,7.4
+New Jersey,Educational Instruction and Library Occupations,292710,1.9,71.604,1.18,29.68,61720,1.5
+New Jersey,"Business Teachers, Postsecondary",2540,6.2,0.621,1.09,*,118340,4.1
+New Jersey,"Computer Science Teachers, Postsecondary",1020,5.1,0.251,1.16,*,108110,4
+New Jersey,"Mathematical Science Teachers, Postsecondary",1480,6.3,0.361,1.04,*,*,*
+New Jersey,"Architecture Teachers, Postsecondary",180,0,0.044,0.95,*,*,*
+New Jersey,"Engineering Teachers, Postsecondary",660,2.8,0.162,0.66,*,102210,4.1
+New Jersey,"Agricultural Sciences Teachers, Postsecondary",60,18.5,0.015,0.23,*,*,*
+New Jersey,"Biological Science Teachers, Postsecondary",1580,4.6,0.386,1.07,*,*,*
+New Jersey,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",80,8.9,0.021,0.27,*,94700,2.5
+New Jersey,"Chemistry Teachers, Postsecondary",840,2.9,0.205,1.41,*,92670,2.2
+New Jersey,"Environmental Science Teachers, Postsecondary",170,6.5,0.041,0.98,*,103100,3.2
+New Jersey,"Physics Teachers, Postsecondary",420,5.3,0.102,1.08,*,107330,7.7
+New Jersey,"Anthropology and Archeology Teachers, Postsecondary",170,5.1,0.041,1.03,*,108600,8.6
+New Jersey,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",300,9.1,0.073,1.01,*,*,*
+New Jersey,"Economics Teachers, Postsecondary",370,10,0.091,1.01,*,123780,4.9
+New Jersey,"Geography Teachers, Postsecondary",50,5.2,0.012,0.45,*,*,*
+New Jersey,"Political Science Teachers, Postsecondary",540,6.6,0.132,1.23,*,93820,5.9
+New Jersey,"Psychology Teachers, Postsecondary",1200,5.1,0.293,1.15,*,96380,5.3
+New Jersey,"Sociology Teachers, Postsecondary",630,4.1,0.155,1.64,*,95170,5.6
+New Jersey,"Social Sciences Teachers, Postsecondary, All Other",230,0.5,0.055,0.48,*,97790,8.8
+New Jersey,"Health Specialties Teachers, Postsecondary",4480,27.9,1.096,0.8,*,116270,13.3
+New Jersey,"Nursing Instructors and Teachers, Postsecondary",2090,12.3,0.51,1.26,*,87120,4
+New Jersey,"Education Teachers, Postsecondary",1650,6,0.404,0.97,*,86060,8.9
+New Jersey,"Library Science Teachers, Postsecondary",120,12.8,0.03,0.99,*,81710,5.1
+New Jersey,"Criminal Justice and Law Enforcement Teachers, Postsecondary",400,7.7,0.098,1.02,*,81240,5.4
+New Jersey,"Law Teachers, Postsecondary",**,**,**,**,*,144790,7.4
+New Jersey,"Social Work Teachers, Postsecondary",410,3.9,0.101,1.08,*,77420,1.9
+New Jersey,"Art, Drama, and Music Teachers, Postsecondary",2780,12.5,0.68,1.06,*,87390,7.9
+New Jersey,"Communications Teachers, Postsecondary",970,5.7,0.238,1.2,*,92290,6.9
+New Jersey,"English Language and Literature Teachers, Postsecondary",2610,5.4,0.637,1.38,*,88460,6.4
+New Jersey,"Foreign Language and Literature Teachers, Postsecondary",610,4.7,0.148,0.88,*,88910,8.2
+New Jersey,"History Teachers, Postsecondary",710,5.6,0.175,1.22,*,92220,5.7
+New Jersey,"Philosophy and Religion Teachers, Postsecondary",470,3.4,0.115,0.72,*,84010,4.4
+New Jersey,"Recreation and Fitness Studies Teachers, Postsecondary",170,4.9,0.042,0.39,*,72870,5
+New Jersey,"Career/Technical Education Teachers, Postsecondary",2510,8.4,0.614,0.8,28.44,59150,1.8
+New Jersey,"Postsecondary Teachers, All Other",2560,8.4,0.627,0.46,*,77720,7.1
+New Jersey,"Preschool Teachers, Except Special Education",16420,5.6,4.016,1.37,20.85,43360,3.4
+New Jersey,"Kindergarten Teachers, Except Special Education",5290,9.7,1.294,1.53,*,68800,2.4
+New Jersey,"Elementary School Teachers, Except Special Education",40640,4.9,9.942,1.02,*,71880,0.8
+New Jersey,"Middle School Teachers, Except Special and Career/Technical Education",26590,4.9,6.504,1.53,*,73380,0.9
+New Jersey,"Secondary School Teachers, Except Special and Career/Technical Education",30230,4.3,7.394,1.05,*,78090,0.9
+New Jersey,"Career/Technical Education Teachers, Secondary School",2150,39.2,0.526,1.04,*,73250,3.2
+New Jersey,"Special Education Teachers, Preschool",610,23.1,0.149,0.98,*,68110,2.9
+New Jersey,"Special Education Teachers, Kindergarten and Elementary School",11810,5.1,2.888,2.19,*,71410,0.9
+New Jersey,"Special Education Teachers, Middle School",7010,4.7,1.714,2.93,*,73160,0.7
+New Jersey,"Special Education Teachers, Secondary School",6100,6,1.492,1.53,*,77690,1
+New Jersey,"Special Education Teachers, All Other",1140,24.8,0.28,1.15,*,64570,5.1
+New Jersey,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",940,16.8,0.229,0.65,33.93,70570,1.9
+New Jersey,Self-Enrichment Teachers,9540,6.6,2.335,1.36,28.37,59010,4.1
+New Jersey,"Substitute Teachers, Short-Term",18130,12.2,4.434,1.11,15.56,32370,3.3
+New Jersey,"Tutors and Teachers and Instructors, All Other",8140,14,1.991,0.91,*,47970,6
+New Jersey,Archivists,420,48.8,0.103,2.3,26.37,54850,10.3
+New Jersey,Curators,210,18.5,0.052,0.59,30.6,63640,4.4
+New Jersey,Museum Technicians and Conservators,90,31.3,0.022,0.24,26.94,56030,3.3
+New Jersey,Librarians and Media Collections Specialists,4240,4.3,1.038,1.12,33.61,69910,1.1
+New Jersey,Library Technicians,2130,8,0.521,0.86,18.83,39160,1.9
+New Jersey,Farm and Home Management Educators,70,5.6,0.018,0.3,36.17,75240,9.4
+New Jersey,Instructional Coordinators,4330,4.9,1.06,0.88,36.87,76680,2.4
+New Jersey,"Teaching Assistants, Postsecondary",1690,21.5,0.412,0.44,*,35000,2.7
+New Jersey,"Teaching Assistants, Except Postsecondary",57080,2.8,13.962,1.52,*,30320,1.3
+New Jersey,"Educational Instruction and Library Workers, All Other",2320,7,0.567,0.65,29.05,60410,2.7
+New Jersey,"Arts, Design, Entertainment, Sports, and Media Occupations",49130,3.7,12.018,0.87,31.46,65440,2.7
+New Jersey,Art Directors,1020,13.5,0.249,0.85,52.16,108490,2.8
+New Jersey,Craft Artists,60,28.3,0.016,0.5,20.97,43610,11.1
+New Jersey,"Fine Artists, Including Painters, Sculptors, and Illustrators",120,23,0.03,0.36,34.09,70910,8.6
+New Jersey,Special Effects Artists and Animators,470,23.5,0.116,0.58,39.09,81310,5
+New Jersey,"Artists and Related Workers, All Other",**,**,**,**,35.78,74420,5.1
+New Jersey,Commercial and Industrial Designers,1050,15.6,0.258,1.16,38.42,79920,2.9
+New Jersey,Fashion Designers,370,16.3,0.091,0.61,34.51,71780,7
+New Jersey,Floral Designers,860,16.2,0.209,0.74,14.94,31070,9.1
+New Jersey,Graphic Designers,5800,6.2,1.419,0.96,29.35,61050,1.6
+New Jersey,Interior Designers,1020,16.5,0.25,0.61,28.58,59450,5.4
+New Jersey,Merchandise Displayers and Window Trimmers,3600,19.4,0.881,0.92,16.07,33430,5.5
+New Jersey,Set and Exhibit Designers,180,19.1,0.043,0.52,27.22,56620,4.6
+New Jersey,"Designers, All Other",210,19.4,0.051,0.7,30.6,63640,5.9
+New Jersey,Producers and Directors,1960,12.5,0.48,0.55,42.4,88200,6.4
+New Jersey,Athletes and Sports Competitors,460,17.5,0.113,1.47,*,222460,21.9
+New Jersey,Coaches and Scouts,8180,10.4,2,1.22,*,54760,4.5
+New Jersey,"Umpires, Referees, and Other Sports Officials",220,10.9,0.055,0.4,*,57330,12.3
+New Jersey,Choreographers,**,**,**,**,28.17,58600,3.9
+New Jersey,Music Directors and Composers,320,23.1,0.078,1.09,34.12,70980,6.4
+New Jersey,Musicians and Singers,1060,12,0.26,0.93,43.38,*,10.4
+New Jersey,"Miscellaneous Entertainers and Performers, Sports and Related Workers",540,39.9,0.132,1.22,19.27,*,9.5
+New Jersey,Broadcast Announcers and Radio Disc Jockeys,230,25.4,0.056,0.28,*,*,*
+New Jersey,"News Analysts, Reporters, and Journalists",580,21.2,0.143,0.48,24.39,50730,11.1
+New Jersey,Public Relations Specialists,4330,5.3,1.06,0.64,39.37,81890,5.4
+New Jersey,Editors,2980,7.2,0.729,1.12,35.98,74830,3.3
+New Jersey,Technical Writers,2260,9.5,0.552,1.6,39.82,82830,2.5
+New Jersey,Writers and Authors,1310,10.9,0.321,1.03,38.79,80690,5.5
+New Jersey,Interpreters and Translators,460,8.7,0.113,0.28,34.6,71960,4.1
+New Jersey,Court Reporters and Simultaneous Captioners,120,47.7,0.03,0.3,30.66,63770,7.7
+New Jersey,"Media and Communication Workers, All Other",930,20.2,0.226,1.32,29.16,60650,4.8
+New Jersey,Audio and Video Technicians,2390,15.6,0.584,1.16,26.36,54820,3.9
+New Jersey,Broadcast Technicians,**,**,**,**,30.63,63700,7.1
+New Jersey,Sound Engineering Technicians,360,13.8,0.087,0.99,28.8,59910,6.3
+New Jersey,Photographers,1240,9.1,0.302,0.88,20.67,42990,7.5
+New Jersey,"Camera Operators, Television, Video, and Film",550,24.2,0.135,0.92,33.2,69060,7.8
+New Jersey,Film and Video Editors,590,17.3,0.144,0.77,43.05,89540,5.5
+New Jersey,"Lighting Technicians and Media and Communication Equipment Workers, All Other",780,9.7,0.192,1.2,26.31,54730,4.8
+New Jersey,Healthcare Practitioners and Technical Occupations,239800,2.5,58.66,0.99,46.04,95770,1.4
+New Jersey,Chiropractors,810,13.1,0.198,0.83,58.2,121060,14.3
+New Jersey,"Dentists, General",3310,13.9,0.809,1.07,91.08,189460,8.1
+New Jersey,Orthodontists,220,39.5,0.053,1.29,115.44,240110,15.1
+New Jersey,"Dentists, All Other Specialists",160,30,0.039,1.09,117.34,244060,14.1
+New Jersey,Dietitians and Nutritionists,2150,8.6,0.525,1.14,33.92,70550,1.3
+New Jersey,Optometrists,950,14.9,0.233,0.87,58.75,122190,3.8
+New Jersey,Pharmacists,10080,10,2.467,1.16,58.48,121650,2.9
+New Jersey,Physician Assistants,2520,15.5,0.616,0.75,62.23,129440,5.7
+New Jersey,Podiatrists,390,17.7,0.095,1.43,64.18,133490,7.6
+New Jersey,Occupational Therapists,5100,7,1.246,1.37,46.55,96820,1.4
+New Jersey,Physical Therapists,7860,6.1,1.923,1.21,47.63,99060,1.3
+New Jersey,Radiation Therapists,600,13.8,0.146,1.2,51.26,106630,1.5
+New Jersey,Recreational Therapists,520,9.5,0.128,0.99,29.35,61040,2.5
+New Jersey,Respiratory Therapists,3870,10.6,0.946,1.05,35.18,73160,1.5
+New Jersey,Speech-Language Pathologists,5750,8.2,1.406,1.34,46.02,95710,4.3
+New Jersey,Exercise Physiologists,160,10,0.039,0.78,26.42,54950,2.9
+New Jersey,"Therapists, All Other",350,1.6,0.085,1.02,24.03,49990,3.4
+New Jersey,Veterinarians,1420,12.4,0.346,0.68,60.15,125110,5.3
+New Jersey,Registered Nurses,80140,3.9,19.605,0.97,40.52,84280,0.7
+New Jersey,Nurse Anesthetists,700,38.6,0.171,0.58,93.22,193900,5
+New Jersey,Nurse Midwives,170,19.9,0.041,0.88,56.39,117280,6.7
+New Jersey,Nurse Practitioners,6460,14.6,1.58,1.16,59.52,123810,1.7
+New Jersey,Audiologists,320,21.3,0.077,0.83,44.62,92800,4.7
+New Jersey,Anesthesiologists,1160,42.4,0.284,1.35,#,#,11
+New Jersey,Family Medicine Physicians,1900,15,0.465,0.62,103.84,215980,5.2
+New Jersey,General Internal Medicine Physicians,1150,31.2,0.281,0.93,106.15,220790,16.5
+New Jersey,Obstetricians and Gynecologists,**,**,**,**,132.54,275680,10
+New Jersey,"Pediatricians, General",930,15.2,0.227,1.12,103.38,215040,4.8
+New Jersey,Psychiatrists,920,22.6,0.226,1.3,118.9,247320,8.3
+New Jersey,"Physicians, All Other; and Ophthalmologists, Except Pediatric",16650,8,4.072,1.53,99.73,207440,3.5
+New Jersey,"Surgeons, Except Ophthalmologists",1500,13.1,0.367,1.49,134.45,279660,5.8
+New Jersey,Dental Hygienists,6790,10.8,1.661,1.1,41.96,87270,1.6
+New Jersey,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",1260,9.6,0.307,1.24,44.91,93420,3.4
+New Jersey,Clinical Laboratory Technologists and Technicians,8140,7.3,1.992,0.9,31.03,64540,1.7
+New Jersey,Cardiovascular Technologists and Technicians,790,8.8,0.194,0.51,37.51,78030,1.3
+New Jersey,Diagnostic Medical Sonographers,2800,7.9,0.685,1.38,37.89,78820,1.4
+New Jersey,Nuclear Medicine Technologists,620,9.8,0.152,1.23,44.12,91770,1.3
+New Jersey,Radiologic Technologists and Technicians,5620,4.8,1.374,0.97,33.33,69330,0.9
+New Jersey,Magnetic Resonance Imaging Technologists,970,7.2,0.236,0.91,40.33,83880,0.9
+New Jersey,Emergency Medical Technicians and Paramedics,8370,9.1,2.048,1.15,18.05,37550,2
+New Jersey,Dietetic Technicians,510,17.7,0.125,0.63,16.18,33660,2
+New Jersey,Pharmacy Technicians,9810,5.2,2.399,0.84,16.61,34550,2.8
+New Jersey,Psychiatric Technicians,**,**,**,**,18.98,39470,4.6
+New Jersey,Surgical Technologists,2230,8.5,0.546,0.74,26.28,54660,1.2
+New Jersey,Veterinary Technologists and Technicians,3210,6.6,0.785,1.04,18.52,38520,3.2
+New Jersey,Ophthalmic Medical Technicians,2480,23.9,0.606,1.52,22.07,45900,4.1
+New Jersey,Licensed Practical and Licensed Vocational Nurses,17770,5.9,4.348,0.92,27.65,57510,0.8
+New Jersey,"Opticians, Dispensing",1720,20.7,0.421,0.85,29.57,61520,3.7
+New Jersey,Orthotists and Prosthetists,**,**,**,**,39.89,82970,9
+New Jersey,Hearing Aid Specialists,140,39.9,0.035,0.63,27.31,56810,2.5
+New Jersey,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",5170,7,1.265,0.56,25.62,53280,2.6
+New Jersey,Athletic Trainers,820,37.2,0.201,1.03,*,53850,9.2
+New Jersey,Genetic Counselors,80,15,0.019,1.14,41.95,87260,1.5
+New Jersey,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,38.59,80260,3.1
+New Jersey,Healthcare Support Occupations,171190,2.2,41.877,0.94,15.75,32750,0.8
+New Jersey,Home Health and Personal Care Aides,57060,5.1,13.957,0.65,13.08,27200,1.1
+New Jersey,Nursing Assistants,53980,3.8,13.204,1.37,15,31190,0.7
+New Jersey,Orderlies,2820,7.8,0.689,2.15,15.21,31640,1.5
+New Jersey,Psychiatric Aides,2380,6.9,0.583,1.56,19.29,40130,4.2
+New Jersey,Occupational Therapy Assistants,640,12.3,0.157,0.51,35.43,73680,1.6
+New Jersey,Occupational Therapy Aides,80,29.3,0.02,0.4,14.8,30790,5.3
+New Jersey,Physical Therapist Assistants,1420,13.2,0.348,0.53,33.4,69480,2.5
+New Jersey,Physical Therapist Aides,3560,8,0.87,2.59,13.38,27830,2.2
+New Jersey,Massage Therapists,3080,13.2,0.754,1.03,22.7,47220,5
+New Jersey,Dental Assistants,10300,5.4,2.521,1.05,21.33,44370,2.8
+New Jersey,Medical Assistants,19120,5.8,4.678,0.96,17.95,37330,1
+New Jersey,Medical Equipment Preparers,2440,9.4,0.598,1.54,19.45,40460,2.5
+New Jersey,Medical Transcriptionists,970,32.8,0.237,0.62,20.94,43560,1.7
+New Jersey,Pharmacy Aides,**,**,**,**,12.72,26460,8.1
+New Jersey,Veterinary Assistants and Laboratory Animal Caretakers,1950,29,0.476,0.72,13.97,29060,3.4
+New Jersey,Phlebotomists,4870,8.4,1.191,1.36,18.81,39110,1.9
+New Jersey,"Healthcare Support Workers, All Other",5740,6.3,1.405,2.21,17.93,37280,2.1
+New Jersey,Protective Service Occupations,113430,2.2,27.747,1.16,28.66,59610,1.6
+New Jersey,First-Line Supervisors of Correctional Officers,640,3.6,0.157,0.5,53.22,110690,1.3
+New Jersey,First-Line Supervisors of Police and Detectives,5330,2.4,1.304,1.58,65.24,135700,0.8
+New Jersey,First-Line Supervisors of Firefighting and Prevention Workers,1590,8.3,0.388,0.82,58.37,121400,1.9
+New Jersey,"Miscellaneous First-Line Supervisors, Protective Service Workers",2170,9.7,0.531,0.94,28.19,58640,3.3
+New Jersey,Firefighters,5780,8.6,1.414,0.64,38.89,80890,2.3
+New Jersey,Fire Inspectors and Investigators,1590,12.1,0.389,4.16,26.44,55000,2.4
+New Jersey,Forest Fire Inspectors and Prevention Specialists,30,12,0.008,0.55,31.57,65670,2.1
+New Jersey,Bailiffs,100,22.7,0.025,0.19,27.56,57320,6.2
+New Jersey,Correctional Officers and Jailers,11320,5,2.768,0.96,34.23,71190,1.3
+New Jersey,Detectives and Criminal Investigators,3440,3.4,0.842,1.17,49.74,103460,2
+New Jersey,Parking Enforcement Workers,460,21.3,0.113,2.17,18.09,37620,1.5
+New Jersey,Police and Sheriff's Patrol Officers,21840,2.5,5.342,1.18,41.75,86840,1
+New Jersey,Transit and Railroad Police,430,10.1,0.106,3.3,40.58,84410,3.3
+New Jersey,Animal Control Workers,420,13.1,0.104,1.27,20.5,42630,3.4
+New Jersey,Private Detectives and Investigators,810,39.5,0.198,0.83,30.76,63970,7.7
+New Jersey,Gambling Surveillance Officers and Gambling Investigators,150,8.3,0.036,0.52,19.08,39690,2.4
+New Jersey,Security Guards,40170,4.4,9.826,1.28,15.86,33000,1.3
+New Jersey,Crossing Guards and Flaggers,5780,3.9,1.414,2.45,16.73,34790,1.5
+New Jersey,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",4430,16.8,1.083,1.11,12.68,26380,4.3
+New Jersey,"School Bus Monitors and Protective Service Workers, All Other",5620,10,1.376,1.38,16.57,34460,3.2
+New Jersey,Food Preparation and Serving Related Occupations,312960,1.3,76.558,0.83,13.44,27950,1
+New Jersey,Chefs and Head Cooks,2960,17.5,0.724,0.83,36.57,76060,3.8
+New Jersey,First-Line Supervisors of Food Preparation and Serving Workers,20530,4.6,5.022,0.73,21.33,44380,1.5
+New Jersey,"Cooks, Fast Food",7850,16.4,1.921,0.54,11.64,24220,2.2
+New Jersey,"Cooks, Institution and Cafeteria",6640,6.7,1.623,0.59,17.25,35880,1.5
+New Jersey,"Cooks, Restaurant",19800,6.6,4.843,0.51,15.9,33060,2.2
+New Jersey,"Cooks, Short Order",10320,13.9,2.524,2.43,12.82,26680,3.2
+New Jersey,"Cooks, All Other",170,27.9,0.042,0.32,18.77,39050,5.5
+New Jersey,Food Preparation Workers,37100,10.2,9.075,1.54,12.28,25550,1.8
+New Jersey,Bartenders,16570,9.9,4.052,0.92,14.55,30260,2.7
+New Jersey,Fast Food and Counter Workers,78900,4.4,19.302,0.71,11.22,23340,0.9
+New Jersey,Waiters and Waitresses,62540,4,15.298,0.87,13.16,27380,2.7
+New Jersey,"Food Servers, Nonrestaurant",13840,7.5,3.385,1.79,12.54,26090,1.3
+New Jersey,Dining Room and Cafeteria Attendants and Bartender Helpers,12340,8.3,3.019,0.93,12.04,25040,1.7
+New Jersey,Dishwashers,9300,8,2.274,0.65,11.42,23750,1.1
+New Jersey,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",9990,7.7,2.443,0.85,11.96,24880,2.4
+New Jersey,"Food Preparation and Serving Related Workers, All Other",4130,16.7,1.011,2.05,12.25,25490,3.3
+New Jersey,Building and Grounds Cleaning and Maintenance Occupations,127820,1.8,31.267,1.04,16.12,33530,0.8
+New Jersey,First-Line Supervisors of Housekeeping and Janitorial Workers,4500,5.9,1.1,1.04,23.26,48380,1.7
+New Jersey,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2350,20.1,0.575,0.82,28.04,58320,3.2
+New Jersey,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",67210,2.8,16.441,1.13,15.64,32540,1.1
+New Jersey,Maids and Housekeeping Cleaners,21930,6.4,5.365,0.85,13.33,27720,1.4
+New Jersey,"Building Cleaning Workers, All Other",**,**,**,**,16.92,35200,3.7
+New Jersey,Pest Control Workers,2350,12.2,0.575,1.06,21.23,44160,5.9
+New Jersey,Landscaping and Groundskeeping Workers,28530,3.7,6.98,1.12,16.74,34810,1.7
+New Jersey,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",210,18.1,0.05,0.29,18.31,38090,5.4
+New Jersey,Tree Trimmers and Pruners,230,26.6,0.056,0.17,24.56,51090,2.7
+New Jersey,"Grounds Maintenance Workers, All Other",240,24.6,0.059,0.61,21.32,44340,4.1
+New Jersey,Personal Care and Service Occupations,109870,2.9,26.876,1.2,16.17,33630,1.4
+New Jersey,First-Line Supervisors of Gambling Services Workers,960,22.5,0.234,1.17,27.86,57940,2.9
+New Jersey,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",6220,6.1,1.52,1.03,23.76,49420,2.1
+New Jersey,Animal Trainers,330,28.4,0.081,0.72,17.97,37380,8.9
+New Jersey,Animal Caretakers,5960,9.6,1.458,1.01,12.78,26580,2.9
+New Jersey,Gambling Dealers,4410,18.6,1.08,1.6,11.27,23440,7.3
+New Jersey,Gambling and Sports Book Writers and Runners,180,16.2,0.045,0.66,17.21,35800,3.4
+New Jersey,Motion Picture Projectionists,390,37,0.096,3.1,15.31,31840,6.4
+New Jersey,"Ushers, Lobby Attendants, and Ticket Takers",2500,12.4,0.611,0.65,10.89,22650,2
+New Jersey,Amusement and Recreation Attendants,8600,9,2.103,0.91,11.79,24520,3.2
+New Jersey,Costume Attendants,**,**,**,**,15.96,33190,11.6
+New Jersey,"Locker Room, Coatroom, and Dressing Room Attendants",490,19.1,0.119,1.09,12.4,25780,2.7
+New Jersey,"Entertainment Attendants and Related Workers, All Other",90,10.8,0.022,0.71,18.5,38470,5.3
+New Jersey,Funeral Attendants,360,22.3,0.089,0.38,19.83,41250,5
+New Jersey,"Morticians, Undertakers, and Funeral Arrangers",830,44.5,0.203,1.17,32.72,68060,6.2
+New Jersey,Barbers,**,**,**,**,20.46,42550,8.5
+New Jersey,"Hairdressers, Hairstylists, and Cosmetologists",19280,4.2,4.717,1.8,17.98,37400,3.3
+New Jersey,Manicurists and Pedicurists,6440,13.3,1.575,2.07,12.13,25230,3.2
+New Jersey,Shampooers,1830,12.1,0.449,5.44,10.83,22540,2.1
+New Jersey,Skincare Specialists,2160,17.2,0.527,1.37,18.07,37590,6.9
+New Jersey,Baggage Porters and Bellhops,750,13.5,0.184,0.68,11.74,24410,2.2
+New Jersey,Concierges,1730,16.6,0.423,1.49,14.59,30350,2.6
+New Jersey,Tour and Travel Guides,810,19,0.197,0.59,13.78,28660,4.4
+New Jersey,Childcare Workers,19090,10.8,4.67,1.22,13.33,27740,1.4
+New Jersey,Exercise Trainers and Group Fitness Instructors,10640,8.8,2.604,1.17,25.91,53900,3
+New Jersey,Recreation Workers,11320,4.4,2.77,1.13,14.23,29600,1.2
+New Jersey,Residential Advisors,540,12.2,0.131,0.18,18.41,38290,3.4
+New Jersey,"Crematory Operators and Personal Care and Service Workers, All Other",2930,22.8,0.717,1.71,13.99,29100,4.9
+New Jersey,Sales and Related Occupations,398500,1.3,97.481,1,23.3,48470,1.3
+New Jersey,First-Line Supervisors of Retail Sales Workers,28460,2.9,6.962,0.87,26.1,54280,1.5
+New Jersey,First-Line Supervisors of Non-Retail Sales Workers,7760,6.3,1.897,1.12,46.85,97450,1.9
+New Jersey,Cashiers,93530,4.4,22.879,0.93,11.77,24480,0.9
+New Jersey,Gambling Change Persons and Booth Cashiers,270,10.4,0.066,0.45,15.47,32170,3.5
+New Jersey,Counter and Rental Clerks,9260,13.9,2.264,0.81,16.81,34960,5.1
+New Jersey,Parts Salespersons,4870,10.5,1.191,0.68,19.73,41040,2.7
+New Jersey,Retail Salespersons,125470,2.8,30.693,1.04,14.26,29660,1.5
+New Jersey,Advertising Sales Agents,2620,26.1,0.64,0.72,42.83,89090,10.1
+New Jersey,Insurance Sales Agents,10070,6.2,2.463,0.88,34.02,70770,2.9
+New Jersey,"Securities, Commodities, and Financial Services Sales Agents",16650,6.7,4.073,1.37,45.65,94950,3.9
+New Jersey,Travel Agents,2070,10.9,0.507,1.12,23.55,48990,8.9
+New Jersey,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",36570,3.5,8.946,1.26,40.37,83980,2.4
+New Jersey,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",4680,12.6,1.144,0.55,48.49,100850,3.5
+New Jersey,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",40030,3.5,9.792,1.07,40.46,84170,1.8
+New Jersey,Demonstrators and Product Promoters,2190,24.6,0.536,1.01,17.68,36780,5
+New Jersey,Real Estate Brokers,360,42.6,0.088,0.3,*,*,*
+New Jersey,Real Estate Sales Agents,2240,17.9,0.548,0.5,32.15,66880,11.1
+New Jersey,Sales Engineers,1300,13.7,0.319,0.74,51.91,107960,3.4
+New Jersey,Telemarketers,3680,15.6,0.901,0.98,16.07,33410,4.9
+New Jersey,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",**,**,**,**,14.53,30230,5.5
+New Jersey,"Sales and Related Workers, All Other",6310,5.9,1.545,1.91,27.4,57000,2.4
+New Jersey,Office and Administrative Support Occupations,571360,0.8,139.766,1.05,21.09,43870,0.4
+New Jersey,First-Line Supervisors of Office and Administrative Support Workers,40110,1.9,9.811,0.97,30.96,64390,1.1
+New Jersey,"Switchboard Operators, Including Answering Service",2010,14.3,0.493,1.06,16.14,33560,3.4
+New Jersey,"Communications Equipment Operators, All Other",30,16.2,0.008,0.36,26.4,54910,2
+New Jersey,Bill and Account Collectors,5070,9,1.241,0.77,20.67,42980,2.3
+New Jersey,Billing and Posting Clerks,18650,4.2,4.563,1.44,20.64,42920,0.9
+New Jersey,"Bookkeeping, Accounting, and Auditing Clerks",41680,2.6,10.197,0.99,22.74,47300,0.6
+New Jersey,Gambling Cage Workers,80,13.8,0.021,0.21,14.61,30380,8.7
+New Jersey,Payroll and Timekeeping Clerks,3740,5.2,0.916,0.94,23.32,48510,1.8
+New Jersey,Procurement Clerks,3490,5.4,0.854,1.9,22.99,47820,1.5
+New Jersey,Tellers,12270,4.9,3.002,1,16.57,34460,0.9
+New Jersey,"Financial Clerks, All Other",1150,9.7,0.28,1.35,22,45760,1.9
+New Jersey,Brokerage Clerks,2450,10.8,0.599,1.83,28.71,59720,1.4
+New Jersey,Correspondence Clerks,100,40.6,0.025,0.59,20.75,43160,2.9
+New Jersey,"Court, Municipal, and License Clerks",4980,2.5,1.219,1.16,24.5,50960,0.9
+New Jersey,"Credit Authorizers, Checkers, and Clerks",1630,8.4,0.4,2.2,22.54,46880,1.6
+New Jersey,Customer Service Representatives,68780,3.1,16.826,0.85,19.58,40720,0.8
+New Jersey,"Eligibility Interviewers, Government Programs",670,11.3,0.163,0.17,25.18,52370,1.9
+New Jersey,File Clerks,8240,5.1,2.015,2.89,16.05,33380,2.3
+New Jersey,"Hotel, Motel, and Resort Desk Clerks",3920,8.5,0.96,0.53,12.43,25860,1.4
+New Jersey,"Interviewers, Except Eligibility and Loan",6090,4.9,1.489,1.16,17.92,37270,1.3
+New Jersey,"Library Assistants, Clerical",2850,6.9,0.698,1.19,15.95,33170,1.3
+New Jersey,Loan Interviewers and Clerks,4450,11.6,1.088,0.77,22.42,46630,1.8
+New Jersey,New Accounts Clerks,1170,23.8,0.285,0.97,21.45,44610,2.9
+New Jersey,Order Clerks,4990,9,1.221,1.31,20.15,41920,2.9
+New Jersey,"Human Resources Assistants, Except Payroll and Timekeeping",5430,5.6,1.328,1.66,21.52,44770,1
+New Jersey,Receptionists and Information Clerks,56290,2.8,13.769,1.91,16.05,33370,1
+New Jersey,Reservation and Transportation Ticket Agents and Travel Clerks,2820,11.4,0.691,0.82,28.14,58530,4.4
+New Jersey,"Information and Record Clerks, All Other",3740,4.5,0.915,0.87,23.92,49750,1.1
+New Jersey,Cargo and Freight Agents,2380,18.3,0.581,0.89,26.2,54500,5.5
+New Jersey,Couriers and Messengers,1550,15.5,0.38,0.75,16.42,34150,2
+New Jersey,Public Safety Telecommunicators,4110,4.6,1.004,1.55,22.96,47770,1.1
+New Jersey,"Dispatchers, Except Police, Fire, and Ambulance",5740,7.5,1.404,1.03,22.19,46160,1.9
+New Jersey,"Meter Readers, Utilities",1120,22.3,0.275,1.32,*,*,*
+New Jersey,Postal Service Clerks,2710,0,0.664,1.2,25.5,53040,0.9
+New Jersey,Postal Service Mail Carriers,10280,0,2.515,1.09,25.69,53440,1
+New Jersey,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",4730,0,1.157,1.66,25.27,52560,2.2
+New Jersey,"Production, Planning, and Expediting Clerks",8880,3.3,2.173,0.86,24.47,50890,1.1
+New Jersey,"Shipping, Receiving, and Inventory Clerks",21040,3.9,5.146,1.07,17.73,36870,1
+New Jersey,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2880,11.2,0.705,1.7,19.19,39920,1.6
+New Jersey,Executive Secretaries and Executive Administrative Assistants,19140,3.2,4.681,1.27,32.89,68410,2.9
+New Jersey,Legal Secretaries and Administrative Assistants,8620,14.4,2.108,1.84,25.28,52590,3.4
+New Jersey,Medical Secretaries and Administrative Assistants,11450,5.4,2.802,0.68,20.75,43170,1.4
+New Jersey,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",62390,2,15.261,1.1,20.88,43440,0.6
+New Jersey,Data Entry Keyers,8120,6.1,1.985,1.82,19.11,39760,1.6
+New Jersey,Word Processors and Typists,3540,4.6,0.865,2.68,21.12,43940,1
+New Jersey,Desktop Publishers,**,**,**,**,21.92,45600,9.5
+New Jersey,Insurance Claims and Policy Processing Clerks,7020,12.5,1.718,0.98,23.86,49630,1.9
+New Jersey,"Mail Clerks and Mail Machine Operators, Except Postal Service",3320,11.7,0.813,1.43,15.33,31880,2.4
+New Jersey,"Office Clerks, General",66760,2.5,16.33,0.81,17.47,36340,0.8
+New Jersey,"Office Machine Operators, Except Computer",2790,11.1,0.682,2.18,15.75,32760,2.6
+New Jersey,Proofreaders and Copy Markers,300,36.2,0.074,1.4,25.5,53050,4.1
+New Jersey,Statistical Assistants,30,11.6,0.008,0.12,25.46,52950,3.5
+New Jersey,"Office and Administrative Support Workers, All Other",5120,3.6,1.253,0.98,16.47,34250,8
+New Jersey,"Farming, Fishing, and Forestry Occupations",4290,15.7,1.051,0.32,16.11,33510,3.1
+New Jersey,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",180,19.8,0.045,0.29,26.23,54570,5.1
+New Jersey,Agricultural Inspectors,100,20.5,0.026,0.27,29.21,60750,2.6
+New Jersey,"Graders and Sorters, Agricultural Products",90,9.2,0.021,0.09,15.55,32340,6.3
+New Jersey,Agricultural Equipment Operators,170,30.3,0.041,0.22,12.27,25520,2.9
+New Jersey,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",3030,21,0.742,0.37,14.99,31170,4.9
+New Jersey,"Farmworkers, Farm, Ranch, and Aquacultural Animals",280,29.8,0.069,0.28,13.62,28320,2.7
+New Jersey,"Agricultural Workers, All Other",**,**,**,**,14.28,29700,19.5
+New Jersey,Forest and Conservation Workers,150,6,0.038,0.82,18.19,37830,1.9
+New Jersey,Construction and Extraction Occupations,120810,2.2,29.552,0.7,31.04,64560,0.9
+New Jersey,First-Line Supervisors of Construction Trades and Extraction Workers,7190,4.8,1.758,0.41,37.54,78090,1.5
+New Jersey,Boilermakers,310,22.2,0.075,0.69,33.12,68900,6.9
+New Jersey,Brickmasons and Blockmasons,1120,19.3,0.274,0.66,35.25,73320,4.1
+New Jersey,Stonemasons,340,46.2,0.084,1,34.07,70870,7.9
+New Jersey,Carpenters,15150,5.4,3.707,0.74,32.31,67200,2.2
+New Jersey,Carpet Installers,460,27.1,0.114,0.64,23.68,49260,9.5
+New Jersey,"Floor Layers, Except Carpet, Wood, and Hard Tiles",**,**,**,**,40.47,84170,10.6
+New Jersey,Floor Sanders and Finishers,**,**,**,**,26.88,55910,14.4
+New Jersey,Tile and Stone Setters,1180,23,0.289,1.05,30.26,62950,8.4
+New Jersey,Cement Masons and Concrete Finishers,3170,13.9,0.775,0.58,30.14,62680,5.4
+New Jersey,Construction Laborers,24460,6.2,5.983,0.86,27.28,56750,2.4
+New Jersey,"Paving, Surfacing, and Tamping Equipment Operators",1360,15.9,0.333,1.07,27.02,56210,3.2
+New Jersey,Pile Driver Operators,60,13.7,0.014,0.56,49.95,103900,5
+New Jersey,Operating Engineers and Other Construction Equipment Operators,5130,5.5,1.255,0.45,37.56,78120,1.9
+New Jersey,Drywall and Ceiling Tile Installers,1970,19.2,0.482,0.69,25.98,54030,6.7
+New Jersey,Tapers,160,27.6,0.04,0.33,32.7,68010,8.8
+New Jersey,Electricians,16740,8,4.095,0.87,35.3,73430,2.3
+New Jersey,Glaziers,1000,24.9,0.246,0.69,35.15,73110,5.8
+New Jersey,"Insulation Workers, Floor, Ceiling, and Wall",440,27.3,0.108,0.47,18.21,37870,7.8
+New Jersey,"Insulation Workers, Mechanical",110,43.3,0.026,0.15,37.7,78410,4.6
+New Jersey,"Painters, Construction and Maintenance",4600,10.3,1.125,0.71,26.86,55870,4.5
+New Jersey,Pipelayers,230,28.3,0.057,0.23,30.34,63100,7.2
+New Jersey,"Plumbers, Pipefitters, and Steamfitters",8780,8.8,2.147,0.71,35.75,74360,3.4
+New Jersey,Reinforcing Iron and Rebar Workers,460,38.2,0.113,0.88,36.48,75870,6.8
+New Jersey,Roofers,1850,20,0.453,0.51,30.5,63450,8.6
+New Jersey,Sheet Metal Workers,2350,17.9,0.575,0.64,31.52,65550,6
+New Jersey,Structural Iron and Steel Workers,1590,14.6,0.39,0.75,41.17,85630,3.7
+New Jersey,Solar Photovoltaic Installers,1050,24.8,0.257,3.41,24.51,50990,5.7
+New Jersey,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",550,33.1,0.134,0.84,19.83,41260,6.3
+New Jersey,Helpers--Carpenters,880,23.2,0.216,0.97,17.33,36040,12.5
+New Jersey,Helpers--Electricians,1340,21.1,0.329,0.61,16.26,33820,4.9
+New Jersey,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,19.76,41090,4.9
+New Jersey,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",520,21.5,0.126,0.32,16.89,35130,5.2
+New Jersey,"Helpers, Construction Trades, All Other",170,30.7,0.04,0.21,16.01,33290,9.4
+New Jersey,Construction and Building Inspectors,4450,4.8,1.088,1.45,32.77,68160,2.2
+New Jersey,Elevator and Escalator Installers and Repairers,730,14.4,0.177,0.92,43.72,90940,6.2
+New Jersey,Fence Erectors,540,35.2,0.132,0.75,20.73,43120,9.6
+New Jersey,Hazardous Materials Removal Workers,1290,18.3,0.317,1.05,26.55,55220,6.7
+New Jersey,Highway Maintenance Workers,4020,5.1,0.983,0.96,22.38,46560,1.6
+New Jersey,Rail-Track Laying and Maintenance Equipment Operators,600,30.5,0.146,1.32,27.61,57430,6.3
+New Jersey,Septic Tank Servicers and Sewer Pipe Cleaners,890,32.2,0.217,1.07,27.97,58180,6.4
+New Jersey,Miscellaneous Construction and Related Workers,1050,16.4,0.257,1.18,23.98,49880,4.6
+New Jersey,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1020,21.7,0.249,0.83,32.78,68180,8
+New Jersey,Helpers--Extraction Workers,**,**,**,**,19.33,40220,5.2
+New Jersey,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",500,22.1,0.123,0.72,29.7,61770,8.1
+New Jersey,"Underground Mining Machine Operators and Extraction Workers, All Other",90,49.6,0.023,0.24,*,*,*
+New Jersey,"Installation, Maintenance, and Repair Occupations",138230,1.9,33.813,0.87,26.93,56010,0.9
+New Jersey,"First-Line Supervisors of Mechanics, Installers, and Repairers",12800,3.5,3.131,0.95,37.56,78130,1.2
+New Jersey,"Computer, Automated Teller, and Office Machine Repairers",3280,8.5,0.802,1.2,24.8,51580,4.3
+New Jersey,"Radio, Cellular, and Tower Equipment Installers and Repairers",1060,35.3,0.26,2.65,27.31,56810,4.8
+New Jersey,"Telecommunications Equipment Installers and Repairers, Except Line Installers",3740,17.6,0.914,0.64,32.1,66770,4.1
+New Jersey,Avionics Technicians,430,10.2,0.106,0.72,33.77,70230,5.8
+New Jersey,"Electric Motor, Power Tool, and Related Repairers",370,43.8,0.09,0.84,21.68,45090,2.2
+New Jersey,"Electrical and Electronics Installers and Repairers, Transportation Equipment",550,24.3,0.135,2.03,28.81,59930,3
+New Jersey,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1750,15.2,0.428,1.07,28.69,59670,2.7
+New Jersey,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",690,16.1,0.169,1.1,42.38,88150,2.5
+New Jersey,"Electronic Equipment Installers and Repairers, Motor Vehicles",**,**,**,**,15.99,33250,13.7
+New Jersey,Audiovisual Equipment Installers and Repairers,620,27.4,0.151,0.86,20.27,42160,4.6
+New Jersey,Security and Fire Alarm Systems Installers,2800,15.7,0.686,1.41,26.87,55890,3
+New Jersey,Aircraft Mechanics and Service Technicians,2150,10.1,0.527,0.58,36.12,75120,4.6
+New Jersey,Automotive Body and Related Repairers,4370,11.1,1.069,1.09,23.65,49200,2.7
+New Jersey,Automotive Glass Installers and Repairers,120,46.4,0.029,0.22,19.31,40160,3.9
+New Jersey,Automotive Service Technicians and Mechanics,15550,5.5,3.803,0.85,24.5,50960,2.2
+New Jersey,Bus and Truck Mechanics and Diesel Engine Specialists,8120,6.4,1.985,1.09,26.98,56120,1.7
+New Jersey,Farm Equipment Mechanics and Service Technicians,120,31,0.029,0.12,22.67,47160,8
+New Jersey,"Mobile Heavy Equipment Mechanics, Except Engines",2780,9.8,0.68,0.68,30.22,62860,2.5
+New Jersey,Rail Car Repairers,380,34.3,0.093,0.53,33.21,69070,6.3
+New Jersey,Motorboat Mechanics and Service Technicians,300,18,0.074,0.47,22.81,47450,2.2
+New Jersey,Motorcycle Mechanics,**,**,**,**,23.11,48070,9
+New Jersey,Outdoor Power Equipment and Other Small Engine Mechanics,640,27.3,0.158,0.72,19.89,41370,7.3
+New Jersey,Bicycle Repairers,**,**,**,**,14.81,30810,5.6
+New Jersey,Recreational Vehicle Service Technicians,**,**,**,**,24.33,50610,5.5
+New Jersey,Tire Repairers and Changers,2600,13,0.635,0.84,15.04,31280,2.8
+New Jersey,Mechanical Door Repairers,710,26.8,0.175,1.11,23.91,49730,4.1
+New Jersey,"Control and Valve Installers and Repairers, Except Mechanical Door",500,21.9,0.122,0.34,30.47,63380,4.2
+New Jersey,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",10430,7.1,2.551,1.1,28.35,58960,2.8
+New Jersey,Home Appliance Repairers,1430,19.7,0.349,1.65,23.02,47880,4.6
+New Jersey,Industrial Machinery Mechanics,8480,4.7,2.073,0.79,28.58,59450,1.1
+New Jersey,"Maintenance Workers, Machinery",570,9.5,0.139,0.28,22.98,47790,2.1
+New Jersey,Millwrights,590,36.2,0.145,0.45,31.33,65170,4.7
+New Jersey,Electrical Power-Line Installers and Repairers,1260,18.8,0.309,0.41,43.93,91370,2.8
+New Jersey,Telecommunications Line Installers and Repairers,4610,16,1.127,1.37,42.09,87550,2.6
+New Jersey,Camera and Photographic Equipment Repairers,340,21.7,0.082,3.34,20.36,42350,5.8
+New Jersey,Medical Equipment Repairers,1320,15.5,0.322,1.02,29.18,60700,4.1
+New Jersey,Musical Instrument Repairers and Tuners,290,32.5,0.072,1.32,20.55,42750,9.5
+New Jersey,Watch and Clock Repairers,150,48.2,0.037,1.96,25.87,53820,4.3
+New Jersey,"Precision Instrument and Equipment Repairers, All Other",810,28.3,0.199,2.77,32.71,68030,3.7
+New Jersey,"Maintenance and Repair Workers, General",31070,2.9,7.601,0.79,22.18,46140,0.8
+New Jersey,"Coin, Vending, and Amusement Machine Servicers and Repairers",640,28.7,0.156,0.73,18.14,37730,5.3
+New Jersey,Commercial Divers,80,25.5,0.018,0.79,34.69,72160,15.6
+New Jersey,Locksmiths and Safe Repairers,600,38.3,0.147,1.27,24.19,50310,3.9
+New Jersey,Riggers,140,27.6,0.035,0.22,28.35,58970,6.3
+New Jersey,Signal and Track Switch Repairers,**,**,**,**,34.52,71800,3.6
+New Jersey,"Helpers--Installation, Maintenance, and Repair Workers",2330,9,0.571,0.84,15.85,32970,2.2
+New Jersey,"Installation, Maintenance, and Repair Workers, All Other",4730,9.7,1.157,1.05,21.16,44000,3.1
+New Jersey,Production Occupations,174050,1.8,42.577,0.68,19.48,40520,0.9
+New Jersey,First-Line Supervisors of Production and Operating Workers,12880,2.6,3.151,0.73,33.93,70580,1.2
+New Jersey,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",50,13.3,0.012,0.04,21.7,45140,9.2
+New Jersey,"Coil Winders, Tapers, and Finishers",240,27.2,0.059,0.69,17.47,36330,5.5
+New Jersey,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",5260,9.4,1.287,0.66,17.89,37210,1.9
+New Jersey,Engine and Other Machine Assemblers,290,30.4,0.072,0.23,20.09,41800,4.8
+New Jersey,Structural Metal Fabricators and Fitters,890,16.1,0.218,0.42,23.43,48730,4.1
+New Jersey,Miscellaneous Assemblers and Fabricators,15090,7.7,3.691,0.4,15.33,31880,2
+New Jersey,Bakers,5020,8.9,1.228,0.97,15.63,32500,4
+New Jersey,Butchers and Meat Cutters,2730,13,0.667,0.72,22.47,46740,2.5
+New Jersey,"Meat, Poultry, and Fish Cutters and Trimmers",2110,27.8,0.516,0.49,14.62,30400,2.5
+New Jersey,Slaughterers and Meat Packers,790,32.2,0.193,0.39,14.09,29300,4.4
+New Jersey,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",680,26.9,0.166,1.17,15.18,31560,5.8
+New Jersey,Food Batchmakers,3660,8.3,0.896,0.83,16.4,34110,2.2
+New Jersey,Food Cooking Machine Operators and Tenders,1090,23.1,0.266,1.3,14.81,30800,3.8
+New Jersey,"Food Processing Workers, All Other",970,15.2,0.238,0.81,12.39,25780,2.5
+New Jersey,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1710,19,0.418,0.8,16.77,34870,3.9
+New Jersey,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",340,19.7,0.084,0.75,18.66,38820,5.8
+New Jersey,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",700,29.3,0.17,0.77,16.04,33360,3.3
+New Jersey,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",3460,11.6,0.846,0.64,16.94,35230,3.2
+New Jersey,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",420,46.7,0.102,1.38,23.85,49600,5.9
+New Jersey,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1460,21.2,0.356,0.68,17.58,36560,3.8
+New Jersey,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",590,13.2,0.143,0.75,22.05,45870,3.1
+New Jersey,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",300,26.7,0.072,0.57,24.63,51220,6.7
+New Jersey,Machinists,4390,14.8,1.074,0.41,24.82,51630,2.3
+New Jersey,Metal-Refining Furnace Operators and Tenders,150,37.9,0.037,0.32,23.53,48940,4.8
+New Jersey,"Pourers and Casters, Metal",50,44.3,0.011,0.21,18.52,38520,8.5
+New Jersey,"Model Makers, Metal and Plastic",100,23.1,0.025,0.84,26.97,56110,7.1
+New Jersey,Foundry Mold and Coremakers,370,23.2,0.09,0.75,20.34,42310,4.5
+New Jersey,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",2140,31.9,0.523,0.45,18.09,37630,4.2
+New Jersey,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1010,9.4,0.247,0.25,17.86,37150,3
+New Jersey,Tool and Die Makers,780,11.3,0.192,0.4,27.97,58190,1.8
+New Jersey,"Welders, Cutters, Solderers, and Brazers",4350,8.3,1.063,0.38,23.72,49330,2.3
+New Jersey,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1110,9,0.27,1.13,16.08,33450,7.3
+New Jersey,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",270,24.7,0.066,0.49,19.05,39630,4
+New Jersey,"Layout Workers, Metal and Plastic",**,**,**,**,18.13,37720,17.2
+New Jersey,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",700,20.7,0.172,0.6,18.56,38610,5.5
+New Jersey,"Tool Grinders, Filers, and Sharpeners",**,**,**,**,18.63,38740,3.6
+New Jersey,"Metal Workers and Plastic Workers, All Other",490,24.4,0.121,0.73,17.03,35420,6.2
+New Jersey,Prepress Technicians and Workers,1200,9.4,0.295,1.43,24.68,51330,3.2
+New Jersey,Printing Press Operators,3930,8.9,0.962,0.81,22.12,46010,2.3
+New Jersey,Print Binding and Finishing Workers,1920,19.3,0.47,1.52,16.99,35330,4
+New Jersey,Laundry and Dry-Cleaning Workers,6880,7.8,1.683,1.18,11.53,23990,1.4
+New Jersey,"Pressers, Textile, Garment, and Related Materials",820,13.7,0.199,0.77,11.11,23100,1.8
+New Jersey,Sewing Machine Operators,3310,10.2,0.81,0.89,12.19,25350,2.1
+New Jersey,Shoe and Leather Workers and Repairers,**,**,**,**,16.29,33890,17.5
+New Jersey,"Sewers, Hand",130,48,0.032,0.98,13.6,28290,5
+New Jersey,"Tailors, Dressmakers, and Custom Sewers",670,39.2,0.164,1,17.15,35660,7.3
+New Jersey,Textile Bleaching and Dyeing Machine Operators and Tenders,150,29.6,0.037,0.62,17.08,35530,8.3
+New Jersey,"Textile Cutting Machine Setters, Operators, and Tenders",350,17.3,0.086,0.96,14.52,30200,2.7
+New Jersey,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",170,43.7,0.041,0.28,12.19,25360,6.7
+New Jersey,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",**,**,**,**,16.31,33920,2.5
+New Jersey,Fabric and Apparel Patternmakers,330,18.3,0.081,2.03,18.08,37610,21.5
+New Jersey,Upholsterers,370,18.6,0.091,0.46,18.22,37900,4.5
+New Jersey,"Textile, Apparel, and Furnishings Workers, All Other",690,15.4,0.168,1.37,11.84,24620,3.8
+New Jersey,Cabinetmakers and Bench Carpenters,1160,14.7,0.284,0.42,22.21,46190,3.3
+New Jersey,Furniture Finishers,370,21.1,0.092,0.83,18.13,37710,5.5
+New Jersey,"Sawing Machine Setters, Operators, and Tenders, Wood",190,20.1,0.045,0.13,17.34,36070,4.7
+New Jersey,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",800,28.4,0.196,0.37,16.34,33980,3.9
+New Jersey,"Woodworkers, All Other",80,27.3,0.021,0.45,19.47,40500,10.2
+New Jersey,Power Distributors and Dispatchers,210,26.5,0.052,0.71,43.82,91140,2.1
+New Jersey,Power Plant Operators,400,10.1,0.097,0.42,41.95,87260,2.8
+New Jersey,Stationary Engineers and Boiler Operators,1400,6,0.342,1.55,29.39,61140,1
+New Jersey,Water and Wastewater Treatment Plant and System Operators,2840,7.7,0.694,0.82,28.78,59860,2
+New Jersey,Chemical Plant and System Operators,320,27.4,0.078,0.4,33.59,69870,12.9
+New Jersey,Gas Plant Operators,260,25.1,0.064,0.66,37.4,77780,6.1
+New Jersey,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",450,15.5,0.11,0.4,37.42,77830,9.6
+New Jersey,"Plant and System Operators, All Other",250,21.9,0.06,0.68,32.58,67760,3.5
+New Jersey,Chemical Equipment Operators and Tenders,3840,8.9,0.94,1.59,23.78,49450,2.6
+New Jersey,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",880,17.2,0.216,0.62,26.28,54660,3.2
+New Jersey,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1160,12.4,0.283,1.24,17.29,35960,3.5
+New Jersey,"Grinding and Polishing Workers, Hand",450,19.4,0.11,0.55,17.3,35980,5.5
+New Jersey,"Mixing and Blending Machine Setters, Operators, and Tenders",3600,8.8,0.88,1.03,20.85,43360,2
+New Jersey,"Cutters and Trimmers, Hand",420,20,0.102,1.55,12,24970,7.6
+New Jersey,"Cutting and Slicing Machine Setters, Operators, and Tenders",1890,12.7,0.463,1.17,17.38,36160,3.6
+New Jersey,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",3610,10.5,0.882,1.8,18.29,38050,2.6
+New Jersey,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",400,16.3,0.098,0.76,21.12,43940,4.9
+New Jersey,"Inspectors, Testers, Sorters, Samplers, and Weighers",13150,4.4,3.218,0.82,20.63,42910,1.6
+New Jersey,Jewelers and Precious Stone and Metal Workers,600,24.3,0.146,0.91,24.07,50070,7.3
+New Jersey,Dental Laboratory Technicians,400,22.4,0.099,0.42,22.13,46040,4.9
+New Jersey,Medical Appliance Technicians,940,27.3,0.23,2.39,20.9,43470,6.3
+New Jersey,Ophthalmic Laboratory Technicians,280,38,0.069,0.35,17.73,36880,5.8
+New Jersey,Packaging and Filling Machine Operators and Tenders,14200,5.2,3.473,1.31,14.62,30410,2.2
+New Jersey,"Painting, Coating, and Decorating Workers",470,13.7,0.116,1.37,16.7,34730,4.2
+New Jersey,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2390,9.3,0.584,0.59,20.11,41830,2.5
+New Jersey,Semiconductor Processing Technicians,270,39,0.067,0.36,19.74,41050,7.3
+New Jersey,Photographic Process Workers and Processing Machine Operators,340,29,0.082,1.01,17.36,36100,5.8
+New Jersey,Computer Numerically Controlled Tool Operators,1820,17.5,0.445,0.43,21.12,43920,2.1
+New Jersey,Computer Numerically Controlled Tool Programmers,460,16.1,0.112,0.64,26.62,55380,4.9
+New Jersey,Adhesive Bonding Machine Operators and Tenders,140,20.9,0.033,0.35,18.53,38540,6.4
+New Jersey,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",750,15.3,0.182,1.63,15.79,32850,3.6
+New Jersey,Cooling and Freezing Equipment Operators and Tenders,160,22.8,0.039,0.65,20.97,43620,8.7
+New Jersey,Etchers and Engravers,360,32.6,0.087,1.24,15.18,31570,7.6
+New Jersey,"Molders, Shapers, and Casters, Except Metal and Plastic",1000,19.6,0.243,0.8,22.83,47500,6.2
+New Jersey,"Paper Goods Machine Setters, Operators, and Tenders",2260,14.9,0.553,0.81,16.76,34860,6.1
+New Jersey,Helpers--Production Workers,4080,12,0.999,0.48,14.51,30170,3
+New Jersey,"Production Workers, All Other",6090,12.3,1.49,0.98,15.04,31280,3.7
+New Jersey,Transportation and Material Moving Occupations,449660,2,109.995,1.29,18.28,38030,3.6
+New Jersey,Aircraft Cargo Handling Supervisors,100,12.6,0.025,0.38,34.04,70800,8
+New Jersey,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",18780,4.6,4.593,1.48,29.94,62280,1.1
+New Jersey,Commercial Pilots,290,23.2,0.071,0.27,*,93050,7.3
+New Jersey,Air Traffic Controllers,190,8.5,0.047,0.32,55.74,115940,3
+New Jersey,Airfield Operations Specialists,160,12.6,0.039,0.53,32.6,67810,6.7
+New Jersey,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",230,43.7,0.056,0.56,14.54,30250,4.6
+New Jersey,Driver/Sales Workers,9440,12.8,2.309,0.76,17.03,35420,4.5
+New Jersey,Heavy and Tractor-Trailer Truck Drivers,51260,5,12.54,0.99,23.93,49770,1.2
+New Jersey,Light Truck Drivers,32030,5.5,7.834,1.25,18.65,38790,2.4
+New Jersey,"Bus Drivers, Transit and Intercity",7160,5.8,1.751,1.43,23.45,48780,2.2
+New Jersey,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",23220,4.3,5.68,1.19,17.64,36700,1.6
+New Jersey,"Motor Vehicle Operators, All Other",1670,9.9,0.41,1.06,20.82,43310,3.7
+New Jersey,Locomotive Engineers,1540,26.3,0.377,1.56,31.66,65860,3.4
+New Jersey,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",190,39.1,0.047,0.62,29.03,60380,3.6
+New Jersey,Railroad Conductors and Yardmasters,890,35.5,0.218,0.7,36.22,75330,1.8
+New Jersey,Subway and Streetcar Operators,90,0,0.022,0.31,27.59,57380,3.3
+New Jersey,"Rail Transportation Workers, All Other",280,16.5,0.07,3.86,29.87,62120,6
+New Jersey,Sailors and Marine Oilers,640,26,0.158,0.74,22.77,47360,2.7
+New Jersey,"Captains, Mates, and Pilots of Water Vessels",560,23.1,0.137,0.6,37.05,77060,4
+New Jersey,Motorboat Operators,**,**,**,**,20.09,41780,15.8
+New Jersey,Bridge and Lock Tenders,100,4.7,0.023,1.09,23.72,49330,1.5
+New Jersey,Parking Attendants,5670,7.1,1.387,1.38,11.86,24680,3.2
+New Jersey,Automotive and Watercraft Service Attendants,11220,10,2.746,3.43,10.86,22600,1.7
+New Jersey,Traffic Technicians,80,15.9,0.021,0.41,24.5,50950,3.5
+New Jersey,Transportation Inspectors,660,26.9,0.162,0.79,37.73,78470,2.7
+New Jersey,Passenger Attendants,**,**,**,**,14.69,30560,5.3
+New Jersey,"Aircraft Service Attendants and Transportation Workers, All Other",480,19.9,0.119,0.5,17.02,35410,6.1
+New Jersey,Conveyor Operators and Tenders,70,15.6,0.018,0.11,17.81,37040,4.9
+New Jersey,Crane and Tower Operators,800,20.2,0.195,0.63,38.84,80780,4.3
+New Jersey,Dredge Operators,70,23.4,0.017,1.6,30.78,64010,9.8
+New Jersey,Hoist and Winch Operators,30,36.1,0.008,0.24,32.04,66650,12
+New Jersey,Industrial Truck and Tractor Operators,18480,5.6,4.522,1.06,18.47,38430,1.9
+New Jersey,Cleaners of Vehicles and Equipment,9800,13.5,2.397,0.92,13.62,28330,1.9
+New Jersey,"Laborers and Freight, Stock, and Material Movers, Hand",133980,5,32.774,1.63,15.46,32150,1.7
+New Jersey,Machine Feeders and Offbearers,1380,18.9,0.339,0.79,16.63,34580,3.4
+New Jersey,"Packers and Packagers, Hand",39160,6.2,9.58,2.22,13.43,27930,2.1
+New Jersey,Stockers and Order Fillers,65580,3.5,16.042,1.1,14.34,29840,1
+New Jersey,Gas Compressor and Gas Pumping Station Operators,160,23.3,0.04,1.71,34.61,71990,4.3
+New Jersey,"Pump Operators, Except Wellhead Pumpers",450,15.6,0.11,1.61,23.36,48580,4.4
+New Jersey,Refuse and Recyclable Material Collectors,1610,18.7,0.394,0.48,17.49,36370,2.1
+New Jersey,"Tank Car, Truck, and Ship Loaders",**,**,**,**,26.49,55100,25.1
+New Jersey,"Material Moving Workers, All Other",740,45.8,0.181,0.94,23.61,49100,12.3

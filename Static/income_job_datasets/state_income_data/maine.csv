@@ -1,0 +1,633 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Maine,All Occupations,611170,0.6,1000,1,23.3,48470,0.9
+Maine,Management Occupations,35130,1.4,57.472,1.05,47.07,97900,0.8
+Maine,Chief Executives,990,5.6,1.625,1.16,72,149760,2.6
+Maine,General and Operations Managers,11960,2.9,19.565,1.2,47.57,98950,1.5
+Maine,Advertising and Promotions Managers,100,16.8,0.16,0.94,43.96,91430,9.1
+Maine,Marketing Managers,1160,8.4,1.894,1.06,49.66,103290,3.1
+Maine,Sales Managers,1040,7.6,1.696,0.62,56.41,117320,3.4
+Maine,Public Relations and Fundraising Managers,500,9.4,0.813,1.51,46.19,96080,2.7
+Maine,Administrative Services and Facilities Managers,1600,2.9,2.619,1.25,38.98,81080,1.4
+Maine,Computer and Information Systems Managers,1250,4.7,2.044,0.69,61.05,126970,2.1
+Maine,Financial Managers,2400,4.1,3.928,0.88,56.9,118350,2
+Maine,Industrial Production Managers,730,6.5,1.2,0.95,48.21,100270,2.5
+Maine,Purchasing Managers,250,10.8,0.401,0.82,53.61,111500,2.8
+Maine,"Transportation, Storage, and Distribution Managers",540,9.1,0.878,0.98,39.73,82640,2.8
+Maine,Compensation and Benefits Managers,40,14.2,0.07,0.61,49.17,102280,8.3
+Maine,Human Resources Managers,510,3.8,0.826,0.78,54.71,113790,2.3
+Maine,Training and Development Managers,60,28.8,0.1,0.38,46.81,97360,1.7
+Maine,"Farmers, Ranchers, and Other Agricultural Managers",30,31.2,0.05,1.45,29.63,61640,9.5
+Maine,Construction Managers,1200,8.8,1.955,0.98,40.93,85140,2.7
+Maine,"Education and Childcare Administrators, Preschool and Daycare",240,11.6,0.397,1.11,24.64,51250,3.8
+Maine,"Education Administrators, Kindergarten through Secondary",1400,4.1,2.287,1.24,*,85050,1.3
+Maine,"Education Administrators, Postsecondary",670,7.1,1.102,1.12,44.84,93280,3.3
+Maine,"Education Administrators, All Other",240,12.8,0.394,1.3,35.96,74800,4.6
+Maine,Architectural and Engineering Managers,740,5.4,1.21,0.92,60.68,126210,1.9
+Maine,Food Service Managers,1240,9.5,2.03,1.27,28.77,59850,2.6
+Maine,Lodging Managers,490,14.1,0.798,3.06,26.73,55600,4.9
+Maine,Medical and Health Services Managers,2080,3.9,3.41,1.27,45.96,95600,1.5
+Maine,Natural Sciences Managers,310,5.7,0.499,1.08,64.18,133490,3.7
+Maine,Postmasters and Mail Superintendents,190,0,0.313,3.31,34.93,72660,0.5
+Maine,"Property, Real Estate, and Community Association Managers",540,11.4,0.877,0.58,28.12,58500,5.3
+Maine,Social and Community Service Managers,1000,7.8,1.641,1.54,30.1,62600,1.4
+Maine,Emergency Management Directors,80,7.6,0.137,2,28.2,58650,3.2
+Maine,Funeral Home Managers,70,40.7,0.112,1.75,34.86,72510,11.5
+Maine,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",1490,4,2.437,0.76,50.03,104050,3.3
+Maine,Business and Financial Operations Occupations,25240,2.1,41.305,0.74,33.18,69010,1
+Maine,Buyers and Purchasing Agents,1340,6.9,2.2,0.77,31.85,66250,1.8
+Maine,"Claims Adjusters, Examiners, and Investigators",1940,7,3.168,1.62,29.8,61980,2.3
+Maine,"Insurance Appraisers, Auto Damage",30,44.7,0.05,0.53,33.31,69290,11.9
+Maine,Compliance Officers,1040,5.2,1.696,0.78,33.16,68960,2
+Maine,Cost Estimators,680,9.2,1.12,0.78,31.87,66290,2.2
+Maine,Human Resources Specialists,1630,3.8,2.665,0.62,30.12,62660,1.2
+Maine,Labor Relations Specialists,250,17.4,0.411,0.8,38.67,80440,7.5
+Maine,Logisticians,480,5.7,0.789,0.64,35.56,73960,1.5
+Maine,Management Analysts,1140,6.6,1.871,0.39,38.28,79610,3.3
+Maine,"Meeting, Convention, and Event Planners",370,11.1,0.597,0.75,23.19,48230,3.7
+Maine,Fundraisers,540,11.2,0.878,1.58,26.04,54160,2.6
+Maine,"Compensation, Benefits, and Job Analysis Specialists",220,4.1,0.356,0.58,29.71,61790,1.7
+Maine,Training and Development Specialists,780,5.1,1.274,0.6,27.69,57590,1.8
+Maine,Market Research Analysts and Marketing Specialists,810,8.8,1.318,0.29,31.65,65820,2.5
+Maine,"Project Management Specialists and Business Operations Specialists, All Other",4570,3,7.472,0.86,33.75,70200,2.3
+Maine,Accountants and Auditors,4390,6.2,7.178,0.82,33.7,70090,2
+Maine,Property Appraisers and Assessors,340,22.9,0.552,1.44,29.72,61810,4.8
+Maine,Budget Analysts,150,10.3,0.241,0.69,*,*,*
+Maine,Credit Analysts,200,12.1,0.324,0.64,35.2,73220,6.1
+Maine,Personal Financial Advisors,520,17.5,0.858,0.6,65.22,135660,8.5
+Maine,Insurance Underwriters,530,26.1,0.861,1.26,33.89,70490,4.9
+Maine,Financial Examiners,290,16.3,0.477,1.08,31.77,66080,2.5
+Maine,Credit Counselors,220,9.2,0.358,1.64,20.65,42950,3.3
+Maine,Loan Officers,1120,9.7,1.839,0.88,37.72,78450,4.8
+Maine,"Tax Examiners and Collectors, and Revenue Agents",220,8.2,0.363,0.99,27.01,56180,2.1
+Maine,Tax Preparers,320,25.1,0.517,1.14,19.11,39750,4.6
+Maine,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",1140,6.1,1.86,0.6,33.35,69380,2.3
+Maine,Computer and Mathematical Occupations,12380,3.2,20.25,0.65,38.03,79100,1.4
+Maine,Computer Systems Analysts,1910,4.4,3.12,0.78,38.72,80540,3.8
+Maine,Information Security Analysts,220,8.3,0.352,0.41,42.11,87590,2
+Maine,Computer Network Support Specialists,740,14.6,1.213,0.96,31.62,65770,1.3
+Maine,Computer User Support Specialists,1870,5.4,3.062,0.69,23.55,48980,1.7
+Maine,Computer Network Architects,620,19.4,1.018,0.98,49.86,103720,3.8
+Maine,Network and Computer Systems Administrators,1030,6.3,1.691,0.7,38.32,79700,2.7
+Maine,Database Administrators and Architects,240,11,0.399,0.47,42.13,87640,3.1
+Maine,Computer Programmers,690,17.4,1.129,0.83,41.96,87270,3.9
+Maine,Software Developers and Software Quality Assurance Analysts and Testers,3000,6.8,4.903,0.51,45.87,95410,1.6
+Maine,Web Developers and Digital Interface Designers,410,12.3,0.67,0.66,27.51,57210,3.6
+Maine,"Computer Occupations, All Other",840,4.6,1.381,0.52,37.83,78690,1.8
+Maine,Actuaries,100,22.3,0.157,1.04,48.35,100570,4
+Maine,Operations Research Analysts,420,4.7,0.692,1.02,34.25,71250,2.5
+Maine,Statisticians,70,26.6,0.113,0.43,33.11,68860,5.4
+Maine,"Data Scientists and Mathematical Science Occupations, All Other",200,12.7,0.326,1.55,37.61,78220,2.5
+Maine,Architecture and Engineering Occupations,9940,2.4,16.27,0.92,37.44,77880,2.3
+Maine,"Architects, Except Landscape and Naval",400,27.1,0.658,0.91,34.97,72740,3.2
+Maine,Landscape Architects,40,18.6,0.072,0.53,36.04,74970,5.8
+Maine,Cartographers and Photogrammetrists,50,16.3,0.079,1.02,33.01,68650,2
+Maine,Surveyors,240,10.9,0.397,1.29,29.49,61340,7.1
+Maine,Chemical Engineers,40,2,0.068,0.33,44.96,93520,1.7
+Maine,Civil Engineers,1040,6.6,1.699,0.8,40.21,83630,1.6
+Maine,Electrical Engineers,690,13.7,1.126,0.89,44.52,92600,2.4
+Maine,"Electronics Engineers, Except Computer",130,15.3,0.217,0.25,42.68,88770,3.7
+Maine,Environmental Engineers,180,33.6,0.302,0.83,41.22,85740,5.1
+Maine,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",90,8.4,0.148,0.84,38.66,80410,3.1
+Maine,Industrial Engineers,830,8.6,1.353,0.68,40.92,85120,1.1
+Maine,Marine Engineers and Naval Architects,350,2.6,0.573,7.41,44.53,92630,1.9
+Maine,Materials Engineers,90,26.2,0.154,0.84,49.64,103260,7.9
+Maine,Mechanical Engineers,990,6.7,1.625,0.78,41.63,86580,1.5
+Maine,Nuclear Engineers,350,0.2,0.578,5.36,42.84,89100,2.8
+Maine,"Engineers, All Other",620,7.9,1.02,0.98,42.12,87610,2.6
+Maine,Architectural and Civil Drafters,370,12.1,0.609,0.91,26.24,54580,2.9
+Maine,Electrical and Electronics Drafters,80,27.5,0.128,0.78,28.77,59840,2.8
+Maine,Mechanical Drafters,790,3.7,1.285,3.42,27.48,57160,2.9
+Maine,"Drafters, All Other",30,33.4,0.053,0.53,22.06,45880,13.7
+Maine,Civil Engineering Technologists and Technicians,420,6.6,0.689,1.47,28.31,58880,2.6
+Maine,Electrical and Electronic Engineering Technologists and Technicians,310,13.7,0.501,0.6,30.44,63320,6.1
+Maine,Environmental Engineering Technologists and Technicians,50,24.1,0.082,0.67,31.49,65500,5.7
+Maine,Industrial Engineering Technologists and Technicians,260,9.3,0.42,0.92,28.2,58660,2.9
+Maine,Mechanical Engineering Technologists and Technicians,270,42,0.437,1.5,*,*,*
+Maine,Surveying and Mapping Technicians,280,12.9,0.459,1.27,21.83,45400,2.3
+Maine,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",800,3.5,1.301,2.16,38.19,79440,4.6
+Maine,"Life, Physical, and Social Science Occupations",4590,2.8,7.51,0.86,32.63,67880,2
+Maine,Soil and Plant Scientists,60,29.5,0.096,1,27.19,56550,9.6
+Maine,Biochemists and Biophysicists,250,4.9,0.411,1.92,35.54,73920,1.9
+Maine,Microbiologists,70,24.9,0.116,0.94,32.5,67590,14.8
+Maine,Zoologists and Wildlife Biologists,260,4.6,0.422,3.22,29.14,60620,1.8
+Maine,Conservation Scientists,90,12.1,0.155,1.03,30.88,64230,2.3
+Maine,Foresters,190,30.2,0.31,4.79,*,*,*
+Maine,"Medical Scientists, Except Epidemiologists",120,17.2,0.199,0.23,62.65,130310,6.8
+Maine,Physicists,30,0,0.056,0.49,56.28,117070,3.4
+Maine,Atmospheric and Space Scientists,50,1,0.087,1.37,39.15,81430,1.7
+Maine,Chemists,280,8.3,0.455,0.8,32.6,67810,5.6
+Maine,Materials Scientists,50,34.2,0.083,1.82,32.7,68020,4.6
+Maine,"Environmental Scientists and Specialists, Including Health",480,9.9,0.793,1.38,34.51,71790,3.5
+Maine,"Geoscientists, Except Hydrologists and Geographers",50,16.2,0.086,0.43,38.74,80570,4.4
+Maine,Hydrologists,50,10.5,0.088,2.01,38.15,79360,4.2
+Maine,"Clinical, Counseling, and School Psychologists",310,12.2,0.503,0.65,38.8,80700,6.1
+Maine,"Psychologists, All Other",100,17.5,0.168,1.74,36.38,75670,2.4
+Maine,Urban and Regional Planners,110,12.1,0.173,0.66,33.44,69550,2.4
+Maine,Political Scientists,50,3.2,0.076,1.86,36.92,76790,2.6
+Maine,"Social Scientists and Related Workers, All Other",100,13.2,0.166,0.73,33.75,70200,3.4
+Maine,Agricultural and Food Science Technicians,50,23.8,0.076,0.51,18.5,38470,2.2
+Maine,Biological Technicians,420,4.5,0.682,1.26,23.77,49440,3.6
+Maine,Chemical Technicians,170,15.1,0.283,0.63,23.69,49280,9.4
+Maine,"Environmental Science and Protection Technicians, Including Health",70,16.1,0.11,0.5,17.85,37120,1.9
+Maine,Social Science Research Assistants,140,2.3,0.236,0.97,24.42,50800,2.1
+Maine,Forensic Science Technicians,30,0,0.051,0.45,27.8,57830,2.3
+Maine,"Life, Physical, and Social Science Technicians, All Other",230,2.2,0.38,0.87,26.49,55110,4.2
+Maine,Occupational Health and Safety Specialists,320,3.3,0.528,0.84,34.97,72740,1.7
+Maine,Occupational Health and Safety Technicians,50,24.7,0.087,0.62,23.16,48170,2.5
+Maine,Community and Social Service Occupations,11300,3,18.497,1.21,23.29,48450,1.2
+Maine,"Educational, Guidance, and Career Counselors and Advisors",1220,4.3,2.003,0.99,25.75,53570,2
+Maine,Marriage and Family Therapists,**,**,**,**,34.49,71730,17.3
+Maine,Rehabilitation Counselors,240,11.2,0.391,0.53,23.69,49270,4.1
+Maine,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",610,14,1.003,0.52,26.35,54800,5.2
+Maine,"Counselors, All Other",40,16.2,0.068,0.39,22.81,47450,3.5
+Maine,"Child, Family, and School Social Workers",1700,5.1,2.789,1.25,27.84,57900,2.4
+Maine,Healthcare Social Workers,710,9.6,1.164,0.98,26.68,55490,1.7
+Maine,Mental Health and Substance Abuse Social Workers,1290,13.4,2.114,2.64,28.53,59340,2
+Maine,"Social Workers, All Other",580,9,0.955,2.4,25.86,53790,2
+Maine,Health Education Specialists,500,12.3,0.823,2.06,23.87,49640,3
+Maine,Probation Officers and Correctional Treatment Specialists,280,2.7,0.457,0.76,23.33,48520,1.9
+Maine,Social and Human Service Assistants,3760,5.8,6.158,2.24,17.03,35420,0.9
+Maine,Community Health Workers,90,26.6,0.14,0.35,18.56,38600,4.4
+Maine,"Community and Social Service Specialists, All Other",70,27.1,0.115,0.17,17.62,36640,3.6
+Maine,Clergy,100,15.3,0.168,0.46,24.82,51620,2.1
+Maine,Legal Occupations,3650,4.2,5.967,0.76,39.78,82750,5.4
+Maine,Lawyers,1910,6,3.119,0.7,51.13,106350,7.3
+Maine,"Administrative Law Judges, Adjudicators, and Hearing Officers",100,1.4,0.171,1.74,31.44,65400,1.8
+Maine,"Judges, Magistrate Judges, and Magistrates",90,2.9,0.151,0.77,54.7,113770,8.1
+Maine,Paralegals and Legal Assistants,1170,11.7,1.907,0.85,25.15,52320,2.2
+Maine,"Title Examiners, Abstractors, and Searchers",180,38.6,0.3,0.83,25.18,52360,4.3
+Maine,"Legal Support Workers, All Other",140,12.9,0.231,0.75,27.4,56990,5.4
+Maine,Educational Instruction and Library Occupations,41880,2.2,68.531,1.13,23.58,49050,1.7
+Maine,"Business Teachers, Postsecondary",350,9.2,0.571,1,*,70370,4.9
+Maine,"Computer Science Teachers, Postsecondary",80,14.8,0.129,0.59,*,77100,8.6
+Maine,"Mathematical Science Teachers, Postsecondary",240,10.6,0.396,1.14,*,64850,4
+Maine,"Engineering Teachers, Postsecondary",140,0.6,0.222,0.91,*,92020,1.7
+Maine,"Biological Science Teachers, Postsecondary",250,9.3,0.409,1.13,*,75080,3.9
+Maine,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",160,10.3,0.265,3.54,*,87850,3.6
+Maine,"Chemistry Teachers, Postsecondary",120,11.1,0.204,1.4,*,79240,3.7
+Maine,"Environmental Science Teachers, Postsecondary",50,12.2,0.081,1.97,*,67730,6.8
+Maine,"Physics Teachers, Postsecondary",60,19.4,0.103,1.1,*,89990,4.2
+Maine,"Anthropology and Archeology Teachers, Postsecondary",40,18.1,0.06,1.5,*,89950,3.8
+Maine,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",50,9.4,0.077,1.07,*,85040,6.3
+Maine,"Economics Teachers, Postsecondary",90,19.4,0.142,1.57,*,103220,6
+Maine,"Political Science Teachers, Postsecondary",90,10.2,0.142,1.32,*,89530,4.4
+Maine,"Psychology Teachers, Postsecondary",170,13.1,0.283,1.11,*,71230,5.6
+Maine,"Sociology Teachers, Postsecondary",70,12.1,0.114,1.21,*,67880,5.6
+Maine,"Social Sciences Teachers, Postsecondary, All Other",**,**,**,**,*,56240,7.2
+Maine,"Health Specialties Teachers, Postsecondary",420,7.3,0.69,0.5,*,101230,6.6
+Maine,"Nursing Instructors and Teachers, Postsecondary",290,5.3,0.47,1.16,*,59220,4.3
+Maine,"Education Teachers, Postsecondary",360,5.4,0.589,1.41,*,58270,2.2
+Maine,"Criminal Justice and Law Enforcement Teachers, Postsecondary",40,18.2,0.068,0.71,*,57280,5.3
+Maine,"Social Work Teachers, Postsecondary",100,11.9,0.165,1.77,*,64260,3.2
+Maine,"Art, Drama, and Music Teachers, Postsecondary",310,9.3,0.505,0.79,*,68420,4.6
+Maine,"Communications Teachers, Postsecondary",90,8,0.155,0.78,*,62080,2.5
+Maine,"English Language and Literature Teachers, Postsecondary",390,10.2,0.642,1.39,*,66230,4.3
+Maine,"Foreign Language and Literature Teachers, Postsecondary",130,19.2,0.22,1.3,*,74930,3
+Maine,"History Teachers, Postsecondary",160,14.6,0.262,1.83,*,77150,4.8
+Maine,"Philosophy and Religion Teachers, Postsecondary",120,15.7,0.191,1.19,*,85230,4
+Maine,"Recreation and Fitness Studies Teachers, Postsecondary",90,20.4,0.146,1.35,*,61490,3.9
+Maine,"Career/Technical Education Teachers, Postsecondary",320,12.3,0.521,0.68,23.02,47870,3.9
+Maine,"Postsecondary Teachers, All Other",490,12.4,0.794,0.58,*,56650,2.2
+Maine,"Preschool Teachers, Except Special Education",1850,20.6,3.028,1.03,17.98,37400,4.1
+Maine,"Kindergarten Teachers, Except Special Education",1100,18.7,1.792,2.12,*,53260,2.2
+Maine,"Elementary School Teachers, Except Special Education",5780,10,9.458,0.97,*,52860,2.2
+Maine,"Middle School Teachers, Except Special and Career/Technical Education",3230,12.2,5.287,1.25,*,56740,2.1
+Maine,"Secondary School Teachers, Except Special and Career/Technical Education",5400,13.5,8.842,1.25,*,55260,1.2
+Maine,"Career/Technical Education Teachers, Secondary School",**,**,**,**,*,52490,7.1
+Maine,"Special Education Teachers, Kindergarten and Elementary School",1020,10.4,1.667,1.26,*,52750,2.1
+Maine,"Special Education Teachers, Middle School",450,17.4,0.739,1.26,*,57340,2.7
+Maine,"Special Education Teachers, Secondary School",670,18.1,1.099,1.13,*,50350,3.5
+Maine,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",160,11.9,0.256,0.72,27.88,57980,2.9
+Maine,Self-Enrichment Teachers,1580,12.5,2.592,1.51,20.83,43330,5.1
+Maine,"Substitute Teachers, Short-Term",2130,9.5,3.482,0.87,13.01,27060,1.9
+Maine,"Tutors and Teachers and Instructors, All Other",680,13.7,1.11,0.51,*,56500,4.1
+Maine,Archivists,40,13.4,0.072,1.61,23.55,48990,3.5
+Maine,Curators,80,8.1,0.135,1.54,27.65,57500,3.6
+Maine,Museum Technicians and Conservators,60,14.7,0.102,1.13,21.5,44730,6.9
+Maine,Librarians and Media Collections Specialists,850,5.9,1.388,1.5,25.36,52750,2.3
+Maine,Library Technicians,700,6,1.146,1.9,17.39,36160,1.8
+Maine,Farm and Home Management Educators,100,18.5,0.171,2.88,28.08,58410,8.5
+Maine,Instructional Coordinators,510,9.3,0.834,0.69,30.06,62520,3.7
+Maine,"Teaching Assistants, Postsecondary",650,3.3,1.065,1.14,*,*,*
+Maine,"Teaching Assistants, Except Postsecondary",8620,4.9,14.102,1.54,*,34340,1.4
+Maine,"Educational Instruction and Library Workers, All Other",550,26.6,0.902,1.03,19,39520,4
+Maine,"Arts, Design, Entertainment, Sports, and Media Occupations",7690,4.1,12.589,0.92,22.87,47570,2.2
+Maine,Art Directors,**,**,**,**,48,99850,7.5
+Maine,Special Effects Artists and Animators,60,41.1,0.097,0.49,28.52,59320,7.8
+Maine,Commercial and Industrial Designers,180,17.1,0.302,1.36,27.31,56800,3.7
+Maine,Fashion Designers,110,23.8,0.176,1.17,34.45,71660,4.5
+Maine,Floral Designers,270,13,0.443,1.56,13.87,28850,2.5
+Maine,Graphic Designers,690,8.4,1.128,0.77,22.75,47310,3
+Maine,Interior Designers,180,45.1,0.296,0.72,24.58,51120,6.4
+Maine,Merchandise Displayers and Window Trimmers,510,18.2,0.828,0.86,15.38,31990,4.6
+Maine,Set and Exhibit Designers,30,36.2,0.05,0.61,24.34,50630,9.2
+Maine,"Designers, All Other",**,**,**,**,17.01,35390,19
+Maine,Producers and Directors,210,14.3,0.341,0.39,25.42,52880,5.5
+Maine,Coaches and Scouts,1590,10.3,2.599,1.58,*,34090,5.3
+Maine,"Umpires, Referees, and Other Sports Officials",40,7.1,0.073,0.53,*,27650,3
+Maine,"Miscellaneous Entertainers and Performers, Sports and Related Workers",50,26.4,0.08,0.74,30.18,*,11.7
+Maine,Broadcast Announcers and Radio Disc Jockeys,200,21.1,0.329,1.65,15.81,32890,5.2
+Maine,"News Analysts, Reporters, and Journalists",300,17.2,0.498,1.66,20,41610,6.1
+Maine,Public Relations Specialists,1450,5.2,2.367,1.42,27.18,56530,1.6
+Maine,Editors,370,16.9,0.61,0.93,25.49,53010,4.4
+Maine,Technical Writers,110,13.6,0.177,0.51,31.64,65810,4
+Maine,Writers and Authors,90,13.8,0.152,0.49,34.81,72400,8.3
+Maine,Interpreters and Translators,120,15.9,0.196,0.49,30.97,64430,11.1
+Maine,Court Reporters and Simultaneous Captioners,**,**,**,**,34.99,72780,3.7
+Maine,"Media and Communication Workers, All Other",50,34.9,0.084,0.49,19.51,40570,7.8
+Maine,Audio and Video Technicians,100,15.1,0.17,0.34,20.53,42700,4.5
+Maine,Broadcast Technicians,130,21.7,0.219,1.12,19.68,40930,8.5
+Maine,Photographers,120,18.8,0.204,0.59,20.11,41830,11.1
+Maine,"Camera Operators, Television, Video, and Film",90,11.5,0.155,1.06,17.73,36870,2.4
+Maine,Film and Video Editors,90,31.4,0.144,0.77,28.35,58980,18.3
+Maine,"Lighting Technicians and Media and Communication Equipment Workers, All Other",30,26,0.057,0.36,27.48,57160,2.1
+Maine,Healthcare Practitioners and Technical Occupations,42390,2.1,69.354,1.17,41.16,85610,2.1
+Maine,Chiropractors,210,14,0.346,1.45,40.67,84600,3.7
+Maine,"Dentists, General",590,21.8,0.961,1.27,105.96,220400,13.7
+Maine,Dietitians and Nutritionists,240,8.1,0.389,0.84,29.16,60640,2.1
+Maine,Optometrists,160,14.8,0.266,0.99,56.07,116620,9
+Maine,Pharmacists,1290,5.7,2.103,0.99,64.75,134670,2.6
+Maine,Physician Assistants,840,5.3,1.37,1.68,54.45,113250,1.2
+Maine,Podiatrists,30,28.1,0.055,0.83,114.73,238630,12.3
+Maine,Occupational Therapists,930,7.9,1.516,1.67,35.77,74400,4.3
+Maine,Physical Therapists,1270,5.7,2.071,1.3,38.64,80380,1.3
+Maine,Respiratory Therapists,480,4.5,0.793,0.88,28.92,60160,1.1
+Maine,Speech-Language Pathologists,790,8.7,1.287,1.22,31.9,66350,2
+Maine,Veterinarians,540,18.7,0.891,1.76,44.36,92260,5.4
+Maine,Registered Nurses,14490,2.7,23.703,1.17,33.54,69760,1.3
+Maine,Nurse Anesthetists,350,18.3,0.58,1.96,90.79,188840,3.1
+Maine,Nurse Midwives,60,14.9,0.098,2.07,55.38,115200,2.5
+Maine,Nurse Practitioners,1380,6.1,2.266,1.66,51.43,106960,1.3
+Maine,Audiologists,30,10.5,0.055,0.6,36.4,75710,2.5
+Maine,Anesthesiologists,120,32.9,0.191,0.9,#,#,12.7
+Maine,Family Medicine Physicians,710,7.6,1.164,1.56,95.71,199080,4
+Maine,General Internal Medicine Physicians,170,38.1,0.273,0.9,115.12,239460,11.3
+Maine,Obstetricians and Gynecologists,130,30.2,0.218,1.72,100.32,208670,11.9
+Maine,"Pediatricians, General",150,30.9,0.238,1.18,91.33,189970,9.1
+Maine,Psychiatrists,110,19,0.181,1.04,131.68,273900,7.4
+Maine,"Physicians, All Other; and Ophthalmologists, Except Pediatric",2200,6.1,3.598,1.35,121.12,251930,5.4
+Maine,"Surgeons, Except Ophthalmologists",240,18.7,0.396,1.6,135.32,281470,7.4
+Maine,Dental Hygienists,1040,10.2,1.696,1.12,32.46,67510,2.5
+Maine,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",280,6.1,0.46,1.85,37.92,78870,2.8
+Maine,Clinical Laboratory Technologists and Technicians,1400,4.9,2.294,1.03,26.13,54350,0.9
+Maine,Cardiovascular Technologists and Technicians,190,6.5,0.318,0.83,30.17,62760,1.8
+Maine,Diagnostic Medical Sonographers,330,7.3,0.532,1.07,37.58,78170,1.7
+Maine,Nuclear Medicine Technologists,100,12.3,0.172,1.39,37.15,77270,2.5
+Maine,Radiologic Technologists and Technicians,1210,4.2,1.976,1.4,28.1,58450,1.2
+Maine,Magnetic Resonance Imaging Technologists,150,3.7,0.248,0.96,35.4,73620,1.3
+Maine,Emergency Medical Technicians and Paramedics,1820,14.8,2.98,1.68,17.16,35690,2.8
+Maine,Dietetic Technicians,100,33.5,0.168,0.85,15.15,31520,3.2
+Maine,Pharmacy Technicians,2270,5.8,3.722,1.31,15.84,32960,1.1
+Maine,Psychiatric Technicians,**,**,**,**,16.03,33350,3.6
+Maine,Surgical Technologists,540,8.6,0.883,1.19,22.76,47330,1
+Maine,Veterinary Technologists and Technicians,780,20.3,1.283,1.7,17.56,36530,2.4
+Maine,Ophthalmic Medical Technicians,190,26.5,0.31,0.78,20.56,42770,4.2
+Maine,Licensed Practical and Licensed Vocational Nurses,1080,9.1,1.761,0.37,22.56,46930,1.8
+Maine,"Opticians, Dispensing",410,20.6,0.678,1.38,19.58,40730,4.7
+Maine,Orthotists and Prosthetists,40,25.3,0.065,0.97,38.92,80940,4.8
+Maine,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",1790,5.3,2.926,1.3,21.18,44050,2.2
+Maine,Athletic Trainers,210,24.3,0.348,1.79,*,49040,2.8
+Maine,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",200,10.6,0.326,0.88,31.44,65400,2.5
+Maine,Healthcare Support Occupations,35600,2.3,58.257,1.31,14.99,31190,0.9
+Maine,Home Health and Personal Care Aides,16960,3.7,27.754,1.29,13.17,27400,0.7
+Maine,Nursing Assistants,9020,5.5,14.761,1.53,14.79,30770,1.1
+Maine,Orderlies,190,5.4,0.306,0.96,14.26,29660,2.3
+Maine,Psychiatric Aides,510,26.4,0.842,2.25,14.32,29790,2.1
+Maine,Occupational Therapy Assistants,200,27.8,0.324,1.06,25.62,53280,3.6
+Maine,Physical Therapist Assistants,350,10.5,0.568,0.86,25.85,53770,1.3
+Maine,Physical Therapist Aides,50,16,0.088,0.26,14.87,30920,2.9
+Maine,Massage Therapists,300,22.5,0.485,0.66,25.74,53540,9.3
+Maine,Dental Assistants,1140,9.1,1.868,0.78,21.08,43850,2
+Maine,Medical Assistants,4340,4,7.097,1.46,17.57,36540,0.9
+Maine,Medical Equipment Preparers,550,5.8,0.894,2.31,17.88,37200,2
+Maine,Medical Transcriptionists,130,10.8,0.206,0.54,17.02,35390,1.8
+Maine,Pharmacy Aides,80,31.7,0.128,0.5,14.18,29480,2.7
+Maine,Veterinary Assistants and Laboratory Animal Caretakers,740,17.9,1.208,1.83,19.71,41000,5.8
+Maine,Phlebotomists,570,8.9,0.935,1.07,15.48,32200,1
+Maine,"Healthcare Support Workers, All Other",470,7.1,0.762,1.2,15.89,33050,1.8
+Maine,Protective Service Occupations,11150,3.1,18.242,0.77,21.47,44650,1.9
+Maine,First-Line Supervisors of Correctional Officers,150,9,0.246,0.78,26.32,54740,2.6
+Maine,First-Line Supervisors of Police and Detectives,390,6.1,0.637,0.77,37.08,77130,1
+Maine,First-Line Supervisors of Firefighting and Prevention Workers,370,7.6,0.602,1.27,28.61,59500,2.2
+Maine,"Miscellaneous First-Line Supervisors, Protective Service Workers",280,7.6,0.451,0.8,24.67,51300,2.9
+Maine,Firefighters,1860,7.2,3.044,1.38,18.96,39430,2.7
+Maine,Fire Inspectors and Investigators,80,10.1,0.123,1.32,28.21,58680,5.6
+Maine,Bailiffs,230,34.8,0.381,2.85,27.16,56490,11.9
+Maine,Correctional Officers and Jailers,1160,6.2,1.895,0.66,20.2,42010,1.8
+Maine,Detectives and Criminal Investigators,550,2.7,0.895,1.25,35.11,73040,1.2
+Maine,Fish and Game Wardens,170,6.6,0.278,6.01,28.78,59870,2.3
+Maine,Parking Enforcement Workers,40,3,0.071,1.37,16.26,33810,3.2
+Maine,Police and Sheriff's Patrol Officers,2120,3.9,3.476,0.77,25.56,53170,1
+Maine,Animal Control Workers,120,17.1,0.201,2.46,17.52,36440,5.8
+Maine,Private Detectives and Investigators,40,31.3,0.07,0.29,25.52,53080,8.4
+Maine,Gambling Surveillance Officers and Gambling Investigators,30,29.1,0.05,0.72,18.48,38430,8.9
+Maine,Security Guards,1860,10.5,3.042,0.4,15.33,31880,2.3
+Maine,Crossing Guards and Flaggers,460,15.9,0.756,1.31,12.76,26540,1.7
+Maine,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",460,13.4,0.747,0.76,11.95,24850,1.4
+Maine,Transportation Security Screeners,150,0,0.239,0.75,19.75,41080,2.1
+Maine,"School Bus Monitors and Protective Service Workers, All Other",580,12.2,0.946,0.95,16.19,33670,3.1
+Maine,Food Preparation and Serving Related Occupations,58170,1.6,95.178,1.04,13.83,28760,1
+Maine,Chefs and Head Cooks,540,14.9,0.885,1.01,26.31,54720,4.4
+Maine,First-Line Supervisors of Food Preparation and Serving Workers,3430,8.2,5.608,0.81,18.75,39000,2.1
+Maine,"Cooks, Fast Food",2180,23.2,3.565,0.99,12.28,25530,2
+Maine,"Cooks, Institution and Cafeteria",2230,7,3.645,1.33,15.71,32680,1.3
+Maine,"Cooks, Restaurant",5350,7.3,8.747,0.92,15.33,31880,2.5
+Maine,"Cooks, Short Order",1100,26.6,1.793,1.72,13.73,28560,4.2
+Maine,"Cooks, All Other",70,38.4,0.122,0.92,15.95,33180,8.8
+Maine,Food Preparation Workers,8360,9.2,13.677,2.33,13.3,27660,1.2
+Maine,Bartenders,3000,9,4.907,1.11,14.6,30370,3.4
+Maine,Fast Food and Counter Workers,13530,5.9,22.13,0.81,11.92,24790,0.8
+Maine,Waiters and Waitresses,12970,4.1,21.216,1.21,14.02,29170,2.2
+Maine,"Food Servers, Nonrestaurant",690,22.5,1.135,0.6,12.95,26930,3
+Maine,Dining Room and Cafeteria Attendants and Bartender Helpers,650,17.2,1.065,0.33,12.85,26740,2.6
+Maine,Dishwashers,2580,10.2,4.221,1.21,12.08,25130,1.2
+Maine,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",1500,14.8,2.45,0.85,12.82,26670,2.4
+Maine,Building and Grounds Cleaning and Maintenance Occupations,22550,2.6,36.893,1.22,15.34,31920,1
+Maine,First-Line Supervisors of Housekeeping and Janitorial Workers,580,7.9,0.956,0.9,21.27,44250,2.3
+Maine,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",530,16.4,0.862,1.22,23.55,48980,3.5
+Maine,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",11450,3.3,18.737,1.28,15.14,31480,1
+Maine,Maids and Housekeeping Cleaners,4180,8.3,6.832,1.08,13.11,27270,1.3
+Maine,Pest Control Workers,240,27.6,0.393,0.73,17.08,35520,4.6
+Maine,Landscaping and Groundskeeping Workers,5270,6.7,8.617,1.39,15.84,32940,2.6
+Maine,"Grounds Maintenance Workers, All Other",60,7.7,0.094,0.96,15.73,32710,5.7
+Maine,Personal Care and Service Occupations,13040,4.1,21.344,0.95,15.92,33110,2
+Maine,First-Line Supervisors of Gambling Services Workers,**,**,**,**,23.69,49270,2.7
+Maine,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1520,8.1,2.486,1.68,19.79,41160,1.3
+Maine,Animal Caretakers,1070,16.4,1.75,1.21,13.86,28820,3.8
+Maine,"Ushers, Lobby Attendants, and Ticket Takers",690,14.9,1.136,1.21,11.54,24010,2
+Maine,Amusement and Recreation Attendants,750,13.7,1.232,0.54,12.48,25960,1.8
+Maine,"Locker Room, Coatroom, and Dressing Room Attendants",490,31,0.799,7.34,11.46,23840,2.4
+Maine,Funeral Attendants,180,18,0.297,1.27,15.65,32560,3.7
+Maine,"Morticians, Undertakers, and Funeral Arrangers",140,19.7,0.226,1.31,27.33,56840,9.9
+Maine,Barbers,**,**,**,**,17.26,35900,4
+Maine,"Hairdressers, Hairstylists, and Cosmetologists",1210,15.5,1.983,0.75,15.28,31780,4.6
+Maine,Manicurists and Pedicurists,80,33.5,0.127,0.17,15.04,31280,10.8
+Maine,Skincare Specialists,120,35.4,0.192,0.5,22.72,47270,16
+Maine,Baggage Porters and Bellhops,80,3.9,0.138,0.51,12.83,26680,2.2
+Maine,Tour and Travel Guides,80,33.6,0.134,0.4,13.3,27660,2.3
+Maine,Childcare Workers,2760,13,4.514,1.18,13.51,28100,1.7
+Maine,Exercise Trainers and Group Fitness Instructors,1380,15,2.265,1.02,25.02,52050,7.3
+Maine,Recreation Workers,1300,11.7,2.129,0.87,14.92,31030,1.9
+Maine,Residential Advisors,260,19,0.426,0.58,14.96,31120,3.5
+Maine,"Crematory Operators and Personal Care and Service Workers, All Other",510,20.1,0.83,1.98,14.07,29260,8.5
+Maine,Sales and Related Occupations,56460,2.3,92.381,0.94,18.66,38820,1.5
+Maine,First-Line Supervisors of Retail Sales Workers,5920,3.9,9.691,1.21,21.97,45700,1.7
+Maine,First-Line Supervisors of Non-Retail Sales Workers,1030,13.4,1.692,1,40.76,84770,9.9
+Maine,Cashiers,14080,6.1,23.031,0.94,12.14,25240,1
+Maine,Counter and Rental Clerks,730,13.2,1.197,0.43,15.22,31660,2.8
+Maine,Parts Salespersons,1230,8.6,2.004,1.15,16.79,34930,2.2
+Maine,Retail Salespersons,20330,4.2,33.271,1.13,14.28,29700,1.3
+Maine,Advertising Sales Agents,410,15,0.671,0.76,21.85,45440,4
+Maine,Insurance Sales Agents,1910,10.4,3.13,1.12,30.74,63950,7.8
+Maine,"Securities, Commodities, and Financial Services Sales Agents",840,18.6,1.379,0.46,38.22,79490,12.5
+Maine,Travel Agents,**,**,**,**,17.53,36470,3.3
+Maine,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",2640,8.4,4.314,0.61,28.73,59750,3.5
+Maine,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",560,13.7,0.91,0.44,39.38,81910,10.3
+Maine,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",4270,5.2,6.988,0.76,32.43,67460,3
+Maine,Real Estate Brokers,160,28.1,0.259,0.89,37.53,78050,7.4
+Maine,Real Estate Sales Agents,440,39,0.727,0.66,26.85,55840,9.5
+Maine,Sales Engineers,130,18.6,0.207,0.48,41.54,86410,3.7
+Maine,Telemarketers,910,28.1,1.484,1.62,16.2,33700,3.1
+Maine,"Sales and Related Workers, All Other",340,14,0.552,0.68,16.41,34120,6
+Maine,Office and Administrative Support Occupations,82120,1.2,134.362,1.01,18.51,38510,0.5
+Maine,First-Line Supervisors of Office and Administrative Support Workers,5170,2.9,8.455,0.83,25.74,53530,0.8
+Maine,"Switchboard Operators, Including Answering Service",260,13.5,0.418,0.9,14.43,30010,2
+Maine,Bill and Account Collectors,560,13,0.912,0.57,19.07,39670,2.3
+Maine,Billing and Posting Clerks,1950,5.3,3.199,1.01,18.14,37740,1.1
+Maine,"Bookkeeping, Accounting, and Auditing Clerks",7340,4.7,12.005,1.17,19.14,39810,1
+Maine,Payroll and Timekeeping Clerks,640,14.8,1.052,1.08,20.36,42340,3.8
+Maine,Procurement Clerks,360,11.4,0.591,1.31,18.96,39440,1.6
+Maine,Tellers,2560,6.1,4.188,1.39,15.02,31230,1.3
+Maine,Brokerage Clerks,90,40.2,0.142,0.43,29.3,60940,6.5
+Maine,Correspondence Clerks,**,**,**,**,17.22,35820,3.2
+Maine,"Court, Municipal, and License Clerks",1170,5.4,1.908,1.82,18.87,39260,1.7
+Maine,"Credit Authorizers, Checkers, and Clerks",180,32.5,0.296,1.63,18.29,38040,2.5
+Maine,Customer Service Representatives,11660,3.6,19.079,0.96,17.26,35910,1.3
+Maine,"Eligibility Interviewers, Government Programs",560,5.5,0.909,0.96,19.41,40380,1.7
+Maine,File Clerks,130,7.7,0.213,0.31,17.12,35610,1.7
+Maine,"Hotel, Motel, and Resort Desk Clerks",1750,15.5,2.862,1.57,12.99,27020,1.7
+Maine,"Interviewers, Except Eligibility and Loan",1100,2.8,1.804,1.41,15.17,31550,1
+Maine,"Library Assistants, Clerical",270,9.4,0.441,0.75,14.09,29310,2
+Maine,Loan Interviewers and Clerks,1020,13.1,1.666,1.17,18.43,38330,3.2
+Maine,New Accounts Clerks,320,35.3,0.53,1.79,19.86,41300,3
+Maine,"Human Resources Assistants, Except Payroll and Timekeeping",490,6.5,0.798,1,19.82,41220,1.2
+Maine,Receptionists and Information Clerks,4080,4.5,6.678,0.93,15.24,31710,1
+Maine,Reservation and Transportation Ticket Agents and Travel Clerks,320,13.1,0.524,0.62,15.06,31320,3.3
+Maine,"Information and Record Clerks, All Other",760,8.2,1.245,1.19,14.45,30050,2.5
+Maine,Cargo and Freight Agents,190,22,0.312,0.48,25.65,53350,3.6
+Maine,Couriers and Messengers,60,18.9,0.095,0.19,15.36,31950,6.2
+Maine,Public Safety Telecommunicators,580,8.2,0.946,1.46,20.58,42820,1.4
+Maine,"Dispatchers, Except Police, Fire, and Ambulance",990,9.2,1.615,1.19,21.19,44070,4.2
+Maine,"Meter Readers, Utilities",50,24.1,0.08,0.39,23.92,49750,5.5
+Maine,Postal Service Clerks,740,0,1.217,2.2,22.78,47390,0.3
+Maine,Postal Service Mail Carriers,1590,0,2.603,1.13,24.51,50980,0.6
+Maine,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",470,0,0.762,1.09,24.03,49990,2.3
+Maine,"Production, Planning, and Expediting Clerks",950,3.2,1.552,0.62,26.21,54510,2.4
+Maine,"Shipping, Receiving, and Inventory Clerks",2180,8.7,3.567,0.74,17.27,35920,1.1
+Maine,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",700,8.6,1.142,2.75,14.83,30850,2
+Maine,Executive Secretaries and Executive Administrative Assistants,1820,5.1,2.979,0.81,25.76,53580,1.3
+Maine,Legal Secretaries and Administrative Assistants,600,19,0.975,0.85,18.81,39130,4.1
+Maine,Medical Secretaries and Administrative Assistants,2580,6.1,4.227,1.03,17.21,35790,1.6
+Maine,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",9610,2.9,15.717,1.13,18.43,38330,0.9
+Maine,Data Entry Keyers,330,9.6,0.543,0.5,16.31,33930,1.3
+Maine,Word Processors and Typists,70,20.3,0.114,0.35,18.05,37550,4.3
+Maine,Desktop Publishers,80,41.4,0.126,2.12,18.22,37900,6.7
+Maine,Insurance Claims and Policy Processing Clerks,1140,11.1,1.858,1.06,20.2,42020,2.5
+Maine,"Mail Clerks and Mail Machine Operators, Except Postal Service",350,23.6,0.575,1.01,15.49,32220,2.2
+Maine,"Office Clerks, General",11910,3.2,19.487,0.97,17.3,35970,0.8
+Maine,"Office Machine Operators, Except Computer",140,21.1,0.229,0.73,14.84,30870,4.2
+Maine,Statistical Assistants,70,9.3,0.115,1.73,19.33,40200,2.1
+Maine,"Office and Administrative Support Workers, All Other",240,24.1,0.394,0.31,18.32,38110,3.7
+Maine,"Farming, Fishing, and Forestry Occupations",1750,9.1,2.859,0.87,19.65,40880,3.5
+Maine,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",170,23,0.281,1.83,25.1,52220,4.2
+Maine,Agricultural Inspectors,50,3.7,0.088,0.94,22.22,46220,2.4
+Maine,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",260,22.4,0.418,0.21,15.29,31810,3.5
+Maine,"Farmworkers, Farm, Ranch, and Aquacultural Animals",120,28.6,0.197,0.79,16.1,33480,2.8
+Maine,Logging Equipment Operators,1030,11.1,1.683,9.5,19.94,41470,5.2
+Maine,Log Graders and Scalers,40,14.8,0.071,3.17,19.17,39870,5.3
+Maine,Construction and Extraction Occupations,27880,2.1,45.62,1.08,21.71,45150,1.2
+Maine,First-Line Supervisors of Construction Trades and Extraction Workers,2300,5.9,3.764,0.88,28.48,59240,1.6
+Maine,Brickmasons and Blockmasons,220,28.2,0.357,0.86,21.6,44930,3.5
+Maine,Stonemasons,110,38.7,0.188,2.23,22.84,47500,19.9
+Maine,Carpenters,5130,6,8.394,1.68,21.07,43830,1.2
+Maine,"Floor Layers, Except Carpet, Wood, and Hard Tiles",**,**,**,**,24.46,50870,8.4
+Maine,Floor Sanders and Finishers,110,45.8,0.187,5.55,18.22,37900,3.4
+Maine,Tile and Stone Setters,70,49.3,0.117,0.43,17.97,37370,3.7
+Maine,Cement Masons and Concrete Finishers,680,18.1,1.119,0.84,21.38,44470,2.5
+Maine,Construction Laborers,3150,7.5,5.148,0.74,16.65,34630,1.8
+Maine,"Paving, Surfacing, and Tamping Equipment Operators",290,17.3,0.471,1.51,20.54,42730,3.4
+Maine,Pile Driver Operators,**,**,**,**,19.1,39720,11.5
+Maine,Operating Engineers and Other Construction Equipment Operators,1670,8.6,2.729,0.99,21.25,44190,2.4
+Maine,Drywall and Ceiling Tile Installers,300,23.7,0.489,0.7,20.41,42460,8
+Maine,Tapers,130,30.2,0.215,1.75,23.64,49170,4.1
+Maine,Electricians,2830,6.1,4.637,0.99,26.08,54240,2.1
+Maine,Glaziers,60,43.5,0.098,0.28,20.8,43270,8.2
+Maine,"Insulation Workers, Floor, Ceiling, and Wall",250,17.1,0.414,1.81,17.14,35660,4.1
+Maine,"Insulation Workers, Mechanical",280,14,0.458,2.52,23.92,49750,3.2
+Maine,"Painters, Construction and Maintenance",1430,5.2,2.347,1.48,22.2,46170,3.7
+Maine,Pipelayers,170,22.3,0.274,1.11,21.74,45220,2.7
+Maine,"Plumbers, Pipefitters, and Steamfitters",2130,6.6,3.482,1.15,24.51,50970,2.1
+Maine,Roofers,550,20.2,0.902,1.02,18.62,38740,2.8
+Maine,Sheet Metal Workers,560,11.3,0.919,1.03,23.79,49480,4.9
+Maine,Structural Iron and Steel Workers,330,20.6,0.533,1.02,25.42,52870,3.5
+Maine,Solar Photovoltaic Installers,**,**,**,**,19.09,39710,2.7
+Maine,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",**,**,**,**,17.53,36470,4.3
+Maine,Helpers--Carpenters,340,28.9,0.551,2.46,15.68,32610,3.5
+Maine,Helpers--Electricians,610,16.8,1.002,1.86,16.91,35170,3.1
+Maine,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",150,38.8,0.253,0.64,15.11,31430,5.6
+Maine,"Helpers, Construction Trades, All Other",70,24,0.115,0.59,15.36,31940,4.7
+Maine,Construction and Building Inspectors,490,8,0.796,1.06,26.42,54950,2
+Maine,Elevator and Escalator Installers and Repairers,90,37.7,0.139,0.72,35.89,74640,12.9
+Maine,Fence Erectors,160,40.4,0.254,1.44,17.37,36130,8.8
+Maine,Hazardous Materials Removal Workers,60,38.5,0.096,0.32,18.86,39220,5.6
+Maine,Highway Maintenance Workers,1800,6,2.941,2.86,17.56,36530,1.4
+Maine,Rail-Track Laying and Maintenance Equipment Operators,50,18.2,0.083,0.76,22.25,46270,4.2
+Maine,Septic Tank Servicers and Sewer Pipe Cleaners,190,26.4,0.304,1.5,16.78,34900,4.7
+Maine,Miscellaneous Construction and Related Workers,**,**,**,**,17.33,36050,22.1
+Maine,"Excavating and Loading Machine and Dragline Operators, Surface Mining",590,13.7,0.959,3.19,21.16,44010,4.3
+Maine,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",140,33.4,0.228,1.34,20.3,42230,4.2
+Maine,"Installation, Maintenance, and Repair Occupations",26050,2.2,42.626,1.1,22.3,46390,0.9
+Maine,"First-Line Supervisors of Mechanics, Installers, and Repairers",2000,5.4,3.278,0.99,31.55,65620,1.7
+Maine,"Computer, Automated Teller, and Office Machine Repairers",500,13.6,0.825,1.23,21.15,43990,3.1
+Maine,"Radio, Cellular, and Tower Equipment Installers and Repairers",110,33.4,0.187,1.91,18.4,38270,4
+Maine,"Telecommunications Equipment Installers and Repairers, Except Line Installers",530,26.8,0.874,0.62,27.31,56800,5.2
+Maine,"Electric Motor, Power Tool, and Related Repairers",40,33.8,0.068,0.62,24.45,50860,5.6
+Maine,"Electrical and Electronics Installers and Repairers, Transportation Equipment",110,24,0.185,2.78,21.73,45200,3.2
+Maine,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",550,8.5,0.907,2.26,27.04,56240,2.7
+Maine,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",**,**,**,**,39.41,81960,4.8
+Maine,Security and Fire Alarm Systems Installers,380,35.7,0.62,1.27,25.8,53670,4.6
+Maine,Aircraft Mechanics and Service Technicians,140,7.1,0.225,0.25,26.4,54910,3
+Maine,Automotive Body and Related Repairers,800,13.1,1.305,1.33,19.2,39940,4
+Maine,Automotive Glass Installers and Repairers,**,**,**,**,17.98,37390,4.6
+Maine,Automotive Service Technicians and Mechanics,4080,6,6.671,1.5,19.23,39990,2
+Maine,Bus and Truck Mechanics and Diesel Engine Specialists,1300,8.4,2.134,1.18,21.89,45540,1.4
+Maine,Farm Equipment Mechanics and Service Technicians,**,**,**,**,18.06,37570,2.3
+Maine,"Mobile Heavy Equipment Mechanics, Except Engines",1100,7.9,1.804,1.79,21.53,44790,1.7
+Maine,Motorboat Mechanics and Service Technicians,170,25.5,0.285,1.82,23.11,48060,3.3
+Maine,Motorcycle Mechanics,130,20.8,0.205,1.93,18.35,38170,3.3
+Maine,Outdoor Power Equipment and Other Small Engine Mechanics,240,29.3,0.385,1.76,19.11,39750,4.1
+Maine,Bicycle Repairers,**,**,**,**,17.39,36170,4.5
+Maine,Recreational Vehicle Service Technicians,100,39.2,0.167,1.57,23.31,48480,10.6
+Maine,Tire Repairers and Changers,590,24.7,0.963,1.28,13.43,27940,3.5
+Maine,Mechanical Door Repairers,270,33.3,0.443,2.83,23.85,49600,8.2
+Maine,"Control and Valve Installers and Repairers, Except Mechanical Door",100,21.6,0.171,0.48,27.71,57640,6.4
+Maine,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",2120,9.1,3.465,1.49,23.2,48250,2.9
+Maine,Home Appliance Repairers,160,16.1,0.258,1.22,18.78,39050,9.4
+Maine,Industrial Machinery Mechanics,1460,8.4,2.391,0.91,24.84,51670,1.6
+Maine,"Maintenance Workers, Machinery",170,18,0.274,0.55,21.46,44650,2.5
+Maine,Millwrights,330,7.5,0.542,1.68,24.21,50350,2.7
+Maine,Electrical Power-Line Installers and Repairers,410,27.5,0.677,0.89,28.3,58850,6.4
+Maine,Telecommunications Line Installers and Repairers,560,29.7,0.916,1.11,27.36,56900,4.2
+Maine,Medical Equipment Repairers,100,27.4,0.169,0.54,28.65,59580,6.3
+Maine,"Precision Instrument and Equipment Repairers, All Other",50,18.3,0.087,1.21,25.08,52170,3.9
+Maine,"Maintenance and Repair Workers, General",4830,5,7.906,0.82,19.3,40140,1.4
+Maine,"Coin, Vending, and Amusement Machine Servicers and Repairers",30,23.1,0.049,0.23,17.53,36460,5.1
+Maine,Locksmiths and Safe Repairers,110,45.2,0.173,1.5,23.66,49220,4.3
+Maine,Riggers,290,5.8,0.474,3.03,25.4,52820,2.7
+Maine,"Helpers--Installation, Maintenance, and Repair Workers",160,19.7,0.259,0.38,15.14,31500,6.4
+Maine,"Installation, Maintenance, and Repair Workers, All Other",1270,8.9,2.073,1.89,20.81,43270,3.6
+Maine,Production Occupations,35410,2.4,57.937,0.93,20.08,41760,2.1
+Maine,First-Line Supervisors of Production and Operating Workers,2900,3.4,4.737,1.1,31.16,64800,2.2
+Maine,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",390,17.4,0.633,0.33,16.26,33830,4.3
+Maine,Structural Metal Fabricators and Fitters,260,38.1,0.425,0.81,19.01,39530,3.9
+Maine,Fiberglass Laminators and Fabricators,230,12,0.38,2.79,18.57,38630,3.1
+Maine,Miscellaneous Assemblers and Fabricators,3550,6.5,5.805,0.62,17.76,36930,1.8
+Maine,Bakers,990,9.2,1.614,1.28,14.87,30940,2.4
+Maine,Butchers and Meat Cutters,770,10.7,1.255,1.35,17.2,35790,2.4
+Maine,"Meat, Poultry, and Fish Cutters and Trimmers",840,17,1.379,1.31,15.29,31800,8.9
+Maine,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",160,34.4,0.256,1.8,17.66,36740,7.2
+Maine,Food Batchmakers,230,27.9,0.378,0.35,16.33,33970,4.3
+Maine,Food Cooking Machine Operators and Tenders,60,16.1,0.102,0.5,15.29,31790,7.7
+Maine,"Food Processing Workers, All Other",260,35.8,0.431,1.48,13.37,27810,2.3
+Maine,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",60,32.2,0.099,0.19,21.27,44240,6.8
+Maine,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",180,26.7,0.29,0.22,19.11,39760,3.2
+Maine,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",50,18,0.083,1.12,19.6,40770,3.7
+Maine,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",180,15.7,0.288,0.55,18.97,39460,5.4
+Maine,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",290,23.5,0.472,2.47,18.24,37940,2.2
+Maine,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",300,3.1,0.495,3.88,*,*,*
+Maine,Machinists,1370,7.2,2.24,0.86,23.8,49510,3.1
+Maine,Metal-Refining Furnace Operators and Tenders,30,18.4,0.055,0.47,15.84,32950,3.8
+Maine,Foundry Mold and Coremakers,60,44.3,0.101,0.84,17.71,36830,3.3
+Maine,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",380,16.1,0.626,0.53,20.44,42520,4.8
+Maine,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",110,14.8,0.182,0.18,18.54,38560,5
+Maine,Tool and Die Makers,80,17,0.13,0.27,26.79,55730,3.6
+Maine,"Welders, Cutters, Solderers, and Brazers",1930,8.8,3.161,1.13,23.44,48750,3.6
+Maine,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",150,46.4,0.247,1.04,19.23,39990,2.8
+Maine,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",40,13.8,0.068,0.51,21.18,44060,3.6
+Maine,"Layout Workers, Metal and Plastic",810,3.3,1.321,23.79,25.51,53060,2.7
+Maine,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",230,14.6,0.372,1.31,16.7,34730,2.6
+Maine,"Metal Workers and Plastic Workers, All Other",50,18.3,0.081,0.49,*,*,*
+Maine,Prepress Technicians and Workers,60,17.8,0.098,0.48,17.53,36460,3.3
+Maine,Printing Press Operators,540,12.4,0.878,0.74,17.93,37300,5.3
+Maine,Print Binding and Finishing Workers,220,12,0.357,1.15,14.7,30580,5.9
+Maine,Laundry and Dry-Cleaning Workers,810,9.5,1.324,0.93,13.27,27610,2.3
+Maine,"Pressers, Textile, Garment, and Related Materials",70,41.1,0.117,0.45,12.76,26530,3.6
+Maine,Sewing Machine Operators,700,17.6,1.141,1.26,15.04,31280,2.1
+Maine,Shoe and Leather Workers and Repairers,150,31.9,0.252,4.22,15.02,31240,4.6
+Maine,Shoe Machine Operators and Tenders,390,2,0.641,18.74,16.97,35310,2.6
+Maine,"Textile Cutting Machine Setters, Operators, and Tenders",90,10.5,0.153,1.71,16.53,34380,4.3
+Maine,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",190,6.2,0.31,2.16,16.15,33600,2.5
+Maine,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",140,9.9,0.236,1.11,13.95,29020,2.1
+Maine,"Textile, Apparel, and Furnishings Workers, All Other",130,13.7,0.217,1.76,18.1,37660,5.1
+Maine,Cabinetmakers and Bench Carpenters,500,18,0.821,1.21,19.24,40020,3.3
+Maine,Furniture Finishers,140,29.8,0.228,2.07,17.56,36530,9.5
+Maine,"Sawing Machine Setters, Operators, and Tenders, Wood",570,20.6,0.935,2.71,17.45,36300,2.7
+Maine,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",670,15.1,1.102,2.05,15.49,32220,2.9
+Maine,Power Plant Operators,330,21,0.532,2.32,32.4,67400,6.4
+Maine,Stationary Engineers and Boiler Operators,350,13.5,0.567,2.56,23.68,49260,2
+Maine,Water and Wastewater Treatment Plant and System Operators,650,12.8,1.065,1.26,22.53,46850,1.7
+Maine,"Plant and System Operators, All Other",110,12.7,0.179,2.03,21.98,45710,2.6
+Maine,Chemical Equipment Operators and Tenders,70,28.8,0.122,0.21,20.97,43620,5.5
+Maine,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",560,20.4,0.91,2.61,22.54,46880,4.5
+Maine,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",210,11.3,0.343,1.51,22.8,47420,6.6
+Maine,"Grinding and Polishing Workers, Hand",80,26.9,0.134,0.67,20.59,42830,5.4
+Maine,"Mixing and Blending Machine Setters, Operators, and Tenders",250,17.4,0.408,0.48,23.78,49450,3.7
+Maine,"Cutting and Slicing Machine Setters, Operators, and Tenders",240,39.3,0.401,1.02,19.41,40370,5
+Maine,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",380,13.4,0.628,1.28,17.99,37420,3.3
+Maine,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",60,21.5,0.094,0.73,23.12,48100,8.9
+Maine,"Inspectors, Testers, Sorters, Samplers, and Weighers",1320,5.8,2.159,0.55,22.42,46640,2.9
+Maine,Jewelers and Precious Stone and Metal Workers,90,27,0.142,0.88,21.02,43720,7.9
+Maine,Dental Laboratory Technicians,60,15.1,0.105,0.45,22.43,46660,3
+Maine,Medical Appliance Technicians,40,17.2,0.064,0.66,20.58,42800,3.8
+Maine,Ophthalmic Laboratory Technicians,**,**,**,**,15.91,33090,5.3
+Maine,Packaging and Filling Machine Operators and Tenders,1630,14.7,2.667,1,17.16,35690,4.3
+Maine,"Painting, Coating, and Decorating Workers",50,27,0.075,0.89,15.31,31840,3.1
+Maine,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",600,17.4,0.978,0.98,22.54,46890,4.3
+Maine,Computer Numerically Controlled Tool Operators,720,12.9,1.181,1.14,21.4,44510,4.3
+Maine,Computer Numerically Controlled Tool Programmers,70,37.6,0.122,0.7,24.35,50650,5.5
+Maine,Adhesive Bonding Machine Operators and Tenders,50,26,0.088,0.93,15.95,33180,4.2
+Maine,Cooling and Freezing Equipment Operators and Tenders,**,**,**,**,17.44,36280,3.9
+Maine,Etchers and Engravers,70,30.2,0.116,1.65,17.91,37250,7.3
+Maine,"Molders, Shapers, and Casters, Except Metal and Plastic",180,45.6,0.294,0.96,17.69,36790,2.8
+Maine,"Paper Goods Machine Setters, Operators, and Tenders",**,**,**,**,22.72,47260,13.5
+Maine,Tire Builders,40,38.3,0.058,0.41,14.25,29640,4.3
+Maine,Helpers--Production Workers,1330,11,2.179,1.06,16.31,33920,3.4
+Maine,"Production Workers, All Other",2420,10.6,3.958,2.62,17.09,35550,3.4
+Maine,Transportation and Material Moving Occupations,46790,2.3,76.558,0.9,17.09,35550,1
+Maine,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",1690,6.3,2.769,0.89,25.3,52620,2.3
+Maine,Commercial Pilots,90,31.1,0.141,0.55,*,60550,7.3
+Maine,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",40,41.5,0.067,0.67,11.55,24020,3.3
+Maine,Driver/Sales Workers,1420,15,2.318,0.77,14.53,30220,3.1
+Maine,Heavy and Tractor-Trailer Truck Drivers,9290,4.5,15.202,1.2,20.13,41870,1.4
+Maine,Light Truck Drivers,4730,6.5,7.732,1.23,16.73,34800,3.5
+Maine,"Bus Drivers, Transit and Intercity",400,15.5,0.659,0.54,18.76,39020,3.8
+Maine,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",3510,11.9,5.741,1.2,16.67,34680,1.8
+Maine,"Motor Vehicle Operators, All Other",530,21.8,0.869,2.25,13.74,28570,4.1
+Maine,Railroad Conductors and Yardmasters,**,**,**,**,31.08,64660,3.6
+Maine,Sailors and Marine Oilers,180,16,0.288,1.35,17.5,36410,3.4
+Maine,"Captains, Mates, and Pilots of Water Vessels",220,26.9,0.355,1.56,38.68,80460,7.1
+Maine,Parking Attendants,150,39.9,0.238,0.24,12.98,27000,6.7
+Maine,Automotive and Watercraft Service Attendants,810,31.1,1.321,1.65,11.88,24720,1.9
+Maine,Transportation Inspectors,80,31.5,0.13,0.64,48.63,101150,4.8
+Maine,"Aircraft Service Attendants and Transportation Workers, All Other",270,28.1,0.444,1.87,13.88,28860,3.1
+Maine,Conveyor Operators and Tenders,200,23,0.327,2,19.39,40340,7.9
+Maine,Crane and Tower Operators,370,15.7,0.609,1.97,24.74,51460,3.7
+Maine,Industrial Truck and Tractor Operators,3240,8.3,5.305,1.24,17.6,36610,2.4
+Maine,Cleaners of Vehicles and Equipment,1150,12.2,1.883,0.72,14.18,29490,2.3
+Maine,"Laborers and Freight, Stock, and Material Movers, Hand",5290,6,8.661,0.43,14.58,30320,0.9
+Maine,Machine Feeders and Offbearers,250,12.4,0.407,0.94,14.8,30780,2.8
+Maine,"Packers and Packagers, Hand",1370,6.6,2.236,0.52,13.8,28710,2.2
+Maine,Stockers and Order Fillers,9960,5.9,16.292,1.12,14.39,29930,1.8
+Maine,Gas Compressor and Gas Pumping Station Operators,30,44.7,0.054,2.31,22.4,46580,13.6
+Maine,Refuse and Recyclable Material Collectors,700,19.1,1.152,1.39,16.07,33420,1.8
+Maine,"Material Moving Workers, All Other",100,43,0.168,0.87,15.45,32140,6.6

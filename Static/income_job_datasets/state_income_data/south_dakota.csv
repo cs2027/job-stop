@@ -1,0 +1,575 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+South Dakota,All Occupations,425140,0.5,1000,1,20.63,42920,0.7
+South Dakota,Management Occupations,12310,1.6,28.953,0.53,51.76,107660,1.2
+South Dakota,Chief Executives,500,4.7,1.178,0.84,123.13,256110,2
+South Dakota,General and Operations Managers,3620,2.6,8.513,0.52,61.96,128890,1.1
+South Dakota,Marketing Managers,70,9.8,0.173,0.1,78.31,162890,6.5
+South Dakota,Sales Managers,330,6.9,0.769,0.28,63.28,131620,3.3
+South Dakota,Administrative Services and Facilities Managers,370,5.1,0.869,0.42,40.56,84360,1.1
+South Dakota,Computer and Information Systems Managers,200,3.5,0.469,0.16,66.94,139230,1.3
+South Dakota,Financial Managers,680,3.8,1.593,0.36,67.13,139620,2.9
+South Dakota,Industrial Production Managers,460,3.4,1.087,0.86,50.12,104240,2.4
+South Dakota,Purchasing Managers,50,7.7,0.107,0.22,62.96,130950,5
+South Dakota,"Transportation, Storage, and Distribution Managers",250,11.9,0.585,0.65,46.05,95780,4
+South Dakota,Human Resources Managers,270,3.9,0.641,0.61,45.76,95190,1.2
+South Dakota,Training and Development Managers,40,4.4,0.084,0.32,45.53,94700,1.9
+South Dakota,Construction Managers,330,7.3,0.77,0.39,46.92,97590,1.5
+South Dakota,"Education and Childcare Administrators, Preschool and Daycare",100,19.2,0.236,0.66,27.19,56550,3.3
+South Dakota,"Education Administrators, Kindergarten through Secondary",620,1.5,1.453,0.79,*,81610,3.1
+South Dakota,"Education Administrators, Postsecondary",200,4.9,0.461,0.47,56.94,118430,6.2
+South Dakota,"Education Administrators, All Other",70,0,0.172,0.57,35.31,73450,2
+South Dakota,Architectural and Engineering Managers,130,2.4,0.299,0.23,65.3,135830,1.9
+South Dakota,Food Service Managers,980,5.9,2.306,1.44,25.63,53300,1.2
+South Dakota,Lodging Managers,260,10.8,0.611,2.34,26.78,55710,4.9
+South Dakota,Medical and Health Services Managers,780,5,1.823,0.68,50.61,105260,2.4
+South Dakota,Natural Sciences Managers,90,3.1,0.209,0.45,52.16,108490,1.6
+South Dakota,Postmasters and Mail Superintendents,100,0,0.235,2.5,35.16,73130,0.8
+South Dakota,"Property, Real Estate, and Community Association Managers",940,11.4,2.211,1.47,20.05,41700,3.5
+South Dakota,Social and Community Service Managers,280,8.3,0.647,0.61,34.95,72700,1.9
+South Dakota,Emergency Management Directors,100,4.1,0.233,3.41,25.93,53940,1.4
+South Dakota,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",390,3.9,0.927,0.29,48.81,101510,1.7
+South Dakota,Business and Financial Operations Occupations,20860,1.4,49.072,0.88,31.19,64870,0.7
+South Dakota,Buyers and Purchasing Agents,1240,4.7,2.906,1.01,29.76,61910,1
+South Dakota,"Claims Adjusters, Examiners, and Investigators",730,5.6,1.716,0.88,31.26,65020,2.4
+South Dakota,"Insurance Appraisers, Auto Damage",30,31.3,0.074,0.79,26.51,55140,11.1
+South Dakota,Compliance Officers,940,5,2.199,1.02,28.15,58550,1.7
+South Dakota,Cost Estimators,870,8.2,2.053,1.44,27.72,57660,1.5
+South Dakota,Human Resources Specialists,1080,3.6,2.542,0.59,26.97,56110,1.4
+South Dakota,Logisticians,140,1,0.338,0.27,34.35,71440,1.4
+South Dakota,Management Analysts,2730,3.7,6.417,1.33,37.47,77930,1.8
+South Dakota,"Meeting, Convention, and Event Planners",260,7.5,0.602,0.75,18.72,38930,1.7
+South Dakota,Fundraisers,60,25.3,0.141,0.25,26.09,54270,8.1
+South Dakota,"Compensation, Benefits, and Job Analysis Specialists",700,3.2,1.658,2.73,25.53,53100,1
+South Dakota,Training and Development Specialists,560,3.8,1.314,0.62,24.86,51720,1.3
+South Dakota,Market Research Analysts and Marketing Specialists,1100,4.8,2.585,0.56,26.75,55650,1.6
+South Dakota,"Project Management Specialists and Business Operations Specialists, All Other",1010,2.9,2.387,0.27,33.37,69400,1.4
+South Dakota,Accountants and Auditors,4740,2.5,11.149,1.28,32.44,67470,0.6
+South Dakota,Property Appraisers and Assessors,340,10.6,0.803,2.09,22.9,47630,5
+South Dakota,Budget Analysts,130,0,0.295,0.84,30.21,62830,0.9
+South Dakota,Credit Analysts,410,7,0.974,1.94,30.73,63920,1.7
+South Dakota,Personal Financial Advisors,310,16.2,0.724,0.51,*,*,*
+South Dakota,Insurance Underwriters,300,19.3,0.716,1.05,37.38,77740,5.4
+South Dakota,Financial Examiners,100,2.8,0.234,0.53,42.17,87700,4.4
+South Dakota,Credit Counselors,40,31.9,0.093,0.43,18.95,39420,4.8
+South Dakota,Loan Officers,1880,5.2,4.431,2.11,32.06,66680,1.8
+South Dakota,Tax Preparers,370,18.3,0.88,1.94,20.01,41630,6.2
+South Dakota,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",660,6.2,1.543,0.49,33.06,68770,3.2
+South Dakota,Computer and Mathematical Occupations,8430,1.9,19.825,0.64,31.75,66040,1.2
+South Dakota,Computer Systems Analysts,750,5.5,1.765,0.44,36.38,75680,1.6
+South Dakota,Information Security Analysts,320,8,0.764,0.89,43.81,91130,1.1
+South Dakota,Computer Network Support Specialists,820,4.5,1.922,1.52,22.97,47770,2
+South Dakota,Computer User Support Specialists,1200,2.6,2.824,0.64,19,39530,1.6
+South Dakota,Computer Network Architects,410,12.4,0.963,0.93,50.17,104350,2.3
+South Dakota,Network and Computer Systems Administrators,1850,3.7,4.357,1.81,30.53,63510,1
+South Dakota,Database Administrators and Architects,170,8.1,0.388,0.45,36.74,76420,2.8
+South Dakota,Computer Programmers,470,12.8,1.096,0.81,28.64,59580,2.7
+South Dakota,Software Developers and Software Quality Assurance Analysts and Testers,1780,6.4,4.182,0.44,38,79030,2.5
+South Dakota,Web Developers and Digital Interface Designers,360,12.7,0.857,0.85,25.25,52520,2.2
+South Dakota,"Computer Occupations, All Other",220,0.6,0.515,0.19,37,76960,1.5
+South Dakota,Architecture and Engineering Occupations,5210,1.9,12.259,0.69,33.46,69590,1.1
+South Dakota,"Architects, Except Landscape and Naval",100,14.3,0.237,0.33,38.17,79400,2.6
+South Dakota,Landscape Architects,70,31.8,0.169,1.23,33.43,69530,7.3
+South Dakota,Cartographers and Photogrammetrists,130,14.8,0.312,4.05,27.38,56960,4.8
+South Dakota,Surveyors,110,9,0.264,0.86,32.53,67660,3.1
+South Dakota,Civil Engineers,1210,6.7,2.853,1.35,37.24,77450,1.4
+South Dakota,Electrical Engineers,280,8.6,0.654,0.52,42.06,87480,2
+South Dakota,"Electronics Engineers, Except Computer",80,17.5,0.187,0.21,45.19,93990,6.4
+South Dakota,Environmental Engineers,80,17.4,0.189,0.52,41.01,85300,2.4
+South Dakota,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",60,7,0.132,0.75,36.28,75460,2.1
+South Dakota,Industrial Engineers,640,5,1.504,0.76,40.92,85110,2
+South Dakota,Mechanical Engineers,570,5.6,1.352,0.65,37.27,77520,1.1
+South Dakota,"Mining and Geological Engineers, Including Mining Safety Engineers",70,13.5,0.171,4.01,48.89,101700,2.3
+South Dakota,"Engineers, All Other",130,14.8,0.298,0.29,38.33,79720,4.2
+South Dakota,Architectural and Civil Drafters,250,9.8,0.581,0.86,21.26,44220,2.5
+South Dakota,Mechanical Drafters,180,8.4,0.427,1.14,20.85,43360,2.2
+South Dakota,Civil Engineering Technologists and Technicians,380,5.3,0.903,1.93,21.15,43990,1.5
+South Dakota,Electrical and Electronic Engineering Technologists and Technicians,110,5.3,0.262,0.31,27.22,56610,2.1
+South Dakota,Environmental Engineering Technologists and Technicians,**,**,**,**,20.08,41760,3.4
+South Dakota,Industrial Engineering Technologists and Technicians,180,3.9,0.415,0.91,20.16,41930,1.2
+South Dakota,Mechanical Engineering Technologists and Technicians,180,7.9,0.43,1.47,21.34,44400,2.6
+South Dakota,Surveying and Mapping Technicians,110,25.1,0.266,0.74,19.18,39890,2.2
+South Dakota,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",80,2.7,0.195,0.32,24.65,51270,1.1
+South Dakota,"Life, Physical, and Social Science Occupations",4390,3,10.331,1.18,27.53,57270,1.9
+South Dakota,Animal Scientists,90,12.8,0.215,11.77,26.28,54660,4.6
+South Dakota,Food Scientists and Technologists,90,31.2,0.2,2.18,27.74,57690,8
+South Dakota,Soil and Plant Scientists,580,12.2,1.356,14.08,28.85,60000,3
+South Dakota,Microbiologists,80,0,0.179,1.44,27.03,56220,1.9
+South Dakota,Zoologists and Wildlife Biologists,160,1.1,0.366,2.79,26.33,54760,1.2
+South Dakota,"Biological Scientists, All Other",100,0,0.227,0.83,32.77,68150,1
+South Dakota,Conservation Scientists,320,8.8,0.76,5.06,28.59,59470,1.9
+South Dakota,Foresters,110,0.5,0.259,4,26.48,55080,1.4
+South Dakota,"Medical Scientists, Except Epidemiologists",190,25.1,0.455,0.53,44.84,93270,8.1
+South Dakota,Atmospheric and Space Scientists,60,5,0.139,2.2,40.62,84490,2.1
+South Dakota,Chemists,120,7.8,0.281,0.49,30.89,64260,3.3
+South Dakota,"Environmental Scientists and Specialists, Including Health",230,9.3,0.546,0.95,29.02,60360,2.7
+South Dakota,"Geoscientists, Except Hydrologists and Geographers",100,11.5,0.24,1.21,32.95,68530,2.2
+South Dakota,"Clinical, Counseling, and School Psychologists",270,17.7,0.63,0.82,37.29,77560,2.9
+South Dakota,"Psychologists, All Other",30,0,0.073,0.75,39.95,83100,1.7
+South Dakota,Sociologists,40,40.7,0.095,5.29,26.2,54490,5.6
+South Dakota,Urban and Regional Planners,190,16.1,0.447,1.7,28.7,59690,2.3
+South Dakota,Anthropologists and Archeologists,50,21.2,0.123,2.7,26.71,55560,4.9
+South Dakota,"Social Scientists and Related Workers, All Other",80,0,0.188,0.82,33.15,68950,1.3
+South Dakota,Agricultural and Food Science Technicians,300,9.7,0.698,4.69,14.24,29610,3.2
+South Dakota,Biological Technicians,270,6.3,0.637,1.18,15.72,32690,1.5
+South Dakota,Chemical Technicians,80,9.2,0.191,0.43,18.52,38530,3.5
+South Dakota,"Environmental Science and Protection Technicians, Including Health",110,29.6,0.247,1.11,13.97,29060,3
+South Dakota,Geological and Hydrologic Technicians,50,5.2,0.111,0.95,21.19,44060,2.6
+South Dakota,Forest and Conservation Technicians,**,**,**,**,19.03,39580,1
+South Dakota,Forensic Science Technicians,40,13.1,0.094,0.83,18.79,39070,2.7
+South Dakota,Occupational Health and Safety Specialists,120,4.8,0.276,0.44,34.31,71350,1.6
+South Dakota,Occupational Health and Safety Technicians,**,**,**,**,21.98,45720,3.1
+South Dakota,Community and Social Service Occupations,6710,2.8,15.778,1.03,19.9,41390,0.8
+South Dakota,"Educational, Guidance, and Career Counselors and Advisors",780,2.5,1.838,0.91,21.44,44590,1.3
+South Dakota,Marriage and Family Therapists,170,20.1,0.391,0.97,19.43,40420,3.4
+South Dakota,Rehabilitation Counselors,360,5.5,0.851,1.15,20.88,43420,3.3
+South Dakota,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1220,9.9,2.878,1.49,20.52,42670,2.3
+South Dakota,"Child, Family, and School Social Workers",1720,4,4.036,1.81,19.55,40660,0.8
+South Dakota,Healthcare Social Workers,530,4.8,1.245,1.05,21.18,44060,2.8
+South Dakota,Mental Health and Substance Abuse Social Workers,370,25.2,0.865,1.08,19.18,39900,2.5
+South Dakota,"Social Workers, All Other",100,0,0.235,0.59,32.55,67700,1.5
+South Dakota,Health Education Specialists,160,7.3,0.367,0.92,23.62,49130,2
+South Dakota,Probation Officers and Correctional Treatment Specialists,350,0.2,0.819,1.36,22.84,47510,1.9
+South Dakota,Social and Human Service Assistants,750,5.4,1.771,0.64,12.59,26180,1.4
+South Dakota,Clergy,150,10.1,0.343,0.95,23.19,48240,1.7
+South Dakota,"Directors, Religious Activities and Education",30,14.2,0.075,0.51,24.05,50030,4.6
+South Dakota,Legal Occupations,1680,7.2,3.941,0.5,39.96,83120,7.9
+South Dakota,Lawyers,880,17.1,2.061,0.46,54.23,112810,9.6
+South Dakota,"Judges, Magistrate Judges, and Magistrates",30,0.3,0.076,0.39,40.49,84220,1.7
+South Dakota,Paralegals and Legal Assistants,510,14,1.194,0.53,23.62,49130,2.9
+South Dakota,"Title Examiners, Abstractors, and Searchers",160,35.3,0.367,1.02,23.8,49500,3.8
+South Dakota,"Legal Support Workers, All Other",**,**,**,**,18.35,38160,14.9
+South Dakota,Educational Instruction and Library Occupations,24350,1.3,57.285,0.95,20.83,43340,2.2
+South Dakota,"Business Teachers, Postsecondary",220,5.7,0.511,0.89,*,79490,8.3
+South Dakota,"Computer Science Teachers, Postsecondary",130,6.4,0.302,1.4,*,75700,3.6
+South Dakota,"Mathematical Science Teachers, Postsecondary",130,6.2,0.309,0.89,*,73250,2.7
+South Dakota,"Biological Science Teachers, Postsecondary",160,2.6,0.375,1.04,*,89980,5.2
+South Dakota,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",50,30,0.121,1.62,*,83510,4.8
+South Dakota,"Chemistry Teachers, Postsecondary",60,2.2,0.148,1.01,*,84330,4
+South Dakota,"Physics Teachers, Postsecondary",40,2.7,0.1,1.07,*,*,*
+South Dakota,"Psychology Teachers, Postsecondary",70,2.7,0.174,0.68,*,76460,5.5
+South Dakota,"Sociology Teachers, Postsecondary",50,23.3,0.118,1.25,*,68390,2.8
+South Dakota,"Health Specialties Teachers, Postsecondary",240,5.6,0.569,0.41,*,83450,3.9
+South Dakota,"Nursing Instructors and Teachers, Postsecondary",240,4.6,0.558,1.37,*,73160,4.5
+South Dakota,"Education Teachers, Postsecondary",170,3.7,0.409,0.98,*,70550,4.1
+South Dakota,"Criminal Justice and Law Enforcement Teachers, Postsecondary",40,9.3,0.084,0.87,*,68250,12.3
+South Dakota,"Social Work Teachers, Postsecondary",80,14.3,0.191,2.05,*,72740,7.1
+South Dakota,"Art, Drama, and Music Teachers, Postsecondary",150,1.1,0.342,0.53,*,68760,2.8
+South Dakota,"Communications Teachers, Postsecondary",70,2.8,0.175,0.89,*,68350,3.1
+South Dakota,"English Language and Literature Teachers, Postsecondary",180,8.5,0.423,0.91,*,63020,2.4
+South Dakota,"Foreign Language and Literature Teachers, Postsecondary",60,9.3,0.152,0.9,*,70230,4.2
+South Dakota,"History Teachers, Postsecondary",40,9.4,0.1,0.7,*,77660,4.4
+South Dakota,"Recreation and Fitness Studies Teachers, Postsecondary",120,5,0.274,2.53,*,66430,6.3
+South Dakota,"Career/Technical Education Teachers, Postsecondary",300,8.7,0.703,0.92,28,58250,4.6
+South Dakota,"Preschool Teachers, Except Special Education",1620,10,3.805,1.3,14.92,31040,2.5
+South Dakota,"Kindergarten Teachers, Except Special Education",630,1.8,1.481,1.75,*,43060,1.5
+South Dakota,"Elementary School Teachers, Except Special Education",4070,2.1,9.572,0.98,*,44110,1.7
+South Dakota,"Middle School Teachers, Except Special and Career/Technical Education",1920,2,4.523,1.07,*,44990,1.4
+South Dakota,"Career/Technical Education Teachers, Middle School",50,0.8,0.127,1.58,*,46050,1.7
+South Dakota,"Secondary School Teachers, Except Special and Career/Technical Education",3500,2.6,8.241,1.17,*,44610,1.6
+South Dakota,"Career/Technical Education Teachers, Secondary School",290,5.7,0.69,1.36,*,44870,1.4
+South Dakota,"Special Education Teachers, Preschool",30,24.6,0.073,0.48,*,43200,7.6
+South Dakota,"Special Education Teachers, Kindergarten and Elementary School",720,1.8,1.686,1.28,*,44830,2
+South Dakota,"Special Education Teachers, Middle School",310,1.5,0.72,1.23,*,46080,1.8
+South Dakota,"Special Education Teachers, Secondary School",500,3.3,1.183,1.21,*,45440,2
+South Dakota,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",350,20.8,0.827,2.34,17.68,36770,9.5
+South Dakota,Self-Enrichment Teachers,210,22.2,0.504,0.29,18.45,38370,5.7
+South Dakota,"Substitute Teachers, Short-Term",1100,3.9,2.595,0.65,13.68,28450,1.2
+South Dakota,"Tutors and Teachers and Instructors, All Other",200,8.7,0.477,0.22,*,51140,5.8
+South Dakota,Curators,60,6,0.151,1.72,24.53,51020,1.4
+South Dakota,Museum Technicians and Conservators,60,22.6,0.147,1.64,14.84,30870,3.6
+South Dakota,Librarians and Media Collections Specialists,560,9,1.316,1.42,20.31,42240,2.1
+South Dakota,Library Technicians,590,3.6,1.377,2.28,12.98,27000,1.5
+South Dakota,Farm and Home Management Educators,50,2.1,0.121,2.04,27.38,56950,4.1
+South Dakota,Instructional Coordinators,370,5.6,0.87,0.72,29.93,62260,2
+South Dakota,"Teaching Assistants, Postsecondary",130,0,0.295,0.31,*,41640,2.3
+South Dakota,"Teaching Assistants, Except Postsecondary",3850,4.3,9.047,0.99,*,25440,1.5
+South Dakota,"Educational Instruction and Library Workers, All Other",120,0,0.28,0.32,18.97,39450,1.7
+South Dakota,"Arts, Design, Entertainment, Sports, and Media Occupations",5430,4,12.763,0.93,19.28,40090,1.9
+South Dakota,Craft Artists,50,31.3,0.107,3.4,15.62,32500,4.4
+South Dakota,Special Effects Artists and Animators,60,11.6,0.14,0.7,21.5,44720,4.5
+South Dakota,Commercial and Industrial Designers,90,7.2,0.221,0.99,21.22,44140,1.9
+South Dakota,Floral Designers,210,14,0.499,1.76,14.36,29880,2.5
+South Dakota,Graphic Designers,720,11.1,1.691,1.15,17.35,36090,2.2
+South Dakota,Interior Designers,190,35.6,0.448,1.08,*,*,*
+South Dakota,Merchandise Displayers and Window Trimmers,400,41.2,0.929,0.97,11.99,24930,3.1
+South Dakota,Actors,40,19.8,0.088,0.24,16.49,*,5
+South Dakota,Producers and Directors,130,12.4,0.313,0.36,27.11,56390,4.5
+South Dakota,Coaches and Scouts,790,6.7,1.85,1.13,*,36350,4.4
+South Dakota,"Umpires, Referees, and Other Sports Officials",40,11.1,0.103,0.76,*,26490,4.6
+South Dakota,Choreographers,230,17.9,0.531,16.85,15.39,32010,7.4
+South Dakota,Broadcast Announcers and Radio Disc Jockeys,280,7,0.658,3.31,16.05,33380,1.8
+South Dakota,"News Analysts, Reporters, and Journalists",230,15.9,0.543,1.81,17.25,35880,3.1
+South Dakota,Public Relations Specialists,580,5.5,1.37,0.82,26.01,54100,1.9
+South Dakota,Editors,130,18.2,0.316,0.48,23.62,49120,4.7
+South Dakota,Technical Writers,130,6.3,0.304,0.88,24.22,50390,2.8
+South Dakota,Writers and Authors,60,19.2,0.149,0.48,27.21,56590,3.6
+South Dakota,Interpreters and Translators,260,6.1,0.601,1.5,19.1,39730,3.1
+South Dakota,Court Reporters and Simultaneous Captioners,50,0,0.118,1.19,25.27,52560,2.1
+South Dakota,"Media and Communication Workers, All Other",60,33.6,0.148,0.86,15.45,32130,5.5
+South Dakota,Audio and Video Technicians,90,33.4,0.203,0.4,14.81,30800,6.9
+South Dakota,Broadcast Technicians,110,9.5,0.259,1.33,16.39,34080,1.6
+South Dakota,Photographers,140,16.4,0.326,0.95,15.31,31840,2.8
+South Dakota,"Camera Operators, Television, Video, and Film",50,7.1,0.118,0.81,14.49,30140,1.6
+South Dakota,"Lighting Technicians and Media and Communication Equipment Workers, All Other",40,8.9,0.103,0.65,*,*,*
+South Dakota,Healthcare Practitioners and Technical Occupations,31410,1.8,73.885,1.25,34.38,71510,2.1
+South Dakota,Chiropractors,160,18.2,0.386,1.62,40.52,84290,11.2
+South Dakota,"Dentists, General",250,17.2,0.599,0.79,89.11,185350,11.8
+South Dakota,Oral and Maxillofacial Surgeons,**,**,**,**,#,#,19.6
+South Dakota,Dietitians and Nutritionists,230,5.9,0.537,1.17,26.57,55270,1.4
+South Dakota,Optometrists,130,12.3,0.304,1.13,48.37,100610,5.7
+South Dakota,Pharmacists,1140,5.4,2.693,1.27,56.91,118360,1
+South Dakota,Physician Assistants,530,9.2,1.238,1.51,51.57,107270,1.1
+South Dakota,Occupational Therapists,400,7.3,0.944,1.04,34.79,72370,0.9
+South Dakota,Physical Therapists,920,4.6,2.163,1.36,37.08,77130,1.4
+South Dakota,Radiation Therapists,30,1.2,0.074,0.61,41.06,85410,2.3
+South Dakota,Recreational Therapists,40,33,0.082,0.63,23.31,48490,5.5
+South Dakota,Respiratory Therapists,320,1.9,0.761,0.85,25.36,52750,1.4
+South Dakota,Speech-Language Pathologists,360,5.7,0.852,0.81,29.61,61580,1.5
+South Dakota,Veterinarians,360,32.1,0.856,1.69,42.85,89130,13.9
+South Dakota,Registered Nurses,12950,1.4,30.471,1.5,28.63,59540,1
+South Dakota,Nurse Anesthetists,370,8.8,0.863,2.91,91.77,190880,3.6
+South Dakota,Nurse Practitioners,550,8.6,1.282,0.94,49.15,102230,1.1
+South Dakota,Audiologists,**,**,**,**,38.48,80040,10.3
+South Dakota,Anesthesiologists,80,34.7,0.193,0.92,#,#,15.5
+South Dakota,Family Medicine Physicians,400,13,0.944,1.27,105.46,219360,5.1
+South Dakota,General Internal Medicine Physicians,220,13.6,0.527,1.73,135.38,281590,7.4
+South Dakota,Obstetricians and Gynecologists,60,37.9,0.148,1.17,129.18,268690,15
+South Dakota,"Physicians, All Other; and Ophthalmologists, Except Pediatric",400,11.2,0.946,0.36,104.95,218290,7.1
+South Dakota,"Surgeons, Except Ophthalmologists",260,25.5,0.619,2.51,137.17,285320,7.6
+South Dakota,Dental Hygienists,550,14,1.302,0.86,32.14,66840,4.1
+South Dakota,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",70,16.9,0.164,0.66,30.93,64340,3.7
+South Dakota,Clinical Laboratory Technologists and Technicians,1310,2.1,3.078,1.39,23.47,48820,1.9
+South Dakota,Cardiovascular Technologists and Technicians,210,10.1,0.501,1.31,25.26,52550,1.6
+South Dakota,Diagnostic Medical Sonographers,280,6.9,0.653,1.32,30.5,63440,1.6
+South Dakota,Nuclear Medicine Technologists,150,9.4,0.354,2.87,31.58,65690,2.6
+South Dakota,Radiologic Technologists and Technicians,940,3.1,2.205,1.56,25.58,53210,0.8
+South Dakota,Magnetic Resonance Imaging Technologists,110,5.4,0.26,1.01,28.55,59390,1.9
+South Dakota,Emergency Medical Technicians and Paramedics,930,6.8,2.197,1.24,15.68,32620,3.7
+South Dakota,Pharmacy Technicians,1250,4.8,2.951,1.04,16.53,34380,0.9
+South Dakota,Surgical Technologists,620,6,1.452,1.96,20.32,42260,1.2
+South Dakota,Veterinary Technologists and Technicians,240,21,0.572,0.76,16.91,35170,2.6
+South Dakota,Ophthalmic Medical Technicians,100,14.3,0.247,0.62,18.05,37550,2.4
+South Dakota,Licensed Practical and Licensed Vocational Nurses,1980,5.4,4.656,0.98,18.63,38760,0.9
+South Dakota,"Opticians, Dispensing",560,10.4,1.322,2.69,15.83,32930,1.9
+South Dakota,Orthotists and Prosthetists,40,28.8,0.099,1.47,33.36,69390,6
+South Dakota,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",1220,5.7,2.874,1.27,20.9,43480,1.7
+South Dakota,Athletic Trainers,130,3.5,0.303,1.56,*,45660,1.7
+South Dakota,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",150,12.4,0.35,0.95,29.19,60710,5.5
+South Dakota,Healthcare Support Occupations,13690,2.5,32.194,0.73,14.33,29820,1
+South Dakota,Home Health and Personal Care Aides,3550,8.5,8.358,0.39,12.91,26840,1.4
+South Dakota,Nursing Assistants,5990,2.9,14.1,1.46,13.52,28120,1.2
+South Dakota,Occupational Therapy Assistants,110,23.6,0.253,0.82,20.94,43550,3.5
+South Dakota,Physical Therapist Assistants,280,14.3,0.652,0.99,20.76,43180,3.3
+South Dakota,Physical Therapist Aides,60,7.5,0.139,0.42,13.82,28740,1.4
+South Dakota,Massage Therapists,140,29.3,0.332,0.45,15.68,32620,3.6
+South Dakota,Dental Assistants,990,6.2,2.321,0.97,19.12,39770,3.5
+South Dakota,Medical Assistants,930,5.4,2.198,0.45,14.97,31130,1.4
+South Dakota,Medical Equipment Preparers,260,7,0.614,1.59,15.73,32720,1.5
+South Dakota,Medical Transcriptionists,450,8.6,1.053,2.77,17.6,36610,1.6
+South Dakota,Veterinary Assistants and Laboratory Animal Caretakers,180,26.9,0.431,0.65,12.15,25270,4.1
+South Dakota,Phlebotomists,320,1.6,0.761,0.87,13.44,27950,1.7
+South Dakota,"Healthcare Support Workers, All Other",150,18.9,0.351,0.55,20.58,42810,1.7
+South Dakota,Protective Service Occupations,6740,1.8,15.856,0.67,20.37,42380,2.1
+South Dakota,First-Line Supervisors of Correctional Officers,50,4.1,0.111,0.35,29.65,61680,2
+South Dakota,First-Line Supervisors of Police and Detectives,140,6.1,0.333,0.4,38.18,79410,1.9
+South Dakota,First-Line Supervisors of Firefighting and Prevention Workers,100,4.1,0.226,0.48,36.59,76120,2.9
+South Dakota,"Miscellaneous First-Line Supervisors, Protective Service Workers",90,7.2,0.217,0.39,25.86,53800,2.1
+South Dakota,Firefighters,530,5.6,1.252,0.57,22.03,45820,3.5
+South Dakota,Correctional Officers and Jailers,1360,1.6,3.199,1.11,19.24,40010,1.4
+South Dakota,Detectives and Criminal Investigators,220,1.8,0.517,0.72,34.42,71580,1.1
+South Dakota,Fish and Game Wardens,130,0.7,0.306,6.61,22.21,46200,1.6
+South Dakota,Police and Sheriff's Patrol Officers,1790,3.4,4.203,0.93,23.89,49690,2.3
+South Dakota,Animal Control Workers,50,6.5,0.113,1.38,15.64,32530,1.6
+South Dakota,Private Detectives and Investigators,80,42.6,0.196,0.82,22.21,46200,9.7
+South Dakota,Gambling Surveillance Officers and Gambling Investigators,110,19.6,0.254,3.62,15.73,32710,2.6
+South Dakota,Security Guards,1190,4.1,2.796,0.36,14.53,30230,2.2
+South Dakota,Crossing Guards and Flaggers,**,**,**,**,13.3,27670,4.7
+South Dakota,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",580,9.3,1.356,1.38,10.89,22650,1.2
+South Dakota,Transportation Security Screeners,70,0,0.158,0.5,18.56,38610,2.4
+South Dakota,Food Preparation and Serving Related Occupations,41620,1.5,97.905,1.07,11.44,23800,0.7
+South Dakota,Chefs and Head Cooks,120,25.4,0.279,0.32,22.87,47570,8.2
+South Dakota,First-Line Supervisors of Food Preparation and Serving Workers,1950,3.9,4.581,0.67,16.67,34670,1.2
+South Dakota,"Cooks, Fast Food",1710,11.7,4.026,1.12,10.99,22850,1.6
+South Dakota,"Cooks, Institution and Cafeteria",2570,4,6.034,2.2,13.11,27280,0.9
+South Dakota,"Cooks, Restaurant",1750,9.8,4.111,0.43,13.33,27720,1.8
+South Dakota,"Cooks, Short Order",1550,11.9,3.636,3.5,11.85,24640,2.4
+South Dakota,Food Preparation Workers,2950,11.6,6.949,1.18,11.33,23560,1.4
+South Dakota,Bartenders,3630,6,8.531,1.94,10.69,22230,2.3
+South Dakota,Fast Food and Counter Workers,13130,5.1,30.891,1.14,10.83,22530,0.8
+South Dakota,Waiters and Waitresses,7020,4.7,16.51,0.94,10.75,22370,2.2
+South Dakota,"Food Servers, Nonrestaurant",160,18.5,0.374,0.2,13.53,28130,3.4
+South Dakota,Dining Room and Cafeteria Attendants and Bartender Helpers,2540,5.6,5.966,1.84,10.94,22750,1.3
+South Dakota,Dishwashers,1860,6.1,4.384,1.25,10.58,22010,1.2
+South Dakota,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",680,15.5,1.607,0.56,10.55,21940,1.8
+South Dakota,Building and Grounds Cleaning and Maintenance Occupations,17170,2,40.382,1.34,13.14,27340,0.9
+South Dakota,First-Line Supervisors of Housekeeping and Janitorial Workers,480,9.2,1.128,1.07,19.32,40180,2.4
+South Dakota,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",180,16.5,0.434,0.61,24.66,51300,3.3
+South Dakota,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",8250,2.9,19.406,1.33,12.87,26770,1
+South Dakota,Maids and Housekeeping Cleaners,4450,3.6,10.466,1.66,11.15,23180,1.4
+South Dakota,Pest Control Workers,110,27.5,0.251,0.46,17.01,35370,6.1
+South Dakota,Landscaping and Groundskeeping Workers,2760,6.2,6.502,1.05,13.77,28630,1.9
+South Dakota,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",630,11.2,1.484,8.45,17.1,35580,2.3
+South Dakota,Tree Trimmers and Pruners,280,44.9,0.662,2.06,17.1,35570,11.1
+South Dakota,Personal Care and Service Occupations,12290,3,28.898,1.28,13.14,27340,1.1
+South Dakota,First-Line Supervisors of Gambling Services Workers,80,27.2,0.183,0.91,21.6,44920,2.2
+South Dakota,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",400,6.4,0.932,0.63,18.18,37810,1.6
+South Dakota,Animal Trainers,40,42,0.084,0.74,14.31,29770,5.7
+South Dakota,Animal Caretakers,500,14.9,1.181,0.82,11.69,24320,2.6
+South Dakota,Gambling Dealers,230,4.7,0.547,0.81,15.23,31680,2.7
+South Dakota,Gambling and Sports Book Writers and Runners,170,40.6,0.398,5.85,13.65,28400,3.5
+South Dakota,"Ushers, Lobby Attendants, and Ticket Takers",390,16.1,0.927,0.99,10.32,21450,1.8
+South Dakota,Amusement and Recreation Attendants,1570,6.8,3.704,1.61,10.6,22050,1
+South Dakota,"Locker Room, Coatroom, and Dressing Room Attendants",40,1.4,0.094,0.86,10.08,20970,2.9
+South Dakota,Funeral Attendants,130,13.5,0.316,1.35,13.38,27830,5.7
+South Dakota,"Morticians, Undertakers, and Funeral Arrangers",140,18.3,0.322,1.86,27.7,57620,8.8
+South Dakota,"Hairdressers, Hairstylists, and Cosmetologists",990,13.8,2.326,0.89,14.84,30870,3.1
+South Dakota,Manicurists and Pedicurists,**,**,**,**,15.33,31880,6
+South Dakota,Skincare Specialists,50,48.2,0.112,0.29,17.05,35470,14
+South Dakota,Baggage Porters and Bellhops,90,29.5,0.216,0.8,12.17,25300,4.1
+South Dakota,Tour and Travel Guides,370,17.9,0.881,2.66,12.47,25940,4
+South Dakota,Childcare Workers,2520,8.7,5.916,1.55,10.55,21940,1.3
+South Dakota,Exercise Trainers and Group Fitness Instructors,1270,6.2,2.988,1.35,15.4,32040,3.9
+South Dakota,Recreation Workers,680,5.5,1.603,0.66,17.39,36160,2
+South Dakota,Residential Advisors,2490,7.2,5.86,7.97,13.1,27260,1.3
+South Dakota,Sales and Related Occupations,46220,2,108.723,1.11,19.38,40320,1.7
+South Dakota,First-Line Supervisors of Retail Sales Workers,3520,6.7,8.287,1.04,22.91,47650,1.7
+South Dakota,First-Line Supervisors of Non-Retail Sales Workers,540,9.2,1.262,0.74,47.26,98290,3.6
+South Dakota,Cashiers,12550,3.9,29.522,1.21,11.23,23350,0.7
+South Dakota,Gambling Change Persons and Booth Cashiers,170,25.6,0.4,2.76,12.21,25410,1.8
+South Dakota,Counter and Rental Clerks,770,11.9,1.813,0.65,14.33,29810,5.2
+South Dakota,Parts Salespersons,1710,9.4,4.023,2.31,17.64,36700,2.8
+South Dakota,Retail Salespersons,15260,4.7,35.887,1.22,14.72,30620,2.2
+South Dakota,Advertising Sales Agents,520,8,1.232,1.4,23.2,48260,2.6
+South Dakota,Insurance Sales Agents,1890,6.4,4.449,1.59,33.15,68950,5
+South Dakota,"Securities, Commodities, and Financial Services Sales Agents",570,16,1.35,0.45,43.37,90210,8.9
+South Dakota,Travel Agents,80,9.2,0.192,0.42,19.26,40070,6.7
+South Dakota,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",470,18.2,1.11,0.16,24.89,51770,5.8
+South Dakota,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",1510,10.6,3.56,1.7,44.39,92340,5.1
+South Dakota,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",5570,5.8,13.099,1.43,31.82,66190,1.8
+South Dakota,Real Estate Brokers,**,**,**,**,25.51,53060,27
+South Dakota,Real Estate Sales Agents,260,23.9,0.623,0.56,31.11,64720,12
+South Dakota,Sales Engineers,90,36.4,0.22,0.51,57.52,119630,5.1
+South Dakota,Telemarketers,280,9.5,0.655,0.71,12.32,25630,2.7
+South Dakota,"Sales and Related Workers, All Other",340,12.8,0.806,1,13.92,28960,3.4
+South Dakota,Office and Administrative Support Occupations,57150,1.5,134.43,1.01,16.1,33490,0.5
+South Dakota,First-Line Supervisors of Office and Administrative Support Workers,1810,4.3,4.268,0.42,23.81,49520,1.2
+South Dakota,Bill and Account Collectors,2310,13.8,5.44,3.39,16.09,33470,1.3
+South Dakota,Billing and Posting Clerks,590,2.8,1.384,0.44,15.99,33250,2.1
+South Dakota,"Bookkeeping, Accounting, and Auditing Clerks",9700,2.5,22.81,2.21,16.66,34650,0.5
+South Dakota,Gambling Cage Workers,140,15.3,0.319,3.27,13.01,27060,1.8
+South Dakota,Payroll and Timekeeping Clerks,320,3.9,0.747,0.77,18.31,38080,0.8
+South Dakota,Procurement Clerks,140,4.8,0.323,0.72,18.23,37910,1.6
+South Dakota,Tellers,1910,4.3,4.503,1.5,13.87,28840,1.5
+South Dakota,Brokerage Clerks,160,29.9,0.379,1.16,19.8,41170,3.9
+South Dakota,Correspondence Clerks,210,15.4,0.498,11.69,14.56,30280,3.5
+South Dakota,"Court, Municipal, and License Clerks",790,3.5,1.855,1.77,16.38,34070,1.2
+South Dakota,"Credit Authorizers, Checkers, and Clerks",160,33,0.37,2.04,17.43,36260,2.1
+South Dakota,Customer Service Representatives,8810,3.2,20.72,1.04,15.46,32160,1
+South Dakota,"Eligibility Interviewers, Government Programs",500,4.6,1.165,1.22,17.45,36290,1.5
+South Dakota,File Clerks,90,8.3,0.208,0.3,14.75,30680,2.7
+South Dakota,"Hotel, Motel, and Resort Desk Clerks",2060,4.8,4.848,2.66,11.17,23240,1.5
+South Dakota,"Interviewers, Except Eligibility and Loan",460,2.6,1.079,0.84,15.26,31740,1.4
+South Dakota,Loan Interviewers and Clerks,1830,4.8,4.309,3.04,17.77,36950,1.2
+South Dakota,Order Clerks,200,12,0.48,0.51,15.93,33130,1.8
+South Dakota,"Human Resources Assistants, Except Payroll and Timekeeping",240,2.9,0.566,0.71,17.2,35770,1
+South Dakota,Receptionists and Information Clerks,5620,3.1,13.216,1.84,13.57,28230,1
+South Dakota,Reservation and Transportation Ticket Agents and Travel Clerks,**,**,**,**,14.39,29930,5.1
+South Dakota,"Information and Record Clerks, All Other",410,3.4,0.954,0.91,22.58,46960,2.4
+South Dakota,Cargo and Freight Agents,250,22.2,0.591,0.91,24.99,51970,3.4
+South Dakota,Public Safety Telecommunicators,390,5.6,0.923,1.42,18.17,37800,1.4
+South Dakota,"Dispatchers, Except Police, Fire, and Ambulance",390,23.1,0.922,0.68,15.35,31940,4.2
+South Dakota,Postal Service Clerks,420,0,0.979,1.77,21.79,45320,0.5
+South Dakota,Postal Service Mail Carriers,950,0,2.244,0.97,24.78,51550,1
+South Dakota,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",290,0,0.677,0.97,22.96,47750,2
+South Dakota,"Production, Planning, and Expediting Clerks",550,3.5,1.297,0.51,20.68,43020,1.6
+South Dakota,"Shipping, Receiving, and Inventory Clerks",1840,5.9,4.339,0.9,16.08,33440,1
+South Dakota,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",160,10.6,0.368,0.89,14.77,30720,2
+South Dakota,Executive Secretaries and Executive Administrative Assistants,2660,3.5,6.265,1.7,19.4,40350,0.7
+South Dakota,Legal Secretaries and Administrative Assistants,720,19.9,1.693,1.48,16.81,34970,4.3
+South Dakota,Medical Secretaries and Administrative Assistants,110,24.6,0.251,0.06,17.93,37300,2.8
+South Dakota,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",5200,3.4,12.241,0.88,14.53,30210,0.9
+South Dakota,Insurance Claims and Policy Processing Clerks,1000,6.2,2.353,1.34,15.62,32480,2.3
+South Dakota,"Mail Clerks and Mail Machine Operators, Except Postal Service",270,11.2,0.635,1.12,13.24,27540,2.8
+South Dakota,"Office Clerks, General",2880,2.8,6.785,0.34,12.81,26640,1.2
+South Dakota,"Office Machine Operators, Except Computer",110,7.9,0.265,0.85,14.67,30500,2.3
+South Dakota,"Office and Administrative Support Workers, All Other",40,9.4,0.083,0.06,21.5,44710,2
+South Dakota,"Farming, Fishing, and Forestry Occupations",1570,9.8,3.704,1.12,15.5,32230,2.2
+South Dakota,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",60,37.7,0.137,0.89,23.36,48590,9.5
+South Dakota,Animal Breeders,60,11.9,0.147,13.41,20.81,43290,4
+South Dakota,"Graders and Sorters, Agricultural Products",330,24.2,0.785,3.36,13.7,28490,2.7
+South Dakota,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",100,18.8,0.234,0.12,13.92,28960,3.8
+South Dakota,"Farmworkers, Farm, Ranch, and Aquacultural Animals",180,14.8,0.42,1.68,15.57,32390,6.9
+South Dakota,Forest and Conservation Workers,540,23.3,1.263,27.43,14.61,30400,3
+South Dakota,Logging Equipment Operators,70,22.5,0.156,0.88,16.3,33900,4.7
+South Dakota,Construction and Extraction Occupations,22420,1.5,52.726,1.25,19.73,41030,0.7
+South Dakota,First-Line Supervisors of Construction Trades and Extraction Workers,1380,5.5,3.251,0.76,30.7,63860,1
+South Dakota,Boilermakers,70,30.7,0.162,1.5,23.74,49390,6.9
+South Dakota,Brickmasons and Blockmasons,220,22.7,0.509,1.23,27.07,56290,6.5
+South Dakota,Carpenters,4050,5.1,9.522,1.9,17.88,37190,1.3
+South Dakota,"Floor Layers, Except Carpet, Wood, and Hard Tiles",**,**,**,**,17.63,36660,6.7
+South Dakota,Tile and Stone Setters,350,34.5,0.813,2.95,21.7,45130,14.1
+South Dakota,Cement Masons and Concrete Finishers,1840,11.9,4.333,3.25,17.54,36480,2.3
+South Dakota,Construction Laborers,1620,9.3,3.809,0.55,15.39,32010,1.8
+South Dakota,"Paving, Surfacing, and Tamping Equipment Operators",280,26.4,0.661,2.12,21.58,44900,5.3
+South Dakota,Operating Engineers and Other Construction Equipment Operators,1770,7.4,4.168,1.51,21.83,45400,1.2
+South Dakota,Drywall and Ceiling Tile Installers,380,15.9,0.902,1.29,17.34,36060,3.3
+South Dakota,Electricians,2190,5.3,5.147,1.1,22.37,46540,1.9
+South Dakota,Glaziers,190,42.6,0.443,1.24,20.83,43320,4.7
+South Dakota,"Insulation Workers, Floor, Ceiling, and Wall",140,40,0.341,1.49,17.46,36320,4
+South Dakota,"Painters, Construction and Maintenance",530,7.1,1.236,0.78,17.02,35390,4.9
+South Dakota,Pipelayers,140,24.3,0.341,1.38,18.78,39050,5.1
+South Dakota,"Plumbers, Pipefitters, and Steamfitters",1620,7.1,3.804,1.26,21.42,44540,1.7
+South Dakota,Reinforcing Iron and Rebar Workers,**,**,**,**,21.31,44330,9.3
+South Dakota,Roofers,470,17.5,1.1,1.25,15.08,31360,2.2
+South Dakota,Sheet Metal Workers,240,16.4,0.554,0.62,22.79,47400,2.4
+South Dakota,Structural Iron and Steel Workers,730,16.1,1.723,3.3,19.56,40670,4.5
+South Dakota,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",100,11,0.234,1.46,15.32,31870,4.4
+South Dakota,Helpers--Carpenters,220,23.9,0.52,2.32,12.3,25580,5.2
+South Dakota,Helpers--Electricians,170,12.7,0.39,0.72,14.4,29950,2.3
+South Dakota,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,12.13,25240,5
+South Dakota,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",210,24,0.483,1.22,13.44,27960,4.5
+South Dakota,"Helpers, Construction Trades, All Other",**,**,**,**,14.24,29620,11.9
+South Dakota,Construction and Building Inspectors,190,5.3,0.446,0.59,25,52000,1.9
+South Dakota,Fence Erectors,**,**,**,**,16.59,34520,9.4
+South Dakota,Hazardous Materials Removal Workers,60,32.3,0.149,0.5,17.71,36840,4.5
+South Dakota,Highway Maintenance Workers,1770,2.9,4.163,4.05,17.5,36390,1
+South Dakota,Rail-Track Laying and Maintenance Equipment Operators,60,0,0.148,1.34,21.34,44390,2.2
+South Dakota,Septic Tank Servicers and Sewer Pipe Cleaners,120,25.2,0.282,1.39,17.58,36570,7.3
+South Dakota,Miscellaneous Construction and Related Workers,**,**,**,**,20.6,42850,9.1
+South Dakota,"Excavating and Loading Machine and Dragline Operators, Surface Mining",340,25.4,0.789,2.63,20.42,42480,2.5
+South Dakota,Continuous Mining Machine Operators,30,45.1,0.078,0.78,19.9,41390,9
+South Dakota,"Roustabouts, Oil and Gas",50,27.2,0.128,0.32,21.97,45690,6.4
+South Dakota,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",80,36.4,0.191,1.13,23.82,49540,7.5
+South Dakota,"Underground Mining Machine Operators and Extraction Workers, All Other",**,**,**,**,21.87,45490,5.8
+South Dakota,"Installation, Maintenance, and Repair Occupations",17180,2.4,40.413,1.04,23,47840,0.9
+South Dakota,"First-Line Supervisors of Mechanics, Installers, and Repairers",1040,4.9,2.453,0.74,35.27,73370,1.7
+South Dakota,"Computer, Automated Teller, and Office Machine Repairers",280,19,0.666,0.99,18.67,38840,5.6
+South Dakota,"Radio, Cellular, and Tower Equipment Installers and Repairers",40,41.4,0.091,0.93,26.55,55210,12.6
+South Dakota,"Telecommunications Equipment Installers and Repairers, Except Line Installers",470,11.3,1.101,0.78,29.17,60680,3.1
+South Dakota,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",260,20.8,0.6,1.5,24.59,51140,4.6
+South Dakota,Audiovisual Equipment Installers and Repairers,70,42.7,0.16,0.92,16.39,34090,3.3
+South Dakota,Security and Fire Alarm Systems Installers,240,13.6,0.555,1.14,25.66,53380,6.8
+South Dakota,Aircraft Mechanics and Service Technicians,180,14.9,0.434,0.48,26.88,55920,2.3
+South Dakota,Automotive Body and Related Repairers,680,12.9,1.609,1.64,19.82,41230,5.1
+South Dakota,Automotive Glass Installers and Repairers,100,45,0.23,1.74,19.7,40980,5.9
+South Dakota,Automotive Service Technicians and Mechanics,2020,6.5,4.751,1.06,19.83,41240,1.9
+South Dakota,Bus and Truck Mechanics and Diesel Engine Specialists,990,10.7,2.319,1.28,21.92,45590,1.4
+South Dakota,Farm Equipment Mechanics and Service Technicians,730,25.8,1.721,6.97,20.14,41900,3.6
+South Dakota,"Mobile Heavy Equipment Mechanics, Except Engines",550,17.1,1.299,1.29,25.05,52110,2.5
+South Dakota,Motorboat Mechanics and Service Technicians,**,**,**,**,18.5,38470,5.8
+South Dakota,Motorcycle Mechanics,140,23.1,0.328,3.09,16.18,33650,6
+South Dakota,Outdoor Power Equipment and Other Small Engine Mechanics,110,24.2,0.254,1.16,15.97,33220,4.1
+South Dakota,Bicycle Repairers,50,31.3,0.112,1.25,14.15,29440,2.3
+South Dakota,Recreational Vehicle Service Technicians,100,31.4,0.24,2.26,15.87,33010,5.8
+South Dakota,Tire Repairers and Changers,350,21.1,0.818,1.08,14.52,30190,2.9
+South Dakota,Mechanical Door Repairers,**,**,**,**,19.93,41450,12.4
+South Dakota,"Control and Valve Installers and Repairers, Except Mechanical Door",310,19.4,0.731,2.05,36.62,76170,3.1
+South Dakota,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1080,9.2,2.529,1.09,22.91,47660,2.6
+South Dakota,Home Appliance Repairers,90,22.2,0.214,1.01,18.25,37960,4.8
+South Dakota,Industrial Machinery Mechanics,1150,3,2.711,1.03,22.66,47140,1.7
+South Dakota,"Maintenance Workers, Machinery",40,9.7,0.098,0.2,16.77,34870,7.2
+South Dakota,Millwrights,**,**,**,**,25.52,53080,5.5
+South Dakota,Electrical Power-Line Installers and Repairers,870,15.4,2.037,2.68,37.5,78010,2.6
+South Dakota,Telecommunications Line Installers and Repairers,650,17.3,1.528,1.86,22.89,47600,4.1
+South Dakota,Medical Equipment Repairers,300,19.1,0.704,2.23,26,54070,3.3
+South Dakota,"Precision Instrument and Equipment Repairers, All Other",30,42.6,0.073,1.01,24.13,50200,2.5
+South Dakota,"Maintenance and Repair Workers, General",3120,3,7.341,0.76,18.35,38160,0.8
+South Dakota,Wind Turbine Service Technicians,200,16.7,0.462,11.39,23.97,49860,8.4
+South Dakota,"Coin, Vending, and Amusement Machine Servicers and Repairers",160,25.1,0.368,1.72,17.09,35540,4.4
+South Dakota,Manufactured Building and Mobile Home Installers,**,**,**,**,19,39520,2.9
+South Dakota,Riggers,50,39.6,0.107,0.68,29.81,62010,11
+South Dakota,"Installation, Maintenance, and Repair Workers, All Other",260,12.1,0.601,0.55,21.59,44910,2.2
+South Dakota,Production Occupations,33510,1.5,78.81,1.26,17.32,36030,1
+South Dakota,First-Line Supervisors of Production and Operating Workers,1430,2.9,3.374,0.79,29.38,61110,0.8
+South Dakota,"Coil Winders, Tapers, and Finishers",120,9.7,0.275,3.18,13.35,27780,2.6
+South Dakota,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",1600,6.8,3.772,1.94,13.84,28790,1.4
+South Dakota,Engine and Other Machine Assemblers,610,6.4,1.443,4.61,17.24,35850,1.7
+South Dakota,Structural Metal Fabricators and Fitters,330,13.5,0.773,1.48,17.5,36400,2.5
+South Dakota,Fiberglass Laminators and Fabricators,610,26.9,1.431,10.5,15.15,31510,5.8
+South Dakota,Miscellaneous Assemblers and Fabricators,3670,3.8,8.629,0.92,14.9,31000,1.2
+South Dakota,Bakers,360,9.1,0.849,0.67,13.75,28600,1.9
+South Dakota,Butchers and Meat Cutters,580,16.8,1.356,1.46,15.99,33260,2.4
+South Dakota,"Meat, Poultry, and Fish Cutters and Trimmers",2180,1,5.133,4.9,14.61,30390,3
+South Dakota,Slaughterers and Meat Packers,960,0.2,2.263,4.53,14.54,30250,2.6
+South Dakota,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",120,4.8,0.29,2.04,13.57,28210,2.3
+South Dakota,Food Batchmakers,740,6.3,1.738,1.6,14.72,30620,2.3
+South Dakota,Food Cooking Machine Operators and Tenders,250,13,0.587,2.87,14.85,30890,2
+South Dakota,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",240,27.4,0.571,1.09,17.32,36030,2.4
+South Dakota,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",130,26.8,0.31,2.79,18.16,37770,9.6
+South Dakota,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",180,25.5,0.425,1.92,19.37,40280,4
+South Dakota,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",940,8.3,2.201,1.66,17.79,37000,1.5
+South Dakota,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",30,48.1,0.074,1,16.86,35080,2.9
+South Dakota,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",190,12.3,0.457,0.87,17.94,37320,2.8
+South Dakota,Machinists,1020,8.5,2.395,0.92,19.08,39690,2
+South Dakota,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",660,12.4,1.541,1.31,15.71,32670,3
+South Dakota,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",310,13,0.72,0.72,20.65,42940,3.3
+South Dakota,Tool and Die Makers,180,4.7,0.42,0.87,20.97,43610,2.1
+South Dakota,"Welders, Cutters, Solderers, and Brazers",3130,3.9,7.367,2.63,18.97,39450,1.2
+South Dakota,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",430,7.2,1.018,4.26,20.96,43590,2.5
+South Dakota,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",60,31.3,0.142,1.07,21.64,45020,6.6
+South Dakota,"Tool Grinders, Filers, and Sharpeners",40,0,0.085,1.94,17.78,36970,2.2
+South Dakota,Prepress Technicians and Workers,90,9,0.212,1.03,16.67,34680,1.6
+South Dakota,Printing Press Operators,570,6.4,1.335,1.13,17.73,36880,2.4
+South Dakota,Print Binding and Finishing Workers,110,22,0.262,0.84,15.38,31980,5.7
+South Dakota,Laundry and Dry-Cleaning Workers,890,12.4,2.093,1.47,11.57,24070,1.4
+South Dakota,Sewing Machine Operators,250,10.9,0.584,0.64,13.82,28750,1.9
+South Dakota,Cabinetmakers and Bench Carpenters,670,13.3,1.573,2.32,15.97,33210,2.2
+South Dakota,"Sawing Machine Setters, Operators, and Tenders, Wood",320,9.1,0.753,2.18,15.73,32710,1.7
+South Dakota,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",750,9.5,1.756,3.27,14.62,30400,1.3
+South Dakota,Power Distributors and Dispatchers,40,44,0.105,1.43,45.58,94800,4.4
+South Dakota,Power Plant Operators,**,**,**,**,45.78,95220,5.4
+South Dakota,Stationary Engineers and Boiler Operators,140,1.3,0.331,1.5,22.89,47610,1.2
+South Dakota,Water and Wastewater Treatment Plant and System Operators,820,7.5,1.926,2.29,21.11,43900,1.6
+South Dakota,Chemical Plant and System Operators,60,29.8,0.145,0.74,21.79,45330,3.7
+South Dakota,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",30,49.3,0.075,0.27,31.75,66030,9.9
+South Dakota,"Plant and System Operators, All Other",60,17.9,0.147,1.67,23.61,49110,2.9
+South Dakota,Chemical Equipment Operators and Tenders,390,18.7,0.909,1.53,20.03,41650,6.3
+South Dakota,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",190,10.7,0.435,1.25,18.51,38490,3.5
+South Dakota,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",150,16.2,0.358,1.58,20.12,41840,2.4
+South Dakota,"Grinding and Polishing Workers, Hand",50,19.2,0.124,0.62,16.08,33450,2.5
+South Dakota,"Mixing and Blending Machine Setters, Operators, and Tenders",370,8.4,0.878,1.03,19.12,39760,2.3
+South Dakota,"Cutting and Slicing Machine Setters, Operators, and Tenders",670,4.9,1.57,3.98,17.68,36770,2.6
+South Dakota,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",650,8.4,1.527,3.12,16.73,34800,1.8
+South Dakota,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",40,15.7,0.097,0.75,21.92,45600,4.8
+South Dakota,"Inspectors, Testers, Sorters, Samplers, and Weighers",830,2.6,1.949,0.5,18.22,37900,1.9
+South Dakota,Jewelers and Precious Stone and Metal Workers,70,26.9,0.163,1.02,18.86,39230,3.7
+South Dakota,Dental Laboratory Technicians,100,21.1,0.241,1.03,16.52,34360,3.3
+South Dakota,Ophthalmic Laboratory Technicians,**,**,**,**,17.58,36570,6.5
+South Dakota,Packaging and Filling Machine Operators and Tenders,1000,8.3,2.36,0.89,15.26,31740,1.4
+South Dakota,"Painting, Coating, and Decorating Workers",150,6.8,0.348,4.12,17.43,36240,1.9
+South Dakota,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",1080,3.5,2.529,2.54,18.51,38490,3
+South Dakota,Computer Numerically Controlled Tool Operators,420,7.9,0.986,0.95,18.54,38570,1.6
+South Dakota,Computer Numerically Controlled Tool Programmers,80,11.8,0.186,1.07,23.55,48990,2.8
+South Dakota,Adhesive Bonding Machine Operators and Tenders,50,19.9,0.121,1.28,14.86,30910,3.4
+South Dakota,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",90,14.5,0.214,1.92,16.49,34300,3.2
+South Dakota,Etchers and Engravers,40,3.9,0.086,1.22,14.61,30380,2.3
+South Dakota,"Paper Goods Machine Setters, Operators, and Tenders",250,19.8,0.587,0.86,16.72,34770,7.9
+South Dakota,Tire Builders,50,49.4,0.127,0.9,15.53,32300,2.4
+South Dakota,Helpers--Production Workers,40,39.1,0.084,0.04,15.9,33070,8.4
+South Dakota,"Production Workers, All Other",190,10.7,0.444,0.29,21.55,44830,4.2
+South Dakota,Transportation and Material Moving Occupations,34800,1.7,81.867,0.96,16.59,34510,1.1
+South Dakota,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",730,5.6,1.711,0.55,28.6,59480,1.3
+South Dakota,Commercial Pilots,270,14.2,0.642,2.49,*,68110,3
+South Dakota,Air Traffic Controllers,50,18.7,0.117,0.78,40.93,85130,2.6
+South Dakota,Airfield Operations Specialists,70,32.8,0.157,2.15,16.18,33650,9.3
+South Dakota,Driver/Sales Workers,1590,12.2,3.73,1.23,15.19,31580,3.1
+South Dakota,Heavy and Tractor-Trailer Truck Drivers,7300,4.8,17.167,1.36,20.95,43580,1.8
+South Dakota,Light Truck Drivers,3390,7.6,7.964,1.27,17.19,35760,2.8
+South Dakota,"Bus Drivers, Transit and Intercity",360,20.1,0.837,0.68,15.91,33090,6.2
+South Dakota,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",1930,5,4.549,0.95,14.45,30050,1.7
+South Dakota,Locomotive Engineers,220,4.4,0.52,2.15,34.3,71340,2.7
+South Dakota,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",80,5.8,0.196,2.6,29.24,60810,6.7
+South Dakota,Railroad Conductors and Yardmasters,140,6.4,0.318,1.02,29.04,60400,2.7
+South Dakota,Parking Attendants,240,22.6,0.565,0.56,12.13,25230,2.1
+South Dakota,Automotive and Watercraft Service Attendants,600,12.2,1.417,1.77,13.58,28240,1.9
+South Dakota,Transportation Inspectors,80,19.2,0.189,0.92,25.5,53040,2.8
+South Dakota,"Aircraft Service Attendants and Transportation Workers, All Other",80,41.1,0.191,0.8,14.89,30970,8.9
+South Dakota,Conveyor Operators and Tenders,710,22.4,1.68,10.26,15.99,33270,2.8
+South Dakota,Crane and Tower Operators,60,15.6,0.133,0.43,27.45,57090,5
+South Dakota,Industrial Truck and Tractor Operators,1910,8.6,4.485,1.05,17.18,35730,1.3
+South Dakota,Cleaners of Vehicles and Equipment,1170,12.4,2.745,1.05,12.19,25360,2
+South Dakota,"Laborers and Freight, Stock, and Material Movers, Hand",5720,3.9,13.444,0.67,13.85,28800,0.9
+South Dakota,Machine Feeders and Offbearers,290,2.3,0.677,1.57,13.33,27720,1.5
+South Dakota,"Packers and Packagers, Hand",1670,5.5,3.929,0.91,12.75,26520,1.4
+South Dakota,Stockers and Order Fillers,5600,4.3,13.161,0.91,13.18,27410,1.2
+South Dakota,Refuse and Recyclable Material Collectors,380,13.1,0.89,1.08,13.53,28130,2.8

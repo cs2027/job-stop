@@ -1,0 +1,775 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Illinois,All Occupations,6025790,0.3,1000,1,26.51,55130,0.5
+Illinois,Management Occupations,451260,0.9,74.888,1.37,57.14,118840,0.5
+Illinois,Chief Executives,10010,4,1.661,1.18,106.34,221180,1.3
+Illinois,General and Operations Managers,128580,1.5,21.337,1.31,59.41,123570,0.8
+Illinois,Advertising and Promotions Managers,**,**,**,**,60.12,125040,3.7
+Illinois,Marketing Managers,21980,3.5,3.648,2.03,64.08,133280,0.9
+Illinois,Sales Managers,25650,3,4.256,1.55,65.29,135790,1.2
+Illinois,Public Relations and Fundraising Managers,5280,5.8,0.876,1.63,58.98,122670,2.8
+Illinois,Administrative Services and Facilities Managers,19310,2.6,3.205,1.53,48.27,100400,1
+Illinois,Computer and Information Systems Managers,20370,2.6,3.381,1.14,71.63,148990,0.8
+Illinois,Financial Managers,41900,2,6.954,1.56,70.36,146350,1.1
+Illinois,Industrial Production Managers,11330,2.7,1.88,1.49,51.06,106200,0.9
+Illinois,Purchasing Managers,4380,4.1,0.727,1.48,57.78,120170,1.5
+Illinois,"Transportation, Storage, and Distribution Managers",9310,3.5,1.544,1.72,48.83,101560,1.2
+Illinois,Compensation and Benefits Managers,1210,6,0.201,1.75,66.13,137540,3
+Illinois,Human Resources Managers,10890,2.2,1.807,1.71,58.52,121720,0.9
+Illinois,Training and Development Managers,2580,5.6,0.428,1.63,58.06,120770,2.7
+Illinois,"Farmers, Ranchers, and Other Agricultural Managers",260,15.6,0.044,1.28,34.64,72040,7.2
+Illinois,Construction Managers,13040,6.4,2.164,1.08,45.73,95120,3.2
+Illinois,"Education and Childcare Administrators, Preschool and Daycare",2610,7.3,0.434,1.22,27.44,57070,4.1
+Illinois,"Education Administrators, Kindergarten through Secondary",12480,2.8,2.071,1.12,*,105620,2.2
+Illinois,"Education Administrators, Postsecondary",8120,3.2,1.348,1.37,46.41,96540,2
+Illinois,"Education Administrators, All Other",1770,9,0.294,0.97,38.96,81030,4.4
+Illinois,Architectural and Engineering Managers,8900,3.7,1.478,1.12,67.64,140690,1.1
+Illinois,Food Service Managers,18250,5.2,3.029,1.89,23.89,49690,1.7
+Illinois,Gambling Managers,160,13.8,0.026,0.86,*,*,*
+Illinois,Lodging Managers,1120,15.5,0.186,0.71,26.29,54690,3.7
+Illinois,Medical and Health Services Managers,14510,3,2.408,0.9,60.26,125330,2
+Illinois,Natural Sciences Managers,2170,12.5,0.36,0.78,61.13,127150,3.1
+Illinois,Postmasters and Mail Superintendents,550,8.8,0.092,0.97,36.9,76750,0.9
+Illinois,"Property, Real Estate, and Community Association Managers",7390,8.8,1.226,0.82,35.14,73080,3.5
+Illinois,Social and Community Service Managers,5640,4.1,0.935,0.88,35.22,73250,3.4
+Illinois,Emergency Management Directors,550,7,0.091,1.32,35.02,72830,4.7
+Illinois,Funeral Home Managers,370,21.8,0.061,0.96,61.02,126910,16.2
+Illinois,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",34600,2.6,5.742,1.79,48.22,100310,1
+Illinois,Business and Financial Operations Occupations,343380,1.2,56.986,1.02,37.22,77420,0.8
+Illinois,"Agents and Business Managers of Artists, Performers, and Athletes",300,40.2,0.05,0.43,*,*,*
+Illinois,Buyers and Purchasing Agents,14840,3.8,2.462,0.86,32.51,67610,0.9
+Illinois,"Claims Adjusters, Examiners, and Investigators",12090,6.6,2.006,1.02,31.79,66110,2.1
+Illinois,"Insurance Appraisers, Auto Damage",**,**,**,**,32.62,67850,7.2
+Illinois,Compliance Officers,10150,4.4,1.684,0.78,36.38,75670,1.6
+Illinois,Cost Estimators,5600,6,0.93,0.65,34.56,71890,2.4
+Illinois,Human Resources Specialists,27580,3.2,4.577,1.06,30.72,63890,0.9
+Illinois,Labor Relations Specialists,4890,6.8,0.812,1.58,29.25,60850,5.8
+Illinois,Logisticians,9190,5.1,1.525,1.23,32.35,67290,2.2
+Illinois,Management Analysts,36340,4.3,6.031,1.25,48.34,100560,2.4
+Illinois,"Meeting, Convention, and Event Planners",4710,7.9,0.781,0.98,24.87,51740,1.9
+Illinois,Fundraisers,2750,7.6,0.456,0.82,29.26,60850,3
+Illinois,"Compensation, Benefits, and Job Analysis Specialists",4030,6.3,0.669,1.1,33.41,69480,1.1
+Illinois,Training and Development Specialists,10600,3.6,1.759,0.83,32.1,66770,1.1
+Illinois,Market Research Analysts and Marketing Specialists,33670,2.6,5.587,1.21,31.2,64910,1.1
+Illinois,"Project Management Specialists and Business Operations Specialists, All Other",52030,2.7,8.635,0.99,38.45,79970,1.4
+Illinois,Accountants and Auditors,51740,2.7,8.587,0.98,37.33,77640,1.6
+Illinois,Property Appraisers and Assessors,2330,16,0.387,1.01,25.77,53590,5
+Illinois,Budget Analysts,1380,6.4,0.23,0.66,37.62,78240,1.6
+Illinois,Credit Analysts,3040,8.8,0.505,1,38.09,79230,3.8
+Illinois,Personal Financial Advisors,7800,8.7,1.295,0.91,68.48,142440,5.6
+Illinois,Insurance Underwriters,7720,9.8,1.282,1.88,35.77,74400,4.7
+Illinois,Financial Examiners,2010,7.1,0.334,0.76,48.34,100540,4.6
+Illinois,Credit Counselors,1670,8.2,0.278,1.27,22.25,46280,3
+Illinois,Loan Officers,12310,8.2,2.042,0.97,37.86,78740,2.9
+Illinois,"Tax Examiners and Collectors, and Revenue Agents",1370,0.5,0.227,0.62,34.35,71450,1.3
+Illinois,Tax Preparers,2600,10.7,0.432,0.95,19.22,39980,7.4
+Illinois,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",20510,4.3,3.403,1.09,43.8,91110,1.3
+Illinois,Computer and Mathematical Occupations,184990,1.9,30.7,0.99,43.32,90110,0.8
+Illinois,Computer Systems Analysts,30710,4.1,5.096,1.27,43.92,91340,1.8
+Illinois,Information Security Analysts,4120,6.7,0.684,0.8,49.41,102780,1.4
+Illinois,Computer and Information Research Scientists,430,21.3,0.071,0.34,57.2,118970,2.2
+Illinois,Computer Network Support Specialists,11130,4,1.847,1.46,30.8,64070,1.2
+Illinois,Computer User Support Specialists,23450,5.2,3.891,0.88,25.66,53370,1.2
+Illinois,Computer Network Architects,5150,6.3,0.854,0.82,59.18,123100,1.4
+Illinois,Network and Computer Systems Administrators,11560,4.5,1.918,0.79,41.73,86810,1.1
+Illinois,Database Administrators and Architects,4420,5.1,0.734,0.86,47.06,97880,1.3
+Illinois,Computer Programmers,9260,11.2,1.536,1.13,45.2,94010,3.2
+Illinois,Software Developers and Software Quality Assurance Analysts and Testers,54700,3.7,9.078,0.95,49.89,103760,0.7
+Illinois,Web Developers and Digital Interface Designers,5610,8.4,0.93,0.92,37.84,78700,1.9
+Illinois,"Computer Occupations, All Other",13910,4.9,2.308,0.86,44.66,92890,1.5
+Illinois,Actuaries,1970,19.6,0.328,2.16,55.41,115250,2.9
+Illinois,Mathematicians,60,37.4,0.01,0.56,56.18,116850,11.6
+Illinois,Operations Research Analysts,4520,6.7,0.749,1.1,48.08,100010,1.4
+Illinois,Statisticians,1770,10.1,0.294,1.1,44.41,92370,2.6
+Illinois,"Data Scientists and Mathematical Science Occupations, All Other",2240,13.4,0.371,1.77,48.68,101260,2.6
+Illinois,Architecture and Engineering Occupations,85600,2.6,14.205,0.8,40.98,85240,0.9
+Illinois,"Architects, Except Landscape and Naval",5760,7.9,0.956,1.33,40.59,84430,4
+Illinois,Landscape Architects,490,13.5,0.081,0.59,36.06,75000,2
+Illinois,Cartographers and Photogrammetrists,90,17.1,0.014,0.19,40.16,83520,5.6
+Illinois,Surveyors,1380,10.3,0.229,0.74,35.35,73540,2.1
+Illinois,Aerospace Engineers,**,**,**,**,52.45,109090,2.4
+Illinois,Agricultural Engineers,60,31.7,0.01,0.98,42.35,88090,3.7
+Illinois,Bioengineers and Biomedical Engineers,1550,29,0.257,1.91,49.69,103350,2.1
+Illinois,Chemical Engineers,750,11.5,0.124,0.6,46.85,97450,4.6
+Illinois,Civil Engineers,11080,4.7,1.838,0.87,44.39,92340,2.1
+Illinois,Computer Hardware Engineers,850,17.1,0.141,0.31,48.4,100680,4.1
+Illinois,Electrical Engineers,4680,7,0.777,0.62,47.67,99160,1.5
+Illinois,"Electronics Engineers, Except Computer",2750,16.2,0.457,0.52,49.35,102640,2.6
+Illinois,Environmental Engineers,1350,17.9,0.224,0.62,44.88,93350,3.8
+Illinois,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",540,9.1,0.089,0.51,43.7,90900,2.3
+Illinois,Industrial Engineers,11230,4.4,1.863,0.94,44.29,92130,2.2
+Illinois,Materials Engineers,780,12.9,0.129,0.71,42.85,89120,2.4
+Illinois,Mechanical Engineers,14360,7.8,2.383,1.14,45.12,93850,1.6
+Illinois,"Mining and Geological Engineers, Including Mining Safety Engineers",150,21.5,0.024,0.57,46.79,97310,4.2
+Illinois,Nuclear Engineers,660,20.8,0.109,1.01,58.81,122330,1.6
+Illinois,Petroleum Engineers,190,28.4,0.031,0.14,63.68,132450,2.5
+Illinois,"Engineers, All Other",3500,8.7,0.581,0.56,43.23,89910,2
+Illinois,Architectural and Civil Drafters,2580,11.1,0.428,0.64,30.99,64450,3.5
+Illinois,Electrical and Electronics Drafters,700,13.7,0.116,0.7,33.95,70620,3.6
+Illinois,Mechanical Drafters,2330,8.3,0.387,1.03,28.09,58430,1.9
+Illinois,"Drafters, All Other",180,24.8,0.03,0.3,28.34,58950,4.2
+Illinois,Aerospace Engineering and Operations Technologists and Technicians,50,30.8,0.008,0.1,23.45,48770,5.1
+Illinois,Civil Engineering Technologists and Technicians,2910,8.3,0.484,1.03,30.37,63170,1.3
+Illinois,Electrical and Electronic Engineering Technologists and Technicians,3250,7.6,0.539,0.65,33,68640,2.4
+Illinois,Electro-Mechanical and Mechatronics Technologists and Technicians,480,18.7,0.079,0.81,33.98,70680,6.1
+Illinois,Environmental Engineering Technologists and Technicians,480,19.8,0.08,0.66,22.55,46910,4.2
+Illinois,Industrial Engineering Technologists and Technicians,1820,13.5,0.302,0.66,27.97,58190,2.1
+Illinois,Mechanical Engineering Technologists and Technicians,1840,8.9,0.305,1.05,29.13,60590,2.1
+Illinois,Surveying and Mapping Technicians,820,14.4,0.136,0.38,24.41,50780,4.4
+Illinois,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",5150,6.8,0.855,1.42,31.13,64740,1.6
+Illinois,"Life, Physical, and Social Science Occupations",39600,5.7,6.571,0.75,35.3,73420,2.1
+Illinois,Animal Scientists,60,4.1,0.01,0.55,27.81,57850,3
+Illinois,Food Scientists and Technologists,890,33.7,0.148,1.62,45.92,95500,5.7
+Illinois,Soil and Plant Scientists,380,12.2,0.063,0.65,28.73,59770,2.7
+Illinois,Biochemists and Biophysicists,620,30.1,0.104,0.49,54.95,114300,13.7
+Illinois,Microbiologists,670,22.5,0.111,0.89,32.58,67770,3.3
+Illinois,Zoologists and Wildlife Biologists,270,5.4,0.045,0.34,29.52,61410,4.3
+Illinois,"Biological Scientists, All Other",570,7.8,0.094,0.34,39.65,82480,4.6
+Illinois,Conservation Scientists,650,6.8,0.108,0.72,30.15,62710,1.2
+Illinois,Foresters,150,10.4,0.025,0.38,34.8,72370,1.8
+Illinois,Epidemiologists,310,11.4,0.051,1.01,39.17,81480,2.3
+Illinois,"Medical Scientists, Except Epidemiologists",3710,26.2,0.615,0.71,43.44,90350,7
+Illinois,"Life Scientists, All Other",170,18.5,0.028,0.63,42.74,88900,12.4
+Illinois,Physicists,930,22.8,0.154,1.35,54.38,113100,4.1
+Illinois,Atmospheric and Space Scientists,210,42.2,0.035,0.56,37.31,77600,7.9
+Illinois,Chemists,2790,10.8,0.463,0.81,36.42,75740,2.2
+Illinois,Materials Scientists,270,27.3,0.044,0.97,45.45,94530,7.3
+Illinois,"Environmental Scientists and Specialists, Including Health",1980,14,0.329,0.57,38.81,80710,2.7
+Illinois,"Geoscientists, Except Hydrologists and Geographers",300,10.6,0.05,0.25,36.85,76640,4
+Illinois,Hydrologists,70,10.6,0.012,0.28,41.34,85990,2.4
+Illinois,"Physical Scientists, All Other",560,18.4,0.092,0.77,46.52,96760,5.2
+Illinois,Economists,450,8.6,0.075,0.58,51.77,107680,2.1
+Illinois,Survey Researchers,1060,26.4,0.175,2.59,30.39,63210,4.6
+Illinois,"Clinical, Counseling, and School Psychologists",5100,5.7,0.846,1.1,36.08,75050,5.3
+Illinois,"Psychologists, All Other",480,20.7,0.079,0.82,*,*,*
+Illinois,Sociologists,**,**,**,**,46.44,96600,8.4
+Illinois,Urban and Regional Planners,750,5.3,0.125,0.48,36.19,75280,2.3
+Illinois,Anthropologists and Archeologists,120,28,0.02,0.43,30.12,62660,7.2
+Illinois,Geographers,30,0,0.005,0.56,41.4,86120,1.9
+Illinois,Historians,70,17.9,0.011,0.54,31.22,64940,3
+Illinois,Political Scientists,100,2.5,0.016,0.4,34.58,71920,2.4
+Illinois,"Social Scientists and Related Workers, All Other",650,13.5,0.107,0.47,37.68,78380,2
+Illinois,Agricultural and Food Science Technicians,840,15,0.139,0.93,21.41,44530,3.5
+Illinois,Biological Technicians,1890,28.2,0.314,0.58,26.04,54160,4.1
+Illinois,Chemical Technicians,2790,10.6,0.463,1.03,26.51,55130,1.8
+Illinois,"Environmental Science and Protection Technicians, Including Health",830,16.9,0.138,0.62,22.64,47090,2.2
+Illinois,Geological and Hydrologic Technicians,70,18.6,0.011,0.1,20.55,42740,5.6
+Illinois,Nuclear Technicians,650,45.3,0.108,2.47,36.68,76300,4.6
+Illinois,Social Science Research Assistants,820,8.7,0.136,0.56,25.89,53860,2.8
+Illinois,Forest and Conservation Technicians,520,7.6,0.087,0.67,22.62,47060,1
+Illinois,Forensic Science Technicians,410,18.1,0.068,0.6,39.49,82130,1.2
+Illinois,"Life, Physical, and Social Science Technicians, All Other",2920,8.4,0.484,1.11,25.49,53020,2
+Illinois,Occupational Health and Safety Specialists,2460,6.9,0.409,0.65,36.13,75150,1.2
+Illinois,Occupational Health and Safety Technicians,720,14.5,0.119,0.85,29.3,60930,4.2
+Illinois,Community and Social Service Occupations,86380,2.3,14.336,0.94,24.15,50240,1.6
+Illinois,"Educational, Guidance, and Career Counselors and Advisors",13210,3.6,2.192,1.09,27.24,56650,2.2
+Illinois,Marriage and Family Therapists,1150,32.1,0.191,0.48,33.61,69900,19.5
+Illinois,Rehabilitation Counselors,3950,7.5,0.656,0.88,20.26,42130,2.3
+Illinois,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",11940,7.9,1.982,1.03,22.75,47320,2.4
+Illinois,"Counselors, All Other",1610,16.6,0.266,1.54,19.92,41430,5.8
+Illinois,"Child, Family, and School Social Workers",14720,3.3,2.443,1.09,26.63,55390,1.7
+Illinois,Healthcare Social Workers,5300,5.3,0.879,0.74,26.56,55250,1.3
+Illinois,Mental Health and Substance Abuse Social Workers,3550,15.2,0.59,0.74,26.4,54900,9.8
+Illinois,"Social Workers, All Other",1540,16.6,0.255,0.64,31.65,65830,9
+Illinois,Health Education Specialists,2110,12.3,0.351,0.88,28.11,58460,1.5
+Illinois,Probation Officers and Correctional Treatment Specialists,2820,5.9,0.467,0.78,32.58,67770,2.9
+Illinois,Social and Human Service Assistants,15920,6.7,2.641,0.96,18.43,38340,2.9
+Illinois,Community Health Workers,1670,9.1,0.278,0.69,21.37,44440,1.8
+Illinois,"Community and Social Service Specialists, All Other",2460,11.5,0.409,0.62,19.28,40110,4.2
+Illinois,Clergy,2160,8.2,0.358,0.99,27.2,56570,6.4
+Illinois,"Directors, Religious Activities and Education",1650,14,0.274,1.84,19.97,41530,3.8
+Illinois,"Religious Workers, All Other",630,27.6,0.104,1.62,15.87,33010,4.4
+Illinois,Legal Occupations,50060,2.2,8.307,1.06,59.46,123690,3
+Illinois,Lawyers,31270,2.9,5.19,1.16,75.49,157010,3.3
+Illinois,Judicial Law Clerks,320,0,0.054,0.48,34.58,71930,1.4
+Illinois,"Administrative Law Judges, Adjudicators, and Hearing Officers",550,2.5,0.092,0.94,44.41,92370,1.5
+Illinois,"Arbitrators, Mediators, and Conciliators",300,32.9,0.05,1.22,42.92,89270,11.5
+Illinois,"Judges, Magistrate Judges, and Magistrates",1070,4.9,0.178,0.91,91.56,190450,2.3
+Illinois,Paralegals and Legal Assistants,13980,6.2,2.32,1.03,28.83,59960,2.2
+Illinois,"Title Examiners, Abstractors, and Searchers",1750,16.5,0.29,0.8,23.85,49610,3.9
+Illinois,"Legal Support Workers, All Other",800,14.2,0.133,0.43,30.2,62820,4.6
+Illinois,Educational Instruction and Library Occupations,376700,1.1,62.515,1.03,26.88,55900,2.2
+Illinois,"Business Teachers, Postsecondary",3900,5.9,0.647,1.13,*,111180,7.6
+Illinois,"Computer Science Teachers, Postsecondary",1180,5.6,0.196,0.91,*,83740,4.1
+Illinois,"Mathematical Science Teachers, Postsecondary",2510,4.7,0.417,1.2,*,66480,3.2
+Illinois,"Architecture Teachers, Postsecondary",180,5.5,0.03,0.65,*,83560,4.5
+Illinois,"Engineering Teachers, Postsecondary",1420,19.7,0.236,0.96,*,120440,6.9
+Illinois,"Agricultural Sciences Teachers, Postsecondary",420,0.9,0.069,1.07,*,86480,5.6
+Illinois,"Biological Science Teachers, Postsecondary",2260,4.9,0.376,1.04,*,82580,2.2
+Illinois,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",370,6.6,0.061,0.82,*,77660,3.7
+Illinois,"Chemistry Teachers, Postsecondary",980,5,0.163,1.12,*,91450,5.5
+Illinois,"Environmental Science Teachers, Postsecondary",120,9.7,0.019,0.47,*,90670,5.2
+Illinois,"Physics Teachers, Postsecondary",590,7.2,0.098,1.05,*,97420,4.2
+Illinois,"Anthropology and Archeology Teachers, Postsecondary",270,8,0.045,1.13,*,88780,5.3
+Illinois,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",390,10,0.064,0.89,*,79650,3.4
+Illinois,"Economics Teachers, Postsecondary",460,10.2,0.077,0.85,*,124670,9.7
+Illinois,"Geography Teachers, Postsecondary",150,4.1,0.025,0.94,*,85410,3
+Illinois,"Political Science Teachers, Postsecondary",490,7,0.082,0.76,*,94640,4.5
+Illinois,"Psychology Teachers, Postsecondary",1400,5.7,0.232,0.91,*,84580,3.6
+Illinois,"Sociology Teachers, Postsecondary",640,4.8,0.106,1.12,*,77090,4.5
+Illinois,"Social Sciences Teachers, Postsecondary, All Other",1170,9.9,0.195,1.7,*,57690,4.2
+Illinois,"Health Specialties Teachers, Postsecondary",9660,15,1.603,1.17,*,90670,7.1
+Illinois,"Nursing Instructors and Teachers, Postsecondary",2130,8.5,0.354,0.87,*,69770,1.6
+Illinois,"Education Teachers, Postsecondary",3870,6.3,0.642,1.54,*,62600,3.1
+Illinois,"Library Science Teachers, Postsecondary",360,2.3,0.059,1.97,*,73210,3.1
+Illinois,"Criminal Justice and Law Enforcement Teachers, Postsecondary",560,5.7,0.093,0.97,*,59720,4.2
+Illinois,"Law Teachers, Postsecondary",740,18.4,0.123,1.12,*,152340,7.7
+Illinois,"Social Work Teachers, Postsecondary",620,22.6,0.102,1.1,*,63110,3.9
+Illinois,"Art, Drama, and Music Teachers, Postsecondary",4250,4.4,0.705,1.1,*,67580,3.3
+Illinois,"Communications Teachers, Postsecondary",1660,11.6,0.275,1.39,*,83190,4.9
+Illinois,"English Language and Literature Teachers, Postsecondary",3100,2.8,0.514,1.11,*,66210,2.4
+Illinois,"Foreign Language and Literature Teachers, Postsecondary",790,9,0.131,0.77,*,73960,3.4
+Illinois,"History Teachers, Postsecondary",720,7,0.12,0.84,*,92720,4.7
+Illinois,"Philosophy and Religion Teachers, Postsecondary",1020,7.9,0.169,1.06,*,87180,3
+Illinois,"Family and Consumer Sciences Teachers, Postsecondary",30,14.2,0.005,0.36,*,86280,6.1
+Illinois,"Recreation and Fitness Studies Teachers, Postsecondary",510,6.3,0.084,0.78,*,63040,3.3
+Illinois,"Career/Technical Education Teachers, Postsecondary",4800,6.5,0.796,1.04,25.93,53930,5.1
+Illinois,"Postsecondary Teachers, All Other",2250,13.9,0.373,0.27,*,71010,5.3
+Illinois,"Preschool Teachers, Except Special Education",25030,4.6,4.154,1.41,15.76,32780,2.3
+Illinois,"Kindergarten Teachers, Except Special Education",5080,11.7,0.843,1,*,57810,5.8
+Illinois,"Elementary School Teachers, Except Special Education",64270,3.3,10.666,1.1,*,63280,4.2
+Illinois,"Middle School Teachers, Except Special and Career/Technical Education",21700,7.4,3.601,0.85,*,63630,1.4
+Illinois,"Career/Technical Education Teachers, Middle School",330,12.7,0.054,0.67,*,68960,3.9
+Illinois,"Secondary School Teachers, Except Special and Career/Technical Education",44810,4.6,7.437,1.05,*,74340,1.5
+Illinois,"Career/Technical Education Teachers, Secondary School",2440,5.6,0.405,0.8,*,69720,2
+Illinois,"Special Education Teachers, Preschool",870,32.6,0.144,0.95,*,55540,3.2
+Illinois,"Special Education Teachers, Kindergarten and Elementary School",11090,6.9,1.841,1.39,*,65060,3.9
+Illinois,"Special Education Teachers, Middle School",3280,7.3,0.544,0.93,*,63250,1.7
+Illinois,"Special Education Teachers, Secondary School",8710,4.1,1.446,1.48,*,71040,2
+Illinois,"Special Education Teachers, All Other",860,18.6,0.143,0.59,*,53850,2.8
+Illinois,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",2150,10.4,0.356,1.01,26.14,54370,2.6
+Illinois,Self-Enrichment Teachers,11610,7.4,1.927,1.12,20.59,42820,4.5
+Illinois,"Substitute Teachers, Short-Term",23340,4.5,3.874,0.97,16.95,35260,7.4
+Illinois,"Tutors and Teachers and Instructors, All Other",9840,6.5,1.632,0.75,*,45060,3.3
+Illinois,Archivists,170,16.3,0.028,0.63,32.02,66600,2.6
+Illinois,Curators,410,18,0.069,0.78,28.38,59020,2.6
+Illinois,Museum Technicians and Conservators,770,33.7,0.127,1.42,23.07,47980,4.9
+Illinois,Librarians and Media Collections Specialists,6620,5.8,1.098,1.19,28.69,59680,2
+Illinois,Library Technicians,6490,6.3,1.077,1.78,16.88,35120,2.3
+Illinois,Farm and Home Management Educators,190,0.9,0.032,0.53,18.82,39150,6.9
+Illinois,Instructional Coordinators,5680,3.6,0.943,0.78,32.37,67320,1.4
+Illinois,"Teaching Assistants, Postsecondary",3780,6.1,0.627,0.67,*,37770,7.7
+Illinois,"Teaching Assistants, Except Postsecondary",60830,1.9,10.096,1.1,*,28390,2.5
+Illinois,"Educational Instruction and Library Workers, All Other",370,15.8,0.061,0.07,20.6,42850,3.2
+Illinois,"Arts, Design, Entertainment, Sports, and Media Occupations",77420,2.6,12.849,0.94,26.55,55220,1.5
+Illinois,Art Directors,2740,14.7,0.455,1.56,49.97,103940,2.6
+Illinois,Craft Artists,**,**,**,**,21.22,44140,8.7
+Illinois,"Fine Artists, Including Painters, Sculptors, and Illustrators",280,26.5,0.047,0.56,22.33,46460,5.4
+Illinois,Special Effects Artists and Animators,530,21.1,0.089,0.44,31.88,66300,2.3
+Illinois,"Artists and Related Workers, All Other",90,43.9,0.015,0.29,32.31,67210,7.9
+Illinois,Commercial and Industrial Designers,1260,11,0.21,0.94,33.07,68780,2.7
+Illinois,Fashion Designers,190,45,0.032,0.22,35.63,74120,5.2
+Illinois,Floral Designers,2270,16.7,0.376,1.32,13.71,28520,4.2
+Illinois,Graphic Designers,11700,5.3,1.941,1.32,28.1,58450,2.2
+Illinois,Interior Designers,2260,14.3,0.375,0.91,25.56,53160,3.8
+Illinois,Merchandise Displayers and Window Trimmers,5240,16.5,0.869,0.91,15.58,32410,2.9
+Illinois,Set and Exhibit Designers,340,12.7,0.056,0.68,23.8,49500,3.7
+Illinois,"Designers, All Other",160,27.6,0.027,0.38,31.99,66540,3
+Illinois,Actors,3950,15.8,0.655,1.83,25.2,*,14.6
+Illinois,Producers and Directors,3170,7.7,0.526,0.6,35.54,73910,4
+Illinois,Athletes and Sports Competitors,610,22.3,0.101,1.31,*,47730,6.6
+Illinois,Coaches and Scouts,9620,9.6,1.597,0.97,*,40260,4.8
+Illinois,"Umpires, Referees, and Other Sports Officials",1120,11.2,0.186,1.36,*,38570,7.7
+Illinois,Dancers,280,19.7,0.047,0.71,20.13,*,10.2
+Illinois,Choreographers,150,34.5,0.025,0.8,27.25,56680,26
+Illinois,Music Directors and Composers,310,20.6,0.051,0.71,22.73,47290,8.5
+Illinois,Musicians and Singers,2070,13.2,0.343,1.23,40.15,*,8
+Illinois,"Miscellaneous Entertainers and Performers, Sports and Related Workers",200,26.5,0.034,0.31,19.58,*,12.6
+Illinois,Broadcast Announcers and Radio Disc Jockeys,1100,10.7,0.182,0.92,23.07,47980,6.7
+Illinois,"News Analysts, Reporters, and Journalists",1430,10.9,0.237,0.79,28.74,59780,5.9
+Illinois,Public Relations Specialists,7780,6.1,1.291,0.77,30.95,64380,2.9
+Illinois,Editors,4370,8,0.725,1.11,29.37,61080,1.8
+Illinois,Technical Writers,1430,9.6,0.238,0.69,33.78,70270,1.9
+Illinois,Writers and Authors,1730,14,0.287,0.92,32.13,66820,3.1
+Illinois,Interpreters and Translators,1580,12.7,0.262,0.65,22.87,47570,3.2
+Illinois,Court Reporters and Simultaneous Captioners,680,1.1,0.113,1.14,33.35,69370,1.3
+Illinois,"Media and Communication Workers, All Other",360,15,0.06,0.35,19.35,40250,5.7
+Illinois,Audio and Video Technicians,2930,15.2,0.486,0.97,21.49,44710,5.1
+Illinois,Broadcast Technicians,1040,19.5,0.172,0.88,21.17,44030,7.2
+Illinois,Sound Engineering Technicians,240,20.3,0.04,0.46,29.79,61950,11
+Illinois,Photographers,2460,9,0.408,1.18,19.03,39590,5.8
+Illinois,"Camera Operators, Television, Video, and Film",660,26.3,0.11,0.75,23.24,48340,5.3
+Illinois,Film and Video Editors,750,22.3,0.124,0.66,31.48,65480,5.3
+Illinois,"Lighting Technicians and Media and Communication Equipment Workers, All Other",220,16.2,0.037,0.23,38.2,79450,4.7
+Illinois,Healthcare Practitioners and Technical Occupations,354470,1.2,58.825,1,38.72,80540,1.1
+Illinois,Chiropractors,1790,8.1,0.296,1.24,41.81,86960,7.6
+Illinois,"Dentists, General",3850,8.1,0.64,0.85,90.95,189170,6.6
+Illinois,Oral and Maxillofacial Surgeons,**,**,**,**,#,#,18.5
+Illinois,Orthodontists,480,45.1,0.079,1.94,85.4,177620,23.2
+Illinois,"Dentists, All Other Specialists",170,21.8,0.028,0.76,58.95,122620,8.3
+Illinois,Dietitians and Nutritionists,2750,5.8,0.457,0.99,28.44,59160,1.2
+Illinois,Optometrists,2080,8.2,0.345,1.29,60.39,125610,5.8
+Illinois,Pharmacists,11520,6,1.913,0.9,60.33,125490,1.5
+Illinois,Physician Assistants,2920,10.4,0.485,0.59,50.73,105520,2.2
+Illinois,Podiatrists,550,12.3,0.092,1.38,71.87,149490,11.4
+Illinois,Occupational Therapists,5790,4.7,0.961,1.06,40.72,84700,1.5
+Illinois,Physical Therapists,10170,5.8,1.688,1.06,44.11,91750,2
+Illinois,Radiation Therapists,620,7.1,0.102,0.84,40.58,84420,1.3
+Illinois,Recreational Therapists,740,16.2,0.123,0.95,23.84,49590,5.7
+Illinois,Respiratory Therapists,4310,5.3,0.715,0.79,28.98,60270,0.9
+Illinois,Speech-Language Pathologists,7510,7.4,1.246,1.19,37.97,78980,1.8
+Illinois,Exercise Physiologists,440,8.4,0.074,1.49,26.46,55030,1.7
+Illinois,"Therapists, All Other",360,19.2,0.059,0.72,26.9,55950,3.3
+Illinois,Veterinarians,2580,5,0.429,0.84,51.6,107320,4.9
+Illinois,Registered Nurses,129530,1.7,21.496,1.06,35.34,73510,0.9
+Illinois,Nurse Anesthetists,1660,22.9,0.275,0.93,95.99,199660,6.3
+Illinois,Nurse Midwives,290,18.4,0.048,1.01,50.31,104640,3.3
+Illinois,Nurse Practitioners,6750,4.7,1.12,0.82,51.86,107860,1.1
+Illinois,Audiologists,600,18.7,0.1,1.08,37.5,78000,2.7
+Illinois,Anesthesiologists,1500,28.8,0.248,1.18,126.39,262890,11.4
+Illinois,Family Medicine Physicians,7400,9.9,1.228,1.65,102.07,212310,4.9
+Illinois,General Internal Medicine Physicians,2390,11.9,0.396,1.31,101.9,211950,5.8
+Illinois,Obstetricians and Gynecologists,680,11.7,0.113,0.89,108.64,225980,5.4
+Illinois,"Pediatricians, General",**,**,**,**,95.56,198770,9.7
+Illinois,Psychiatrists,1120,18,0.185,1.07,118.31,246090,8.8
+Illinois,"Physicians, All Other; and Ophthalmologists, Except Pediatric",10680,5.4,1.772,0.67,91.71,190750,5.3
+Illinois,"Surgeons, Except Ophthalmologists",1310,12.7,0.217,0.88,125.91,261880,5.4
+Illinois,Dental Hygienists,9080,6,1.508,1,34.64,72050,3
+Illinois,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",**,**,**,**,32.74,68090,4.8
+Illinois,Clinical Laboratory Technologists and Technicians,13470,5,2.235,1.01,24.82,51620,1.7
+Illinois,Cardiovascular Technologists and Technicians,2780,6.3,0.462,1.21,26.14,54370,2
+Illinois,Diagnostic Medical Sonographers,3030,6.3,0.503,1.01,36.26,75420,1.4
+Illinois,Nuclear Medicine Technologists,720,9,0.119,0.96,39.77,82710,0.9
+Illinois,Radiologic Technologists and Technicians,8260,3.7,1.371,0.97,30.47,63370,0.9
+Illinois,Magnetic Resonance Imaging Technologists,2130,9.4,0.353,1.37,34.51,71780,1.2
+Illinois,Emergency Medical Technicians and Paramedics,11420,5.4,1.895,1.07,20.82,43310,11
+Illinois,Dietetic Technicians,3380,8.3,0.561,2.82,12.7,26410,1.7
+Illinois,Pharmacy Technicians,21090,5.1,3.499,1.23,16.15,33590,1.2
+Illinois,Psychiatric Technicians,4650,6.6,0.772,1.44,21.08,43850,2.8
+Illinois,Surgical Technologists,3770,5.7,0.626,0.84,23.57,49030,1.2
+Illinois,Veterinary Technologists and Technicians,4000,10.3,0.664,0.88,17.85,37130,3.1
+Illinois,Ophthalmic Medical Technicians,2040,17.5,0.338,0.85,18.4,38270,2.4
+Illinois,Licensed Practical and Licensed Vocational Nurses,19930,4.7,3.307,0.7,25.62,53290,1.7
+Illinois,"Opticians, Dispensing",3040,10.1,0.504,1.02,16.68,34700,2.8
+Illinois,Orthotists and Prosthetists,380,30,0.062,0.93,39.34,81820,8.2
+Illinois,Hearing Aid Specialists,300,19.7,0.051,0.9,20.11,41830,6.6
+Illinois,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",12730,5.5,2.112,0.94,23.12,48100,1.4
+Illinois,Athletic Trainers,1540,18.3,0.256,1.32,*,45930,2.5
+Illinois,Genetic Counselors,50,6.3,0.008,0.52,40.48,84190,2.5
+Illinois,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,23.53,48940,3.4
+Illinois,Healthcare Support Occupations,217110,1.9,36.03,0.81,15.08,31360,1.4
+Illinois,Home Health and Personal Care Aides,89040,3.7,14.776,0.69,12.71,26450,1.7
+Illinois,Nursing Assistants,60370,2.7,10.018,1.04,14.31,29760,0.9
+Illinois,Orderlies,2280,10.9,0.378,1.18,14.41,29960,1.5
+Illinois,Psychiatric Aides,1200,22.6,0.199,0.53,13.32,27710,3.2
+Illinois,Occupational Therapy Assistants,2240,24.1,0.372,1.21,30.62,63700,2.5
+Illinois,Occupational Therapy Aides,2410,18.7,0.399,7.76,14.68,30540,13.1
+Illinois,Physical Therapist Assistants,3980,10.2,0.66,1,28.43,59130,1.9
+Illinois,Physical Therapist Aides,1230,15.5,0.205,0.61,14.08,29290,5.8
+Illinois,Massage Therapists,4370,10.1,0.726,0.99,23.07,47980,3.6
+Illinois,Dental Assistants,13170,7,2.186,0.91,19.36,40270,2
+Illinois,Medical Assistants,22940,5.2,3.806,0.78,17.55,36500,1.4
+Illinois,Medical Equipment Preparers,2370,11.3,0.393,1.01,19.08,39690,1.7
+Illinois,Medical Transcriptionists,1790,12.1,0.298,0.78,15.49,32230,4.2
+Illinois,Pharmacy Aides,670,22.6,0.111,0.44,14.62,30410,3.5
+Illinois,Veterinary Assistants and Laboratory Animal Caretakers,2490,14.8,0.413,0.63,13.69,28480,2.9
+Illinois,Phlebotomists,5200,6.7,0.863,0.99,16.85,35040,1.6
+Illinois,"Healthcare Support Workers, All Other",1380,12.6,0.228,0.36,22.75,47320,4.2
+Illinois,Protective Service Occupations,146520,1.7,24.315,1.02,26.47,55060,5.2
+Illinois,First-Line Supervisors of Correctional Officers,2110,0.4,0.35,1.11,37.49,77990,1.3
+Illinois,First-Line Supervisors of Police and Detectives,5730,2.3,0.951,1.15,51.82,107790,1.8
+Illinois,First-Line Supervisors of Firefighting and Prevention Workers,3390,6.8,0.562,1.19,45.95,95580,4.1
+Illinois,"Miscellaneous First-Line Supervisors, Protective Service Workers",3030,8.2,0.502,0.89,23.86,49620,3.2
+Illinois,Firefighters,17180,8,2.851,1.29,27.97,58170,6.5
+Illinois,Fire Inspectors and Investigators,640,42.5,0.106,1.13,31.31,65130,1.9
+Illinois,Bailiffs,1620,2.7,0.268,2,29.77,61930,6.9
+Illinois,Correctional Officers and Jailers,14430,0.9,2.395,0.83,28.89,60090,2.3
+Illinois,Detectives and Criminal Investigators,3010,2.9,0.499,0.69,41.78,86910,3.4
+Illinois,Fish and Game Wardens,160,3.4,0.027,0.58,35.85,74570,1.8
+Illinois,Parking Enforcement Workers,380,5.4,0.063,1.2,24.09,50120,5
+Illinois,Police and Sheriff's Patrol Officers,29460,2.2,4.889,1.08,37.67,78350,3.7
+Illinois,Transit and Railroad Police,330,31.1,0.055,1.71,34.79,72360,3
+Illinois,Animal Control Workers,660,21.1,0.11,1.35,17.08,35530,2.3
+Illinois,Private Detectives and Investigators,1180,18.5,0.196,0.82,28.23,58710,3.1
+Illinois,Gambling Surveillance Officers and Gambling Investigators,150,16.7,0.024,0.35,30.7,63860,5
+Illinois,Security Guards,46120,3.7,7.654,1,16.25,33800,1.5
+Illinois,Crossing Guards and Flaggers,3440,11,0.571,0.99,16.9,35150,3
+Illinois,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",6490,6.6,1.077,1.1,11.95,24860,4
+Illinois,Transportation Security Screeners,2060,0.5,0.342,1.07,20.42,42470,3.7
+Illinois,"School Bus Monitors and Protective Service Workers, All Other",4970,7.7,0.825,0.83,14.37,29890,3.4
+Illinois,Food Preparation and Serving Related Occupations,516360,0.9,85.692,0.93,12.22,25420,0.7
+Illinois,Chefs and Head Cooks,4200,8.8,0.697,0.8,26.66,55450,2.2
+Illinois,First-Line Supervisors of Food Preparation and Serving Workers,32070,4.2,5.322,0.77,15.86,33000,1.6
+Illinois,"Cooks, Fast Food",14120,13.9,2.343,0.65,10.73,22310,2.8
+Illinois,"Cooks, Institution and Cafeteria",20450,3.8,3.393,1.24,13.61,28310,0.8
+Illinois,"Cooks, Restaurant",53530,4.6,8.883,0.93,14.03,29190,1.1
+Illinois,"Cooks, Short Order",5840,16.2,0.969,0.93,12.46,25910,1.6
+Illinois,"Cooks, All Other",910,21,0.152,1.15,15.78,32820,3.5
+Illinois,Food Preparation Workers,33690,8.7,5.591,0.95,12.66,26340,1.6
+Illinois,Bartenders,28540,4.1,4.737,1.08,11.77,24480,2.6
+Illinois,Fast Food and Counter Workers,158350,4.3,26.279,0.97,11.26,23410,0.9
+Illinois,Waiters and Waitresses,90050,3.2,14.944,0.85,11.22,23340,2.3
+Illinois,"Food Servers, Nonrestaurant",15460,7.5,2.566,1.36,12.08,25130,1.3
+Illinois,Dining Room and Cafeteria Attendants and Bartender Helpers,23760,8.4,3.942,1.21,11.14,23170,2.5
+Illinois,Dishwashers,19080,6.7,3.166,0.9,11.85,24660,1.1
+Illinois,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",15650,7.3,2.596,0.9,11.53,23990,1.5
+Illinois,"Food Preparation and Serving Related Workers, All Other",670,23.5,0.111,0.23,12.86,26740,4.8
+Illinois,Building and Grounds Cleaning and Maintenance Occupations,172840,1.9,28.683,0.95,15.35,31920,0.8
+Illinois,First-Line Supervisors of Housekeeping and Janitorial Workers,5090,4.9,0.845,0.8,22.28,46340,1.7
+Illinois,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",4490,11.4,0.746,1.06,24.13,50200,2.2
+Illinois,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",94280,3.3,15.647,1.07,14.8,30790,1
+Illinois,Maids and Housekeeping Cleaners,31780,4.7,5.274,0.84,13.34,27740,1.3
+Illinois,"Building Cleaning Workers, All Other",**,**,**,**,18.04,37520,3.5
+Illinois,Pest Control Workers,1920,8.5,0.319,0.59,18.53,38540,3.5
+Illinois,Landscaping and Groundskeeping Workers,33460,3.4,5.553,0.89,16.05,33390,1.5
+Illinois,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",1160,12.8,0.193,1.1,20.95,43570,3.4
+Illinois,Tree Trimmers and Pruners,430,32.1,0.071,0.22,22.99,47830,7
+Illinois,"Grounds Maintenance Workers, All Other",100,17.3,0.017,0.17,22.07,45900,4.9
+Illinois,Personal Care and Service Occupations,118930,2.5,19.736,0.88,15.18,31580,1.3
+Illinois,First-Line Supervisors of Gambling Services Workers,300,36.1,0.05,0.25,23.52,48920,3.5
+Illinois,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",5240,6.7,0.87,0.59,19.61,40780,3
+Illinois,Animal Trainers,810,40.1,0.135,1.2,16.32,33940,5.3
+Illinois,Animal Caretakers,9450,6.8,1.568,1.08,12.61,26220,1.9
+Illinois,Gambling Dealers,1340,22,0.222,0.33,10.23,21280,4
+Illinois,Gambling and Sports Book Writers and Runners,50,17.7,0.008,0.11,15.95,33180,4
+Illinois,"Gambling Service Workers, All Other",150,29.4,0.024,0.34,17.27,35920,9.3
+Illinois,Motion Picture Projectionists,170,30.4,0.027,0.89,15.18,31560,10.6
+Illinois,"Ushers, Lobby Attendants, and Ticket Takers",6020,14.2,0.999,1.06,11.55,24030,3.5
+Illinois,Amusement and Recreation Attendants,7490,15.8,1.243,0.54,11.88,24700,2.7
+Illinois,Costume Attendants,270,14,0.045,0.89,25.3,52630,8.3
+Illinois,"Locker Room, Coatroom, and Dressing Room Attendants",580,11,0.097,0.89,12.44,25880,2.4
+Illinois,Embalmers,**,**,**,**,27.08,56330,10.8
+Illinois,Funeral Attendants,960,16,0.159,0.68,14.18,29500,3.4
+Illinois,"Morticians, Undertakers, and Funeral Arrangers",1180,11.8,0.195,1.13,30.31,63050,6.8
+Illinois,Barbers,**,**,**,**,14.24,29630,9.7
+Illinois,"Hairdressers, Hairstylists, and Cosmetologists",17260,11.2,2.865,1.09,15.13,31480,3.5
+Illinois,"Makeup Artists, Theatrical and Performance",**,**,**,**,20.22,42050,10.7
+Illinois,Manicurists and Pedicurists,3340,33.7,0.555,0.73,11.82,24580,4.9
+Illinois,Shampooers,1110,22,0.185,2.24,10.74,22340,4.2
+Illinois,Skincare Specialists,2130,16.6,0.353,0.91,17.69,36800,8.5
+Illinois,Baggage Porters and Bellhops,2110,18.2,0.35,1.29,12.15,25280,1.5
+Illinois,Concierges,1550,14.8,0.257,0.91,16.47,34250,3
+Illinois,Tour and Travel Guides,780,9.7,0.13,0.39,17.23,35830,11.8
+Illinois,Childcare Workers,16550,5.3,2.746,0.72,12.23,25440,1.5
+Illinois,Exercise Trainers and Group Fitness Instructors,16870,6,2.8,1.26,23.03,47890,2.9
+Illinois,Recreation Workers,18400,3.9,3.054,1.25,13.25,27560,1.4
+Illinois,Residential Advisors,2770,10.5,0.46,0.63,15.95,33170,2.1
+Illinois,"Crematory Operators and Personal Care and Service Workers, All Other",1490,20.7,0.248,0.59,12.33,25650,3.1
+Illinois,Sales and Related Occupations,560360,1.3,92.993,0.95,20.93,43530,1.2
+Illinois,First-Line Supervisors of Retail Sales Workers,37580,3,6.236,0.78,21.31,44330,1.5
+Illinois,First-Line Supervisors of Non-Retail Sales Workers,7150,7.1,1.187,0.7,38.8,80710,2.4
+Illinois,Cashiers,137250,4.1,22.777,0.93,11.73,24400,0.7
+Illinois,Gambling Change Persons and Booth Cashiers,640,16.2,0.107,0.74,14.04,29210,7.3
+Illinois,Counter and Rental Clerks,9970,10.2,1.654,0.59,13.76,28630,3.2
+Illinois,Parts Salespersons,8970,6.5,1.489,0.85,18.04,37520,2.5
+Illinois,Retail Salespersons,157400,3.4,26.12,0.89,14.08,29280,1.2
+Illinois,Advertising Sales Agents,7490,9.2,1.242,1.41,31.44,65390,3.5
+Illinois,Insurance Sales Agents,17060,4.9,2.83,1.01,32.61,67830,4.2
+Illinois,"Securities, Commodities, and Financial Services Sales Agents",22550,5.1,3.743,1.26,42.05,87460,4.1
+Illinois,Travel Agents,3300,11.5,0.548,1.21,21.75,45250,3
+Illinois,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",52350,4.6,8.688,1.23,29.75,61870,2.1
+Illinois,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",13030,26.3,2.162,1.03,42.19,87750,2.9
+Illinois,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",67650,2.7,11.227,1.23,33.15,68950,1.6
+Illinois,Demonstrators and Product Promoters,2800,27.3,0.464,0.88,15.98,33250,4.8
+Illinois,Models,**,**,**,**,14.24,29620,5.7
+Illinois,Real Estate Brokers,2000,12.3,0.332,1.14,22.51,46820,11.3
+Illinois,Real Estate Sales Agents,4010,19,0.666,0.6,20.25,42130,10.4
+Illinois,Sales Engineers,1510,10.5,0.251,0.58,47.53,98870,4.1
+Illinois,Telemarketers,4120,10.6,0.683,0.74,14.35,29840,3.2
+Illinois,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",690,45.8,0.115,1.89,10.76,22370,4.4
+Illinois,"Sales and Related Workers, All Other",2680,8.3,0.445,0.55,15.49,32220,2.6
+Illinois,Office and Administrative Support Occupations,791740,1,131.392,0.99,20.14,41890,0.4
+Illinois,First-Line Supervisors of Office and Administrative Support Workers,46740,2.3,7.757,0.77,30.23,62890,0.8
+Illinois,"Switchboard Operators, Including Answering Service",2630,7.6,0.436,0.94,16.29,33880,2.6
+Illinois,Telephone Operators,120,14.4,0.02,0.61,18.72,38930,6.5
+Illinois,"Communications Equipment Operators, All Other",40,41.8,0.007,0.33,19.02,39570,4.9
+Illinois,Bill and Account Collectors,8850,7.6,1.469,0.91,19.5,40570,1.3
+Illinois,Billing and Posting Clerks,16090,6,2.67,0.84,21.06,43800,1.4
+Illinois,"Bookkeeping, Accounting, and Auditing Clerks",55900,2.5,9.277,0.9,21.1,43880,0.7
+Illinois,Gambling Cage Workers,210,20.9,0.035,0.36,14.1,29320,3.5
+Illinois,Payroll and Timekeeping Clerks,4280,5.2,0.71,0.73,24.81,51600,1.6
+Illinois,Procurement Clerks,2190,4.9,0.364,0.81,22.04,45840,1.3
+Illinois,Tellers,18720,5.7,3.106,1.03,15.16,31530,1.2
+Illinois,"Financial Clerks, All Other",500,18.8,0.084,0.4,22.78,47390,2.9
+Illinois,Brokerage Clerks,2200,16.7,0.366,1.12,28.03,58310,2.6
+Illinois,Correspondence Clerks,290,31.4,0.048,1.14,18.24,37950,3.9
+Illinois,"Court, Municipal, and License Clerks",5360,5.1,0.889,0.85,21.2,44100,4.2
+Illinois,"Credit Authorizers, Checkers, and Clerks",430,15.9,0.072,0.4,21.48,44680,5.2
+Illinois,Customer Service Representatives,122490,3.4,20.328,1.02,18.65,38790,0.7
+Illinois,"Eligibility Interviewers, Government Programs",**,**,**,**,25.49,53010,1.7
+Illinois,File Clerks,3390,8,0.563,0.81,19.09,39700,1.5
+Illinois,"Hotel, Motel, and Resort Desk Clerks",8310,7.4,1.379,0.76,12.45,25900,2
+Illinois,"Interviewers, Except Eligibility and Loan",6210,10.9,1.03,0.8,17.87,37170,2.1
+Illinois,"Library Assistants, Clerical",5320,6.9,0.883,1.51,13.03,27110,2.1
+Illinois,Loan Interviewers and Clerks,8990,8.8,1.492,1.05,19.99,41570,1.6
+Illinois,New Accounts Clerks,2260,14.8,0.375,1.27,18.5,38480,2.4
+Illinois,Order Clerks,3630,9.6,0.603,0.65,17.61,36630,2.5
+Illinois,"Human Resources Assistants, Except Payroll and Timekeeping",3220,5.7,0.534,0.67,20.06,41730,1.2
+Illinois,Receptionists and Information Clerks,41880,3.2,6.95,0.97,14.98,31160,1.3
+Illinois,Reservation and Transportation Ticket Agents and Travel Clerks,6300,15.9,1.045,1.24,22.52,46840,5.8
+Illinois,"Information and Record Clerks, All Other",2050,3.9,0.34,0.32,21.53,44790,2.7
+Illinois,Cargo and Freight Agents,5300,18.5,0.879,1.35,23.16,48180,3.2
+Illinois,Couriers and Messengers,2280,14.9,0.378,0.74,14.19,29510,3.7
+Illinois,Public Safety Telecommunicators,3560,4,0.59,0.91,25.53,53100,1.9
+Illinois,"Dispatchers, Except Police, Fire, and Ambulance",7400,9.4,1.229,0.91,22.97,47780,2.4
+Illinois,"Meter Readers, Utilities",1090,11.3,0.18,0.87,26.05,54180,3.2
+Illinois,Postal Service Clerks,3150,0,0.523,0.95,24.16,50260,1
+Illinois,Postal Service Mail Carriers,15520,0,2.576,1.11,25.33,52680,1.6
+Illinois,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",5510,0,0.914,1.31,24.65,51270,2.4
+Illinois,"Production, Planning, and Expediting Clerks",15030,4.2,2.494,0.99,24.43,50820,0.9
+Illinois,"Shipping, Receiving, and Inventory Clerks",37650,4.2,6.248,1.3,18.03,37500,0.9
+Illinois,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",1940,15.6,0.321,0.77,17.89,37210,1.9
+Illinois,Executive Secretaries and Executive Administrative Assistants,27980,2.6,4.644,1.26,28.86,60030,0.7
+Illinois,Legal Secretaries and Administrative Assistants,8000,7.6,1.327,1.16,25.34,52710,2.9
+Illinois,Medical Secretaries and Administrative Assistants,16740,5.9,2.778,0.67,18.07,37580,1.4
+Illinois,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",62420,2.6,10.358,0.75,18.96,39440,0.9
+Illinois,Data Entry Keyers,7350,8.4,1.22,1.12,18.7,38890,2
+Illinois,Word Processors and Typists,310,12.2,0.052,0.16,21.51,44730,2.5
+Illinois,Desktop Publishers,600,24.7,0.099,1.67,19.63,40820,11.8
+Illinois,Insurance Claims and Policy Processing Clerks,10490,10.3,1.741,0.99,20.85,43380,1.7
+Illinois,"Mail Clerks and Mail Machine Operators, Except Postal Service",5500,12.1,0.913,1.6,14.96,31110,2.3
+Illinois,"Office Clerks, General",161770,2.1,26.847,1.33,18.34,38150,1
+Illinois,"Office Machine Operators, Except Computer",1740,16.1,0.289,0.92,18.76,39020,2.8
+Illinois,Proofreaders and Copy Markers,410,13.8,0.069,1.31,23.27,48410,3.3
+Illinois,Statistical Assistants,630,16.2,0.105,1.57,25.35,52740,2.9
+Illinois,"Office and Administrative Support Workers, All Other",4900,7.5,0.814,0.63,19.91,41420,1.9
+Illinois,"Farming, Fishing, and Forestry Occupations",5810,13.8,0.964,0.29,16.89,35120,1.9
+Illinois,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",190,16.6,0.032,0.21,24.1,50130,4.8
+Illinois,Agricultural Inspectors,480,28.7,0.08,0.85,25.71,53480,1.8
+Illinois,"Graders and Sorters, Agricultural Products",420,33.4,0.07,0.3,13.76,28620,3.4
+Illinois,Agricultural Equipment Operators,1420,18.1,0.236,1.29,17.54,36490,1.5
+Illinois,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2390,29.7,0.397,0.2,15.07,31350,3.4
+Illinois,"Farmworkers, Farm, Ranch, and Aquacultural Animals",660,23.3,0.11,0.44,14.69,30560,6.6
+Illinois,Forest and Conservation Workers,170,4.1,0.028,0.61,18.82,39140,3.2
+Illinois,Construction and Extraction Occupations,187210,1.5,31.067,0.74,33.14,68940,0.9
+Illinois,First-Line Supervisors of Construction Trades and Extraction Workers,10430,4.7,1.731,0.41,39.81,82800,1.4
+Illinois,Brickmasons and Blockmasons,2810,11.4,0.466,1.13,37.84,78700,4.1
+Illinois,Stonemasons,**,**,**,**,32.24,67060,21.9
+Illinois,Carpenters,26550,5,4.406,0.88,32.08,66720,2.1
+Illinois,Carpet Installers,760,37.6,0.125,0.71,23.98,49870,14.9
+Illinois,"Floor Layers, Except Carpet, Wood, and Hard Tiles",**,**,**,**,23.05,47940,11.9
+Illinois,Floor Sanders and Finishers,40,33.9,0.007,0.19,23.4,48670,7.4
+Illinois,Tile and Stone Setters,1410,31.3,0.235,0.85,24.2,50330,10.6
+Illinois,Cement Masons and Concrete Finishers,5360,9.3,0.889,0.67,33.09,68820,2.9
+Illinois,Terrazzo Workers and Finishers,220,27.3,0.037,1.81,37.15,77270,9.6
+Illinois,Construction Laborers,34010,4.6,5.645,0.81,29.09,60500,2.2
+Illinois,"Paving, Surfacing, and Tamping Equipment Operators",1780,32.8,0.295,0.95,29.75,61880,10.7
+Illinois,Operating Engineers and Other Construction Equipment Operators,10780,5.4,1.79,0.65,38.14,79330,1.6
+Illinois,Drywall and Ceiling Tile Installers,1730,17.2,0.287,0.41,25.53,53110,7.7
+Illinois,Tapers,590,20.4,0.098,0.81,39.84,82870,3.4
+Illinois,Electricians,25400,4.4,4.215,0.9,37.88,78790,1.5
+Illinois,Glaziers,1110,18.7,0.183,0.51,32.96,68550,6.2
+Illinois,"Insulation Workers, Floor, Ceiling, and Wall",1270,21.2,0.211,0.92,34.36,71470,17.7
+Illinois,"Insulation Workers, Mechanical",**,**,**,**,37.89,78810,12.4
+Illinois,"Painters, Construction and Maintenance",8790,9.8,1.459,0.92,25.3,52610,4.4
+Illinois,Pipelayers,310,35.1,0.052,0.21,33.21,69070,7.7
+Illinois,"Plumbers, Pipefitters, and Steamfitters",17570,5.6,2.917,0.97,41.4,86120,1.9
+Illinois,Plasterers and Stucco Masons,500,32.8,0.084,0.45,35.38,73590,3.8
+Illinois,Reinforcing Iron and Rebar Workers,**,**,**,**,45.41,94440,4.9
+Illinois,Roofers,3920,22.7,0.651,0.74,29.08,60490,8.1
+Illinois,Sheet Metal Workers,5400,10.8,0.897,1,33.31,69280,5
+Illinois,Structural Iron and Steel Workers,3390,13.1,0.562,1.08,41.62,86580,2.6
+Illinois,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",180,34.4,0.03,0.19,20.1,41800,7.8
+Illinois,Helpers--Carpenters,220,27.7,0.037,0.17,18.64,38760,6.2
+Illinois,Helpers--Electricians,710,20.6,0.118,0.22,18.34,38150,6.3
+Illinois,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,16.31,33920,6.6
+Illinois,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",1340,27.6,0.223,0.56,17.58,36570,5.3
+Illinois,Helpers--Roofers,**,**,**,**,17.5,36390,6.6
+Illinois,"Helpers, Construction Trades, All Other",190,26.2,0.031,0.16,19.31,40160,9
+Illinois,Construction and Building Inspectors,2160,8.4,0.359,0.48,34.95,72690,3.2
+Illinois,Elevator and Escalator Installers and Repairers,780,22.8,0.13,0.67,44.49,92540,5.1
+Illinois,Fence Erectors,610,39.1,0.102,0.58,27.25,56680,13.8
+Illinois,Hazardous Materials Removal Workers,590,21,0.098,0.32,26.85,55840,10.3
+Illinois,Highway Maintenance Workers,7920,3.9,1.314,1.28,25.8,53650,1.5
+Illinois,Rail-Track Laying and Maintenance Equipment Operators,810,19.3,0.134,1.22,27.15,56460,4
+Illinois,Septic Tank Servicers and Sewer Pipe Cleaners,960,11.5,0.16,0.79,24.31,50570,4
+Illinois,Miscellaneous Construction and Related Workers,380,28.9,0.062,0.29,29.75,61880,4.5
+Illinois,"Rotary Drill Operators, Oil and Gas",220,32.9,0.036,0.25,20.81,43280,7.1
+Illinois,"Service Unit Operators, Oil and Gas",170,33.1,0.028,0.08,21.51,44740,11.3
+Illinois,"Excavating and Loading Machine and Dragline Operators, Surface Mining",460,25.5,0.077,0.26,23.63,49150,3.7
+Illinois,Continuous Mining Machine Operators,770,27.9,0.127,1.28,27.91,58040,4.1
+Illinois,"Roof Bolters, Mining",190,22.4,0.032,1.49,27.95,58130,2
+Illinois,"Loading and Moving Machine Operators, Underground Mining",180,24.8,0.03,1.06,23.34,48540,8.2
+Illinois,"Rock Splitters, Quarry",140,28.7,0.023,0.65,18.96,39430,7.2
+Illinois,"Roustabouts, Oil and Gas",330,28.9,0.054,0.14,20,41600,7.3
+Illinois,Helpers--Extraction Workers,160,47.8,0.026,0.23,22.28,46330,6.7
+Illinois,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",100,30.2,0.017,0.1,26.27,54650,9
+Illinois,"Underground Mining Machine Operators and Extraction Workers, All Other",290,37.7,0.049,0.52,24.51,50990,3.5
+Illinois,"Installation, Maintenance, and Repair Occupations",216530,1.6,35.933,0.92,25.01,52030,0.8
+Illinois,"First-Line Supervisors of Mechanics, Installers, and Repairers",14330,3.9,2.378,0.72,34.19,71110,1.2
+Illinois,"Computer, Automated Teller, and Office Machine Repairers",4400,18.4,0.73,1.09,20.73,43130,2.6
+Illinois,"Radio, Cellular, and Tower Equipment Installers and Repairers",**,**,**,**,26.13,54350,3
+Illinois,"Telecommunications Equipment Installers and Repairers, Except Line Installers",8690,10.3,1.442,1.02,30.97,64410,3.7
+Illinois,Avionics Technicians,440,14.5,0.074,0.5,24.05,50020,9.8
+Illinois,"Electric Motor, Power Tool, and Related Repairers",540,13.5,0.089,0.82,39.62,82400,6.4
+Illinois,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1870,28.3,0.31,0.77,29.75,61890,1.9
+Illinois,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",510,17.3,0.085,0.55,43.71,90910,3.1
+Illinois,"Electronic Equipment Installers and Repairers, Motor Vehicles",260,43.8,0.043,0.62,17.93,37290,3.4
+Illinois,Audiovisual Equipment Installers and Repairers,1090,24.3,0.181,1.04,20.43,42480,6.8
+Illinois,Security and Fire Alarm Systems Installers,1630,13.8,0.27,0.55,28.37,59010,4.5
+Illinois,Aircraft Mechanics and Service Technicians,4610,7.3,0.766,0.84,33.03,68700,4.6
+Illinois,Automotive Body and Related Repairers,7480,6.9,1.241,1.26,22.03,45820,3.1
+Illinois,Automotive Glass Installers and Repairers,280,47.7,0.046,0.35,22.09,45940,7.1
+Illinois,Automotive Service Technicians and Mechanics,26800,4.6,4.448,1,22.13,46030,1.7
+Illinois,Bus and Truck Mechanics and Diesel Engine Specialists,11420,6.1,1.896,1.05,25.27,52570,2.9
+Illinois,Farm Equipment Mechanics and Service Technicians,1380,10.7,0.228,0.92,22.67,47150,2.3
+Illinois,"Mobile Heavy Equipment Mechanics, Except Engines",2790,8.2,0.462,0.46,29.43,61220,2.7
+Illinois,Rail Car Repairers,3120,15.7,0.517,2.93,26.69,55510,5.2
+Illinois,Motorboat Mechanics and Service Technicians,400,22.3,0.067,0.43,18.44,38360,3
+Illinois,Motorcycle Mechanics,280,23,0.047,0.44,17.35,36090,4
+Illinois,Outdoor Power Equipment and Other Small Engine Mechanics,790,22.6,0.131,0.6,17.04,35440,4.2
+Illinois,Bicycle Repairers,220,31.2,0.037,0.41,15.95,33180,5.3
+Illinois,Recreational Vehicle Service Technicians,**,**,**,**,19.91,41410,4.9
+Illinois,Tire Repairers and Changers,4140,14.8,0.688,0.91,14.39,29930,2.1
+Illinois,Mechanical Door Repairers,260,35.2,0.044,0.28,19.66,40890,3.4
+Illinois,"Control and Valve Installers and Repairers, Except Mechanical Door",850,21.3,0.14,0.39,38.4,79870,3.6
+Illinois,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",8840,10.6,1.467,0.63,29.01,60350,3.8
+Illinois,Home Appliance Repairers,1580,24.5,0.261,1.23,19.27,40080,6.5
+Illinois,Industrial Machinery Mechanics,14420,5.4,2.392,0.91,27.58,57370,1.6
+Illinois,"Maintenance Workers, Machinery",2850,6.9,0.473,0.95,25.76,53580,1.4
+Illinois,Millwrights,2410,14.7,0.401,1.24,30.31,63050,2.9
+Illinois,Electrical Power-Line Installers and Repairers,4120,9.2,0.683,0.9,40.97,85210,2.8
+Illinois,Telecommunications Line Installers and Repairers,2440,22.2,0.405,0.49,30.03,62470,6.5
+Illinois,Camera and Photographic Equipment Repairers,**,**,**,**,18.15,37760,7
+Illinois,Medical Equipment Repairers,1650,16.1,0.273,0.87,24.18,50290,5.1
+Illinois,Musical Instrument Repairers and Tuners,360,40.6,0.059,1.08,19.89,41380,5
+Illinois,Watch and Clock Repairers,**,**,**,**,25.42,52880,11.4
+Illinois,"Precision Instrument and Equipment Repairers, All Other",100,19.4,0.016,0.22,28.89,60100,3.1
+Illinois,"Maintenance and Repair Workers, General",66100,2.5,10.969,1.14,21.54,44800,1
+Illinois,Wind Turbine Service Technicians,300,39,0.049,1.21,26.72,55580,4.6
+Illinois,"Coin, Vending, and Amusement Machine Servicers and Repairers",1720,16.6,0.286,1.34,18.21,37870,4.1
+Illinois,Locksmiths and Safe Repairers,670,16,0.112,0.96,24.74,51460,4.5
+Illinois,Manufactured Building and Mobile Home Installers,**,**,**,**,16.79,34930,6.2
+Illinois,Riggers,610,14.6,0.102,0.65,31.85,66250,12.8
+Illinois,Signal and Track Switch Repairers,490,11.7,0.082,1.75,38.14,79330,3.9
+Illinois,"Helpers--Installation, Maintenance, and Repair Workers",2190,9.7,0.364,0.54,17.78,36990,4
+Illinois,"Installation, Maintenance, and Repair Workers, All Other",5910,8.9,0.98,0.89,24.93,51850,3
+Illinois,Production Occupations,430840,1.5,71.499,1.15,19.26,40060,0.7
+Illinois,First-Line Supervisors of Production and Operating Workers,26930,2.3,4.468,1.04,30.41,63250,1
+Illinois,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",110,41.9,0.019,0.06,*,*,*
+Illinois,"Coil Winders, Tapers, and Finishers",920,26.8,0.152,1.76,24.36,50660,12.6
+Illinois,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",13040,8.7,2.165,1.11,16.36,34030,1.6
+Illinois,Engine and Other Machine Assemblers,1650,22.9,0.274,0.88,21.07,43820,3.7
+Illinois,Structural Metal Fabricators and Fitters,3740,16.8,0.621,1.19,22.65,47120,6.8
+Illinois,Fiberglass Laminators and Fabricators,**,**,**,**,15.94,33160,4.2
+Illinois,Timing Device Assemblers and Adjusters,**,**,**,**,24.07,50070,8
+Illinois,Miscellaneous Assemblers and Fabricators,69650,6.7,11.558,1.24,16.79,34930,3.6
+Illinois,Bakers,11430,8.5,1.897,1.51,13.63,28360,1.6
+Illinois,Butchers and Meat Cutters,6920,10.7,1.149,1.23,15.86,32990,2
+Illinois,"Meat, Poultry, and Fish Cutters and Trimmers",1950,15.5,0.324,0.31,15.55,32350,2.4
+Illinois,Slaughterers and Meat Packers,3990,17.3,0.662,1.33,14.87,30930,3.6
+Illinois,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1260,19.7,0.209,1.47,16.16,33610,3.1
+Illinois,Food Batchmakers,12230,11.7,2.03,1.87,17.54,36470,3.4
+Illinois,Food Cooking Machine Operators and Tenders,930,10.6,0.155,0.76,16.21,33710,3
+Illinois,"Food Processing Workers, All Other",500,13.9,0.083,0.29,14.49,30140,1.3
+Illinois,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",2230,14.6,0.37,0.71,19.38,40320,7.5
+Illinois,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",580,25,0.096,0.87,19.74,41060,1.9
+Illinois,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",600,21.3,0.1,0.45,21.91,45570,3.8
+Illinois,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",9990,7,1.658,1.25,17.7,36820,1.8
+Illinois,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1060,22.2,0.175,2.37,19.99,41570,4.5
+Illinois,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3700,10.8,0.614,1.17,18.8,39100,2.5
+Illinois,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2000,11.5,0.332,1.74,20.98,43630,2
+Illinois,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",960,11.2,0.16,1.25,22.62,47050,2.6
+Illinois,Machinists,30010,5.1,4.98,1.91,20.58,42800,1.5
+Illinois,Metal-Refining Furnace Operators and Tenders,580,26.1,0.096,0.82,23.22,48300,3.7
+Illinois,"Pourers and Casters, Metal",550,21.8,0.091,1.67,22.19,46160,6.7
+Illinois,"Model Makers, Metal and Plastic",430,34.1,0.071,2.41,30.83,64130,3.8
+Illinois,"Patternmakers, Metal and Plastic",240,35.7,0.04,1.95,25.08,52160,7
+Illinois,Foundry Mold and Coremakers,890,19.1,0.147,1.23,22.3,46380,3.1
+Illinois,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",9120,9.1,1.513,1.29,17.83,37080,1.7
+Illinois,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",13740,6.5,2.281,2.28,18.74,38980,1.8
+Illinois,Tool and Die Makers,5120,9.4,0.85,1.76,25.92,53920,1.8
+Illinois,"Welders, Cutters, Solderers, and Brazers",13450,4.6,2.233,0.8,20.75,43150,1.4
+Illinois,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1700,19.3,0.282,1.18,17.04,35450,2.4
+Illinois,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1190,19.6,0.197,1.48,18.05,37540,4.1
+Illinois,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",2790,13.4,0.462,1.62,17.12,35610,3.2
+Illinois,"Tool Grinders, Filers, and Sharpeners",**,**,**,**,22.65,47110,2.8
+Illinois,"Metal Workers and Plastic Workers, All Other",700,16.9,0.116,0.7,17.74,36900,6.1
+Illinois,Prepress Technicians and Workers,1610,20.8,0.268,1.3,21.23,44160,7.1
+Illinois,Printing Press Operators,10260,8.2,1.702,1.44,19.55,40670,2.5
+Illinois,Print Binding and Finishing Workers,3160,15.2,0.524,1.69,17.37,36130,3.6
+Illinois,Laundry and Dry-Cleaning Workers,8450,7.6,1.402,0.98,12.29,25570,1.2
+Illinois,"Pressers, Textile, Garment, and Related Materials",910,23.4,0.151,0.58,11.4,23700,4.5
+Illinois,Sewing Machine Operators,3360,10.1,0.558,0.61,13.96,29030,3.1
+Illinois,Shoe and Leather Workers and Repairers,510,18.7,0.084,1.41,14.25,29640,4.4
+Illinois,"Sewers, Hand",240,30.6,0.04,1.23,14.29,29720,6
+Illinois,"Tailors, Dressmakers, and Custom Sewers",**,**,**,**,16.45,34210,3.4
+Illinois,Textile Bleaching and Dyeing Machine Operators and Tenders,150,39.6,0.025,0.42,15.54,32320,4.9
+Illinois,"Textile Cutting Machine Setters, Operators, and Tenders",690,42.7,0.114,1.27,14.67,30520,2
+Illinois,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",320,19.1,0.053,0.37,13.93,28980,4.7
+Illinois,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",210,46.3,0.035,0.16,14.03,29190,4.6
+Illinois,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",**,**,**,**,17.15,35670,2.1
+Illinois,Upholsterers,860,19.1,0.143,0.72,17.3,35980,3.9
+Illinois,"Textile, Apparel, and Furnishings Workers, All Other",100,35.9,0.017,0.14,14.34,29820,6.3
+Illinois,Cabinetmakers and Bench Carpenters,3200,13.9,0.531,0.78,20.02,41640,3.7
+Illinois,Furniture Finishers,540,18.7,0.09,0.81,17.63,36670,3.3
+Illinois,"Sawing Machine Setters, Operators, and Tenders, Wood",770,29.7,0.128,0.37,15.6,32440,7
+Illinois,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1200,12.6,0.199,0.37,17.85,37130,3.1
+Illinois,Nuclear Power Reactor Operators,270,25.5,0.045,1.31,47.63,99080,10.4
+Illinois,Power Distributors and Dispatchers,470,29,0.078,1.06,38.33,79730,3.6
+Illinois,Power Plant Operators,1190,13.7,0.197,0.86,35.83,74530,6.2
+Illinois,Stationary Engineers and Boiler Operators,1720,9.4,0.285,1.29,41.7,86740,2.1
+Illinois,Water and Wastewater Treatment Plant and System Operators,4590,6.6,0.761,0.9,28.16,58580,1.9
+Illinois,Chemical Plant and System Operators,610,20.3,0.1,0.51,32.29,67170,4.8
+Illinois,Gas Plant Operators,450,18.9,0.075,0.76,30.79,64050,7.8
+Illinois,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",840,34.8,0.14,0.51,40.27,83760,3.4
+Illinois,"Plant and System Operators, All Other",210,30.6,0.034,0.39,32.72,68070,4.3
+Illinois,Chemical Equipment Operators and Tenders,3020,12.6,0.501,0.84,26.4,54920,3.5
+Illinois,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",**,**,**,**,20.52,42670,5.8
+Illinois,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",930,21.1,0.154,0.68,17.88,37190,3.1
+Illinois,"Grinding and Polishing Workers, Hand",580,18.7,0.097,0.49,17.13,35620,5.6
+Illinois,"Mixing and Blending Machine Setters, Operators, and Tenders",6480,12,1.076,1.26,19.72,41020,2.8
+Illinois,"Cutters and Trimmers, Hand",200,32,0.034,0.51,14.05,29220,3.9
+Illinois,"Cutting and Slicing Machine Setters, Operators, and Tenders",3280,25.2,0.545,1.38,17.54,36480,3.5
+Illinois,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1930,16.7,0.32,0.65,20.58,42800,6.6
+Illinois,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",560,19.2,0.093,0.72,22.66,47130,5.5
+Illinois,"Inspectors, Testers, Sorters, Samplers, and Weighers",29730,3.5,4.933,1.26,20.12,41850,1.6
+Illinois,Jewelers and Precious Stone and Metal Workers,750,21.4,0.124,0.77,17.48,36370,6.8
+Illinois,Dental Laboratory Technicians,1170,26.4,0.193,0.82,21.18,44050,5.9
+Illinois,Medical Appliance Technicians,690,18.4,0.114,1.18,25.01,52020,4.7
+Illinois,Ophthalmic Laboratory Technicians,1140,33.2,0.19,0.96,16.02,33310,6.7
+Illinois,Packaging and Filling Machine Operators and Tenders,17410,5.5,2.889,1.09,16.69,34710,1.4
+Illinois,"Painting, Coating, and Decorating Workers",630,15.3,0.104,1.23,17.43,36240,2.5
+Illinois,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",5400,12,0.895,0.9,19.79,41170,1.8
+Illinois,Photographic Process Workers and Processing Machine Operators,520,35.7,0.086,1.06,20.34,42310,4.7
+Illinois,Computer Numerically Controlled Tool Operators,6520,7.5,1.081,1.05,19.38,40320,2.1
+Illinois,Computer Numerically Controlled Tool Programmers,1210,17.2,0.201,1.16,26.83,55800,2.6
+Illinois,Adhesive Bonding Machine Operators and Tenders,390,22,0.064,0.68,16.15,33600,5.1
+Illinois,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",510,16.2,0.084,0.76,14.14,29420,2.9
+Illinois,Cooling and Freezing Equipment Operators and Tenders,200,26.4,0.033,0.56,16.85,35050,4.8
+Illinois,Etchers and Engravers,460,23.5,0.076,1.08,17.07,35500,3.5
+Illinois,"Molders, Shapers, and Casters, Except Metal and Plastic",1060,20,0.176,0.58,18.62,38730,3.6
+Illinois,"Paper Goods Machine Setters, Operators, and Tenders",4320,7.5,0.717,1.05,18.17,37790,2.9
+Illinois,Tire Builders,1100,35.5,0.182,1.29,19.8,41180,7.6
+Illinois,Helpers--Production Workers,13980,8.4,2.32,1.12,15.15,31500,1.7
+Illinois,"Production Workers, All Other",17860,7.1,2.964,1.96,17.44,36280,1.6
+Illinois,Transportation and Material Moving Occupations,611700,1.3,101.513,1.19,19.02,39570,2.6
+Illinois,Aircraft Cargo Handling Supervisors,610,10.7,0.102,1.57,30.18,62770,5.3
+Illinois,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",16470,3.6,2.734,0.88,28.72,59740,1.3
+Illinois,"Airline Pilots, Copilots, and Flight Engineers",7270,19.8,1.206,2.1,*,194810,11
+Illinois,Commercial Pilots,560,18.6,0.093,0.36,*,99200,7.7
+Illinois,Air Traffic Controllers,930,2.3,0.154,1.02,65.72,136700,2.8
+Illinois,Flight Attendants,10700,10.2,1.776,2.16,*,51010,2.7
+Illinois,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",560,11.5,0.093,0.93,12.18,25340,2.4
+Illinois,Driver/Sales Workers,14860,9.2,2.465,0.81,13.79,28690,3.2
+Illinois,Heavy and Tractor-Trailer Truck Drivers,73320,4.6,12.168,0.96,23.94,49800,1.3
+Illinois,Light Truck Drivers,52530,4.8,8.718,1.39,21.17,44040,2.3
+Illinois,"Bus Drivers, Transit and Intercity",11190,6.5,1.856,1.52,23.65,49180,10.2
+Illinois,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",28370,5,4.709,0.99,16.99,35350,1.7
+Illinois,"Motor Vehicle Operators, All Other",970,22.2,0.16,0.42,21.51,44750,10.6
+Illinois,Locomotive Engineers,1940,24.3,0.322,1.33,35.73,74330,2.8
+Illinois,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",1040,12.1,0.172,2.28,32.03,66620,2.1
+Illinois,Railroad Conductors and Yardmasters,2790,19,0.464,1.49,34.13,70990,2
+Illinois,"Rail Transportation Workers, All Other",80,19.7,0.012,0.69,28.07,58390,15.2
+Illinois,Sailors and Marine Oilers,730,13.3,0.122,0.57,24.57,51100,3.8
+Illinois,"Captains, Mates, and Pilots of Water Vessels",1060,10.7,0.176,0.77,36.86,76670,8.3
+Illinois,Ship Engineers,110,24.8,0.018,0.31,31.04,64570,6.2
+Illinois,Bridge and Lock Tenders,300,8.2,0.049,2.3,28.88,60060,1.3
+Illinois,Parking Attendants,5790,14,0.961,0.96,13.88,28860,4
+Illinois,Automotive and Watercraft Service Attendants,3160,12,0.525,0.66,13.5,28070,2.7
+Illinois,Traffic Technicians,70,27.1,0.012,0.23,29.87,62120,2.2
+Illinois,Transportation Inspectors,560,8.9,0.093,0.45,37.35,77690,4.7
+Illinois,Passenger Attendants,1340,27.8,0.222,1.16,12.62,26260,3.4
+Illinois,Conveyor Operators and Tenders,1180,15.6,0.196,1.2,17.72,36860,3.2
+Illinois,Crane and Tower Operators,1480,15.4,0.246,0.79,28.13,58510,9.3
+Illinois,Hoist and Winch Operators,260,4.7,0.043,1.32,*,*,*
+Illinois,Industrial Truck and Tractor Operators,31090,5.5,5.16,1.2,18.51,38500,1.4
+Illinois,Cleaners of Vehicles and Equipment,15330,6.5,2.545,0.98,12.74,26510,2.3
+Illinois,"Laborers and Freight, Stock, and Material Movers, Hand",181540,3.3,30.127,1.5,15.32,31870,1
+Illinois,Machine Feeders and Offbearers,1530,16.3,0.255,0.59,19.19,39910,10.2
+Illinois,"Packers and Packagers, Hand",45080,10.2,7.482,1.73,14.15,29430,1.6
+Illinois,Stockers and Order Fillers,88090,3.2,14.619,1.01,14.59,30340,1
+Illinois,"Pump Operators, Except Wellhead Pumpers",200,42.1,0.033,0.48,28.68,59660,9.4
+Illinois,Wellhead Pumpers,180,35.1,0.03,0.33,18.53,38550,11.5
+Illinois,Refuse and Recyclable Material Collectors,4100,16.6,0.68,0.82,29.19,60710,3.7
+Illinois,"Tank Car, Truck, and Ship Loaders",160,30.5,0.026,0.33,20.42,42470,4.7
+Illinois,"Material Moving Workers, All Other",270,9.7,0.044,0.23,16.89,35140,7.4

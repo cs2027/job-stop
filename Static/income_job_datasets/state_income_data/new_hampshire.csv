@@ -1,0 +1,634 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+New Hampshire,All Occupations,660480,0.7,1000,1,25.94,53950,0.8
+New Hampshire,Management Occupations,40990,1.7,62.063,1.13,59.58,123930,0.8
+New Hampshire,Chief Executives,680,8.5,1.034,0.74,81.49,169490,3.1
+New Hampshire,General and Operations Managers,13380,1.9,20.254,1.24,62.11,129190,1.4
+New Hampshire,Legislators,210,9,0.324,0.91,*,19900,2.9
+New Hampshire,Advertising and Promotions Managers,50,26.2,0.07,0.41,43.84,91200,3.3
+New Hampshire,Marketing Managers,1220,5.3,1.848,1.03,69.48,144510,1.7
+New Hampshire,Sales Managers,1660,4.4,2.512,0.92,74.92,155830,2.1
+New Hampshire,Public Relations and Fundraising Managers,670,12.3,1.013,1.88,57.45,119500,2.1
+New Hampshire,Administrative Services and Facilities Managers,1050,4,1.595,0.76,51.91,107960,1.4
+New Hampshire,Computer and Information Systems Managers,2730,3.1,4.135,1.4,71.63,149000,1.5
+New Hampshire,Financial Managers,3890,2.5,5.89,1.32,62.23,129440,1.2
+New Hampshire,Industrial Production Managers,1190,3.1,1.797,1.42,66.01,137300,2.2
+New Hampshire,Purchasing Managers,520,5.5,0.791,1.61,62.36,129710,1.5
+New Hampshire,"Transportation, Storage, and Distribution Managers",590,7.7,0.89,0.99,54.85,114080,2.4
+New Hampshire,Compensation and Benefits Managers,90,6.1,0.14,1.22,59.76,124300,2.4
+New Hampshire,Human Resources Managers,700,4.4,1.062,1.01,63.69,132480,1.9
+New Hampshire,Training and Development Managers,240,9.8,0.359,1.37,61.01,126900,1.8
+New Hampshire,Construction Managers,1260,7.7,1.914,0.96,46.8,97340,2.4
+New Hampshire,"Education and Childcare Administrators, Preschool and Daycare",430,14,0.652,1.83,23.57,49030,4.4
+New Hampshire,"Education Administrators, Kindergarten through Secondary",1380,2.8,2.089,1.13,*,92230,1.2
+New Hampshire,"Education Administrators, Postsecondary",**,**,**,**,50.25,104520,2.5
+New Hampshire,"Education Administrators, All Other",70,14.9,0.111,0.37,31.52,65570,5
+New Hampshire,Architectural and Engineering Managers,1550,3.6,2.341,1.77,76.05,158180,1.9
+New Hampshire,Food Service Managers,1130,6.7,1.711,1.07,31.71,65950,2.2
+New Hampshire,Lodging Managers,210,14.5,0.317,1.21,31.79,66120,4.8
+New Hampshire,Medical and Health Services Managers,2170,8.2,3.287,1.22,57.59,119780,2.8
+New Hampshire,Natural Sciences Managers,230,25.3,0.347,0.75,*,*,*
+New Hampshire,Postmasters and Mail Superintendents,170,0,0.251,2.67,35.62,74080,0.6
+New Hampshire,"Property, Real Estate, and Community Association Managers",670,8.3,1.011,0.67,32.11,66790,3
+New Hampshire,Social and Community Service Managers,830,5.9,1.255,1.18,33.69,70070,2
+New Hampshire,Emergency Management Directors,70,12.5,0.1,1.46,34.93,72660,4.9
+New Hampshire,Funeral Home Managers,30,31.6,0.051,0.79,44.46,92490,22.9
+New Hampshire,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",860,7.4,1.297,0.4,64.72,134620,1.9
+New Hampshire,Business and Financial Operations Occupations,31700,1.6,47.992,0.86,35.75,74350,0.9
+New Hampshire,Buyers and Purchasing Agents,2430,4,3.678,1.28,32.8,68230,1.7
+New Hampshire,"Claims Adjusters, Examiners, and Investigators",1190,6.7,1.797,0.92,33.89,70490,2.1
+New Hampshire,"Insurance Appraisers, Auto Damage",40,28.2,0.054,0.57,38.15,79360,2.6
+New Hampshire,Compliance Officers,1420,6.3,2.15,0.99,36.26,75410,2.6
+New Hampshire,Cost Estimators,840,7.9,1.275,0.89,32.1,66770,1.7
+New Hampshire,Human Resources Specialists,2520,3.9,3.811,0.88,30.69,63830,1.4
+New Hampshire,Labor Relations Specialists,120,14.3,0.175,0.34,33.94,70590,7.8
+New Hampshire,Logisticians,850,6.4,1.29,1.04,34.65,72060,1.5
+New Hampshire,Management Analysts,2920,4.8,4.425,0.92,46.15,95980,2.4
+New Hampshire,"Meeting, Convention, and Event Planners",430,11.3,0.657,0.82,24.32,50580,3.6
+New Hampshire,Fundraisers,610,8,0.928,1.67,28.01,58260,2.6
+New Hampshire,"Compensation, Benefits, and Job Analysis Specialists",360,5.7,0.55,0.91,33.41,69480,1.8
+New Hampshire,Training and Development Specialists,1360,5.1,2.06,0.97,32.98,68590,1.9
+New Hampshire,Market Research Analysts and Marketing Specialists,2420,3.7,3.658,0.79,32.82,68260,2
+New Hampshire,"Project Management Specialists and Business Operations Specialists, All Other",3360,3.7,5.088,0.58,36.53,75990,2.5
+New Hampshire,Accountants and Auditors,5670,1.9,8.587,0.98,34.98,72750,1
+New Hampshire,Property Appraisers and Assessors,320,19.5,0.492,1.28,36.18,75260,11.5
+New Hampshire,Budget Analysts,60,12.6,0.088,0.25,36.07,75030,2.3
+New Hampshire,Credit Analysts,140,16.5,0.218,0.43,40.3,83830,3
+New Hampshire,Personal Financial Advisors,1060,6.4,1.6,1.12,49.8,103580,8.5
+New Hampshire,Insurance Underwriters,150,13.6,0.228,0.33,38.81,80720,1.9
+New Hampshire,Financial Examiners,130,3.5,0.201,0.46,43.1,89660,8.1
+New Hampshire,Credit Counselors,430,6.6,0.655,2.99,21.84,45430,1.9
+New Hampshire,Loan Officers,1300,7.7,1.973,0.94,41.31,85910,4.4
+New Hampshire,"Tax Examiners and Collectors, and Revenue Agents",320,3.2,0.482,1.32,26.5,55110,1.4
+New Hampshire,Tax Preparers,250,12.7,0.38,0.84,26.27,54640,8.5
+New Hampshire,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",990,5.3,1.494,0.48,41.06,85410,2.9
+New Hampshire,Computer and Mathematical Occupations,22920,3.3,34.697,1.12,45.36,94350,1.5
+New Hampshire,Computer Systems Analysts,2800,4.9,4.247,1.06,46.32,96340,1.2
+New Hampshire,Information Security Analysts,520,6.8,0.795,0.93,49.41,102770,3.1
+New Hampshire,Computer and Information Research Scientists,50,17.2,0.081,0.39,61.23,127360,3.4
+New Hampshire,Computer Network Support Specialists,470,13.2,0.707,0.56,35.5,73840,3.8
+New Hampshire,Computer User Support Specialists,3080,4.2,4.669,1.06,25.93,53940,1.5
+New Hampshire,Computer Network Architects,410,13.5,0.627,0.6,61.18,127250,2.8
+New Hampshire,Network and Computer Systems Administrators,2270,3,3.438,1.42,43.25,89970,1.5
+New Hampshire,Database Administrators and Architects,420,6.7,0.639,0.75,46.26,96220,1.8
+New Hampshire,Computer Programmers,1370,7.3,2.069,1.52,39.35,81850,4.5
+New Hampshire,Software Developers and Software Quality Assurance Analysts and Testers,8990,5.8,13.613,1.42,52.84,109900,1.7
+New Hampshire,Web Developers and Digital Interface Designers,590,7.9,0.893,0.88,33.76,70220,2
+New Hampshire,"Computer Occupations, All Other",1170,6.9,1.779,0.66,48.11,100070,4.5
+New Hampshire,Operations Research Analysts,550,8.2,0.839,1.24,46.93,97620,2.4
+New Hampshire,Statisticians,80,9.1,0.117,0.44,36.88,76700,2.4
+New Hampshire,"Data Scientists and Mathematical Science Occupations, All Other",50,21.6,0.075,0.36,55.67,115790,7.3
+New Hampshire,Architecture and Engineering Occupations,14150,3,21.424,1.21,41.71,86760,1.4
+New Hampshire,"Architects, Except Landscape and Naval",220,10.1,0.334,0.46,42.42,88230,2.6
+New Hampshire,Cartographers and Photogrammetrists,90,10.4,0.13,1.69,28.22,58700,3
+New Hampshire,Surveyors,220,16.2,0.339,1.1,30.34,63110,2.3
+New Hampshire,Chemical Engineers,60,17.8,0.089,0.43,43.55,90590,5.3
+New Hampshire,Civil Engineers,1350,6.4,2.051,0.97,41.39,86100,2
+New Hampshire,Computer Hardware Engineers,200,11.7,0.308,0.67,58.33,121320,1.9
+New Hampshire,Electrical Engineers,1890,4.1,2.863,2.27,53.21,110670,1.3
+New Hampshire,"Electronics Engineers, Except Computer",500,12.8,0.758,0.86,53.77,111840,1.7
+New Hampshire,Environmental Engineers,250,13.7,0.378,1.04,48.29,100440,3
+New Hampshire,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",60,7.9,0.088,0.5,42.9,89230,3
+New Hampshire,Industrial Engineers,1910,3.4,2.887,1.45,44.19,91920,1.1
+New Hampshire,Materials Engineers,80,7.7,0.122,0.67,46.89,97520,2.2
+New Hampshire,Mechanical Engineers,2660,8.5,4.021,1.92,46.9,97560,2.7
+New Hampshire,"Engineers, All Other",350,7.6,0.525,0.51,50.46,104960,4.2
+New Hampshire,Architectural and Civil Drafters,600,8.6,0.903,1.34,26.8,55740,1.9
+New Hampshire,Electrical and Electronics Drafters,140,11.4,0.208,1.26,31.85,66240,5.6
+New Hampshire,Mechanical Drafters,340,11.8,0.51,1.36,28.56,59410,2
+New Hampshire,Civil Engineering Technologists and Technicians,110,17.1,0.162,0.35,27.32,56820,2.6
+New Hampshire,Electrical and Electronic Engineering Technologists and Technicians,770,5.6,1.17,1.4,28,58240,1.7
+New Hampshire,Electro-Mechanical and Mechatronics Technologists and Technicians,130,9.7,0.201,2.06,30.75,63960,2.6
+New Hampshire,Environmental Engineering Technologists and Technicians,60,30.6,0.089,0.72,27.47,57140,3
+New Hampshire,Industrial Engineering Technologists and Technicians,620,3.4,0.933,2.04,28.3,58860,1.1
+New Hampshire,Mechanical Engineering Technologists and Technicians,700,10.8,1.055,3.62,26.64,55420,1.4
+New Hampshire,Surveying and Mapping Technicians,260,10.2,0.388,1.08,23.13,48120,1.9
+New Hampshire,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",310,10,0.468,0.78,27.61,57440,2.7
+New Hampshire,"Life, Physical, and Social Science Occupations",4850,6.2,7.336,0.84,35.87,74610,2.4
+New Hampshire,Biochemists and Biophysicists,90,7.8,0.14,0.65,46.86,97470,3
+New Hampshire,Microbiologists,150,12.1,0.231,1.86,34.3,71350,3.4
+New Hampshire,Zoologists and Wildlife Biologists,80,4.5,0.124,0.94,30.61,63660,2
+New Hampshire,"Biological Scientists, All Other",100,13.4,0.159,0.58,40.15,83510,1.8
+New Hampshire,Conservation Scientists,70,15.2,0.111,0.74,33.67,70030,2.1
+New Hampshire,Foresters,100,20.5,0.156,2.4,36.07,75020,3.4
+New Hampshire,"Medical Scientists, Except Epidemiologists",330,18.2,0.495,0.57,48.68,101250,14.1
+New Hampshire,Physicists,90,9.8,0.134,1.18,50.94,105950,2.8
+New Hampshire,Atmospheric and Space Scientists,40,26.7,0.056,0.89,32.86,68350,12.2
+New Hampshire,Chemists,220,13.5,0.329,0.58,35.95,74780,2.6
+New Hampshire,Materials Scientists,40,11.5,0.06,1.3,70.45,146540,7.9
+New Hampshire,"Environmental Scientists and Specialists, Including Health",360,7,0.541,0.94,35.48,73800,2.8
+New Hampshire,"Geoscientists, Except Hydrologists and Geographers",100,14.3,0.153,0.77,44.37,92290,6.3
+New Hampshire,Hydrologists,100,23.8,0.153,3.5,44.53,92620,4.5
+New Hampshire,"Physical Scientists, All Other",100,11.2,0.153,1.28,42.75,88930,2.2
+New Hampshire,Economists,30,21,0.046,0.36,33.18,69010,3.4
+New Hampshire,"Clinical, Counseling, and School Psychologists",490,11.2,0.737,0.96,42.79,89000,7.4
+New Hampshire,"Psychologists, All Other",30,13.2,0.046,0.48,45.58,94800,3.6
+New Hampshire,Urban and Regional Planners,230,13.6,0.343,1.31,31.93,66420,1.4
+New Hampshire,Anthropologists and Archeologists,40,17.5,0.064,1.41,30.48,63400,4.5
+New Hampshire,"Social Scientists and Related Workers, All Other",120,18.8,0.178,0.77,36.31,75520,4.6
+New Hampshire,Biological Technicians,580,18.7,0.883,1.63,26.1,54290,3
+New Hampshire,Chemical Technicians,150,10,0.232,0.52,22.62,47050,3.2
+New Hampshire,"Environmental Science and Protection Technicians, Including Health",170,13.7,0.26,1.17,22.98,47790,1.6
+New Hampshire,Social Science Research Assistants,60,23.2,0.094,0.39,22.36,46510,10.6
+New Hampshire,Forest and Conservation Technicians,40,4.7,0.055,0.42,22.02,45810,1.8
+New Hampshire,Forensic Science Technicians,50,0,0.074,0.66,32.95,68530,2.6
+New Hampshire,"Life, Physical, and Social Science Technicians, All Other",90,18.4,0.144,0.33,29.27,60870,5.2
+New Hampshire,Occupational Health and Safety Specialists,540,15.5,0.822,1.3,37.3,77590,1.6
+New Hampshire,Occupational Health and Safety Technicians,40,9.6,0.053,0.38,24.04,50010,2.5
+New Hampshire,Community and Social Service Occupations,9520,2.6,14.411,0.94,23.28,48420,1.3
+New Hampshire,"Educational, Guidance, and Career Counselors and Advisors",2080,5.8,3.147,1.56,26.76,55660,3.4
+New Hampshire,Marriage and Family Therapists,40,30.3,0.064,0.16,22.33,46450,2.8
+New Hampshire,Rehabilitation Counselors,330,14.8,0.496,0.67,23.5,48870,6.5
+New Hampshire,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1790,5.6,2.717,1.41,21.57,44870,2.1
+New Hampshire,"Child, Family, and School Social Workers",720,7.2,1.09,0.49,26.12,54340,3
+New Hampshire,Healthcare Social Workers,570,4.4,0.862,0.72,31.09,64680,1.5
+New Hampshire,Mental Health and Substance Abuse Social Workers,470,11.9,0.705,0.88,28.24,58750,4.9
+New Hampshire,"Social Workers, All Other",**,**,**,**,35.65,74160,2.3
+New Hampshire,Health Education Specialists,240,13.8,0.369,0.92,29.43,61220,4
+New Hampshire,Probation Officers and Correctional Treatment Specialists,190,1.6,0.286,0.48,30.6,63660,1.4
+New Hampshire,Social and Human Service Assistants,2100,5.5,3.179,1.15,15.86,32990,1.4
+New Hampshire,Community Health Workers,210,13.2,0.323,0.81,21.81,45360,7.9
+New Hampshire,"Community and Social Service Specialists, All Other",530,12.6,0.802,1.21,20.28,42170,3.7
+New Hampshire,Clergy,120,7.8,0.174,0.48,29.02,60360,1.9
+New Hampshire,Legal Occupations,3360,3.9,5.083,0.65,47.58,98960,4.2
+New Hampshire,Lawyers,2000,5.7,3.024,0.68,60.68,126220,4.7
+New Hampshire,"Administrative Law Judges, Adjudicators, and Hearing Officers",110,0,0.162,1.65,38.22,79500,1.8
+New Hampshire,Paralegals and Legal Assistants,1120,7.6,1.691,0.75,26.89,55930,2.2
+New Hampshire,"Legal Support Workers, All Other",80,8.5,0.124,0.4,35.81,74480,2.1
+New Hampshire,Educational Instruction and Library Occupations,42960,2.8,65.038,1.07,25.21,52440,3.1
+New Hampshire,"Business Teachers, Postsecondary",550,11.6,0.839,1.47,*,121920,15
+New Hampshire,"Computer Science Teachers, Postsecondary",130,15.3,0.201,0.93,*,109890,10.8
+New Hampshire,"Mathematical Science Teachers, Postsecondary",130,13.6,0.202,0.58,*,82780,6
+New Hampshire,"Engineering Teachers, Postsecondary",140,28.2,0.218,0.89,*,135840,4.7
+New Hampshire,"Biological Science Teachers, Postsecondary",310,24.9,0.477,1.32,*,119750,14.4
+New Hampshire,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",50,16.1,0.078,1.03,*,85190,5.1
+New Hampshire,"Chemistry Teachers, Postsecondary",70,20.1,0.101,0.69,*,102790,11.7
+New Hampshire,"Environmental Science Teachers, Postsecondary",140,35.5,0.206,4.99,*,84070,11
+New Hampshire,"Physics Teachers, Postsecondary",80,23.9,0.121,1.29,*,102030,9.9
+New Hampshire,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",50,30.9,0.073,1.02,*,116200,14.4
+New Hampshire,"Economics Teachers, Postsecondary",80,29.3,0.123,1.37,*,168130,19.6
+New Hampshire,"Political Science Teachers, Postsecondary",100,23.9,0.149,1.39,*,109200,9.7
+New Hampshire,"Psychology Teachers, Postsecondary",230,27.5,0.345,1.35,*,76540,7.1
+New Hampshire,"Sociology Teachers, Postsecondary",50,22.1,0.079,0.84,*,84100,7
+New Hampshire,"Social Sciences Teachers, Postsecondary, All Other",60,2.5,0.09,0.79,*,66900,13.7
+New Hampshire,"Health Specialties Teachers, Postsecondary",520,22.4,0.79,0.57,*,106170,14.7
+New Hampshire,"Nursing Instructors and Teachers, Postsecondary",170,18.8,0.257,0.63,*,72890,2.9
+New Hampshire,"Education Teachers, Postsecondary",330,16.6,0.507,1.21,*,75910,5.6
+New Hampshire,"Criminal Justice and Law Enforcement Teachers, Postsecondary",60,18.1,0.091,0.95,*,70240,3.8
+New Hampshire,"Art, Drama, and Music Teachers, Postsecondary",300,18.6,0.457,0.71,*,84150,6
+New Hampshire,"Communications Teachers, Postsecondary",60,21.2,0.098,0.5,*,82370,5.5
+New Hampshire,"English Language and Literature Teachers, Postsecondary",330,18,0.496,1.07,*,80000,6.5
+New Hampshire,"Foreign Language and Literature Teachers, Postsecondary",240,26.7,0.367,2.17,*,84160,9.4
+New Hampshire,"History Teachers, Postsecondary",110,23.1,0.159,1.11,*,92900,7.1
+New Hampshire,"Philosophy and Religion Teachers, Postsecondary",130,24,0.192,1.2,*,86460,8.4
+New Hampshire,"Career/Technical Education Teachers, Postsecondary",340,11.6,0.509,0.67,27.43,57050,7.6
+New Hampshire,"Postsecondary Teachers, All Other",170,12.7,0.26,0.19,*,93250,11.2
+New Hampshire,"Preschool Teachers, Except Special Education",3200,5.3,4.844,1.65,15.08,31360,1.5
+New Hampshire,"Kindergarten Teachers, Except Special Education",450,6.8,0.683,0.81,*,58030,1.8
+New Hampshire,"Elementary School Teachers, Except Special Education",6070,6.5,9.197,0.94,*,59930,1.6
+New Hampshire,"Middle School Teachers, Except Special and Career/Technical Education",3100,7.9,4.693,1.11,*,60290,1.3
+New Hampshire,"Career/Technical Education Teachers, Middle School",50,17.9,0.08,0.99,*,61980,3.7
+New Hampshire,"Secondary School Teachers, Except Special and Career/Technical Education",5000,5.3,7.567,1.07,*,60720,1.3
+New Hampshire,"Career/Technical Education Teachers, Secondary School",320,12,0.488,0.96,*,61900,2.1
+New Hampshire,"Special Education Teachers, Kindergarten and Elementary School",1090,6.8,1.645,1.25,*,60050,1.4
+New Hampshire,"Special Education Teachers, Middle School",510,13.4,0.777,1.33,*,55220,2.4
+New Hampshire,"Special Education Teachers, Secondary School",610,9,0.918,0.94,*,61560,1.3
+New Hampshire,"Special Education Teachers, All Other",160,26.1,0.248,1.02,*,44960,4
+New Hampshire,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",310,25.2,0.464,1.31,25.94,53960,5.9
+New Hampshire,Self-Enrichment Teachers,1230,10.7,1.861,1.08,24.65,51270,4.6
+New Hampshire,"Substitute Teachers, Short-Term",2570,8.8,3.889,0.97,11.92,24780,1.6
+New Hampshire,"Tutors and Teachers and Instructors, All Other",680,8.2,1.027,0.47,*,45550,5.4
+New Hampshire,Curators,90,20.4,0.131,1.49,24.45,50850,4.1
+New Hampshire,Librarians and Media Collections Specialists,1070,4.7,1.621,1.76,26.97,56100,1.8
+New Hampshire,Library Technicians,660,7.3,1.003,1.66,17.95,37340,1.2
+New Hampshire,Instructional Coordinators,740,8.7,1.113,0.93,32.15,66870,3.1
+New Hampshire,"Teaching Assistants, Postsecondary",60,22.9,0.094,0.1,*,35370,4.9
+New Hampshire,"Teaching Assistants, Except Postsecondary",9600,3.6,14.533,1.58,*,31800,1.2
+New Hampshire,"Educational Instruction and Library Workers, All Other",280,30.7,0.422,0.48,18.71,38920,7.9
+New Hampshire,"Arts, Design, Entertainment, Sports, and Media Occupations",7180,4.4,10.864,0.79,24.54,51030,1.8
+New Hampshire,Art Directors,100,14.7,0.152,0.52,44.42,92400,3.2
+New Hampshire,Craft Artists,50,26.5,0.071,2.24,14.98,31160,5.5
+New Hampshire,"Fine Artists, Including Painters, Sculptors, and Illustrators",50,36.5,0.076,0.91,26.83,55800,10
+New Hampshire,Commercial and Industrial Designers,110,13.4,0.163,0.73,30.87,64210,4.8
+New Hampshire,Fashion Designers,100,10.6,0.159,1.06,39.08,81280,9.3
+New Hampshire,Floral Designers,230,15.9,0.352,1.24,15.74,32730,2.6
+New Hampshire,Graphic Designers,820,8.6,1.241,0.84,25.81,53680,2.5
+New Hampshire,Interior Designers,200,26.9,0.301,0.73,31.09,64670,6.4
+New Hampshire,Merchandise Displayers and Window Trimmers,400,4.9,0.607,0.63,16.85,35040,2.1
+New Hampshire,Set and Exhibit Designers,40,29.1,0.063,0.77,25.88,53820,3.6
+New Hampshire,Producers and Directors,230,14.3,0.349,0.4,30.47,63380,4.2
+New Hampshire,Coaches and Scouts,1350,10.1,2.042,1.24,*,39050,6.3
+New Hampshire,"Umpires, Referees, and Other Sports Officials",170,48.3,0.258,1.88,*,41400,7
+New Hampshire,Broadcast Announcers and Radio Disc Jockeys,120,28.6,0.177,0.89,16.31,33920,7.1
+New Hampshire,"News Analysts, Reporters, and Journalists",170,24.6,0.26,0.87,21.76,45260,10
+New Hampshire,Public Relations Specialists,1100,6.2,1.658,0.99,28.33,58920,1.7
+New Hampshire,Editors,310,12.7,0.473,0.72,28.05,58340,3.7
+New Hampshire,Technical Writers,170,14.1,0.252,0.73,38.78,80670,3.2
+New Hampshire,Writers and Authors,310,10.4,0.471,1.51,28.86,60030,3
+New Hampshire,Interpreters and Translators,230,5.9,0.342,0.85,23.38,48640,3.9
+New Hampshire,Audio and Video Technicians,120,25.8,0.182,0.36,22.14,46050,5.8
+New Hampshire,Broadcast Technicians,110,23.7,0.174,0.89,*,*,*
+New Hampshire,Photographers,150,13.1,0.223,0.65,18.85,39210,5
+New Hampshire,"Camera Operators, Television, Video, and Film",100,13.1,0.156,1.06,16.03,33340,3.5
+New Hampshire,Film and Video Editors,**,**,**,**,31.51,65550,12.4
+New Hampshire,"Lighting Technicians and Media and Communication Equipment Workers, All Other",70,25.4,0.11,0.69,26.39,54900,6.8
+New Hampshire,Healthcare Practitioners and Technical Occupations,40290,1.6,61.001,1.03,43,89440,2.8
+New Hampshire,Chiropractors,130,12.2,0.192,0.81,39.3,81750,9.4
+New Hampshire,"Dentists, General",450,14.2,0.678,0.9,103.66,215600,7.1
+New Hampshire,Dietitians and Nutritionists,330,6.5,0.5,1.08,29.48,61320,1.8
+New Hampshire,Optometrists,210,17.2,0.316,1.18,62.43,129850,4
+New Hampshire,Pharmacists,1280,6,1.938,0.91,62.2,129370,1.2
+New Hampshire,Physician Assistants,670,6.6,1.022,1.25,55.96,116400,1.2
+New Hampshire,Podiatrists,30,1,0.047,0.71,88.17,183400,8.9
+New Hampshire,Occupational Therapists,960,7.6,1.456,1.6,39.01,81140,0.9
+New Hampshire,Physical Therapists,1250,5.9,1.887,1.19,40.68,84610,0.8
+New Hampshire,Radiation Therapists,100,0,0.147,1.21,42.9,89230,1.3
+New Hampshire,Recreational Therapists,50,4.8,0.07,0.54,24.79,51550,2.3
+New Hampshire,Respiratory Therapists,450,7.3,0.679,0.76,32.54,67680,1
+New Hampshire,Speech-Language Pathologists,750,6.9,1.134,1.08,36.83,76610,1.5
+New Hampshire,Exercise Physiologists,50,5.6,0.068,1.38,26.22,54530,2.3
+New Hampshire,Veterinarians,510,7.4,0.766,1.51,54.55,113460,3.1
+New Hampshire,Registered Nurses,14320,2,21.674,1.07,35.52,73880,1.1
+New Hampshire,Nurse Anesthetists,170,22.7,0.26,0.88,94.23,196000,4.6
+New Hampshire,Nurse Midwives,70,13.9,0.1,2.12,51.95,108050,1.6
+New Hampshire,Nurse Practitioners,1090,5.2,1.657,1.21,53.21,110680,1.4
+New Hampshire,Audiologists,70,28.9,0.102,1.1,34.31,71350,3.9
+New Hampshire,Anesthesiologists,120,25,0.181,0.86,#,#,14.8
+New Hampshire,Family Medicine Physicians,800,5.6,1.208,1.62,126.26,262620,5.5
+New Hampshire,General Internal Medicine Physicians,150,16.3,0.226,0.74,115.98,241240,11.1
+New Hampshire,Obstetricians and Gynecologists,100,20.2,0.151,1.19,121.5,252720,10.1
+New Hampshire,"Pediatricians, General",250,14.1,0.374,1.85,113.78,236670,7.5
+New Hampshire,Psychiatrists,120,12.5,0.181,1.04,123.3,256460,11.2
+New Hampshire,"Physicians, All Other; and Ophthalmologists, Except Pediatric",1220,6.6,1.842,0.69,123.66,257220,8.5
+New Hampshire,"Surgeons, Except Ophthalmologists",440,13.6,0.669,2.71,#,#,7
+New Hampshire,Dental Hygienists,1510,6.9,2.285,1.52,39.16,81460,2
+New Hampshire,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",200,8.2,0.296,1.19,41.57,86470,8.9
+New Hampshire,Clinical Laboratory Technologists and Technicians,730,3,1.11,0.5,29.9,62190,1.9
+New Hampshire,Cardiovascular Technologists and Technicians,330,12.6,0.504,1.32,31.13,64740,1.7
+New Hampshire,Diagnostic Medical Sonographers,250,4.6,0.382,0.77,38.89,80880,1.3
+New Hampshire,Nuclear Medicine Technologists,70,7,0.102,0.83,39.82,82830,1.7
+New Hampshire,Radiologic Technologists and Technicians,1070,7,1.617,1.15,31.02,64530,1
+New Hampshire,Magnetic Resonance Imaging Technologists,330,12,0.506,1.96,37.08,77130,1.4
+New Hampshire,Emergency Medical Technicians and Paramedics,1200,8.7,1.814,1.02,18.13,37710,2
+New Hampshire,Dietetic Technicians,90,11.1,0.13,0.65,14.53,30220,2
+New Hampshire,Pharmacy Technicians,1870,6.4,2.826,0.99,16.05,33380,1.4
+New Hampshire,Surgical Technologists,450,6.5,0.687,0.93,24.43,50820,1.5
+New Hampshire,Veterinary Technologists and Technicians,820,5.6,1.244,1.65,17.71,36840,2.1
+New Hampshire,Ophthalmic Medical Technicians,**,**,**,**,20.62,42880,1.7
+New Hampshire,Licensed Practical and Licensed Vocational Nurses,2050,4.9,3.108,0.65,26.07,54220,0.9
+New Hampshire,"Opticians, Dispensing",440,15.2,0.665,1.35,20.29,42210,2.2
+New Hampshire,Orthotists and Prosthetists,40,30.4,0.059,0.88,39.97,83140,4.8
+New Hampshire,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",1290,4.1,1.955,0.87,21.68,45080,1.7
+New Hampshire,Athletic Trainers,240,17.3,0.357,1.83,*,51110,2.1
+New Hampshire,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",400,8.2,0.604,1.63,30.44,63310,3.5
+New Hampshire,Healthcare Support Occupations,24320,2.3,36.82,0.83,16.28,33850,0.9
+New Hampshire,Home Health and Personal Care Aides,8260,4,12.512,0.58,13.22,27500,1
+New Hampshire,Nursing Assistants,8140,4.6,12.331,1.28,16.07,33430,0.7
+New Hampshire,Orderlies,120,2.3,0.185,0.58,15.55,32340,2.7
+New Hampshire,Psychiatric Aides,370,28.6,0.559,1.49,18.53,38540,1.3
+New Hampshire,Occupational Therapy Assistants,200,13.6,0.297,0.97,28.2,58650,1.6
+New Hampshire,Physical Therapist Assistants,330,8.5,0.495,0.75,29.58,61520,1.2
+New Hampshire,Physical Therapist Aides,130,11,0.195,0.58,15.39,32010,2.3
+New Hampshire,Massage Therapists,460,16.2,0.69,0.95,24.11,50150,7.4
+New Hampshire,Dental Assistants,1350,6.4,2.038,0.85,23.69,49280,2.2
+New Hampshire,Medical Assistants,2770,4.6,4.192,0.86,17.97,37370,0.7
+New Hampshire,Medical Equipment Preparers,340,4.2,0.513,1.32,18.36,38190,1.2
+New Hampshire,Medical Transcriptionists,260,18.5,0.39,1.03,17.03,35430,6.8
+New Hampshire,Pharmacy Aides,120,46.9,0.184,0.72,13.49,28070,2.9
+New Hampshire,Veterinary Assistants and Laboratory Animal Caretakers,380,19.3,0.57,0.86,13.67,28430,2.8
+New Hampshire,Phlebotomists,740,6,1.116,1.28,18.29,38040,1
+New Hampshire,"Healthcare Support Workers, All Other",360,14.1,0.544,0.86,17.01,35380,3.8
+New Hampshire,Protective Service Occupations,11980,3.5,18.133,0.76,24.6,51180,1.6
+New Hampshire,First-Line Supervisors of Correctional Officers,90,28.3,0.136,0.43,33.23,69110,2.4
+New Hampshire,First-Line Supervisors of Police and Detectives,580,4.1,0.881,1.07,41.55,86430,1
+New Hampshire,First-Line Supervisors of Firefighting and Prevention Workers,470,8,0.714,1.51,34.12,70960,1.7
+New Hampshire,"Miscellaneous First-Line Supervisors, Protective Service Workers",190,8.2,0.287,0.51,30.86,64180,2.9
+New Hampshire,Firefighters,2530,5.5,3.826,1.73,22.65,47120,2.3
+New Hampshire,Fire Inspectors and Investigators,40,11,0.058,0.62,29.92,62240,2.5
+New Hampshire,Forest Fire Inspectors and Prevention Specialists,30,0.7,0.047,3.21,19.11,39750,3
+New Hampshire,Bailiffs,40,18.2,0.058,0.43,14.96,31110,6.1
+New Hampshire,Correctional Officers and Jailers,1070,19.6,1.617,0.56,22.6,47000,2.2
+New Hampshire,Detectives and Criminal Investigators,370,2.5,0.559,0.78,38.63,80340,1.2
+New Hampshire,Parking Enforcement Workers,50,10.4,0.083,1.6,17.73,36870,2.1
+New Hampshire,Police and Sheriff's Patrol Officers,2950,2.6,4.461,0.98,28.28,58820,0.9
+New Hampshire,Animal Control Workers,40,9.4,0.068,0.83,19.51,40590,2.2
+New Hampshire,Private Detectives and Investigators,150,15.6,0.225,0.94,27.94,58110,8.2
+New Hampshire,Security Guards,2200,11.8,3.337,0.44,18.22,37900,3.9
+New Hampshire,Crossing Guards and Flaggers,450,13.5,0.688,1.19,15.19,31600,1.9
+New Hampshire,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",260,12.1,0.396,0.4,12.21,25390,1.9
+New Hampshire,Transportation Security Screeners,110,0,0.173,0.54,21.35,44420,3.8
+New Hampshire,"School Bus Monitors and Protective Service Workers, All Other",300,26.2,0.457,0.46,14.57,30310,4.5
+New Hampshire,Food Preparation and Serving Related Occupations,58310,1.3,88.282,0.96,12.97,26970,0.9
+New Hampshire,Chefs and Head Cooks,760,12.6,1.154,1.32,27.55,57300,5.2
+New Hampshire,First-Line Supervisors of Food Preparation and Serving Workers,3860,4.6,5.85,0.85,18.84,39190,1.6
+New Hampshire,"Cooks, Fast Food",1770,14.7,2.673,0.74,11.66,24260,3.9
+New Hampshire,"Cooks, Institution and Cafeteria",1550,5,2.345,0.86,16.41,34130,1.3
+New Hampshire,"Cooks, Restaurant",6290,4.9,9.524,1,15.11,31420,1.3
+New Hampshire,"Cooks, Short Order",2380,19.5,3.597,3.46,12.45,25900,2.8
+New Hampshire,Food Preparation Workers,3060,8.3,4.637,0.79,12.63,26280,1.3
+New Hampshire,Bartenders,4170,7.6,6.306,1.43,12.56,26130,4
+New Hampshire,Fast Food and Counter Workers,14350,4.6,21.72,0.8,10.77,22390,0.9
+New Hampshire,Waiters and Waitresses,12390,4,18.757,1.07,12.82,26660,2.3
+New Hampshire,"Food Servers, Nonrestaurant",1190,6.9,1.796,0.95,12.17,25300,1.5
+New Hampshire,Dining Room and Cafeteria Attendants and Bartender Helpers,1810,8.3,2.736,0.84,10.52,21880,2.5
+New Hampshire,Dishwashers,2610,7,3.955,1.13,11.14,23170,1.5
+New Hampshire,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",1940,8.9,2.936,1.02,11.67,24260,1.8
+New Hampshire,"Food Preparation and Serving Related Workers, All Other",190,25.2,0.287,0.58,12.01,24970,3.3
+New Hampshire,Building and Grounds Cleaning and Maintenance Occupations,21860,2.7,33.092,1.1,15.53,32300,1
+New Hampshire,First-Line Supervisors of Housekeeping and Janitorial Workers,700,8.6,1.067,1.01,21.8,45340,3
+New Hampshire,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",770,10.7,1.16,1.64,25.91,53880,2.7
+New Hampshire,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",10060,4.4,15.236,1.04,14.55,30260,1.3
+New Hampshire,Maids and Housekeeping Cleaners,3620,6.1,5.474,0.87,13.07,27180,1.6
+New Hampshire,"Building Cleaning Workers, All Other",**,**,**,**,17.1,35570,6.4
+New Hampshire,Pest Control Workers,280,27.9,0.421,0.78,20.46,42550,3.3
+New Hampshire,Landscaping and Groundskeeping Workers,5870,3.9,8.881,1.43,15.98,33240,1.4
+New Hampshire,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",100,30.9,0.157,0.89,20.76,43190,8.3
+New Hampshire,Tree Trimmers and Pruners,340,19.4,0.52,1.62,19.98,41560,3.9
+New Hampshire,Personal Care and Service Occupations,14700,3.4,22.251,0.99,15.13,31480,1.5
+New Hampshire,First-Line Supervisors of Gambling Services Workers,40,18.7,0.063,0.32,21.41,44520,6.4
+New Hampshire,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",990,6.7,1.493,1.01,20.47,42570,1.8
+New Hampshire,Animal Trainers,120,21.6,0.176,1.56,16.73,34800,6.1
+New Hampshire,Animal Caretakers,1280,8.4,1.94,1.34,12.37,25720,2.2
+New Hampshire,Gambling Dealers,300,19.1,0.457,0.68,11.57,24060,13
+New Hampshire,"Ushers, Lobby Attendants, and Ticket Takers",200,24,0.301,0.32,9.65,20070,3.1
+New Hampshire,Amusement and Recreation Attendants,1550,9,2.34,1.02,10.68,22210,1.9
+New Hampshire,"Locker Room, Coatroom, and Dressing Room Attendants",**,**,**,**,8.76,18220,7
+New Hampshire,Funeral Attendants,100,9.2,0.155,0.66,16.54,34410,4
+New Hampshire,"Morticians, Undertakers, and Funeral Arrangers",110,20.5,0.159,0.92,36.57,76070,6.1
+New Hampshire,"Hairdressers, Hairstylists, and Cosmetologists",2610,11.5,3.959,1.51,14.26,29660,4.7
+New Hampshire,Manicurists and Pedicurists,470,21,0.717,0.94,17.92,37280,4
+New Hampshire,Skincare Specialists,300,27.8,0.459,1.19,15.77,32810,8.5
+New Hampshire,Concierges,30,7.4,0.046,0.16,14.89,30970,4.5
+New Hampshire,Tour and Travel Guides,200,14.8,0.298,0.9,12.39,25770,2.9
+New Hampshire,Childcare Workers,1910,12.2,2.891,0.76,12.12,25200,2.5
+New Hampshire,Exercise Trainers and Group Fitness Instructors,1740,10.7,2.639,1.19,22.13,46030,2.4
+New Hampshire,Recreation Workers,2270,5.4,3.432,1.4,14.95,31100,2.2
+New Hampshire,Residential Advisors,330,10.3,0.495,0.67,16.06,33410,2.7
+New Hampshire,"Crematory Operators and Personal Care and Service Workers, All Other",40,46.5,0.06,0.14,12.54,26080,13.9
+New Hampshire,Sales and Related Occupations,76470,1.5,115.773,1.18,20.6,42860,1.3
+New Hampshire,First-Line Supervisors of Retail Sales Workers,6730,2.5,10.195,1.28,23.36,48600,1.6
+New Hampshire,First-Line Supervisors of Non-Retail Sales Workers,1620,5.1,2.448,1.44,46.16,96010,2.6
+New Hampshire,Cashiers,21500,4.3,32.549,1.33,11.32,23550,0.7
+New Hampshire,Counter and Rental Clerks,2260,7,3.42,1.22,17.37,36120,2.2
+New Hampshire,Parts Salespersons,1440,9,2.175,1.25,17.35,36090,3
+New Hampshire,Retail Salespersons,24400,3,36.94,1.26,14.24,29620,1.7
+New Hampshire,Advertising Sales Agents,410,16.1,0.627,0.71,27.19,56550,7.4
+New Hampshire,Insurance Sales Agents,1310,6.7,1.98,0.71,36.08,75050,4.3
+New Hampshire,"Securities, Commodities, and Financial Services Sales Agents",1240,12,1.873,0.63,45.99,95670,6.9
+New Hampshire,Travel Agents,230,13.7,0.35,0.77,25.47,52980,4.4
+New Hampshire,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",4220,4.7,6.396,0.9,33.01,68670,2.2
+New Hampshire,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",2590,6.7,3.919,1.88,49.78,103540,3
+New Hampshire,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",6710,4.7,10.154,1.11,35.94,74750,2.2
+New Hampshire,Demonstrators and Product Promoters,170,13.1,0.261,0.49,19.04,39600,11.5
+New Hampshire,Real Estate Brokers,80,46.5,0.119,0.41,37.56,78120,10.8
+New Hampshire,Real Estate Sales Agents,260,14.2,0.395,0.36,24.03,49970,5.3
+New Hampshire,Sales Engineers,530,22.2,0.797,1.84,57.81,120250,4.5
+New Hampshire,Telemarketers,430,11.6,0.652,0.71,18.66,38800,10
+New Hampshire,"Sales and Related Workers, All Other",320,9.5,0.483,0.6,20.5,42640,3.8
+New Hampshire,Office and Administrative Support Occupations,93790,1,141.996,1.07,20.1,41820,0.4
+New Hampshire,First-Line Supervisors of Office and Administrative Support Workers,7690,2,11.648,1.15,29.56,61490,0.8
+New Hampshire,"Switchboard Operators, Including Answering Service",320,10.6,0.49,1.06,14.94,31070,4.3
+New Hampshire,Bill and Account Collectors,1170,6,1.769,1.1,18.56,38610,3.1
+New Hampshire,Billing and Posting Clerks,2290,6.5,3.462,1.09,20.19,42000,1.2
+New Hampshire,"Bookkeeping, Accounting, and Auditing Clerks",8040,2.7,12.167,1.18,20.37,42370,0.8
+New Hampshire,Payroll and Timekeeping Clerks,710,6.5,1.076,1.11,23.47,48820,1.6
+New Hampshire,Procurement Clerks,300,4.6,0.45,1,19.28,40100,2
+New Hampshire,Tellers,1640,5.3,2.483,0.82,15.34,31910,1.4
+New Hampshire,"Financial Clerks, All Other",110,16,0.163,0.79,20.64,42940,3.2
+New Hampshire,Brokerage Clerks,420,10.4,0.634,1.94,25.89,53860,2.3
+New Hampshire,"Court, Municipal, and License Clerks",480,3.9,0.731,0.7,19.6,40760,1.2
+New Hampshire,"Credit Authorizers, Checkers, and Clerks",120,10.3,0.183,1.01,21.79,45330,2.1
+New Hampshire,Customer Service Representatives,11660,2.6,17.655,0.89,19.32,40200,1
+New Hampshire,"Eligibility Interviewers, Government Programs",550,4.8,0.827,0.87,20.44,42510,1.2
+New Hampshire,File Clerks,320,10.7,0.479,0.69,14.83,30840,2.9
+New Hampshire,"Hotel, Motel, and Resort Desk Clerks",1390,13.1,2.11,1.16,13.02,27080,2.2
+New Hampshire,"Interviewers, Except Eligibility and Loan",1510,3.6,2.292,1.78,18.92,39360,1.6
+New Hampshire,"Library Assistants, Clerical",930,4.4,1.415,2.42,12.92,26880,0.9
+New Hampshire,Loan Interviewers and Clerks,800,8.6,1.21,0.85,20.17,41940,1.6
+New Hampshire,New Accounts Clerks,480,15,0.723,2.45,17.64,36690,2.3
+New Hampshire,Order Clerks,540,9.7,0.82,0.88,18.68,38850,3.1
+New Hampshire,"Human Resources Assistants, Except Payroll and Timekeeping",670,4.9,1.01,1.26,19.48,40530,1.4
+New Hampshire,Receptionists and Information Clerks,4980,3.6,7.545,1.05,14.95,31090,1.3
+New Hampshire,Reservation and Transportation Ticket Agents and Travel Clerks,280,14.1,0.426,0.51,13.73,28570,2.2
+New Hampshire,"Information and Record Clerks, All Other",310,7.2,0.475,0.45,19.21,39960,3
+New Hampshire,Cargo and Freight Agents,240,22,0.362,0.56,24.53,51020,4.8
+New Hampshire,Couriers and Messengers,250,6.1,0.382,0.75,13.45,27990,2.8
+New Hampshire,Public Safety Telecommunicators,680,5.9,1.032,1.59,22.1,45960,0.8
+New Hampshire,"Dispatchers, Except Police, Fire, and Ambulance",630,6.2,0.955,0.7,22.19,46160,1.9
+New Hampshire,"Meter Readers, Utilities",50,12.7,0.071,0.34,26.88,55900,8.5
+New Hampshire,Postal Service Clerks,590,0,0.887,1.61,23.9,49710,0.4
+New Hampshire,Postal Service Mail Carriers,1590,0,2.407,1.04,24.75,51490,0.7
+New Hampshire,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",650,0,0.987,1.42,24.11,50150,2.1
+New Hampshire,"Production, Planning, and Expediting Clerks",1630,3.4,2.474,0.98,25.8,53670,1.3
+New Hampshire,"Shipping, Receiving, and Inventory Clerks",3240,3,4.906,1.02,17.55,36510,0.9
+New Hampshire,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",240,10,0.367,0.89,19.93,41460,3.5
+New Hampshire,Executive Secretaries and Executive Administrative Assistants,1530,4.8,2.314,0.63,29.63,61630,1.3
+New Hampshire,Legal Secretaries and Administrative Assistants,570,14.7,0.867,0.76,23.27,48410,3
+New Hampshire,Medical Secretaries and Administrative Assistants,3670,5.6,5.557,1.35,19.22,39970,1.2
+New Hampshire,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",10690,2.7,16.192,1.17,18.54,38570,0.5
+New Hampshire,Data Entry Keyers,1020,8.1,1.549,1.42,16.39,34090,3
+New Hampshire,Word Processors and Typists,100,21,0.153,0.47,17.4,36190,4.2
+New Hampshire,Desktop Publishers,40,12.7,0.06,1,23.75,49410,3.2
+New Hampshire,Insurance Claims and Policy Processing Clerks,1240,6.1,1.883,1.08,21.95,45650,1.7
+New Hampshire,"Mail Clerks and Mail Machine Operators, Except Postal Service",320,14.1,0.486,0.85,15.81,32890,2
+New Hampshire,"Office Clerks, General",16050,2.1,24.299,1.21,19.26,40060,0.6
+New Hampshire,"Office Machine Operators, Except Computer",460,15.2,0.698,2.23,14.91,31010,3.2
+New Hampshire,Proofreaders and Copy Markers,40,21.6,0.066,1.25,17.77,36960,5.4
+New Hampshire,Statistical Assistants,50,23.7,0.069,1.04,20.61,42860,4.5
+New Hampshire,"Office and Administrative Support Workers, All Other",440,13.1,0.672,0.52,14.68,30530,8.5
+New Hampshire,"Farming, Fishing, and Forestry Occupations",810,10.2,1.229,0.37,17.5,36400,3.1
+New Hampshire,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",50,20.2,0.078,0.5,21.71,45150,5.9
+New Hampshire,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",250,17.2,0.373,0.19,14.6,30370,2.8
+New Hampshire,"Farmworkers, Farm, Ranch, and Aquacultural Animals",160,18.8,0.242,0.97,14.87,30920,3.5
+New Hampshire,Logging Equipment Operators,230,14.7,0.35,1.97,20.96,43590,4.3
+New Hampshire,Log Graders and Scalers,70,49.5,0.11,4.92,19.38,40310,3.7
+New Hampshire,Construction and Extraction Occupations,22600,2.4,34.215,0.81,24.08,50090,1.1
+New Hampshire,First-Line Supervisors of Construction Trades and Extraction Workers,2510,4.5,3.793,0.89,33.12,68890,1.7
+New Hampshire,Brickmasons and Blockmasons,230,16.8,0.35,0.85,23.37,48600,3.1
+New Hampshire,Stonemasons,150,36,0.233,2.76,21.24,44170,3.7
+New Hampshire,Carpenters,3380,6,5.124,1.03,23.83,49560,1.5
+New Hampshire,Carpet Installers,70,18.7,0.1,0.57,19.38,40320,3.7
+New Hampshire,Floor Sanders and Finishers,60,36.9,0.093,2.77,19.89,41370,4.1
+New Hampshire,Tile and Stone Setters,100,41.2,0.152,0.55,25.44,52920,4.6
+New Hampshire,Cement Masons and Concrete Finishers,260,16.3,0.391,0.29,24.4,50750,4.6
+New Hampshire,Construction Laborers,3000,6.2,4.544,0.65,19.62,40820,2
+New Hampshire,"Paving, Surfacing, and Tamping Equipment Operators",150,28.4,0.232,0.75,21.95,45670,3.2
+New Hampshire,Operating Engineers and Other Construction Equipment Operators,1200,8.2,1.815,0.66,24.7,51370,1.9
+New Hampshire,Drywall and Ceiling Tile Installers,250,15.5,0.384,0.55,18.73,38960,5.7
+New Hampshire,Electricians,2690,7.1,4.076,0.87,26.81,55770,1.8
+New Hampshire,Glaziers,260,24.6,0.396,1.11,19.84,41280,3.4
+New Hampshire,"Insulation Workers, Floor, Ceiling, and Wall",320,24.7,0.481,2.11,19.27,40090,4.1
+New Hampshire,"Painters, Construction and Maintenance",790,7.4,1.193,0.75,20.16,41940,2.8
+New Hampshire,Pipelayers,90,6.6,0.13,0.53,24.61,51200,4
+New Hampshire,"Plumbers, Pipefitters, and Steamfitters",1720,10.4,2.609,0.87,26.63,55390,2.7
+New Hampshire,Plasterers and Stucco Masons,70,43,0.108,0.58,21.95,45660,12.3
+New Hampshire,Roofers,240,15.2,0.366,0.41,19.22,39990,4.1
+New Hampshire,Sheet Metal Workers,510,18.2,0.773,0.86,23.98,49870,2
+New Hampshire,Structural Iron and Steel Workers,250,32.4,0.377,0.72,21.83,45410,2.4
+New Hampshire,Solar Photovoltaic Installers,**,**,**,**,22.6,47020,8
+New Hampshire,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",90,27,0.14,0.88,18.63,38740,4
+New Hampshire,Helpers--Carpenters,110,34,0.164,0.73,15.09,31390,4.8
+New Hampshire,Helpers--Electricians,90,49.6,0.132,0.25,14.89,30970,8.9
+New Hampshire,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",180,24,0.272,0.68,16.37,34060,5.1
+New Hampshire,"Helpers, Construction Trades, All Other",70,40,0.107,0.55,15.34,31900,4.5
+New Hampshire,Construction and Building Inspectors,420,11.6,0.639,0.85,28.62,59540,2
+New Hampshire,Fence Erectors,**,**,**,**,17.56,36520,2.6
+New Hampshire,Hazardous Materials Removal Workers,**,**,**,**,22.52,46840,4.5
+New Hampshire,Highway Maintenance Workers,1630,2.3,2.471,2.41,18.63,38750,0.8
+New Hampshire,Rail-Track Laying and Maintenance Equipment Operators,30,21,0.052,0.47,18.97,39460,5.5
+New Hampshire,Septic Tank Servicers and Sewer Pipe Cleaners,190,28.4,0.287,1.42,20.16,41940,3.2
+New Hampshire,Miscellaneous Construction and Related Workers,90,30.9,0.137,0.63,24.9,51790,2.9
+New Hampshire,"Excavating and Loading Machine and Dragline Operators, Surface Mining",330,28.8,0.492,1.64,20.49,42610,6.5
+New Hampshire,Helpers--Extraction Workers,60,25.4,0.091,0.8,18.27,38000,3
+New Hampshire,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",100,33.5,0.157,0.93,26.05,54190,4
+New Hampshire,"Installation, Maintenance, and Repair Occupations",24500,2,37.091,0.95,25.09,52190,0.7
+New Hampshire,"First-Line Supervisors of Mechanics, Installers, and Repairers",2190,4.3,3.316,1,35.87,74610,1.2
+New Hampshire,"Computer, Automated Teller, and Office Machine Repairers",570,10.8,0.859,1.28,23.43,48730,2.1
+New Hampshire,"Radio, Cellular, and Tower Equipment Installers and Repairers",**,**,**,**,24.97,51940,7
+New Hampshire,"Telecommunications Equipment Installers and Repairers, Except Line Installers",730,11.2,1.1,0.78,33.04,68720,4.7
+New Hampshire,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",400,16.1,0.601,1.5,28.31,58890,3.1
+New Hampshire,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",80,21.9,0.124,0.8,33.62,69930,6.1
+New Hampshire,Audiovisual Equipment Installers and Repairers,120,33.4,0.182,1.05,17.35,36090,9.4
+New Hampshire,Security and Fire Alarm Systems Installers,330,11.6,0.501,1.03,24.65,51280,5.6
+New Hampshire,Aircraft Mechanics and Service Technicians,390,29.3,0.588,0.65,28.19,58630,5.6
+New Hampshire,Automotive Body and Related Repairers,700,12.2,1.054,1.07,21.71,45160,3.2
+New Hampshire,Automotive Glass Installers and Repairers,150,20.7,0.23,1.74,19.18,39900,5.6
+New Hampshire,Automotive Service Technicians and Mechanics,3550,5.8,5.381,1.21,22.35,46480,1.7
+New Hampshire,Bus and Truck Mechanics and Diesel Engine Specialists,990,9.9,1.505,0.83,25.78,53620,2.1
+New Hampshire,Farm Equipment Mechanics and Service Technicians,50,29.3,0.081,0.33,19.55,40670,6.5
+New Hampshire,"Mobile Heavy Equipment Mechanics, Except Engines",540,10.2,0.824,0.82,25.65,53350,2.4
+New Hampshire,Motorboat Mechanics and Service Technicians,160,31,0.241,1.54,20.41,42450,3.2
+New Hampshire,Motorcycle Mechanics,210,19.8,0.318,3,22.46,46720,4
+New Hampshire,Outdoor Power Equipment and Other Small Engine Mechanics,230,25.7,0.354,1.62,20.18,41970,3.5
+New Hampshire,Bicycle Repairers,100,20.8,0.155,1.73,14.44,30040,2
+New Hampshire,Recreational Vehicle Service Technicians,70,45.5,0.113,1.07,19.45,40460,6.5
+New Hampshire,Tire Repairers and Changers,610,15.8,0.921,1.22,14.22,29570,3.1
+New Hampshire,Mechanical Door Repairers,130,27.8,0.196,1.25,22.12,46010,6.4
+New Hampshire,"Control and Valve Installers and Repairers, Except Mechanical Door",100,16.1,0.154,0.43,30.32,63070,3.9
+New Hampshire,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",2040,9.4,3.082,1.32,26.09,54270,1.8
+New Hampshire,Home Appliance Repairers,140,36,0.208,0.98,21.64,45000,4.8
+New Hampshire,Industrial Machinery Mechanics,2190,5.7,3.321,1.26,27.04,56250,1.2
+New Hampshire,"Maintenance Workers, Machinery",170,12.9,0.262,0.53,20.13,41860,2.7
+New Hampshire,Millwrights,50,24.4,0.073,0.23,24.51,50970,3.6
+New Hampshire,Electrical Power-Line Installers and Repairers,700,17.5,1.053,1.38,40.26,83740,2.8
+New Hampshire,Telecommunications Line Installers and Repairers,280,20.9,0.42,0.51,26.63,55400,4.7
+New Hampshire,Medical Equipment Repairers,130,16.3,0.198,0.63,26.98,56130,1.8
+New Hampshire,"Precision Instrument and Equipment Repairers, All Other",60,8.2,0.09,1.25,30.37,63170,1.9
+New Hampshire,"Maintenance and Repair Workers, General",4850,3.5,7.347,0.76,21.44,44600,1.1
+New Hampshire,"Coin, Vending, and Amusement Machine Servicers and Repairers",90,30.5,0.138,0.65,19.26,40070,8.4
+New Hampshire,Commercial Divers,90,49.9,0.139,5.96,36.04,74960,10.8
+New Hampshire,Locksmiths and Safe Repairers,80,46.1,0.117,1.01,25.19,52400,4.4
+New Hampshire,Manufactured Building and Mobile Home Installers,70,30.6,0.106,5.52,20.47,42580,7.5
+New Hampshire,Riggers,90,31.4,0.136,0.87,24.15,50220,7.9
+New Hampshire,"Helpers--Installation, Maintenance, and Repair Workers",570,12.2,0.86,1.27,13.97,29060,2.9
+New Hampshire,"Installation, Maintenance, and Repair Workers, All Other",290,21.8,0.432,0.39,25.25,52510,3.5
+New Hampshire,Production Occupations,44000,2.2,66.615,1.07,20.24,42100,0.9
+New Hampshire,First-Line Supervisors of Production and Operating Workers,2980,2.8,4.515,1.05,33.72,70140,1.1
+New Hampshire,"Coil Winders, Tapers, and Finishers",80,15.9,0.125,1.44,16.29,33880,3
+New Hampshire,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",3430,4.9,5.194,2.67,18.47,38410,2.7
+New Hampshire,Engine and Other Machine Assemblers,70,24,0.109,0.35,22.62,47050,8.2
+New Hampshire,Structural Metal Fabricators and Fitters,200,19,0.301,0.57,21.65,45030,3.5
+New Hampshire,Fiberglass Laminators and Fabricators,30,40.3,0.05,0.36,15.43,32090,5.5
+New Hampshire,Miscellaneous Assemblers and Fabricators,5900,4.6,8.933,0.96,16.7,34740,1.6
+New Hampshire,Bakers,490,10.9,0.743,0.59,14.36,29870,2.1
+New Hampshire,Butchers and Meat Cutters,540,12.5,0.81,0.87,19.4,40340,1.4
+New Hampshire,"Meat, Poultry, and Fish Cutters and Trimmers",50,38.6,0.078,0.07,15.22,31660,7
+New Hampshire,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",210,39.9,0.317,2.24,16.92,35190,12.8
+New Hampshire,Food Batchmakers,380,37.8,0.572,0.53,16.35,34000,3.3
+New Hampshire,Food Cooking Machine Operators and Tenders,40,29,0.053,0.26,14.81,30800,13.4
+New Hampshire,"Food Processing Workers, All Other",140,28.2,0.214,0.73,9.68,20140,3.4
+New Hampshire,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",600,11.8,0.91,1.74,18.61,38710,2.9
+New Hampshire,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,19.49,40540,3.8
+New Hampshire,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",30,11.8,0.05,0.23,18.24,37930,4.7
+New Hampshire,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",570,11.9,0.868,0.65,18.32,38120,1.2
+New Hampshire,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",50,21.6,0.082,1.1,18.75,38990,4.4
+New Hampshire,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",790,7.4,1.195,2.28,17.56,36520,1.7
+New Hampshire,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",280,19.7,0.427,2.23,19.36,40270,2.4
+New Hampshire,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",120,40.1,0.174,1.37,16.69,34710,6.5
+New Hampshire,Machinists,2000,6,3.03,1.16,24.29,50520,1.6
+New Hampshire,Metal-Refining Furnace Operators and Tenders,70,13.2,0.107,0.92,21.24,44170,5.5
+New Hampshire,"Pourers and Casters, Metal",30,25.5,0.051,0.93,17.74,36890,5.5
+New Hampshire,"Model Makers, Metal and Plastic",30,45.2,0.047,1.6,29.36,61070,4.5
+New Hampshire,Foundry Mold and Coremakers,230,16,0.343,2.87,16.21,33710,2
+New Hampshire,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",990,8,1.498,1.28,17.11,35580,2.4
+New Hampshire,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",910,24.8,1.373,1.37,18.35,38170,4.7
+New Hampshire,Tool and Die Makers,220,12.7,0.326,0.68,27.47,57150,2.9
+New Hampshire,"Welders, Cutters, Solderers, and Brazers",930,5.7,1.402,0.5,24.03,49990,2.3
+New Hampshire,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",260,6.6,0.395,1.65,18.91,39320,3.2
+New Hampshire,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",70,14.3,0.104,0.78,19.06,39650,3.2
+New Hampshire,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",190,11,0.289,1.02,19.5,40570,5.3
+New Hampshire,"Tool Grinders, Filers, and Sharpeners",40,26.5,0.068,1.54,22.72,47260,12.5
+New Hampshire,"Metal Workers and Plastic Workers, All Other",440,17.6,0.659,3.98,17.25,35880,3.7
+New Hampshire,Prepress Technicians and Workers,110,23.1,0.168,0.81,21.32,44340,4.4
+New Hampshire,Printing Press Operators,860,6.5,1.304,1.1,20.91,43490,3.5
+New Hampshire,Print Binding and Finishing Workers,290,26,0.435,1.4,16.46,34230,3.7
+New Hampshire,Laundry and Dry-Cleaning Workers,970,13.6,1.463,1.03,12.07,25100,1.5
+New Hampshire,"Pressers, Textile, Garment, and Related Materials",140,26.6,0.219,0.84,11.63,24180,2.8
+New Hampshire,Sewing Machine Operators,470,5.2,0.713,0.79,15.61,32470,2.4
+New Hampshire,"Tailors, Dressmakers, and Custom Sewers",100,48.4,0.149,0.91,14.85,30880,11.7
+New Hampshire,Textile Bleaching and Dyeing Machine Operators and Tenders,**,**,**,**,20.87,43400,3.8
+New Hampshire,"Textile Cutting Machine Setters, Operators, and Tenders",130,14.1,0.199,2.22,16.03,33340,2.9
+New Hampshire,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",350,11.3,0.537,3.73,16.94,35240,3.8
+New Hampshire,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",100,48.4,0.147,0.69,16.75,34840,4.8
+New Hampshire,"Textile, Apparel, and Furnishings Workers, All Other",140,14.6,0.209,1.7,15.78,32820,2.2
+New Hampshire,Cabinetmakers and Bench Carpenters,270,10.6,0.402,0.59,21.93,45620,2.6
+New Hampshire,"Sawing Machine Setters, Operators, and Tenders, Wood",130,11,0.197,0.57,15.81,32890,4.4
+New Hampshire,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",580,12.9,0.874,1.63,17.42,36230,3.9
+New Hampshire,Power Plant Operators,100,18.2,0.146,0.64,28.3,58870,9.6
+New Hampshire,Stationary Engineers and Boiler Operators,120,9.2,0.188,0.85,30.78,64020,5.1
+New Hampshire,Water and Wastewater Treatment Plant and System Operators,440,8.1,0.671,0.8,24.69,51360,1.9
+New Hampshire,Gas Plant Operators,60,34.7,0.098,1,34.2,71130,3.5
+New Hampshire,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",**,**,**,**,31.66,65860,4.5
+New Hampshire,"Plant and System Operators, All Other",30,15.8,0.049,0.55,28.36,58990,4.1
+New Hampshire,Chemical Equipment Operators and Tenders,170,27,0.252,0.42,20.85,43370,2.2
+New Hampshire,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",530,6,0.803,2.31,26.9,55950,6.3
+New Hampshire,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",210,17.2,0.318,1.4,21.76,45270,4.8
+New Hampshire,"Mixing and Blending Machine Setters, Operators, and Tenders",360,16,0.552,0.65,20.44,42520,2.7
+New Hampshire,"Cutters and Trimmers, Hand",130,12.8,0.193,2.93,13.89,28880,3.4
+New Hampshire,"Cutting and Slicing Machine Setters, Operators, and Tenders",250,20.1,0.375,0.95,18.89,39290,3.7
+New Hampshire,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",380,4.5,0.57,1.17,16.5,34320,1.9
+New Hampshire,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",30,20.4,0.053,0.41,21.08,43860,5.9
+New Hampshire,"Inspectors, Testers, Sorters, Samplers, and Weighers",3740,4.1,5.662,1.44,21.81,45360,1.2
+New Hampshire,Jewelers and Precious Stone and Metal Workers,80,30.6,0.125,0.78,21.24,44170,5.8
+New Hampshire,Dental Laboratory Technicians,260,29,0.397,1.69,20.48,42590,2.8
+New Hampshire,Medical Appliance Technicians,60,16.8,0.086,0.89,21.18,44050,5.5
+New Hampshire,Ophthalmic Laboratory Technicians,130,21.1,0.197,0.99,22.05,45870,8.4
+New Hampshire,Packaging and Filling Machine Operators and Tenders,1130,17.2,1.705,0.64,16.82,34990,2.9
+New Hampshire,"Painting, Coating, and Decorating Workers",100,33.9,0.144,1.7,15.36,31940,12.2
+New Hampshire,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",530,7,0.797,0.8,20.75,43150,3
+New Hampshire,Semiconductor Processing Technicians,90,15.3,0.13,0.69,21.41,44530,3
+New Hampshire,Photographic Process Workers and Processing Machine Operators,30,25.6,0.046,0.57,14.82,30830,4.8
+New Hampshire,Computer Numerically Controlled Tool Operators,3180,4.9,4.817,4.66,22.46,46730,4.9
+New Hampshire,Computer Numerically Controlled Tool Programmers,270,7.2,0.407,2.34,31.92,66400,2.4
+New Hampshire,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",130,9.6,0.2,1.79,16.26,33830,4.6
+New Hampshire,Etchers and Engravers,70,35.2,0.104,1.48,16.17,33620,4.9
+New Hampshire,"Molders, Shapers, and Casters, Except Metal and Plastic",100,14.4,0.158,0.52,17.43,36250,3.7
+New Hampshire,"Paper Goods Machine Setters, Operators, and Tenders",100,28.3,0.148,0.22,17.44,36270,6.3
+New Hampshire,Helpers--Production Workers,1380,7.9,2.095,1.02,15.51,32260,1.9
+New Hampshire,"Production Workers, All Other",1050,5,1.593,1.05,17.54,36470,2
+New Hampshire,Transportation and Material Moving Occupations,49270,1.7,74.594,0.87,17.06,35490,1.6
+New Hampshire,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",1680,3.9,2.545,0.82,26.95,56060,1.3
+New Hampshire,Commercial Pilots,330,10.9,0.507,1.97,*,77220,7.7
+New Hampshire,Air Traffic Controllers,440,2.1,0.661,4.39,67.88,141180,2.6
+New Hampshire,Driver/Sales Workers,2370,10.9,3.583,1.18,13.81,28730,4.4
+New Hampshire,Heavy and Tractor-Trailer Truck Drivers,6960,3.5,10.532,0.83,22.73,47270,1.2
+New Hampshire,Light Truck Drivers,3920,5.6,5.929,0.94,16.74,34820,3.8
+New Hampshire,"Bus Drivers, Transit and Intercity",370,21.1,0.564,0.46,22.4,46590,4.6
+New Hampshire,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",3840,11.2,5.818,1.22,15.62,32490,2.7
+New Hampshire,"Motor Vehicle Operators, All Other",130,21.7,0.19,0.49,19.57,40700,4
+New Hampshire,Locomotive Engineers,30,12.8,0.052,0.22,22.6,47010,7.2
+New Hampshire,Railroad Conductors and Yardmasters,30,0,0.052,0.17,20.36,42350,3.1
+New Hampshire,Parking Attendants,230,20.3,0.352,0.35,12.41,25820,3.2
+New Hampshire,Automotive and Watercraft Service Attendants,560,10.2,0.853,1.06,13.05,27140,1.6
+New Hampshire,Transportation Inspectors,30,5.4,0.051,0.25,42.47,88330,2.5
+New Hampshire,Passenger Attendants,**,**,**,**,11.98,24910,6.7
+New Hampshire,"Aircraft Service Attendants and Transportation Workers, All Other",**,**,**,**,16.01,33310,2.7
+New Hampshire,Conveyor Operators and Tenders,80,13.4,0.123,0.75,15.97,33220,2.9
+New Hampshire,Crane and Tower Operators,130,42.2,0.203,0.66,*,*,*
+New Hampshire,Industrial Truck and Tractor Operators,1300,4.3,1.961,0.46,20.27,42160,3.2
+New Hampshire,Cleaners of Vehicles and Equipment,1260,11.8,1.91,0.73,15.03,31260,2.7
+New Hampshire,"Laborers and Freight, Stock, and Material Movers, Hand",5610,4.9,8.487,0.42,14.95,31100,1.1
+New Hampshire,Machine Feeders and Offbearers,340,7.9,0.52,1.21,16.81,34970,5.3
+New Hampshire,"Packers and Packagers, Hand",4030,2.6,6.102,1.41,12.11,25190,1.6
+New Hampshire,Stockers and Order Fillers,14340,2.7,21.71,1.49,13.86,28820,0.9
+New Hampshire,"Pump Operators, Except Wellhead Pumpers",80,3.3,0.118,1.74,25.86,53780,5
+New Hampshire,Refuse and Recyclable Material Collectors,810,9.9,1.226,1.48,15.88,33030,1.5

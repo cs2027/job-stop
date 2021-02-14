@@ -1,0 +1,747 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Minnesota,All Occupations,2880650,0.5,1000,1,26.87,55890,0.8
+Minnesota,Management Occupations,170650,1.4,59.24,1.08,58.43,121540,1.1
+Minnesota,Chief Executives,5630,3.2,1.956,1.4,94.19,195920,1.4
+Minnesota,General and Operations Managers,44010,2.2,15.277,0.93,56.57,117660,1
+Minnesota,Legislators,1450,15.7,0.504,1.42,*,35460,4.5
+Minnesota,Advertising and Promotions Managers,390,10.1,0.135,0.79,63.13,131310,3.2
+Minnesota,Marketing Managers,8350,4.3,2.9,1.62,69.81,145210,2.2
+Minnesota,Sales Managers,10700,2.9,3.716,1.36,65.61,136470,2
+Minnesota,Public Relations and Fundraising Managers,1900,4.5,0.661,1.23,59.07,122880,1.3
+Minnesota,Administrative Services and Facilities Managers,6630,5.5,2.303,1.1,49.42,102780,1
+Minnesota,Computer and Information Systems Managers,10300,5.8,3.574,1.21,71.52,148770,1.1
+Minnesota,Financial Managers,15750,2.7,5.468,1.23,65.92,137100,1.1
+Minnesota,Industrial Production Managers,5370,3,1.864,1.47,56.17,116830,5.8
+Minnesota,Purchasing Managers,2050,4.9,0.711,1.45,59.35,123440,1.8
+Minnesota,"Transportation, Storage, and Distribution Managers",2550,6.8,0.887,0.99,50.68,105410,2.3
+Minnesota,Compensation and Benefits Managers,**,**,**,**,58.66,122010,5.6
+Minnesota,Human Resources Managers,4560,3.3,1.585,1.5,61.04,126960,1.8
+Minnesota,Training and Development Managers,1100,16.5,0.382,1.46,58.64,121970,2.4
+Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",40,21.7,0.015,0.43,49.86,103700,4.7
+Minnesota,Construction Managers,5880,5.1,2.041,1.02,46.64,97020,1.4
+Minnesota,"Education and Childcare Administrators, Preschool and Daycare",690,8.8,0.239,0.67,30.61,63660,5.6
+Minnesota,"Education Administrators, Kindergarten through Secondary",3780,4,1.311,0.71,*,107720,1.2
+Minnesota,"Education Administrators, Postsecondary",2380,4.1,0.826,0.84,54.22,112770,4.6
+Minnesota,"Education Administrators, All Other",950,7.8,0.328,1.08,39.01,81150,3.2
+Minnesota,Architectural and Engineering Managers,3960,3.9,1.376,1.04,72.17,150110,1.6
+Minnesota,Food Service Managers,3870,9,1.342,0.84,28.7,59700,2.3
+Minnesota,Gambling Managers,90,10.2,0.03,0.99,32.11,66790,5.7
+Minnesota,Lodging Managers,540,10.7,0.188,0.72,28.5,59270,4.9
+Minnesota,Medical and Health Services Managers,8330,3.2,2.891,1.08,54.22,112780,1.5
+Minnesota,Natural Sciences Managers,1390,5.7,0.484,1.05,64.15,133420,2.3
+Minnesota,Postmasters and Mail Superintendents,330,0,0.113,1.2,36.32,75550,0.6
+Minnesota,"Property, Real Estate, and Community Association Managers",3960,10.8,1.374,0.91,34.38,71510,4.2
+Minnesota,Social and Community Service Managers,4010,4.9,1.393,1.31,37.85,78720,1.8
+Minnesota,Emergency Management Directors,230,3.7,0.078,1.14,41.05,85390,1.9
+Minnesota,Funeral Home Managers,150,22,0.052,0.82,52.01,108190,10.8
+Minnesota,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",8800,3.6,3.055,0.95,61.77,128480,2.8
+Minnesota,Business and Financial Operations Occupations,171550,1.9,59.553,1.07,36.51,75940,0.8
+Minnesota,"Agents and Business Managers of Artists, Performers, and Athletes",200,47.5,0.071,0.61,30.18,62780,9.4
+Minnesota,Buyers and Purchasing Agents,10250,7.4,3.559,1.24,33.44,69550,2.5
+Minnesota,"Claims Adjusters, Examiners, and Investigators",5930,9.2,2.059,1.05,33.06,68760,1.5
+Minnesota,Compliance Officers,**,**,**,**,37.65,78310,1.3
+Minnesota,Cost Estimators,4480,6.1,1.555,1.09,32.75,68130,1.6
+Minnesota,Human Resources Specialists,13000,3.1,4.513,1.05,32.5,67600,1.2
+Minnesota,Labor Relations Specialists,2530,3.8,0.879,1.71,37.72,78450,5.6
+Minnesota,Logisticians,3280,12.1,1.14,0.92,36.62,76160,3.1
+Minnesota,Management Analysts,14050,3.8,4.877,1.01,43.07,89580,1.8
+Minnesota,"Meeting, Convention, and Event Planners",2750,14.1,0.954,1.19,25.11,52230,4.4
+Minnesota,Fundraisers,1990,5.1,0.692,1.25,29.55,61470,4
+Minnesota,"Compensation, Benefits, and Job Analysis Specialists",**,**,**,**,34.92,72630,1.6
+Minnesota,Training and Development Specialists,6770,4.9,2.351,1.1,33.67,70030,2
+Minnesota,Market Research Analysts and Marketing Specialists,15120,4.1,5.248,1.14,36.54,76010,2.4
+Minnesota,"Project Management Specialists and Business Operations Specialists, All Other",27110,3.7,9.41,1.08,35.56,73960,1.4
+Minnesota,Accountants and Auditors,23210,2.7,8.056,0.92,35.38,73590,1.3
+Minnesota,Property Appraisers and Assessors,1560,18.1,0.541,1.41,34.88,72550,13.6
+Minnesota,Budget Analysts,510,7.5,0.176,0.5,39.14,81410,1.7
+Minnesota,Credit Analysts,2080,6.9,0.722,1.43,38.93,80980,2.4
+Minnesota,Personal Financial Advisors,3900,9.5,1.355,0.95,52.91,110060,7.1
+Minnesota,Insurance Underwriters,1750,13.3,0.607,0.89,38.75,80600,3.5
+Minnesota,Financial Examiners,1660,8.2,0.577,1.31,44.44,92440,3.2
+Minnesota,Credit Counselors,510,24.6,0.179,0.82,24.4,50750,4.1
+Minnesota,Loan Officers,8550,3.5,2.968,1.41,38.89,80900,2.7
+Minnesota,"Tax Examiners and Collectors, and Revenue Agents",1170,0.2,0.405,1.11,31.41,65340,1.6
+Minnesota,Tax Preparers,1350,24.8,0.47,1.03,25.2,52420,6.7
+Minnesota,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",9460,4.8,3.283,1.05,43.16,89770,1.5
+Minnesota,Computer and Mathematical Occupations,97960,2.1,34.007,1.1,43.83,91160,0.9
+Minnesota,Computer Systems Analysts,20240,4.9,7.026,1.75,46.2,96090,1.7
+Minnesota,Information Security Analysts,2230,6.3,0.775,0.91,49.13,102190,1
+Minnesota,Computer and Information Research Scientists,210,27.6,0.074,0.36,60.65,126150,4.5
+Minnesota,Computer Network Support Specialists,4260,7,1.477,1.17,31.54,65600,1.4
+Minnesota,Computer User Support Specialists,12270,3.7,4.258,0.97,27.28,56740,0.9
+Minnesota,Computer Network Architects,2780,8.2,0.965,0.93,55.01,114420,1.1
+Minnesota,Network and Computer Systems Administrators,6570,3.6,2.281,0.95,41.96,87280,0.9
+Minnesota,Database Administrators and Architects,2690,8.7,0.935,1.09,47.72,99250,1.7
+Minnesota,Computer Programmers,3940,9.3,1.369,1.01,39.5,82160,4.5
+Minnesota,Software Developers and Software Quality Assurance Analysts and Testers,30520,5,10.594,1.11,50.37,104770,1.3
+Minnesota,Web Developers and Digital Interface Designers,2790,6.1,0.968,0.96,38.67,80440,1.9
+Minnesota,"Computer Occupations, All Other",4810,5.4,1.668,0.62,41.52,86360,1.6
+Minnesota,Actuaries,460,15.7,0.158,1.04,53.44,111150,3.3
+Minnesota,Operations Research Analysts,2680,9.8,0.929,1.37,44.14,91820,2.5
+Minnesota,Statisticians,920,7.4,0.32,1.2,43.75,91000,3.3
+Minnesota,"Data Scientists and Mathematical Science Occupations, All Other",600,34.2,0.209,1,44.6,92770,1.6
+Minnesota,Architecture and Engineering Occupations,55520,2,19.273,1.09,40.27,83750,1.3
+Minnesota,"Architects, Except Landscape and Naval",1660,9.8,0.575,0.8,48.01,99870,3.7
+Minnesota,Landscape Architects,470,26.7,0.164,1.19,34.52,71800,4.6
+Minnesota,Cartographers and Photogrammetrists,430,24,0.15,1.95,32.26,67090,2.2
+Minnesota,Surveyors,900,14.5,0.313,1.02,32.65,67910,3.8
+Minnesota,Aerospace Engineers,220,31.6,0.076,0.18,54.61,113590,1.9
+Minnesota,Bioengineers and Biomedical Engineers,1310,8.2,0.454,3.37,56.18,116850,2.5
+Minnesota,Chemical Engineers,190,24.8,0.067,0.33,53.05,110340,3.4
+Minnesota,Civil Engineers,6260,5.4,2.172,1.03,45.7,95060,1.4
+Minnesota,Computer Hardware Engineers,610,17.5,0.213,0.46,54.23,112790,3.7
+Minnesota,Electrical Engineers,3930,10,1.366,1.08,48.65,101180,2.5
+Minnesota,"Electronics Engineers, Except Computer",1050,15,0.363,0.41,49.47,102890,3.9
+Minnesota,Environmental Engineers,870,8.5,0.302,0.83,49.62,103200,9.4
+Minnesota,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",450,15.2,0.158,0.9,44.98,93560,3.5
+Minnesota,Industrial Engineers,9950,3.5,3.454,1.74,44.76,93110,2.2
+Minnesota,Materials Engineers,320,9.7,0.11,0.6,46.11,95920,2.7
+Minnesota,Mechanical Engineers,7480,4.1,2.597,1.24,41.74,86820,1.3
+Minnesota,"Mining and Geological Engineers, Including Mining Safety Engineers",50,20.6,0.019,0.44,44.54,92640,5.2
+Minnesota,Nuclear Engineers,180,24.8,0.061,0.57,56.42,117360,1.6
+Minnesota,Petroleum Engineers,50,24.4,0.018,0.08,63.91,132920,20.9
+Minnesota,"Engineers, All Other",2190,5.8,0.76,0.73,48.92,101750,2.8
+Minnesota,Architectural and Civil Drafters,1970,16,0.682,1.01,26.47,55060,2.3
+Minnesota,Electrical and Electronics Drafters,310,12.6,0.106,0.65,33.11,68870,4
+Minnesota,Mechanical Drafters,1690,8.3,0.586,1.56,29.05,60430,1.6
+Minnesota,"Drafters, All Other",640,13.6,0.224,2.25,27.05,56260,3.2
+Minnesota,Civil Engineering Technologists and Technicians,2220,11.5,0.772,1.65,31.14,64770,1.6
+Minnesota,Electrical and Electronic Engineering Technologists and Technicians,1960,6.3,0.681,0.82,29.59,61550,2.1
+Minnesota,Electro-Mechanical and Mechatronics Technologists and Technicians,510,16.4,0.177,1.82,27.37,56930,3.2
+Minnesota,Environmental Engineering Technologists and Technicians,350,26.9,0.121,0.98,24.81,51600,2.4
+Minnesota,Industrial Engineering Technologists and Technicians,3500,7.4,1.214,2.66,25.81,53680,1
+Minnesota,Mechanical Engineering Technologists and Technicians,1330,5.5,0.46,1.58,30.52,63480,2.5
+Minnesota,Surveying and Mapping Technicians,750,11,0.261,0.72,28.14,58520,2.4
+Minnesota,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1610,8.9,0.557,0.93,28.24,58730,1.9
+Minnesota,"Life, Physical, and Social Science Occupations",27070,4.3,9.397,1.07,36.94,76820,2.4
+Minnesota,Animal Scientists,200,13.3,0.069,3.77,33.8,70310,9
+Minnesota,Food Scientists and Technologists,630,33.3,0.219,2.39,39.07,81260,4.3
+Minnesota,Soil and Plant Scientists,650,25,0.227,2.35,36.08,75060,5.9
+Minnesota,Biochemists and Biophysicists,900,7.7,0.314,1.47,38.03,79110,5.3
+Minnesota,Microbiologists,370,23.7,0.127,1.02,35.87,74600,3.4
+Minnesota,Zoologists and Wildlife Biologists,690,17,0.238,1.82,30.01,62430,1.7
+Minnesota,"Biological Scientists, All Other",270,10.8,0.094,0.34,36.21,75320,1.2
+Minnesota,Conservation Scientists,630,15.7,0.219,1.45,33.35,69360,1.8
+Minnesota,Foresters,330,1.1,0.116,1.79,30.71,63870,1
+Minnesota,Epidemiologists,240,1.9,0.084,1.66,35.7,74250,2.9
+Minnesota,"Medical Scientists, Except Epidemiologists",2910,11,1.012,1.17,45.68,95010,2
+Minnesota,"Life Scientists, All Other",120,32,0.04,0.92,*,*,*
+Minnesota,Physicists,160,28.4,0.056,0.49,70.91,147500,12.2
+Minnesota,Atmospheric and Space Scientists,240,37.9,0.085,1.34,38.33,79730,20.1
+Minnesota,Chemists,1910,4.8,0.664,1.17,43.46,90400,2.3
+Minnesota,Materials Scientists,60,28.5,0.022,0.48,43.68,90850,5.7
+Minnesota,"Environmental Scientists and Specialists, Including Health",1800,4.5,0.627,1.09,37.36,77700,1.9
+Minnesota,"Geoscientists, Except Hydrologists and Geographers",230,11.2,0.081,0.41,38.91,80940,2.6
+Minnesota,Hydrologists,300,4,0.104,2.38,37.88,78780,1.6
+Minnesota,Economists,160,6.5,0.054,0.42,48.34,100550,2
+Minnesota,Survey Researchers,490,32.1,0.17,2.52,30.93,64330,5.1
+Minnesota,"Clinical, Counseling, and School Psychologists",2850,12.2,0.99,1.28,40.65,84550,2.6
+Minnesota,"Psychologists, All Other",430,4.9,0.151,1.56,45.79,95250,2.7
+Minnesota,Sociologists,60,47.1,0.021,1.19,27.94,58120,2.6
+Minnesota,Urban and Regional Planners,950,13.8,0.33,1.26,39.16,81440,1.5
+Minnesota,Anthropologists and Archeologists,30,9.2,0.011,0.24,35.99,74870,2.9
+Minnesota,Geographers,50,0,0.019,1.95,32.77,68160,2.3
+Minnesota,"Social Scientists and Related Workers, All Other",500,7.9,0.174,0.76,44.16,91840,4.4
+Minnesota,Agricultural and Food Science Technicians,870,8.7,0.303,2.03,19.83,41240,2
+Minnesota,Biological Technicians,660,11.2,0.229,0.42,24.08,50080,2.1
+Minnesota,Chemical Technicians,1580,6.8,0.55,1.23,25.32,52670,7.1
+Minnesota,"Environmental Science and Protection Technicians, Including Health",360,10.2,0.125,0.56,26.49,55110,4.6
+Minnesota,Geological and Hydrologic Technicians,40,15.9,0.015,0.13,26.55,55220,3.1
+Minnesota,Social Science Research Assistants,**,**,**,**,24.57,51100,5
+Minnesota,Forest and Conservation Technicians,700,25.3,0.242,1.86,22.85,47540,1.5
+Minnesota,Forensic Science Technicians,90,3.1,0.031,0.27,30.17,62760,3.3
+Minnesota,"Life, Physical, and Social Science Technicians, All Other",630,17.1,0.219,0.5,25.27,52560,2.6
+Minnesota,Occupational Health and Safety Specialists,1910,4.6,0.662,1.05,38.38,79820,1.5
+Minnesota,Occupational Health and Safety Technicians,190,9.5,0.067,0.48,27.37,56920,2
+Minnesota,Community and Social Service Occupations,57200,2.4,19.855,1.3,24.35,50640,1.2
+Minnesota,"Educational, Guidance, and Career Counselors and Advisors",4610,4.7,1.599,0.79,28.42,59100,1.6
+Minnesota,Marriage and Family Therapists,1380,14.6,0.479,1.19,29.44,61240,5
+Minnesota,Rehabilitation Counselors,3490,9.1,1.21,1.63,19.64,40860,1.7
+Minnesota,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",7750,6.8,2.689,1.39,24.64,51260,1
+Minnesota,"Counselors, All Other",450,25.2,0.155,0.89,21.52,44770,6.4
+Minnesota,"Child, Family, and School Social Workers",8430,4.2,2.928,1.31,27.36,56900,2.4
+Minnesota,Healthcare Social Workers,4390,6.6,1.525,1.28,27.9,58030,2.7
+Minnesota,Mental Health and Substance Abuse Social Workers,2490,7.5,0.865,1.08,28.89,60090,2.3
+Minnesota,"Social Workers, All Other",1030,13.6,0.356,0.9,30.24,62890,1.8
+Minnesota,Health Education Specialists,2170,11.6,0.754,1.89,28.27,58800,2
+Minnesota,Probation Officers and Correctional Treatment Specialists,1580,8.1,0.549,0.92,32.84,68310,1.3
+Minnesota,Social and Human Service Assistants,12970,6.3,4.502,1.63,18.1,37650,1.3
+Minnesota,Community Health Workers,1370,10.8,0.475,1.18,20.23,42080,2.7
+Minnesota,"Community and Social Service Specialists, All Other",3180,10.5,1.105,1.67,23.13,48110,3.8
+Minnesota,Clergy,1360,8,0.472,1.3,23.66,49200,2.3
+Minnesota,"Directors, Religious Activities and Education",380,16.9,0.132,0.89,26.8,55740,4.1
+Minnesota,"Religious Workers, All Other",170,35.1,0.06,0.93,23.41,48700,15.8
+Minnesota,Legal Occupations,20050,3.3,6.959,0.89,47.21,98200,2
+Minnesota,Lawyers,11420,3,3.965,0.89,59.86,124510,2.5
+Minnesota,Judicial Law Clerks,400,1.3,0.139,1.23,26.69,55510,1.9
+Minnesota,"Administrative Law Judges, Adjudicators, and Hearing Officers",170,0,0.058,0.6,52.36,108910,1.8
+Minnesota,"Judges, Magistrate Judges, and Magistrates",550,3.8,0.189,0.97,67.62,140640,2.5
+Minnesota,Paralegals and Legal Assistants,5580,7.3,1.938,0.86,27.59,57390,1.8
+Minnesota,"Title Examiners, Abstractors, and Searchers",1600,28.1,0.554,1.54,25.73,53520,3.7
+Minnesota,"Legal Support Workers, All Other",300,18.6,0.104,0.34,33.36,69380,1.9
+Minnesota,Educational Instruction and Library Occupations,165310,1.8,57.388,0.95,27.19,56560,3.1
+Minnesota,"Business Teachers, Postsecondary",1250,3.1,0.432,0.76,*,118040,10.1
+Minnesota,"Computer Science Teachers, Postsecondary",390,4.3,0.137,0.63,*,95940,5.4
+Minnesota,"Mathematical Science Teachers, Postsecondary",760,4.5,0.262,0.75,*,83170,6.6
+Minnesota,"Engineering Teachers, Postsecondary",570,0.6,0.199,0.81,*,108790,9.6
+Minnesota,"Biological Science Teachers, Postsecondary",780,3.7,0.27,0.75,*,86410,4.2
+Minnesota,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",100,4.1,0.036,0.48,*,93810,5.6
+Minnesota,"Chemistry Teachers, Postsecondary",390,4.7,0.134,0.92,*,84190,6.6
+Minnesota,"Environmental Science Teachers, Postsecondary",80,3.1,0.029,0.71,*,100900,10.1
+Minnesota,"Physics Teachers, Postsecondary",250,4.8,0.088,0.94,*,101620,8
+Minnesota,"Anthropology and Archeology Teachers, Postsecondary",80,4.9,0.027,0.69,*,91530,4.1
+Minnesota,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",260,5.5,0.089,1.24,*,89940,3.4
+Minnesota,"Economics Teachers, Postsecondary",300,3.9,0.104,1.15,*,114120,7.3
+Minnesota,"Geography Teachers, Postsecondary",100,2.6,0.035,1.28,*,80340,4.1
+Minnesota,"Political Science Teachers, Postsecondary",230,6.7,0.079,0.74,*,97980,6.8
+Minnesota,"Psychology Teachers, Postsecondary",700,4,0.245,0.96,*,87630,5.9
+Minnesota,"Sociology Teachers, Postsecondary",280,3.6,0.096,1.02,*,81560,6.5
+Minnesota,"Social Sciences Teachers, Postsecondary, All Other",90,2.3,0.031,0.27,*,83460,5.1
+Minnesota,"Health Specialties Teachers, Postsecondary",3920,4.2,1.36,0.99,*,115460,16
+Minnesota,"Nursing Instructors and Teachers, Postsecondary",1250,8.2,0.434,1.07,*,74090,4
+Minnesota,"Education Teachers, Postsecondary",1020,2.4,0.354,0.85,*,77270,4.3
+Minnesota,"Library Science Teachers, Postsecondary",110,11.9,0.04,1.32,*,70290,1.9
+Minnesota,"Criminal Justice and Law Enforcement Teachers, Postsecondary",160,9.9,0.055,0.57,*,73770,2.1
+Minnesota,"Law Teachers, Postsecondary",**,**,**,**,*,165550,12.4
+Minnesota,"Social Work Teachers, Postsecondary",490,5.7,0.169,1.82,*,75730,4.7
+Minnesota,"Art, Drama, and Music Teachers, Postsecondary",1610,7.4,0.559,0.87,*,82060,3.9
+Minnesota,"Communications Teachers, Postsecondary",560,4.4,0.194,0.98,*,68320,2.4
+Minnesota,"English Language and Literature Teachers, Postsecondary",1040,5.1,0.362,0.78,*,68810,1.7
+Minnesota,"Foreign Language and Literature Teachers, Postsecondary",460,10.6,0.161,0.95,*,73690,3
+Minnesota,"History Teachers, Postsecondary",330,6,0.116,0.81,*,82650,5.2
+Minnesota,"Philosophy and Religion Teachers, Postsecondary",600,6.8,0.208,1.3,*,76890,2.3
+Minnesota,"Recreation and Fitness Studies Teachers, Postsecondary",340,9.6,0.12,1.11,*,*,*
+Minnesota,"Career/Technical Education Teachers, Postsecondary",2570,17.7,0.891,1.17,30.56,63570,5.4
+Minnesota,"Postsecondary Teachers, All Other",560,4.7,0.196,0.14,*,64680,4.3
+Minnesota,"Preschool Teachers, Except Special Education",9180,6.3,3.188,1.09,19.13,39800,2.1
+Minnesota,"Kindergarten Teachers, Except Special Education",3590,6.2,1.245,1.47,*,62410,1.9
+Minnesota,"Elementary School Teachers, Except Special Education",22420,6.3,7.783,0.8,*,63250,1.4
+Minnesota,"Middle School Teachers, Except Special and Career/Technical Education",9730,16.7,3.379,0.8,*,64790,3.1
+Minnesota,"Career/Technical Education Teachers, Middle School",220,22.4,0.077,0.95,*,67610,3
+Minnesota,"Secondary School Teachers, Except Special and Career/Technical Education",20130,10.1,6.988,0.99,*,64960,1.6
+Minnesota,"Career/Technical Education Teachers, Secondary School",1080,19.8,0.374,0.74,*,63640,2
+Minnesota,"Special Education Teachers, Preschool",1020,8.9,0.354,2.33,*,62950,2.2
+Minnesota,"Special Education Teachers, Kindergarten and Elementary School",4170,9.8,1.449,1.1,*,60430,2
+Minnesota,"Special Education Teachers, Middle School",1610,15.4,0.559,0.96,*,67350,2.6
+Minnesota,"Special Education Teachers, Secondary School",5000,15.3,1.734,1.78,*,64430,1.7
+Minnesota,"Special Education Teachers, All Other",730,19.5,0.253,1.05,*,69610,2.3
+Minnesota,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",800,9.1,0.276,0.78,28.79,59870,2.5
+Minnesota,Self-Enrichment Teachers,8060,13,2.799,1.63,20.8,43270,2.5
+Minnesota,"Substitute Teachers, Short-Term",5850,17.7,2.03,0.51,19.25,40050,4.4
+Minnesota,"Tutors and Teachers and Instructors, All Other",3220,10,1.118,0.51,*,44500,3.5
+Minnesota,Archivists,**,**,**,**,21.38,44470,3.7
+Minnesota,Curators,280,13.4,0.096,1.09,28.21,58670,3.6
+Minnesota,Museum Technicians and Conservators,220,13.5,0.078,0.87,20.87,43400,4.2
+Minnesota,Librarians and Media Collections Specialists,2320,4.7,0.804,0.87,30.46,63360,2.2
+Minnesota,Library Technicians,1210,5,0.421,0.7,21.93,45620,2.2
+Minnesota,Farm and Home Management Educators,180,45.5,0.062,1.05,23.45,48780,7.4
+Minnesota,Instructional Coordinators,3860,6.4,1.339,1.11,35.67,74190,1.5
+Minnesota,"Teaching Assistants, Postsecondary",**,**,**,**,*,36050,12.4
+Minnesota,"Teaching Assistants, Except Postsecondary",36020,3.8,12.503,1.36,*,32530,1.1
+Minnesota,"Educational Instruction and Library Workers, All Other",1170,10.6,0.406,0.46,24.33,50600,4.1
+Minnesota,"Arts, Design, Entertainment, Sports, and Media Occupations",38540,5,13.38,0.97,26.62,55380,1.5
+Minnesota,Art Directors,1000,13.7,0.348,1.19,52.44,109080,3.5
+Minnesota,Craft Artists,90,17.1,0.031,1,20.86,43390,5.5
+Minnesota,"Fine Artists, Including Painters, Sculptors, and Illustrators",**,**,**,**,27.25,56690,4.7
+Minnesota,Special Effects Artists and Animators,220,20.2,0.076,0.38,31.33,65170,4.4
+Minnesota,"Artists and Related Workers, All Other",**,**,**,**,21.31,44330,1.9
+Minnesota,Commercial and Industrial Designers,590,20,0.206,0.92,35.5,73840,2.5
+Minnesota,Fashion Designers,170,28.8,0.058,0.39,32.24,67060,9.5
+Minnesota,Floral Designers,660,17.7,0.228,0.8,15.77,32790,4.3
+Minnesota,Graphic Designers,5900,8,2.047,1.39,25.75,53560,2.2
+Minnesota,Interior Designers,1800,16.9,0.625,1.51,30.08,62560,2.3
+Minnesota,Merchandise Displayers and Window Trimmers,2610,20.2,0.906,0.94,17.16,35700,5.6
+Minnesota,Set and Exhibit Designers,130,6.2,0.044,0.53,27.18,56540,2.7
+Minnesota,"Designers, All Other",290,41.7,0.101,1.39,32.87,68360,8.5
+Minnesota,Actors,420,18.8,0.145,0.4,17.79,*,8
+Minnesota,Producers and Directors,1360,9.6,0.472,0.54,34,70710,5.3
+Minnesota,Athletes and Sports Competitors,60,30.1,0.02,0.26,*,*,*
+Minnesota,Coaches and Scouts,4880,10.2,1.694,1.03,*,41180,5.1
+Minnesota,"Umpires, Referees, and Other Sports Officials",450,26.4,0.157,1.15,*,39590,6.1
+Minnesota,Choreographers,420,24.4,0.148,4.68,23.06,47970,14.8
+Minnesota,Music Directors and Composers,140,23,0.048,0.67,30.73,63920,16.3
+Minnesota,Musicians and Singers,480,12.7,0.168,0.6,35.64,*,21
+Minnesota,"Miscellaneous Entertainers and Performers, Sports and Related Workers",140,23.8,0.048,0.44,14.84,*,5.8
+Minnesota,Broadcast Announcers and Radio Disc Jockeys,810,24,0.28,1.4,15.65,32540,5.9
+Minnesota,"News Analysts, Reporters, and Journalists",980,27.9,0.341,1.14,27.47,57130,8.7
+Minnesota,Public Relations Specialists,5780,4.2,2.008,1.21,30.15,62710,1.1
+Minnesota,Editors,1600,43.1,0.557,0.85,28.15,58550,2.4
+Minnesota,Technical Writers,1250,7.2,0.433,1.25,33.22,69100,2
+Minnesota,Writers and Authors,860,10.9,0.299,0.96,31.3,65110,2.7
+Minnesota,Interpreters and Translators,1600,13.1,0.554,1.38,25.79,53640,2.4
+Minnesota,Court Reporters and Simultaneous Captioners,280,1,0.097,0.98,32.76,68130,0.9
+Minnesota,"Media and Communication Workers, All Other",250,24,0.086,0.5,28.12,58480,6.5
+Minnesota,Audio and Video Technicians,1070,17.4,0.371,0.74,23.59,49070,4.6
+Minnesota,Broadcast Technicians,430,17.8,0.148,0.76,21.59,44910,7.7
+Minnesota,Sound Engineering Technicians,150,22.5,0.051,0.58,24.16,50260,6.9
+Minnesota,Photographers,730,19.2,0.252,0.73,29.04,60410,9.5
+Minnesota,"Camera Operators, Television, Video, and Film",180,22.5,0.061,0.42,24.75,51490,10.4
+Minnesota,Film and Video Editors,190,20.5,0.067,0.36,*,*,*
+Minnesota,"Lighting Technicians and Media and Communication Equipment Workers, All Other",160,47.5,0.054,0.34,25.34,52700,5.6
+Minnesota,Healthcare Practitioners and Technical Occupations,190800,2.9,66.235,1.12,43.74,90970,2.1
+Minnesota,Chiropractors,1170,9.5,0.406,1.7,42.99,89420,7.7
+Minnesota,"Dentists, General",1800,13.3,0.626,0.83,102.5,213210,7.4
+Minnesota,Orthodontists,**,**,**,**,131.97,274490,16.4
+Minnesota,"Dentists, All Other Specialists",120,42.2,0.042,1.15,117.2,243770,17.9
+Minnesota,Dietitians and Nutritionists,1140,6.6,0.395,0.86,30.63,63710,1.5
+Minnesota,Optometrists,900,16.5,0.314,1.17,67.46,140310,7.1
+Minnesota,Pharmacists,6520,9.5,2.263,1.07,62.64,130290,1
+Minnesota,Physician Assistants,2360,18.6,0.818,1,57.33,119240,1.2
+Minnesota,Podiatrists,150,18.3,0.052,0.78,87.39,181780,10.5
+Minnesota,Occupational Therapists,3020,7.6,1.05,1.15,36.65,76220,0.9
+Minnesota,Physical Therapists,4670,9.1,1.622,1.02,40.52,84280,1.2
+Minnesota,Radiation Therapists,390,39.5,0.136,1.12,40.39,84020,1.8
+Minnesota,Recreational Therapists,410,10.6,0.141,1.08,27.45,57090,2.4
+Minnesota,Respiratory Therapists,1840,21.5,0.638,0.71,32.8,68220,1
+Minnesota,Speech-Language Pathologists,3240,9.9,1.125,1.07,37.36,77710,1.5
+Minnesota,Exercise Physiologists,250,10.4,0.088,1.77,27.64,57500,2.7
+Minnesota,"Therapists, All Other",200,13.3,0.07,0.85,33.24,69140,2.6
+Minnesota,Veterinarians,1460,10.7,0.506,1,43.76,91030,3.3
+Minnesota,Registered Nurses,71000,8.2,24.648,1.21,38.52,80130,1.3
+Minnesota,Nurse Anesthetists,1900,18.4,0.658,2.22,92.45,192290,4.3
+Minnesota,Nurse Midwives,220,15.3,0.077,1.63,58.64,121980,4.2
+Minnesota,Nurse Practitioners,3970,29,1.379,1.01,59.06,122850,2.5
+Minnesota,Audiologists,260,13.4,0.092,0.99,41.53,86390,2.5
+Minnesota,Anesthesiologists,370,35.7,0.13,0.61,#,#,17
+Minnesota,Family Medicine Physicians,2790,16.3,0.967,1.3,113.49,236060,3.7
+Minnesota,General Internal Medicine Physicians,1390,18.2,0.482,1.59,116.53,242390,5.5
+Minnesota,Obstetricians and Gynecologists,660,14.1,0.23,1.81,118.08,245610,5.3
+Minnesota,"Pediatricians, General",**,**,**,**,104.54,217450,6.6
+Minnesota,Psychiatrists,530,36,0.183,1.06,116.92,243190,6.3
+Minnesota,"Physicians, All Other; and Ophthalmologists, Except Pediatric",9130,22.2,3.171,1.19,113.59,236270,7.8
+Minnesota,"Surgeons, Except Ophthalmologists",950,20.2,0.33,1.34,#,#,6.7
+Minnesota,Dental Hygienists,5070,7.2,1.761,1.17,36.33,75570,1.6
+Minnesota,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",840,22,0.29,1.17,36.96,76880,3
+Minnesota,Clinical Laboratory Technologists and Technicians,6820,6.9,2.367,1.07,27.08,56330,1.3
+Minnesota,Cardiovascular Technologists and Technicians,1420,28,0.493,1.29,31.28,65070,1.4
+Minnesota,Diagnostic Medical Sonographers,1190,5.9,0.414,0.84,39.01,81130,0.7
+Minnesota,Nuclear Medicine Technologists,240,22.4,0.084,0.68,41.93,87200,1.4
+Minnesota,Radiologic Technologists and Technicians,4690,12.4,1.63,1.15,33.24,69140,1.2
+Minnesota,Magnetic Resonance Imaging Technologists,510,6.4,0.176,0.68,38.86,80840,0.8
+Minnesota,Emergency Medical Technicians and Paramedics,5390,8.4,1.871,1.05,20.97,43620,2.1
+Minnesota,Dietetic Technicians,210,8.8,0.072,0.36,18.28,38020,2.7
+Minnesota,Pharmacy Technicians,8120,8.4,2.818,0.99,18.43,38330,2.4
+Minnesota,Psychiatric Technicians,**,**,**,**,17.24,35850,2.5
+Minnesota,Surgical Technologists,2460,16.8,0.855,1.15,28.89,60090,0.9
+Minnesota,Veterinary Technologists and Technicians,3000,5.1,1.042,1.38,18.74,38980,2
+Minnesota,Ophthalmic Medical Technicians,1150,16.9,0.399,1,25.05,52110,3
+Minnesota,Licensed Practical and Licensed Vocational Nurses,15210,4,5.281,1.11,23.3,48460,0.6
+Minnesota,"Opticians, Dispensing",2000,14,0.696,1.41,18.97,39460,2.3
+Minnesota,Orthotists and Prosthetists,130,21.9,0.044,0.66,38.58,80250,3.5
+Minnesota,Hearing Aid Specialists,**,**,**,**,26.99,56130,3.4
+Minnesota,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",5760,6,1.998,0.88,25.68,53420,1.6
+Minnesota,Athletic Trainers,720,11.9,0.251,1.29,*,51230,2
+Minnesota,Genetic Counselors,**,**,**,**,38.88,80860,1.5
+Minnesota,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",660,8.3,0.228,0.61,38.22,79490,3.3
+Minnesota,Healthcare Support Occupations,163160,2.4,56.64,1.28,15.62,32480,0.8
+Minnesota,Home Health and Personal Care Aides,103830,3.7,36.043,1.67,13.62,28320,0.6
+Minnesota,Nursing Assistants,30350,5.2,10.534,1.09,16.9,35150,0.7
+Minnesota,Orderlies,700,30.5,0.242,0.76,18.63,38740,1.8
+Minnesota,Psychiatric Aides,900,11.5,0.314,0.84,21.16,44010,3.1
+Minnesota,Occupational Therapy Assistants,690,8.2,0.239,0.78,24.92,51830,1.5
+Minnesota,Occupational Therapy Aides,40,27,0.013,0.25,16.79,34920,4.2
+Minnesota,Physical Therapist Assistants,1590,13,0.553,0.84,26.82,55780,1.1
+Minnesota,Physical Therapist Aides,280,11.2,0.099,0.29,18.82,39150,1.9
+Minnesota,Massage Therapists,2180,17.1,0.757,1.04,24.56,51080,3.3
+Minnesota,Dental Assistants,5740,4.3,1.993,0.83,25.1,52220,2.1
+Minnesota,Medical Assistants,9950,16.9,3.453,0.71,20.05,41710,0.7
+Minnesota,Medical Equipment Preparers,1310,18,0.455,1.18,21.22,44130,1.3
+Minnesota,Medical Transcriptionists,530,13.4,0.182,0.48,21.5,44720,1.5
+Minnesota,Pharmacy Aides,240,28.7,0.084,0.33,14.53,30220,4.9
+Minnesota,Veterinary Assistants and Laboratory Animal Caretakers,1290,35.4,0.448,0.68,14.3,29740,3.2
+Minnesota,Phlebotomists,1610,14.2,0.558,0.64,18.55,38590,1.8
+Minnesota,"Healthcare Support Workers, All Other",1940,6.2,0.673,1.06,18.38,38240,1.8
+Minnesota,Protective Service Occupations,45030,2.5,15.632,0.66,25.51,53060,3.8
+Minnesota,First-Line Supervisors of Correctional Officers,450,4,0.157,0.5,38.19,79440,1.4
+Minnesota,First-Line Supervisors of Police and Detectives,1510,3.3,0.523,0.63,45.91,95490,1
+Minnesota,First-Line Supervisors of Firefighting and Prevention Workers,680,9.8,0.235,0.5,36.39,75690,4.2
+Minnesota,"Miscellaneous First-Line Supervisors, Protective Service Workers",1060,7.7,0.367,0.65,26.25,54600,2.8
+Minnesota,Firefighters,7390,9.3,2.565,1.16,18.94,39390,3.4
+Minnesota,Fire Inspectors and Investigators,120,6.1,0.041,0.44,35.78,74420,2.1
+Minnesota,Bailiffs,160,3.5,0.055,0.41,25.56,53170,1.8
+Minnesota,Correctional Officers and Jailers,4860,2.7,1.688,0.59,25.72,53510,0.9
+Minnesota,Detectives and Criminal Investigators,1390,2.1,0.482,0.67,38.73,80560,3
+Minnesota,Fish and Game Wardens,140,4.8,0.05,1.08,32.3,67180,3.6
+Minnesota,Parking Enforcement Workers,40,7.6,0.015,0.3,19.13,39790,2.3
+Minnesota,Police and Sheriff's Patrol Officers,9820,3.1,3.407,0.75,34.54,71840,1.4
+Minnesota,Transit and Railroad Police,**,**,**,**,35.13,73070,4
+Minnesota,Animal Control Workers,40,16.5,0.013,0.16,23.95,49830,2.9
+Minnesota,Gambling Surveillance Officers and Gambling Investigators,220,25.1,0.077,1.09,16.87,35080,2.2
+Minnesota,Security Guards,10890,8.9,3.779,0.49,17.31,36010,2.7
+Minnesota,Crossing Guards and Flaggers,120,16,0.041,0.07,18.35,38170,2.9
+Minnesota,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",3020,9.1,1.047,1.07,12.54,26080,0.9
+Minnesota,"School Bus Monitors and Protective Service Workers, All Other",1780,6.4,0.618,0.62,18.07,37590,3.9
+Minnesota,Food Preparation and Serving Related Occupations,244300,1.1,84.806,0.92,13.7,28500,0.9
+Minnesota,Chefs and Head Cooks,1600,15.3,0.556,0.64,25.84,53750,3.8
+Minnesota,First-Line Supervisors of Food Preparation and Serving Workers,17270,4.9,5.995,0.87,18.7,38900,1.1
+Minnesota,"Cooks, Fast Food",3870,23.1,1.344,0.37,12.6,26200,2
+Minnesota,"Cooks, Institution and Cafeteria",7650,4.4,2.655,0.97,16.36,34020,1
+Minnesota,"Cooks, Restaurant",29240,3.4,10.149,1.06,14.72,30620,0.9
+Minnesota,"Cooks, Short Order",960,22.2,0.334,0.32,13.69,28470,2.6
+Minnesota,"Cooks, All Other",280,15.5,0.098,0.74,17.37,36120,3.9
+Minnesota,Food Preparation Workers,8950,8.6,3.108,0.53,14.1,29330,1.4
+Minnesota,Bartenders,17970,5.1,6.238,1.42,12.48,25950,1.9
+Minnesota,Fast Food and Counter Workers,78860,2.8,27.375,1.01,12.23,25440,0.6
+Minnesota,Waiters and Waitresses,47340,2.4,16.433,0.94,13.97,29060,2.8
+Minnesota,"Food Servers, Nonrestaurant",9950,4.2,3.456,1.83,13.51,28110,1.1
+Minnesota,Dining Room and Cafeteria Attendants and Bartender Helpers,4750,9.3,1.648,0.51,12.07,25110,1.3
+Minnesota,Dishwashers,8170,11.1,2.837,0.81,12.49,25980,1.7
+Minnesota,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",7080,8.7,2.457,0.85,12.03,25030,1
+Minnesota,"Food Preparation and Serving Related Workers, All Other",360,27.8,0.124,0.25,13.62,28320,3.7
+Minnesota,Building and Grounds Cleaning and Maintenance Occupations,83860,2.2,29.111,0.97,16.23,33770,1
+Minnesota,First-Line Supervisors of Housekeeping and Janitorial Workers,2010,5.2,0.699,0.66,23.07,47990,1.6
+Minnesota,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2010,17,0.699,0.99,27.8,57810,4
+Minnesota,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",44880,2.7,15.579,1.07,15.78,32830,1.1
+Minnesota,Maids and Housekeeping Cleaners,17120,5.8,5.944,0.94,14.03,29190,1.5
+Minnesota,"Building Cleaning Workers, All Other",**,**,**,**,21.02,43730,21
+Minnesota,Pest Control Workers,490,29.5,0.17,0.31,18.1,37640,3.1
+Minnesota,Landscaping and Groundskeeping Workers,15130,4.5,5.252,0.85,17.17,35720,1.7
+Minnesota,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",1480,47.1,0.513,2.93,16.32,33950,4.4
+Minnesota,Tree Trimmers and Pruners,530,38.1,0.185,0.58,24.99,51980,8.4
+Minnesota,"Grounds Maintenance Workers, All Other",170,41,0.059,0.6,20.88,43420,4.1
+Minnesota,Personal Care and Service Occupations,70290,2.8,24.402,1.09,15.46,32150,1.1
+Minnesota,First-Line Supervisors of Gambling Services Workers,750,14.3,0.259,1.29,19.11,39740,3.3
+Minnesota,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",4330,5.8,1.504,1.01,20.83,43320,1.4
+Minnesota,Animal Trainers,330,49.9,0.116,1.03,16.31,33920,3.7
+Minnesota,Animal Caretakers,3250,11.2,1.13,0.78,13.7,28490,2.4
+Minnesota,Gambling Dealers,1990,20.6,0.69,1.03,12.24,25470,2.6
+Minnesota,Gambling and Sports Book Writers and Runners,940,18.7,0.325,4.79,11.36,23630,2.2
+Minnesota,"Gambling Service Workers, All Other",420,17.7,0.146,2.05,12.33,25650,3.8
+Minnesota,Motion Picture Projectionists,**,**,**,**,11.12,23130,5.7
+Minnesota,"Ushers, Lobby Attendants, and Ticket Takers",3050,10.4,1.059,1.13,12,24970,1.6
+Minnesota,Amusement and Recreation Attendants,7840,8.8,2.722,1.18,12.58,26160,1.3
+Minnesota,Costume Attendants,210,15.4,0.072,1.42,23.71,49320,5.3
+Minnesota,"Locker Room, Coatroom, and Dressing Room Attendants",230,25.5,0.079,0.72,13.29,27640,4.1
+Minnesota,Funeral Attendants,500,16.7,0.174,0.74,15.51,32250,5.1
+Minnesota,"Morticians, Undertakers, and Funeral Arrangers",330,20.5,0.115,0.66,35.29,73400,4.5
+Minnesota,Barbers,**,**,**,**,20.38,42380,7.7
+Minnesota,"Hairdressers, Hairstylists, and Cosmetologists",9630,6.6,3.343,1.27,16.07,33430,3.5
+Minnesota,Manicurists and Pedicurists,2110,21.7,0.733,0.96,14.8,30770,4.3
+Minnesota,Skincare Specialists,580,16.5,0.203,0.52,19.47,40490,6.4
+Minnesota,Baggage Porters and Bellhops,660,12.8,0.23,0.85,12.78,26580,2.7
+Minnesota,Concierges,540,17.7,0.186,0.66,16.2,33690,2.9
+Minnesota,Tour and Travel Guides,960,17.6,0.332,1,14.43,30010,1.9
+Minnesota,Childcare Workers,12150,7.4,4.219,1.1,12.88,26780,1.4
+Minnesota,Exercise Trainers and Group Fitness Instructors,6490,7.4,2.252,1.02,21.76,45260,3.3
+Minnesota,Recreation Workers,8640,7.1,3,1.23,14.39,29940,1.7
+Minnesota,Residential Advisors,2560,14.2,0.889,1.21,19.31,40160,1.9
+Minnesota,"Crematory Operators and Personal Care and Service Workers, All Other",880,16.3,0.305,0.73,12.94,26920,3.9
+Minnesota,Sales and Related Occupations,277000,1.3,96.16,0.98,21.87,45500,1.3
+Minnesota,First-Line Supervisors of Retail Sales Workers,19370,4.9,6.725,0.84,22.23,46240,1.7
+Minnesota,First-Line Supervisors of Non-Retail Sales Workers,3470,6.2,1.203,0.71,40.68,84610,2
+Minnesota,Cashiers,69350,3.2,24.074,0.98,12.48,25950,0.5
+Minnesota,Gambling Change Persons and Booth Cashiers,560,36.9,0.195,1.35,13.01,27070,2.1
+Minnesota,Counter and Rental Clerks,4740,10.5,1.645,0.59,15.37,31960,2.5
+Minnesota,Parts Salespersons,5260,12.7,1.827,1.05,17.52,36440,4
+Minnesota,Retail Salespersons,84960,3.3,29.494,1,14.57,30310,1.5
+Minnesota,Advertising Sales Agents,2500,7.8,0.867,0.98,24.59,51160,2.8
+Minnesota,Insurance Sales Agents,8090,7.3,2.807,1.01,36.66,76260,2.9
+Minnesota,"Securities, Commodities, and Financial Services Sales Agents",9240,6.9,3.208,1.08,52.47,109130,4.7
+Minnesota,Travel Agents,1060,10.4,0.368,0.81,23.12,48090,5.5
+Minnesota,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",21380,3.6,7.421,1.05,32.01,66590,1.5
+Minnesota,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",5830,7,2.024,0.97,40.78,84830,4.5
+Minnesota,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",33470,3.1,11.619,1.27,37.18,77330,1.5
+Minnesota,Demonstrators and Product Promoters,380,14.2,0.131,0.25,14.49,30140,2.5
+Minnesota,Real Estate Brokers,370,30.4,0.127,0.44,25.99,54060,17.9
+Minnesota,Real Estate Sales Agents,2540,12,0.882,0.8,22.18,46130,5.2
+Minnesota,Sales Engineers,1060,16.6,0.367,0.85,47.02,97810,3.5
+Minnesota,Telemarketers,1640,18.5,0.569,0.62,16.23,33760,5.5
+Minnesota,"Sales and Related Workers, All Other",1740,11.1,0.604,0.75,17.59,36580,2.4
+Minnesota,Office and Administrative Support Occupations,363800,1.4,126.289,0.95,20.86,43390,0.4
+Minnesota,First-Line Supervisors of Office and Administrative Support Workers,21470,2.8,7.453,0.74,30.48,63390,1.3
+Minnesota,"Switchboard Operators, Including Answering Service",760,14.8,0.265,0.57,17.24,35870,1.5
+Minnesota,Telephone Operators,**,**,**,**,20.88,43440,12.9
+Minnesota,Bill and Account Collectors,4120,9.3,1.429,0.89,19.58,40730,1.9
+Minnesota,Billing and Posting Clerks,7770,4.1,2.696,0.85,20.87,43410,0.9
+Minnesota,"Bookkeeping, Accounting, and Auditing Clerks",29260,2.7,10.159,0.99,21.55,44820,0.6
+Minnesota,Gambling Cage Workers,240,13.9,0.084,0.86,14.74,30650,5.8
+Minnesota,Payroll and Timekeeping Clerks,2480,5.7,0.861,0.89,24.61,51190,1.3
+Minnesota,Procurement Clerks,1120,8.5,0.389,0.86,20.82,43300,1.2
+Minnesota,Tellers,8590,4.4,2.984,0.99,15.23,31680,1.5
+Minnesota,"Financial Clerks, All Other",930,14.3,0.321,1.55,20.81,43290,2.8
+Minnesota,Brokerage Clerks,2050,10.9,0.712,2.18,24.64,51250,1.7
+Minnesota,"Court, Municipal, and License Clerks",7290,3,2.532,2.41,22.57,46950,1
+Minnesota,"Credit Authorizers, Checkers, and Clerks",570,16.6,0.197,1.09,23.88,49660,1.4
+Minnesota,Customer Service Representatives,60340,3.8,20.948,1.05,19.87,41320,0.8
+Minnesota,"Eligibility Interviewers, Government Programs",**,**,**,**,25.53,53110,1.3
+Minnesota,File Clerks,1090,7.9,0.38,0.55,17.15,35670,1.8
+Minnesota,"Hotel, Motel, and Resort Desk Clerks",5280,7.7,1.834,1.01,12.77,26560,1.1
+Minnesota,"Interviewers, Except Eligibility and Loan",3400,9.1,1.182,0.92,18.88,39260,1.5
+Minnesota,"Library Assistants, Clerical",2370,9.5,0.824,1.41,15.96,33200,3.3
+Minnesota,Loan Interviewers and Clerks,5760,6.8,1.999,1.41,20.75,43160,1.3
+Minnesota,New Accounts Clerks,980,15.6,0.339,1.15,19.88,41360,2
+Minnesota,Order Clerks,2550,10,0.884,0.95,17.51,36420,2.3
+Minnesota,"Human Resources Assistants, Except Payroll and Timekeeping",3170,3.5,1.1,1.38,21.26,44210,0.9
+Minnesota,Receptionists and Information Clerks,16900,8.6,5.867,0.81,15.25,31720,1.3
+Minnesota,Reservation and Transportation Ticket Agents and Travel Clerks,2430,24.5,0.845,1,24.15,50240,3.3
+Minnesota,"Information and Record Clerks, All Other",1590,5,0.551,0.53,22.69,47190,1.1
+Minnesota,Cargo and Freight Agents,1610,16.1,0.56,0.86,25.41,52850,4.1
+Minnesota,Couriers and Messengers,660,18.3,0.229,0.45,16.57,34470,4.2
+Minnesota,Public Safety Telecommunicators,1550,15.3,0.538,0.83,27.76,57740,1.8
+Minnesota,"Dispatchers, Except Police, Fire, and Ambulance",4290,6.9,1.49,1.1,22.87,47580,1.7
+Minnesota,"Meter Readers, Utilities",180,20.1,0.061,0.3,28.19,58640,2.5
+Minnesota,Postal Service Clerks,1530,0,0.532,0.96,23.55,48970,0.7
+Minnesota,Postal Service Mail Carriers,6250,0,2.168,0.94,25.01,52030,1.1
+Minnesota,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",2140,0,0.741,1.06,24.01,49940,1.5
+Minnesota,"Production, Planning, and Expediting Clerks",5580,6.2,1.939,0.77,25.2,52410,1.2
+Minnesota,"Shipping, Receiving, and Inventory Clerks",14020,4.8,4.867,1.01,18.56,38600,0.8
+Minnesota,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",710,17,0.248,0.6,18.54,38570,2.8
+Minnesota,Executive Secretaries and Executive Administrative Assistants,10720,3.5,3.72,1.01,28.97,60250,1.2
+Minnesota,Legal Secretaries and Administrative Assistants,3390,16.1,1.178,1.03,26.3,54710,3.3
+Minnesota,Medical Secretaries and Administrative Assistants,13790,7.8,4.787,1.16,20.42,42470,1.1
+Minnesota,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",32660,2.8,11.338,0.82,19.97,41540,0.8
+Minnesota,Data Entry Keyers,2030,9.3,0.705,0.65,17.04,35430,1.6
+Minnesota,Word Processors and Typists,320,35,0.112,0.35,21.59,44910,2.1
+Minnesota,Desktop Publishers,410,36.7,0.142,2.38,23,47830,9.8
+Minnesota,Insurance Claims and Policy Processing Clerks,6790,11.4,2.358,1.35,22.52,46840,1.5
+Minnesota,"Mail Clerks and Mail Machine Operators, Except Postal Service",2450,10.7,0.852,1.5,16.11,33520,2
+Minnesota,"Office Clerks, General",52080,5.4,18.079,0.9,19.1,39730,0.8
+Minnesota,"Office Machine Operators, Except Computer",1300,17.4,0.451,1.44,18.61,38710,1.2
+Minnesota,Proofreaders and Copy Markers,270,46.4,0.093,1.78,19.77,41120,3.8
+Minnesota,Statistical Assistants,50,30.7,0.016,0.23,22.63,47080,4.8
+Minnesota,"Office and Administrative Support Workers, All Other",3650,11,1.266,0.99,16.88,35110,2.3
+Minnesota,"Farming, Fishing, and Forestry Occupations",4060,7.5,1.41,0.43,18.78,39070,3.9
+Minnesota,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",220,38.3,0.076,0.49,35.43,73690,7.3
+Minnesota,Agricultural Inspectors,370,43,0.129,1.38,26.88,55900,3.9
+Minnesota,"Graders and Sorters, Agricultural Products",350,34,0.123,0.53,15.95,33170,5.4
+Minnesota,Agricultural Equipment Operators,780,23.2,0.272,1.48,18.02,37480,2.6
+Minnesota,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",940,26.4,0.327,0.16,16.48,34280,3.3
+Minnesota,"Farmworkers, Farm, Ranch, and Aquacultural Animals",730,15.5,0.255,1.02,13.55,28190,3.9
+Minnesota,"Agricultural Workers, All Other",**,**,**,**,18.33,38120,7.7
+Minnesota,Forest and Conservation Workers,40,49.2,0.013,0.28,20.24,42090,5
+Minnesota,Fallers,**,**,**,**,22.21,46200,6.5
+Minnesota,Logging Equipment Operators,360,12.3,0.124,0.7,20.57,42790,5.6
+Minnesota,Construction and Extraction Occupations,104900,1.7,36.414,0.86,29.38,61100,0.8
+Minnesota,First-Line Supervisors of Construction Trades and Extraction Workers,6680,4.9,2.319,0.54,37.45,77900,1.1
+Minnesota,Boilermakers,40,31.6,0.014,0.13,34.75,72280,5.1
+Minnesota,Brickmasons and Blockmasons,2150,18,0.745,1.8,30.89,64250,3.8
+Minnesota,Stonemasons,100,45.7,0.036,0.42,19.48,40520,4.4
+Minnesota,Carpenters,18330,4.7,6.365,1.27,26.66,55460,1.3
+Minnesota,Carpet Installers,670,38.5,0.233,1.32,27.57,57350,7.2
+Minnesota,"Floor Layers, Except Carpet, Wood, and Hard Tiles",**,**,**,**,22.12,46020,7.1
+Minnesota,Tile and Stone Setters,650,26.1,0.224,0.81,24.92,51820,3.2
+Minnesota,Cement Masons and Concrete Finishers,4170,12.1,1.449,1.09,26.32,54740,2.3
+Minnesota,Construction Laborers,12400,5.2,4.303,0.62,24.63,51220,2.2
+Minnesota,"Paving, Surfacing, and Tamping Equipment Operators",840,20.1,0.29,0.93,28.44,59150,3.3
+Minnesota,Pile Driver Operators,70,31.7,0.024,0.98,35.06,72920,2.6
+Minnesota,Operating Engineers and Other Construction Equipment Operators,10240,5.9,3.554,1.29,31.71,65960,2
+Minnesota,Drywall and Ceiling Tile Installers,1070,28.7,0.372,0.53,30.16,62740,4.3
+Minnesota,Tapers,480,20.6,0.166,1.36,28.19,58620,4.6
+Minnesota,Electricians,10530,7.9,3.654,0.78,32.99,68620,2.1
+Minnesota,Glaziers,1090,30.5,0.378,1.06,29.87,62120,9.1
+Minnesota,"Insulation Workers, Floor, Ceiling, and Wall",850,24.9,0.294,1.29,23,47830,7.9
+Minnesota,"Insulation Workers, Mechanical",740,12.3,0.257,1.42,37.46,77930,4.9
+Minnesota,"Painters, Construction and Maintenance",4000,7,1.388,0.88,25.25,52530,3.2
+Minnesota,Pipelayers,720,13.7,0.25,1.01,31.76,66050,2
+Minnesota,"Plumbers, Pipefitters, and Steamfitters",9950,5.4,3.453,1.15,35.91,74700,3
+Minnesota,Plasterers and Stucco Masons,320,32.8,0.109,0.59,36.97,76890,10.2
+Minnesota,Reinforcing Iron and Rebar Workers,280,17.4,0.096,0.75,33.09,68830,6.5
+Minnesota,Roofers,1910,20,0.664,0.75,27.25,56680,2.7
+Minnesota,Sheet Metal Workers,2860,14.4,0.992,1.11,30.61,63660,2.7
+Minnesota,Structural Iron and Steel Workers,830,24.1,0.289,0.55,28.32,58900,4.5
+Minnesota,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",300,42.7,0.105,0.66,27.01,56180,6.3
+Minnesota,Helpers--Carpenters,490,25.6,0.17,0.76,17.06,35480,3.3
+Minnesota,Helpers--Electricians,80,38.9,0.027,0.05,19.22,39990,3.7
+Minnesota,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",160,45,0.056,0.76,19.74,41050,2.8
+Minnesota,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",190,32.8,0.065,0.16,18.64,38780,4.4
+Minnesota,"Helpers, Construction Trades, All Other",180,26.1,0.063,0.33,15.47,32170,9.7
+Minnesota,Construction and Building Inspectors,1310,6.4,0.454,0.6,34.79,72360,1.6
+Minnesota,Elevator and Escalator Installers and Repairers,420,15.6,0.145,0.75,41.63,86590,6.9
+Minnesota,Fence Erectors,290,45.7,0.101,0.57,19.48,40520,4.3
+Minnesota,Hazardous Materials Removal Workers,590,24.5,0.206,0.69,24.85,51680,6.5
+Minnesota,Highway Maintenance Workers,5030,4.7,1.745,1.7,24.67,51320,0.7
+Minnesota,Rail-Track Laying and Maintenance Equipment Operators,300,23.4,0.105,0.95,25.88,53840,2.1
+Minnesota,Septic Tank Servicers and Sewer Pipe Cleaners,690,12,0.238,1.18,23.74,49390,5
+Minnesota,Miscellaneous Construction and Related Workers,920,14.4,0.318,1.46,27.73,57670,6.1
+Minnesota,"Excavating and Loading Machine and Dragline Operators, Surface Mining",430,19.9,0.151,0.5,26.32,54750,3.4
+Minnesota,Continuous Mining Machine Operators,50,26.8,0.019,0.19,22,45760,2.7
+Minnesota,"Rock Splitters, Quarry",130,24.4,0.046,1.33,18.75,38990,4.7
+Minnesota,Helpers--Extraction Workers,50,32.6,0.017,0.15,20.39,42400,6.4
+Minnesota,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",500,19.1,0.174,1.03,26.49,55100,3.3
+Minnesota,"Underground Mining Machine Operators and Extraction Workers, All Other",410,32.8,0.142,1.51,28.05,58340,3.4
+Minnesota,"Installation, Maintenance, and Repair Occupations",100060,2,34.737,0.89,25.3,52620,0.7
+Minnesota,"First-Line Supervisors of Mechanics, Installers, and Repairers",7460,4,2.591,0.78,33.81,70330,1.4
+Minnesota,"Computer, Automated Teller, and Office Machine Repairers",1980,11.2,0.689,1.03,20.18,41970,3.7
+Minnesota,"Radio, Cellular, and Tower Equipment Installers and Repairers",180,49.1,0.064,0.65,32.86,68350,2.3
+Minnesota,"Telecommunications Equipment Installers and Repairers, Except Line Installers",3550,12.8,1.232,0.87,24.75,51470,4.2
+Minnesota,Avionics Technicians,160,14.2,0.056,0.38,27.88,57990,3.7
+Minnesota,"Electric Motor, Power Tool, and Related Repairers",300,39.9,0.105,0.97,21.18,44060,4
+Minnesota,"Electrical and Electronics Installers and Repairers, Transportation Equipment",**,**,**,**,31.14,64780,2.8
+Minnesota,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1110,9.8,0.387,0.96,31.76,66070,1.1
+Minnesota,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",390,20.1,0.135,0.88,44.79,93160,1.6
+Minnesota,"Electronic Equipment Installers and Repairers, Motor Vehicles",210,31.4,0.073,1.03,19.54,40640,4.4
+Minnesota,Audiovisual Equipment Installers and Repairers,490,45.2,0.169,0.97,24.2,50340,4.9
+Minnesota,Security and Fire Alarm Systems Installers,1240,27.3,0.432,0.89,27.2,56580,4.3
+Minnesota,Aircraft Mechanics and Service Technicians,1830,4.7,0.636,0.7,36.51,75940,6
+Minnesota,Automotive Body and Related Repairers,2570,8.9,0.892,0.91,24.23,50400,7.8
+Minnesota,Automotive Glass Installers and Repairers,470,27.5,0.163,1.23,21.4,44520,8.5
+Minnesota,Automotive Service Technicians and Mechanics,11830,6.1,4.108,0.92,22.03,45820,2.6
+Minnesota,Bus and Truck Mechanics and Diesel Engine Specialists,7100,6.2,2.466,1.36,25.29,52610,1.3
+Minnesota,Farm Equipment Mechanics and Service Technicians,1770,8.9,0.614,2.49,22.63,47060,1.8
+Minnesota,"Mobile Heavy Equipment Mechanics, Except Engines",3310,9.5,1.147,1.14,28.83,59980,1.1
+Minnesota,Rail Car Repairers,1190,45.5,0.413,2.34,29.95,62300,3.2
+Minnesota,Motorboat Mechanics and Service Technicians,510,23.8,0.177,1.14,21.64,45010,3.4
+Minnesota,Motorcycle Mechanics,410,28.6,0.143,1.35,22.22,46210,5.1
+Minnesota,Outdoor Power Equipment and Other Small Engine Mechanics,750,19.1,0.26,1.19,19.63,40820,4.4
+Minnesota,Bicycle Repairers,**,**,**,**,14.63,30430,3.2
+Minnesota,Recreational Vehicle Service Technicians,400,22.1,0.138,1.3,*,*,*
+Minnesota,Tire Repairers and Changers,1800,42.1,0.625,0.83,16.19,33670,2.3
+Minnesota,Mechanical Door Repairers,540,47.6,0.186,1.19,20.74,43130,3.6
+Minnesota,"Control and Valve Installers and Repairers, Except Mechanical Door",690,17.9,0.241,0.68,34.51,71770,2.6
+Minnesota,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",3920,10.5,1.362,0.58,27.28,56740,4.2
+Minnesota,Home Appliance Repairers,770,26.8,0.268,1.26,19.78,41140,5.2
+Minnesota,Industrial Machinery Mechanics,7050,5.7,2.449,0.93,28.1,58440,1.2
+Minnesota,"Maintenance Workers, Machinery",490,11.4,0.171,0.35,21.61,44950,2.6
+Minnesota,Millwrights,1090,24,0.379,1.18,28.56,59400,4.1
+Minnesota,Electrical Power-Line Installers and Repairers,2520,9.2,0.874,1.15,38.82,80750,2.2
+Minnesota,Telecommunications Line Installers and Repairers,1950,13.6,0.676,0.82,24.01,49940,3.4
+Minnesota,Camera and Photographic Equipment Repairers,40,30.7,0.015,0.62,22.28,46340,10.5
+Minnesota,Medical Equipment Repairers,1270,29.4,0.44,1.39,25.91,53890,4.9
+Minnesota,Musical Instrument Repairers and Tuners,110,32,0.037,0.67,18.66,38810,6.1
+Minnesota,"Precision Instrument and Equipment Repairers, All Other",180,22.8,0.062,0.86,29.46,61280,3.7
+Minnesota,"Maintenance and Repair Workers, General",22750,3.2,7.897,0.82,22.04,45850,0.7
+Minnesota,Wind Turbine Service Technicians,500,42.4,0.173,4.25,28.52,59320,4.4
+Minnesota,"Coin, Vending, and Amusement Machine Servicers and Repairers",530,21.5,0.185,0.86,18.82,39150,4.9
+Minnesota,Locksmiths and Safe Repairers,230,21,0.079,0.68,21.07,43830,7.3
+Minnesota,Riggers,190,22.1,0.067,0.43,28.77,59850,6.3
+Minnesota,Signal and Track Switch Repairers,80,31.6,0.027,0.59,31.58,65690,3.9
+Minnesota,"Helpers--Installation, Maintenance, and Repair Workers",1070,10.9,0.372,0.55,16.08,33450,3.8
+Minnesota,"Installation, Maintenance, and Repair Workers, All Other",2520,13.6,0.876,0.8,22.55,46900,2.2
+Minnesota,Production Occupations,212650,1.8,73.819,1.18,20.29,42210,0.6
+Minnesota,First-Line Supervisors of Production and Operating Workers,12030,2.8,4.176,0.97,32.18,66930,0.9
+Minnesota,"Coil Winders, Tapers, and Finishers",500,25.2,0.175,2.02,16.82,34990,1.7
+Minnesota,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",8150,10.9,2.828,1.46,18.27,38000,1.2
+Minnesota,Structural Metal Fabricators and Fitters,740,15.1,0.256,0.49,20.82,43300,3
+Minnesota,Fiberglass Laminators and Fabricators,80,12.5,0.028,0.21,17.87,37160,3.5
+Minnesota,Miscellaneous Assemblers and Fabricators,31730,4.6,11.014,1.18,17.15,35670,1
+Minnesota,Bakers,3140,10.3,1.089,0.86,15.22,31670,1.6
+Minnesota,Butchers and Meat Cutters,2440,17,0.848,0.91,17.12,35610,3
+Minnesota,"Meat, Poultry, and Fish Cutters and Trimmers",4140,11.3,1.436,1.37,15.5,32240,1.8
+Minnesota,Slaughterers and Meat Packers,5220,10.7,1.812,3.63,15.42,32070,2.1
+Minnesota,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",430,11.6,0.148,1.04,18.16,37770,3
+Minnesota,Food Batchmakers,3700,14.4,1.286,1.18,17.25,35880,2.9
+Minnesota,Food Cooking Machine Operators and Tenders,380,18.8,0.133,0.65,18.39,38260,3.4
+Minnesota,"Food Processing Workers, All Other",920,17.8,0.318,1.09,15.55,32340,2.8
+Minnesota,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1830,11,0.636,1.21,20.59,42820,1.7
+Minnesota,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",220,34,0.076,0.68,17.36,36110,9.9
+Minnesota,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",720,13.7,0.25,1.13,20.97,43620,4.2
+Minnesota,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",5400,8.4,1.873,1.41,20.74,43130,1.9
+Minnesota,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",320,14.4,0.111,1.5,17.43,36260,4.3
+Minnesota,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2720,11.3,0.944,1.81,18.81,39120,1.6
+Minnesota,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",410,14,0.142,0.74,21.48,44670,2.3
+Minnesota,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",140,14.3,0.047,0.37,20.6,42850,3.2
+Minnesota,Machinists,10980,6.1,3.81,1.46,24.47,50900,1.1
+Minnesota,Metal-Refining Furnace Operators and Tenders,420,21.7,0.146,1.25,22,45760,2.1
+Minnesota,"Pourers and Casters, Metal",260,22.6,0.092,1.68,17.65,36700,2.8
+Minnesota,"Model Makers, Metal and Plastic",60,25.7,0.02,0.67,24.58,51140,12.3
+Minnesota,"Patternmakers, Metal and Plastic",80,21.3,0.029,1.43,25.98,54040,4.3
+Minnesota,Foundry Mold and Coremakers,450,17.2,0.157,1.31,20.2,42010,3.2
+Minnesota,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",4070,7.9,1.413,1.2,18.33,38120,2.8
+Minnesota,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3060,10.6,1.063,1.06,19.49,40530,1.6
+Minnesota,Tool and Die Makers,1840,11.2,0.64,1.33,27.28,56740,1.9
+Minnesota,"Welders, Cutters, Solderers, and Brazers",10020,4.5,3.479,1.24,22.62,47050,1
+Minnesota,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1180,18.1,0.411,1.72,22.44,46670,3.2
+Minnesota,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",340,18.7,0.116,0.87,18.13,37720,3.7
+Minnesota,"Layout Workers, Metal and Plastic",**,**,**,**,22.17,46110,4.5
+Minnesota,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",1010,23.2,0.35,1.23,18.28,38010,2.6
+Minnesota,"Tool Grinders, Filers, and Sharpeners",100,14.4,0.036,0.82,19.3,40140,3.2
+Minnesota,"Metal Workers and Plastic Workers, All Other",720,22.1,0.251,1.51,22.19,46160,2.7
+Minnesota,Prepress Technicians and Workers,1190,9.8,0.412,2,24.3,50550,3.2
+Minnesota,Printing Press Operators,6180,5.8,2.144,1.82,21.41,44520,2
+Minnesota,Print Binding and Finishing Workers,2490,11.5,0.863,2.78,18.72,38940,2.3
+Minnesota,Laundry and Dry-Cleaning Workers,3370,8.2,1.169,0.82,13.78,28660,1.2
+Minnesota,"Pressers, Textile, Garment, and Related Materials",550,23.7,0.19,0.73,13.79,28690,2.3
+Minnesota,Sewing Machine Operators,1900,10.4,0.661,0.73,16.01,33290,2.1
+Minnesota,Shoe and Leather Workers and Repairers,**,**,**,**,17.1,35570,4.9
+Minnesota,"Sewers, Hand",60,21.4,0.02,0.61,13.41,27900,2.8
+Minnesota,"Tailors, Dressmakers, and Custom Sewers",280,23.6,0.097,0.59,17.44,36270,3.7
+Minnesota,Textile Bleaching and Dyeing Machine Operators and Tenders,30,29.7,0.011,0.18,15.39,32020,4.8
+Minnesota,"Textile Cutting Machine Setters, Operators, and Tenders",160,25.9,0.057,0.64,14.99,31180,4.8
+Minnesota,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",100,34.9,0.033,0.23,15.41,32050,2.1
+Minnesota,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",40,15.9,0.013,0.06,17.42,36240,4
+Minnesota,Fabric and Apparel Patternmakers,**,**,**,**,26.09,54260,4.5
+Minnesota,Upholsterers,200,19.1,0.069,0.34,17.22,35810,5
+Minnesota,"Textile, Apparel, and Furnishings Workers, All Other",**,**,**,**,14.9,31000,2.5
+Minnesota,Cabinetmakers and Bench Carpenters,3040,9.7,1.054,1.56,20.08,41760,2.3
+Minnesota,Furniture Finishers,560,21,0.193,1.75,19.54,40640,4
+Minnesota,"Sawing Machine Setters, Operators, and Tenders, Wood",670,12.8,0.231,0.67,18.22,37910,2.5
+Minnesota,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",**,**,**,**,17.68,36780,1.6
+Minnesota,"Woodworkers, All Other",**,**,**,**,14.73,30630,2.6
+Minnesota,Power Distributors and Dispatchers,180,16.2,0.062,0.84,42.22,87820,3.7
+Minnesota,Power Plant Operators,930,12.3,0.323,1.41,41.51,86330,4.1
+Minnesota,Stationary Engineers and Boiler Operators,1520,6.5,0.528,2.38,30.31,63040,1.3
+Minnesota,Water and Wastewater Treatment Plant and System Operators,3130,8.8,1.086,1.29,26.87,55880,1.5
+Minnesota,Chemical Plant and System Operators,1460,26.5,0.508,2.59,25.15,52300,3.3
+Minnesota,Gas Plant Operators,170,32.7,0.059,0.6,33.72,70130,3.2
+Minnesota,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",**,**,**,**,31,64480,2.7
+Minnesota,"Plant and System Operators, All Other",120,48.7,0.041,0.46,32.21,67000,3.6
+Minnesota,Chemical Equipment Operators and Tenders,1020,10.1,0.354,0.6,22.24,46260,2.7
+Minnesota,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1060,15.9,0.367,1.05,21.15,43980,1.9
+Minnesota,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1130,19.1,0.392,1.73,22.52,46840,2.7
+Minnesota,"Grinding and Polishing Workers, Hand",260,21.8,0.09,0.45,18.59,38660,4.2
+Minnesota,"Mixing and Blending Machine Setters, Operators, and Tenders",2130,7.8,0.741,0.87,21.05,43780,2.1
+Minnesota,"Cutters and Trimmers, Hand",140,29.6,0.05,0.76,15.91,33090,4.3
+Minnesota,"Cutting and Slicing Machine Setters, Operators, and Tenders",1730,9,0.6,1.52,20.33,42280,3
+Minnesota,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1200,14.8,0.416,0.85,19.72,41020,2.7
+Minnesota,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",730,36.9,0.254,1.96,20.03,41660,2.3
+Minnesota,"Inspectors, Testers, Sorters, Samplers, and Weighers",10860,4.9,3.771,0.96,21.33,44360,0.9
+Minnesota,Jewelers and Precious Stone and Metal Workers,230,24.2,0.08,0.5,19.3,40140,6.3
+Minnesota,Dental Laboratory Technicians,730,32.1,0.255,1.09,20.66,42970,2.6
+Minnesota,Medical Appliance Technicians,430,23.3,0.148,1.54,26.13,54340,5.6
+Minnesota,Ophthalmic Laboratory Technicians,1010,19.6,0.35,1.76,16.73,34790,4.4
+Minnesota,Packaging and Filling Machine Operators and Tenders,9220,7.5,3.199,1.2,17.72,36850,1.9
+Minnesota,"Painting, Coating, and Decorating Workers",250,18.1,0.088,1.04,18.3,38070,3.1
+Minnesota,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",4010,6.4,1.394,1.4,20.69,43030,2
+Minnesota,Semiconductor Processing Technicians,140,11.4,0.048,0.25,17.61,36630,3.1
+Minnesota,Photographic Process Workers and Processing Machine Operators,740,33.5,0.256,3.15,18.66,38810,9.4
+Minnesota,Computer Numerically Controlled Tool Operators,4280,11.1,1.487,1.44,21.99,45730,2.2
+Minnesota,Computer Numerically Controlled Tool Programmers,1170,31.6,0.408,2.34,31.01,64510,1.8
+Minnesota,Adhesive Bonding Machine Operators and Tenders,320,26,0.111,1.17,18.66,38810,3.7
+Minnesota,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",290,18,0.101,0.91,16.86,35070,2
+Minnesota,Cooling and Freezing Equipment Operators and Tenders,420,26.8,0.147,2.46,21.38,44470,3.4
+Minnesota,Etchers and Engravers,300,37.3,0.103,1.47,17.17,35720,4
+Minnesota,"Molders, Shapers, and Casters, Except Metal and Plastic",790,19.6,0.273,0.89,17.58,36560,2.8
+Minnesota,"Paper Goods Machine Setters, Operators, and Tenders",2010,23.6,0.697,1.02,18.81,39120,7.6
+Minnesota,Helpers--Production Workers,7420,8.5,2.576,1.25,15.24,31690,1.2
+Minnesota,"Production Workers, All Other",5340,7.3,1.854,1.23,17.87,37160,2.2
+Minnesota,Transportation and Material Moving Occupations,216890,2,75.292,0.88,19.59,40740,1.5
+Minnesota,Aircraft Cargo Handling Supervisors,80,34.4,0.027,0.41,29.01,60340,5.6
+Minnesota,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",6170,4.6,2.141,0.69,28.95,60210,1.1
+Minnesota,"Airline Pilots, Copilots, and Flight Engineers",3520,19.5,1.22,2.12,*,104050,2.8
+Minnesota,Commercial Pilots,380,8.9,0.131,0.51,*,113890,7.2
+Minnesota,Air Traffic Controllers,580,0,0.2,1.33,63.5,132080,2.1
+Minnesota,Flight Attendants,3420,15.9,1.186,1.44,*,52140,4.5
+Minnesota,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",100,21.4,0.036,0.36,14.21,29550,5.1
+Minnesota,Driver/Sales Workers,11020,12.6,3.827,1.26,14.41,29970,3
+Minnesota,Heavy and Tractor-Trailer Truck Drivers,35150,3.7,12.202,0.97,24.13,50200,1.3
+Minnesota,Light Truck Drivers,15680,5.6,5.443,0.87,19.88,41360,2.3
+Minnesota,"Bus Drivers, Transit and Intercity",3350,23.5,1.162,0.95,19.62,40810,5.2
+Minnesota,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",17940,4.9,6.228,1.31,17.69,36800,1.5
+Minnesota,"Motor Vehicle Operators, All Other",420,22.2,0.146,0.38,17.72,36850,3.8
+Minnesota,Locomotive Engineers,840,39.5,0.291,1.2,35.89,74660,3.6
+Minnesota,"Rail Yard Engineers, Dinkey Operators, and Hostlers",60,17.1,0.02,0.56,26.73,55610,10.8
+Minnesota,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",110,41.6,0.037,0.49,31.14,64770,4.6
+Minnesota,Railroad Conductors and Yardmasters,1170,40.2,0.405,1.3,34.85,72480,2.9
+Minnesota,Sailors and Marine Oilers,110,44.7,0.039,0.18,25.92,53910,3.8
+Minnesota,"Captains, Mates, and Pilots of Water Vessels",**,**,**,**,37.88,78790,3.1
+Minnesota,Motorboat Operators,**,**,**,**,18.89,39300,5.3
+Minnesota,Ship Engineers,**,**,**,**,36.13,75140,6.2
+Minnesota,Bridge and Lock Tenders,60,5,0.019,0.91,29.17,60670,1.9
+Minnesota,Parking Attendants,2390,14,0.83,0.83,13.37,27810,3
+Minnesota,Automotive and Watercraft Service Attendants,2850,8.5,0.989,1.23,13.51,28090,1.4
+Minnesota,Transportation Inspectors,510,19.9,0.178,0.87,37.02,77000,8.9
+Minnesota,"Aircraft Service Attendants and Transportation Workers, All Other",500,9.4,0.175,0.73,14.85,30890,6
+Minnesota,Conveyor Operators and Tenders,660,12.7,0.229,1.4,18.94,39390,2.1
+Minnesota,Crane and Tower Operators,460,24.7,0.159,0.51,27.47,57140,5.4
+Minnesota,Dredge Operators,90,39.5,0.032,3.06,33.9,70520,6.5
+Minnesota,Hoist and Winch Operators,110,8.3,0.037,1.13,38.86,80840,9
+Minnesota,Industrial Truck and Tractor Operators,8430,5.4,2.927,0.68,21.81,45370,2.4
+Minnesota,Cleaners of Vehicles and Equipment,5840,7.9,2.027,0.78,14.36,29860,1.3
+Minnesota,"Laborers and Freight, Stock, and Material Movers, Hand",45070,5.9,15.647,0.78,17.38,36140,1.3
+Minnesota,Machine Feeders and Offbearers,820,17,0.283,0.66,17.8,37020,2.4
+Minnesota,"Packers and Packagers, Hand",9200,6.9,3.194,0.74,14.04,29200,1.2
+Minnesota,Stockers and Order Fillers,36740,3.4,12.754,0.88,15.5,32240,0.9
+Minnesota,"Pump Operators, Except Wellhead Pumpers",100,23.2,0.034,0.5,20.81,43290,8.2
+Minnesota,Refuse and Recyclable Material Collectors,1960,21.8,0.679,0.82,19.15,39840,2.8
+Minnesota,"Tank Car, Truck, and Ship Loaders",150,35.1,0.052,0.66,22.91,47660,3.2
+Minnesota,"Material Moving Workers, All Other",300,27,0.104,0.54,19.18,39900,4.4

@@ -1,0 +1,783 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Pennsylvania,All Occupations,5901590,0.4,1000,1,24.68,51340,0.4
+Pennsylvania,Management Occupations,270380,1.2,45.816,0.84,60.23,125270,0.5
+Pennsylvania,Chief Executives,6630,3.6,1.123,0.8,109.92,228620,1.2
+Pennsylvania,General and Operations Managers,86470,1.6,14.653,0.9,63.51,132110,0.9
+Pennsylvania,Legislators,2060,10.9,0.349,0.98,*,*,*
+Pennsylvania,Advertising and Promotions Managers,650,14.9,0.109,0.64,58.27,121200,4.6
+Pennsylvania,Marketing Managers,7710,5.2,1.307,0.73,71.45,148610,1
+Pennsylvania,Sales Managers,9180,4.6,1.555,0.57,72.21,150210,1.1
+Pennsylvania,Public Relations and Fundraising Managers,1960,7.2,0.333,0.62,57.8,120230,2.4
+Pennsylvania,Administrative Services and Facilities Managers,7980,4,1.353,0.65,52.26,108710,1
+Pennsylvania,Computer and Information Systems Managers,15040,3,2.548,0.86,69.42,144390,0.8
+Pennsylvania,Financial Managers,20140,2.3,3.413,0.77,73.73,153350,1
+Pennsylvania,Industrial Production Managers,6880,4.3,1.166,0.92,52.74,109690,1
+Pennsylvania,Purchasing Managers,2340,4.8,0.396,0.81,60.08,124960,1.1
+Pennsylvania,"Transportation, Storage, and Distribution Managers",4720,4.8,0.8,0.89,49.65,103260,1.7
+Pennsylvania,Compensation and Benefits Managers,710,12.1,0.121,1.05,57.9,120430,6
+Pennsylvania,Human Resources Managers,5450,2.9,0.923,0.88,63.23,131530,1
+Pennsylvania,Training and Development Managers,1060,6.5,0.18,0.69,56.88,118310,1.4
+Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",40,23.9,0.007,0.2,41.38,86070,5.4
+Pennsylvania,Construction Managers,9740,5.1,1.65,0.83,52.32,108820,2.7
+Pennsylvania,"Education and Childcare Administrators, Preschool and Daycare",2710,7.8,0.459,1.29,25.76,53580,3.9
+Pennsylvania,"Education Administrators, Kindergarten through Secondary",8470,4.6,1.435,0.78,*,101710,1.9
+Pennsylvania,"Education Administrators, Postsecondary",5330,10.6,0.902,0.91,53.47,111220,2
+Pennsylvania,"Education Administrators, All Other",1010,8,0.17,0.56,41.83,87000,2.1
+Pennsylvania,Architectural and Engineering Managers,7070,4.2,1.197,0.91,73.33,152530,1.1
+Pennsylvania,Food Service Managers,6610,5.8,1.119,0.7,32.11,66790,2.4
+Pennsylvania,Gambling Managers,80,21.9,0.013,0.43,38.17,79400,3.4
+Pennsylvania,Lodging Managers,1150,7.7,0.196,0.75,27.12,56410,2.8
+Pennsylvania,Medical and Health Services Managers,17330,2.7,2.937,1.09,47.39,98560,1.1
+Pennsylvania,Natural Sciences Managers,4580,7.1,0.776,1.68,71.53,148780,3.9
+Pennsylvania,Postmasters and Mail Superintendents,800,0,0.135,1.43,37.73,78480,0.6
+Pennsylvania,"Property, Real Estate, and Community Association Managers",6070,6.5,1.028,0.68,41.35,86020,6.1
+Pennsylvania,Social and Community Service Managers,8260,4.1,1.4,1.31,31.28,65070,1
+Pennsylvania,Emergency Management Directors,400,4.5,0.069,1,34.05,70830,2.1
+Pennsylvania,Funeral Home Managers,640,13.1,0.108,1.69,44.27,92070,5.3
+Pennsylvania,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",11140,8.3,1.887,0.59,62.2,129370,1.4
+Pennsylvania,Business and Financial Operations Occupations,294690,1,49.935,0.9,36.7,76330,0.5
+Pennsylvania,"Agents and Business Managers of Artists, Performers, and Athletes",120,24,0.02,0.17,27.08,56320,9.3
+Pennsylvania,Buyers and Purchasing Agents,16370,2.2,2.774,0.97,32.15,66880,0.9
+Pennsylvania,"Claims Adjusters, Examiners, and Investigators",13440,5.2,2.278,1.16,32.83,68290,1.7
+Pennsylvania,"Insurance Appraisers, Auto Damage",250,18.3,0.042,0.45,31.21,64910,3.3
+Pennsylvania,Compliance Officers,12670,2.9,2.147,0.99,35.41,73650,1.5
+Pennsylvania,Cost Estimators,8720,3.9,1.478,1.03,33.53,69740,0.9
+Pennsylvania,Human Resources Specialists,24270,2,4.112,0.95,32.59,67790,0.7
+Pennsylvania,Labor Relations Specialists,4280,8.6,0.725,1.41,40.17,83560,6.2
+Pennsylvania,Logisticians,7400,3.7,1.254,1.01,38.23,79520,0.9
+Pennsylvania,Management Analysts,27300,3.6,4.626,0.96,43.75,91000,1.5
+Pennsylvania,"Meeting, Convention, and Event Planners",4450,9.3,0.754,0.94,24.45,50860,3.6
+Pennsylvania,Fundraisers,4010,9.4,0.679,1.22,29.71,61790,3
+Pennsylvania,"Compensation, Benefits, and Job Analysis Specialists",3510,6.3,0.594,0.98,35.13,73060,2.6
+Pennsylvania,Training and Development Specialists,9570,2.8,1.622,0.76,31.29,65090,0.9
+Pennsylvania,Market Research Analysts and Marketing Specialists,25380,2.2,4.301,0.93,33.51,69710,1.1
+Pennsylvania,"Project Management Specialists and Business Operations Specialists, All Other",26490,2.7,4.488,0.52,40.47,84180,0.9
+Pennsylvania,Accountants and Auditors,50880,1.8,8.621,0.99,36.88,76720,0.7
+Pennsylvania,Property Appraisers and Assessors,1270,9.7,0.215,0.56,28.56,59400,2.8
+Pennsylvania,Budget Analysts,1510,3.5,0.256,0.73,33.73,70160,2.5
+Pennsylvania,Credit Analysts,2350,6.4,0.399,0.79,41.08,85440,2.3
+Pennsylvania,Personal Financial Advisors,9260,6.2,1.568,1.1,50.16,104330,5.1
+Pennsylvania,Insurance Underwriters,4690,7.6,0.794,1.17,37.5,77990,2.6
+Pennsylvania,Financial Examiners,1750,10.1,0.296,0.67,44.61,92790,2.7
+Pennsylvania,Credit Counselors,1420,13.1,0.241,1.1,26.61,55350,2.6
+Pennsylvania,Loan Officers,10270,8.2,1.74,0.83,35.99,74870,4
+Pennsylvania,"Tax Examiners and Collectors, and Revenue Agents",3410,2.6,0.577,1.58,22.88,47580,1.7
+Pennsylvania,Tax Preparers,2190,16,0.372,0.82,23.83,49580,6.4
+Pennsylvania,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",17480,3.4,2.962,0.95,43.82,91150,1.9
+Pennsylvania,Computer and Mathematical Occupations,162020,1.7,27.453,0.89,41.7,86730,0.8
+Pennsylvania,Computer Systems Analysts,21500,4.1,3.643,0.91,46.91,97560,1.3
+Pennsylvania,Information Security Analysts,3340,6.2,0.565,0.66,48.75,101390,2.1
+Pennsylvania,Computer and Information Research Scientists,370,22.7,0.063,0.3,52.15,108460,4.2
+Pennsylvania,Computer Network Support Specialists,7860,6.7,1.332,1.06,33.01,68660,2.5
+Pennsylvania,Computer User Support Specialists,22680,3.8,3.843,0.87,25.74,53530,1
+Pennsylvania,Computer Network Architects,7180,6.1,1.216,1.17,53.58,111450,4.2
+Pennsylvania,Network and Computer Systems Administrators,11760,4,1.992,0.83,38.58,80250,0.7
+Pennsylvania,Database Administrators and Architects,6150,6.3,1.042,1.22,41.74,86820,1.6
+Pennsylvania,Computer Programmers,7800,7.3,1.321,0.97,42.27,87920,2
+Pennsylvania,Software Developers and Software Quality Assurance Analysts and Testers,39590,2.8,6.708,0.7,47.73,99280,0.8
+Pennsylvania,Web Developers and Digital Interface Designers,4650,7.2,0.789,0.78,34.71,72190,1.3
+Pennsylvania,"Computer Occupations, All Other",19660,3.2,3.331,1.24,41.91,87170,2.3
+Pennsylvania,Actuaries,1510,15.3,0.255,1.69,59.5,123750,2.7
+Pennsylvania,Mathematicians,50,12,0.009,0.5,40.74,84750,8.3
+Pennsylvania,Operations Research Analysts,3380,6.9,0.572,0.84,41.4,86110,1.8
+Pennsylvania,Statisticians,3430,9.4,0.581,2.18,42.86,89150,4.7
+Pennsylvania,"Data Scientists and Mathematical Science Occupations, All Other",1110,20.1,0.189,0.9,39.1,81330,3.5
+Pennsylvania,Architecture and Engineering Occupations,102990,2.1,17.451,0.99,38.78,80650,0.8
+Pennsylvania,"Architects, Except Landscape and Naval",4060,5.1,0.688,0.96,39.17,81480,3
+Pennsylvania,Landscape Architects,920,18.2,0.155,1.12,32.55,67700,2.7
+Pennsylvania,Cartographers and Photogrammetrists,140,23,0.023,0.3,28.55,59390,3.9
+Pennsylvania,Surveyors,1620,11.3,0.274,0.89,29.49,61330,3.9
+Pennsylvania,Aerospace Engineers,680,5.2,0.115,0.27,54.25,112840,1.8
+Pennsylvania,Agricultural Engineers,50,30,0.008,0.73,36.13,75150,2.3
+Pennsylvania,Bioengineers and Biomedical Engineers,1180,41.3,0.201,1.49,37.53,78070,3.9
+Pennsylvania,Chemical Engineers,1000,9.1,0.17,0.83,45.57,94790,1.4
+Pennsylvania,Civil Engineers,12260,5.2,2.077,0.98,41.85,87050,1.1
+Pennsylvania,Computer Hardware Engineers,1500,17.2,0.254,0.55,56.76,118050,5.7
+Pennsylvania,Electrical Engineers,9110,6.2,1.543,1.22,47.21,98190,1.3
+Pennsylvania,"Electronics Engineers, Except Computer",3500,10.2,0.594,0.68,46.81,97370,1.8
+Pennsylvania,Environmental Engineers,2700,6.8,0.457,1.26,45.1,93810,2.1
+Pennsylvania,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",1490,17.1,0.252,1.43,49.81,103600,3.9
+Pennsylvania,Industrial Engineers,9780,2.9,1.656,0.83,40.45,84130,0.9
+Pennsylvania,Materials Engineers,1660,18.7,0.282,1.54,44.3,92140,2.1
+Pennsylvania,Mechanical Engineers,16930,4.8,2.869,1.37,40.91,85100,0.9
+Pennsylvania,"Mining and Geological Engineers, Including Mining Safety Engineers",290,20,0.049,1.16,44.84,93270,4.8
+Pennsylvania,Nuclear Engineers,850,24,0.144,1.33,55.68,115810,1.7
+Pennsylvania,Petroleum Engineers,970,11.8,0.164,0.74,52.34,108860,3.4
+Pennsylvania,"Engineers, All Other",4910,5.9,0.831,0.8,46.3,96310,1.8
+Pennsylvania,Architectural and Civil Drafters,4540,7.5,0.769,1.14,25.92,53910,1.5
+Pennsylvania,Electrical and Electronics Drafters,1120,10.5,0.189,1.15,32.17,66910,2.5
+Pennsylvania,Mechanical Drafters,3120,5.4,0.529,1.41,26.96,56080,1.2
+Pennsylvania,"Drafters, All Other",220,23.5,0.037,0.37,24.91,51800,2.4
+Pennsylvania,Aerospace Engineering and Operations Technologists and Technicians,**,**,**,**,32.39,67370,7.3
+Pennsylvania,Civil Engineering Technologists and Technicians,2140,9.9,0.362,0.77,26.71,55560,2.1
+Pennsylvania,Electrical and Electronic Engineering Technologists and Technicians,4110,5.6,0.696,0.83,27.12,56410,1.7
+Pennsylvania,Electro-Mechanical and Mechatronics Technologists and Technicians,690,15.3,0.117,1.2,25.69,53440,3.5
+Pennsylvania,Environmental Engineering Technologists and Technicians,690,14,0.118,0.96,25.03,52060,2.4
+Pennsylvania,Industrial Engineering Technologists and Technicians,1890,7.2,0.319,0.7,27.92,58070,2.1
+Pennsylvania,Mechanical Engineering Technologists and Technicians,2580,10,0.437,1.5,26.53,55180,1.7
+Pennsylvania,Surveying and Mapping Technicians,1470,8.3,0.249,0.69,23,47830,1.7
+Pennsylvania,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",4720,5.4,0.799,1.33,27.52,57250,1.3
+Pennsylvania,"Life, Physical, and Social Science Occupations",49320,4.3,8.358,0.95,36.9,76750,1.9
+Pennsylvania,Animal Scientists,**,**,**,**,24.63,51230,8.2
+Pennsylvania,Food Scientists and Technologists,400,9.5,0.068,0.74,37.33,77650,1.9
+Pennsylvania,Soil and Plant Scientists,210,31.8,0.036,0.38,32.88,68390,8.1
+Pennsylvania,Biochemists and Biophysicists,1510,29,0.256,1.2,48.49,100860,4.8
+Pennsylvania,Microbiologists,640,21.6,0.108,0.87,38.38,79840,3.3
+Pennsylvania,Zoologists and Wildlife Biologists,210,13.6,0.035,0.27,33.84,70380,3.7
+Pennsylvania,"Biological Scientists, All Other",640,12.1,0.109,0.4,36.02,74920,3
+Pennsylvania,Conservation Scientists,830,8.6,0.14,0.93,27.17,56520,1.8
+Pennsylvania,Foresters,300,7.4,0.05,0.78,33.31,69290,2
+Pennsylvania,Epidemiologists,130,6.8,0.022,0.43,39.24,81610,8
+Pennsylvania,"Medical Scientists, Except Epidemiologists",7410,9.6,1.255,1.45,54.56,113490,4.1
+Pennsylvania,"Life Scientists, All Other",160,7.6,0.027,0.61,36.53,75990,3.2
+Pennsylvania,Physicists,370,26.7,0.063,0.55,62.26,129490,4
+Pennsylvania,Atmospheric and Space Scientists,160,40.7,0.028,0.44,39.63,82440,3.2
+Pennsylvania,Chemists,5310,22.2,0.899,1.58,36.65,76240,5.5
+Pennsylvania,Materials Scientists,350,23.9,0.06,1.31,46.3,96300,2.6
+Pennsylvania,"Environmental Scientists and Specialists, Including Health",2110,7.8,0.358,0.62,35.02,72840,2.3
+Pennsylvania,"Geoscientists, Except Hydrologists and Geographers",1250,12.5,0.211,1.06,51.5,107130,15
+Pennsylvania,Hydrologists,120,26.5,0.021,0.48,*,*,*
+Pennsylvania,"Physical Scientists, All Other",450,10.4,0.077,0.64,55.82,116120,5.7
+Pennsylvania,Economists,570,12.7,0.096,0.74,41.28,85850,4.3
+Pennsylvania,Survey Researchers,430,17.3,0.073,1.08,26.46,55030,8
+Pennsylvania,"Clinical, Counseling, and School Psychologists",4220,8.3,0.716,0.93,40.95,85170,3.2
+Pennsylvania,Industrial-Organizational Psychologists,**,**,**,**,44.01,91530,3.2
+Pennsylvania,"Psychologists, All Other",460,6.6,0.079,0.81,43.42,90320,3.1
+Pennsylvania,Sociologists,60,35.3,0.01,0.54,61.07,127020,6.1
+Pennsylvania,Urban and Regional Planners,1330,8.5,0.225,0.86,33.25,69160,2.5
+Pennsylvania,Anthropologists and Archeologists,80,18.4,0.013,0.29,34.36,71470,3.7
+Pennsylvania,Historians,130,11.4,0.022,1.08,32.03,66620,2.9
+Pennsylvania,Political Scientists,120,35.4,0.021,0.51,51.25,106590,3.7
+Pennsylvania,"Social Scientists and Related Workers, All Other",550,2.3,0.093,0.41,39.99,83180,2.6
+Pennsylvania,Agricultural and Food Science Technicians,700,12.4,0.119,0.8,19.9,41380,1.8
+Pennsylvania,Biological Technicians,3490,23.8,0.592,1.09,22.98,47790,2.6
+Pennsylvania,Chemical Technicians,3230,9,0.548,1.22,23.42,48710,3.3
+Pennsylvania,"Environmental Science and Protection Technicians, Including Health",1390,9.4,0.236,1.06,20.57,42790,2.1
+Pennsylvania,Geological and Hydrologic Technicians,520,20.2,0.088,0.75,23.88,49670,6.1
+Pennsylvania,Social Science Research Assistants,1050,8.1,0.179,0.74,21.85,45460,2.4
+Pennsylvania,Forest and Conservation Technicians,300,3.2,0.051,0.39,24.69,51360,0.8
+Pennsylvania,Forensic Science Technicians,300,13,0.05,0.45,24.84,51660,3
+Pennsylvania,"Life, Physical, and Social Science Technicians, All Other",1900,14.9,0.321,0.73,25.61,53280,5.4
+Pennsylvania,Occupational Health and Safety Specialists,4640,6.1,0.787,1.25,35.14,73100,1.5
+Pennsylvania,Occupational Health and Safety Technicians,680,9.4,0.115,0.82,24.38,50720,2.2
+Pennsylvania,Community and Social Service Occupations,106330,1.9,18.017,1.18,22.54,46880,0.8
+Pennsylvania,"Educational, Guidance, and Career Counselors and Advisors",8010,5.9,1.357,0.67,30.61,63680,1.4
+Pennsylvania,Marriage and Family Therapists,1820,23.3,0.308,0.77,29.87,62140,2.9
+Pennsylvania,Rehabilitation Counselors,7390,12.6,1.252,1.69,19.56,40680,2.8
+Pennsylvania,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",20350,3.7,3.447,1.79,22.83,47480,1
+Pennsylvania,"Counselors, All Other",940,15.2,0.159,0.92,27.5,57190,1.5
+Pennsylvania,"Child, Family, and School Social Workers",21180,3.7,3.589,1.61,21.57,44870,1.6
+Pennsylvania,Healthcare Social Workers,7950,4,1.347,1.13,26.41,54920,1.3
+Pennsylvania,Mental Health and Substance Abuse Social Workers,7610,7.1,1.29,1.61,18.61,38710,1.4
+Pennsylvania,"Social Workers, All Other",1660,6.8,0.282,0.71,27.97,58180,3.8
+Pennsylvania,Health Education Specialists,2120,6.7,0.359,0.9,28.92,60140,2.2
+Pennsylvania,Probation Officers and Correctional Treatment Specialists,4110,1.9,0.697,1.16,27.19,56550,0.8
+Pennsylvania,Social and Human Service Assistants,15870,4.5,2.69,0.98,16.58,34490,0.7
+Pennsylvania,Community Health Workers,1830,6.2,0.31,0.77,20.7,43050,2.1
+Pennsylvania,"Community and Social Service Specialists, All Other",1180,8.1,0.201,0.3,25.93,53930,4
+Pennsylvania,Clergy,2430,8,0.411,1.14,25.36,52740,5.9
+Pennsylvania,"Directors, Religious Activities and Education",1500,9.5,0.254,1.71,19.29,40130,6.1
+Pennsylvania,"Religious Workers, All Other",380,20.2,0.065,1.01,*,*,*
+Pennsylvania,Legal Occupations,42870,2.8,7.264,0.93,51.23,106560,2.6
+Pennsylvania,Lawyers,24840,3.3,4.21,0.94,68.7,142890,2.4
+Pennsylvania,Judicial Law Clerks,1000,3,0.169,1.49,19.85,41300,1.5
+Pennsylvania,"Administrative Law Judges, Adjudicators, and Hearing Officers",770,2.7,0.13,1.33,45.33,94290,1.3
+Pennsylvania,"Arbitrators, Mediators, and Conciliators",190,6.5,0.032,0.77,30.39,63210,4
+Pennsylvania,"Judges, Magistrate Judges, and Magistrates",230,1.1,0.039,0.2,29,60310,3.2
+Pennsylvania,Paralegals and Legal Assistants,12620,5,2.139,0.95,26.68,55490,2.1
+Pennsylvania,"Title Examiners, Abstractors, and Searchers",2250,14.5,0.381,1.06,22.38,46540,3.2
+Pennsylvania,"Legal Support Workers, All Other",970,9.6,0.164,0.53,36.57,76070,5.7
+Pennsylvania,Educational Instruction and Library Occupations,341380,2.2,57.846,0.96,29.71,61790,1.8
+Pennsylvania,"Business Teachers, Postsecondary",4970,10,0.843,1.48,*,107050,4.5
+Pennsylvania,"Computer Science Teachers, Postsecondary",1650,10.7,0.28,1.29,*,111290,10.3
+Pennsylvania,"Mathematical Science Teachers, Postsecondary",2370,10.4,0.401,1.15,*,90450,4.1
+Pennsylvania,"Architecture Teachers, Postsecondary",330,27.7,0.056,1.22,*,106760,7.8
+Pennsylvania,"Engineering Teachers, Postsecondary",2560,10.1,0.433,1.76,*,118020,7.8
+Pennsylvania,"Agricultural Sciences Teachers, Postsecondary",**,**,**,**,*,79920,3.6
+Pennsylvania,"Biological Science Teachers, Postsecondary",3190,9.4,0.541,1.5,*,97430,2.4
+Pennsylvania,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",860,6.1,0.145,1.94,*,97240,2.9
+Pennsylvania,"Chemistry Teachers, Postsecondary",1470,12.8,0.25,1.71,*,89010,2.5
+Pennsylvania,"Environmental Science Teachers, Postsecondary",220,9.4,0.036,0.88,*,100790,4
+Pennsylvania,"Physics Teachers, Postsecondary",820,18.6,0.14,1.49,*,97860,3.5
+Pennsylvania,"Anthropology and Archeology Teachers, Postsecondary",300,18.7,0.05,1.26,*,89050,2.1
+Pennsylvania,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",610,28.6,0.103,1.42,*,86800,4.6
+Pennsylvania,"Economics Teachers, Postsecondary",710,11.8,0.121,1.34,*,131250,6.7
+Pennsylvania,"Geography Teachers, Postsecondary",230,28.2,0.04,1.47,*,85790,2.8
+Pennsylvania,"Political Science Teachers, Postsecondary",640,11.4,0.109,1.01,*,103770,4.8
+Pennsylvania,"Psychology Teachers, Postsecondary",2290,9.8,0.388,1.52,*,90740,3.5
+Pennsylvania,"Sociology Teachers, Postsecondary",670,12.4,0.113,1.2,*,86140,2.4
+Pennsylvania,"Social Sciences Teachers, Postsecondary, All Other",600,9.8,0.101,0.88,*,93830,7.5
+Pennsylvania,"Health Specialties Teachers, Postsecondary",15130,14.3,2.563,1.86,*,99200,2.5
+Pennsylvania,"Nursing Instructors and Teachers, Postsecondary",3420,6.3,0.579,1.43,*,81760,3.5
+Pennsylvania,"Education Teachers, Postsecondary",2530,4,0.429,1.03,*,72310,3.4
+Pennsylvania,"Library Science Teachers, Postsecondary",290,12.9,0.05,1.67,*,78910,1.9
+Pennsylvania,"Criminal Justice and Law Enforcement Teachers, Postsecondary",800,10,0.136,1.41,*,79780,6
+Pennsylvania,"Law Teachers, Postsecondary",680,25.1,0.116,1.05,*,108420,8.9
+Pennsylvania,"Social Work Teachers, Postsecondary",820,12.1,0.139,1.49,*,74470,5
+Pennsylvania,"Art, Drama, and Music Teachers, Postsecondary",4380,9,0.741,1.16,*,80640,2.7
+Pennsylvania,"Communications Teachers, Postsecondary",1440,19,0.243,1.23,*,78880,3
+Pennsylvania,"English Language and Literature Teachers, Postsecondary",3500,6.6,0.593,1.28,*,75380,2.8
+Pennsylvania,"Foreign Language and Literature Teachers, Postsecondary",1460,10.2,0.247,1.46,*,78000,3.1
+Pennsylvania,"History Teachers, Postsecondary",1030,10,0.175,1.22,*,92660,2.5
+Pennsylvania,"Philosophy and Religion Teachers, Postsecondary",1020,4.5,0.172,1.08,*,91250,3.3
+Pennsylvania,"Recreation and Fitness Studies Teachers, Postsecondary",840,7.2,0.142,1.31,*,75280,4.1
+Pennsylvania,"Career/Technical Education Teachers, Postsecondary",4620,8.7,0.783,1.03,27.74,57700,2.9
+Pennsylvania,"Postsecondary Teachers, All Other",5110,6.8,0.866,0.63,*,72160,5.6
+Pennsylvania,"Preschool Teachers, Except Special Education",14400,5.8,2.44,0.83,15.08,31380,2.5
+Pennsylvania,"Kindergarten Teachers, Except Special Education",3040,10.3,0.515,0.61,*,66160,2.6
+Pennsylvania,"Elementary School Teachers, Except Special Education",57100,6.7,9.675,0.99,*,69630,1.3
+Pennsylvania,"Middle School Teachers, Except Special and Career/Technical Education",26460,9.3,4.483,1.06,*,69330,2.5
+Pennsylvania,"Career/Technical Education Teachers, Middle School",480,14.3,0.081,1,*,74990,4.3
+Pennsylvania,"Secondary School Teachers, Except Special and Career/Technical Education",46130,5.4,7.816,1.11,*,66920,1.4
+Pennsylvania,"Career/Technical Education Teachers, Secondary School",3700,18.4,0.626,1.23,*,67500,2.7
+Pennsylvania,"Special Education Teachers, Preschool",510,20.6,0.087,0.57,*,54160,10.2
+Pennsylvania,"Special Education Teachers, Kindergarten and Elementary School",5540,8.9,0.938,0.71,*,65770,1.9
+Pennsylvania,"Special Education Teachers, Middle School",3160,15,0.535,0.92,*,66110,3.6
+Pennsylvania,"Special Education Teachers, Secondary School",7970,8,1.351,1.39,*,64830,1.7
+Pennsylvania,"Special Education Teachers, All Other",160,15.3,0.027,0.11,*,61860,3.3
+Pennsylvania,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",1290,16.8,0.219,0.62,26.02,54120,2.2
+Pennsylvania,Self-Enrichment Teachers,10190,8.5,1.727,1,18.38,38220,3.1
+Pennsylvania,"Substitute Teachers, Short-Term",15270,13.6,2.588,0.65,16.82,34990,4.9
+Pennsylvania,"Tutors and Teachers and Instructors, All Other",5890,11.6,0.998,0.46,*,46360,3.7
+Pennsylvania,Archivists,230,9.3,0.04,0.89,27.44,57080,2.3
+Pennsylvania,Curators,670,11.7,0.114,1.29,26,54090,4.4
+Pennsylvania,Museum Technicians and Conservators,640,9.3,0.108,1.2,21.18,44050,4.4
+Pennsylvania,Librarians and Media Collections Specialists,5400,5,0.915,0.99,27.49,57190,1.8
+Pennsylvania,Library Technicians,1930,6.9,0.326,0.54,16.43,34180,2.1
+Pennsylvania,Instructional Coordinators,6730,5,1.141,0.95,35.74,74330,2.4
+Pennsylvania,"Teaching Assistants, Postsecondary",1220,31.3,0.206,0.22,*,38870,4.4
+Pennsylvania,"Teaching Assistants, Except Postsecondary",49610,2.7,8.406,0.92,*,27450,1.1
+Pennsylvania,"Educational Instruction and Library Workers, All Other",1850,9.5,0.314,0.36,22.99,47810,3.2
+Pennsylvania,"Arts, Design, Entertainment, Sports, and Media Occupations",61200,2.9,10.37,0.75,25.35,52720,1.3
+Pennsylvania,Art Directors,1400,9.3,0.237,0.81,46.4,96510,3.2
+Pennsylvania,Craft Artists,150,39.2,0.026,0.81,*,*,*
+Pennsylvania,Special Effects Artists and Animators,500,21.9,0.084,0.42,30.86,64190,3.3
+Pennsylvania,"Artists and Related Workers, All Other",140,22.9,0.023,0.46,33.11,68880,3.8
+Pennsylvania,Commercial and Industrial Designers,1040,19.3,0.176,0.79,34.06,70830,2.4
+Pennsylvania,Fashion Designers,**,**,**,**,24.63,51230,8.7
+Pennsylvania,Floral Designers,1520,10.4,0.258,0.91,13.08,27200,3.2
+Pennsylvania,Graphic Designers,7650,3.4,1.296,0.88,25.78,53630,1.4
+Pennsylvania,Interior Designers,1660,10.4,0.281,0.68,30.29,63010,4.1
+Pennsylvania,Merchandise Displayers and Window Trimmers,4980,22.1,0.844,0.88,14.65,30470,2.1
+Pennsylvania,Set and Exhibit Designers,250,14.1,0.043,0.52,23.01,47860,3
+Pennsylvania,"Designers, All Other",80,25.9,0.013,0.18,22.8,47430,9.8
+Pennsylvania,Actors,2050,23.9,0.347,0.97,18.91,*,13.2
+Pennsylvania,Producers and Directors,2780,5.9,0.471,0.54,32.06,66690,5.6
+Pennsylvania,Athletes and Sports Competitors,1030,15.4,0.175,2.27,*,47300,8.2
+Pennsylvania,Coaches and Scouts,7170,7.2,1.215,0.74,*,44170,4.1
+Pennsylvania,"Umpires, Referees, and Other Sports Officials",220,23.1,0.038,0.27,*,43010,22.2
+Pennsylvania,Dancers,90,36.9,0.015,0.23,21.63,*,13.2
+Pennsylvania,Choreographers,70,27,0.012,0.39,19.17,39880,8.6
+Pennsylvania,Music Directors and Composers,420,15.3,0.071,0.99,23.89,49690,7.1
+Pennsylvania,Musicians and Singers,1120,12.2,0.189,0.68,35.33,*,10.7
+Pennsylvania,"Miscellaneous Entertainers and Performers, Sports and Related Workers",**,**,**,**,16.46,*,21.1
+Pennsylvania,Broadcast Announcers and Radio Disc Jockeys,1040,14.7,0.177,0.89,23.17,48200,4.8
+Pennsylvania,"News Analysts, Reporters, and Journalists",1350,11.6,0.228,0.76,22.22,46230,4.6
+Pennsylvania,Public Relations Specialists,7390,4.6,1.252,0.75,29.45,61260,1.5
+Pennsylvania,Editors,2950,7.9,0.5,0.77,31.18,64850,2.7
+Pennsylvania,Technical Writers,2090,6.2,0.354,1.02,35.43,73690,1.5
+Pennsylvania,Writers and Authors,1600,9.1,0.27,0.87,30.36,63140,2.5
+Pennsylvania,Interpreters and Translators,760,12.3,0.129,0.32,23.86,49630,6.2
+Pennsylvania,Court Reporters and Simultaneous Captioners,970,24.9,0.165,1.66,25.82,53700,3.3
+Pennsylvania,"Media and Communication Workers, All Other",300,24.6,0.051,0.3,22.14,46050,9.4
+Pennsylvania,Audio and Video Technicians,2280,9,0.386,0.77,23.59,49060,2.5
+Pennsylvania,Broadcast Technicians,750,10.9,0.127,0.65,20.63,42900,4.5
+Pennsylvania,Sound Engineering Technicians,270,17.4,0.045,0.51,24.91,51810,6.6
+Pennsylvania,Photographers,1880,12,0.319,0.92,17.3,35980,4.4
+Pennsylvania,"Camera Operators, Television, Video, and Film",810,14.2,0.137,0.93,23.26,48370,6.7
+Pennsylvania,Film and Video Editors,480,11.4,0.081,0.43,29.36,61080,4.9
+Pennsylvania,"Lighting Technicians and Media and Communication Equipment Workers, All Other",**,**,**,**,41.9,87150,2.4
+Pennsylvania,Healthcare Practitioners and Technical Occupations,406110,1.2,68.814,1.17,37.37,77730,1
+Pennsylvania,Chiropractors,1470,12.4,0.25,1.05,35.34,73500,6
+Pennsylvania,"Dentists, General",3190,9.4,0.541,0.72,79.21,164760,6
+Pennsylvania,Oral and Maxillofacial Surgeons,290,25.2,0.049,1.54,110.36,229550,10.8
+Pennsylvania,Orthodontists,220,33.5,0.038,0.92,127.88,265990,11.9
+Pennsylvania,"Dentists, All Other Specialists",140,36.8,0.024,0.66,52.16,108480,3.7
+Pennsylvania,Dietitians and Nutritionists,3520,5.4,0.597,1.3,28.44,59160,1.7
+Pennsylvania,Optometrists,**,**,**,**,61.8,128540,6.4
+Pennsylvania,Pharmacists,14750,4.9,2.5,1.18,57.59,119800,2.5
+Pennsylvania,Physician Assistants,7200,6.8,1.221,1.49,49.33,102620,2.1
+Pennsylvania,Podiatrists,650,14.4,0.111,1.66,66,137270,6
+Pennsylvania,Occupational Therapists,7680,4.9,1.302,1.43,39.96,83120,0.9
+Pennsylvania,Physical Therapists,11800,4.6,2,1.26,42.52,88450,1.3
+Pennsylvania,Radiation Therapists,670,15.8,0.113,0.93,40.53,84310,1.4
+Pennsylvania,Recreational Therapists,1150,9,0.195,1.5,22.49,46770,4.4
+Pennsylvania,Respiratory Therapists,5930,4.1,1.005,1.12,27.69,57600,0.7
+Pennsylvania,Speech-Language Pathologists,5700,4.7,0.965,0.92,38.86,80840,1.6
+Pennsylvania,Exercise Physiologists,420,29.1,0.071,1.43,23.76,49420,5.7
+Pennsylvania,"Therapists, All Other",160,21.7,0.028,0.34,25.38,52780,2.9
+Pennsylvania,Veterinarians,3560,19.2,0.603,1.19,50.8,105670,2.6
+Pennsylvania,Registered Nurses,148040,1.9,25.084,1.24,34.33,71410,0.7
+Pennsylvania,Nurse Anesthetists,2010,17.7,0.341,1.15,83.77,174240,2.7
+Pennsylvania,Nurse Midwives,400,17.5,0.067,1.42,47.44,98680,2.7
+Pennsylvania,Nurse Practitioners,7820,8.3,1.326,0.97,49.02,101950,1.3
+Pennsylvania,Audiologists,460,18.8,0.077,0.84,37.57,78150,4.1
+Pennsylvania,Anesthesiologists,480,21.7,0.082,0.39,119.35,248250,8.1
+Pennsylvania,Family Medicine Physicians,3210,13.7,0.545,0.73,96.74,201220,4.3
+Pennsylvania,General Internal Medicine Physicians,**,**,**,**,109.45,227650,6.5
+Pennsylvania,Obstetricians and Gynecologists,430,22.7,0.072,0.57,118.48,246430,5.9
+Pennsylvania,"Pediatricians, General",460,23.2,0.079,0.39,92.04,191450,5.9
+Pennsylvania,Psychiatrists,1180,18,0.201,1.15,100.27,208550,7.6
+Pennsylvania,"Physicians, All Other; and Ophthalmologists, Except Pediatric",22160,5.8,3.754,1.41,95.55,198750,5.4
+Pennsylvania,"Surgeons, Except Ophthalmologists",710,32,0.12,0.49,124.35,258650,8.5
+Pennsylvania,Dental Hygienists,9220,5.4,1.562,1.04,32.66,67940,1.7
+Pennsylvania,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",650,11.8,0.111,0.45,40.94,85150,3.9
+Pennsylvania,Clinical Laboratory Technologists and Technicians,13870,5.2,2.35,1.06,25.74,53540,1
+Pennsylvania,Cardiovascular Technologists and Technicians,3180,7,0.539,1.41,27.34,56860,2.5
+Pennsylvania,Diagnostic Medical Sonographers,2820,7.1,0.478,0.96,31.86,66270,1
+Pennsylvania,Nuclear Medicine Technologists,860,7.4,0.146,1.18,34.26,71250,1.1
+Pennsylvania,Radiologic Technologists and Technicians,10150,4.1,1.72,1.22,25.89,53860,0.8
+Pennsylvania,Magnetic Resonance Imaging Technologists,1480,10.5,0.251,0.97,30.85,64180,1.1
+Pennsylvania,Emergency Medical Technicians and Paramedics,13890,6.8,2.354,1.33,16.5,34310,2.9
+Pennsylvania,Dietetic Technicians,1080,12.6,0.182,0.92,15.17,31550,2.7
+Pennsylvania,Pharmacy Technicians,18250,4.5,3.092,1.09,14.97,31130,1.2
+Pennsylvania,Psychiatric Technicians,2490,12.5,0.421,0.79,15.22,31650,1.4
+Pennsylvania,Surgical Technologists,4140,5.6,0.702,0.95,21.87,45480,0.6
+Pennsylvania,Veterinary Technologists and Technicians,5250,7.8,0.89,1.18,17.81,37050,2.6
+Pennsylvania,Ophthalmic Medical Technicians,1830,27.1,0.31,0.78,14.86,30900,11.1
+Pennsylvania,Licensed Practical and Licensed Vocational Nurses,36970,3,6.264,1.32,23.65,49200,0.6
+Pennsylvania,"Opticians, Dispensing",2570,9.8,0.436,0.89,17.36,36100,2.9
+Pennsylvania,Orthotists and Prosthetists,530,19.3,0.09,1.34,34.12,70960,2.6
+Pennsylvania,Hearing Aid Specialists,170,24.7,0.029,0.52,23.94,49790,5.6
+Pennsylvania,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",14270,4.9,2.418,1.07,20.86,43390,1
+Pennsylvania,Athletic Trainers,1660,17.3,0.282,1.45,*,49870,2.7
+Pennsylvania,Genetic Counselors,140,19.6,0.024,1.45,38.49,80050,2.3
+Pennsylvania,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",1480,12.1,0.251,0.68,35.61,74060,3.5
+Pennsylvania,Healthcare Support Occupations,335890,1.2,56.916,1.28,14.31,29760,0.5
+Pennsylvania,Home Health and Personal Care Aides,183430,1.8,31.082,1.44,12.41,25810,0.5
+Pennsylvania,Nursing Assistants,75090,2.4,12.723,1.32,15.19,31590,0.5
+Pennsylvania,Orderlies,2610,6.5,0.443,1.38,14.07,29260,0.9
+Pennsylvania,Psychiatric Aides,2660,12.2,0.451,1.2,17.26,35910,5.4
+Pennsylvania,Occupational Therapy Assistants,2670,5.8,0.452,1.48,27.5,57200,0.9
+Pennsylvania,Occupational Therapy Aides,320,21.2,0.054,1.06,15.68,32610,3.3
+Pennsylvania,Physical Therapist Assistants,5330,4.9,0.903,1.37,26.69,55520,1.7
+Pennsylvania,Physical Therapist Aides,1990,11.5,0.337,1.01,15.17,31550,7.9
+Pennsylvania,Massage Therapists,4000,9.3,0.677,0.93,21.88,45520,3.6
+Pennsylvania,Dental Assistants,11400,3.9,1.932,0.81,19.37,40290,2
+Pennsylvania,Medical Assistants,29280,3.3,4.961,1.02,16.1,33490,0.6
+Pennsylvania,Medical Equipment Preparers,2080,8,0.352,0.91,16.91,35170,1
+Pennsylvania,Medical Transcriptionists,2640,21.3,0.447,1.18,17.04,35450,2.4
+Pennsylvania,Pharmacy Aides,2520,16.4,0.427,1.68,12.54,26080,2.8
+Pennsylvania,Veterinary Assistants and Laboratory Animal Caretakers,2660,14.1,0.45,0.68,13.89,28890,3.3
+Pennsylvania,Phlebotomists,5410,6.2,0.917,1.05,16.75,34830,0.8
+Pennsylvania,"Healthcare Support Workers, All Other",1800,11.5,0.305,0.48,20.17,41960,1.6
+Pennsylvania,Protective Service Occupations,130140,1.6,22.052,0.93,22.88,47580,2.1
+Pennsylvania,First-Line Supervisors of Correctional Officers,1260,0.8,0.213,0.67,41.87,87090,0.9
+Pennsylvania,First-Line Supervisors of Police and Detectives,3600,2.4,0.611,0.74,46.17,96040,1.6
+Pennsylvania,First-Line Supervisors of Firefighting and Prevention Workers,910,3.1,0.154,0.33,37.52,78030,1.9
+Pennsylvania,"Miscellaneous First-Line Supervisors, Protective Service Workers",2810,10.7,0.476,0.85,25.37,52760,2.9
+Pennsylvania,Firefighters,4410,4.3,0.748,0.34,28.23,58720,4.3
+Pennsylvania,Fire Inspectors and Investigators,250,28.3,0.043,0.46,25.92,53910,3.8
+Pennsylvania,Bailiffs,710,2.3,0.121,0.9,16.36,34030,4.5
+Pennsylvania,Correctional Officers and Jailers,17590,2.1,2.98,1.03,26.6,55330,1.1
+Pennsylvania,Detectives and Criminal Investigators,2820,1.7,0.477,0.66,42.05,87460,1.9
+Pennsylvania,Parking Enforcement Workers,530,7.4,0.09,1.72,18.17,37790,4.1
+Pennsylvania,Police and Sheriff's Patrol Officers,27990,1.9,4.742,1.05,33.14,68940,1.2
+Pennsylvania,Transit and Railroad Police,40,2.8,0.006,0.2,28.25,58750,3.9
+Pennsylvania,Animal Control Workers,180,12.2,0.03,0.36,20,41590,2.3
+Pennsylvania,Private Detectives and Investigators,3330,21,0.564,2.37,23.05,47940,2.7
+Pennsylvania,Gambling Surveillance Officers and Gambling Investigators,310,12,0.052,0.74,22.71,47230,3.9
+Pennsylvania,Security Guards,41330,4.2,7.003,0.91,14.47,30110,1.1
+Pennsylvania,Crossing Guards and Flaggers,7390,8.2,1.252,2.16,14.47,30090,4
+Pennsylvania,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",5850,8.6,0.992,1.01,10.18,21160,1.1
+Pennsylvania,Transportation Security Screeners,1430,7.4,0.242,0.76,19.71,41000,2.2
+Pennsylvania,"School Bus Monitors and Protective Service Workers, All Other",7350,5,1.245,1.25,14.13,29390,2.4
+Pennsylvania,Food Preparation and Serving Related Occupations,509330,0.8,86.304,0.94,12.11,25190,0.5
+Pennsylvania,Chefs and Head Cooks,3020,7.5,0.511,0.59,28.39,59040,1.9
+Pennsylvania,First-Line Supervisors of Food Preparation and Serving Workers,40640,2.4,6.885,1,18.73,38960,1.3
+Pennsylvania,"Cooks, Fast Food",7840,15.5,1.329,0.37,9.98,20760,1.9
+Pennsylvania,"Cooks, Institution and Cafeteria",14380,3.7,2.437,0.89,14.47,30090,0.9
+Pennsylvania,"Cooks, Restaurant",58390,2.7,9.893,1.04,12.87,26770,1
+Pennsylvania,"Cooks, Short Order",2270,19.4,0.385,0.37,12.74,26510,3.4
+Pennsylvania,"Cooks, All Other",220,42.3,0.038,0.29,14.98,31150,15.5
+Pennsylvania,Food Preparation Workers,17810,5.8,3.018,0.51,11.52,23970,1.1
+Pennsylvania,Bartenders,32450,4.1,5.498,1.25,11.71,24360,1.5
+Pennsylvania,Fast Food and Counter Workers,167840,2.4,28.439,1.05,10.56,21970,0.7
+Pennsylvania,Waiters and Waitresses,96210,2.6,16.302,0.93,12.2,25380,1.3
+Pennsylvania,"Food Servers, Nonrestaurant",12950,4,2.195,1.16,11.36,23640,0.9
+Pennsylvania,Dining Room and Cafeteria Attendants and Bartender Helpers,16330,6,2.768,0.85,9.91,20610,1.4
+Pennsylvania,Dishwashers,22060,4.1,3.738,1.07,10.57,21990,0.7
+Pennsylvania,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",15930,4.4,2.699,0.94,10.33,21480,1.2
+Pennsylvania,"Food Preparation and Serving Related Workers, All Other",980,27.2,0.166,0.34,12.51,26010,4
+Pennsylvania,Building and Grounds Cleaning and Maintenance Occupations,167960,1.4,28.46,0.94,14.66,30500,0.7
+Pennsylvania,First-Line Supervisors of Housekeeping and Janitorial Workers,5950,3.8,1.008,0.95,21.71,45160,1.6
+Pennsylvania,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3590,15.5,0.608,0.86,25.85,53760,7.3
+Pennsylvania,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",90110,2.3,15.269,1.05,14.3,29740,0.8
+Pennsylvania,Maids and Housekeeping Cleaners,30890,3.2,5.235,0.83,11.91,24770,0.9
+Pennsylvania,Pest Control Workers,1680,4.8,0.285,0.53,18.53,38550,2
+Pennsylvania,Landscaping and Groundskeeping Workers,32670,3.7,5.535,0.89,15.19,31600,1.3
+Pennsylvania,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",430,32.8,0.073,0.42,20,41610,2.5
+Pennsylvania,Tree Trimmers and Pruners,2190,28.2,0.372,1.16,18.6,38680,4.2
+Pennsylvania,"Grounds Maintenance Workers, All Other",80,0,0.013,0.14,27.61,57430,1.6
+Pennsylvania,Personal Care and Service Occupations,145640,1.8,24.678,1.1,13.68,28440,0.8
+Pennsylvania,First-Line Supervisors of Gambling Services Workers,1040,14,0.176,0.88,22.79,47390,3.8
+Pennsylvania,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",12560,3.5,2.128,1.44,20.17,41940,1
+Pennsylvania,Animal Trainers,330,13.7,0.056,0.5,14.47,30100,7.7
+Pennsylvania,Animal Caretakers,8670,5.4,1.468,1.02,12.31,25610,2.2
+Pennsylvania,Gambling Dealers,3870,19.2,0.656,0.97,10.09,20990,3.6
+Pennsylvania,Gambling and Sports Book Writers and Runners,110,42.2,0.019,0.28,12.96,26950,8.8
+Pennsylvania,Motion Picture Projectionists,450,45.8,0.077,2.48,9.75,20280,5.1
+Pennsylvania,"Ushers, Lobby Attendants, and Ticket Takers",4720,13.4,0.8,0.85,11.01,22900,2.3
+Pennsylvania,Amusement and Recreation Attendants,10770,9.8,1.825,0.79,9.95,20690,1.7
+Pennsylvania,Costume Attendants,210,17.2,0.036,0.71,19.67,40910,4.5
+Pennsylvania,"Locker Room, Coatroom, and Dressing Room Attendants",990,8.7,0.168,1.54,10.75,22370,2.1
+Pennsylvania,Funeral Attendants,2350,9.8,0.399,1.7,15.57,32380,4.9
+Pennsylvania,"Morticians, Undertakers, and Funeral Arrangers",1270,11.1,0.215,1.24,25.25,52510,5.8
+Pennsylvania,Barbers,1210,28.5,0.206,1.51,14.39,29930,6.5
+Pennsylvania,"Hairdressers, Hairstylists, and Cosmetologists",24270,4.1,4.113,1.57,13.12,27290,2.4
+Pennsylvania,Manicurists and Pedicurists,5350,13,0.907,1.19,10.4,21630,2.8
+Pennsylvania,Shampooers,1520,8.9,0.257,3.12,9.47,19710,2.8
+Pennsylvania,Skincare Specialists,2540,16.6,0.43,1.11,17.93,37300,3.6
+Pennsylvania,Baggage Porters and Bellhops,1190,17.6,0.202,0.74,13.53,28150,3.4
+Pennsylvania,Concierges,1060,14.7,0.18,0.63,14.34,29830,1.9
+Pennsylvania,Tour and Travel Guides,2180,21.1,0.369,1.11,12.89,26820,2.4
+Pennsylvania,Childcare Workers,24340,4.9,4.124,1.08,11.35,23610,1.9
+Pennsylvania,Exercise Trainers and Group Fitness Instructors,13400,7.1,2.27,1.02,17.59,36590,3.4
+Pennsylvania,Recreation Workers,13210,4.5,2.238,0.92,13.23,27510,1.8
+Pennsylvania,Residential Advisors,6860,7.9,1.163,1.58,14.51,30180,1.3
+Pennsylvania,"Crematory Operators and Personal Care and Service Workers, All Other",890,25.1,0.151,0.36,15.17,31550,16
+Pennsylvania,Sales and Related Occupations,541890,1.2,91.821,0.94,20.52,42680,0.9
+Pennsylvania,First-Line Supervisors of Retail Sales Workers,47640,2.1,8.073,1.01,22.42,46630,1.2
+Pennsylvania,First-Line Supervisors of Non-Retail Sales Workers,12010,3.8,2.034,1.2,46.15,96000,1.4
+Pennsylvania,Cashiers,140150,3.7,23.749,0.97,10.61,22060,0.6
+Pennsylvania,Gambling Change Persons and Booth Cashiers,460,30.9,0.077,0.53,13.12,27300,4.7
+Pennsylvania,Counter and Rental Clerks,10830,5.3,1.834,0.65,14.41,29980,1.7
+Pennsylvania,Parts Salespersons,9800,4.9,1.661,0.95,16.09,33470,1.6
+Pennsylvania,Retail Salespersons,159180,2.7,26.973,0.92,13.8,28710,1.1
+Pennsylvania,Advertising Sales Agents,3700,5.6,0.626,0.71,27.44,57080,3.8
+Pennsylvania,Insurance Sales Agents,14880,4.8,2.522,0.9,33.81,70320,4.7
+Pennsylvania,"Securities, Commodities, and Financial Services Sales Agents",17050,3.8,2.888,0.97,38.87,80860,4.5
+Pennsylvania,Travel Agents,2210,8.2,0.375,0.83,19.78,41130,3.7
+Pennsylvania,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",34350,3.5,5.82,0.82,33.83,70370,1.7
+Pennsylvania,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",11530,31.7,1.954,0.94,39.11,81350,5.6
+Pennsylvania,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",56930,1.8,9.646,1.05,35.47,73780,1.3
+Pennsylvania,Demonstrators and Product Promoters,2800,17.6,0.474,0.9,15.89,33040,4.8
+Pennsylvania,Models,40,19,0.007,0.46,18.3,38050,3.4
+Pennsylvania,Real Estate Brokers,780,22,0.132,0.45,*,*,*
+Pennsylvania,Real Estate Sales Agents,6210,8.1,1.053,0.95,30.01,62430,5.7
+Pennsylvania,Sales Engineers,3200,8.8,0.543,1.25,48.22,100300,2.5
+Pennsylvania,Telemarketers,6020,13.9,1.02,1.11,13.78,28670,3.7
+Pennsylvania,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",160,28.3,0.027,0.45,13.8,28690,2.7
+Pennsylvania,"Sales and Related Workers, All Other",1960,6.7,0.332,0.41,15.82,32900,5
+Pennsylvania,Office and Administrative Support Occupations,825920,0.8,139.949,1.05,19.45,40460,0.3
+Pennsylvania,First-Line Supervisors of Office and Administrative Support Workers,68700,1.6,11.64,1.15,29.58,61520,0.8
+Pennsylvania,"Switchboard Operators, Including Answering Service",2130,10.7,0.361,0.78,14.75,30680,1.6
+Pennsylvania,Telephone Operators,220,33.8,0.037,1.16,19.16,39840,5.5
+Pennsylvania,"Communications Equipment Operators, All Other",70,34.9,0.011,0.52,27.1,56380,8.6
+Pennsylvania,Bill and Account Collectors,8320,5.5,1.409,0.88,18.85,39210,1.7
+Pennsylvania,Billing and Posting Clerks,20870,3.8,3.537,1.11,19.3,40150,0.7
+Pennsylvania,"Bookkeeping, Accounting, and Auditing Clerks",55880,2.1,9.469,0.92,19.69,40950,0.6
+Pennsylvania,Gambling Cage Workers,**,**,**,**,14.14,29410,2.6
+Pennsylvania,Payroll and Timekeeping Clerks,5430,4.2,0.919,0.95,21.83,45410,1.1
+Pennsylvania,Procurement Clerks,3180,3.9,0.539,1.2,21.02,43730,0.7
+Pennsylvania,Tellers,18590,2.8,3.151,1.05,15.02,31240,0.9
+Pennsylvania,"Financial Clerks, All Other",640,23.7,0.108,0.52,20.08,41760,4.2
+Pennsylvania,Brokerage Clerks,2390,8.3,0.405,1.24,26.42,54960,5.2
+Pennsylvania,Correspondence Clerks,220,15.7,0.037,0.87,20.75,43170,2.6
+Pennsylvania,"Court, Municipal, and License Clerks",1660,3.3,0.281,0.27,19.88,41360,1.5
+Pennsylvania,"Credit Authorizers, Checkers, and Clerks",390,19.9,0.065,0.36,20.76,43190,4.5
+Pennsylvania,Customer Service Representatives,129250,2.5,21.9,1.1,18.01,37450,0.6
+Pennsylvania,"Eligibility Interviewers, Government Programs",9440,3.1,1.6,1.68,24.21,50360,0.9
+Pennsylvania,File Clerks,5080,9.9,0.861,1.24,16.16,33620,1.5
+Pennsylvania,"Hotel, Motel, and Resort Desk Clerks",8790,4.5,1.489,0.82,11.27,23440,1.4
+Pennsylvania,"Interviewers, Except Eligibility and Loan",8180,5.2,1.386,1.08,17.29,35960,1.4
+Pennsylvania,"Library Assistants, Clerical",5240,6.8,0.888,1.52,12.57,26140,2.3
+Pennsylvania,Loan Interviewers and Clerks,7520,9.4,1.274,0.9,17.46,36310,1.9
+Pennsylvania,New Accounts Clerks,700,15.3,0.118,0.4,17.88,37190,2.8
+Pennsylvania,Order Clerks,4910,6.7,0.832,0.89,16.52,34360,2.3
+Pennsylvania,"Human Resources Assistants, Except Payroll and Timekeeping",4930,3.6,0.835,1.05,19.96,41510,0.7
+Pennsylvania,Receptionists and Information Clerks,41330,2.5,7.003,0.97,14.38,29910,0.8
+Pennsylvania,Reservation and Transportation Ticket Agents and Travel Clerks,3300,8.2,0.56,0.66,21.71,45160,6.4
+Pennsylvania,"Information and Record Clerks, All Other",3020,6.5,0.511,0.49,21.5,44710,1.2
+Pennsylvania,Cargo and Freight Agents,2090,9.6,0.354,0.54,23.27,48400,2.8
+Pennsylvania,Couriers and Messengers,2840,11.5,0.481,0.95,14.03,29170,1.3
+Pennsylvania,Public Safety Telecommunicators,3450,2.9,0.585,0.9,20.45,42530,1.3
+Pennsylvania,"Dispatchers, Except Police, Fire, and Ambulance",7130,7.2,1.208,0.89,20.52,42690,1.5
+Pennsylvania,"Meter Readers, Utilities",1180,12.6,0.199,0.96,25.04,52090,3.5
+Pennsylvania,Postal Service Clerks,3830,0,0.649,1.17,24.16,50260,0.6
+Pennsylvania,Postal Service Mail Carriers,14260,0,2.416,1.04,25.15,52310,0.8
+Pennsylvania,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",5190,0,0.88,1.26,24.8,51580,1.5
+Pennsylvania,"Production, Planning, and Expediting Clerks",10890,3.1,1.845,0.73,23.06,47950,0.8
+Pennsylvania,"Shipping, Receiving, and Inventory Clerks",27320,3.1,4.629,0.96,17.62,36650,0.8
+Pennsylvania,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2030,12,0.343,0.83,17.7,36820,2.2
+Pennsylvania,Executive Secretaries and Executive Administrative Assistants,15580,3.5,2.639,0.71,29.13,60580,0.7
+Pennsylvania,Legal Secretaries and Administrative Assistants,7220,8.9,1.223,1.07,25.77,53590,2.8
+Pennsylvania,Medical Secretaries and Administrative Assistants,17860,4.3,3.027,0.74,17.62,36640,1.1
+Pennsylvania,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",89510,1.6,15.167,1.09,18.05,37540,0.6
+Pennsylvania,Data Entry Keyers,6540,9,1.108,1.02,16.42,34140,1.3
+Pennsylvania,Word Processors and Typists,6210,4.9,1.053,3.26,17.83,37080,1
+Pennsylvania,Desktop Publishers,530,16.3,0.089,1.5,21.52,44750,4.6
+Pennsylvania,Insurance Claims and Policy Processing Clerks,10610,9,1.798,1.03,21.84,45430,2
+Pennsylvania,"Mail Clerks and Mail Machine Operators, Except Postal Service",4420,10.4,0.748,1.32,15.7,32650,2.6
+Pennsylvania,"Office Clerks, General",159110,1.4,26.961,1.34,17.76,36940,0.5
+Pennsylvania,"Office Machine Operators, Except Computer",1750,17.2,0.297,0.95,17.12,35600,1.5
+Pennsylvania,Proofreaders and Copy Markers,430,15.5,0.073,1.38,20.58,42810,2.8
+Pennsylvania,Statistical Assistants,740,9.7,0.126,1.88,24.39,50740,2.6
+Pennsylvania,"Office and Administrative Support Workers, All Other",4610,5.7,0.782,0.61,18.3,38070,2.6
+Pennsylvania,"Farming, Fishing, and Forestry Occupations",7180,8.1,1.217,0.37,16.73,34810,2.2
+Pennsylvania,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",470,12.8,0.08,0.52,27.67,57550,2.4
+Pennsylvania,Agricultural Inspectors,350,3,0.058,0.62,27.44,57070,1.1
+Pennsylvania,Animal Breeders,110,28,0.019,1.71,28.02,58280,6.3
+Pennsylvania,"Graders and Sorters, Agricultural Products",740,24,0.125,0.54,12.68,26360,3.9
+Pennsylvania,Agricultural Equipment Operators,270,36.1,0.046,0.25,13.2,27450,10.7
+Pennsylvania,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2730,15,0.462,0.23,15.42,32070,3.3
+Pennsylvania,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1450,15.2,0.246,0.99,13.39,27860,1.9
+Pennsylvania,"Agricultural Workers, All Other",40,24.8,0.007,0.15,21.56,44850,5.2
+Pennsylvania,Forest and Conservation Workers,220,24.5,0.036,0.79,23.54,48960,3
+Pennsylvania,Fallers,**,**,**,**,17.75,36910,11.7
+Pennsylvania,Logging Equipment Operators,430,21.7,0.073,0.41,17.74,36900,7
+Pennsylvania,Log Graders and Scalers,140,21.3,0.024,1.07,18.82,39150,4.2
+Pennsylvania,"Logging Workers, All Other",**,**,**,**,11.7,24340,17.3
+Pennsylvania,Construction and Extraction Occupations,228210,1.3,38.669,0.92,26.22,54530,0.6
+Pennsylvania,First-Line Supervisors of Construction Trades and Extraction Workers,21660,3,3.671,0.86,35.88,74640,0.9
+Pennsylvania,Boilermakers,500,19.9,0.085,0.79,39.99,83180,3.9
+Pennsylvania,Brickmasons and Blockmasons,3560,6.8,0.603,1.46,27.09,56350,2.7
+Pennsylvania,Stonemasons,280,35.6,0.047,0.55,23.92,49760,10.6
+Pennsylvania,Carpenters,31290,4.2,5.302,1.06,26.35,54810,1.7
+Pennsylvania,Carpet Installers,1170,20,0.197,1.11,19.62,40800,5.2
+Pennsylvania,"Floor Layers, Except Carpet, Wood, and Hard Tiles",330,34.1,0.056,0.51,24.28,50500,8.6
+Pennsylvania,Floor Sanders and Finishers,170,48.7,0.029,0.85,20.19,41990,5.1
+Pennsylvania,Tile and Stone Setters,990,15.7,0.167,0.61,26.08,54240,7.4
+Pennsylvania,Cement Masons and Concrete Finishers,4060,9.1,0.688,0.52,26.4,54910,2.8
+Pennsylvania,Terrazzo Workers and Finishers,130,48.5,0.022,1.07,*,*,*
+Pennsylvania,Construction Laborers,40620,3.1,6.883,0.99,20.94,43550,1.1
+Pennsylvania,"Paving, Surfacing, and Tamping Equipment Operators",1390,24.8,0.235,0.76,20.14,41890,7.9
+Pennsylvania,Pile Driver Operators,50,31.1,0.009,0.37,36.8,76540,11.8
+Pennsylvania,Operating Engineers and Other Construction Equipment Operators,20860,3.4,3.535,1.28,26.77,55680,1.4
+Pennsylvania,Drywall and Ceiling Tile Installers,1930,13.8,0.326,0.47,24.54,51040,3
+Pennsylvania,Tapers,300,19.8,0.051,0.41,27.52,57250,4.4
+Pennsylvania,Electricians,21370,4.2,3.621,0.77,32.88,68390,2
+Pennsylvania,Glaziers,1280,21.6,0.217,0.61,26.51,55140,5.3
+Pennsylvania,"Insulation Workers, Floor, Ceiling, and Wall",580,14.3,0.099,0.43,20.37,42370,5.4
+Pennsylvania,"Insulation Workers, Mechanical",540,8.7,0.091,0.5,38.17,79380,2.9
+Pennsylvania,"Painters, Construction and Maintenance",6170,4.3,1.045,0.66,22.27,46320,3.1
+Pennsylvania,Paperhangers,230,29.6,0.039,1.71,18.98,39480,3
+Pennsylvania,Pipelayers,550,17.9,0.093,0.38,26.66,55460,3
+Pennsylvania,"Plumbers, Pipefitters, and Steamfitters",15540,5.6,2.633,0.87,28.8,59900,2.4
+Pennsylvania,Plasterers and Stucco Masons,520,38.8,0.088,0.47,28.99,60300,18
+Pennsylvania,Reinforcing Iron and Rebar Workers,200,48.3,0.033,0.26,35.43,73700,2.5
+Pennsylvania,Roofers,4030,6.8,0.682,0.77,23.96,49850,4.7
+Pennsylvania,Sheet Metal Workers,2740,10.5,0.464,0.52,27.67,57550,4.7
+Pennsylvania,Structural Iron and Steel Workers,2550,19.5,0.432,0.83,28.15,58550,3.4
+Pennsylvania,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",720,25.4,0.122,0.76,22.18,46130,9.2
+Pennsylvania,Helpers--Carpenters,980,21.2,0.165,0.74,16.75,34840,4.8
+Pennsylvania,Helpers--Electricians,1750,25.9,0.297,0.55,15.43,32090,1.8
+Pennsylvania,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,14.26,29650,4
+Pennsylvania,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",840,17.3,0.143,0.36,17.13,35640,3.9
+Pennsylvania,Helpers--Roofers,230,48.9,0.039,0.64,14.62,30410,2.8
+Pennsylvania,"Helpers, Construction Trades, All Other",510,25.6,0.087,0.45,17.41,36210,2.4
+Pennsylvania,Construction and Building Inspectors,6360,6.3,1.078,1.43,28.5,59270,1.9
+Pennsylvania,Elevator and Escalator Installers and Repairers,740,21,0.126,0.65,40.35,83920,5.1
+Pennsylvania,Fence Erectors,530,31.7,0.09,0.51,17.79,37000,7.5
+Pennsylvania,Hazardous Materials Removal Workers,2130,15,0.361,1.2,23.74,49370,3.1
+Pennsylvania,Highway Maintenance Workers,12770,3.7,2.164,2.11,20.95,43570,1.2
+Pennsylvania,Rail-Track Laying and Maintenance Equipment Operators,800,35.8,0.135,1.23,27.26,56690,4.1
+Pennsylvania,Septic Tank Servicers and Sewer Pipe Cleaners,1220,22.3,0.206,1.02,21.75,45250,2.3
+Pennsylvania,Miscellaneous Construction and Related Workers,440,22.6,0.075,0.34,21.39,44500,4.3
+Pennsylvania,"Derrick Operators, Oil and Gas",70,46.1,0.012,0.15,21.9,45560,2.9
+Pennsylvania,"Rotary Drill Operators, Oil and Gas",970,19.7,0.165,1.15,25.72,53490,3.4
+Pennsylvania,"Service Unit Operators, Oil and Gas",3890,11.6,0.658,1.87,20.18,41970,5.2
+Pennsylvania,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1250,17.4,0.212,0.7,20.75,43150,4.9
+Pennsylvania,Continuous Mining Machine Operators,810,38.3,0.137,1.37,24.34,50620,4.7
+Pennsylvania,"Roof Bolters, Mining",390,30.4,0.066,3.07,32.76,68140,6.4
+Pennsylvania,"Loading and Moving Machine Operators, Underground Mining",340,29.1,0.057,1.99,27.95,58140,5.9
+Pennsylvania,"Rock Splitters, Quarry",780,14.7,0.132,3.8,17.84,37110,2.5
+Pennsylvania,"Roustabouts, Oil and Gas",2110,14.8,0.358,0.89,17.25,35870,3.4
+Pennsylvania,Helpers--Extraction Workers,390,30,0.066,0.58,19.01,39530,3.5
+Pennsylvania,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",950,13.7,0.161,0.95,23.46,48800,2.7
+Pennsylvania,"Underground Mining Machine Operators and Extraction Workers, All Other",400,13.3,0.067,0.72,32.53,67660,7.4
+Pennsylvania,"Installation, Maintenance, and Repair Occupations",238530,1.2,40.418,1.04,24.05,50010,0.5
+Pennsylvania,"First-Line Supervisors of Mechanics, Installers, and Repairers",20840,2.4,3.531,1.07,34.61,71990,0.9
+Pennsylvania,"Computer, Automated Teller, and Office Machine Repairers",5050,7.9,0.856,1.28,20.68,43020,3.1
+Pennsylvania,"Radio, Cellular, and Tower Equipment Installers and Repairers",670,28,0.114,1.16,34.29,71330,4.4
+Pennsylvania,"Telecommunications Equipment Installers and Repairers, Except Line Installers",6020,11.2,1.021,0.72,28.8,59910,3.7
+Pennsylvania,Avionics Technicians,210,7.2,0.036,0.25,33.43,69540,5.7
+Pennsylvania,"Electric Motor, Power Tool, and Related Repairers",840,18.8,0.142,1.32,27.06,56290,4
+Pennsylvania,"Electrical and Electronics Installers and Repairers, Transportation Equipment",700,24.7,0.118,1.77,31.5,65530,2.7
+Pennsylvania,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",3310,5.8,0.561,1.4,26.88,55910,2
+Pennsylvania,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1110,12.1,0.188,1.22,37.27,77520,1.5
+Pennsylvania,"Electronic Equipment Installers and Repairers, Motor Vehicles",120,19.4,0.021,0.3,16.39,34080,3.3
+Pennsylvania,Audiovisual Equipment Installers and Repairers,1520,31.9,0.258,1.48,20.51,42660,4.9
+Pennsylvania,Security and Fire Alarm Systems Installers,2480,8.4,0.42,0.86,25.07,52140,2.8
+Pennsylvania,Aircraft Mechanics and Service Technicians,2650,14,0.45,0.5,34.78,72340,4.5
+Pennsylvania,Automotive Body and Related Repairers,6960,4.7,1.179,1.2,23.06,47970,3.1
+Pennsylvania,Automotive Glass Installers and Repairers,670,40.6,0.114,0.86,17.38,36150,2.4
+Pennsylvania,Automotive Service Technicians and Mechanics,31230,3.1,5.291,1.19,20.2,42010,1.2
+Pennsylvania,Bus and Truck Mechanics and Diesel Engine Specialists,13150,6.7,2.228,1.23,23.24,48330,1.9
+Pennsylvania,Farm Equipment Mechanics and Service Technicians,870,12.1,0.147,0.6,19.21,39950,1.9
+Pennsylvania,"Mobile Heavy Equipment Mechanics, Except Engines",6090,5,1.032,1.03,25.06,52120,1.1
+Pennsylvania,Rail Car Repairers,1190,25.2,0.202,1.14,30.56,63570,2.8
+Pennsylvania,Motorboat Mechanics and Service Technicians,440,23.3,0.074,0.47,17.56,36520,4.9
+Pennsylvania,Motorcycle Mechanics,650,12.3,0.111,1.04,19.12,39780,2.5
+Pennsylvania,Outdoor Power Equipment and Other Small Engine Mechanics,1440,11.9,0.244,1.12,15.75,32760,3
+Pennsylvania,Bicycle Repairers,**,**,**,**,14.17,29480,10.6
+Pennsylvania,Recreational Vehicle Service Technicians,330,14.4,0.055,0.52,17.53,36460,4.6
+Pennsylvania,Tire Repairers and Changers,2650,14.5,0.449,0.59,14.01,29130,1.7
+Pennsylvania,Mechanical Door Repairers,740,23.1,0.125,0.8,20.31,42240,4.9
+Pennsylvania,"Control and Valve Installers and Repairers, Except Mechanical Door",1570,19.7,0.266,0.75,28.42,59100,2.8
+Pennsylvania,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",15630,4.9,2.648,1.14,24.94,51880,1.4
+Pennsylvania,Home Appliance Repairers,1400,16.1,0.238,1.12,21.59,44910,2.8
+Pennsylvania,Industrial Machinery Mechanics,18220,3.5,3.087,1.17,25.65,53350,0.7
+Pennsylvania,"Maintenance Workers, Machinery",4190,8.7,0.71,1.43,22.98,47800,1.4
+Pennsylvania,Millwrights,2390,12,0.405,1.26,28.64,59580,3.1
+Pennsylvania,Electrical Power-Line Installers and Repairers,3830,8.3,0.65,0.85,39.12,81380,2.3
+Pennsylvania,Telecommunications Line Installers and Repairers,6500,13.2,1.101,1.34,34.37,71490,3
+Pennsylvania,Camera and Photographic Equipment Repairers,90,48.1,0.015,0.62,20.01,41620,2.8
+Pennsylvania,Medical Equipment Repairers,2070,10.3,0.351,1.11,24.68,51340,2.8
+Pennsylvania,Musical Instrument Repairers and Tuners,620,32,0.105,1.92,20.39,42400,6.7
+Pennsylvania,"Precision Instrument and Equipment Repairers, All Other",310,21.2,0.053,0.73,27.04,56250,3.2
+Pennsylvania,"Maintenance and Repair Workers, General",58990,1.8,9.995,1.03,19.83,41250,0.6
+Pennsylvania,Wind Turbine Service Technicians,320,41.5,0.054,1.32,29.05,60420,3.5
+Pennsylvania,"Coin, Vending, and Amusement Machine Servicers and Repairers",1130,14.9,0.192,0.9,16.96,35280,3.5
+Pennsylvania,Locksmiths and Safe Repairers,440,13.5,0.075,0.64,25.65,53360,4.3
+Pennsylvania,Manufactured Building and Mobile Home Installers,100,40,0.018,0.93,13.21,27470,6.3
+Pennsylvania,Riggers,410,22.7,0.07,0.45,22.5,46800,2.7
+Pennsylvania,Signal and Track Switch Repairers,610,31.9,0.104,2.22,34.64,72040,3.5
+Pennsylvania,"Helpers--Installation, Maintenance, and Repair Workers",3360,8.7,0.569,0.84,15.15,31510,2.1
+Pennsylvania,"Installation, Maintenance, and Repair Workers, All Other",4010,11.2,0.68,0.62,21.39,44500,2.3
+Pennsylvania,Production Occupations,379000,1.4,64.221,1.03,19.54,40640,0.5
+Pennsylvania,First-Line Supervisors of Production and Operating Workers,28030,2.3,4.749,1.11,30.09,62590,0.5
+Pennsylvania,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",1360,26.2,0.231,0.79,35.33,73480,10.4
+Pennsylvania,"Coil Winders, Tapers, and Finishers",380,17.3,0.064,0.74,19.05,39620,7.7
+Pennsylvania,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",11590,4,1.964,1.01,17.31,36010,1.2
+Pennsylvania,Engine and Other Machine Assemblers,500,21.5,0.085,0.27,22.59,46980,3.1
+Pennsylvania,Structural Metal Fabricators and Fitters,2830,11.1,0.479,0.92,20.88,43430,1.4
+Pennsylvania,Fiberglass Laminators and Fabricators,490,26.2,0.083,0.61,24.69,51360,23.2
+Pennsylvania,Miscellaneous Assemblers and Fabricators,52960,4.6,8.974,0.96,16.94,35240,1.3
+Pennsylvania,Bakers,9490,7.8,1.607,1.28,12.88,26790,1.6
+Pennsylvania,Butchers and Meat Cutters,3960,14.9,0.671,0.72,17.02,35410,3.3
+Pennsylvania,"Meat, Poultry, and Fish Cutters and Trimmers",2020,8.2,0.342,0.33,14.44,30040,2.9
+Pennsylvania,Slaughterers and Meat Packers,2510,23.5,0.426,0.85,14.8,30790,2.3
+Pennsylvania,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",750,30.8,0.128,0.9,16.43,34170,3.4
+Pennsylvania,Food Batchmakers,6710,9.7,1.137,1.05,17.7,36810,2.4
+Pennsylvania,Food Cooking Machine Operators and Tenders,830,12.1,0.141,0.69,16.47,34260,3.1
+Pennsylvania,"Food Processing Workers, All Other",**,**,**,**,13.53,28140,0.9
+Pennsylvania,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",4540,6.1,0.77,1.47,19.18,39890,2.3
+Pennsylvania,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",740,13.8,0.125,1.12,21.6,44940,3
+Pennsylvania,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1430,13.1,0.243,1.1,20.28,42180,3.1
+Pennsylvania,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",7360,6.1,1.248,0.94,18.53,38530,1.5
+Pennsylvania,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",270,41.4,0.046,0.63,17.7,36810,4
+Pennsylvania,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3490,8.5,0.591,1.13,18.71,38910,2.5
+Pennsylvania,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1280,15.5,0.216,1.13,20.26,42140,2.6
+Pennsylvania,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",530,28.5,0.09,0.7,24.76,51510,3.6
+Pennsylvania,Machinists,17000,7.1,2.88,1.1,22.28,46340,1.1
+Pennsylvania,Metal-Refining Furnace Operators and Tenders,1680,8.5,0.284,2.44,23.19,48230,2.5
+Pennsylvania,"Pourers and Casters, Metal",1080,19.9,0.184,3.37,19.13,39780,2.2
+Pennsylvania,"Model Makers, Metal and Plastic",150,26.1,0.026,0.88,28.34,58950,6.4
+Pennsylvania,"Patternmakers, Metal and Plastic",190,23.4,0.033,1.59,23.56,49010,3.1
+Pennsylvania,Foundry Mold and Coremakers,1270,19.4,0.216,1.8,17.39,36170,2.4
+Pennsylvania,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",7320,7.3,1.24,1.06,16.22,33730,1.8
+Pennsylvania,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",9750,7.8,1.653,1.65,18.28,38030,1.3
+Pennsylvania,Tool and Die Makers,3960,10.4,0.671,1.39,24.6,51170,1.8
+Pennsylvania,"Welders, Cutters, Solderers, and Brazers",17430,6.6,2.954,1.06,21.38,44480,1.2
+Pennsylvania,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",880,16.1,0.149,0.62,19.29,40120,1.9
+Pennsylvania,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1470,12,0.249,1.87,20.21,42040,3.3
+Pennsylvania,"Layout Workers, Metal and Plastic",200,28.2,0.034,0.61,21.43,44570,1.8
+Pennsylvania,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",1860,9.4,0.315,1.11,17.95,37340,2.4
+Pennsylvania,"Tool Grinders, Filers, and Sharpeners",230,21.4,0.039,0.89,19.79,41160,2.5
+Pennsylvania,"Metal Workers and Plastic Workers, All Other",1140,13.1,0.193,1.16,18.81,39120,3.2
+Pennsylvania,Prepress Technicians and Workers,1150,8.1,0.196,0.95,20.84,43340,1.7
+Pennsylvania,Printing Press Operators,9020,5.8,1.528,1.29,19.64,40840,1.9
+Pennsylvania,Print Binding and Finishing Workers,2070,11,0.351,1.13,16.51,34330,1.4
+Pennsylvania,Laundry and Dry-Cleaning Workers,6640,6.4,1.125,0.79,12.12,25220,1.1
+Pennsylvania,"Pressers, Textile, Garment, and Related Materials",1690,10.4,0.287,1.11,12.09,25140,2.4
+Pennsylvania,Sewing Machine Operators,4790,8,0.811,0.89,13.23,27520,1.5
+Pennsylvania,Shoe and Leather Workers and Repairers,70,24.9,0.012,0.2,13.22,27490,5.6
+Pennsylvania,"Sewers, Hand",290,49.8,0.05,1.54,14.23,29600,4.1
+Pennsylvania,"Tailors, Dressmakers, and Custom Sewers",690,23.9,0.117,0.71,18.16,37770,4.8
+Pennsylvania,Textile Bleaching and Dyeing Machine Operators and Tenders,200,19,0.033,0.56,16.66,34650,3.6
+Pennsylvania,"Textile Cutting Machine Setters, Operators, and Tenders",390,19.8,0.066,0.74,14.94,31070,2.6
+Pennsylvania,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",1060,29.7,0.179,1.25,16.02,33330,6.8
+Pennsylvania,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",610,15,0.104,0.49,15.81,32890,4.6
+Pennsylvania,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",430,35.1,0.074,0.59,23.52,48910,5.7
+Pennsylvania,Fabric and Apparel Patternmakers,110,14.5,0.019,0.47,20.95,43570,10.4
+Pennsylvania,Upholsterers,500,12.5,0.085,0.43,20.19,42000,5.3
+Pennsylvania,"Textile, Apparel, and Furnishings Workers, All Other",400,32.9,0.068,0.55,16.64,34610,4.1
+Pennsylvania,Cabinetmakers and Bench Carpenters,4570,8.6,0.775,1.15,19.09,39710,1.7
+Pennsylvania,Furniture Finishers,1050,12.1,0.178,1.62,17.42,36240,2.8
+Pennsylvania,"Sawing Machine Setters, Operators, and Tenders, Wood",2500,8.3,0.423,1.23,15.74,32730,1.9
+Pennsylvania,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",3710,11.3,0.629,1.17,15.91,33100,2.3
+Pennsylvania,"Woodworkers, All Other",50,0,0.008,0.17,22.78,47380,2.2
+Pennsylvania,Nuclear Power Reactor Operators,330,26.9,0.056,1.63,*,*,*
+Pennsylvania,Power Distributors and Dispatchers,550,23.3,0.094,1.28,44.57,92700,4.1
+Pennsylvania,Power Plant Operators,1590,11.6,0.269,1.17,35.93,74740,2.3
+Pennsylvania,Stationary Engineers and Boiler Operators,2170,7.5,0.367,1.66,27.94,58110,1.8
+Pennsylvania,Water and Wastewater Treatment Plant and System Operators,5330,6.6,0.903,1.07,25.35,52730,1.6
+Pennsylvania,Chemical Plant and System Operators,240,33.7,0.041,0.21,30.74,63950,2.9
+Pennsylvania,Gas Plant Operators,810,14,0.137,1.4,32.39,67370,2.2
+Pennsylvania,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",1900,26,0.322,1.17,28.21,58680,4.1
+Pennsylvania,"Plant and System Operators, All Other",300,18.8,0.051,0.58,27.64,57500,3.1
+Pennsylvania,Chemical Equipment Operators and Tenders,4620,11,0.783,1.32,22.68,47160,1.9
+Pennsylvania,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",2450,11.7,0.416,1.19,20.25,42110,2.5
+Pennsylvania,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1260,16,0.214,0.94,19.94,41480,1.6
+Pennsylvania,"Grinding and Polishing Workers, Hand",1320,16.7,0.224,1.13,17.06,35490,2.7
+Pennsylvania,"Mixing and Blending Machine Setters, Operators, and Tenders",5070,6,0.859,1.01,19.46,40470,1.4
+Pennsylvania,"Cutters and Trimmers, Hand",380,30.8,0.065,0.99,12.27,25510,4
+Pennsylvania,"Cutting and Slicing Machine Setters, Operators, and Tenders",2450,10.6,0.415,1.05,17.7,36810,2.1
+Pennsylvania,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",2580,15.5,0.437,0.89,18.54,38560,2.5
+Pennsylvania,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",460,15.9,0.078,0.61,19.97,41540,2.1
+Pennsylvania,"Inspectors, Testers, Sorters, Samplers, and Weighers",21120,3.6,3.578,0.91,19.99,41590,1.1
+Pennsylvania,Jewelers and Precious Stone and Metal Workers,570,13.7,0.096,0.6,26.02,54120,6.6
+Pennsylvania,Dental Laboratory Technicians,1440,16.9,0.245,1.04,19.66,40890,2.9
+Pennsylvania,Medical Appliance Technicians,630,16.6,0.107,1.12,21.2,44090,2.8
+Pennsylvania,Ophthalmic Laboratory Technicians,890,19.5,0.151,0.76,17.15,35660,2.6
+Pennsylvania,Packaging and Filling Machine Operators and Tenders,19320,6.5,3.273,1.23,17.03,35420,1.2
+Pennsylvania,"Painting, Coating, and Decorating Workers",180,19.8,0.031,0.36,16.04,33370,3.9
+Pennsylvania,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",6190,5.6,1.049,1.05,19.01,39550,1.8
+Pennsylvania,Semiconductor Processing Technicians,580,29.6,0.099,0.52,19.18,39900,3.4
+Pennsylvania,Photographic Process Workers and Processing Machine Operators,290,18.6,0.05,0.61,15.89,33040,2.7
+Pennsylvania,Computer Numerically Controlled Tool Operators,11020,6.6,1.868,1.81,20.32,42260,1
+Pennsylvania,Computer Numerically Controlled Tool Programmers,770,9.3,0.131,0.75,28.15,58550,1.6
+Pennsylvania,Adhesive Bonding Machine Operators and Tenders,640,17,0.108,1.14,16.05,33380,3.8
+Pennsylvania,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",640,20.7,0.108,0.97,20.47,42580,6
+Pennsylvania,Cooling and Freezing Equipment Operators and Tenders,410,18.6,0.069,1.16,17,35350,4.4
+Pennsylvania,Etchers and Engravers,240,39.9,0.041,0.58,19.98,41550,10.3
+Pennsylvania,"Molders, Shapers, and Casters, Except Metal and Plastic",3050,12,0.516,1.69,16.88,35110,2.8
+Pennsylvania,"Paper Goods Machine Setters, Operators, and Tenders",6920,11.1,1.172,1.72,19.64,40860,2.4
+Pennsylvania,Tire Builders,380,13.6,0.064,0.45,16.77,34890,3.4
+Pennsylvania,Helpers--Production Workers,11560,6.3,1.959,0.95,15.25,31720,1.5
+Pennsylvania,"Production Workers, All Other",5930,17.9,1.005,0.66,16.45,34210,5.4
+Pennsylvania,Transportation and Material Moving Occupations,554580,1.1,93.972,1.1,17.48,36350,0.9
+Pennsylvania,Aircraft Cargo Handling Supervisors,340,13,0.058,0.89,29.95,62290,3
+Pennsylvania,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",21030,2.3,3.564,1.15,28.52,59330,0.8
+Pennsylvania,"Airline Pilots, Copilots, and Flight Engineers",**,**,**,**,*,102880,2.9
+Pennsylvania,Commercial Pilots,500,24.1,0.084,0.33,*,99840,4.9
+Pennsylvania,Air Traffic Controllers,380,1.6,0.064,0.43,54.61,113590,3.8
+Pennsylvania,Airfield Operations Specialists,210,11,0.035,0.48,34.96,72730,7.3
+Pennsylvania,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",1150,25.1,0.195,1.95,14.87,30940,7.4
+Pennsylvania,Driver/Sales Workers,13870,9.2,2.349,0.78,13.59,28260,3.4
+Pennsylvania,Heavy and Tractor-Trailer Truck Drivers,86370,2.4,14.634,1.16,23.11,48060,1
+Pennsylvania,Light Truck Drivers,38100,2.7,6.456,1.03,16.96,35290,2
+Pennsylvania,"Bus Drivers, Transit and Intercity",6660,9.9,1.128,0.92,19.23,40010,4.5
+Pennsylvania,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",38190,5.6,6.472,1.36,14.77,30720,2.1
+Pennsylvania,"Motor Vehicle Operators, All Other",1670,28.6,0.282,0.73,18.9,39310,7.2
+Pennsylvania,Locomotive Engineers,1700,16.4,0.288,1.19,35.92,74700,3.4
+Pennsylvania,"Rail Yard Engineers, Dinkey Operators, and Hostlers",410,23.9,0.07,1.89,25.07,52140,5.1
+Pennsylvania,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",460,16.4,0.077,1.03,28.41,59100,6.2
+Pennsylvania,Railroad Conductors and Yardmasters,3170,22.8,0.537,1.73,32.78,68180,3.5
+Pennsylvania,Sailors and Marine Oilers,400,31.7,0.067,0.32,*,*,*
+Pennsylvania,"Captains, Mates, and Pilots of Water Vessels",480,13.8,0.081,0.36,37.43,77850,5.1
+Pennsylvania,Ship Engineers,270,29,0.047,0.81,34.13,70990,8.6
+Pennsylvania,Bridge and Lock Tenders,130,0,0.021,0.99,26,54090,2.7
+Pennsylvania,Parking Attendants,6180,8.6,1.047,1.04,12.13,25230,1.4
+Pennsylvania,Automotive and Watercraft Service Attendants,2880,11,0.489,0.61,12.03,25030,2.2
+Pennsylvania,Traffic Technicians,120,25,0.021,0.41,28.93,60170,2.7
+Pennsylvania,Transportation Inspectors,980,14,0.166,0.81,30.11,62630,5.2
+Pennsylvania,Passenger Attendants,420,46.5,0.072,0.37,13.3,27670,2.4
+Pennsylvania,"Aircraft Service Attendants and Transportation Workers, All Other",320,47.1,0.054,0.23,19.43,40420,8.5
+Pennsylvania,Conveyor Operators and Tenders,1460,15.5,0.248,1.52,17.19,35760,2.6
+Pennsylvania,Crane and Tower Operators,2700,11.8,0.457,1.48,25.03,52070,4.5
+Pennsylvania,Dredge Operators,**,**,**,**,21.13,43950,5
+Pennsylvania,Hoist and Winch Operators,**,**,**,**,20.66,42970,3.4
+Pennsylvania,Industrial Truck and Tractor Operators,32570,5.3,5.519,1.29,18.45,38380,1
+Pennsylvania,Cleaners of Vehicles and Equipment,12580,5.4,2.131,0.82,13.01,27050,1.4
+Pennsylvania,"Laborers and Freight, Stock, and Material Movers, Hand",147080,2.5,24.921,1.24,15.71,32680,0.9
+Pennsylvania,Machine Feeders and Offbearers,4610,24.1,0.782,1.81,15.91,33080,2.9
+Pennsylvania,"Packers and Packagers, Hand",24360,5.9,4.128,0.96,13.71,28510,1
+Pennsylvania,Stockers and Order Fillers,92520,2.5,15.677,1.08,13.42,27910,0.6
+Pennsylvania,Gas Compressor and Gas Pumping Station Operators,540,20.8,0.092,3.94,31.05,64580,4.3
+Pennsylvania,"Pump Operators, Except Wellhead Pumpers",200,29.8,0.033,0.49,23.4,48670,4.3
+Pennsylvania,Wellhead Pumpers,600,22.7,0.101,1.15,21.16,44010,5.1
+Pennsylvania,Refuse and Recyclable Material Collectors,3640,8.6,0.617,0.75,16.5,34320,3.4
+Pennsylvania,"Tank Car, Truck, and Ship Loaders",700,23.9,0.119,1.5,24.93,51860,5.1
+Pennsylvania,"Material Moving Workers, All Other",210,22.2,0.036,0.19,23.06,47960,9.8

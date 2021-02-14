@@ -1,0 +1,720 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Kentucky,All Occupations,1896900,0.6,1000,1,21.16,44020,0.6
+Kentucky,Management Occupations,88720,1.3,46.773,0.85,44.93,93440,0.8
+Kentucky,Chief Executives,2980,3.9,1.573,1.12,71.32,148350,2.1
+Kentucky,General and Operations Managers,31650,2.3,16.685,1.02,43.48,90430,1.1
+Kentucky,Advertising and Promotions Managers,160,16,0.084,0.49,41.31,85930,8.5
+Kentucky,Marketing Managers,1750,6.8,0.925,0.52,53.02,110290,3.2
+Kentucky,Sales Managers,3240,5.8,1.71,0.62,54,112310,2.2
+Kentucky,Public Relations and Fundraising Managers,570,13.4,0.298,0.55,44.87,93330,5.6
+Kentucky,Administrative Services and Facilities Managers,3110,4.5,1.639,0.78,36.97,76910,1.3
+Kentucky,Computer and Information Systems Managers,2920,6.1,1.539,0.52,57.88,120380,2.1
+Kentucky,Financial Managers,6120,4.2,3.228,0.72,54.36,113070,1.7
+Kentucky,Industrial Production Managers,3570,2.8,1.884,1.49,47.5,98790,1.4
+Kentucky,Purchasing Managers,850,9.9,0.45,0.92,55.36,115140,2.3
+Kentucky,"Transportation, Storage, and Distribution Managers",1740,5.4,0.917,1.02,42.97,89380,1.6
+Kentucky,Compensation and Benefits Managers,110,10.9,0.06,0.53,45.52,94690,4.6
+Kentucky,Human Resources Managers,1390,4.2,0.73,0.69,47.4,98580,1.4
+Kentucky,Training and Development Managers,460,5,0.241,0.92,48.67,101230,3.6
+Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",80,29.5,0.043,1.25,*,*,*
+Kentucky,Construction Managers,1770,7.3,0.931,0.47,40.18,83570,2.6
+Kentucky,"Education and Childcare Administrators, Preschool and Daycare",510,15.5,0.268,0.75,19.15,39840,3.6
+Kentucky,"Education Administrators, Kindergarten through Secondary",4300,0.8,2.269,1.23,*,83730,0.8
+Kentucky,"Education Administrators, Postsecondary",2110,10.2,1.115,1.13,42.82,89060,3.1
+Kentucky,"Education Administrators, All Other",710,10,0.373,1.23,42.66,88730,4.5
+Kentucky,Architectural and Engineering Managers,1710,6.1,0.902,0.68,56.87,118280,1.9
+Kentucky,Food Service Managers,2820,7.3,1.485,0.93,24.88,51750,2.2
+Kentucky,Lodging Managers,240,19.4,0.128,0.49,25.4,52840,4.9
+Kentucky,Medical and Health Services Managers,5340,4.1,2.813,1.05,43.41,90280,1.8
+Kentucky,Natural Sciences Managers,240,12.2,0.127,0.28,52.32,108830,3.3
+Kentucky,Postmasters and Mail Superintendents,240,0,0.127,1.34,38.5,80090,0.5
+Kentucky,"Property, Real Estate, and Community Association Managers",2220,5.9,1.173,0.78,27.42,57040,4.7
+Kentucky,Social and Community Service Managers,1930,4.4,1.02,0.96,29.72,61810,2.1
+Kentucky,Emergency Management Directors,150,8.5,0.078,1.14,23.91,49740,5.8
+Kentucky,Funeral Home Managers,280,20.3,0.15,2.34,36.12,75130,14.4
+Kentucky,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",3410,5.3,1.796,0.56,45.55,94740,2.3
+Kentucky,Business and Financial Operations Occupations,80210,2.7,42.287,0.76,31.2,64900,0.6
+Kentucky,Buyers and Purchasing Agents,4900,7.2,2.586,0.9,29.45,61260,1.3
+Kentucky,"Claims Adjusters, Examiners, and Investigators",2590,7.1,1.364,0.7,31.91,66370,1.4
+Kentucky,Compliance Officers,2890,4.3,1.522,0.7,28.7,59690,2
+Kentucky,Cost Estimators,2040,7.3,1.074,0.75,31.46,65430,1.9
+Kentucky,Human Resources Specialists,7760,2.4,4.091,0.95,28.1,58440,1.9
+Kentucky,Labor Relations Specialists,1440,8.7,0.76,1.48,25.7,53460,9.5
+Kentucky,Logisticians,1840,14.7,0.968,0.78,35.38,73590,1.8
+Kentucky,Management Analysts,5390,6.5,2.841,0.59,37.39,77780,2.7
+Kentucky,"Meeting, Convention, and Event Planners",830,10.3,0.436,0.54,20.41,42440,3.5
+Kentucky,Fundraisers,470,12.6,0.247,0.44,23.02,47880,2.6
+Kentucky,"Compensation, Benefits, and Job Analysis Specialists",710,10.5,0.373,0.61,28.02,58290,2.5
+Kentucky,Training and Development Specialists,3310,4.2,1.746,0.82,26.51,55140,1.6
+Kentucky,Market Research Analysts and Marketing Specialists,5350,6.2,2.819,0.61,27.86,57950,2.1
+Kentucky,"Project Management Specialists and Business Operations Specialists, All Other",11760,5.1,6.199,0.71,33.18,69010,1.5
+Kentucky,Accountants and Auditors,12080,3.9,6.368,0.73,32.53,67660,1.7
+Kentucky,Property Appraisers and Assessors,300,26.3,0.16,0.42,28.98,60290,14
+Kentucky,Budget Analysts,820,4.2,0.431,1.23,28.65,59580,5
+Kentucky,Credit Analysts,790,29,0.415,0.82,37.34,77660,3
+Kentucky,Personal Financial Advisors,1800,14.3,0.951,0.66,47.26,98300,5.7
+Kentucky,Insurance Underwriters,640,26.5,0.335,0.49,32.95,68530,4.1
+Kentucky,Financial Examiners,500,12.9,0.264,0.6,32.23,67040,4.2
+Kentucky,Credit Counselors,290,10.4,0.154,0.7,23.74,49380,2.5
+Kentucky,Loan Officers,5640,6.9,2.974,1.42,32.21,67000,2.5
+Kentucky,"Tax Examiners and Collectors, and Revenue Agents",1510,0.7,0.799,2.18,23.86,49630,1.8
+Kentucky,Tax Preparers,1250,13.6,0.658,1.45,17.43,36260,8
+Kentucky,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",3290,8.1,1.736,0.56,32.62,67850,1.8
+Kentucky,Computer and Mathematical Occupations,34220,4.2,18.041,0.58,34.72,72220,1.5
+Kentucky,Computer Systems Analysts,4600,10.7,2.427,0.61,35.36,73540,3
+Kentucky,Information Security Analysts,900,12.1,0.473,0.55,40.09,83390,3.8
+Kentucky,Computer Network Support Specialists,2040,7.8,1.076,0.85,27.67,57550,2
+Kentucky,Computer User Support Specialists,6260,6.4,3.298,0.75,23.99,49890,1.8
+Kentucky,Computer Network Architects,890,15.2,0.469,0.45,39.44,82040,2.4
+Kentucky,Network and Computer Systems Administrators,3470,7.1,1.829,0.76,31.97,66500,1.3
+Kentucky,Database Administrators and Architects,940,9.7,0.493,0.58,42,87370,2.4
+Kentucky,Computer Programmers,1140,25.5,0.6,0.44,34.75,72290,2
+Kentucky,Software Developers and Software Quality Assurance Analysts and Testers,8410,8.8,4.436,0.46,42.14,87650,2.2
+Kentucky,Web Developers and Digital Interface Designers,1200,16.6,0.634,0.63,34.04,70810,4.2
+Kentucky,"Computer Occupations, All Other",2610,15.1,1.377,0.51,37.12,77210,2.4
+Kentucky,Actuaries,210,45.3,0.113,0.75,55.72,115890,2.5
+Kentucky,Operations Research Analysts,1140,13.9,0.6,0.88,33.7,70100,5.1
+Kentucky,Statisticians,80,21,0.044,0.17,39.84,82860,4.8
+Kentucky,"Data Scientists and Mathematical Science Occupations, All Other",290,11.8,0.155,0.74,35.61,74070,4
+Kentucky,Architecture and Engineering Occupations,28660,5.5,15.11,0.86,35.47,73770,1.2
+Kentucky,"Architects, Except Landscape and Naval",880,13.2,0.464,0.64,35.27,73360,8.9
+Kentucky,Landscape Architects,120,24,0.061,0.44,27.62,57440,7.2
+Kentucky,Cartographers and Photogrammetrists,140,8,0.075,0.97,33.05,68750,6.6
+Kentucky,Surveyors,570,8.4,0.302,0.98,27.58,57370,6.8
+Kentucky,Aerospace Engineers,120,12.9,0.063,0.15,46.16,96020,2.1
+Kentucky,Agricultural Engineers,80,18.9,0.041,3.9,32.2,66980,7.3
+Kentucky,Bioengineers and Biomedical Engineers,40,19.9,0.023,0.17,31.46,65440,9.8
+Kentucky,Chemical Engineers,310,9.3,0.162,0.79,51.03,106140,3.9
+Kentucky,Civil Engineers,3230,6.2,1.701,0.8,39.66,82500,1.3
+Kentucky,Computer Hardware Engineers,320,27.2,0.166,0.36,43.43,90330,9.3
+Kentucky,Electrical Engineers,2090,15.4,1.099,0.87,43.74,90980,1.5
+Kentucky,"Electronics Engineers, Except Computer",570,13.9,0.302,0.34,40.4,84040,2.9
+Kentucky,Environmental Engineers,360,8.1,0.189,0.52,42.33,88040,3.3
+Kentucky,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",260,20.1,0.139,0.79,42.28,87940,2.6
+Kentucky,Industrial Engineers,5590,7.4,2.948,1.48,38.69,80480,1.2
+Kentucky,Materials Engineers,260,13.2,0.138,0.76,38.36,79790,3.6
+Kentucky,Mechanical Engineers,4180,22,2.206,1.06,39.57,82300,2.5
+Kentucky,"Mining and Geological Engineers, Including Mining Safety Engineers",170,19.9,0.089,2.09,46.19,96080,6.2
+Kentucky,Nuclear Engineers,150,26.4,0.081,0.75,*,*,*
+Kentucky,Petroleum Engineers,**,**,**,**,60.97,126820,10
+Kentucky,"Engineers, All Other",670,8.3,0.356,0.34,40.11,83430,2.6
+Kentucky,Architectural and Civil Drafters,890,9.6,0.471,0.7,24.83,51640,4.2
+Kentucky,Electrical and Electronics Drafters,190,39.2,0.1,0.61,33.83,70360,3.6
+Kentucky,Mechanical Drafters,620,23.6,0.329,0.88,26.69,55510,2.9
+Kentucky,"Drafters, All Other",210,21.5,0.109,1.1,25.01,52030,3.7
+Kentucky,Civil Engineering Technologists and Technicians,1940,3.9,1.024,2.18,22.65,47110,0.8
+Kentucky,Electrical and Electronic Engineering Technologists and Technicians,950,5.6,0.499,0.6,28.83,59970,2.9
+Kentucky,Environmental Engineering Technologists and Technicians,130,8.8,0.067,0.55,23.16,48180,2.9
+Kentucky,Industrial Engineering Technologists and Technicians,1210,10.1,0.636,1.39,27.17,56520,2.8
+Kentucky,Mechanical Engineering Technologists and Technicians,710,13.2,0.372,1.28,24.66,51290,1.9
+Kentucky,Surveying and Mapping Technicians,840,12,0.444,1.23,20.15,41910,3.4
+Kentucky,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",790,23.8,0.419,0.7,25.8,53660,4.7
+Kentucky,"Life, Physical, and Social Science Occupations",10990,4,5.793,0.66,29.44,61230,1.5
+Kentucky,Food Scientists and Technologists,110,13.7,0.055,0.61,28.4,59060,10.9
+Kentucky,Soil and Plant Scientists,50,23.1,0.028,0.29,33.2,69050,4.5
+Kentucky,Biochemists and Biophysicists,40,36.2,0.018,0.09,*,*,*
+Kentucky,Microbiologists,60,7.1,0.032,0.26,26.56,55250,7.7
+Kentucky,Zoologists and Wildlife Biologists,200,9.5,0.103,0.79,27.98,58200,1.7
+Kentucky,"Biological Scientists, All Other",230,1.8,0.119,0.44,30.75,63960,1.5
+Kentucky,Conservation Scientists,120,1.2,0.065,0.43,32.41,67420,0.8
+Kentucky,Foresters,200,27.6,0.108,1.67,21.85,45440,1.8
+Kentucky,Epidemiologists,60,12.7,0.034,0.67,26.27,54650,2.7
+Kentucky,"Medical Scientists, Except Epidemiologists",680,13.9,0.361,0.42,37.96,78960,4.4
+Kentucky,"Life Scientists, All Other",90,2.8,0.047,1.06,29.01,60340,2.5
+Kentucky,Atmospheric and Space Scientists,80,4.7,0.042,0.67,51.39,106890,9.9
+Kentucky,Chemists,590,8.1,0.313,0.55,34.54,71850,2.9
+Kentucky,"Environmental Scientists and Specialists, Including Health",1490,17,0.787,1.37,25.57,53190,1.9
+Kentucky,"Geoscientists, Except Hydrologists and Geographers",220,14.1,0.116,0.58,35.43,73700,4.8
+Kentucky,"Physical Scientists, All Other",40,9.5,0.02,0.17,46.32,96350,3.1
+Kentucky,Economists,**,**,**,**,45.9,95470,6.7
+Kentucky,Survey Researchers,40,49.9,0.019,0.28,24.03,49970,10.8
+Kentucky,"Clinical, Counseling, and School Psychologists",1090,11.1,0.575,0.75,32.18,66940,4
+Kentucky,"Psychologists, All Other",170,6.1,0.088,0.9,41.63,86580,2.3
+Kentucky,Urban and Regional Planners,210,20.4,0.108,0.41,27.09,56350,7.9
+Kentucky,Anthropologists and Archeologists,70,15.2,0.036,0.78,33.05,68750,7.2
+Kentucky,"Social Scientists and Related Workers, All Other",330,2.9,0.172,0.75,34.38,71500,3.1
+Kentucky,Agricultural and Food Science Technicians,270,15.4,0.141,0.95,21.09,43860,4
+Kentucky,Biological Technicians,510,13,0.269,0.5,20.52,42680,4.2
+Kentucky,Chemical Technicians,930,8.3,0.489,1.09,23.81,49530,3.4
+Kentucky,"Environmental Science and Protection Technicians, Including Health",150,19.3,0.08,0.36,18.2,37850,2.1
+Kentucky,Geological and Hydrologic Technicians,50,23.7,0.029,0.25,26.31,54730,5.9
+Kentucky,Nuclear Technicians,40,20.4,0.019,0.44,44.67,92900,5.6
+Kentucky,Social Science Research Assistants,40,35.3,0.02,0.08,22,45760,11.3
+Kentucky,Forest and Conservation Technicians,190,2.6,0.099,0.77,17.7,36820,1.5
+Kentucky,Forensic Science Technicians,70,13.2,0.039,0.34,23.58,49040,7.2
+Kentucky,"Life, Physical, and Social Science Technicians, All Other",240,11.2,0.127,0.29,24.94,51880,2.7
+Kentucky,Occupational Health and Safety Specialists,1700,4.6,0.899,1.42,32.17,66910,1.7
+Kentucky,Occupational Health and Safety Technicians,360,11.6,0.189,1.35,21.79,45320,3
+Kentucky,Community and Social Service Occupations,27850,2.3,14.683,0.96,20.47,42580,1.2
+Kentucky,"Educational, Guidance, and Career Counselors and Advisors",3360,5.7,1.77,0.88,27.66,57520,1.7
+Kentucky,Marriage and Family Therapists,450,16.5,0.239,0.6,20.58,42810,4.1
+Kentucky,Rehabilitation Counselors,1130,17.8,0.594,0.8,16.9,35150,2.8
+Kentucky,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",3040,6.4,1.601,0.83,20.16,41940,2.5
+Kentucky,"Counselors, All Other",30,18.9,0.018,0.11,24.35,50650,7.2
+Kentucky,"Child, Family, and School Social Workers",7520,1.8,3.963,1.78,20.46,42570,0.9
+Kentucky,Healthcare Social Workers,1890,7,0.999,0.84,23.93,49770,1.6
+Kentucky,Mental Health and Substance Abuse Social Workers,900,8.8,0.475,0.59,19,39520,2.9
+Kentucky,"Social Workers, All Other",550,3.1,0.289,0.73,26.77,55690,2.4
+Kentucky,Health Education Specialists,700,7.7,0.369,0.92,24.8,51590,3.2
+Kentucky,Probation Officers and Correctional Treatment Specialists,990,12.2,0.521,0.87,18.19,37830,0.9
+Kentucky,Social and Human Service Assistants,4920,7.2,2.595,0.94,15.02,31230,1.7
+Kentucky,Community Health Workers,1190,15,0.629,1.57,17.61,36620,2.5
+Kentucky,"Community and Social Service Specialists, All Other",680,9.7,0.359,0.54,19.6,40770,4.2
+Kentucky,Clergy,410,12.2,0.216,0.6,24.89,51770,1.7
+Kentucky,"Directors, Religious Activities and Education",90,15.5,0.045,0.3,24.26,50470,12.3
+Kentucky,Legal Occupations,10500,4.1,5.537,0.71,39.23,81590,3.8
+Kentucky,Lawyers,6030,4.1,3.18,0.71,49.51,102980,4.3
+Kentucky,"Administrative Law Judges, Adjudicators, and Hearing Officers",330,0,0.176,1.79,30.29,62990,1.5
+Kentucky,"Arbitrators, Mediators, and Conciliators",90,3.4,0.05,1.2,24.65,51270,3.8
+Kentucky,"Judges, Magistrate Judges, and Magistrates",300,2.9,0.159,0.81,62.31,129610,1.3
+Kentucky,Paralegals and Legal Assistants,3120,10.9,1.643,0.73,21.47,44650,3.6
+Kentucky,"Title Examiners, Abstractors, and Searchers",320,38,0.166,0.46,19.42,40390,5.4
+Kentucky,"Legal Support Workers, All Other",290,11.9,0.153,0.5,30.37,63180,4.1
+Kentucky,Educational Instruction and Library Occupations,97710,1.2,51.511,0.85,23.81,49520,1.1
+Kentucky,"Business Teachers, Postsecondary",610,15.8,0.323,0.57,*,85750,4.2
+Kentucky,"Computer Science Teachers, Postsecondary",250,12.7,0.133,0.61,*,83300,4.4
+Kentucky,"Mathematical Science Teachers, Postsecondary",440,5.8,0.231,0.66,*,67740,2.3
+Kentucky,"Engineering Teachers, Postsecondary",160,14.4,0.085,0.35,*,82410,7.9
+Kentucky,"Agricultural Sciences Teachers, Postsecondary",120,19.9,0.061,0.95,*,70300,7.3
+Kentucky,"Biological Science Teachers, Postsecondary",630,49.6,0.329,0.91,*,69660,4.5
+Kentucky,"Chemistry Teachers, Postsecondary",160,10,0.082,0.57,*,68130,3.3
+Kentucky,"Physics Teachers, Postsecondary",90,7.3,0.048,0.51,*,80700,4.5
+Kentucky,"Anthropology and Archeology Teachers, Postsecondary",50,14.4,0.025,0.64,*,78360,3.8
+Kentucky,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",110,0,0.06,0.84,*,69790,6.4
+Kentucky,"Economics Teachers, Postsecondary",200,7.9,0.108,1.19,*,83940,3.6
+Kentucky,"Geography Teachers, Postsecondary",40,14.8,0.02,0.73,*,71610,4.4
+Kentucky,"Political Science Teachers, Postsecondary",100,14.7,0.054,0.5,*,88110,8.2
+Kentucky,"Psychology Teachers, Postsecondary",450,24.4,0.236,0.92,*,69620,2.8
+Kentucky,"Sociology Teachers, Postsecondary",140,8.2,0.072,0.76,*,69830,3.3
+Kentucky,"Social Sciences Teachers, Postsecondary, All Other",30,5,0.018,0.16,*,59920,2.1
+Kentucky,"Health Specialties Teachers, Postsecondary",1890,19,0.997,0.73,*,64120,3.2
+Kentucky,"Nursing Instructors and Teachers, Postsecondary",800,5.4,0.421,1.04,*,72240,2.8
+Kentucky,"Education Teachers, Postsecondary",780,18.9,0.412,0.99,*,65610,4.7
+Kentucky,"Library Science Teachers, Postsecondary",50,27.9,0.027,0.92,*,65010,2.5
+Kentucky,"Criminal Justice and Law Enforcement Teachers, Postsecondary",110,14.4,0.056,0.59,*,87690,6.3
+Kentucky,"Social Work Teachers, Postsecondary",**,**,**,**,*,64450,2.3
+Kentucky,"Art, Drama, and Music Teachers, Postsecondary",750,14.9,0.395,0.62,*,77370,3.5
+Kentucky,"Communications Teachers, Postsecondary",400,6.5,0.21,1.06,*,68940,3.1
+Kentucky,"English Language and Literature Teachers, Postsecondary",760,6.4,0.402,0.87,*,67320,3.8
+Kentucky,"Foreign Language and Literature Teachers, Postsecondary",200,13.7,0.104,0.61,*,67750,3.1
+Kentucky,"History Teachers, Postsecondary",290,5.8,0.15,1.05,*,63730,3.2
+Kentucky,"Philosophy and Religion Teachers, Postsecondary",280,29.3,0.15,0.93,*,72800,3.9
+Kentucky,"Family and Consumer Sciences Teachers, Postsecondary",60,0,0.031,2.14,*,77750,5.4
+Kentucky,"Recreation and Fitness Studies Teachers, Postsecondary",120,12.5,0.061,0.57,*,63690,4.8
+Kentucky,"Career/Technical Education Teachers, Postsecondary",1930,9.1,1.017,1.33,24.69,51350,2.6
+Kentucky,"Postsecondary Teachers, All Other",1090,9,0.576,0.42,*,51690,5.1
+Kentucky,"Preschool Teachers, Except Special Education",3930,11.4,2.07,0.7,16.7,34730,3
+Kentucky,"Kindergarten Teachers, Except Special Education",2390,0.5,1.262,1.49,*,53880,0.8
+Kentucky,"Elementary School Teachers, Except Special Education",19270,0.7,10.159,1.04,*,52660,0.8
+Kentucky,"Middle School Teachers, Except Special and Career/Technical Education",8160,0.5,4.303,1.02,*,53830,0.9
+Kentucky,"Career/Technical Education Teachers, Middle School",270,2.5,0.144,1.79,*,55480,3
+Kentucky,"Secondary School Teachers, Except Special and Career/Technical Education",12280,0.6,6.473,0.92,*,55100,0.7
+Kentucky,"Career/Technical Education Teachers, Secondary School",200,0.9,0.106,0.21,*,58790,1.6
+Kentucky,"Special Education Teachers, Preschool",80,27.4,0.044,0.29,*,55940,1.8
+Kentucky,"Special Education Teachers, Kindergarten and Elementary School",4570,1.3,2.409,1.83,*,52660,0.9
+Kentucky,"Special Education Teachers, Middle School",970,0.3,0.513,0.88,*,52720,0.7
+Kentucky,"Special Education Teachers, Secondary School",1620,0.9,0.855,0.88,*,54300,0.7
+Kentucky,"Special Education Teachers, All Other",310,27.4,0.165,0.68,*,56150,2
+Kentucky,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",540,10.3,0.287,0.81,20.12,41860,3.2
+Kentucky,Self-Enrichment Teachers,1540,13.3,0.813,0.47,16.73,34800,3.8
+Kentucky,"Substitute Teachers, Short-Term",450,19.6,0.235,0.06,10.34,21510,4
+Kentucky,"Tutors and Teachers and Instructors, All Other",2950,6.7,1.554,0.71,*,51200,8.5
+Kentucky,Archivists,40,20,0.019,0.42,18.12,37690,6.2
+Kentucky,Curators,140,15.8,0.072,0.82,25.67,53380,3.7
+Kentucky,Museum Technicians and Conservators,70,30.9,0.037,0.41,19.3,40150,3.4
+Kentucky,Librarians and Media Collections Specialists,2000,3.4,1.054,1.14,28.05,58340,1.2
+Kentucky,Library Technicians,830,12.6,0.438,0.73,14.59,30350,2.1
+Kentucky,Farm and Home Management Educators,1070,31.8,0.562,9.47,24.56,51080,1.6
+Kentucky,Instructional Coordinators,2160,4.8,1.137,0.95,29.69,61760,1.8
+Kentucky,"Teaching Assistants, Postsecondary",190,22.4,0.1,0.11,*,29870,8.5
+Kentucky,"Teaching Assistants, Except Postsecondary",16140,3.9,8.51,0.93,*,27720,1.9
+Kentucky,"Educational Instruction and Library Workers, All Other",2210,9,1.167,1.33,21.16,44010,2.8
+Kentucky,"Arts, Design, Entertainment, Sports, and Media Occupations",16340,3.5,8.612,0.63,22.07,45910,2
+Kentucky,Art Directors,110,13.9,0.056,0.19,35.75,74350,4.9
+Kentucky,Craft Artists,110,30.8,0.057,1.81,15.28,31780,5.8
+Kentucky,"Fine Artists, Including Painters, Sculptors, and Illustrators",30,15.5,0.017,0.21,21.63,44980,11.4
+Kentucky,Special Effects Artists and Animators,80,26.9,0.041,0.2,28.27,58800,8.5
+Kentucky,Commercial and Industrial Designers,290,35.8,0.153,0.68,30.71,63870,2.6
+Kentucky,Floral Designers,530,8.2,0.28,0.99,12.55,26100,3.4
+Kentucky,Graphic Designers,1930,9.7,1.019,0.69,20.82,43300,3.4
+Kentucky,Interior Designers,280,19.1,0.148,0.36,23.72,49330,4.9
+Kentucky,Merchandise Displayers and Window Trimmers,1850,15.5,0.978,1.02,15.08,31360,2.1
+Kentucky,Set and Exhibit Designers,30,6.3,0.016,0.19,20.81,43280,3.5
+Kentucky,"Designers, All Other",70,35,0.035,0.49,25.71,53470,7.6
+Kentucky,Producers and Directors,740,8.9,0.392,0.45,29.03,60390,7.2
+Kentucky,Athletes and Sports Competitors,140,41.7,0.075,0.97,*,37590,14.1
+Kentucky,Coaches and Scouts,2260,12.3,1.192,0.73,*,39600,7.1
+Kentucky,"Umpires, Referees, and Other Sports Officials",150,11.4,0.079,0.57,*,44300,7.3
+Kentucky,Dancers,40,49.8,0.024,0.36,16.64,*,12.5
+Kentucky,Musicians and Singers,140,40.6,0.074,0.27,*,*,*
+Kentucky,"Miscellaneous Entertainers and Performers, Sports and Related Workers",110,46.3,0.059,0.55,16.53,*,23.8
+Kentucky,Broadcast Announcers and Radio Disc Jockeys,460,13,0.242,1.22,*,*,*
+Kentucky,"News Analysts, Reporters, and Journalists",790,15.1,0.414,1.38,24.99,51970,6.8
+Kentucky,Public Relations Specialists,2270,6.1,1.197,0.72,27.28,56750,3.9
+Kentucky,Editors,780,10.3,0.412,0.63,22.28,46340,3.5
+Kentucky,Technical Writers,280,12,0.145,0.42,36.42,75750,5
+Kentucky,Writers and Authors,260,11.3,0.135,0.43,26.63,55400,3.9
+Kentucky,Interpreters and Translators,650,11.2,0.343,0.86,26.81,55770,4
+Kentucky,"Media and Communication Workers, All Other",230,21.4,0.121,0.71,21.01,43700,3.7
+Kentucky,Audio and Video Technicians,480,14.5,0.253,0.5,17.26,35900,3.6
+Kentucky,Broadcast Technicians,290,16.4,0.151,0.77,21.18,44050,5.9
+Kentucky,Sound Engineering Technicians,60,26.3,0.03,0.35,30.3,63030,15.6
+Kentucky,Photographers,410,13.6,0.217,0.63,17.68,36770,2.9
+Kentucky,"Camera Operators, Television, Video, and Film",180,18.5,0.093,0.63,21.08,43840,4.5
+Kentucky,Film and Video Editors,140,29.4,0.075,0.4,*,*,*
+Kentucky,Healthcare Practitioners and Technical Occupations,122100,2.2,64.366,1.09,33.39,69460,1.1
+Kentucky,Chiropractors,430,11.9,0.228,0.96,33.72,70150,12
+Kentucky,"Dentists, General",990,11.5,0.522,0.69,62.17,129310,8.9
+Kentucky,Oral and Maxillofacial Surgeons,40,33.1,0.024,0.74,*,*,*
+Kentucky,Orthodontists,70,43.6,0.035,0.86,*,*,*
+Kentucky,Dietitians and Nutritionists,900,7.1,0.477,1.04,27.87,57970,1.8
+Kentucky,Optometrists,480,13.3,0.255,0.95,54.33,113010,5
+Kentucky,Pharmacists,5180,6.1,2.733,1.29,58.85,122400,1.4
+Kentucky,Physician Assistants,1230,9,0.648,0.79,40.81,84870,5
+Kentucky,Podiatrists,100,21.9,0.05,0.76,57,118570,12.8
+Kentucky,Occupational Therapists,1280,10.9,0.677,0.74,37.71,78430,1.4
+Kentucky,Physical Therapists,2650,8.1,1.397,0.88,40.99,85260,0.9
+Kentucky,Radiation Therapists,260,15.4,0.137,1.13,37.11,77180,2.6
+Kentucky,Recreational Therapists,120,6.6,0.063,0.49,23.33,48520,3.7
+Kentucky,Respiratory Therapists,2250,4.5,1.184,1.32,24.11,50150,1.2
+Kentucky,Speech-Language Pathologists,2130,5.9,1.122,1.07,35.68,74210,1.4
+Kentucky,Exercise Physiologists,30,16.4,0.018,0.35,20.18,41960,3
+Kentucky,"Therapists, All Other",340,4.3,0.179,2.16,43.1,89640,1.2
+Kentucky,Veterinarians,1190,9.5,0.626,1.23,38.84,80790,6.4
+Kentucky,Registered Nurses,43840,3.5,23.112,1.14,30.65,63750,0.9
+Kentucky,Nurse Anesthetists,**,**,**,**,80.48,167400,5.2
+Kentucky,Nurse Midwives,70,22.5,0.035,0.73,50.91,105890,2.2
+Kentucky,Nurse Practitioners,3620,6,1.907,1.4,47.87,99560,1.4
+Kentucky,Audiologists,100,35.8,0.054,0.58,32.41,67410,3.4
+Kentucky,Anesthesiologists,330,32.3,0.175,0.83,127.85,265930,10.3
+Kentucky,Family Medicine Physicians,1070,11.6,0.562,0.76,97.55,202910,5.6
+Kentucky,General Internal Medicine Physicians,260,31.8,0.139,0.46,100.82,209700,8.9
+Kentucky,Obstetricians and Gynecologists,170,20.9,0.09,0.71,122.75,255330,6.2
+Kentucky,"Pediatricians, General",400,20,0.209,1.03,93.65,194800,5
+Kentucky,Psychiatrists,140,18.3,0.076,0.44,104.77,217920,8.3
+Kentucky,"Physicians, All Other; and Ophthalmologists, Except Pediatric",3280,8.5,1.73,0.65,108.29,225240,5.2
+Kentucky,"Surgeons, Except Ophthalmologists",420,18.4,0.219,0.89,130.09,270580,5.8
+Kentucky,Dental Hygienists,2270,9.4,1.199,0.79,29.37,61090,2.8
+Kentucky,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",190,13.5,0.101,0.41,32.63,67860,8.3
+Kentucky,Clinical Laboratory Technologists and Technicians,4240,5.7,2.234,1.01,25.24,52500,1.4
+Kentucky,Cardiovascular Technologists and Technicians,870,8,0.46,1.2,22.69,47190,2.3
+Kentucky,Diagnostic Medical Sonographers,770,13.5,0.405,0.82,32.35,67280,0.9
+Kentucky,Nuclear Medicine Technologists,280,11.1,0.149,1.21,32.87,68370,1.8
+Kentucky,Radiologic Technologists and Technicians,3890,4.5,2.05,1.45,25.33,52690,1
+Kentucky,Magnetic Resonance Imaging Technologists,450,17.4,0.238,0.92,33.54,69770,1.3
+Kentucky,Emergency Medical Technicians and Paramedics,4540,7.9,2.393,1.35,15.03,31250,1.4
+Kentucky,Dietetic Technicians,180,15.5,0.093,0.47,14.88,30960,7.6
+Kentucky,Pharmacy Technicians,8840,4.1,4.659,1.64,14.44,30040,1.3
+Kentucky,Psychiatric Technicians,390,19.4,0.208,0.39,15.24,31700,3.6
+Kentucky,Surgical Technologists,1710,8,0.901,1.21,20.9,43480,1.5
+Kentucky,Veterinary Technologists and Technicians,1250,18.4,0.661,0.88,15.21,31630,4.6
+Kentucky,Ophthalmic Medical Technicians,450,14.9,0.237,0.59,15.65,32550,3.9
+Kentucky,Licensed Practical and Licensed Vocational Nurses,9790,4,5.159,1.09,20.55,42740,0.8
+Kentucky,"Opticians, Dispensing",1030,15.1,0.542,1.1,17.5,36400,2
+Kentucky,Orthotists and Prosthetists,110,28.8,0.057,0.85,30.4,63240,7.9
+Kentucky,Hearing Aid Specialists,**,**,**,**,30.05,62490,9.1
+Kentucky,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",5150,5.3,2.717,1.2,20.47,42580,1.8
+Kentucky,Athletic Trainers,440,14.1,0.231,1.18,*,47420,2
+Kentucky,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,23.19,48240,3.2
+Kentucky,Healthcare Support Occupations,71560,2,37.724,0.85,14.42,29990,0.8
+Kentucky,Home Health and Personal Care Aides,22660,4.7,11.948,0.56,12.7,26410,1.4
+Kentucky,Nursing Assistants,22280,3.1,11.743,1.21,13.12,27280,1
+Kentucky,Orderlies,520,7,0.275,0.86,12.43,25840,1.1
+Kentucky,Psychiatric Aides,560,13.4,0.293,0.78,14.69,30550,3.1
+Kentucky,Occupational Therapy Assistants,490,21.8,0.257,0.84,29.09,60510,1.8
+Kentucky,Physical Therapist Assistants,1570,7.9,0.827,1.25,25.52,53080,2.2
+Kentucky,Physical Therapist Aides,950,17.7,0.503,1.5,12.6,26210,2.1
+Kentucky,Massage Therapists,910,17.1,0.479,0.66,24.56,51080,10.2
+Kentucky,Dental Assistants,4500,6.4,2.371,0.99,17.73,36870,2.6
+Kentucky,Medical Assistants,9940,3.7,5.238,1.08,15.66,32570,0.9
+Kentucky,Medical Equipment Preparers,710,7.5,0.376,0.97,16.35,34010,1.6
+Kentucky,Medical Transcriptionists,880,22.2,0.462,1.22,18.04,37520,3.4
+Kentucky,Pharmacy Aides,**,**,**,**,12.45,25890,4.8
+Kentucky,Veterinary Assistants and Laboratory Animal Caretakers,1900,14.6,1.004,1.52,13.03,27110,3.3
+Kentucky,Phlebotomists,2300,9.8,1.211,1.39,15.31,31840,1.5
+Kentucky,"Healthcare Support Workers, All Other",1120,6.5,0.588,0.93,19.88,41350,3
+Kentucky,Protective Service Occupations,40160,2.8,21.172,0.89,17.55,36510,2
+Kentucky,First-Line Supervisors of Correctional Officers,760,3.5,0.399,1.26,23.17,48180,2.4
+Kentucky,First-Line Supervisors of Police and Detectives,1410,3.5,0.742,0.9,31.86,66270,1.7
+Kentucky,First-Line Supervisors of Firefighting and Prevention Workers,1060,8,0.56,1.18,27.33,56840,2.5
+Kentucky,"Miscellaneous First-Line Supervisors, Protective Service Workers",670,5.5,0.352,0.63,22.1,45970,2.4
+Kentucky,Firefighters,4320,8.3,2.279,1.03,16.36,34030,1.9
+Kentucky,Fire Inspectors and Investigators,100,4.7,0.055,0.58,21.64,45020,3
+Kentucky,Bailiffs,640,12.3,0.336,2.51,12.16,25300,3
+Kentucky,Correctional Officers and Jailers,5910,5,3.115,1.08,17.14,35640,1.5
+Kentucky,Detectives and Criminal Investigators,540,3,0.284,0.4,36.85,76650,1.3
+Kentucky,Police and Sheriff's Patrol Officers,7660,3,4.036,0.89,22.46,46720,3
+Kentucky,Animal Control Workers,300,7.7,0.158,1.94,13.26,27580,1.7
+Kentucky,Private Detectives and Investigators,240,41.6,0.125,0.53,24.54,51050,3.3
+Kentucky,Security Guards,13050,6.8,6.882,0.9,12.72,26460,2.1
+Kentucky,Crossing Guards and Flaggers,540,22.2,0.282,0.49,13.12,27290,4.5
+Kentucky,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1510,12.8,0.795,0.81,9.38,19510,1.8
+Kentucky,Transportation Security Screeners,410,0,0.214,0.67,18.92,39350,2.3
+Kentucky,"School Bus Monitors and Protective Service Workers, All Other",910,6.7,0.478,0.48,19.31,40170,3.2
+Kentucky,Food Preparation and Serving Related Occupations,176980,1,93.3,1.02,10.73,22320,0.7
+Kentucky,Chefs and Head Cooks,660,10.5,0.349,0.4,23.37,48620,3.6
+Kentucky,First-Line Supervisors of Food Preparation and Serving Workers,14620,3.6,7.709,1.12,15.56,32370,1.3
+Kentucky,"Cooks, Fast Food",7020,13.7,3.7,1.03,10.03,20870,1.8
+Kentucky,"Cooks, Institution and Cafeteria",10870,2.3,5.73,2.09,12.4,25780,1.4
+Kentucky,"Cooks, Restaurant",19410,5.3,10.234,1.07,11.61,24160,2
+Kentucky,"Cooks, Short Order",410,25.6,0.218,0.21,10.19,21200,4.1
+Kentucky,"Cooks, All Other",**,**,**,**,14.07,29270,4.4
+Kentucky,Food Preparation Workers,7410,9.2,3.907,0.66,11.47,23860,1.7
+Kentucky,Bartenders,4890,6.6,2.578,0.59,9.8,20380,1.7
+Kentucky,Fast Food and Counter Workers,65690,3.5,34.629,1.27,9.58,19930,0.8
+Kentucky,Waiters and Waitresses,31690,3.8,16.704,0.95,9.83,20440,1.7
+Kentucky,"Food Servers, Nonrestaurant",1930,16.4,1.02,0.54,11.01,22910,3
+Kentucky,Dining Room and Cafeteria Attendants and Bartender Helpers,3490,13.1,1.839,0.57,10.09,20980,1.9
+Kentucky,Dishwashers,3360,9.9,1.772,0.51,10.49,21830,1.4
+Kentucky,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",4660,9.6,2.457,0.85,10.17,21140,2.2
+Kentucky,"Food Preparation and Serving Related Workers, All Other",720,44.8,0.379,0.77,9.14,19020,4
+Kentucky,Building and Grounds Cleaning and Maintenance Occupations,50150,2.1,26.439,0.88,13.47,28020,1
+Kentucky,First-Line Supervisors of Housekeeping and Janitorial Workers,2090,6.4,1.102,1.04,18.43,38340,2.9
+Kentucky,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1300,10.8,0.684,0.97,22.77,47360,2.9
+Kentucky,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",25220,3,13.294,0.91,12.96,26950,1.3
+Kentucky,Maids and Housekeeping Cleaners,10740,4.6,5.663,0.9,11.09,23080,1.2
+Kentucky,"Building Cleaning Workers, All Other",**,**,**,**,19.58,40720,8.7
+Kentucky,Pest Control Workers,860,7.5,0.453,0.84,16.4,34120,3
+Kentucky,Landscaping and Groundskeeping Workers,8750,5.8,4.61,0.74,14.39,29920,1.9
+Kentucky,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",170,28.3,0.091,0.52,16.8,34940,6
+Kentucky,Tree Trimmers and Pruners,880,40,0.463,1.44,17.54,36470,9.5
+Kentucky,"Grounds Maintenance Workers, All Other",70,10.5,0.038,0.39,26.57,55270,6.9
+Kentucky,Personal Care and Service Occupations,40220,5.4,21.204,0.94,13.09,27230,1.6
+Kentucky,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",2790,7.1,1.472,0.99,17.12,35620,2.6
+Kentucky,Animal Trainers,490,16.2,0.256,2.27,27.26,56710,24.1
+Kentucky,Animal Caretakers,3330,9.8,1.756,1.21,11.28,23460,1.7
+Kentucky,Gambling and Sports Book Writers and Runners,360,21.5,0.192,2.82,19.3,40150,8.9
+Kentucky,Motion Picture Projectionists,60,47.2,0.031,1,10.91,22690,4.7
+Kentucky,"Ushers, Lobby Attendants, and Ticket Takers",1540,19,0.814,0.87,9.61,19980,2.3
+Kentucky,Amusement and Recreation Attendants,3510,13.4,1.849,0.8,10.19,21190,2.2
+Kentucky,"Locker Room, Coatroom, and Dressing Room Attendants",40,23.7,0.022,0.21,11.1,23090,3.5
+Kentucky,"Entertainment Attendants and Related Workers, All Other",90,48,0.046,1.49,9.59,19950,4.2
+Kentucky,Embalmers,110,32.8,0.056,2.1,22.22,46230,10.5
+Kentucky,Funeral Attendants,660,13.4,0.346,1.48,15.26,31740,8.3
+Kentucky,"Morticians, Undertakers, and Funeral Arrangers",580,18.9,0.307,1.77,24.4,50750,11.8
+Kentucky,Barbers,**,**,**,**,18.48,38430,12.7
+Kentucky,"Hairdressers, Hairstylists, and Cosmetologists",3430,10,1.806,0.69,14.57,30300,6.8
+Kentucky,Manicurists and Pedicurists,70,41.9,0.037,0.05,13.12,27290,12.1
+Kentucky,Skincare Specialists,370,22.2,0.193,0.5,17.86,37150,4.9
+Kentucky,Baggage Porters and Bellhops,110,30,0.059,0.22,13.61,28300,8.2
+Kentucky,Concierges,80,6.7,0.044,0.16,13,27030,5.1
+Kentucky,Tour and Travel Guides,770,14.3,0.406,1.22,13.23,27530,2.6
+Kentucky,Childcare Workers,11160,7,5.883,1.54,10.65,22160,1.9
+Kentucky,Exercise Trainers and Group Fitness Instructors,2630,12.3,1.385,0.62,16.51,34350,4
+Kentucky,Recreation Workers,3000,11.5,1.583,0.65,14.8,30790,6.4
+Kentucky,Residential Advisors,3980,47.6,2.099,2.86,12.14,25240,1.4
+Kentucky,"Crematory Operators and Personal Care and Service Workers, All Other",820,31.6,0.434,1.04,14.66,30480,8.6
+Kentucky,Sales and Related Occupations,174410,1.3,91.945,0.94,17.02,35400,1
+Kentucky,First-Line Supervisors of Retail Sales Workers,17240,3.6,9.089,1.14,18.93,39380,1.7
+Kentucky,First-Line Supervisors of Non-Retail Sales Workers,2830,8.5,1.492,0.88,37.13,77220,2.5
+Kentucky,Cashiers,51260,3.1,27.022,1.1,10.16,21140,0.7
+Kentucky,Counter and Rental Clerks,4760,7,2.511,0.9,13.72,28540,2.8
+Kentucky,Parts Salespersons,3680,8.1,1.942,1.11,15.8,32860,2.7
+Kentucky,Retail Salespersons,54250,2.5,28.598,0.97,12.72,26460,1.1
+Kentucky,Advertising Sales Agents,1300,7.4,0.688,0.78,22.71,47230,4.6
+Kentucky,Insurance Sales Agents,4800,5.4,2.53,0.91,26.89,55930,4.8
+Kentucky,"Securities, Commodities, and Financial Services Sales Agents",3100,8.6,1.634,0.55,38.88,80870,5.8
+Kentucky,Travel Agents,220,16.4,0.117,0.26,17.3,35980,10.1
+Kentucky,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",7580,8.1,3.994,0.56,26.18,54460,2.6
+Kentucky,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",2420,15.6,1.275,0.61,45.3,94230,7.9
+Kentucky,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",16310,3.3,8.598,0.94,31.42,65340,2
+Kentucky,Demonstrators and Product Promoters,600,44.2,0.317,0.6,17.02,35400,3
+Kentucky,Real Estate Brokers,**,**,**,**,36.77,76480,7.6
+Kentucky,Real Estate Sales Agents,1690,9.4,0.891,0.81,24.32,50570,7.3
+Kentucky,Sales Engineers,**,**,**,**,45.84,95340,4
+Kentucky,Telemarketers,640,19.5,0.335,0.36,13.87,28850,2.4
+Kentucky,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",40,22.2,0.023,0.38,13.88,28880,16.5
+Kentucky,"Sales and Related Workers, All Other",1200,12.3,0.631,0.78,14.26,29650,2.5
+Kentucky,Office and Administrative Support Occupations,257130,1.5,135.553,1.02,17.27,35920,0.4
+Kentucky,First-Line Supervisors of Office and Administrative Support Workers,20250,1.9,10.677,1.05,24.94,51880,1.1
+Kentucky,"Switchboard Operators, Including Answering Service",500,8.2,0.262,0.57,13.3,27660,1
+Kentucky,Telephone Operators,50,28.6,0.026,0.81,14.58,30320,11.6
+Kentucky,"Communications Equipment Operators, All Other",130,45.5,0.066,3,20.45,42540,3.9
+Kentucky,Bill and Account Collectors,3050,17,1.609,1,17.55,36500,2.1
+Kentucky,Billing and Posting Clerks,7970,4.9,4.2,1.32,17.32,36020,1.4
+Kentucky,"Bookkeeping, Accounting, and Auditing Clerks",18130,2.5,9.558,0.93,18.55,38580,0.7
+Kentucky,Gambling Cage Workers,120,13.1,0.066,0.67,17.92,37270,10.7
+Kentucky,Payroll and Timekeeping Clerks,1500,5.2,0.789,0.81,20.45,42530,1.5
+Kentucky,Procurement Clerks,700,6.9,0.371,0.83,21.23,44150,1.2
+Kentucky,Tellers,6410,4.2,3.379,1.12,13.94,29000,1.2
+Kentucky,"Financial Clerks, All Other",240,22.5,0.128,0.62,22.2,46170,8.3
+Kentucky,Brokerage Clerks,360,15.9,0.19,0.58,22.62,47040,1.9
+Kentucky,"Court, Municipal, and License Clerks",2830,5.7,1.493,1.42,16.1,33480,1.4
+Kentucky,"Credit Authorizers, Checkers, and Clerks",100,30,0.051,0.28,21.35,44400,4.1
+Kentucky,Customer Service Representatives,43270,4.6,22.81,1.15,15.92,33110,1.3
+Kentucky,"Eligibility Interviewers, Government Programs",1330,4.4,0.701,0.74,22.43,46660,1.9
+Kentucky,File Clerks,990,10.5,0.523,0.75,14.02,29160,2.2
+Kentucky,"Hotel, Motel, and Resort Desk Clerks",3880,9,2.047,1.12,10.27,21370,1.6
+Kentucky,"Interviewers, Except Eligibility and Loan",3490,7.1,1.84,1.43,14.8,30780,1.3
+Kentucky,"Library Assistants, Clerical",1080,11.9,0.569,0.97,12.89,26800,1.5
+Kentucky,Loan Interviewers and Clerks,3430,7.4,1.807,1.27,18.11,37680,1.4
+Kentucky,New Accounts Clerks,260,24.2,0.137,0.46,16.98,35310,2.2
+Kentucky,Order Clerks,1500,12.8,0.791,0.85,15.71,32680,2.2
+Kentucky,"Human Resources Assistants, Except Payroll and Timekeeping",1530,4.5,0.809,1.01,20.16,41920,2
+Kentucky,Receptionists and Information Clerks,15860,3.3,8.362,1.16,13.58,28250,0.8
+Kentucky,Reservation and Transportation Ticket Agents and Travel Clerks,950,33.8,0.499,0.59,17.76,36940,7.7
+Kentucky,"Information and Record Clerks, All Other",1980,5.1,1.045,1,19.4,40350,1.4
+Kentucky,Cargo and Freight Agents,2680,15,1.413,2.17,20.35,42340,3
+Kentucky,Couriers and Messengers,720,18.6,0.38,0.75,14.02,29150,3.4
+Kentucky,Public Safety Telecommunicators,1200,8.6,0.63,0.97,16.92,35190,2
+Kentucky,"Dispatchers, Except Police, Fire, and Ambulance",2610,5.9,1.373,1.01,18.9,39310,2.4
+Kentucky,"Meter Readers, Utilities",950,13.2,0.503,2.42,18.51,38500,5.9
+Kentucky,Postal Service Clerks,1320,0,0.697,1.26,23.76,49420,0.5
+Kentucky,Postal Service Mail Carriers,4610,0,2.429,1.05,24.89,51760,0.8
+Kentucky,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",960,0,0.506,0.73,23.68,49260,1.9
+Kentucky,"Production, Planning, and Expediting Clerks",4080,3.7,2.149,0.85,22.32,46420,1.8
+Kentucky,"Shipping, Receiving, and Inventory Clerks",10470,5.3,5.521,1.15,16.69,34710,0.9
+Kentucky,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",1130,9.9,0.596,1.44,20.68,43020,5.2
+Kentucky,Executive Secretaries and Executive Administrative Assistants,4530,3.6,2.388,0.65,23.49,48870,1.4
+Kentucky,Legal Secretaries and Administrative Assistants,1820,12.1,0.958,0.84,17.77,36950,2.5
+Kentucky,Medical Secretaries and Administrative Assistants,**,**,**,**,16.01,33300,1.2
+Kentucky,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",23670,2.4,12.476,0.9,16.54,34410,0.6
+Kentucky,Data Entry Keyers,1090,10.4,0.575,0.53,15.97,33210,1.8
+Kentucky,Word Processors and Typists,110,14,0.059,0.18,16.32,33950,7.2
+Kentucky,Desktop Publishers,50,33.1,0.024,0.41,17.8,37010,3.5
+Kentucky,Insurance Claims and Policy Processing Clerks,3120,22.3,1.646,0.94,17.31,36000,3.2
+Kentucky,"Mail Clerks and Mail Machine Operators, Except Postal Service",1180,12,0.624,1.1,14.38,29920,2.4
+Kentucky,"Office Clerks, General",38750,3.6,20.428,1.02,14.69,30550,1.5
+Kentucky,"Office Machine Operators, Except Computer",330,29.9,0.173,0.55,15.24,31700,3
+Kentucky,Proofreaders and Copy Markers,40,6.7,0.021,0.41,19.74,41050,4.7
+Kentucky,"Office and Administrative Support Workers, All Other",1970,15.5,1.04,0.81,19.09,39700,2.2
+Kentucky,"Farming, Fishing, and Forestry Occupations",4020,7.9,2.119,0.64,15.15,31510,1.7
+Kentucky,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",290,12.3,0.153,1,24.94,51870,2.6
+Kentucky,Agricultural Inspectors,160,6.1,0.086,0.92,20.76,43190,1.8
+Kentucky,Animal Breeders,70,18.8,0.035,3.18,15.52,32280,5.2
+Kentucky,"Graders and Sorters, Agricultural Products",**,**,**,**,12.72,26450,4.7
+Kentucky,Agricultural Equipment Operators,140,31,0.074,0.4,15.77,32800,5.5
+Kentucky,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",830,21.7,0.435,0.22,13.9,28920,4.4
+Kentucky,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1820,16.3,0.96,3.85,13.64,28370,3.4
+Kentucky,"Agricultural Workers, All Other",70,32.9,0.035,0.78,16.34,33980,7.1
+Kentucky,Logging Equipment Operators,330,28.2,0.172,0.97,15.87,33010,3.5
+Kentucky,Log Graders and Scalers,180,32,0.096,4.29,14.8,30790,5.2
+Kentucky,Construction and Extraction Occupations,70790,1.9,37.317,0.88,23,47830,0.8
+Kentucky,First-Line Supervisors of Construction Trades and Extraction Workers,7290,3.6,3.844,0.9,30.51,63460,1.1
+Kentucky,Boilermakers,**,**,**,**,37.21,77400,3.3
+Kentucky,Brickmasons and Blockmasons,780,15.1,0.41,0.99,20.69,43040,4.1
+Kentucky,Stonemasons,60,33,0.033,0.39,20.61,42870,3.2
+Kentucky,Carpenters,7610,4.8,4.009,0.8,22.31,46400,2
+Kentucky,Carpet Installers,170,35.3,0.091,0.51,18.95,39410,7.1
+Kentucky,Tile and Stone Setters,280,27.8,0.146,0.53,20.17,41960,4.4
+Kentucky,Cement Masons and Concrete Finishers,2350,9.9,1.236,0.93,19.11,39740,2.3
+Kentucky,Construction Laborers,11000,4.5,5.8,0.83,18.36,38190,1.4
+Kentucky,"Paving, Surfacing, and Tamping Equipment Operators",550,25.4,0.288,0.93,19.47,40490,5.8
+Kentucky,Operating Engineers and Other Construction Equipment Operators,4670,8.6,2.464,0.89,24.72,51410,2.1
+Kentucky,Drywall and Ceiling Tile Installers,650,12.7,0.344,0.49,20.95,43580,5.7
+Kentucky,Electricians,9880,4.4,5.21,1.11,25.69,53440,2.2
+Kentucky,Glaziers,590,20.1,0.31,0.87,20.25,42110,7.1
+Kentucky,"Insulation Workers, Floor, Ceiling, and Wall",360,32.6,0.189,0.83,17.56,36520,8.7
+Kentucky,"Insulation Workers, Mechanical",330,16.9,0.172,0.95,22.76,47340,3.4
+Kentucky,"Painters, Construction and Maintenance",1840,6.5,0.97,0.61,17.69,36790,2.8
+Kentucky,Pipelayers,210,25.7,0.11,0.45,18.11,37660,4
+Kentucky,"Plumbers, Pipefitters, and Steamfitters",6360,8.3,3.35,1.11,27.19,56550,2.2
+Kentucky,Plasterers and Stucco Masons,130,42.8,0.07,0.38,19.66,40890,8.4
+Kentucky,Reinforcing Iron and Rebar Workers,170,41.6,0.09,0.7,35.65,74150,15.6
+Kentucky,Roofers,1080,17.5,0.569,0.64,20.68,43010,3.5
+Kentucky,Sheet Metal Workers,1030,15.3,0.542,0.61,22.35,46490,2.7
+Kentucky,Structural Iron and Steel Workers,700,16.1,0.368,0.71,21.53,44790,5.6
+Kentucky,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",210,19.9,0.11,0.69,16.85,35040,6.4
+Kentucky,Helpers--Carpenters,230,29.7,0.123,0.55,14.43,30010,6.4
+Kentucky,Helpers--Electricians,830,15.6,0.438,0.81,15.29,31810,3.3
+Kentucky,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",90,25.6,0.046,0.62,14.46,30080,4.9
+Kentucky,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",740,15.3,0.39,0.98,15.47,32170,3.7
+Kentucky,Helpers--Roofers,**,**,**,**,17.88,37190,8
+Kentucky,"Helpers, Construction Trades, All Other",60,29.2,0.033,0.17,16.35,34000,3.4
+Kentucky,Construction and Building Inspectors,890,5.4,0.471,0.63,25.51,53050,2.9
+Kentucky,Elevator and Escalator Installers and Repairers,180,26.8,0.097,0.5,32.14,66860,11.2
+Kentucky,Fence Erectors,250,35,0.133,0.76,14.47,30090,6.8
+Kentucky,Hazardous Materials Removal Workers,**,**,**,**,21.03,43740,4.3
+Kentucky,Highway Maintenance Workers,2070,5.9,1.094,1.06,16,33280,1.2
+Kentucky,Rail-Track Laying and Maintenance Equipment Operators,140,14.8,0.073,0.66,21.4,44520,7.8
+Kentucky,Septic Tank Servicers and Sewer Pipe Cleaners,440,19.8,0.231,1.14,20.85,43370,2.5
+Kentucky,Miscellaneous Construction and Related Workers,90,33,0.045,0.21,25.25,52520,7.4
+Kentucky,"Rotary Drill Operators, Oil and Gas",50,47,0.027,0.19,24.66,51290,16.1
+Kentucky,"Service Unit Operators, Oil and Gas",130,26.9,0.07,0.2,23.24,48330,4.5
+Kentucky,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1060,14.4,0.561,1.87,21.32,44350,2.7
+Kentucky,Continuous Mining Machine Operators,1100,20.2,0.579,5.82,26.68,55500,4.8
+Kentucky,"Roof Bolters, Mining",610,21.6,0.322,15.05,24.06,50040,2.7
+Kentucky,"Loading and Moving Machine Operators, Underground Mining",350,15.1,0.184,6.43,21.95,45660,2.8
+Kentucky,"Rock Splitters, Quarry",160,31.1,0.086,2.48,20.6,42840,9.6
+Kentucky,"Roustabouts, Oil and Gas",190,18.6,0.099,0.25,18.93,39370,8.3
+Kentucky,Helpers--Extraction Workers,630,29.7,0.331,2.92,19.4,40360,3
+Kentucky,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",430,13.4,0.226,1.33,23.55,48990,4.9
+Kentucky,"Underground Mining Machine Operators and Extraction Workers, All Other",810,28.8,0.425,4.52,22.15,46070,2
+Kentucky,"Installation, Maintenance, and Repair Occupations",88630,1.7,46.726,1.2,22.38,46560,0.8
+Kentucky,"First-Line Supervisors of Mechanics, Installers, and Repairers",7600,3,4.009,1.21,31.06,64610,1.1
+Kentucky,"Computer, Automated Teller, and Office Machine Repairers",1510,15.7,0.794,1.19,18.6,38680,2.2
+Kentucky,"Radio, Cellular, and Tower Equipment Installers and Repairers",50,18.2,0.028,0.29,26.14,54370,3.8
+Kentucky,"Telecommunications Equipment Installers and Repairers, Except Line Installers",2770,14.2,1.458,1.03,24.95,51900,3.9
+Kentucky,Avionics Technicians,60,31.6,0.033,0.23,31.41,65330,11.8
+Kentucky,"Electric Motor, Power Tool, and Related Repairers",120,38.3,0.066,0.61,20.16,41940,5.2
+Kentucky,"Electrical and Electronics Installers and Repairers, Transportation Equipment",140,27,0.074,1.1,29.66,61700,4.2
+Kentucky,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",550,8.1,0.29,0.72,26.63,55380,1.9
+Kentucky,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",500,20.7,0.261,1.69,39.5,82150,2.4
+Kentucky,"Electronic Equipment Installers and Repairers, Motor Vehicles",70,18.6,0.036,0.52,18.14,37730,3
+Kentucky,Audiovisual Equipment Installers and Repairers,400,20.4,0.209,1.2,22.36,46510,10
+Kentucky,Security and Fire Alarm Systems Installers,850,19,0.449,0.92,22.76,47340,3.8
+Kentucky,Aircraft Mechanics and Service Technicians,2260,19.2,1.189,1.31,33.51,69690,4.7
+Kentucky,Automotive Body and Related Repairers,1410,13,0.744,0.76,20.79,43240,3
+Kentucky,Automotive Glass Installers and Repairers,520,27.5,0.277,2.09,17.03,35420,3.9
+Kentucky,Automotive Service Technicians and Mechanics,9020,4.7,4.755,1.07,18.44,38360,2.3
+Kentucky,Bus and Truck Mechanics and Diesel Engine Specialists,3700,6.1,1.951,1.08,20.73,43110,1.3
+Kentucky,Farm Equipment Mechanics and Service Technicians,790,9.5,0.418,1.69,17.23,35830,3.3
+Kentucky,"Mobile Heavy Equipment Mechanics, Except Engines",2450,10.4,1.293,1.28,23.94,49800,1.8
+Kentucky,Rail Car Repairers,680,22.8,0.358,2.03,26.38,54860,5.4
+Kentucky,Motorboat Mechanics and Service Technicians,640,25.2,0.335,2.15,18.62,38740,9.5
+Kentucky,Motorcycle Mechanics,270,22.1,0.143,1.35,18.89,39290,4.3
+Kentucky,Outdoor Power Equipment and Other Small Engine Mechanics,670,20.2,0.354,1.62,15.16,31530,6.6
+Kentucky,Bicycle Repairers,50,29.3,0.025,0.28,14.22,29570,5.5
+Kentucky,Recreational Vehicle Service Technicians,**,**,**,**,15.7,32660,4
+Kentucky,Tire Repairers and Changers,1560,17.9,0.824,1.09,13.13,27310,3.8
+Kentucky,Mechanical Door Repairers,380,37.2,0.198,1.26,19.81,41210,7.7
+Kentucky,"Control and Valve Installers and Repairers, Except Mechanical Door",890,16.5,0.47,1.32,25.73,53530,5
+Kentucky,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4290,8.9,2.264,0.97,20.57,42780,2
+Kentucky,Home Appliance Repairers,290,21.2,0.153,0.72,19.47,40500,5.9
+Kentucky,Industrial Machinery Mechanics,9480,3.5,4.999,1.89,25.21,52430,1.9
+Kentucky,"Maintenance Workers, Machinery",1500,6.3,0.789,1.59,22.89,47620,1.8
+Kentucky,Millwrights,1340,13.4,0.704,2.19,24.81,51610,5.1
+Kentucky,Electrical Power-Line Installers and Repairers,2680,15.2,1.411,1.86,29.95,62300,4.5
+Kentucky,Telecommunications Line Installers and Repairers,1090,27.5,0.573,0.7,22.95,47740,8.1
+Kentucky,Camera and Photographic Equipment Repairers,**,**,**,**,17.79,37010,4.2
+Kentucky,Medical Equipment Repairers,750,14.9,0.396,1.26,21.92,45600,5.2
+Kentucky,Musical Instrument Repairers and Tuners,170,39.6,0.09,1.65,16.88,35110,8
+Kentucky,"Precision Instrument and Equipment Repairers, All Other",340,24.5,0.181,2.51,25.58,53210,2.7
+Kentucky,"Maintenance and Repair Workers, General",22430,2.5,11.825,1.22,19.5,40560,0.9
+Kentucky,"Coin, Vending, and Amusement Machine Servicers and Repairers",340,19.6,0.181,0.85,17.95,37340,3.5
+Kentucky,Commercial Divers,**,**,**,**,25.34,52710,6.9
+Kentucky,Locksmiths and Safe Repairers,180,29,0.094,0.82,17.48,36350,6.3
+Kentucky,Riggers,60,45.9,0.033,0.21,20.4,42440,5
+Kentucky,Signal and Track Switch Repairers,90,30.3,0.05,1.07,36.44,75790,3.7
+Kentucky,"Helpers--Installation, Maintenance, and Repair Workers",1570,12.2,0.829,1.22,15.65,32560,2.8
+Kentucky,"Installation, Maintenance, and Repair Workers, All Other",1910,13.3,1.005,0.92,19.7,40980,2.6
+Kentucky,Production Occupations,189220,1.7,99.753,1.6,19.09,39700,1.6
+Kentucky,First-Line Supervisors of Production and Operating Workers,12200,2.6,6.43,1.5,29.67,61700,1.1
+Kentucky,"Coil Winders, Tapers, and Finishers",100,39.5,0.052,0.61,18.19,37830,2.9
+Kentucky,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",2400,13.4,1.265,0.65,17.43,36260,2.2
+Kentucky,Engine and Other Machine Assemblers,730,39.2,0.386,1.23,24.56,51090,2.9
+Kentucky,Structural Metal Fabricators and Fitters,790,18.2,0.414,0.79,18.1,37650,2.2
+Kentucky,Miscellaneous Assemblers and Fabricators,50480,2.9,26.613,2.85,18.1,37650,3.3
+Kentucky,Bakers,1870,22.8,0.985,0.78,11.56,24050,4.5
+Kentucky,Butchers and Meat Cutters,1680,9.1,0.887,0.95,14.49,30140,1.9
+Kentucky,"Meat, Poultry, and Fish Cutters and Trimmers",1600,18.3,0.845,0.81,13.3,27660,3
+Kentucky,Slaughterers and Meat Packers,910,21.3,0.477,0.96,13.66,28420,2.1
+Kentucky,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",210,26.7,0.113,0.8,16.85,35050,4.6
+Kentucky,Food Batchmakers,2110,11.7,1.11,1.02,16.61,34540,2.7
+Kentucky,Food Cooking Machine Operators and Tenders,310,13.4,0.161,0.79,17.99,37410,3.4
+Kentucky,"Food Processing Workers, All Other",1080,27.4,0.571,1.95,14.42,29990,1.9
+Kentucky,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,18.52,38510,3.1
+Kentucky,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",910,12.5,0.478,4.3,20.85,43360,9
+Kentucky,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1330,15.7,0.699,3.16,20.38,42390,3.1
+Kentucky,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",6170,6.8,3.25,2.45,19.67,40900,5.9
+Kentucky,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",80,21.6,0.044,0.59,19.28,40110,6.1
+Kentucky,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",730,12.2,0.386,0.74,18.14,37740,3.9
+Kentucky,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",370,17.4,0.194,1.01,20.68,43010,2
+Kentucky,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",100,30.3,0.055,0.43,19.81,41200,2.2
+Kentucky,Machinists,5970,7.3,3.148,1.21,21.44,44600,1.1
+Kentucky,Metal-Refining Furnace Operators and Tenders,570,15.7,0.299,2.56,21.42,44550,2
+Kentucky,"Pourers and Casters, Metal",270,35.2,0.143,2.62,21.83,45410,4.3
+Kentucky,"Model Makers, Metal and Plastic",**,**,**,**,26.61,55360,3.1
+Kentucky,Foundry Mold and Coremakers,220,19.9,0.118,0.99,16.15,33590,9.6
+Kentucky,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",3680,6.6,1.939,1.65,16.53,34380,1.6
+Kentucky,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2620,10,1.379,1.38,19.47,40490,5.4
+Kentucky,Tool and Die Makers,1840,6.6,0.971,2.02,27.41,57010,3.2
+Kentucky,"Welders, Cutters, Solderers, and Brazers",7570,6.2,3.993,1.43,19.69,40960,1.2
+Kentucky,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1650,4.9,0.87,3.64,23.25,48370,6.6
+Kentucky,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",610,6.6,0.32,2.41,19.18,39900,2.6
+Kentucky,"Layout Workers, Metal and Plastic",70,37.4,0.036,0.64,22.17,46110,5.3
+Kentucky,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",490,18.1,0.258,0.91,16.39,34090,3.9
+Kentucky,"Tool Grinders, Filers, and Sharpeners",170,22.6,0.092,2.1,19.53,40620,8
+Kentucky,"Metal Workers and Plastic Workers, All Other",530,20.9,0.278,1.68,17.43,36250,4.1
+Kentucky,Prepress Technicians and Workers,**,**,**,**,19.12,39770,3.1
+Kentucky,Printing Press Operators,3910,10.3,2.06,1.74,18.04,37530,2.6
+Kentucky,Print Binding and Finishing Workers,1110,15.6,0.585,1.88,17.79,37000,3.7
+Kentucky,Laundry and Dry-Cleaning Workers,2860,9.2,1.507,1.06,10.75,22350,1.4
+Kentucky,"Pressers, Textile, Garment, and Related Materials",310,18.7,0.162,0.63,11.54,24000,2.2
+Kentucky,Sewing Machine Operators,3110,12,1.638,1.8,11.99,24940,4.5
+Kentucky,Shoe and Leather Workers and Repairers,30,39.3,0.016,0.27,12.16,25280,5.2
+Kentucky,"Sewers, Hand",**,**,**,**,17.1,35570,3.5
+Kentucky,"Tailors, Dressmakers, and Custom Sewers",200,43.5,0.105,0.64,14.53,30210,6.1
+Kentucky,"Textile Cutting Machine Setters, Operators, and Tenders",120,27.8,0.065,0.72,10.58,22000,7.3
+Kentucky,Upholsterers,190,28.7,0.098,0.49,18.21,37870,3.1
+Kentucky,"Textile, Apparel, and Furnishings Workers, All Other",**,**,**,**,18.33,38120,5.8
+Kentucky,Cabinetmakers and Bench Carpenters,650,15.9,0.345,0.51,15.24,31700,3.8
+Kentucky,Furniture Finishers,170,17.1,0.087,0.79,14.82,30820,4.2
+Kentucky,"Sawing Machine Setters, Operators, and Tenders, Wood",1660,10.6,0.873,2.53,13.16,27370,1.6
+Kentucky,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1620,20.5,0.852,1.59,13.79,28680,1.9
+Kentucky,"Woodworkers, All Other",30,23.4,0.018,0.39,19.17,39880,9.1
+Kentucky,Power Distributors and Dispatchers,190,26.3,0.102,1.39,37.77,78560,3.4
+Kentucky,Power Plant Operators,830,15.3,0.437,1.91,38.61,80300,3.6
+Kentucky,Stationary Engineers and Boiler Operators,130,40.1,0.071,0.32,26.52,55160,4.9
+Kentucky,Water and Wastewater Treatment Plant and System Operators,2320,7.6,1.222,1.45,18.86,39240,1.8
+Kentucky,Chemical Plant and System Operators,660,25.4,0.349,1.77,28.13,58510,7.1
+Kentucky,Gas Plant Operators,380,22.6,0.202,2.06,33.01,68660,2.7
+Kentucky,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",550,35.4,0.29,1.06,35.34,73510,4.7
+Kentucky,"Plant and System Operators, All Other",140,15.6,0.075,0.85,31.31,65130,5.6
+Kentucky,Chemical Equipment Operators and Tenders,2090,14.9,1.101,1.86,24.91,51810,6
+Kentucky,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",990,7.7,0.523,1.5,23.05,47950,4.4
+Kentucky,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",680,17.8,0.358,1.58,17.65,36710,4.9
+Kentucky,"Grinding and Polishing Workers, Hand",710,19.5,0.376,1.9,15.77,32810,6.2
+Kentucky,"Mixing and Blending Machine Setters, Operators, and Tenders",2610,7.3,1.378,1.61,18.17,37780,2.3
+Kentucky,"Cutting and Slicing Machine Setters, Operators, and Tenders",1200,14.8,0.633,1.6,18.46,38400,2.5
+Kentucky,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1730,16.2,0.911,1.86,19.33,40210,2.7
+Kentucky,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",740,41.2,0.388,3.01,19.36,40270,2.9
+Kentucky,"Inspectors, Testers, Sorters, Samplers, and Weighers",12090,3.1,6.376,1.62,19.44,40440,2.3
+Kentucky,Jewelers and Precious Stone and Metal Workers,180,15.6,0.094,0.58,27.16,56480,12.6
+Kentucky,Dental Laboratory Technicians,440,24.8,0.23,0.98,20.95,43570,3.5
+Kentucky,Medical Appliance Technicians,160,22.1,0.087,0.9,18.69,38870,2.4
+Kentucky,Ophthalmic Laboratory Technicians,420,17.9,0.219,1.11,14.25,29650,2.7
+Kentucky,Packaging and Filling Machine Operators and Tenders,9430,7.4,4.971,1.87,17.51,36430,2.1
+Kentucky,"Painting, Coating, and Decorating Workers",160,16.1,0.084,0.99,17,35360,3.7
+Kentucky,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2440,6.5,1.284,1.29,19.78,41140,6
+Kentucky,Photographic Process Workers and Processing Machine Operators,120,36.7,0.061,0.76,12.86,26740,5.3
+Kentucky,Computer Numerically Controlled Tool Operators,1980,10.8,1.043,1.01,19.1,39720,5.3
+Kentucky,Computer Numerically Controlled Tool Programmers,260,11.8,0.135,0.77,23.76,49420,2.8
+Kentucky,Adhesive Bonding Machine Operators and Tenders,400,17.7,0.21,2.22,17.46,36310,2.8
+Kentucky,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",470,22.6,0.248,2.22,16.39,34090,4.7
+Kentucky,Cooling and Freezing Equipment Operators and Tenders,150,14.3,0.078,1.31,16.98,35310,8
+Kentucky,Etchers and Engravers,170,28,0.089,1.26,17.08,35520,3.9
+Kentucky,"Molders, Shapers, and Casters, Except Metal and Plastic",**,**,**,**,17.72,36860,3.4
+Kentucky,"Paper Goods Machine Setters, Operators, and Tenders",2290,12.9,1.205,1.77,21.41,44530,3.7
+Kentucky,Tire Builders,90,37.2,0.049,0.35,*,*,*
+Kentucky,Helpers--Production Workers,5830,11,3.076,1.49,15.81,32880,2.4
+Kentucky,"Production Workers, All Other",3780,17.4,1.994,1.32,14.43,30010,1.9
+Kentucky,Transportation and Material Moving Occupations,216310,2.3,114.035,1.34,17.85,37120,3.7
+Kentucky,Aircraft Cargo Handling Supervisors,790,37.3,0.416,6.43,24.87,51730,10.8
+Kentucky,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",6990,3.7,3.684,1.19,25.52,53090,1.1
+Kentucky,Commercial Pilots,280,16,0.147,0.57,*,88960,7.8
+Kentucky,Airfield Operations Specialists,380,31.7,0.202,2.77,32.44,67470,6.8
+Kentucky,Flight Attendants,530,6.2,0.28,0.34,*,55580,2.5
+Kentucky,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",180,35.7,0.094,0.93,11.95,24860,2.6
+Kentucky,Driver/Sales Workers,5120,13.1,2.699,0.89,12.45,25890,4
+Kentucky,Heavy and Tractor-Trailer Truck Drivers,27230,3.6,14.356,1.14,22.41,46620,1.7
+Kentucky,Light Truck Drivers,15910,5.7,8.387,1.33,18.06,37560,3
+Kentucky,"Bus Drivers, Transit and Intercity",2210,11.1,1.163,0.95,16.2,33700,6.1
+Kentucky,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",11200,2.2,5.906,1.24,16.19,33680,2.5
+Kentucky,"Motor Vehicle Operators, All Other",440,16.1,0.232,0.6,23.81,49520,4.1
+Kentucky,Locomotive Engineers,550,28.6,0.292,1.21,28.86,60030,4.3
+Kentucky,"Rail Yard Engineers, Dinkey Operators, and Hostlers",40,21,0.021,0.58,23.4,48680,5.2
+Kentucky,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",90,14.6,0.048,0.64,27.28,56750,10.5
+Kentucky,Railroad Conductors and Yardmasters,700,34,0.367,1.18,25.82,53710,7.4
+Kentucky,"Rail Transportation Workers, All Other",70,34.7,0.038,2.1,24.05,50020,14.6
+Kentucky,Sailors and Marine Oilers,1340,30.3,0.709,3.33,20.46,42560,8.1
+Kentucky,"Captains, Mates, and Pilots of Water Vessels",1370,31.4,0.723,3.18,37.07,77110,9.1
+Kentucky,Ship Engineers,330,39.4,0.172,3,43.68,90860,10
+Kentucky,Bridge and Lock Tenders,60,4.1,0.032,1.47,24.93,51860,2.2
+Kentucky,Parking Attendants,640,13.3,0.336,0.33,11.6,24130,3.4
+Kentucky,Automotive and Watercraft Service Attendants,1290,18.3,0.68,0.85,12.09,25150,1.6
+Kentucky,Transportation Inspectors,290,7.6,0.151,0.74,37.21,77400,4.9
+Kentucky,"Aircraft Service Attendants and Transportation Workers, All Other",490,14.1,0.259,1.09,19.23,40000,4
+Kentucky,Conveyor Operators and Tenders,540,21.5,0.287,1.75,19.27,40080,6.5
+Kentucky,Crane and Tower Operators,810,11.2,0.425,1.37,22.89,47610,4.7
+Kentucky,Hoist and Winch Operators,80,23.2,0.04,1.24,23.29,48440,10.5
+Kentucky,Industrial Truck and Tractor Operators,12580,8.7,6.634,1.55,17.85,37120,1.6
+Kentucky,Cleaners of Vehicles and Equipment,4590,7.5,2.419,0.93,12.61,26220,2.2
+Kentucky,"Laborers and Freight, Stock, and Material Movers, Hand",63980,3.1,33.729,1.68,14.71,30590,1
+Kentucky,Machine Feeders and Offbearers,1180,13.4,0.625,1.45,16.7,34730,4.7
+Kentucky,"Packers and Packagers, Hand",15200,24.7,8.015,1.86,12.88,26790,2.9
+Kentucky,Stockers and Order Fillers,32900,5.7,17.342,1.19,13.31,27690,1.2
+Kentucky,"Pump Operators, Except Wellhead Pumpers",**,**,**,**,24.62,51210,3.2
+Kentucky,Wellhead Pumpers,120,23.1,0.063,0.71,24.4,50750,8.3
+Kentucky,Refuse and Recyclable Material Collectors,1450,10.3,0.762,0.92,14.11,29350,2.5
+Kentucky,"Tank Car, Truck, and Ship Loaders",90,28.1,0.045,0.58,24.91,51820,9.9

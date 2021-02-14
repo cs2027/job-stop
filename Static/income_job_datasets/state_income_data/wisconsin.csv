@@ -1,0 +1,741 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Wisconsin,All Occupations,2870050,0.5,1000,1,23.49,48850,0.5
+Wisconsin,Management Occupations,122150,1,42.56,0.78,55.15,114710,0.5
+Wisconsin,Chief Executives,4290,6,1.493,1.07,76.68,159500,2.3
+Wisconsin,General and Operations Managers,31490,1.6,10.973,0.67,63.09,131220,0.8
+Wisconsin,Legislators,2520,7.8,0.879,2.47,*,*,*
+Wisconsin,Advertising and Promotions Managers,80,12.9,0.029,0.17,60.47,125780,4.5
+Wisconsin,Marketing Managers,2720,4.3,0.947,0.53,60.51,125870,1.2
+Wisconsin,Sales Managers,4570,3.6,1.593,0.58,66.94,139230,2.1
+Wisconsin,Public Relations and Fundraising Managers,870,6.3,0.304,0.56,52.64,109480,1.7
+Wisconsin,Administrative Services and Facilities Managers,6450,2.7,2.249,1.07,53.13,110500,1.3
+Wisconsin,Computer and Information Systems Managers,5850,3,2.038,0.69,62.21,129400,1
+Wisconsin,Financial Managers,7150,2.6,2.491,0.56,66.55,138420,1.1
+Wisconsin,Industrial Production Managers,6310,2.8,2.197,1.74,53.72,111730,0.8
+Wisconsin,Purchasing Managers,1200,5.1,0.419,0.85,51.66,107450,1
+Wisconsin,"Transportation, Storage, and Distribution Managers",2300,5.3,0.802,0.89,50.17,104350,1.3
+Wisconsin,Compensation and Benefits Managers,240,6.6,0.082,0.72,60.59,126020,2.1
+Wisconsin,Human Resources Managers,2560,3.1,0.893,0.85,58.84,122390,1
+Wisconsin,Training and Development Managers,590,6.9,0.206,0.78,54.3,112940,2.2
+Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",80,20.5,0.027,0.77,35.54,73920,8
+Wisconsin,Construction Managers,3570,5.8,1.245,0.62,55.89,116240,1.5
+Wisconsin,"Education and Childcare Administrators, Preschool and Daycare",770,9.5,0.269,0.75,22.67,47150,2.7
+Wisconsin,"Education Administrators, Kindergarten through Secondary",4380,3.3,1.524,0.83,*,98960,1.1
+Wisconsin,"Education Administrators, Postsecondary",2730,5.2,0.951,0.96,52.19,108550,2
+Wisconsin,"Education Administrators, All Other",330,10.2,0.115,0.38,37.71,78450,4
+Wisconsin,Architectural and Engineering Managers,3780,8.5,1.318,1,61.58,128090,0.9
+Wisconsin,Food Service Managers,3900,6.7,1.358,0.85,24.02,49960,1.5
+Wisconsin,Gambling Managers,40,8,0.014,0.47,32.4,67390,5.1
+Wisconsin,Lodging Managers,400,12.2,0.138,0.53,27.96,58160,4.5
+Wisconsin,Medical and Health Services Managers,5800,2.8,2.022,0.75,53.67,111640,1.4
+Wisconsin,Natural Sciences Managers,770,8.4,0.27,0.59,52.04,108250,3
+Wisconsin,Postmasters and Mail Superintendents,330,0,0.113,1.2,37.34,77660,0.6
+Wisconsin,"Property, Real Estate, and Community Association Managers",1080,12.4,0.376,0.25,32.65,67920,6
+Wisconsin,Social and Community Service Managers,2750,3.9,0.957,0.9,33.18,69020,1.1
+Wisconsin,Emergency Management Directors,160,4.2,0.057,0.83,36.14,75170,1.6
+Wisconsin,Funeral Home Managers,140,20.5,0.049,0.77,61.96,128870,8.2
+Wisconsin,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",11950,2.5,4.162,1.3,43.43,90340,1.7
+Wisconsin,Business and Financial Operations Occupations,151820,1.5,52.898,0.95,32.66,67930,0.5
+Wisconsin,Buyers and Purchasing Agents,9540,3,3.325,1.16,28.32,58920,0.7
+Wisconsin,"Claims Adjusters, Examiners, and Investigators",6840,6.4,2.383,1.22,31.89,66330,1.5
+Wisconsin,"Insurance Appraisers, Auto Damage",**,**,**,**,32.08,66730,4.1
+Wisconsin,Compliance Officers,4000,3.2,1.393,0.64,31.33,65160,1
+Wisconsin,Cost Estimators,4460,5.1,1.552,1.09,29.03,60380,1.4
+Wisconsin,Human Resources Specialists,15250,2.3,5.312,1.23,29.66,61700,0.7
+Wisconsin,Labor Relations Specialists,3060,5.9,1.067,2.07,19.73,41030,8.4
+Wisconsin,Logisticians,4080,4.8,1.421,1.15,31.07,64620,1.1
+Wisconsin,Management Analysts,13160,3.9,4.586,0.95,42.55,88500,1.9
+Wisconsin,"Meeting, Convention, and Event Planners",1860,8.1,0.648,0.81,23.21,48290,2.4
+Wisconsin,Fundraisers,1660,4.8,0.578,1.04,27.27,56720,1.5
+Wisconsin,"Compensation, Benefits, and Job Analysis Specialists",1460,4.9,0.508,0.84,28.39,59050,1.3
+Wisconsin,Training and Development Specialists,5650,3.1,1.97,0.93,27.18,56530,1
+Wisconsin,Market Research Analysts and Marketing Specialists,13140,6.8,4.577,0.99,28.29,58850,0.9
+Wisconsin,"Project Management Specialists and Business Operations Specialists, All Other",18190,3.3,6.337,0.73,30.63,63710,1.4
+Wisconsin,Accountants and Auditors,22390,1.7,7.802,0.89,34.26,71260,0.8
+Wisconsin,Property Appraisers and Assessors,720,16.2,0.251,0.65,30.78,64020,8
+Wisconsin,Budget Analysts,1110,9.1,0.386,1.1,35.62,74090,1.2
+Wisconsin,Credit Analysts,1480,6.3,0.515,1.02,33.83,70370,3.3
+Wisconsin,Personal Financial Advisors,5320,7.6,1.852,1.29,52.22,108610,3.7
+Wisconsin,Insurance Underwriters,2010,8.5,0.701,1.03,34.05,70830,1.7
+Wisconsin,Financial Examiners,1520,10.1,0.53,1.21,36.8,76550,1.6
+Wisconsin,Credit Counselors,740,9.4,0.259,1.18,20.47,42580,1.6
+Wisconsin,Loan Officers,6810,4,2.374,1.13,35.51,73860,2.6
+Wisconsin,"Tax Examiners and Collectors, and Revenue Agents",500,0,0.175,0.48,29.9,62190,1.7
+Wisconsin,Tax Preparers,900,12,0.315,0.69,23.69,49280,5.5
+Wisconsin,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",5860,4.3,2.042,0.65,37.94,78920,2.4
+Wisconsin,Computer and Mathematical Occupations,78540,6.9,27.366,0.88,38.29,79650,1.3
+Wisconsin,Computer Systems Analysts,13640,4.5,4.752,1.18,40.55,84340,2
+Wisconsin,Information Security Analysts,1590,4.2,0.555,0.65,39.88,82950,2.3
+Wisconsin,Computer and Information Research Scientists,620,48.3,0.217,1.04,47.47,98730,3.9
+Wisconsin,Computer Network Support Specialists,3210,3.8,1.119,0.89,33.34,69350,1.4
+Wisconsin,Computer User Support Specialists,9970,3.6,3.474,0.79,25.04,52080,1.4
+Wisconsin,Computer Network Architects,2060,7.1,0.719,0.69,46.54,96800,1.7
+Wisconsin,Network and Computer Systems Administrators,7080,2.9,2.467,1.02,35.69,74230,1.1
+Wisconsin,Database Administrators and Architects,1990,5.6,0.693,0.81,42.64,88690,1.5
+Wisconsin,Computer Programmers,4110,5.7,1.432,1.05,39.19,81510,1.2
+Wisconsin,Software Developers and Software Quality Assurance Analysts and Testers,23120,16.5,8.056,0.84,44.5,92560,1.3
+Wisconsin,Web Developers and Digital Interface Designers,4340,22.3,1.511,1.5,30.26,62950,2.9
+Wisconsin,"Computer Occupations, All Other",3560,6.4,1.241,0.46,34.51,71790,1
+Wisconsin,Actuaries,630,10.7,0.22,1.45,53.48,111240,3.5
+Wisconsin,Operations Research Analysts,1670,9.6,0.582,0.86,34.28,71300,1.3
+Wisconsin,Statisticians,480,12.8,0.168,0.63,35.43,73700,2.9
+Wisconsin,"Data Scientists and Mathematical Science Occupations, All Other",460,12.4,0.16,0.77,41.2,85690,1.9
+Wisconsin,Architecture and Engineering Occupations,54510,3.1,18.993,1.08,36.2,75300,0.5
+Wisconsin,"Architects, Except Landscape and Naval",1500,7.1,0.523,0.73,38.01,79070,2.4
+Wisconsin,Landscape Architects,430,18.5,0.15,1.08,30.17,62760,3.5
+Wisconsin,Cartographers and Photogrammetrists,240,10.3,0.083,1.08,31.61,65740,1.2
+Wisconsin,Surveyors,560,9.1,0.196,0.64,30.87,64210,1.6
+Wisconsin,Aerospace Engineers,60,31.4,0.019,0.04,41.44,86200,4.6
+Wisconsin,Bioengineers and Biomedical Engineers,510,17,0.179,1.33,43.18,89810,4.8
+Wisconsin,Chemical Engineers,420,13.4,0.147,0.72,44.71,93010,3.2
+Wisconsin,Civil Engineers,6470,3.2,2.253,1.06,39.54,82250,1.2
+Wisconsin,Computer Hardware Engineers,610,27.1,0.213,0.46,46.59,96910,6.7
+Wisconsin,Electrical Engineers,4370,8.4,1.524,1.21,43,89440,1.2
+Wisconsin,"Electronics Engineers, Except Computer",680,18.6,0.238,0.27,38.84,80780,5.3
+Wisconsin,Environmental Engineers,820,9.7,0.285,0.79,43.55,90580,5.7
+Wisconsin,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",770,7,0.27,1.53,34.19,71110,1.1
+Wisconsin,Industrial Engineers,10760,3.5,3.75,1.89,37.58,78170,0.9
+Wisconsin,Materials Engineers,380,8.2,0.132,0.72,36.21,75320,2.5
+Wisconsin,Mechanical Engineers,12090,6.8,4.212,2.02,38.77,80650,1.5
+Wisconsin,Nuclear Engineers,**,**,**,**,58.2,121050,6.1
+Wisconsin,"Engineers, All Other",1070,14.9,0.373,0.36,43.04,89530,2.1
+Wisconsin,Architectural and Civil Drafters,2060,8.1,0.716,1.06,26.75,55640,1.7
+Wisconsin,Electrical and Electronics Drafters,390,12.8,0.138,0.84,26.71,55560,1.9
+Wisconsin,Mechanical Drafters,1930,8,0.673,1.79,26.13,54350,1.3
+Wisconsin,"Drafters, All Other",130,17.4,0.044,0.45,27.41,57010,7.5
+Wisconsin,Civil Engineering Technologists and Technicians,1630,5.6,0.569,1.21,26.3,54710,1.3
+Wisconsin,Electrical and Electronic Engineering Technologists and Technicians,1640,5.7,0.573,0.69,26.96,56080,3.1
+Wisconsin,Electro-Mechanical and Mechatronics Technologists and Technicians,250,24.6,0.087,0.9,28.62,59520,3.8
+Wisconsin,Environmental Engineering Technologists and Technicians,170,18,0.059,0.48,27.05,56270,2.8
+Wisconsin,Industrial Engineering Technologists and Technicians,870,10.3,0.303,0.66,24.73,51450,1.3
+Wisconsin,Mechanical Engineering Technologists and Technicians,1900,5.2,0.66,2.27,26.32,54730,1.2
+Wisconsin,Surveying and Mapping Technicians,440,13.1,0.154,0.43,21.21,44110,2.4
+Wisconsin,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1240,16.6,0.431,0.72,29.37,61090,2.4
+Wisconsin,"Life, Physical, and Social Science Occupations",23410,6.2,8.155,0.93,31.8,66140,1
+Wisconsin,Animal Scientists,400,23.2,0.139,7.58,34.03,70780,3
+Wisconsin,Food Scientists and Technologists,500,19.7,0.175,1.91,32.34,67280,3.4
+Wisconsin,Soil and Plant Scientists,560,12.9,0.195,2.03,27.96,58150,2.5
+Wisconsin,Biochemists and Biophysicists,490,17.7,0.17,0.8,39.04,81210,2.4
+Wisconsin,Microbiologists,290,10.3,0.1,0.8,32.36,67310,5.9
+Wisconsin,Zoologists and Wildlife Biologists,310,5.5,0.109,0.83,29.13,60600,1.2
+Wisconsin,"Biological Scientists, All Other",610,46,0.212,0.78,30.05,62500,6.8
+Wisconsin,Conservation Scientists,750,1.7,0.26,1.73,31.41,65330,1
+Wisconsin,Foresters,500,3.3,0.175,2.7,27.78,57780,0.9
+Wisconsin,Epidemiologists,120,16.3,0.042,0.83,37.98,79000,3.2
+Wisconsin,"Medical Scientists, Except Epidemiologists",1900,10,0.661,0.76,35.5,73840,2.9
+Wisconsin,Atmospheric and Space Scientists,80,8.8,0.027,0.42,44.02,91560,1.9
+Wisconsin,Chemists,2170,16.9,0.756,1.33,36.62,76170,2
+Wisconsin,"Environmental Scientists and Specialists, Including Health",990,5.7,0.344,0.6,29.97,62340,2.3
+Wisconsin,"Geoscientists, Except Hydrologists and Geographers",70,21.7,0.024,0.12,39.38,81900,7
+Wisconsin,Hydrologists,170,16.4,0.061,1.39,32.89,68420,1.5
+Wisconsin,"Physical Scientists, All Other",60,3.5,0.02,0.17,37.72,78460,1.4
+Wisconsin,Economists,280,14.6,0.099,0.76,36.79,76530,4
+Wisconsin,Survey Researchers,80,30,0.028,0.42,23.7,49300,8.5
+Wisconsin,"Clinical, Counseling, and School Psychologists",3250,4.6,1.134,1.47,41.79,86920,2.3
+Wisconsin,"Psychologists, All Other",220,5.2,0.078,0.8,39.59,82350,2.9
+Wisconsin,Sociologists,60,41.9,0.022,1.24,33.84,70400,6.7
+Wisconsin,Urban and Regional Planners,680,17.3,0.237,0.9,31.35,65210,3.3
+Wisconsin,Anthropologists and Archeologists,40,6.5,0.013,0.27,28.37,59020,6.2
+Wisconsin,"Social Scientists and Related Workers, All Other",250,3.5,0.088,0.38,36.05,74990,2.7
+Wisconsin,Agricultural and Food Science Technicians,1140,9.7,0.396,2.66,20.67,43000,3.3
+Wisconsin,Biological Technicians,1140,12.1,0.397,0.73,23.92,49760,3
+Wisconsin,Chemical Technicians,1380,14.6,0.481,1.07,23.56,49000,1.5
+Wisconsin,"Environmental Science and Protection Technicians, Including Health",540,8.3,0.187,0.84,23.06,47960,2.5
+Wisconsin,Geological and Hydrologic Technicians,40,10,0.012,0.11,31.19,64860,4
+Wisconsin,Social Science Research Assistants,**,**,**,**,24.23,50400,2.5
+Wisconsin,Forest and Conservation Technicians,670,3.7,0.235,1.81,21.13,43940,1.3
+Wisconsin,Forensic Science Technicians,250,2.8,0.088,0.78,26.5,55120,3.1
+Wisconsin,"Life, Physical, and Social Science Technicians, All Other",720,18.4,0.251,0.57,26.05,54180,4.2
+Wisconsin,Occupational Health and Safety Specialists,1020,4.4,0.356,0.56,32.03,66620,1.5
+Wisconsin,Occupational Health and Safety Technicians,380,10,0.133,0.95,26.52,55170,2
+Wisconsin,Community and Social Service Occupations,39250,1.8,13.677,0.9,22.16,46100,0.9
+Wisconsin,"Educational, Guidance, and Career Counselors and Advisors",3600,3.8,1.253,0.62,26.74,55610,1.5
+Wisconsin,Marriage and Family Therapists,550,16.1,0.192,0.48,26.15,54390,3.6
+Wisconsin,Rehabilitation Counselors,3270,9.9,1.14,1.54,15.31,31840,2.4
+Wisconsin,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",6100,4.3,2.125,1.1,21.24,44170,1.7
+Wisconsin,"Counselors, All Other",400,4.2,0.139,0.81,22.95,47730,3.3
+Wisconsin,"Child, Family, and School Social Workers",4570,5.5,1.593,0.71,22.82,47470,2.2
+Wisconsin,Healthcare Social Workers,3850,6.1,1.34,1.13,26.07,54220,1.2
+Wisconsin,Mental Health and Substance Abuse Social Workers,2340,6.1,0.816,1.02,23.07,47980,1.3
+Wisconsin,"Social Workers, All Other",1660,3.9,0.577,1.45,26.63,55390,2.1
+Wisconsin,Health Education Specialists,840,8.4,0.292,0.73,26.5,55130,1.5
+Wisconsin,Probation Officers and Correctional Treatment Specialists,**,**,**,**,23.64,49170,0.9
+Wisconsin,Social and Human Service Assistants,8680,3.3,3.025,1.1,19.26,40070,1.7
+Wisconsin,Community Health Workers,410,8.8,0.144,0.36,22.81,47440,2.1
+Wisconsin,"Community and Social Service Specialists, All Other",910,32.8,0.315,0.48,20.59,42830,1.5
+Wisconsin,Clergy,540,5.2,0.187,0.52,25.87,53810,1.3
+Wisconsin,"Directors, Religious Activities and Education",120,11.1,0.042,0.29,23.35,48570,6.3
+Wisconsin,Legal Occupations,14510,2.1,5.055,0.65,45.9,95470,4.2
+Wisconsin,Lawyers,7970,4.5,2.777,0.62,62.23,129440,4.7
+Wisconsin,Judicial Law Clerks,140,0.8,0.049,0.44,23.9,49720,2
+Wisconsin,"Administrative Law Judges, Adjudicators, and Hearing Officers",50,3.8,0.019,0.19,57.66,119930,3.9
+Wisconsin,"Arbitrators, Mediators, and Conciliators",200,4.4,0.069,1.67,32.32,67230,3.8
+Wisconsin,"Judges, Magistrate Judges, and Magistrates",150,15.5,0.052,0.27,53.49,111270,6
+Wisconsin,Paralegals and Legal Assistants,4670,5.9,1.629,0.73,24.22,50380,2.4
+Wisconsin,"Title Examiners, Abstractors, and Searchers",750,15.3,0.262,0.73,26.08,54250,7.3
+Wisconsin,"Legal Support Workers, All Other",570,27.7,0.199,0.65,28.59,59460,2
+Wisconsin,Educational Instruction and Library Occupations,166120,1.3,57.88,0.96,24.65,51280,2.1
+Wisconsin,"Business Teachers, Postsecondary",1320,2.9,0.459,0.8,*,100480,5.6
+Wisconsin,"Computer Science Teachers, Postsecondary",580,3,0.2,0.93,*,91270,3.7
+Wisconsin,"Mathematical Science Teachers, Postsecondary",820,4.3,0.286,0.82,*,80540,4.2
+Wisconsin,"Architecture Teachers, Postsecondary",40,1.6,0.013,0.27,*,90460,2.7
+Wisconsin,"Engineering Teachers, Postsecondary",630,0.5,0.22,0.89,*,96450,4.6
+Wisconsin,"Agricultural Sciences Teachers, Postsecondary",400,1.6,0.138,2.14,*,84280,3.1
+Wisconsin,"Biological Science Teachers, Postsecondary",970,1.5,0.336,0.93,*,81660,6
+Wisconsin,"Forestry and Conservation Science Teachers, Postsecondary",80,2.3,0.027,2.22,*,82530,9.6
+Wisconsin,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",300,2.9,0.105,1.39,*,93910,5
+Wisconsin,"Chemistry Teachers, Postsecondary",410,2.4,0.142,0.98,*,76890,5.9
+Wisconsin,"Environmental Science Teachers, Postsecondary",**,**,**,**,*,75890,3
+Wisconsin,"Physics Teachers, Postsecondary",240,2,0.085,0.9,*,88810,5.1
+Wisconsin,"Anthropology and Archeology Teachers, Postsecondary",130,3.3,0.045,1.13,*,*,*
+Wisconsin,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",170,24.7,0.059,0.81,*,65420,4.3
+Wisconsin,"Economics Teachers, Postsecondary",230,2.1,0.079,0.87,*,108670,8.8
+Wisconsin,"Geography Teachers, Postsecondary",170,1.3,0.06,2.22,*,73930,3.2
+Wisconsin,"Political Science Teachers, Postsecondary",190,2.2,0.066,0.61,*,91850,7.1
+Wisconsin,"Psychology Teachers, Postsecondary",530,1.9,0.184,0.72,*,74800,3.8
+Wisconsin,"Sociology Teachers, Postsecondary",280,1.8,0.098,1.03,*,77560,4.5
+Wisconsin,"Social Sciences Teachers, Postsecondary, All Other",230,6.4,0.08,0.7,*,88380,5.4
+Wisconsin,"Health Specialties Teachers, Postsecondary",6560,0.7,2.285,1.66,*,78020,1.8
+Wisconsin,"Nursing Instructors and Teachers, Postsecondary",1020,3.3,0.357,0.88,*,83690,3.7
+Wisconsin,"Education Teachers, Postsecondary",1950,4.2,0.681,1.63,*,67670,2.9
+Wisconsin,"Criminal Justice and Law Enforcement Teachers, Postsecondary",280,2,0.097,1.01,*,73880,4
+Wisconsin,"Law Teachers, Postsecondary",160,0,0.055,0.5,*,116230,3.5
+Wisconsin,"Social Work Teachers, Postsecondary",80,1.4,0.029,0.31,*,61600,2.2
+Wisconsin,"Art, Drama, and Music Teachers, Postsecondary",1870,13.4,0.65,1.02,*,70860,6.1
+Wisconsin,"Communications Teachers, Postsecondary",580,3,0.202,1.02,*,75680,3
+Wisconsin,"English Language and Literature Teachers, Postsecondary",850,2.8,0.296,0.64,*,69250,4.4
+Wisconsin,"Foreign Language and Literature Teachers, Postsecondary",450,3.7,0.157,0.93,*,67950,3.5
+Wisconsin,"History Teachers, Postsecondary",300,3,0.106,0.74,*,79860,5.1
+Wisconsin,"Philosophy and Religion Teachers, Postsecondary",310,7.2,0.108,0.67,*,72670,2.9
+Wisconsin,"Recreation and Fitness Studies Teachers, Postsecondary",270,6.5,0.093,0.86,*,51560,4.7
+Wisconsin,"Career/Technical Education Teachers, Postsecondary",1660,4.4,0.577,0.76,37.62,78250,3.3
+Wisconsin,"Postsecondary Teachers, All Other",2020,15.1,0.705,0.51,*,72710,3.1
+Wisconsin,"Preschool Teachers, Except Special Education",10260,5.8,3.574,1.22,13.07,27190,1.5
+Wisconsin,"Kindergarten Teachers, Except Special Education",1470,10,0.513,0.61,*,58060,2.6
+Wisconsin,"Elementary School Teachers, Except Special Education",28240,5.6,9.839,1.01,*,57980,1.3
+Wisconsin,"Middle School Teachers, Except Special and Career/Technical Education",13800,12.5,4.808,1.13,*,58940,1.4
+Wisconsin,"Career/Technical Education Teachers, Middle School",280,20.9,0.098,1.22,*,56920,3.4
+Wisconsin,"Secondary School Teachers, Except Special and Career/Technical Education",17880,8.4,6.229,0.88,*,59180,1.2
+Wisconsin,"Career/Technical Education Teachers, Secondary School",940,14.4,0.327,0.64,*,59980,1.8
+Wisconsin,"Special Education Teachers, Preschool",100,13.7,0.034,0.23,*,44970,5.4
+Wisconsin,"Special Education Teachers, Kindergarten and Elementary School",1980,8.1,0.688,0.52,*,56820,2.6
+Wisconsin,"Special Education Teachers, Middle School",1020,16.9,0.354,0.61,*,54410,2.4
+Wisconsin,"Special Education Teachers, Secondary School",1450,7.3,0.507,0.52,*,55080,2
+Wisconsin,"Special Education Teachers, All Other",130,15.7,0.044,0.18,*,66020,5.8
+Wisconsin,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",440,3.6,0.153,0.43,24.86,51700,1.9
+Wisconsin,Self-Enrichment Teachers,5360,6.4,1.868,1.09,18.46,38390,2.9
+Wisconsin,"Substitute Teachers, Short-Term",12840,8.7,4.474,1.12,17.15,35670,2.6
+Wisconsin,"Tutors and Teachers and Instructors, All Other",5110,8.8,1.78,0.82,*,48650,8.6
+Wisconsin,Archivists,110,8.1,0.037,0.83,23.42,48720,2
+Wisconsin,Curators,230,8.7,0.079,0.9,23.82,49540,2.5
+Wisconsin,Museum Technicians and Conservators,90,6.9,0.031,0.34,18.36,38180,1.5
+Wisconsin,Librarians and Media Collections Specialists,2290,3.8,0.798,0.86,26.9,55950,1.5
+Wisconsin,Library Technicians,2890,3.4,1.006,1.67,13.64,28380,1.5
+Wisconsin,Farm and Home Management Educators,40,28.6,0.013,0.22,27.62,57440,6.4
+Wisconsin,Instructional Coordinators,1740,5.1,0.605,0.5,31.33,65160,2.1
+Wisconsin,"Teaching Assistants, Postsecondary",**,**,**,**,*,33890,4
+Wisconsin,"Teaching Assistants, Except Postsecondary",25760,2.9,8.974,0.98,*,30040,1.1
+Wisconsin,"Educational Instruction and Library Workers, All Other",1610,3.6,0.561,0.64,19.33,40210,4.3
+Wisconsin,"Arts, Design, Entertainment, Sports, and Media Occupations",31750,3.2,11.062,0.81,22.55,46900,1.6
+Wisconsin,Art Directors,520,9.2,0.18,0.62,37.81,78640,1.8
+Wisconsin,Craft Artists,70,25.9,0.024,0.74,14.79,30770,12.4
+Wisconsin,Special Effects Artists and Animators,140,25.2,0.047,0.24,26.66,55460,4.5
+Wisconsin,"Artists and Related Workers, All Other",50,0,0.018,0.35,27.15,56470,2
+Wisconsin,Commercial and Industrial Designers,320,14.9,0.112,0.5,28.84,59990,2.9
+Wisconsin,Fashion Designers,120,24.2,0.042,0.28,24.82,51630,10.3
+Wisconsin,Floral Designers,830,7.6,0.288,1.01,13.2,27460,3.2
+Wisconsin,Graphic Designers,5480,4.2,1.908,1.3,23.46,48800,1
+Wisconsin,Interior Designers,1010,17.3,0.351,0.85,23.75,49410,4.3
+Wisconsin,Merchandise Displayers and Window Trimmers,2800,16.8,0.977,1.02,14.99,31170,3.8
+Wisconsin,Actors,370,10.3,0.128,0.36,14.54,*,7.2
+Wisconsin,Producers and Directors,1390,8.3,0.485,0.55,27.63,57470,3.4
+Wisconsin,Athletes and Sports Competitors,230,15,0.08,1.04,*,70330,17.1
+Wisconsin,Coaches and Scouts,4660,14.8,1.622,0.99,*,33430,5.2
+Wisconsin,"Umpires, Referees, and Other Sports Officials",650,4.7,0.228,1.66,*,32620,2.9
+Wisconsin,Dancers,50,3,0.017,0.25,20.27,*,13.6
+Wisconsin,Music Directors and Composers,80,12.5,0.029,0.41,30.76,63970,11.8
+Wisconsin,Musicians and Singers,570,15.2,0.199,0.71,25.96,*,11.7
+Wisconsin,"Miscellaneous Entertainers and Performers, Sports and Related Workers",230,30.1,0.081,0.75,21.58,*,12.9
+Wisconsin,Broadcast Announcers and Radio Disc Jockeys,700,11.2,0.244,1.23,24.14,50220,9.4
+Wisconsin,"News Analysts, Reporters, and Journalists",590,12.3,0.204,0.68,20.61,42870,5.4
+Wisconsin,Public Relations Specialists,3950,3.6,1.377,0.83,30.67,63800,3
+Wisconsin,Editors,1690,9.2,0.587,0.9,23.99,49900,1.6
+Wisconsin,Technical Writers,710,6,0.246,0.71,30.3,63020,1
+Wisconsin,Writers and Authors,560,8.6,0.195,0.63,29.03,60390,6.4
+Wisconsin,Interpreters and Translators,1110,7.6,0.387,0.97,24.78,51540,3
+Wisconsin,Court Reporters and Simultaneous Captioners,70,23.6,0.024,0.24,28.29,58850,4.3
+Wisconsin,"Media and Communication Workers, All Other",180,10.4,0.062,0.36,21.78,45310,5.3
+Wisconsin,Audio and Video Technicians,590,9,0.206,0.41,18.55,38580,2.6
+Wisconsin,Broadcast Technicians,470,8.7,0.164,0.84,22.68,47180,3
+Wisconsin,Sound Engineering Technicians,60,29.6,0.022,0.25,26.24,54580,12.4
+Wisconsin,Photographers,880,9.4,0.308,0.89,17.8,37020,4.9
+Wisconsin,"Camera Operators, Television, Video, and Film",150,14.2,0.053,0.36,19.87,41330,3.4
+Wisconsin,Film and Video Editors,140,14.2,0.048,0.26,24.55,51050,5.1
+Wisconsin,"Lighting Technicians and Media and Communication Equipment Workers, All Other",40,3,0.014,0.09,30.82,64110,4.2
+Wisconsin,Healthcare Practitioners and Technical Occupations,175730,1.9,61.229,1.04,39.52,82200,1.2
+Wisconsin,Chiropractors,1080,9.8,0.375,1.57,41.35,86010,6.5
+Wisconsin,"Dentists, General",1730,6.6,0.604,0.8,99.69,207350,4.6
+Wisconsin,Oral and Maxillofacial Surgeons,80,30.2,0.028,0.89,87.5,182010,23
+Wisconsin,Orthodontists,100,18,0.035,0.85,89.83,186850,16.8
+Wisconsin,Prosthodontists,**,**,**,**,121.99,253750,19
+Wisconsin,"Dentists, All Other Specialists",**,**,**,**,104.11,216540,18
+Wisconsin,Dietitians and Nutritionists,1340,3.6,0.468,1.02,27.43,57060,1.4
+Wisconsin,Optometrists,700,10.6,0.243,0.9,55.47,115380,3.6
+Wisconsin,Pharmacists,5490,5.8,1.914,0.9,64.47,134090,2.4
+Wisconsin,Physician Assistants,2420,9,0.842,1.03,54.93,114240,0.9
+Wisconsin,Podiatrists,140,15.7,0.048,0.72,86.57,180060,9.6
+Wisconsin,Occupational Therapists,3550,6.8,1.238,1.36,36.67,76270,1.2
+Wisconsin,Physical Therapists,5590,4.6,1.947,1.23,42.58,88570,1.4
+Wisconsin,Radiation Therapists,1050,24.2,0.365,3,38.39,79850,1.6
+Wisconsin,Recreational Therapists,730,9.4,0.255,1.96,22.47,46740,2
+Wisconsin,Respiratory Therapists,2270,6.7,0.789,0.88,30.92,64320,0.7
+Wisconsin,Speech-Language Pathologists,2360,5.6,0.821,0.78,35.1,73010,1.3
+Wisconsin,Exercise Physiologists,310,11.2,0.108,2.18,26.39,54900,1.1
+Wisconsin,"Therapists, All Other",730,36.4,0.255,3.08,20.92,43510,7.5
+Wisconsin,Veterinarians,1720,7.6,0.598,1.18,43.67,90830,2.6
+Wisconsin,Registered Nurses,61930,2.8,21.579,1.06,34.91,72610,0.7
+Wisconsin,Nurse Anesthetists,760,21.9,0.264,0.89,112.31,233600,8.2
+Wisconsin,Nurse Midwives,100,24.8,0.035,0.74,55.34,115100,3.3
+Wisconsin,Nurse Practitioners,**,**,**,**,53.91,112130,0.9
+Wisconsin,Audiologists,310,14.8,0.108,1.17,39.3,81740,4.4
+Wisconsin,Anesthesiologists,410,30.7,0.143,0.68,116.72,242770,10
+Wisconsin,Family Medicine Physicians,1200,9.7,0.417,0.56,121.02,251710,4.7
+Wisconsin,General Internal Medicine Physicians,510,21.4,0.179,0.59,122.07,253900,5.2
+Wisconsin,Obstetricians and Gynecologists,220,11.3,0.076,0.6,131.93,274410,6.1
+Wisconsin,"Pediatricians, General",450,23,0.158,0.78,124.45,258850,6.6
+Wisconsin,Psychiatrists,460,16.7,0.16,0.92,97.23,202240,6.2
+Wisconsin,"Physicians, All Other; and Ophthalmologists, Except Pediatric",8280,9.6,2.884,1.08,118.3,246060,3.5
+Wisconsin,"Surgeons, Except Ophthalmologists",650,12.2,0.226,0.91,#,#,4.6
+Wisconsin,Dental Hygienists,5070,5.1,1.766,1.17,32.6,67810,0.9
+Wisconsin,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",440,12.9,0.155,0.62,37.71,78430,5.8
+Wisconsin,Clinical Laboratory Technologists and Technicians,7290,6.2,2.54,1.14,25.11,52220,1.2
+Wisconsin,Cardiovascular Technologists and Technicians,860,8.5,0.299,0.78,31.53,65570,3.2
+Wisconsin,Diagnostic Medical Sonographers,1440,5.3,0.501,1.01,41.19,85670,0.6
+Wisconsin,Nuclear Medicine Technologists,360,7.6,0.125,1.01,41.71,86770,2.8
+Wisconsin,Radiologic Technologists and Technicians,4650,4.9,1.621,1.15,29.06,60440,0.6
+Wisconsin,Magnetic Resonance Imaging Technologists,890,12.4,0.309,1.2,34.4,71550,0.9
+Wisconsin,Emergency Medical Technicians and Paramedics,6240,6.2,2.174,1.23,17.28,35940,1.8
+Wisconsin,Dietetic Technicians,190,6.1,0.065,0.33,15.54,32320,2.6
+Wisconsin,Pharmacy Technicians,7990,3.9,2.783,0.98,16.37,34050,1.2
+Wisconsin,Psychiatric Technicians,3790,6.6,1.32,2.47,16.77,34880,2.2
+Wisconsin,Surgical Technologists,2530,5.6,0.882,1.19,26.84,55820,0.9
+Wisconsin,Veterinary Technologists and Technicians,2400,7,0.837,1.11,16.7,34730,1.9
+Wisconsin,Ophthalmic Medical Technicians,1420,11.4,0.493,1.24,18.79,39080,1.4
+Wisconsin,Licensed Practical and Licensed Vocational Nurses,7890,4,2.751,0.58,22.38,46550,0.6
+Wisconsin,"Opticians, Dispensing",1570,10.4,0.548,1.11,16.95,35250,1.5
+Wisconsin,Orthotists and Prosthetists,270,42.8,0.093,1.4,33.58,69840,5.9
+Wisconsin,Hearing Aid Specialists,200,30.3,0.069,1.24,31.76,66050,11.1
+Wisconsin,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",7260,5.5,2.531,1.12,21.34,44380,1
+Wisconsin,Athletic Trainers,870,7.1,0.304,1.56,*,50180,1.1
+Wisconsin,Genetic Counselors,60,16.2,0.022,1.36,39.71,82590,3.7
+Wisconsin,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",1040,10.1,0.364,0.98,29.45,61250,2.4
+Wisconsin,Healthcare Support Occupations,137810,1.4,48.017,1.08,14.31,29750,0.5
+Wisconsin,Home Health and Personal Care Aides,72060,2.3,25.106,1.17,12.06,25090,0.5
+Wisconsin,Nursing Assistants,30880,3.2,10.758,1.11,15.04,31280,0.6
+Wisconsin,Orderlies,710,7.5,0.246,0.77,14.08,29290,1.5
+Wisconsin,Occupational Therapy Assistants,1570,9,0.547,1.79,21.04,43770,4
+Wisconsin,Occupational Therapy Aides,140,21,0.05,0.97,13.82,28750,3.7
+Wisconsin,Physical Therapist Assistants,1600,6.7,0.558,0.85,25.58,53210,1.2
+Wisconsin,Physical Therapist Aides,510,12.6,0.177,0.53,14.77,30720,2.3
+Wisconsin,Massage Therapists,2130,12.6,0.741,1.01,20.54,42730,3.7
+Wisconsin,Dental Assistants,6280,3.7,2.187,0.91,19.14,39800,1.4
+Wisconsin,Medical Assistants,12420,4.4,4.329,0.89,17.91,37250,0.5
+Wisconsin,Medical Equipment Preparers,910,5.6,0.318,0.82,17.32,36020,1.1
+Wisconsin,Medical Transcriptionists,1260,20.4,0.44,1.16,18.87,39260,4.4
+Wisconsin,Pharmacy Aides,490,26.4,0.172,0.68,13.49,28060,6.3
+Wisconsin,Veterinary Assistants and Laboratory Animal Caretakers,1820,13.3,0.634,0.96,13.52,28130,3
+Wisconsin,Phlebotomists,2250,8.5,0.784,0.9,17.67,36760,0.9
+Wisconsin,"Healthcare Support Workers, All Other",**,**,**,**,17.33,36050,1.6
+Wisconsin,Protective Service Occupations,52420,2,18.264,0.77,22.18,46130,1.6
+Wisconsin,First-Line Supervisors of Correctional Officers,830,0.4,0.29,0.92,32.84,68310,0.7
+Wisconsin,First-Line Supervisors of Police and Detectives,1370,3,0.476,0.58,42.63,88680,0.7
+Wisconsin,First-Line Supervisors of Firefighting and Prevention Workers,900,5.2,0.314,0.66,35.34,73500,2.6
+Wisconsin,"Miscellaneous First-Line Supervisors, Protective Service Workers",1020,8.6,0.357,0.63,23.65,49200,2.2
+Wisconsin,Firefighters,9450,4.7,3.291,1.49,19.4,40360,2
+Wisconsin,Fire Inspectors and Investigators,130,2.9,0.044,0.47,29.7,61770,1.9
+Wisconsin,Bailiffs,220,2.2,0.077,0.58,15.37,31960,1.5
+Wisconsin,Correctional Officers and Jailers,6680,0.5,2.328,0.81,21.79,45320,0.7
+Wisconsin,Detectives and Criminal Investigators,1360,0.7,0.474,0.66,38.66,80410,1.1
+Wisconsin,Fish and Game Wardens,180,1.8,0.063,1.35,26.97,56100,0.8
+Wisconsin,Parking Enforcement Workers,120,0.7,0.042,0.8,20.51,42650,2.9
+Wisconsin,Police and Sheriff's Patrol Officers,11860,1.8,4.131,0.91,30.76,63970,1.4
+Wisconsin,Animal Control Workers,90,21.6,0.03,0.37,18.9,39310,5
+Wisconsin,Private Detectives and Investigators,340,18.9,0.12,0.5,21.38,44480,4.4
+Wisconsin,Gambling Surveillance Officers and Gambling Investigators,260,7,0.09,1.29,14.14,29400,2.1
+Wisconsin,Security Guards,10530,7.1,3.67,0.48,14.55,30270,1.5
+Wisconsin,Crossing Guards and Flaggers,1040,3.3,0.363,0.63,15.12,31460,2.5
+Wisconsin,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",4100,11,1.427,1.46,10.37,21570,1.2
+Wisconsin,Transportation Security Screeners,450,0,0.155,0.49,19.69,40950,2.3
+Wisconsin,"School Bus Monitors and Protective Service Workers, All Other",1470,5.4,0.512,0.51,17.92,37270,2.4
+Wisconsin,Food Preparation and Serving Related Occupations,243010,0.9,84.67,0.92,11.41,23730,0.6
+Wisconsin,Chefs and Head Cooks,2170,11.9,0.756,0.87,21.41,44530,3.5
+Wisconsin,First-Line Supervisors of Food Preparation and Serving Workers,18520,3.5,6.452,0.94,15.89,33040,1.1
+Wisconsin,"Cooks, Fast Food",5030,18.5,1.752,0.49,11.5,23920,1.8
+Wisconsin,"Cooks, Institution and Cafeteria",10510,3.6,3.662,1.34,14.33,29800,0.7
+Wisconsin,"Cooks, Restaurant",23540,4.6,8.202,0.86,12.73,26480,1.1
+Wisconsin,"Cooks, Short Order",3110,17.3,1.082,1.04,12.12,25210,3.1
+Wisconsin,"Cooks, All Other",**,**,**,**,14.47,30100,13.3
+Wisconsin,Food Preparation Workers,12010,10.9,4.183,0.71,11.1,23080,1.6
+Wisconsin,Bartenders,26290,4.4,9.159,2.08,10.85,22570,1.5
+Wisconsin,Fast Food and Counter Workers,73620,2.5,25.652,0.94,10.15,21110,0.7
+Wisconsin,Waiters and Waitresses,40050,3.5,13.953,0.79,10.93,22740,1.7
+Wisconsin,"Food Servers, Nonrestaurant",4190,7.6,1.46,0.77,10.87,22620,1.8
+Wisconsin,Dining Room and Cafeteria Attendants and Bartender Helpers,5360,8.6,1.866,0.57,9.65,20070,1.6
+Wisconsin,Dishwashers,9700,6.5,3.38,0.97,9.79,20360,1.2
+Wisconsin,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",8410,9.3,2.929,1.02,9.9,20600,1.4
+Wisconsin,"Food Preparation and Serving Related Workers, All Other",410,14.5,0.141,0.29,13.03,27110,3
+Wisconsin,Building and Grounds Cleaning and Maintenance Occupations,80640,1.7,28.098,0.93,14.43,30010,0.8
+Wisconsin,First-Line Supervisors of Housekeeping and Janitorial Workers,2650,5.9,0.924,0.87,20.32,42260,2.1
+Wisconsin,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1540,9,0.538,0.76,25.82,53700,2
+Wisconsin,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",41160,3.1,14.342,0.98,13.99,29090,1.1
+Wisconsin,Maids and Housekeeping Cleaners,17290,4.8,6.025,0.95,12.06,25080,1.1
+Wisconsin,Pest Control Workers,580,15.4,0.202,0.37,17.44,36280,6.7
+Wisconsin,Landscaping and Groundskeeping Workers,16150,3.3,5.626,0.91,15.57,32390,1.4
+Wisconsin,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",470,19.4,0.164,0.93,18.92,39340,6.7
+Wisconsin,Tree Trimmers and Pruners,460,33.5,0.159,0.5,17.82,37060,8.7
+Wisconsin,"Grounds Maintenance Workers, All Other",**,**,**,**,28.36,58990,3.2
+Wisconsin,Personal Care and Service Occupations,56020,2.2,19.517,0.87,14.06,29240,1
+Wisconsin,First-Line Supervisors of Gambling Services Workers,390,2.9,0.136,0.68,20.33,42280,3.3
+Wisconsin,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",5710,4.1,1.99,1.34,19.3,40150,1.4
+Wisconsin,Animal Trainers,300,17,0.104,0.92,17.03,35420,7.9
+Wisconsin,Animal Caretakers,4160,6.4,1.449,1,11.53,23970,2.5
+Wisconsin,Gambling Dealers,970,9.3,0.337,0.5,9.11,18940,4.1
+Wisconsin,Motion Picture Projectionists,**,**,**,**,12.36,25700,4.6
+Wisconsin,"Ushers, Lobby Attendants, and Ticket Takers",2880,11.6,1.002,1.07,10.36,21550,2.1
+Wisconsin,Amusement and Recreation Attendants,4050,10.4,1.41,0.61,10.28,21380,2
+Wisconsin,Costume Attendants,40,9.9,0.014,0.27,14.02,29160,2.4
+Wisconsin,"Locker Room, Coatroom, and Dressing Room Attendants",250,13.8,0.086,0.79,10.76,22380,3.8
+Wisconsin,Embalmers,**,**,**,**,28.73,59750,4.9
+Wisconsin,Funeral Attendants,620,11.5,0.214,0.92,14.1,29330,3
+Wisconsin,"Morticians, Undertakers, and Funeral Arrangers",720,13.7,0.249,1.44,28.77,59840,5
+Wisconsin,Barbers,**,**,**,**,17.51,36410,18.6
+Wisconsin,"Hairdressers, Hairstylists, and Cosmetologists",8960,7.8,3.123,1.19,14.64,30450,2.9
+Wisconsin,Manicurists and Pedicurists,2070,25,0.723,0.95,14.69,30560,5.5
+Wisconsin,Skincare Specialists,590,15.3,0.206,0.53,18.55,38580,5.7
+Wisconsin,Baggage Porters and Bellhops,250,18.3,0.089,0.33,10.11,21030,3.6
+Wisconsin,Concierges,160,33.4,0.056,0.2,14.1,29320,3.4
+Wisconsin,Tour and Travel Guides,900,14.6,0.314,0.95,12.54,26080,4.6
+Wisconsin,Childcare Workers,5800,8.5,2.02,0.53,11.37,23650,2
+Wisconsin,Exercise Trainers and Group Fitness Instructors,6200,7,2.159,0.97,16.39,34100,2.8
+Wisconsin,Recreation Workers,9030,4.8,3.146,1.29,12.94,26920,1.8
+Wisconsin,Residential Advisors,1510,16.9,0.524,0.71,15.03,31260,3.3
+Wisconsin,"Crematory Operators and Personal Care and Service Workers, All Other",90,29.5,0.033,0.08,14.5,30160,11.2
+Wisconsin,Sales and Related Occupations,263380,1.2,91.768,0.94,20.33,42290,0.8
+Wisconsin,First-Line Supervisors of Retail Sales Workers,17450,2.6,6.079,0.76,21.97,45700,1.3
+Wisconsin,First-Line Supervisors of Non-Retail Sales Workers,6370,4.9,2.221,1.31,45.69,95030,1.6
+Wisconsin,Cashiers,65280,3.3,22.746,0.93,11.05,22990,0.6
+Wisconsin,Gambling Change Persons and Booth Cashiers,450,7,0.158,1.09,12.48,25950,1.6
+Wisconsin,Counter and Rental Clerks,6150,6.4,2.143,0.76,15.24,31710,2.1
+Wisconsin,Parts Salespersons,5800,5.1,2.021,1.16,18.08,37600,1.8
+Wisconsin,Retail Salespersons,78410,3.5,27.32,0.93,13.6,28290,1.3
+Wisconsin,Advertising Sales Agents,2170,5.2,0.756,0.86,26.12,54330,2.8
+Wisconsin,Insurance Sales Agents,8380,3.5,2.919,1.05,36.74,76410,3.2
+Wisconsin,"Securities, Commodities, and Financial Services Sales Agents",4220,5.2,1.472,0.49,33.46,69600,3.3
+Wisconsin,Travel Agents,1010,8,0.351,0.77,20.09,41790,3.5
+Wisconsin,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",17350,3.6,6.044,0.85,29.35,61060,2
+Wisconsin,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",4370,8.5,1.521,0.73,39.97,83150,3
+Wisconsin,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",36640,2.2,12.767,1.39,33.89,70490,1.4
+Wisconsin,Demonstrators and Product Promoters,790,17.7,0.275,0.52,15.66,32580,6.7
+Wisconsin,Real Estate Brokers,690,19.8,0.24,0.82,44.9,93400,14
+Wisconsin,Real Estate Sales Agents,2620,8.8,0.914,0.83,24.18,50290,4.6
+Wisconsin,Sales Engineers,1010,15.1,0.353,0.82,55.67,115790,9.8
+Wisconsin,Telemarketers,2200,14.7,0.766,0.83,16.04,33370,6
+Wisconsin,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",**,**,**,**,15.38,31980,9.7
+Wisconsin,"Sales and Related Workers, All Other",1880,5.5,0.657,0.81,19.31,40160,5.2
+Wisconsin,Office and Administrative Support Occupations,365140,1,127.223,0.96,18.98,39490,0.3
+Wisconsin,First-Line Supervisors of Office and Administrative Support Workers,23780,1.6,8.285,0.82,28.42,59110,0.6
+Wisconsin,"Switchboard Operators, Including Answering Service",980,11.9,0.341,0.74,15.39,32000,3
+Wisconsin,"Communications Equipment Operators, All Other",50,13,0.016,0.72,19.61,40790,4.5
+Wisconsin,Bill and Account Collectors,3300,10.1,1.15,0.72,19.1,39730,2.3
+Wisconsin,Billing and Posting Clerks,7650,4.4,2.667,0.84,18.98,39480,0.8
+Wisconsin,"Bookkeeping, Accounting, and Auditing Clerks",38170,1.8,13.299,1.29,19.13,39780,0.5
+Wisconsin,Gambling Cage Workers,160,10.7,0.055,0.56,13.37,27800,3.4
+Wisconsin,Payroll and Timekeeping Clerks,2090,4.3,0.729,0.75,22.06,45880,0.9
+Wisconsin,Procurement Clerks,770,13.1,0.27,0.6,19.09,39720,1.4
+Wisconsin,Tellers,11010,3.5,3.835,1.27,14.52,30210,1
+Wisconsin,"Financial Clerks, All Other",270,22.3,0.093,0.45,20.18,41970,6.1
+Wisconsin,Brokerage Clerks,490,11.8,0.171,0.52,23.35,48570,3
+Wisconsin,Correspondence Clerks,**,**,**,**,19.76,41100,4.9
+Wisconsin,"Court, Municipal, and License Clerks",1010,9.3,0.351,0.33,20.39,42410,2.2
+Wisconsin,"Credit Authorizers, Checkers, and Clerks",340,7.6,0.117,0.64,21.13,43960,3.4
+Wisconsin,Customer Service Representatives,69460,3.5,24.201,1.22,18.8,39110,0.8
+Wisconsin,"Eligibility Interviewers, Government Programs",1320,3.5,0.459,0.48,21.93,45610,1.1
+Wisconsin,File Clerks,1610,8.2,0.56,0.8,17.04,35440,1.7
+Wisconsin,"Hotel, Motel, and Resort Desk Clerks",5110,6.5,1.781,0.98,11.73,24400,1.2
+Wisconsin,"Interviewers, Except Eligibility and Loan",850,19.7,0.296,0.23,18.08,37600,2.6
+Wisconsin,"Library Assistants, Clerical",930,3.2,0.322,0.55,16.25,33800,1
+Wisconsin,Loan Interviewers and Clerks,4160,4.4,1.45,1.02,19.81,41200,1.3
+Wisconsin,New Accounts Clerks,1920,17.3,0.668,2.26,18.67,38830,1.9
+Wisconsin,Order Clerks,4090,6.4,1.427,1.53,17.02,35400,1.7
+Wisconsin,"Human Resources Assistants, Except Payroll and Timekeeping",2000,5,0.697,0.87,19.69,40950,2
+Wisconsin,Receptionists and Information Clerks,26910,3,9.377,1.3,14.91,31020,0.6
+Wisconsin,Reservation and Transportation Ticket Agents and Travel Clerks,1100,29.1,0.385,0.46,18.32,38110,8
+Wisconsin,"Information and Record Clerks, All Other",3130,5.4,1.09,1.04,15.83,32920,2.8
+Wisconsin,Cargo and Freight Agents,880,10.5,0.306,0.47,22.08,45930,3.3
+Wisconsin,Couriers and Messengers,2120,10.7,0.739,1.45,12.58,26160,2.8
+Wisconsin,Public Safety Telecommunicators,1390,2.6,0.484,0.75,22.33,46440,1.1
+Wisconsin,"Dispatchers, Except Police, Fire, and Ambulance",3770,7.1,1.312,0.97,21.67,45070,1.8
+Wisconsin,"Meter Readers, Utilities",240,14.7,0.085,0.41,28.44,59160,5.4
+Wisconsin,Postal Service Clerks,1590,0,0.554,1,23.82,49540,0.6
+Wisconsin,Postal Service Mail Carriers,6910,0,2.407,1.04,24.85,51690,0.8
+Wisconsin,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1550,0,0.54,0.77,24.96,51920,1.9
+Wisconsin,"Production, Planning, and Expediting Clerks",7100,4.4,2.474,0.98,23.48,48830,1.3
+Wisconsin,"Shipping, Receiving, and Inventory Clerks",13120,3,4.57,0.95,18.28,38020,0.6
+Wisconsin,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",740,16.2,0.257,0.62,17.29,35970,2.7
+Wisconsin,Executive Secretaries and Executive Administrative Assistants,4470,3.7,1.557,0.42,28.12,58500,0.8
+Wisconsin,Legal Secretaries and Administrative Assistants,1230,11.5,0.427,0.37,22.6,47010,2.7
+Wisconsin,Medical Secretaries and Administrative Assistants,5620,6.5,1.958,0.48,17.54,36490,0.8
+Wisconsin,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",25650,2.8,8.937,0.64,18.21,37870,0.9
+Wisconsin,Data Entry Keyers,2500,6.9,0.871,0.8,15.71,32670,1.9
+Wisconsin,Word Processors and Typists,550,4,0.191,0.59,21.35,44410,2.6
+Wisconsin,Desktop Publishers,150,14.7,0.054,0.91,26.59,55310,3.1
+Wisconsin,Insurance Claims and Policy Processing Clerks,7430,6.7,2.589,1.48,19.34,40220,2.1
+Wisconsin,"Mail Clerks and Mail Machine Operators, Except Postal Service",1760,12.7,0.614,1.08,14.96,31110,2.3
+Wisconsin,"Office Clerks, General",58930,1.7,20.531,1.02,17.53,36460,0.4
+Wisconsin,"Office Machine Operators, Except Computer",1270,14.2,0.441,1.41,15.66,32570,4.7
+Wisconsin,Proofreaders and Copy Markers,120,22.4,0.043,0.81,20.59,42820,5.9
+Wisconsin,Statistical Assistants,**,**,**,**,24.51,50980,3.3
+Wisconsin,"Office and Administrative Support Workers, All Other",3290,6.4,1.148,0.9,14.6,30360,2.4
+Wisconsin,"Farming, Fishing, and Forestry Occupations",5790,11.3,2.018,0.61,16.14,33570,2.5
+Wisconsin,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",270,12.6,0.093,0.61,26,54090,2.5
+Wisconsin,Agricultural Inspectors,**,**,**,**,23.09,48020,2
+Wisconsin,Animal Breeders,260,32.6,0.09,8.2,20.32,42260,5
+Wisconsin,"Graders and Sorters, Agricultural Products",600,20.8,0.21,0.9,15.6,32440,2.5
+Wisconsin,Agricultural Equipment Operators,680,30.6,0.238,1.3,18.53,38540,3.4
+Wisconsin,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1850,29.9,0.643,0.32,13.08,27200,3.8
+Wisconsin,"Farmworkers, Farm, Ranch, and Aquacultural Animals",930,14.4,0.323,1.29,14.58,30330,2.8
+Wisconsin,Forest and Conservation Workers,340,11.6,0.12,2.61,13.38,27830,2.7
+Wisconsin,Logging Equipment Operators,510,10,0.176,0.99,19.01,39550,5.2
+Wisconsin,Log Graders and Scalers,130,28.4,0.045,1.98,17,35360,3.9
+Wisconsin,Construction and Extraction Occupations,110160,1.6,38.384,0.91,26.6,55330,0.6
+Wisconsin,First-Line Supervisors of Construction Trades and Extraction Workers,10740,3.3,3.742,0.88,34.92,72640,0.8
+Wisconsin,Boilermakers,80,13.4,0.027,0.25,27.28,56750,14.3
+Wisconsin,Brickmasons and Blockmasons,1320,10.1,0.46,1.11,27.7,57620,2.8
+Wisconsin,Stonemasons,90,34.1,0.03,0.36,24.38,50710,13.4
+Wisconsin,Carpenters,16050,3.8,5.591,1.12,25.1,52200,1.3
+Wisconsin,Carpet Installers,470,31.9,0.163,0.92,19.02,39570,8.3
+Wisconsin,"Floor Layers, Except Carpet, Wood, and Hard Tiles",620,18.2,0.215,1.94,28.27,58790,9.1
+Wisconsin,Floor Sanders and Finishers,430,35.9,0.15,4.47,22.81,47450,8.2
+Wisconsin,Tile and Stone Setters,500,26.7,0.173,0.63,20.72,43090,7.5
+Wisconsin,Cement Masons and Concrete Finishers,5590,5.9,1.947,1.46,25.28,52580,1.7
+Wisconsin,Terrazzo Workers and Finishers,**,**,**,**,24.68,51330,3.6
+Wisconsin,Construction Laborers,16280,3.7,5.673,0.82,21.37,44460,1.2
+Wisconsin,"Paving, Surfacing, and Tamping Equipment Operators",560,22.2,0.193,0.62,21.71,45150,2.9
+Wisconsin,Operating Engineers and Other Construction Equipment Operators,8370,4.4,2.918,1.06,30.97,64420,1.4
+Wisconsin,Drywall and Ceiling Tile Installers,1080,20.1,0.376,0.54,19.66,40890,3.7
+Wisconsin,Tapers,100,21.6,0.033,0.27,28.46,59190,3.2
+Wisconsin,Electricians,12170,6.5,4.241,0.9,29.44,61220,1.6
+Wisconsin,Glaziers,870,13.3,0.302,0.85,26.95,56060,5.3
+Wisconsin,"Insulation Workers, Floor, Ceiling, and Wall",600,20,0.208,0.91,20.62,42890,3.2
+Wisconsin,"Insulation Workers, Mechanical",610,21,0.214,1.18,28.8,59910,2.7
+Wisconsin,"Painters, Construction and Maintenance",3710,8.3,1.294,0.82,22.12,46020,3
+Wisconsin,Pipelayers,490,18.1,0.171,0.69,30.02,62450,2.8
+Wisconsin,"Plumbers, Pipefitters, and Steamfitters",8210,6.4,2.861,0.95,32.87,68360,1.5
+Wisconsin,Plasterers and Stucco Masons,360,30.1,0.124,0.67,20.33,42290,4.1
+Wisconsin,Reinforcing Iron and Rebar Workers,220,46.5,0.078,0.61,29.91,62200,7.7
+Wisconsin,Roofers,2610,8.9,0.909,1.03,22.7,47210,2.9
+Wisconsin,Sheet Metal Workers,3000,10.7,1.047,1.17,28.5,59280,3.3
+Wisconsin,Structural Iron and Steel Workers,1020,15.3,0.357,0.68,29.5,61360,2.2
+Wisconsin,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",60,36.5,0.019,0.12,16,33280,6.7
+Wisconsin,Helpers--Carpenters,240,19.5,0.084,0.37,15.7,32650,4.8
+Wisconsin,Helpers--Electricians,1250,12,0.435,0.81,17.52,36450,4
+Wisconsin,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",60,23.7,0.021,0.28,15.49,32210,5
+Wisconsin,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",1040,15.8,0.363,0.91,19.43,40410,4.6
+Wisconsin,Helpers--Roofers,70,31.4,0.023,0.37,16.9,35140,4.5
+Wisconsin,Construction and Building Inspectors,1300,7,0.453,0.6,28.99,60310,1.4
+Wisconsin,Elevator and Escalator Installers and Repairers,260,24.6,0.09,0.47,32.4,67390,13
+Wisconsin,Fence Erectors,240,27.7,0.082,0.47,18.52,38520,6.2
+Wisconsin,Hazardous Materials Removal Workers,400,20.8,0.138,0.46,21,43670,4.2
+Wisconsin,Highway Maintenance Workers,5950,3.8,2.072,2.02,21.34,44390,1
+Wisconsin,Rail-Track Laying and Maintenance Equipment Operators,60,32.4,0.022,0.2,25.79,53650,7.1
+Wisconsin,Septic Tank Servicers and Sewer Pipe Cleaners,930,12.8,0.322,1.59,22.68,47170,3.4
+Wisconsin,Miscellaneous Construction and Related Workers,190,21.5,0.066,0.3,24.86,51710,3.9
+Wisconsin,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1290,12.4,0.45,1.5,26.49,55100,3.4
+Wisconsin,"Rock Splitters, Quarry",**,**,**,**,19.27,40090,5
+Wisconsin,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",290,29.7,0.103,0.6,27.83,57880,5.6
+Wisconsin,"Underground Mining Machine Operators and Extraction Workers, All Other",**,**,**,**,21.94,45640,2.4
+Wisconsin,"Installation, Maintenance, and Repair Occupations",112300,1.3,39.127,1.01,23.61,49100,0.4
+Wisconsin,"First-Line Supervisors of Mechanics, Installers, and Repairers",9490,2.4,3.308,1,34.8,72370,0.7
+Wisconsin,"Computer, Automated Teller, and Office Machine Repairers",2110,11.1,0.734,1.1,19.58,40730,2.4
+Wisconsin,"Radio, Cellular, and Tower Equipment Installers and Repairers",150,45,0.054,0.55,30.92,64310,12.9
+Wisconsin,"Telecommunications Equipment Installers and Repairers, Except Line Installers",3500,7.8,1.22,0.86,24.56,51080,2.2
+Wisconsin,Avionics Technicians,80,31.4,0.029,0.2,21.85,45450,6.4
+Wisconsin,"Electric Motor, Power Tool, and Related Repairers",230,15.6,0.08,0.74,21.21,44110,3
+Wisconsin,"Electrical and Electronics Installers and Repairers, Transportation Equipment",40,42.7,0.013,0.2,29.86,62110,5.9
+Wisconsin,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",440,19.5,0.152,0.38,26.75,55640,3.6
+Wisconsin,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",350,11.5,0.123,0.8,38.9,80920,2.7
+Wisconsin,"Electronic Equipment Installers and Repairers, Motor Vehicles",60,35.8,0.022,0.31,13.51,28090,13.1
+Wisconsin,Audiovisual Equipment Installers and Repairers,520,20.2,0.182,1.04,18.93,39370,7.5
+Wisconsin,Security and Fire Alarm Systems Installers,770,19.9,0.268,0.55,22.76,47330,2.7
+Wisconsin,Aircraft Mechanics and Service Technicians,880,12.2,0.305,0.34,25.39,52810,3.6
+Wisconsin,Automotive Body and Related Repairers,3300,7.2,1.149,1.17,21.53,44780,2.6
+Wisconsin,Automotive Glass Installers and Repairers,250,35.5,0.087,0.65,18.33,38130,5.5
+Wisconsin,Automotive Service Technicians and Mechanics,12080,3.5,4.208,0.94,20.54,42720,1.1
+Wisconsin,Bus and Truck Mechanics and Diesel Engine Specialists,6070,6.6,2.117,1.17,23.62,49140,1.1
+Wisconsin,Farm Equipment Mechanics and Service Technicians,1580,7.4,0.549,2.22,20.91,43490,2.5
+Wisconsin,"Mobile Heavy Equipment Mechanics, Except Engines",2080,9.1,0.724,0.72,25.44,52910,1
+Wisconsin,Rail Car Repairers,160,11.5,0.055,0.31,26.19,54480,6.3
+Wisconsin,Motorboat Mechanics and Service Technicians,640,16.1,0.222,1.42,19.91,41410,2.8
+Wisconsin,Motorcycle Mechanics,820,15,0.284,2.68,17.8,37030,3.4
+Wisconsin,Outdoor Power Equipment and Other Small Engine Mechanics,760,16.7,0.266,1.22,18.19,37840,2.4
+Wisconsin,Bicycle Repairers,130,46.7,0.045,0.5,12.48,25950,4.6
+Wisconsin,Recreational Vehicle Service Technicians,260,22.9,0.089,0.84,19.59,40740,2.9
+Wisconsin,Tire Repairers and Changers,1630,11.9,0.569,0.75,15.02,31250,2.8
+Wisconsin,Mechanical Door Repairers,400,28.1,0.14,0.89,22.74,47290,4.3
+Wisconsin,"Control and Valve Installers and Repairers, Except Mechanical Door",660,11.9,0.23,0.65,37.98,78990,3.2
+Wisconsin,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4660,6.7,1.625,0.7,26.39,54880,2.3
+Wisconsin,Home Appliance Repairers,410,19.8,0.143,0.68,19.57,40700,8.1
+Wisconsin,Industrial Machinery Mechanics,10350,4.5,3.605,1.37,26.16,54420,0.8
+Wisconsin,"Maintenance Workers, Machinery",2510,6.8,0.874,1.76,25.9,53870,1.4
+Wisconsin,Millwrights,910,12.9,0.318,0.99,29.42,61190,2.2
+Wisconsin,Electrical Power-Line Installers and Repairers,2110,7.3,0.736,0.97,37.94,78920,1.9
+Wisconsin,Telecommunications Line Installers and Repairers,1320,15.5,0.46,0.56,26.04,54170,6
+Wisconsin,Camera and Photographic Equipment Repairers,130,30.4,0.044,1.79,16.37,34050,5.7
+Wisconsin,Medical Equipment Repairers,860,15.8,0.3,0.95,24.93,51860,3.9
+Wisconsin,Musical Instrument Repairers and Tuners,270,29.6,0.093,1.7,17.14,35650,3.3
+Wisconsin,Watch and Clock Repairers,70,40.5,0.023,1.23,16.52,34350,21
+Wisconsin,"Precision Instrument and Equipment Repairers, All Other",60,40.6,0.021,0.3,24.01,49940,8.8
+Wisconsin,"Maintenance and Repair Workers, General",34080,2.1,11.875,1.23,20.77,43210,0.7
+Wisconsin,"Coin, Vending, and Amusement Machine Servicers and Repairers",940,17.3,0.327,1.53,18.89,39280,3.3
+Wisconsin,Locksmiths and Safe Repairers,300,24.3,0.103,0.89,19.32,40180,5.4
+Wisconsin,Manufactured Building and Mobile Home Installers,**,**,**,**,18.63,38750,4.3
+Wisconsin,Riggers,120,10,0.043,0.28,20.79,43240,13.7
+Wisconsin,Signal and Track Switch Repairers,**,**,**,**,32.56,67730,13.3
+Wisconsin,"Helpers--Installation, Maintenance, and Repair Workers",1440,7.6,0.5,0.74,14.13,29390,2.7
+Wisconsin,"Installation, Maintenance, and Repair Workers, All Other",2220,10.9,0.772,0.7,20.3,42230,3.7
+Wisconsin,Production Occupations,335380,1.6,116.855,1.87,19.23,39990,0.4
+Wisconsin,First-Line Supervisors of Production and Operating Workers,24910,1.9,8.678,2.02,30.44,63320,0.5
+Wisconsin,"Coil Winders, Tapers, and Finishers",670,49.9,0.232,2.69,20.58,42800,2.9
+Wisconsin,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",10830,5.7,3.773,1.94,17.83,37090,1.3
+Wisconsin,Engine and Other Machine Assemblers,1480,14.7,0.516,1.65,19.34,40230,1.6
+Wisconsin,Structural Metal Fabricators and Fitters,5030,5.7,1.753,3.35,21.77,45290,1.4
+Wisconsin,Fiberglass Laminators and Fabricators,390,32.5,0.134,0.98,17.05,35460,2.2
+Wisconsin,Miscellaneous Assemblers and Fabricators,48030,5.5,16.734,1.79,16.08,33450,0.9
+Wisconsin,Bakers,3550,5.5,1.238,0.98,14.28,29700,1.4
+Wisconsin,Butchers and Meat Cutters,1800,7.4,0.626,0.67,17.55,36510,1.9
+Wisconsin,"Meat, Poultry, and Fish Cutters and Trimmers",3810,12.9,1.327,1.27,14.25,29630,1.6
+Wisconsin,Slaughterers and Meat Packers,2640,15.2,0.918,1.84,14.74,30650,1.9
+Wisconsin,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1480,9.3,0.516,3.64,12.14,25250,3.3
+Wisconsin,Food Batchmakers,8390,6.3,2.924,2.69,16.48,34270,1.2
+Wisconsin,Food Cooking Machine Operators and Tenders,1290,24.5,0.448,2.19,17.94,37320,2.2
+Wisconsin,"Food Processing Workers, All Other",870,18.8,0.304,1.04,14.13,29380,2.2
+Wisconsin,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",4690,9.3,1.634,3.12,20.02,41650,2.2
+Wisconsin,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",310,40.8,0.107,0.96,22.44,46670,3.7
+Wisconsin,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,19.47,40510,3.5
+Wisconsin,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",10600,3.9,3.692,2.78,19.56,40690,1.2
+Wisconsin,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",150,21.3,0.051,0.68,21.37,44450,4.2
+Wisconsin,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",4360,8.5,1.521,2.91,18.56,38600,1.7
+Wisconsin,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",970,15.2,0.339,1.78,20.94,43560,2.3
+Wisconsin,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",190,22.3,0.066,0.52,22.67,47160,3.5
+Wisconsin,Machinists,11670,4.8,4.067,1.56,20.66,42980,1.1
+Wisconsin,Metal-Refining Furnace Operators and Tenders,550,17.6,0.19,1.63,19.81,41200,3.6
+Wisconsin,"Pourers and Casters, Metal",**,**,**,**,18.2,37850,3.8
+Wisconsin,"Model Makers, Metal and Plastic",**,**,**,**,21.64,45010,3.9
+Wisconsin,"Patternmakers, Metal and Plastic",390,29.3,0.135,6.6,24.01,49930,4.2
+Wisconsin,Foundry Mold and Coremakers,1490,7.1,0.519,4.34,18.13,37710,3.5
+Wisconsin,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",9600,6.7,3.345,2.85,17.6,36610,2
+Wisconsin,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3720,9.7,1.295,1.29,18.93,39370,1.7
+Wisconsin,Tool and Die Makers,3740,6,1.304,2.71,25.16,52330,1.2
+Wisconsin,"Welders, Cutters, Solderers, and Brazers",15730,3.7,5.479,1.96,21.99,45740,1.1
+Wisconsin,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",470,14.9,0.163,0.68,19.15,39820,3.1
+Wisconsin,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",730,23.3,0.253,1.9,19.4,40340,1.8
+Wisconsin,"Layout Workers, Metal and Plastic",**,**,**,**,21.98,45710,2.9
+Wisconsin,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",1650,11.4,0.575,2.02,15.42,32070,2.7
+Wisconsin,"Tool Grinders, Filers, and Sharpeners",110,21.3,0.037,0.84,15.39,32020,6
+Wisconsin,"Metal Workers and Plastic Workers, All Other",320,28.7,0.111,0.67,17.71,36830,2.4
+Wisconsin,Prepress Technicians and Workers,1570,9.7,0.546,2.65,18.63,38750,2.3
+Wisconsin,Printing Press Operators,9370,6.4,3.265,2.77,18.72,38930,1.2
+Wisconsin,Print Binding and Finishing Workers,3440,19.6,1.2,3.86,16.35,34020,1.9
+Wisconsin,Laundry and Dry-Cleaning Workers,3510,7.7,1.221,0.86,12.13,25240,1.7
+Wisconsin,"Pressers, Textile, Garment, and Related Materials",590,24.9,0.204,0.79,12.33,25640,1.9
+Wisconsin,Sewing Machine Operators,3080,8.5,1.074,1.18,14.44,30030,1.9
+Wisconsin,Shoe and Leather Workers and Repairers,230,34,0.079,1.32,15.32,31860,4.2
+Wisconsin,Shoe Machine Operators and Tenders,**,**,**,**,15.96,33200,5.3
+Wisconsin,"Sewers, Hand",**,**,**,**,15.69,32640,2.8
+Wisconsin,"Tailors, Dressmakers, and Custom Sewers",410,41.9,0.141,0.86,14.45,30060,3
+Wisconsin,"Textile Cutting Machine Setters, Operators, and Tenders",100,26.4,0.034,0.38,15.02,31240,2.3
+Wisconsin,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",760,17.2,0.264,1.83,18.08,37600,4.4
+Wisconsin,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",80,46,0.029,0.14,16.98,35330,2.7
+Wisconsin,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",140,13.4,0.049,0.39,17.68,36780,3.8
+Wisconsin,Upholsterers,**,**,**,**,17.07,35510,4
+Wisconsin,"Textile, Apparel, and Furnishings Workers, All Other",80,40.4,0.028,0.22,14.81,30800,9
+Wisconsin,Cabinetmakers and Bench Carpenters,3430,24.4,1.194,1.76,16.53,34390,4.8
+Wisconsin,Furniture Finishers,440,14.1,0.152,1.38,16.61,34540,2.7
+Wisconsin,"Sawing Machine Setters, Operators, and Tenders, Wood",1830,11.7,0.639,1.85,15.96,33210,2.5
+Wisconsin,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",5630,10.9,1.963,3.66,15.57,32390,1.8
+Wisconsin,"Woodworkers, All Other",120,23.2,0.043,0.95,14.51,30170,3.7
+Wisconsin,Power Distributors and Dispatchers,180,19.5,0.061,0.83,42.65,88720,3.4
+Wisconsin,Power Plant Operators,710,12.2,0.246,1.08,32.94,68520,4.5
+Wisconsin,Stationary Engineers and Boiler Operators,260,23.5,0.092,0.42,28.26,58780,3.1
+Wisconsin,Water and Wastewater Treatment Plant and System Operators,2220,7.3,0.773,0.92,25.49,53020,1.6
+Wisconsin,Chemical Plant and System Operators,340,19.6,0.117,0.59,26.96,56070,6.5
+Wisconsin,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",**,**,**,**,29.75,61890,3.7
+Wisconsin,"Plant and System Operators, All Other",140,35.1,0.048,0.54,28.12,58500,7.3
+Wisconsin,Chemical Equipment Operators and Tenders,2200,10.8,0.765,1.29,20.3,42230,2.5
+Wisconsin,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1550,12.9,0.539,1.55,19.13,39790,2.5
+Wisconsin,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",590,16.7,0.207,0.91,20.74,43130,2
+Wisconsin,"Grinding and Polishing Workers, Hand",2950,13.1,1.026,5.17,14.22,29580,1.9
+Wisconsin,"Mixing and Blending Machine Setters, Operators, and Tenders",5230,6.5,1.822,2.13,19.53,40620,1.3
+Wisconsin,"Cutters and Trimmers, Hand",280,30.2,0.097,1.48,14.27,29680,5.5
+Wisconsin,"Cutting and Slicing Machine Setters, Operators, and Tenders",2340,8.7,0.814,2.06,18.38,38230,1.9
+Wisconsin,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1950,10.6,0.679,1.39,17.36,36120,2.1
+Wisconsin,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",630,12.4,0.22,1.7,18.76,39030,2.8
+Wisconsin,"Inspectors, Testers, Sorters, Samplers, and Weighers",17950,2.5,6.255,1.59,19.94,41470,0.8
+Wisconsin,Jewelers and Precious Stone and Metal Workers,360,28.2,0.126,0.78,25.05,52110,4.6
+Wisconsin,Dental Laboratory Technicians,1210,18.6,0.422,1.8,19.24,40020,2.6
+Wisconsin,Medical Appliance Technicians,460,12.5,0.16,1.67,17.72,36870,2.8
+Wisconsin,Ophthalmic Laboratory Technicians,520,16.9,0.18,0.91,15.74,32730,2.9
+Wisconsin,Packaging and Filling Machine Operators and Tenders,24360,6,8.488,3.19,16.9,35160,1.5
+Wisconsin,"Painting, Coating, and Decorating Workers",80,26.4,0.027,0.32,16.57,34460,5
+Wisconsin,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",6470,5.4,2.255,2.26,18.97,39470,1.2
+Wisconsin,Photographic Process Workers and Processing Machine Operators,380,21.7,0.131,1.62,14.76,30690,3.1
+Wisconsin,Computer Numerically Controlled Tool Operators,13710,4.2,4.775,4.62,22.02,45800,1
+Wisconsin,Computer Numerically Controlled Tool Programmers,1200,8.4,0.418,2.4,25.25,52520,1.4
+Wisconsin,Adhesive Bonding Machine Operators and Tenders,240,24.1,0.085,0.9,16.3,33900,4
+Wisconsin,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",440,16.8,0.153,1.37,15.77,32790,3.3
+Wisconsin,Cooling and Freezing Equipment Operators and Tenders,90,39.5,0.031,0.52,16.89,35120,3.3
+Wisconsin,Etchers and Engravers,270,31,0.094,1.34,18.1,37640,9.2
+Wisconsin,"Molders, Shapers, and Casters, Except Metal and Plastic",1230,19.1,0.43,1.41,16.72,34770,2.9
+Wisconsin,"Paper Goods Machine Setters, Operators, and Tenders",9260,8,3.227,4.73,21.35,44400,1.8
+Wisconsin,Tire Builders,80,36.4,0.028,0.2,15.69,32630,5
+Wisconsin,Helpers--Production Workers,7040,7.8,2.454,1.19,16.63,34590,1.2
+Wisconsin,"Production Workers, All Other",3810,10.1,1.326,0.88,15.47,32170,2.8
+Wisconsin,Transportation and Material Moving Occupations,250230,1.4,87.185,1.02,17.67,36750,0.6
+Wisconsin,Aircraft Cargo Handling Supervisors,120,28.2,0.04,0.62,28.43,59120,3.7
+Wisconsin,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",8120,3.2,2.83,0.91,27.37,56920,0.9
+Wisconsin,"Airline Pilots, Copilots, and Flight Engineers",**,**,**,**,*,100470,2.7
+Wisconsin,Commercial Pilots,350,14.6,0.122,0.47,*,68970,2.9
+Wisconsin,Air Traffic Controllers,120,5.1,0.043,0.29,47.42,98630,1.6
+Wisconsin,Airfield Operations Specialists,40,32.2,0.014,0.19,25.91,53890,3.2
+Wisconsin,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",340,25.1,0.117,1.17,12.46,25910,5.3
+Wisconsin,Driver/Sales Workers,7230,11,2.52,0.83,14.38,29900,3.6
+Wisconsin,Heavy and Tractor-Trailer Truck Drivers,51440,3,17.922,1.42,22.85,47520,0.8
+Wisconsin,Light Truck Drivers,16210,7.8,5.649,0.9,16.63,34580,2.1
+Wisconsin,"Bus Drivers, Transit and Intercity",2190,8.1,0.763,0.62,22.43,46650,2.8
+Wisconsin,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",16260,5,5.666,1.19,15.2,31630,1.8
+Wisconsin,"Motor Vehicle Operators, All Other",420,13.1,0.145,0.38,16.99,35350,5.3
+Wisconsin,Locomotive Engineers,830,2.6,0.288,1.19,31.87,66290,4.6
+Wisconsin,"Rail Yard Engineers, Dinkey Operators, and Hostlers",**,**,**,**,21.74,45230,5.2
+Wisconsin,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",430,31.3,0.149,1.97,31.86,66270,4.2
+Wisconsin,Railroad Conductors and Yardmasters,740,37.4,0.257,0.82,32.24,67050,6
+Wisconsin,Sailors and Marine Oilers,50,17.5,0.019,0.09,23.03,47910,7.8
+Wisconsin,"Captains, Mates, and Pilots of Water Vessels",80,12.3,0.027,0.12,25.45,52940,10.4
+Wisconsin,Motorboat Operators,40,48.1,0.013,0.93,13.79,28670,9.8
+Wisconsin,Bridge and Lock Tenders,140,8.2,0.048,2.23,22.54,46890,2.4
+Wisconsin,Parking Attendants,1270,13.7,0.442,0.44,11.22,23330,2.1
+Wisconsin,Automotive and Watercraft Service Attendants,2330,13.2,0.811,1.01,11.92,24790,2.6
+Wisconsin,Traffic Technicians,60,8.5,0.021,0.42,*,*,*
+Wisconsin,Transportation Inspectors,160,39.6,0.055,0.27,44.26,92070,5.1
+Wisconsin,Passenger Attendants,30,32.1,0.012,0.06,11.53,23980,9.5
+Wisconsin,"Aircraft Service Attendants and Transportation Workers, All Other",**,**,**,**,16.12,33530,7.7
+Wisconsin,Conveyor Operators and Tenders,330,26.9,0.114,0.69,16.76,34850,4.7
+Wisconsin,Crane and Tower Operators,460,23,0.161,0.52,23.38,48640,8.5
+Wisconsin,Industrial Truck and Tractor Operators,13530,5.1,4.715,1.1,19,39520,1.1
+Wisconsin,Cleaners of Vehicles and Equipment,6790,5.5,2.367,0.91,13.79,28690,1.4
+Wisconsin,"Laborers and Freight, Stock, and Material Movers, Hand",56750,3.4,19.774,0.98,16.62,34570,0.6
+Wisconsin,Machine Feeders and Offbearers,1490,23.3,0.519,1.2,15.58,32410,4.5
+Wisconsin,"Packers and Packagers, Hand",16030,17.2,5.586,1.29,13.71,28510,1.8
+Wisconsin,Stockers and Order Fillers,41200,3,14.355,0.99,13.4,27860,1.3
+Wisconsin,Refuse and Recyclable Material Collectors,1800,11,0.627,0.76,20.93,43540,2
+Wisconsin,"Tank Car, Truck, and Ship Loaders",290,18.8,0.1,1.27,28.07,58390,15.7
+Wisconsin,"Material Moving Workers, All Other",1380,10.7,0.479,2.49,13.31,27690,2.5

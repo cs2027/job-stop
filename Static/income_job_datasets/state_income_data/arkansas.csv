@@ -1,0 +1,669 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Arkansas,All Occupations,1217420,0.7,1000,1,20.52,42690,0.9
+Arkansas,Management Occupations,65430,1.4,53.745,0.98,44.17,91880,1.8
+Arkansas,Chief Executives,2090,3.6,1.716,1.22,60.11,125020,3.3
+Arkansas,General and Operations Managers,20910,2.3,17.173,1.05,43.13,89710,2.2
+Arkansas,Legislators,1310,6.6,1.078,3.03,*,21830,1.2
+Arkansas,Advertising and Promotions Managers,100,8.2,0.081,0.47,65.97,137220,8.3
+Arkansas,Marketing Managers,1320,5.9,1.08,0.6,73.27,152410,7.4
+Arkansas,Sales Managers,2040,7.5,1.675,0.61,62.7,130410,3.7
+Arkansas,Public Relations and Fundraising Managers,310,9.6,0.258,0.48,57.67,119950,7
+Arkansas,Administrative Services and Facilities Managers,1840,8.8,1.514,0.72,46.35,96400,2.7
+Arkansas,Computer and Information Systems Managers,2410,3.8,1.98,0.67,53.46,111200,2.6
+Arkansas,Financial Managers,4810,2.8,3.949,0.89,51.92,107990,3.9
+Arkansas,Industrial Production Managers,2010,4.2,1.648,1.3,47.05,97860,1.7
+Arkansas,Purchasing Managers,600,5.1,0.494,1.01,54.51,113380,11.6
+Arkansas,"Transportation, Storage, and Distribution Managers",1180,7.5,0.971,1.08,53.77,111850,6.4
+Arkansas,Compensation and Benefits Managers,150,8.2,0.119,1.04,50.95,105980,8.1
+Arkansas,Human Resources Managers,1030,4.4,0.844,0.8,51.44,106990,7.3
+Arkansas,Training and Development Managers,270,6.1,0.223,0.85,52.73,109670,9.4
+Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",**,**,**,**,31,64490,7.2
+Arkansas,Construction Managers,2160,10.7,1.773,0.89,40,83200,6.4
+Arkansas,"Education and Childcare Administrators, Preschool and Daycare",610,11.6,0.498,1.4,20.98,43640,3.5
+Arkansas,"Education Administrators, Kindergarten through Secondary",2400,1.6,1.971,1.07,*,80090,1.2
+Arkansas,"Education Administrators, Postsecondary",1260,8.8,1.039,1.05,53.16,110560,7.2
+Arkansas,"Education Administrators, All Other",590,8.7,0.487,1.61,32.75,68110,2.5
+Arkansas,Architectural and Engineering Managers,850,9,0.695,0.53,60.36,125550,1.9
+Arkansas,Food Service Managers,1800,9.3,1.475,0.92,23.8,49510,2.4
+Arkansas,Lodging Managers,700,19.8,0.573,2.19,18.75,38990,9.7
+Arkansas,Medical and Health Services Managers,5680,3.9,4.666,1.74,41.96,87290,2.3
+Arkansas,Natural Sciences Managers,230,2.7,0.19,0.41,53.41,111090,6
+Arkansas,Postmasters and Mail Superintendents,190,0,0.154,1.63,38.92,80950,0.6
+Arkansas,"Property, Real Estate, and Community Association Managers",1510,8.1,1.236,0.82,25.41,52850,5.6
+Arkansas,Social and Community Service Managers,1400,6.4,1.152,1.08,27.19,56560,2
+Arkansas,Emergency Management Directors,140,6,0.118,1.72,22.44,46680,4
+Arkansas,Funeral Home Managers,110,14.9,0.087,1.35,37.22,77410,12.2
+Arkansas,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",3370,3.9,2.766,0.86,42.29,87950,3.6
+Arkansas,Business and Financial Operations Occupations,53110,1.7,43.628,0.78,30.54,63520,1.5
+Arkansas,Buyers and Purchasing Agents,3420,3,2.805,0.98,33.39,69450,8
+Arkansas,"Claims Adjusters, Examiners, and Investigators",1860,10.7,1.525,0.78,28.61,59510,3.7
+Arkansas,Compliance Officers,2650,2.8,2.176,1.01,28.13,58510,2.6
+Arkansas,Cost Estimators,1250,7.5,1.027,0.72,30.23,62870,3.2
+Arkansas,Human Resources Specialists,3890,2.7,3.199,0.74,27.76,57740,3.1
+Arkansas,Labor Relations Specialists,260,7.4,0.214,0.42,22.76,47340,5.9
+Arkansas,Logisticians,1520,8.5,1.251,1.01,34.8,72380,4.2
+Arkansas,Management Analysts,5750,6,4.723,0.98,32.73,68070,6.6
+Arkansas,"Meeting, Convention, and Event Planners",590,13.3,0.488,0.61,23.04,47920,6.2
+Arkansas,Fundraisers,350,12.3,0.286,0.51,24.04,50000,6
+Arkansas,"Compensation, Benefits, and Job Analysis Specialists",670,8.6,0.549,0.9,27.13,56440,6.6
+Arkansas,Training and Development Specialists,2600,4.8,2.133,1,24.8,51570,3.8
+Arkansas,Market Research Analysts and Marketing Specialists,4630,3.7,3.807,0.82,33.06,68770,3.7
+Arkansas,"Project Management Specialists and Business Operations Specialists, All Other",7800,3,6.411,0.74,29.29,60930,1.7
+Arkansas,Accountants and Auditors,7440,2.9,6.114,0.7,31.95,66450,1.3
+Arkansas,Property Appraisers and Assessors,470,13.2,0.383,1,20.9,43470,4.9
+Arkansas,Budget Analysts,520,5.3,0.43,1.23,24.53,51030,3.7
+Arkansas,Credit Analysts,300,16.4,0.249,0.49,28.24,58750,4.3
+Arkansas,Personal Financial Advisors,910,10.1,0.745,0.52,42.29,87960,10.7
+Arkansas,Insurance Underwriters,320,24.6,0.261,0.38,31.48,65470,8.7
+Arkansas,Financial Examiners,360,6.3,0.293,0.67,31.78,66100,3.6
+Arkansas,Credit Counselors,80,20.2,0.065,0.3,24.91,51810,9.3
+Arkansas,Loan Officers,2660,5.5,2.186,1.04,34.6,71970,2.9
+Arkansas,"Tax Examiners and Collectors, and Revenue Agents",460,2.1,0.38,1.04,27.92,58080,2
+Arkansas,Tax Preparers,430,17.8,0.355,0.78,15.1,31410,7
+Arkansas,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",1900,3.8,1.557,0.5,30.58,63610,4.5
+Arkansas,Computer and Mathematical Occupations,22330,3.1,18.342,0.59,33.43,69530,2.7
+Arkansas,Computer Systems Analysts,3440,5.9,2.822,0.7,34.99,72770,2.5
+Arkansas,Information Security Analysts,780,4.8,0.642,0.75,40.35,83930,4.6
+Arkansas,Computer and Information Research Scientists,40,15.9,0.036,0.17,50.58,105210,4.6
+Arkansas,Computer Network Support Specialists,1560,7.8,1.277,1.01,22.96,47760,4.1
+Arkansas,Computer User Support Specialists,3480,3.4,2.859,0.65,20.9,43470,1.8
+Arkansas,Computer Network Architects,970,11,0.801,0.77,44.51,92590,2.8
+Arkansas,Network and Computer Systems Administrators,2170,10.8,1.78,0.74,31.44,65390,2.3
+Arkansas,Database Administrators and Architects,580,6.3,0.479,0.56,37.31,77610,2
+Arkansas,Computer Programmers,1700,6.6,1.397,1.03,34.21,71150,2.7
+Arkansas,Software Developers and Software Quality Assurance Analysts and Testers,5480,7,4.502,0.47,41.39,86100,2.8
+Arkansas,Web Developers and Digital Interface Designers,490,13,0.4,0.4,22.79,47400,2.8
+Arkansas,"Computer Occupations, All Other",840,5.4,0.693,0.26,32.51,67610,3.4
+Arkansas,Operations Research Analysts,390,8.2,0.321,0.47,30.24,62900,2.7
+Arkansas,Statisticians,360,4.5,0.296,1.11,*,*,*
+Arkansas,Architecture and Engineering Occupations,12550,5.9,10.312,0.58,34.33,71400,1.5
+Arkansas,"Architects, Except Landscape and Naval",680,23.9,0.555,0.77,33.88,70470,4.9
+Arkansas,Landscape Architects,90,33.8,0.07,0.51,29.75,61870,6.2
+Arkansas,Cartographers and Photogrammetrists,70,13.1,0.06,0.78,26.47,55070,4.4
+Arkansas,Surveyors,340,14.4,0.28,0.91,24.69,51360,5.3
+Arkansas,Aerospace Engineers,**,**,**,**,59.26,123250,2.6
+Arkansas,Chemical Engineers,140,25.6,0.112,0.55,45.5,94640,2.4
+Arkansas,Civil Engineers,1400,5.3,1.149,0.54,37.75,78520,2
+Arkansas,Computer Hardware Engineers,260,40.2,0.215,0.46,56.28,117060,5.4
+Arkansas,Electrical Engineers,960,14.3,0.788,0.62,40.58,84400,2.6
+Arkansas,"Electronics Engineers, Except Computer",460,22.5,0.381,0.43,40.14,83490,3.2
+Arkansas,Environmental Engineers,100,17.2,0.083,0.23,39.56,82290,6.8
+Arkansas,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",110,12.1,0.093,0.53,37.51,78030,2.5
+Arkansas,Industrial Engineers,1940,8.1,1.596,0.8,37.26,77510,2.4
+Arkansas,Materials Engineers,220,13.6,0.177,0.97,38.44,79960,4.3
+Arkansas,Mechanical Engineers,1150,10,0.948,0.45,35,72800,1.6
+Arkansas,Nuclear Engineers,**,**,**,**,62.18,129330,8.2
+Arkansas,Petroleum Engineers,**,**,**,**,43.5,90470,6.1
+Arkansas,"Engineers, All Other",490,19.4,0.399,0.38,36.01,74910,3.4
+Arkansas,Architectural and Civil Drafters,550,14.7,0.453,0.67,22.4,46590,6.3
+Arkansas,Electrical and Electronics Drafters,120,22,0.097,0.59,33.23,69120,3.5
+Arkansas,Mechanical Drafters,420,9.9,0.341,0.91,24.59,51160,2.9
+Arkansas,Civil Engineering Technologists and Technicians,260,13.7,0.212,0.45,23.58,49050,5.1
+Arkansas,Electrical and Electronic Engineering Technologists and Technicians,530,20.9,0.438,0.53,29.85,62080,2.2
+Arkansas,Environmental Engineering Technologists and Technicians,230,31.8,0.186,1.52,26.16,54410,13.7
+Arkansas,Industrial Engineering Technologists and Technicians,540,15.8,0.444,0.97,22.01,45780,2
+Arkansas,Mechanical Engineering Technologists and Technicians,100,18.2,0.083,0.29,28.07,58390,3.7
+Arkansas,Surveying and Mapping Technicians,530,9.2,0.432,1.2,20.23,42080,3.1
+Arkansas,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",370,14.6,0.304,0.51,30.28,62980,2.3
+Arkansas,"Life, Physical, and Social Science Occupations",6720,2.7,5.522,0.63,29.67,61720,2.4
+Arkansas,Food Scientists and Technologists,240,6.1,0.194,2.11,37.39,77780,8.4
+Arkansas,Soil and Plant Scientists,50,15,0.038,0.39,36.09,75070,8.8
+Arkansas,Microbiologists,220,4.6,0.178,1.43,32.09,66740,13
+Arkansas,"Biological Scientists, All Other",250,2.2,0.202,0.74,35.28,73380,1.4
+Arkansas,Conservation Scientists,150,21.1,0.125,0.83,31.99,66540,3.2
+Arkansas,Foresters,150,15.9,0.126,1.94,26.79,55720,3.3
+Arkansas,Epidemiologists,40,2.7,0.035,0.69,32.39,67370,4.1
+Arkansas,"Medical Scientists, Except Epidemiologists",140,10.6,0.116,0.13,44.74,93060,6.4
+Arkansas,Physicists,**,**,**,**,49.68,103340,8.4
+Arkansas,Atmospheric and Space Scientists,30,16.7,0.027,0.43,41.85,87040,6.3
+Arkansas,Chemists,310,6,0.251,0.44,36.32,75540,8.7
+Arkansas,"Environmental Scientists and Specialists, Including Health",120,13.6,0.101,0.18,29.03,60390,4.5
+Arkansas,"Geoscientists, Except Hydrologists and Geographers",120,20.7,0.098,0.49,32.51,67630,14.9
+Arkansas,Economists,100,5.7,0.08,0.62,36.81,76560,7.3
+Arkansas,"Clinical, Counseling, and School Psychologists",730,16.6,0.597,0.77,35.12,73050,8.5
+Arkansas,"Psychologists, All Other",90,6.1,0.076,0.79,41,85270,5.9
+Arkansas,Urban and Regional Planners,100,13.6,0.085,0.32,28.47,59210,3.4
+Arkansas,"Social Scientists and Related Workers, All Other",160,7.2,0.133,0.58,33.89,70490,1.6
+Arkansas,Agricultural and Food Science Technicians,370,9.9,0.307,2.06,20.49,42610,1.7
+Arkansas,Biological Technicians,340,9.4,0.277,0.51,24.86,51700,3
+Arkansas,Chemical Technicians,660,10.6,0.543,1.21,21.8,45350,3.8
+Arkansas,"Environmental Science and Protection Technicians, Including Health",70,31.7,0.061,0.27,25.44,52910,3.7
+Arkansas,Geological and Hydrologic Technicians,50,23.9,0.044,0.38,23,47840,5.3
+Arkansas,Social Science Research Assistants,50,2.1,0.044,0.18,22,45750,4
+Arkansas,Forest and Conservation Technicians,260,0.3,0.212,1.63,21.92,45590,0.8
+Arkansas,Forensic Science Technicians,160,2.6,0.128,1.14,20.9,43470,2.5
+Arkansas,"Life, Physical, and Social Science Technicians, All Other",480,8.9,0.395,0.9,23.53,48940,2.1
+Arkansas,Occupational Health and Safety Specialists,650,3.5,0.53,0.84,31.78,66100,3.5
+Arkansas,Occupational Health and Safety Technicians,220,15.3,0.182,1.3,24.43,50810,5.5
+Arkansas,Community and Social Service Occupations,14610,2.6,12.003,0.79,20.68,43010,1.3
+Arkansas,"Educational, Guidance, and Career Counselors and Advisors",2000,3.6,1.646,0.82,25.98,54040,1.4
+Arkansas,Marriage and Family Therapists,110,48.8,0.089,0.22,21.98,45720,10.2
+Arkansas,Rehabilitation Counselors,580,16.9,0.48,0.65,17.52,36440,4.3
+Arkansas,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1800,8.6,1.481,0.77,26.57,55260,2.1
+Arkansas,"Counselors, All Other",90,7.5,0.076,0.44,*,*,*
+Arkansas,"Child, Family, and School Social Workers",1440,5.9,1.179,0.53,19.53,40620,3.7
+Arkansas,Healthcare Social Workers,1280,5.2,1.049,0.88,24.27,50480,2.3
+Arkansas,Mental Health and Substance Abuse Social Workers,1070,11.4,0.88,1.1,18,37440,3
+Arkansas,"Social Workers, All Other",570,1.1,0.465,1.17,23.91,49730,4.3
+Arkansas,Health Education Specialists,220,17.3,0.184,0.46,22.22,46210,2.9
+Arkansas,Probation Officers and Correctional Treatment Specialists,890,1.3,0.734,1.22,19.12,39780,0.8
+Arkansas,Social and Human Service Assistants,3560,6.2,2.925,1.06,14.85,30880,1.4
+Arkansas,Community Health Workers,310,15.6,0.251,0.63,21.23,44150,2.1
+Arkansas,"Community and Social Service Specialists, All Other",290,15.1,0.238,0.36,16.48,34280,2.7
+Arkansas,Clergy,360,8.4,0.295,0.81,24.74,51470,4.2
+Arkansas,Legal Occupations,6310,3.5,5.185,0.66,34.96,72710,4
+Arkansas,Lawyers,3160,7.3,2.598,0.58,45.19,94000,5.2
+Arkansas,Judicial Law Clerks,50,12.7,0.039,0.34,29.41,61170,6.6
+Arkansas,"Administrative Law Judges, Adjudicators, and Hearing Officers",230,5.7,0.19,1.94,34.71,72200,2
+Arkansas,"Judges, Magistrate Judges, and Magistrates",230,2.5,0.192,0.98,*,*,*
+Arkansas,Paralegals and Legal Assistants,2060,9.9,1.689,0.75,19.62,40820,2.8
+Arkansas,"Title Examiners, Abstractors, and Searchers",460,20.9,0.374,1.04,18.43,38330,3
+Arkansas,"Legal Support Workers, All Other",110,7.3,0.089,0.29,26.09,54270,3
+Arkansas,Educational Instruction and Library Occupations,77710,2.8,63.835,1.06,22.4,46590,3.8
+Arkansas,"Business Teachers, Postsecondary",590,11.2,0.487,0.85,*,76730,12.1
+Arkansas,"Computer Science Teachers, Postsecondary",340,13.1,0.276,1.27,*,76250,7
+Arkansas,"Mathematical Science Teachers, Postsecondary",590,11.9,0.482,1.38,*,59510,3.7
+Arkansas,"Engineering Teachers, Postsecondary",290,9.1,0.238,0.97,*,92510,8.4
+Arkansas,"Agricultural Sciences Teachers, Postsecondary",200,21.5,0.167,2.6,*,73740,5.8
+Arkansas,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",80,18.1,0.069,0.92,*,71340,4.2
+Arkansas,"Chemistry Teachers, Postsecondary",190,10.1,0.159,1.09,*,72230,3.3
+Arkansas,"Physics Teachers, Postsecondary",90,8.2,0.074,0.79,*,78400,3.9
+Arkansas,"Economics Teachers, Postsecondary",80,12,0.065,0.72,*,98430,3.4
+Arkansas,"Political Science Teachers, Postsecondary",90,11.5,0.077,0.72,*,68830,6.9
+Arkansas,"Psychology Teachers, Postsecondary",240,15.5,0.2,0.79,*,62800,2.6
+Arkansas,"Sociology Teachers, Postsecondary",90,10.6,0.072,0.76,*,67230,4.6
+Arkansas,"Social Sciences Teachers, Postsecondary, All Other",250,25.6,0.206,1.8,*,54800,7.9
+Arkansas,"Health Specialties Teachers, Postsecondary",660,11.8,0.542,0.39,*,66400,6
+Arkansas,"Nursing Instructors and Teachers, Postsecondary",650,8.5,0.536,1.32,*,55710,3.1
+Arkansas,"Education Teachers, Postsecondary",520,10.6,0.43,1.03,*,55470,5.8
+Arkansas,"Criminal Justice and Law Enforcement Teachers, Postsecondary",80,15.3,0.069,0.72,*,50830,4.1
+Arkansas,"Law Teachers, Postsecondary",80,9.6,0.069,0.63,*,97520,4.8
+Arkansas,"Social Work Teachers, Postsecondary",250,14.6,0.205,2.21,*,64340,6.6
+Arkansas,"Art, Drama, and Music Teachers, Postsecondary",690,8.7,0.566,0.88,*,61040,4.2
+Arkansas,"Communications Teachers, Postsecondary",410,14.9,0.339,1.71,*,57160,5.2
+Arkansas,"English Language and Literature Teachers, Postsecondary",640,14.4,0.53,1.15,*,54570,4.3
+Arkansas,"Foreign Language and Literature Teachers, Postsecondary",160,7.8,0.135,0.8,*,54740,3.9
+Arkansas,"History Teachers, Postsecondary",280,15.4,0.23,1.61,*,62480,5
+Arkansas,"Philosophy and Religion Teachers, Postsecondary",60,15.1,0.052,0.32,*,68760,3.3
+Arkansas,"Recreation and Fitness Studies Teachers, Postsecondary",110,14,0.093,0.86,*,59780,8.3
+Arkansas,"Career/Technical Education Teachers, Postsecondary",820,8.1,0.676,0.88,22.63,47070,5.1
+Arkansas,"Postsecondary Teachers, All Other",810,15.7,0.669,0.49,*,61890,5.1
+Arkansas,"Preschool Teachers, Except Special Education",3690,11.3,3.033,1.03,15.33,31890,3.3
+Arkansas,"Kindergarten Teachers, Except Special Education",1490,1.8,1.227,1.45,*,48100,1.3
+Arkansas,"Elementary School Teachers, Except Special Education",13010,2.1,10.687,1.1,*,48800,1.3
+Arkansas,"Middle School Teachers, Except Special and Career/Technical Education",6450,3.4,5.302,1.25,*,50720,1.2
+Arkansas,"Career/Technical Education Teachers, Middle School",60,5.7,0.048,0.6,*,51300,2.3
+Arkansas,"Secondary School Teachers, Except Special and Career/Technical Education",11940,3.2,9.807,1.39,*,51870,1.2
+Arkansas,"Career/Technical Education Teachers, Secondary School",1150,3.5,0.945,1.86,*,54100,0.8
+Arkansas,"Special Education Teachers, Preschool",390,18.4,0.318,2.09,*,47050,2.9
+Arkansas,"Special Education Teachers, Kindergarten and Elementary School",1290,2.1,1.063,0.81,*,49880,1.1
+Arkansas,"Special Education Teachers, Middle School",900,6.2,0.742,1.27,*,50760,1
+Arkansas,"Special Education Teachers, Secondary School",1200,5.5,0.986,1.01,*,50080,1.4
+Arkansas,"Special Education Teachers, All Other",130,35.3,0.109,0.45,*,36140,4
+Arkansas,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",250,12.3,0.208,0.59,20.94,43550,3.4
+Arkansas,Self-Enrichment Teachers,930,17.1,0.764,0.44,16.29,33890,5.4
+Arkansas,"Substitute Teachers, Short-Term",4500,37.9,3.698,0.93,12.75,26520,3.5
+Arkansas,"Tutors and Teachers and Instructors, All Other",1370,12.6,1.129,0.52,*,36870,7.2
+Arkansas,Archivists,50,5.9,0.045,1,29.96,62310,9.2
+Arkansas,Curators,90,26.3,0.071,0.81,24.36,50680,2.8
+Arkansas,Museum Technicians and Conservators,60,27.7,0.047,0.52,18.12,37690,3.1
+Arkansas,Librarians and Media Collections Specialists,1430,4.9,1.171,1.27,24.94,51870,1.8
+Arkansas,Library Technicians,500,6.4,0.414,0.69,12.41,25820,3.3
+Arkansas,Farm and Home Management Educators,200,1.9,0.163,2.74,25.44,52900,0.7
+Arkansas,Instructional Coordinators,1560,4.8,1.28,1.06,28.71,59720,1.6
+Arkansas,"Teaching Assistants, Postsecondary",2690,6,2.209,2.36,*,21240,7
+Arkansas,"Teaching Assistants, Except Postsecondary",11060,2.7,9.085,0.99,*,21390,0.9
+Arkansas,"Educational Instruction and Library Workers, All Other",180,15.3,0.144,0.16,23.31,48470,5.3
+Arkansas,"Arts, Design, Entertainment, Sports, and Media Occupations",9060,8.7,7.443,0.54,23.62,49120,3.1
+Arkansas,Art Directors,110,12.9,0.09,0.31,32.67,67960,3.7
+Arkansas,Special Effects Artists and Animators,70,18.7,0.06,0.3,29.06,60450,7
+Arkansas,Commercial and Industrial Designers,120,9.4,0.095,0.43,35.25,73320,16.9
+Arkansas,Fashion Designers,50,15.3,0.041,0.27,29.51,61380,7.3
+Arkansas,Floral Designers,290,7.5,0.238,0.84,12.9,26830,4.5
+Arkansas,Graphic Designers,930,6.8,0.767,0.52,21.52,44750,3.5
+Arkansas,Interior Designers,330,24.4,0.272,0.66,33.66,70020,6.7
+Arkansas,Merchandise Displayers and Window Trimmers,**,**,**,**,21.24,44170,10.6
+Arkansas,Set and Exhibit Designers,40,35.4,0.032,0.39,19.17,39870,11.9
+Arkansas,"Designers, All Other",30,33.8,0.025,0.35,25.97,54020,17.6
+Arkansas,Producers and Directors,470,8,0.385,0.44,28.42,59120,5.1
+Arkansas,Athletes and Sports Competitors,160,30.6,0.129,1.67,*,*,*
+Arkansas,Coaches and Scouts,1220,12.1,1,0.61,*,52840,11.1
+Arkansas,"Umpires, Referees, and Other Sports Officials",**,**,**,**,*,27700,17.2
+Arkansas,Broadcast Announcers and Radio Disc Jockeys,290,19.1,0.239,1.2,17.96,37350,10.3
+Arkansas,"News Analysts, Reporters, and Journalists",300,13.6,0.248,0.83,17.89,37210,10.3
+Arkansas,Public Relations Specialists,1080,10,0.889,0.53,29.62,61610,4
+Arkansas,Editors,340,8.5,0.277,0.42,21.65,45040,3
+Arkansas,Technical Writers,190,18.3,0.16,0.46,30.22,62870,5.2
+Arkansas,Writers and Authors,130,12.2,0.107,0.34,21.35,44400,4
+Arkansas,Interpreters and Translators,240,8.3,0.201,0.5,20.77,43190,7.6
+Arkansas,Court Reporters and Simultaneous Captioners,150,13.5,0.119,1.21,23.45,48780,13.5
+Arkansas,"Media and Communication Workers, All Other",**,**,**,**,23.36,48590,11
+Arkansas,Audio and Video Technicians,200,18,0.161,0.32,16.63,34580,3.7
+Arkansas,Broadcast Technicians,240,14.6,0.197,1.01,19.69,40960,5.7
+Arkansas,Photographers,310,14.5,0.254,0.74,17.86,37140,8.2
+Arkansas,"Camera Operators, Television, Video, and Film",90,20.7,0.077,0.53,25.95,53970,7.9
+Arkansas,Film and Video Editors,50,21.9,0.039,0.21,25.72,53490,10
+Arkansas,Healthcare Practitioners and Technical Occupations,80540,2.6,66.155,1.12,33.25,69160,1.5
+Arkansas,Chiropractors,240,14.2,0.194,0.81,26.76,55650,13.6
+Arkansas,"Dentists, General",830,19.9,0.682,0.9,80.97,168420,9.3
+Arkansas,Orthodontists,**,**,**,**,#,#,23.1
+Arkansas,"Dentists, All Other Specialists",30,14.5,0.025,0.69,76.91,159960,14.3
+Arkansas,Dietitians and Nutritionists,550,5.8,0.452,0.98,28.58,59450,1.9
+Arkansas,Optometrists,330,16.6,0.268,1,46.16,96000,8.1
+Arkansas,Pharmacists,3130,4.7,2.568,1.21,57.7,120020,1.4
+Arkansas,Physician Assistants,510,12,0.42,0.51,47.1,97970,4.7
+Arkansas,Podiatrists,60,15.5,0.052,0.78,*,*,*
+Arkansas,Occupational Therapists,1200,6.5,0.987,1.09,41.31,85920,2.5
+Arkansas,Physical Therapists,1990,6.9,1.632,1.03,41.21,85710,1.9
+Arkansas,Radiation Therapists,150,25.3,0.121,1,36.18,75260,1.8
+Arkansas,Recreational Therapists,40,12.8,0.031,0.24,24.55,51060,3.2
+Arkansas,Respiratory Therapists,**,**,**,**,27.22,56630,2.1
+Arkansas,Speech-Language Pathologists,1990,8.7,1.631,1.55,35.75,74360,3
+Arkansas,"Therapists, All Other",80,39.4,0.063,0.76,22.51,46810,18.2
+Arkansas,Veterinarians,450,16.9,0.369,0.73,47.14,98050,6.2
+Arkansas,Registered Nurses,25210,3.7,20.705,1.02,29.49,61330,1.3
+Arkansas,Nurse Anesthetists,360,47.3,0.293,0.99,87.96,182960,12.3
+Arkansas,Nurse Practitioners,**,**,**,**,50.88,105840,1.6
+Arkansas,Audiologists,200,38.8,0.163,1.77,*,*,*
+Arkansas,Anesthesiologists,**,**,**,**,116.21,241710,12
+Arkansas,Family Medicine Physicians,1310,8.6,1.073,1.44,105.23,218870,5.4
+Arkansas,General Internal Medicine Physicians,130,24,0.107,0.35,70.62,146900,12.7
+Arkansas,Obstetricians and Gynecologists,80,41.9,0.064,0.5,97.62,203050,6.5
+Arkansas,"Pediatricians, General",100,29.8,0.083,0.41,96.77,201280,11.6
+Arkansas,Psychiatrists,160,24,0.127,0.73,86.93,180820,11.4
+Arkansas,"Physicians, All Other; and Ophthalmologists, Except Pediatric",3170,6.3,2.604,0.98,83.87,174440,13.4
+Arkansas,"Surgeons, Except Ophthalmologists",170,29.8,0.138,0.56,119.41,248380,13.1
+Arkansas,Dental Hygienists,1550,8.3,1.274,0.84,32.41,67410,6.8
+Arkansas,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",240,17.9,0.194,0.78,*,*,*
+Arkansas,Clinical Laboratory Technologists and Technicians,2390,4.8,1.96,0.88,21.2,44100,1.8
+Arkansas,Cardiovascular Technologists and Technicians,540,7.7,0.443,1.16,25.12,52260,2.8
+Arkansas,Diagnostic Medical Sonographers,420,8.6,0.346,0.7,31.75,66030,1.5
+Arkansas,Nuclear Medicine Technologists,210,16.2,0.172,1.39,33.62,69920,3.5
+Arkansas,Radiologic Technologists and Technicians,2300,6.6,1.888,1.34,23.93,49770,1.8
+Arkansas,Magnetic Resonance Imaging Technologists,330,13.7,0.267,1.04,28.74,59780,1.9
+Arkansas,Emergency Medical Technicians and Paramedics,1740,13.3,1.429,0.81,16.66,34660,5.8
+Arkansas,Dietetic Technicians,100,6.6,0.084,0.42,12.89,26810,3.7
+Arkansas,Pharmacy Technicians,4880,6.2,4.005,1.41,14.87,30930,1.2
+Arkansas,Psychiatric Technicians,690,8.4,0.568,1.06,14.08,29290,2.4
+Arkansas,Surgical Technologists,1310,8.2,1.079,1.45,19.95,41510,1.8
+Arkansas,Veterinary Technologists and Technicians,450,28.6,0.366,0.49,15.21,31630,4.9
+Arkansas,Ophthalmic Medical Technicians,440,19.5,0.362,0.91,15.89,33060,3
+Arkansas,Licensed Practical and Licensed Vocational Nurses,11810,3,9.699,2.04,19.59,40760,0.8
+Arkansas,"Opticians, Dispensing",670,9.3,0.551,1.12,18.3,38070,3.2
+Arkansas,Orthotists and Prosthetists,80,18.3,0.062,0.93,28.91,60120,6.3
+Arkansas,Hearing Aid Specialists,**,**,**,**,21.65,45030,9.4
+Arkansas,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",2840,6.5,2.331,1.03,18.96,39440,2.3
+Arkansas,Athletic Trainers,190,11.6,0.153,0.79,*,49930,2.7
+Arkansas,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",530,29.3,0.432,1.17,19,39510,5.6
+Arkansas,Healthcare Support Occupations,51850,2,42.593,0.96,13.02,27080,0.8
+Arkansas,Home Health and Personal Care Aides,21080,3.7,17.312,0.8,10.83,22520,0.7
+Arkansas,Nursing Assistants,17390,3.4,14.286,1.48,12.48,25950,0.9
+Arkansas,Orderlies,520,35.1,0.423,1.32,12.97,26980,7
+Arkansas,Psychiatric Aides,280,6.2,0.232,0.62,11.95,24850,5.8
+Arkansas,Occupational Therapy Assistants,320,15.8,0.266,0.87,29.8,61990,2.1
+Arkansas,Physical Therapist Assistants,1370,9.8,1.126,1.71,28.45,59180,2
+Arkansas,Physical Therapist Aides,300,22,0.246,0.73,12.36,25710,3.1
+Arkansas,Massage Therapists,430,17.6,0.354,0.48,20.06,41720,5.5
+Arkansas,Dental Assistants,2780,7,2.285,0.95,17.02,35400,2
+Arkansas,Medical Assistants,3850,4.7,3.163,0.65,14.88,30950,1.3
+Arkansas,Medical Equipment Preparers,310,12.7,0.252,0.65,15.71,32680,1.7
+Arkansas,Medical Transcriptionists,480,13,0.397,1.05,15.82,32910,2.6
+Arkansas,Pharmacy Aides,220,30.9,0.178,0.7,13.12,27290,5.4
+Arkansas,Veterinary Assistants and Laboratory Animal Caretakers,950,13.5,0.782,1.18,13.74,28580,2.7
+Arkansas,Phlebotomists,850,9,0.701,0.8,14.58,30330,1.6
+Arkansas,"Healthcare Support Workers, All Other",710,14.6,0.579,0.91,18.73,38960,5.6
+Arkansas,Protective Service Occupations,27320,3,22.44,0.94,18.42,38310,2
+Arkansas,First-Line Supervisors of Correctional Officers,520,6.8,0.427,1.35,22.74,47300,1.7
+Arkansas,First-Line Supervisors of Police and Detectives,1740,3.8,1.43,1.73,27.38,56960,1.8
+Arkansas,First-Line Supervisors of Firefighting and Prevention Workers,1040,4.6,0.858,1.81,26.16,54410,3.2
+Arkansas,"Miscellaneous First-Line Supervisors, Protective Service Workers",690,6.1,0.568,1.01,25.96,54000,8.3
+Arkansas,Firefighters,2410,7,1.978,0.9,17.66,36730,4.5
+Arkansas,Forest Fire Inspectors and Prevention Specialists,200,6.6,0.161,10.95,17.73,36870,3.7
+Arkansas,Bailiffs,40,9.8,0.03,0.22,16.3,33910,3.1
+Arkansas,Correctional Officers and Jailers,5610,3.3,4.606,1.6,16.86,35070,1.5
+Arkansas,Detectives and Criminal Investigators,460,4.7,0.378,0.53,29.91,62210,5.2
+Arkansas,Police and Sheriff's Patrol Officers,6100,3.7,5.007,1.11,19.5,40570,2.4
+Arkansas,Animal Control Workers,170,11.3,0.136,1.66,14.1,29320,1.6
+Arkansas,Private Detectives and Investigators,160,22.6,0.13,0.55,26.79,55720,7.5
+Arkansas,Security Guards,6420,9.2,5.274,0.69,14.23,29590,3.1
+Arkansas,Crossing Guards and Flaggers,100,6.4,0.085,0.15,10.78,22430,2.5
+Arkansas,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",560,16.7,0.459,0.47,10.08,20970,1.9
+Arkansas,Transportation Security Screeners,160,1.1,0.127,0.4,18.94,39400,1.9
+Arkansas,"School Bus Monitors and Protective Service Workers, All Other",700,8.6,0.576,0.58,15.26,31750,2.2
+Arkansas,Food Preparation and Serving Related Occupations,110010,1.2,90.36,0.98,10.84,22550,0.6
+Arkansas,Chefs and Head Cooks,330,12,0.272,0.31,23.09,48030,4.8
+Arkansas,First-Line Supervisors of Food Preparation and Serving Workers,12380,3.4,10.172,1.48,14.52,30210,1.6
+Arkansas,"Cooks, Fast Food",3960,18.1,3.253,0.91,10.54,21920,3.3
+Arkansas,"Cooks, Institution and Cafeteria",7010,4.4,5.756,2.1,10.7,22250,1.1
+Arkansas,"Cooks, Restaurant",10970,4.5,9.007,0.94,11.34,23590,0.9
+Arkansas,"Cooks, Short Order",430,34.5,0.354,0.34,11.52,23970,4.3
+Arkansas,"Cooks, All Other",160,37.9,0.132,1,*,*,*
+Arkansas,Food Preparation Workers,3930,10.4,3.231,0.55,11.09,23070,1.1
+Arkansas,Bartenders,2010,11.9,1.651,0.37,10.19,21200,2.2
+Arkansas,Fast Food and Counter Workers,40720,4,33.448,1.23,9.99,20780,0.7
+Arkansas,Waiters and Waitresses,19100,4,15.692,0.89,10.08,20960,1.8
+Arkansas,"Food Servers, Nonrestaurant",960,14.8,0.787,0.42,10.42,21670,1.6
+Arkansas,Dining Room and Cafeteria Attendants and Bartender Helpers,2230,15.2,1.833,0.56,10.31,21440,1.5
+Arkansas,Dishwashers,3330,11.5,2.737,0.78,10.23,21280,1.1
+Arkansas,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",2190,9.8,1.796,0.62,10.06,20920,1.2
+Arkansas,"Food Preparation and Serving Related Workers, All Other",280,29.6,0.234,0.48,10.89,22660,3.6
+Arkansas,Building and Grounds Cleaning and Maintenance Occupations,33930,2.9,27.871,0.92,12.46,25930,1.3
+Arkansas,First-Line Supervisors of Housekeeping and Janitorial Workers,1340,9.1,1.1,1.04,15.04,31280,1.7
+Arkansas,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1100,11.7,0.904,1.28,20.92,43520,2.4
+Arkansas,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",17140,4.8,14.079,0.96,12.01,24980,2.4
+Arkansas,Maids and Housekeeping Cleaners,6990,5,5.738,0.91,10.53,21910,1.5
+Arkansas,"Building Cleaning Workers, All Other",120,41.5,0.1,0.81,13.11,27280,4.4
+Arkansas,Pest Control Workers,1040,9.7,0.851,1.57,17.01,35380,4.6
+Arkansas,Landscaping and Groundskeeping Workers,5550,4.2,4.558,0.73,12.69,26400,1.2
+Arkansas,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",330,43.2,0.269,1.54,15.21,31630,2.9
+Arkansas,Tree Trimmers and Pruners,230,16.4,0.193,0.6,17.34,36060,5.6
+Arkansas,"Grounds Maintenance Workers, All Other",100,16.7,0.079,0.81,17.14,35650,2.4
+Arkansas,Personal Care and Service Occupations,19930,4.6,16.367,0.73,12.41,25810,1.3
+Arkansas,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1450,6.6,1.192,0.8,16.89,35130,2.1
+Arkansas,Animal Trainers,110,21.1,0.09,0.8,18.28,38030,11.3
+Arkansas,Animal Caretakers,1510,9.1,1.244,0.86,12.01,24990,1.8
+Arkansas,"Ushers, Lobby Attendants, and Ticket Takers",1040,29.6,0.853,0.91,10.22,21260,4.4
+Arkansas,Amusement and Recreation Attendants,1750,12.7,1.44,0.63,9.86,20500,1.2
+Arkansas,"Locker Room, Coatroom, and Dressing Room Attendants",110,24.3,0.094,0.87,12.78,26590,10
+Arkansas,Embalmers,100,38.7,0.086,3.23,19.89,41380,15.8
+Arkansas,Funeral Attendants,310,27,0.253,1.08,11.49,23910,5.5
+Arkansas,"Morticians, Undertakers, and Funeral Arrangers",420,15.9,0.342,1.97,21.52,44750,5.7
+Arkansas,Barbers,**,**,**,**,14.35,29850,6.4
+Arkansas,"Hairdressers, Hairstylists, and Cosmetologists",2040,10.7,1.676,0.64,11.9,24760,3.6
+Arkansas,Manicurists and Pedicurists,120,40.8,0.096,0.13,15.78,32820,20.2
+Arkansas,Skincare Specialists,190,37.7,0.16,0.41,14.19,29510,11.4
+Arkansas,Baggage Porters and Bellhops,140,26.4,0.114,0.42,11.02,22920,6.1
+Arkansas,Tour and Travel Guides,180,30.7,0.15,0.45,16.31,33930,4.5
+Arkansas,Childcare Workers,6000,11.2,4.926,1.29,10.52,21870,1.4
+Arkansas,Exercise Trainers and Group Fitness Instructors,1280,18.3,1.055,0.48,18.01,37450,5.9
+Arkansas,Recreation Workers,1750,5.6,1.441,0.59,11.98,24920,2.3
+Arkansas,Residential Advisors,1010,12.9,0.828,1.13,13.06,27160,4.6
+Arkansas,"Crematory Operators and Personal Care and Service Workers, All Other",170,19.1,0.14,0.34,10.54,21920,4.5
+Arkansas,Sales and Related Occupations,121600,1.8,99.885,1.02,17.27,35930,1
+Arkansas,First-Line Supervisors of Retail Sales Workers,12610,3.4,10.356,1.3,18.56,38590,1.1
+Arkansas,First-Line Supervisors of Non-Retail Sales Workers,2490,4.8,2.047,1.21,36.65,76240,3
+Arkansas,Cashiers,29120,5.5,23.92,0.98,10.73,22310,0.6
+Arkansas,Counter and Rental Clerks,4600,5.6,3.779,1.35,13.19,27430,1.8
+Arkansas,Parts Salespersons,3400,7.2,2.789,1.6,14.45,30050,1.9
+Arkansas,Retail Salespersons,38330,3.7,31.487,1.07,12.73,26480,1.3
+Arkansas,Advertising Sales Agents,1010,9.1,0.827,0.94,22.26,46300,8.5
+Arkansas,Insurance Sales Agents,3640,6.6,2.993,1.07,30.09,62580,6.8
+Arkansas,"Securities, Commodities, and Financial Services Sales Agents",1610,11.4,1.326,0.44,33.39,69440,7.7
+Arkansas,Travel Agents,210,13.2,0.173,0.38,21.97,45710,11.6
+Arkansas,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",4870,6.5,3.999,0.56,26.83,55810,3.4
+Arkansas,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",1900,10.6,1.564,0.75,33.6,69890,5
+Arkansas,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",12270,3.3,10.082,1.1,31.65,65830,2.5
+Arkansas,Demonstrators and Product Promoters,**,**,**,**,13.69,28470,4.3
+Arkansas,Real Estate Brokers,290,25,0.237,0.82,29.81,62000,17
+Arkansas,Real Estate Sales Agents,830,12.9,0.684,0.62,24.31,50570,11.5
+Arkansas,Sales Engineers,230,22.7,0.187,0.43,47.85,99530,5.3
+Arkansas,Telemarketers,1950,36.3,1.602,1.75,11.27,23430,2.9
+Arkansas,Office and Administrative Support Occupations,149010,1.1,122.402,0.92,16.87,35090,0.4
+Arkansas,First-Line Supervisors of Office and Administrative Support Workers,13670,1.9,11.227,1.11,23.46,48800,1.2
+Arkansas,"Switchboard Operators, Including Answering Service",550,23.2,0.453,0.98,12.79,26600,2.6
+Arkansas,Bill and Account Collectors,2260,12,1.852,1.15,15.3,31830,3.1
+Arkansas,Billing and Posting Clerks,3670,5.6,3.015,0.95,16.49,34290,1.2
+Arkansas,"Bookkeeping, Accounting, and Auditing Clerks",11890,3.2,9.77,0.95,17.68,36780,0.8
+Arkansas,Payroll and Timekeeping Clerks,1040,6.8,0.853,0.88,19.44,40440,2.1
+Arkansas,Procurement Clerks,790,7.2,0.653,1.45,19.14,39810,1.6
+Arkansas,Tellers,5520,5,4.534,1.51,12.74,26500,1.3
+Arkansas,"Financial Clerks, All Other",270,7.7,0.221,1.06,20.61,42870,10.3
+Arkansas,Brokerage Clerks,140,11.6,0.111,0.34,24.9,51790,2.7
+Arkansas,"Court, Municipal, and License Clerks",1000,5,0.82,0.78,15.35,31920,1
+Arkansas,"Credit Authorizers, Checkers, and Clerks",120,21.4,0.1,0.55,18.31,38080,3
+Arkansas,Customer Service Representatives,16000,3.3,13.143,0.66,16.03,33330,1
+Arkansas,"Eligibility Interviewers, Government Programs",1620,3.5,1.33,1.4,18.4,38270,1.2
+Arkansas,File Clerks,500,16.5,0.409,0.59,14.26,29650,3.4
+Arkansas,"Hotel, Motel, and Resort Desk Clerks",2510,7.9,2.064,1.13,10.36,21540,1.5
+Arkansas,"Interviewers, Except Eligibility and Loan",2860,4.6,2.348,1.83,14.41,29970,2
+Arkansas,"Library Assistants, Clerical",600,19.4,0.493,0.84,11.42,23760,3
+Arkansas,Loan Interviewers and Clerks,2090,7.5,1.713,1.21,18.43,38330,1.2
+Arkansas,New Accounts Clerks,560,16.9,0.46,1.56,15.66,32570,2.1
+Arkansas,Order Clerks,520,9.7,0.426,0.46,16.2,33700,3.5
+Arkansas,"Human Resources Assistants, Except Payroll and Timekeeping",800,4.8,0.661,0.83,18.22,37900,1
+Arkansas,Receptionists and Information Clerks,10790,3.3,8.864,1.23,13.52,28130,0.9
+Arkansas,Reservation and Transportation Ticket Agents and Travel Clerks,210,11.3,0.175,0.21,23.72,49330,3.2
+Arkansas,"Information and Record Clerks, All Other",1450,6,1.191,1.14,16.58,34490,3.7
+Arkansas,Cargo and Freight Agents,820,10.9,0.675,1.03,24.83,51640,5
+Arkansas,Couriers and Messengers,440,15.9,0.36,0.71,13.1,27240,3.4
+Arkansas,Public Safety Telecommunicators,960,6.2,0.787,1.21,14.79,30760,1.4
+Arkansas,"Dispatchers, Except Police, Fire, and Ambulance",2140,13,1.76,1.3,17.86,37150,2.9
+Arkansas,"Meter Readers, Utilities",**,**,**,**,14.74,30660,2.4
+Arkansas,Postal Service Clerks,1090,0,0.899,1.63,22.47,46740,0.5
+Arkansas,Postal Service Mail Carriers,3210,0,2.638,1.14,24.56,51080,0.7
+Arkansas,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",530,0,0.432,0.62,24.43,50820,2.2
+Arkansas,"Production, Planning, and Expediting Clerks",2810,5.1,2.31,0.92,23.7,49290,1.9
+Arkansas,"Shipping, Receiving, and Inventory Clerks",5060,4.5,4.159,0.87,16.12,33530,1
+Arkansas,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",930,7.1,0.763,1.84,16.17,33640,3.1
+Arkansas,Executive Secretaries and Executive Administrative Assistants,1920,5.8,1.581,0.43,25.01,52010,1.3
+Arkansas,Legal Secretaries and Administrative Assistants,840,20.2,0.69,0.6,17.68,36780,4.4
+Arkansas,Medical Secretaries and Administrative Assistants,2420,9.8,1.987,0.48,16.72,34790,2.3
+Arkansas,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",12060,2.7,9.906,0.71,14.99,31180,0.8
+Arkansas,Data Entry Keyers,850,8.7,0.698,0.64,14.68,30530,1.8
+Arkansas,Word Processors and Typists,**,**,**,**,17.31,36010,4.4
+Arkansas,Insurance Claims and Policy Processing Clerks,1550,15.7,1.273,0.73,18.71,38910,2.2
+Arkansas,"Mail Clerks and Mail Machine Operators, Except Postal Service",360,9.5,0.299,0.53,14.47,30100,2.1
+Arkansas,"Office Clerks, General",26540,2.8,21.799,1.08,15.12,31450,0.7
+Arkansas,"Office Machine Operators, Except Computer",210,31,0.174,0.56,13.89,28890,6.2
+Arkansas,"Office and Administrative Support Workers, All Other",1990,7.5,1.633,1.27,14.49,30130,1.4
+Arkansas,"Farming, Fishing, and Forestry Occupations",5830,5.7,4.79,1.45,16.41,34140,2.3
+Arkansas,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",300,20.4,0.247,1.61,25.38,52800,6.2
+Arkansas,"Graders and Sorters, Agricultural Products",1240,4.3,1.015,4.34,13.44,27960,1.5
+Arkansas,Agricultural Equipment Operators,510,17.4,0.416,2.26,14.42,29990,6.5
+Arkansas,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",460,27.5,0.377,0.19,10.67,22190,2
+Arkansas,"Farmworkers, Farm, Ranch, and Aquacultural Animals",810,12.9,0.664,2.66,13.33,27730,5.2
+Arkansas,"Agricultural Workers, All Other",50,22,0.041,0.91,15.1,31410,7.4
+Arkansas,Forest and Conservation Workers,**,**,**,**,15.65,32540,17.8
+Arkansas,Fallers,**,**,**,**,25.07,52140,13.1
+Arkansas,Logging Equipment Operators,1380,11.6,1.131,6.38,20.26,42130,3.8
+Arkansas,Log Graders and Scalers,230,10.1,0.188,8.36,19.01,39550,2.7
+Arkansas,"Logging Workers, All Other",560,38.1,0.464,18.19,16.64,34600,3.4
+Arkansas,Construction and Extraction Occupations,44900,1.9,36.879,0.87,19.06,39630,1
+Arkansas,First-Line Supervisors of Construction Trades and Extraction Workers,4890,3.5,4.019,0.94,26.61,55350,1.4
+Arkansas,Brickmasons and Blockmasons,400,19.3,0.325,0.79,21.12,43930,3.1
+Arkansas,Carpenters,3660,8,3.004,0.6,18.07,37580,2.4
+Arkansas,Carpet Installers,40,41.1,0.036,0.2,21.38,44470,5
+Arkansas,Floor Sanders and Finishers,220,42.4,0.179,5.33,17.12,35600,9.1
+Arkansas,Tile and Stone Setters,220,25,0.182,0.66,16.32,33940,8.9
+Arkansas,Cement Masons and Concrete Finishers,1950,8.6,1.599,1.2,17.76,36950,1.5
+Arkansas,Construction Laborers,5120,5.7,4.203,0.61,14.41,29980,1.4
+Arkansas,"Paving, Surfacing, and Tamping Equipment Operators",1020,9.3,0.842,2.7,15.61,32470,1.4
+Arkansas,Operating Engineers and Other Construction Equipment Operators,3800,7.1,3.12,1.13,18.22,37900,1.6
+Arkansas,Drywall and Ceiling Tile Installers,380,19.4,0.311,0.44,18.32,38100,5.1
+Arkansas,Electricians,5770,5.7,4.738,1.01,21.24,44180,2.4
+Arkansas,Glaziers,390,18.6,0.322,0.9,16.73,34810,4.4
+Arkansas,"Insulation Workers, Floor, Ceiling, and Wall",230,20.8,0.191,0.84,19.33,40200,9
+Arkansas,"Insulation Workers, Mechanical",160,38.8,0.132,0.73,22.81,47450,7.4
+Arkansas,"Painters, Construction and Maintenance",1200,8.3,0.989,0.62,17.73,36880,3.3
+Arkansas,Paperhangers,**,**,**,**,18.5,38480,8.6
+Arkansas,Pipelayers,320,18.4,0.265,1.07,17.51,36420,2.8
+Arkansas,"Plumbers, Pipefitters, and Steamfitters",3030,12.2,2.49,0.83,21.27,44230,2.2
+Arkansas,Reinforcing Iron and Rebar Workers,**,**,**,**,21.96,45670,3.8
+Arkansas,Roofers,630,14.9,0.516,0.58,16.15,33590,3.7
+Arkansas,Sheet Metal Workers,1230,14.3,1.013,1.13,18.06,37570,2.9
+Arkansas,Structural Iron and Steel Workers,570,23,0.47,0.9,17.68,36770,5.8
+Arkansas,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",280,19.3,0.232,1.45,14.69,30560,6.3
+Arkansas,Helpers--Carpenters,240,20.8,0.195,0.87,15.42,32070,4.7
+Arkansas,Helpers--Electricians,430,32.4,0.351,0.65,13.25,27550,14.5
+Arkansas,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",80,24.8,0.062,0.84,13.5,28090,5.1
+Arkansas,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",460,25.3,0.381,0.96,14.82,30820,4.9
+Arkansas,Helpers--Roofers,50,38.8,0.04,0.66,14.11,29340,4.5
+Arkansas,"Helpers, Construction Trades, All Other",520,12.9,0.423,2.18,13.91,28940,1.7
+Arkansas,Construction and Building Inspectors,850,5.9,0.699,0.93,22.75,47310,1.9
+Arkansas,Fence Erectors,220,33.5,0.18,1.02,13.47,28020,3.7
+Arkansas,Hazardous Materials Removal Workers,150,32.5,0.124,0.41,18.8,39100,7.5
+Arkansas,Highway Maintenance Workers,3230,3.3,2.649,2.58,14.59,30350,0.8
+Arkansas,Rail-Track Laying and Maintenance Equipment Operators,160,19.7,0.131,1.19,20.15,41910,8.5
+Arkansas,Septic Tank Servicers and Sewer Pipe Cleaners,140,21.9,0.114,0.56,17.08,35540,3.8
+Arkansas,Miscellaneous Construction and Related Workers,160,14.1,0.13,0.59,15.9,33080,3.2
+Arkansas,"Derrick Operators, Oil and Gas",30,30.8,0.025,0.31,19.1,39730,3.6
+Arkansas,"Service Unit Operators, Oil and Gas",800,10.2,0.661,1.87,25.73,53510,5.4
+Arkansas,"Excavating and Loading Machine and Dragline Operators, Surface Mining",290,19.4,0.24,0.8,25.64,53320,13.7
+Arkansas,Continuous Mining Machine Operators,170,26.1,0.137,1.37,20.39,42420,5.9
+Arkansas,"Rock Splitters, Quarry",70,39.9,0.054,1.57,14.89,30980,2.9
+Arkansas,"Roustabouts, Oil and Gas",320,14.3,0.261,0.65,19.32,40180,4.8
+Arkansas,Helpers--Extraction Workers,70,35.2,0.059,0.52,18.32,38110,10.2
+Arkansas,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",430,25.3,0.351,2.07,19.98,41550,5.6
+Arkansas,"Installation, Maintenance, and Repair Occupations",58040,1.9,47.678,1.23,20.95,43580,0.8
+Arkansas,"First-Line Supervisors of Mechanics, Installers, and Repairers",6160,3,5.057,1.53,28.93,60180,1.3
+Arkansas,"Computer, Automated Teller, and Office Machine Repairers",990,12.2,0.811,1.21,16.91,35180,4.3
+Arkansas,"Radio, Cellular, and Tower Equipment Installers and Repairers",50,28.3,0.04,0.41,24.62,51220,12.9
+Arkansas,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1730,18.4,1.417,1,21.34,44390,5.9
+Arkansas,"Electric Motor, Power Tool, and Related Repairers",150,17.5,0.126,1.17,19.05,39620,4.5
+Arkansas,"Electrical and Electronics Installers and Repairers, Transportation Equipment",230,20.6,0.186,2.79,24.61,51190,10.4
+Arkansas,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",530,16.2,0.434,1.08,27.62,57450,5.1
+Arkansas,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",240,21.8,0.194,1.26,35.21,73240,2.3
+Arkansas,Audiovisual Equipment Installers and Repairers,500,34.2,0.413,2.37,15.96,33200,11.6
+Arkansas,Security and Fire Alarm Systems Installers,690,18.4,0.568,1.17,18.69,38870,2.5
+Arkansas,Aircraft Mechanics and Service Technicians,790,8.7,0.649,0.71,22.84,47510,5
+Arkansas,Automotive Body and Related Repairers,1420,7.8,1.166,1.19,20.11,41830,3.8
+Arkansas,Automotive Glass Installers and Repairers,**,**,**,**,14.92,31020,5.6
+Arkansas,Automotive Service Technicians and Mechanics,5390,8.3,4.429,0.99,18.73,38970,1.8
+Arkansas,Bus and Truck Mechanics and Diesel Engine Specialists,3670,5.8,3.016,1.66,19.62,40800,1.1
+Arkansas,Farm Equipment Mechanics and Service Technicians,750,8.7,0.62,2.51,19.93,41450,3.5
+Arkansas,"Mobile Heavy Equipment Mechanics, Except Engines",1340,10.9,1.104,1.1,22.52,46840,1.5
+Arkansas,Rail Car Repairers,210,21.5,0.172,0.98,29.55,61470,6.4
+Arkansas,Motorboat Mechanics and Service Technicians,290,16,0.237,1.52,16.27,33850,6.1
+Arkansas,Motorcycle Mechanics,240,14.7,0.197,1.85,15.79,32850,5.1
+Arkansas,Outdoor Power Equipment and Other Small Engine Mechanics,380,13,0.312,1.43,14.55,30260,5.5
+Arkansas,Recreational Vehicle Service Technicians,160,20.8,0.133,1.25,21.67,45070,5.2
+Arkansas,Tire Repairers and Changers,1230,15.5,1.011,1.34,13.84,28800,3.8
+Arkansas,Mechanical Door Repairers,530,23.1,0.434,2.77,15.82,32910,4.4
+Arkansas,"Control and Valve Installers and Repairers, Except Mechanical Door",440,17.7,0.36,1.01,29.85,62100,4.3
+Arkansas,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",2810,10.1,2.306,0.99,19.46,40470,2
+Arkansas,Home Appliance Repairers,140,22.2,0.114,0.54,15.21,31630,5.6
+Arkansas,Industrial Machinery Mechanics,6900,3.8,5.665,2.15,23.37,48620,1.9
+Arkansas,"Maintenance Workers, Machinery",890,13,0.728,1.47,20.7,43050,2.7
+Arkansas,Millwrights,820,18.6,0.671,2.08,23.73,49360,3.3
+Arkansas,Electrical Power-Line Installers and Repairers,2140,7.8,1.755,2.31,31.45,65420,2.9
+Arkansas,Telecommunications Line Installers and Repairers,1140,18.4,0.937,1.14,27.3,56790,7.1
+Arkansas,Medical Equipment Repairers,420,15.4,0.348,1.1,21.82,45380,4.1
+Arkansas,"Precision Instrument and Equipment Repairers, All Other",160,22.4,0.135,1.87,21.71,45150,8.2
+Arkansas,"Maintenance and Repair Workers, General",11380,2.9,9.344,0.97,16.12,33540,1
+Arkansas,"Coin, Vending, and Amusement Machine Servicers and Repairers",110,24.3,0.088,0.41,17.82,37070,9.5
+Arkansas,Locksmiths and Safe Repairers,110,30.9,0.093,0.8,15.94,33150,4.9
+Arkansas,Riggers,100,16.5,0.08,0.51,17.16,35700,10.1
+Arkansas,Signal and Track Switch Repairers,60,5.8,0.052,1.11,34.84,72460,2.7
+Arkansas,"Helpers--Installation, Maintenance, and Repair Workers",1280,13.7,1.055,1.56,12.91,26850,1.9
+Arkansas,"Installation, Maintenance, and Repair Workers, All Other",1330,16.2,1.09,0.99,19.97,41540,2.2
+Arkansas,Production Occupations,117690,3,96.668,1.55,16.84,35030,1
+Arkansas,First-Line Supervisors of Production and Operating Workers,8860,2.8,7.278,1.69,26.19,54470,1.3
+Arkansas,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",150,44.3,0.121,0.41,25.39,52820,5
+Arkansas,"Coil Winders, Tapers, and Finishers",230,33.8,0.185,2.14,18,37440,1.6
+Arkansas,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",1600,18.5,1.314,0.68,16.11,33510,5.7
+Arkansas,Engine and Other Machine Assemblers,80,34.4,0.062,0.2,15.99,33270,6.9
+Arkansas,Structural Metal Fabricators and Fitters,1030,23,0.844,1.61,17.95,37340,3.2
+Arkansas,Fiberglass Laminators and Fabricators,400,17.1,0.327,2.4,15.18,31570,2.9
+Arkansas,Miscellaneous Assemblers and Fabricators,13200,7.9,10.843,1.16,14.59,30350,1.8
+Arkansas,Bakers,1120,27.9,0.923,0.73,12,24950,3.4
+Arkansas,Butchers and Meat Cutters,870,14.5,0.716,0.77,14.59,30350,1.9
+Arkansas,"Meat, Poultry, and Fish Cutters and Trimmers",8410,5.4,6.911,6.59,13.07,27180,1.2
+Arkansas,Slaughterers and Meat Packers,1160,27.7,0.952,1.9,13.71,28520,2.5
+Arkansas,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",70,3.9,0.062,0.43,15.15,31500,2.2
+Arkansas,Food Batchmakers,1950,12.4,1.602,1.48,14.28,29690,2.4
+Arkansas,Food Cooking Machine Operators and Tenders,320,14.3,0.262,1.28,14.73,30630,2.8
+Arkansas,"Food Processing Workers, All Other",4080,19.2,3.355,11.49,12.78,26570,1.6
+Arkansas,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1260,13.1,1.038,1.98,17.07,35520,5.3
+Arkansas,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",790,15.3,0.648,2.93,19.4,40340,4
+Arkansas,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2050,8.8,1.687,1.27,17.37,36130,2.8
+Arkansas,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",40,26.6,0.029,0.39,16.01,33300,4.7
+Arkansas,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",780,18.9,0.637,1.22,16.91,35170,2.9
+Arkansas,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",480,21.8,0.395,2.07,19.48,40530,2.2
+Arkansas,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",80,30.5,0.068,0.53,21.43,44580,5.3
+Arkansas,Machinists,2800,11.1,2.301,0.88,20.61,42880,4
+Arkansas,Metal-Refining Furnace Operators and Tenders,320,21.3,0.266,2.28,20.12,41850,3.3
+Arkansas,Foundry Mold and Coremakers,90,27.8,0.077,0.65,16.47,34270,7.4
+Arkansas,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1770,10.7,1.457,1.24,15.84,32940,2.1
+Arkansas,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1640,16.8,1.347,1.35,15.69,32630,2.1
+Arkansas,Tool and Die Makers,540,12.3,0.445,0.92,21.19,44070,2
+Arkansas,"Welders, Cutters, Solderers, and Brazers",5760,5.9,4.728,1.69,19.25,40050,2.6
+Arkansas,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",650,6,0.534,2.23,19.77,41120,2.3
+Arkansas,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",300,23.4,0.243,1.83,19.09,39710,4.1
+Arkansas,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",320,12.4,0.26,0.91,15.35,31920,5.9
+Arkansas,"Tool Grinders, Filers, and Sharpeners",170,10.2,0.136,3.11,19.76,41090,2.2
+Arkansas,"Metal Workers and Plastic Workers, All Other",80,31.3,0.069,0.42,15.83,32930,5
+Arkansas,Prepress Technicians and Workers,170,11.7,0.139,0.67,17.35,36090,3.6
+Arkansas,Printing Press Operators,2200,6.2,1.805,1.53,16.74,34810,3.2
+Arkansas,Print Binding and Finishing Workers,340,29.9,0.276,0.89,12.42,25830,6.3
+Arkansas,Laundry and Dry-Cleaning Workers,1950,7.7,1.605,1.13,10.61,22070,1.1
+Arkansas,"Pressers, Textile, Garment, and Related Materials",290,23.7,0.237,0.92,11.24,23370,2.3
+Arkansas,Sewing Machine Operators,980,8.7,0.804,0.89,12.07,25110,1.9
+Arkansas,"Tailors, Dressmakers, and Custom Sewers",40,30.6,0.033,0.2,14.36,29870,9.4
+Arkansas,"Textile Cutting Machine Setters, Operators, and Tenders",70,5.9,0.061,0.68,11.11,23100,2.3
+Arkansas,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",340,8.8,0.281,1.32,19.45,40450,5.7
+Arkansas,Upholsterers,130,26.2,0.104,0.52,14.07,29260,5.4
+Arkansas,"Textile, Apparel, and Furnishings Workers, All Other",50,35.3,0.041,0.33,12.17,25320,7.5
+Arkansas,Cabinetmakers and Bench Carpenters,1200,8.2,0.983,1.45,14.24,29630,3.5
+Arkansas,Furniture Finishers,60,27.1,0.049,0.44,15.28,31780,7.4
+Arkansas,"Sawing Machine Setters, Operators, and Tenders, Wood",1300,8.6,1.064,3.08,14.39,29940,2.3
+Arkansas,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1190,11.2,0.974,1.81,13.96,29030,2
+Arkansas,Power Distributors and Dispatchers,300,12.3,0.243,3.32,39.74,82670,3.1
+Arkansas,Power Plant Operators,250,13.7,0.208,0.91,34.44,71640,3.1
+Arkansas,Stationary Engineers and Boiler Operators,690,6.3,0.567,2.56,22.77,47370,2.5
+Arkansas,Water and Wastewater Treatment Plant and System Operators,2400,5,1.968,2.34,17.12,35600,1.8
+Arkansas,Chemical Plant and System Operators,220,26.4,0.184,0.94,22.59,46990,7.5
+Arkansas,Gas Plant Operators,190,24.4,0.159,1.62,32.91,68450,2.8
+Arkansas,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",290,21.9,0.241,0.88,29.57,61510,6.2
+Arkansas,"Plant and System Operators, All Other",80,14.6,0.067,0.76,24.6,51170,2.5
+Arkansas,Chemical Equipment Operators and Tenders,1240,24.4,1.021,1.72,25.98,54040,4.3
+Arkansas,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",580,35.7,0.477,1.37,17.49,36370,3.2
+Arkansas,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",550,12.1,0.453,1.99,14.63,30430,4.1
+Arkansas,"Grinding and Polishing Workers, Hand",820,22.6,0.671,3.38,15.56,32370,4.4
+Arkansas,"Mixing and Blending Machine Setters, Operators, and Tenders",1550,12.2,1.275,1.49,18.55,38570,3.6
+Arkansas,"Cutters and Trimmers, Hand",40,32.5,0.031,0.48,16.55,34410,5.8
+Arkansas,"Cutting and Slicing Machine Setters, Operators, and Tenders",900,17,0.737,1.87,16.39,34100,4.5
+Arkansas,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1410,19.2,1.162,2.38,19.01,39540,4.7
+Arkansas,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",360,20.3,0.299,2.31,19.16,39860,3.2
+Arkansas,"Inspectors, Testers, Sorters, Samplers, and Weighers",6520,4.3,5.355,1.36,16.75,34830,1.4
+Arkansas,Jewelers and Precious Stone and Metal Workers,200,24.5,0.167,1.04,19.15,39840,4.7
+Arkansas,Dental Laboratory Technicians,340,13.4,0.278,1.19,20.01,41620,4.2
+Arkansas,Medical Appliance Technicians,90,22.7,0.074,0.77,17.2,35780,5.9
+Arkansas,Ophthalmic Laboratory Technicians,230,16.3,0.189,0.95,13.83,28770,2.8
+Arkansas,Packaging and Filling Machine Operators and Tenders,4030,8.7,3.311,1.25,15.19,31590,2.5
+Arkansas,"Painting, Coating, and Decorating Workers",70,30.4,0.058,0.69,18.48,38430,10.8
+Arkansas,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",1490,7.1,1.223,1.23,16.95,35260,2.8
+Arkansas,Semiconductor Processing Technicians,**,**,**,**,20.57,42790,2.1
+Arkansas,Computer Numerically Controlled Tool Operators,1470,18,1.204,1.17,18.31,38090,2.7
+Arkansas,Computer Numerically Controlled Tool Programmers,110,24.3,0.089,0.51,29.13,60590,4.6
+Arkansas,Adhesive Bonding Machine Operators and Tenders,410,31.1,0.334,3.53,15.06,31330,3.5
+Arkansas,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",170,22.5,0.141,1.26,16.89,35130,3.7
+Arkansas,Cooling and Freezing Equipment Operators and Tenders,310,15.2,0.256,4.31,16.9,35160,3.3
+Arkansas,"Molders, Shapers, and Casters, Except Metal and Plastic",290,24.8,0.237,0.78,15.24,31710,6.9
+Arkansas,"Paper Goods Machine Setters, Operators, and Tenders",2410,10.5,1.978,2.9,19.79,41150,4.3
+Arkansas,Helpers--Production Workers,9480,22.8,7.783,3.77,13.56,28210,1.5
+Arkansas,"Production Workers, All Other",2460,9.9,2.024,1.34,13.74,28570,3.5
+Arkansas,Transportation and Material Moving Occupations,128920,2.3,105.897,1.24,16.61,34540,2.4
+Arkansas,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",4450,4,3.659,1.18,25.63,53310,2.4
+Arkansas,"Airline Pilots, Copilots, and Flight Engineers",190,28.3,0.155,0.27,*,109270,6
+Arkansas,Commercial Pilots,570,27.1,0.465,1.81,*,80350,16.2
+Arkansas,Air Traffic Controllers,110,10,0.092,0.61,41.46,86250,3
+Arkansas,Driver/Sales Workers,3040,15.9,2.497,0.82,14.19,29500,4.6
+Arkansas,Heavy and Tractor-Trailer Truck Drivers,36680,7,30.128,2.38,21.28,44250,2.6
+Arkansas,Light Truck Drivers,8420,4.5,6.917,1.1,15,31190,4.9
+Arkansas,"Bus Drivers, Transit and Intercity",270,23.9,0.225,0.18,16.31,33920,5.8
+Arkansas,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",7590,3.6,6.234,1.31,10.84,22550,1.2
+Arkansas,"Motor Vehicle Operators, All Other",200,25.5,0.16,0.42,14.27,29680,3.2
+Arkansas,Locomotive Engineers,**,**,**,**,32.23,67030,3
+Arkansas,"Rail Yard Engineers, Dinkey Operators, and Hostlers",130,29.6,0.103,2.81,18.67,38840,5.5
+Arkansas,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",150,6.6,0.124,1.65,30.21,62830,10.8
+Arkansas,Railroad Conductors and Yardmasters,**,**,**,**,31.38,65270,3.2
+Arkansas,"Captains, Mates, and Pilots of Water Vessels",80,4.4,0.062,0.27,59.87,124540,9.8
+Arkansas,Bridge and Lock Tenders,60,0,0.051,2.38,22.41,46600,1.9
+Arkansas,Parking Attendants,350,22.9,0.284,0.28,*,*,*
+Arkansas,Automotive and Watercraft Service Attendants,1540,9.7,1.266,1.58,12.87,26780,2.1
+Arkansas,Traffic Technicians,40,10.2,0.036,0.72,21.52,44770,2.7
+Arkansas,Transportation Inspectors,310,8.6,0.255,1.25,35.1,73000,3
+Arkansas,Passenger Attendants,110,28,0.091,0.47,11.84,24620,5.6
+Arkansas,"Aircraft Service Attendants and Transportation Workers, All Other",110,23.7,0.091,0.38,14.11,29340,3
+Arkansas,Conveyor Operators and Tenders,380,21.2,0.311,1.9,14.11,29350,4.2
+Arkansas,Crane and Tower Operators,730,12,0.603,1.95,20.96,43600,4.6
+Arkansas,Industrial Truck and Tractor Operators,8250,5.5,6.774,1.58,16.36,34030,1.7
+Arkansas,Cleaners of Vehicles and Equipment,4510,10.2,3.702,1.42,12.36,25710,1.6
+Arkansas,"Laborers and Freight, Stock, and Material Movers, Hand",21050,3.2,17.29,0.86,13.21,27480,0.9
+Arkansas,Machine Feeders and Offbearers,1930,10.3,1.583,3.67,13.54,28170,2.1
+Arkansas,"Packers and Packagers, Hand",4770,5.9,3.919,0.91,12.92,26880,1.7
+Arkansas,Stockers and Order Fillers,19630,3,16.128,1.11,13.04,27120,1.1
+Arkansas,Wellhead Pumpers,40,46.8,0.029,0.33,28.96,60230,7.8
+Arkansas,Refuse and Recyclable Material Collectors,2040,21.3,1.677,2.03,14.88,30940,2.3
+Arkansas,"Tank Car, Truck, and Ship Loaders",70,32.4,0.058,0.74,18.6,38690,8.2
+Arkansas,"Material Moving Workers, All Other",90,6.2,0.076,0.4,13.34,27740,3.8

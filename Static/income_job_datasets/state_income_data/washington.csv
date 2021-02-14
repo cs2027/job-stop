@@ -1,0 +1,760 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Washington,All Occupations,3318510,0.5,1000,1,29.82,62020,1.8
+Washington,Management Occupations,162850,1.5,49.075,0.89,62.75,130520,0.6
+Washington,Chief Executives,2980,5.4,0.897,0.64,108.51,225700,1.7
+Washington,General and Operations Managers,46500,1.6,14.012,0.86,61.38,127670,0.8
+Washington,Legislators,940,10.9,0.284,0.8,*,89900,4.8
+Washington,Advertising and Promotions Managers,410,14.3,0.125,0.73,71.22,148140,3.4
+Washington,Marketing Managers,6820,8.6,2.056,1.15,78.88,164070,1.8
+Washington,Sales Managers,7640,5.3,2.302,0.84,69.26,144050,1.6
+Washington,Public Relations and Fundraising Managers,2240,11,0.676,1.25,65.7,136660,2.1
+Washington,Administrative Services and Facilities Managers,4910,3.7,1.48,0.71,58.61,121910,1
+Washington,Computer and Information Systems Managers,12650,4.3,3.811,1.29,79.27,164880,1.4
+Washington,Financial Managers,12830,3,3.867,0.87,66.41,138140,1.1
+Washington,Industrial Production Managers,2930,3.3,0.883,0.7,61.3,127500,2.1
+Washington,Purchasing Managers,1540,6.4,0.463,0.94,65.94,137150,2.2
+Washington,"Transportation, Storage, and Distribution Managers",2470,8.4,0.743,0.83,56.29,117080,2
+Washington,Compensation and Benefits Managers,280,9.5,0.084,0.73,73.33,152520,2.6
+Washington,Human Resources Managers,3380,3.1,1.018,0.97,67.6,140600,1.2
+Washington,Training and Development Managers,730,5.4,0.219,0.84,67.49,140390,6.2
+Washington,"Farmers, Ranchers, and Other Agricultural Managers",130,24.2,0.04,1.15,41.75,86850,3.4
+Washington,Construction Managers,8430,4.2,2.539,1.27,49.16,102250,1.4
+Washington,"Education and Childcare Administrators, Preschool and Daycare",1460,10.6,0.44,1.23,25.11,52230,2.5
+Washington,"Education Administrators, Kindergarten through Secondary",5490,2,1.653,0.9,*,120300,0.9
+Washington,"Education Administrators, Postsecondary",2230,19,0.671,0.68,50.46,104960,3.4
+Washington,"Education Administrators, All Other",780,15.3,0.234,0.77,42.63,88670,5.5
+Washington,Architectural and Engineering Managers,4340,3.8,1.309,0.99,76.26,158620,1.9
+Washington,Food Service Managers,2760,11,0.831,0.52,36.91,76770,4.7
+Washington,Gambling Managers,110,9.8,0.032,1.05,41.24,85780,7.8
+Washington,Lodging Managers,860,8.7,0.259,0.99,31.05,64580,3.1
+Washington,Medical and Health Services Managers,7310,6,2.203,0.82,58.49,121650,1.9
+Washington,Natural Sciences Managers,1960,8.5,0.591,1.28,75.19,156400,2.5
+Washington,Postmasters and Mail Superintendents,270,0,0.083,0.88,37.2,77370,0.7
+Washington,"Property, Real Estate, and Community Association Managers",2620,6.9,0.789,0.52,44.46,92480,4.1
+Washington,Social and Community Service Managers,3640,7.6,1.097,1.03,34.66,72100,2.3
+Washington,Emergency Management Directors,150,12.1,0.045,0.66,54.43,113220,1.9
+Washington,Funeral Home Managers,50,32.9,0.014,0.21,40.19,83590,9.6
+Washington,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",11050,3.6,3.328,1.04,61.23,127350,1.5
+Washington,Business and Financial Operations Occupations,225940,2.1,68.083,1.22,40.09,83400,1.8
+Washington,"Agents and Business Managers of Artists, Performers, and Athletes",90,15.8,0.028,0.24,47.96,99760,20.5
+Washington,Buyers and Purchasing Agents,14910,8.5,4.494,1.57,35.63,74110,1.7
+Washington,"Claims Adjusters, Examiners, and Investigators",5490,5.9,1.654,0.84,35.99,74860,2
+Washington,"Insurance Appraisers, Auto Damage",290,19.8,0.088,0.94,33.09,68840,4.3
+Washington,Compliance Officers,8820,9.6,2.656,1.23,34.57,71900,3.9
+Washington,Cost Estimators,5690,4.3,1.714,1.2,36.95,76860,1.6
+Washington,Human Resources Specialists,17310,3.2,5.215,1.21,37.13,77220,1.9
+Washington,Labor Relations Specialists,2430,7.2,0.734,1.43,38.82,80740,4.1
+Washington,Logisticians,6450,4.5,1.944,1.57,42.94,89300,2.4
+Washington,Management Analysts,22160,5.7,6.677,1.38,50.4,104830,2.8
+Washington,"Meeting, Convention, and Event Planners",3420,8.1,1.029,1.29,29.89,62170,5.8
+Washington,Fundraisers,2510,8.1,0.758,1.36,30.74,63930,2.9
+Washington,"Compensation, Benefits, and Job Analysis Specialists",1770,6,0.534,0.88,38.44,79950,2.7
+Washington,Training and Development Specialists,7250,5.6,2.185,1.03,37.67,78350,1.7
+Washington,Market Research Analysts and Marketing Specialists,22710,8.7,6.844,1.48,42.45,88290,4.4
+Washington,"Project Management Specialists and Business Operations Specialists, All Other",43590,1.8,13.135,1.51,40.14,83490,2.2
+Washington,Accountants and Auditors,32280,3.1,9.727,1.12,39.41,81970,2
+Washington,Property Appraisers and Assessors,1390,30.5,0.418,1.09,38.02,79080,7.7
+Washington,Budget Analysts,880,4.8,0.266,0.76,36.87,76690,1.9
+Washington,Credit Analysts,1720,10.7,0.52,1.03,38.4,79860,2.3
+Washington,Personal Financial Advisors,3820,6.6,1.151,0.8,53.79,111890,5.8
+Washington,Insurance Underwriters,1370,15.1,0.411,0.6,40.31,83830,2.2
+Washington,Financial Examiners,610,14.2,0.184,0.42,48.88,101660,4.6
+Washington,Credit Counselors,500,16.2,0.15,0.69,24.09,50100,3.6
+Washington,Loan Officers,7050,6.2,2.124,1.01,34.42,71600,2.5
+Washington,"Tax Examiners and Collectors, and Revenue Agents",960,0.4,0.289,0.79,31.25,65010,2.5
+Washington,Tax Preparers,970,17.2,0.294,0.65,24.38,50710,9.8
+Washington,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",9500,2.8,2.861,0.92,43.55,90570,4.6
+Washington,Computer and Mathematical Occupations,173940,2.5,52.414,1.69,55.66,115770,5.7
+Washington,Computer Systems Analysts,16840,5.5,5.076,1.27,48.78,101460,1.9
+Washington,Information Security Analysts,3120,12.3,0.941,1.1,54.1,112540,2.8
+Washington,Computer and Information Research Scientists,1970,4.1,0.593,2.83,65.81,136890,4.9
+Washington,Computer Network Support Specialists,3520,6.1,1.06,0.84,41.78,86900,2.6
+Washington,Computer User Support Specialists,18260,5,5.501,1.25,30.08,62560,4
+Washington,Computer Network Architects,4800,7,1.446,1.39,56.89,118340,4.4
+Washington,Network and Computer Systems Administrators,7960,4.3,2.397,0.99,45.16,93930,1.6
+Washington,Database Administrators and Architects,2690,6.2,0.809,0.95,53.67,111640,1.3
+Washington,Computer Programmers,5680,6.3,1.713,1.26,79.14,164610,16.5
+Washington,Software Developers and Software Quality Assurance Analysts and Testers,77650,4.1,23.399,2.44,63.4,131870,4.5
+Washington,Web Developers and Digital Interface Designers,13430,3,4.047,4.01,64.57,134310,9
+Washington,"Computer Occupations, All Other",12340,5.3,3.72,1.39,45.14,93890,1.9
+Washington,Actuaries,420,17.4,0.128,0.84,64.05,133210,3.2
+Washington,Mathematicians,100,8,0.031,1.74,63.03,131110,5.5
+Washington,Operations Research Analysts,2640,14.5,0.795,1.17,47.05,97870,3.7
+Washington,Statisticians,1290,11.5,0.39,1.46,50.81,105680,2
+Washington,"Data Scientists and Mathematical Science Occupations, All Other",1220,12.2,0.367,1.75,55.63,115720,3.9
+Washington,Architecture and Engineering Occupations,77020,2,23.21,1.31,47.75,99310,2.4
+Washington,"Architects, Except Landscape and Naval",4180,7,1.261,1.75,40.14,83480,2.3
+Washington,Landscape Architects,770,19.6,0.232,1.68,35.71,74270,2.9
+Washington,Cartographers and Photogrammetrists,320,9.5,0.096,1.25,41.02,85310,2.7
+Washington,Surveyors,910,14.9,0.273,0.89,41.9,87150,4.6
+Washington,Aerospace Engineers,6680,3.6,2.013,4.68,*,*,*
+Washington,Bioengineers and Biomedical Engineers,610,24.3,0.183,1.36,46.81,97370,5
+Washington,Chemical Engineers,580,10,0.174,0.85,51.61,107340,2.7
+Washington,Civil Engineers,11580,8,3.489,1.65,46.05,95780,1.6
+Washington,Computer Hardware Engineers,1770,5.6,0.534,1.15,76.5,159130,11.1
+Washington,Electrical Engineers,6030,3.9,1.817,1.44,55.76,115990,2.5
+Washington,"Electronics Engineers, Except Computer",3660,9.1,1.104,1.26,51.57,107270,4.9
+Washington,Environmental Engineers,1900,11.7,0.571,1.58,50.35,104740,2.6
+Washington,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",450,16.6,0.134,0.76,47.56,98930,3.9
+Washington,Industrial Engineers,7220,3.3,2.175,1.09,52.5,109200,2.5
+Washington,Marine Engineers and Naval Architects,530,20.3,0.16,2.07,44.51,92580,3.7
+Washington,Materials Engineers,1060,3.9,0.321,1.76,60.15,125110,2.9
+Washington,Mechanical Engineers,7560,4.4,2.279,1.09,47.49,98770,2.1
+Washington,"Mining and Geological Engineers, Including Mining Safety Engineers",40,17.3,0.012,0.27,42.4,88200,7.3
+Washington,Petroleum Engineers,100,36,0.03,0.14,68.83,143170,10.8
+Washington,"Engineers, All Other",3070,6.4,0.926,0.89,52.61,109430,2.4
+Washington,Architectural and Civil Drafters,2090,10.1,0.631,0.94,29.23,60800,1.8
+Washington,Electrical and Electronics Drafters,730,10.9,0.219,1.33,43.12,89690,5.3
+Washington,Mechanical Drafters,2190,5,0.66,1.75,38.57,80220,7
+Washington,"Drafters, All Other",340,37.7,0.101,1.02,24.63,51240,10.8
+Washington,Aerospace Engineering and Operations Technologists and Technicians,430,14.6,0.128,1.63,46.7,97130,12.5
+Washington,Civil Engineering Technologists and Technicians,1590,6.2,0.48,1.02,32.11,66780,1.4
+Washington,Electrical and Electronic Engineering Technologists and Technicians,2390,9.8,0.722,0.86,34.73,72240,1.8
+Washington,Electro-Mechanical and Mechatronics Technologists and Technicians,230,17.7,0.069,0.71,36.96,76880,4.2
+Washington,Environmental Engineering Technologists and Technicians,390,9.6,0.116,0.95,35.41,73660,3.3
+Washington,Industrial Engineering Technologists and Technicians,1760,3.6,0.531,1.16,*,*,*
+Washington,Mechanical Engineering Technologists and Technicians,1090,12.8,0.328,1.12,32.3,67190,2.4
+Washington,Surveying and Mapping Technicians,1110,10.2,0.335,0.93,25.49,53020,2.4
+Washington,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",2400,6.8,0.723,1.2,36.51,75950,4.2
+Washington,"Life, Physical, and Social Science Occupations",39850,3.6,12.009,1.37,38.53,80150,1.7
+Washington,Food Scientists and Technologists,110,20.4,0.032,0.35,29.44,61240,6.3
+Washington,Soil and Plant Scientists,240,15.2,0.071,0.74,36.56,76050,4.4
+Washington,Biochemists and Biophysicists,420,17,0.126,0.59,42.7,88810,9.8
+Washington,Microbiologists,380,9.9,0.113,0.91,37.02,76990,3.6
+Washington,Zoologists and Wildlife Biologists,2380,8.8,0.718,5.48,37.51,78030,2.9
+Washington,"Biological Scientists, All Other",1330,9,0.401,1.47,43.38,90220,4.1
+Washington,Conservation Scientists,1020,5.4,0.307,2.04,31.28,65070,1.6
+Washington,Foresters,500,13.4,0.15,2.31,32.41,67410,2.1
+Washington,Epidemiologists,450,10.2,0.136,2.69,53.44,111160,4.9
+Washington,"Medical Scientists, Except Epidemiologists",6300,12.3,1.9,2.19,45.19,94000,6.1
+Washington,"Life Scientists, All Other",240,11,0.071,1.62,42.21,87800,2.2
+Washington,Physicists,650,14,0.196,1.72,60.97,126820,8.7
+Washington,Chemists,1760,8.5,0.531,0.93,42.59,88580,4.6
+Washington,Materials Scientists,350,2.1,0.105,2.31,56.15,116780,1.7
+Washington,"Environmental Scientists and Specialists, Including Health",3040,5.8,0.916,1.6,41.28,85870,2.3
+Washington,"Geoscientists, Except Hydrologists and Geographers",1030,16,0.311,1.56,44.52,92600,4.9
+Washington,Hydrologists,310,7.6,0.094,2.14,43.71,90920,2.9
+Washington,"Physical Scientists, All Other",270,3.1,0.081,0.68,53.37,111020,2.1
+Washington,Economists,400,12.4,0.121,0.94,49.68,103330,3.2
+Washington,Survey Researchers,90,35.3,0.027,0.4,30.21,62830,6.1
+Washington,"Clinical, Counseling, and School Psychologists",2420,10.2,0.73,0.95,37.36,77700,2.9
+Washington,"Psychologists, All Other",470,3.9,0.141,1.46,49.73,103440,4.6
+Washington,Sociologists,90,10.6,0.027,1.53,34.9,72590,2.2
+Washington,Urban and Regional Planners,2250,4.8,0.677,2.58,40.33,83880,1.3
+Washington,Anthropologists and Archeologists,170,18.8,0.051,1.12,37.8,78620,4
+Washington,Geographers,50,12.6,0.015,1.55,39.41,81970,3.4
+Washington,Political Scientists,120,11.7,0.035,0.85,47.61,99040,4.6
+Washington,"Social Scientists and Related Workers, All Other",900,9.3,0.273,1.19,43.05,89540,3
+Washington,Agricultural and Food Science Technicians,240,29.9,0.072,0.49,19.98,41560,3
+Washington,Biological Technicians,3210,7.6,0.967,1.79,23.26,48380,2.3
+Washington,Chemical Technicians,830,12.2,0.251,0.56,24.54,51040,2.9
+Washington,"Environmental Science and Protection Technicians, Including Health",1310,24.4,0.395,1.78,33.36,69390,5.7
+Washington,Geological and Hydrologic Technicians,110,8.1,0.034,0.3,27.63,57470,2.5
+Washington,Social Science Research Assistants,380,13.4,0.116,0.48,23.57,49030,4.6
+Washington,Forest and Conservation Technicians,480,6,0.144,1.11,23.73,49360,1.7
+Washington,Forensic Science Technicians,400,22.5,0.12,1.07,31.1,64690,2.8
+Washington,"Life, Physical, and Social Science Technicians, All Other",1390,11.3,0.42,0.96,27.65,57510,3.3
+Washington,Occupational Health and Safety Specialists,2930,13.9,0.882,1.4,38.5,80080,2.2
+Washington,Occupational Health and Safety Technicians,510,12.1,0.154,1.1,34.37,71490,6
+Washington,Community and Social Service Occupations,52280,2.6,15.754,1.03,25.69,53440,1
+Washington,"Educational, Guidance, and Career Counselors and Advisors",5240,7.3,1.579,0.78,31.51,65550,1
+Washington,Marriage and Family Therapists,140,16.7,0.041,0.1,23.89,49700,2.6
+Washington,Rehabilitation Counselors,3890,5.2,1.172,1.58,23.08,48000,2.7
+Washington,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",9540,4.2,2.875,1.49,25.1,52200,1.6
+Washington,"Counselors, All Other",340,17.6,0.102,0.59,27.17,56520,2.6
+Washington,"Child, Family, and School Social Workers",7870,3.8,2.372,1.06,26.46,55030,2.4
+Washington,Healthcare Social Workers,3770,7.2,1.136,0.95,30.28,62990,1.8
+Washington,Mental Health and Substance Abuse Social Workers,2260,6.9,0.681,0.85,27.05,56260,2.7
+Washington,"Social Workers, All Other",820,10.3,0.247,0.62,35.17,73160,2.4
+Washington,Health Education Specialists,1560,5.3,0.469,1.18,29.92,62230,1.6
+Washington,Probation Officers and Correctional Treatment Specialists,2060,2.5,0.622,1.04,30.59,63640,1.1
+Washington,Social and Human Service Assistants,8620,7.9,2.598,0.94,19.67,40910,1.6
+Washington,Community Health Workers,2600,19.7,0.783,1.95,20.21,42030,2.8
+Washington,"Community and Social Service Specialists, All Other",1980,11,0.596,0.9,24.67,51310,2.8
+Washington,Clergy,730,12.2,0.221,0.61,31.1,64680,2.5
+Washington,"Directors, Religious Activities and Education",300,40.3,0.089,0.6,30.44,63320,9.6
+Washington,"Religious Workers, All Other",560,22.6,0.168,2.61,20.6,42840,8.4
+Washington,Legal Occupations,22500,2.7,6.782,0.87,48.71,101320,3.3
+Washington,Lawyers,11910,3.8,3.59,0.8,62.28,129550,4
+Washington,Judicial Law Clerks,560,4.4,0.168,1.49,32.06,66680,2
+Washington,"Administrative Law Judges, Adjudicators, and Hearing Officers",340,0.7,0.103,1.05,52.89,110020,2.5
+Washington,"Judges, Magistrate Judges, and Magistrates",900,4.5,0.271,1.39,60.16,125130,1.6
+Washington,Paralegals and Legal Assistants,6880,4.4,2.073,0.92,29.25,60840,1.7
+Washington,"Title Examiners, Abstractors, and Searchers",910,15.3,0.273,0.76,24.77,51520,2.8
+Washington,"Legal Support Workers, All Other",830,8.1,0.249,0.81,36.57,76060,3.8
+Washington,Educational Instruction and Library Occupations,189670,3.1,57.155,0.94,27.94,58120,2.7
+Washington,"Business Teachers, Postsecondary",1300,32.4,0.391,0.68,*,95860,9.7
+Washington,"Computer Science Teachers, Postsecondary",690,24,0.207,0.96,*,81210,6.1
+Washington,"Mathematical Science Teachers, Postsecondary",890,22.4,0.268,0.77,*,76840,8.1
+Washington,"Engineering Teachers, Postsecondary",590,12.4,0.178,0.73,*,107690,11.7
+Washington,"Agricultural Sciences Teachers, Postsecondary",40,28.7,0.012,0.19,*,89590,6.7
+Washington,"Biological Science Teachers, Postsecondary",880,26.9,0.266,0.74,*,87260,9.5
+Washington,"Forestry and Conservation Science Teachers, Postsecondary",50,14.1,0.014,1.2,*,97520,3.6
+Washington,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",300,31.2,0.089,1.19,*,94140,7.6
+Washington,"Chemistry Teachers, Postsecondary",510,31.4,0.155,1.06,*,73810,6.4
+Washington,"Environmental Science Teachers, Postsecondary",190,39.3,0.056,1.36,*,98210,8.5
+Washington,"Physics Teachers, Postsecondary",360,31.9,0.108,1.15,*,82980,6.2
+Washington,"Anthropology and Archeology Teachers, Postsecondary",250,34.5,0.074,1.87,*,78370,3.5
+Washington,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",120,19.4,0.037,0.52,*,80420,3
+Washington,"Economics Teachers, Postsecondary",250,31.7,0.076,0.84,*,90100,7.7
+Washington,"Geography Teachers, Postsecondary",90,20.1,0.028,1.04,*,70100,5.6
+Washington,"Political Science Teachers, Postsecondary",340,9.7,0.103,0.96,*,87780,6.8
+Washington,"Psychology Teachers, Postsecondary",1020,21.4,0.307,1.2,*,69700,3.2
+Washington,"Sociology Teachers, Postsecondary",300,40.5,0.09,0.96,*,70710,4.2
+Washington,"Social Sciences Teachers, Postsecondary, All Other",100,14.3,0.029,0.26,*,62950,6.5
+Washington,"Health Specialties Teachers, Postsecondary",2540,16.4,0.764,0.56,*,158870,12.5
+Washington,"Nursing Instructors and Teachers, Postsecondary",1230,28.1,0.371,0.91,*,81980,6.9
+Washington,"Education Teachers, Postsecondary",1100,25.5,0.332,0.79,*,72940,3.4
+Washington,"Library Science Teachers, Postsecondary",70,5,0.02,0.67,*,103450,6.2
+Washington,"Criminal Justice and Law Enforcement Teachers, Postsecondary",110,11.2,0.034,0.36,*,61010,4.1
+Washington,"Law Teachers, Postsecondary",90,18,0.026,0.24,*,120600,5.3
+Washington,"Social Work Teachers, Postsecondary",170,35.2,0.053,0.57,*,86510,6.9
+Washington,"Art, Drama, and Music Teachers, Postsecondary",1710,43.3,0.515,0.8,*,67850,2.6
+Washington,"Communications Teachers, Postsecondary",590,32.9,0.179,0.9,*,63480,3.1
+Washington,"English Language and Literature Teachers, Postsecondary",1370,18.4,0.412,0.89,*,63680,3
+Washington,"Foreign Language and Literature Teachers, Postsecondary",570,36.4,0.172,1.02,*,69040,2.6
+Washington,"History Teachers, Postsecondary",370,41.6,0.111,0.78,*,74240,3.9
+Washington,"Philosophy and Religion Teachers, Postsecondary",**,**,**,**,*,74040,3.3
+Washington,"Family and Consumer Sciences Teachers, Postsecondary",110,11.5,0.033,2.29,*,60030,1.6
+Washington,"Recreation and Fitness Studies Teachers, Postsecondary",450,38.6,0.136,1.25,*,56850,1.6
+Washington,"Career/Technical Education Teachers, Postsecondary",4670,5.5,1.406,1.84,34.25,71230,7
+Washington,"Postsecondary Teachers, All Other",930,27.4,0.28,0.2,*,64570,2.7
+Washington,"Preschool Teachers, Except Special Education",11610,4.9,3.5,1.19,16.54,34410,1.6
+Washington,"Kindergarten Teachers, Except Special Education",5360,4.1,1.615,1.91,*,63710,0.9
+Washington,"Elementary School Teachers, Except Special Education",30440,2.1,9.171,0.94,*,69390,0.7
+Washington,"Middle School Teachers, Except Special and Career/Technical Education",9430,3.8,2.841,0.67,*,70970,0.9
+Washington,"Career/Technical Education Teachers, Middle School",460,6.1,0.139,1.73,*,74150,1.4
+Washington,"Secondary School Teachers, Except Special and Career/Technical Education",14810,2.3,4.464,0.63,*,71690,0.7
+Washington,"Career/Technical Education Teachers, Secondary School",2980,2.7,0.898,1.77,*,71430,0.7
+Washington,"Special Education Teachers, Preschool",800,5.5,0.242,1.59,*,65170,1.1
+Washington,"Special Education Teachers, Kindergarten and Elementary School",4500,2.7,1.356,1.03,*,68700,0.7
+Washington,"Special Education Teachers, Middle School",1330,3.4,0.401,0.69,*,70230,0.8
+Washington,"Special Education Teachers, Secondary School",2280,3.4,0.688,0.71,*,71480,0.7
+Washington,"Special Education Teachers, All Other",80,38.8,0.024,0.1,*,61930,5.8
+Washington,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",2150,8.1,0.649,1.84,26.68,55480,1.5
+Washington,Self-Enrichment Teachers,7570,7.4,2.282,1.33,24.74,51470,4.1
+Washington,"Substitute Teachers, Short-Term",15620,2.6,4.707,1.18,19.71,41000,2.3
+Washington,"Tutors and Teachers and Instructors, All Other",4540,17.2,1.368,0.63,*,49920,3.2
+Washington,Archivists,160,14.3,0.047,1.06,29.91,62210,3.4
+Washington,Curators,250,11.2,0.074,0.84,31.52,65560,2.7
+Washington,Museum Technicians and Conservators,270,14,0.081,0.9,21.84,45440,2.9
+Washington,Librarians and Media Collections Specialists,2960,4,0.891,0.96,35.53,73910,1.5
+Washington,Library Technicians,1980,6,0.598,0.99,22.44,46680,2.2
+Washington,Farm and Home Management Educators,60,29.5,0.019,0.32,24.57,51100,4.4
+Washington,Instructional Coordinators,2130,6,0.642,0.53,33.45,69580,1.5
+Washington,"Teaching Assistants, Postsecondary",820,6.5,0.248,0.27,*,51370,10.4
+Washington,"Teaching Assistants, Except Postsecondary",40040,2.4,12.064,1.32,*,35960,1.8
+Washington,"Educational Instruction and Library Workers, All Other",2170,12.8,0.655,0.75,26.06,54200,1.9
+Washington,"Arts, Design, Entertainment, Sports, and Media Occupations",49860,3.7,15.024,1.09,29.55,61470,2.1
+Washington,Art Directors,620,12.4,0.187,0.64,50.19,104390,2.7
+Washington,Craft Artists,50,29.6,0.014,0.43,21.53,44780,8.4
+Washington,"Fine Artists, Including Painters, Sculptors, and Illustrators",270,17.5,0.082,0.98,28.91,60120,7
+Washington,Special Effects Artists and Animators,1160,19.4,0.351,1.76,43.65,90800,3.8
+Washington,"Artists and Related Workers, All Other",60,2.5,0.018,0.35,29.99,62380,4
+Washington,Commercial and Industrial Designers,360,16.1,0.108,0.48,39.87,82930,7.1
+Washington,Fashion Designers,410,30.5,0.123,0.82,31.77,66070,4.6
+Washington,Floral Designers,940,15.8,0.283,1,15.83,32920,2.1
+Washington,Graphic Designers,5510,5.4,1.66,1.13,34.71,72200,6
+Washington,Interior Designers,1390,15.5,0.418,1.01,31.05,64580,2.6
+Washington,Merchandise Displayers and Window Trimmers,2460,11.3,0.742,0.77,19.32,40190,3.3
+Washington,Set and Exhibit Designers,210,22.4,0.062,0.76,21.18,44060,2.6
+Washington,"Designers, All Other",**,**,**,**,31.61,65750,3.8
+Washington,Actors,570,23.8,0.172,0.48,21.7,*,6.7
+Washington,Producers and Directors,2360,9.9,0.711,0.81,35.21,73230,2.2
+Washington,Athletes and Sports Competitors,130,28.3,0.039,0.51,*,*,*
+Washington,Coaches and Scouts,13140,7.2,3.96,2.41,*,43400,2.6
+Washington,"Umpires, Referees, and Other Sports Officials",670,29,0.201,1.47,*,38250,9.8
+Washington,Dancers,140,27.9,0.041,0.62,28.43,*,7.7
+Washington,Music Directors and Composers,130,11.3,0.04,0.55,31.07,64630,11.4
+Washington,Musicians and Singers,790,30.4,0.239,0.86,33.63,*,4.9
+Washington,"Miscellaneous Entertainers and Performers, Sports and Related Workers",100,23.5,0.031,0.28,26.03,*,7.1
+Washington,Broadcast Announcers and Radio Disc Jockeys,520,27.8,0.156,0.79,34.34,71420,9.9
+Washington,"News Analysts, Reporters, and Journalists",850,9.4,0.255,0.85,31.57,65660,5
+Washington,Public Relations Specialists,6100,6.1,1.838,1.1,36.99,76950,3.3
+Washington,Editors,1880,10.4,0.567,0.87,35.46,73760,3
+Washington,Technical Writers,1340,10.4,0.405,1.17,41.58,86490,1.9
+Washington,Writers and Authors,1310,18.9,0.393,1.26,32.7,68010,3.8
+Washington,Interpreters and Translators,990,6.9,0.298,0.74,27.79,57800,6
+Washington,Court Reporters and Simultaneous Captioners,100,10.9,0.031,0.31,38.89,80890,3.6
+Washington,"Media and Communication Workers, All Other",840,36,0.254,1.48,31.25,64990,6.3
+Washington,Audio and Video Technicians,1660,12.4,0.5,0.99,31.4,65320,6.1
+Washington,Broadcast Technicians,360,11.3,0.109,0.56,23.46,48800,3.4
+Washington,Sound Engineering Technicians,150,41.6,0.046,0.53,*,*,*
+Washington,Photographers,1080,10.2,0.324,0.94,24.12,50160,3.8
+Washington,"Camera Operators, Television, Video, and Film",240,13.9,0.072,0.49,28.21,58670,5.1
+Washington,Film and Video Editors,260,22.8,0.08,0.42,39.45,82060,6
+Washington,"Lighting Technicians and Media and Communication Equipment Workers, All Other",280,19.7,0.085,0.54,35.76,74380,5.6
+Washington,Healthcare Practitioners and Technical Occupations,171440,3.2,51.663,0.87,46.01,95690,1.7
+Washington,Chiropractors,940,20.2,0.284,1.19,59,122730,23.1
+Washington,"Dentists, General",3300,6.6,0.993,1.32,89.06,185240,7.1
+Washington,Oral and Maxillofacial Surgeons,**,**,**,**,#,#,15.9
+Washington,Orthodontists,150,34.8,0.045,1.1,137.39,285780,11
+Washington,"Dentists, All Other Specialists",90,8.6,0.026,0.73,74.3,154540,6.5
+Washington,Dietitians and Nutritionists,1590,9.2,0.479,1.04,31.14,64770,2.5
+Washington,Optometrists,**,**,**,**,63.12,131280,5
+Washington,Pharmacists,6140,4.2,1.85,0.87,61.69,128320,1.2
+Washington,Physician Assistants,2800,6.8,0.844,1.03,62.27,129520,1.5
+Washington,Podiatrists,190,17.9,0.056,0.84,74.58,155120,9.8
+Washington,Occupational Therapists,2660,5.9,0.803,0.88,40.46,84150,1.7
+Washington,Physical Therapists,6160,5.4,1.855,1.17,42.31,88010,1.1
+Washington,Radiation Therapists,400,13.3,0.12,0.99,48.86,101630,1.9
+Washington,Recreational Therapists,240,8,0.072,0.55,29.69,61750,2.7
+Washington,Respiratory Therapists,2080,8.7,0.628,0.7,34.49,71750,0.9
+Washington,Speech-Language Pathologists,3110,9.6,0.937,0.89,36.91,76770,3
+Washington,Exercise Physiologists,60,43.9,0.019,0.38,25.11,52240,5
+Washington,"Therapists, All Other",110,18.7,0.032,0.38,35.92,74720,4
+Washington,Veterinarians,1920,7.8,0.578,1.14,46.8,97340,2.5
+Washington,Registered Nurses,58000,5.8,17.478,0.86,41.43,86170,1.2
+Washington,Nurse Anesthetists,620,36.5,0.188,0.63,92.52,192440,3.5
+Washington,Nurse Midwives,110,17.9,0.033,0.71,51.83,107810,1.7
+Washington,Nurse Practitioners,3870,10.6,1.167,0.85,61.02,126920,2.9
+Washington,Audiologists,420,20,0.126,1.36,44.55,92660,4.3
+Washington,Anesthesiologists,**,**,**,**,123.88,257660,9.6
+Washington,Family Medicine Physicians,1170,13,0.352,0.47,114.5,238150,5.5
+Washington,General Internal Medicine Physicians,**,**,**,**,108.15,224940,6.2
+Washington,Obstetricians and Gynecologists,350,15.7,0.104,0.82,116,241290,6.8
+Washington,"Pediatricians, General",690,33.5,0.208,1.03,93.51,194510,5.9
+Washington,Psychiatrists,670,19.4,0.203,1.17,118.84,247190,9.1
+Washington,"Physicians, All Other; and Ophthalmologists, Except Pediatric",8610,9,2.594,0.98,114.59,238350,4.1
+Washington,"Surgeons, Except Ophthalmologists",**,**,**,**,111.87,232700,7.6
+Washington,Dental Hygienists,6660,8.3,2.007,1.33,44.81,93200,2.4
+Washington,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",1230,13.6,0.37,1.49,38.68,80440,3.9
+Washington,Clinical Laboratory Technologists and Technicians,7010,6.7,2.112,0.95,28.8,59900,1.5
+Washington,Cardiovascular Technologists and Technicians,890,10.9,0.268,0.7,30.93,64330,2
+Washington,Diagnostic Medical Sonographers,1690,8.6,0.51,1.03,43.33,90130,0.9
+Washington,Nuclear Medicine Technologists,300,9.7,0.09,0.73,46.19,96080,1.4
+Washington,Radiologic Technologists and Technicians,3870,6.9,1.167,0.83,35.59,74030,0.9
+Washington,Magnetic Resonance Imaging Technologists,820,17.6,0.248,0.96,45.75,95150,1.9
+Washington,Emergency Medical Technicians and Paramedics,3760,5.4,1.133,0.64,26.99,56140,7.8
+Washington,Dietetic Technicians,410,20.1,0.124,0.62,19.69,40950,6.2
+Washington,Pharmacy Technicians,7150,4.8,2.155,0.76,21.11,43910,1
+Washington,Psychiatric Technicians,1290,12.5,0.39,0.73,19.73,41040,2.4
+Washington,Surgical Technologists,2000,7.7,0.603,0.81,28.55,59380,1
+Washington,Veterinary Technologists and Technicians,2310,7.9,0.695,0.92,19.21,39950,2
+Washington,Ophthalmic Medical Technicians,1360,15.2,0.41,1.03,20.59,42830,1.7
+Washington,Licensed Practical and Licensed Vocational Nurses,7730,4.1,2.328,0.49,27.86,57940,0.8
+Washington,"Opticians, Dispensing",1480,11,0.445,0.9,22.45,46710,3.4
+Washington,Orthotists and Prosthetists,200,25.7,0.059,0.88,37.24,77460,3.6
+Washington,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",8650,8.7,2.607,1.15,25.91,53890,2
+Washington,Athletic Trainers,690,23.7,0.207,1.06,*,50130,1.7
+Washington,Genetic Counselors,80,23.3,0.024,1.49,41.34,85990,1.8
+Washington,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",1500,15.5,0.452,1.22,31.56,65650,3
+Washington,Healthcare Support Occupations,144170,1.7,43.443,0.98,17.59,36590,0.8
+Washington,Home Health and Personal Care Aides,61470,3.7,18.522,0.86,14.9,31000,1.2
+Washington,Nursing Assistants,34200,5.2,10.307,1.07,16.25,33800,0.9
+Washington,Orderlies,390,27,0.118,0.37,16.35,34000,2.9
+Washington,Psychiatric Aides,140,20.2,0.044,0.12,17.34,36070,5.9
+Washington,Occupational Therapy Assistants,730,17.3,0.221,0.72,31.09,64680,1.5
+Washington,Occupational Therapy Aides,**,**,**,**,27.43,57050,7.1
+Washington,Physical Therapist Assistants,1580,7.5,0.476,0.72,28.72,59730,1.5
+Washington,Physical Therapist Aides,710,11.8,0.215,0.64,15.04,31280,1.7
+Washington,Massage Therapists,5060,8.5,1.524,2.09,31.62,65770,2.3
+Washington,Dental Assistants,10780,4.4,3.249,1.36,21.94,45640,1.6
+Washington,Medical Assistants,15780,4.3,4.754,0.98,21.04,43760,0.8
+Washington,Medical Equipment Preparers,1310,7.5,0.395,1.02,19.33,40200,1.3
+Washington,Medical Transcriptionists,1280,23.9,0.385,1.01,17.53,36470,4.5
+Washington,Pharmacy Aides,1240,7.9,0.375,1.48,15.98,33240,1.6
+Washington,Veterinary Assistants and Laboratory Animal Caretakers,3670,9.2,1.106,1.67,15.45,32140,1.5
+Washington,Phlebotomists,2860,8.9,0.861,0.99,19.89,41380,1.1
+Washington,"Healthcare Support Workers, All Other",2810,4.5,0.846,1.33,22.23,46240,1.7
+Washington,Protective Service Occupations,66690,3.2,20.096,0.84,29.45,61260,1.8
+Washington,First-Line Supervisors of Correctional Officers,810,4.2,0.245,0.77,36.11,75110,2.3
+Washington,First-Line Supervisors of Police and Detectives,2470,2.6,0.743,0.9,53.79,111890,1.4
+Washington,First-Line Supervisors of Firefighting and Prevention Workers,2600,9.5,0.784,1.65,50.11,104220,1.3
+Washington,"Miscellaneous First-Line Supervisors, Protective Service Workers",2110,3.5,0.636,1.13,25.54,53130,2.6
+Washington,Firefighters,8060,9.4,2.429,1.1,37.01,76970,1.9
+Washington,Fire Inspectors and Investigators,110,7.5,0.032,0.35,45.39,94410,2.7
+Washington,Bailiffs,170,2.2,0.05,0.37,27.95,58140,5.2
+Washington,Correctional Officers and Jailers,6950,3.8,2.093,0.73,28.42,59110,1.3
+Washington,Detectives and Criminal Investigators,1740,2.4,0.524,0.73,47.01,97770,2.3
+Washington,Fish and Game Wardens,120,7.6,0.035,0.76,35.19,73200,2.8
+Washington,Parking Enforcement Workers,220,7.7,0.067,1.28,28.1,58460,6
+Washington,Police and Sheriff's Patrol Officers,9540,2.3,2.874,0.63,38.56,80200,1
+Washington,Animal Control Workers,230,28.6,0.069,0.85,24.58,51120,3.3
+Washington,Private Detectives and Investigators,**,**,**,**,30.65,63750,3.4
+Washington,Gambling Surveillance Officers and Gambling Investigators,490,12.5,0.147,2.1,16.22,33740,2.7
+Washington,Security Guards,18720,4.6,5.641,0.74,19.73,41030,3.8
+Washington,Crossing Guards and Flaggers,2220,16.3,0.669,1.16,22.01,45780,7.4
+Washington,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2420,6.7,0.729,0.74,14.5,30150,1.4
+Washington,Transportation Security Screeners,1220,0.4,0.369,1.16,21.08,43840,2.6
+Washington,"School Bus Monitors and Protective Service Workers, All Other",4390,22.5,1.322,1.33,21.5,44710,2.8
+Washington,Food Preparation and Serving Related Occupations,299950,1,90.388,0.98,16.33,33970,0.9
+Washington,Chefs and Head Cooks,1760,13.7,0.532,0.61,28.94,60190,3.5
+Washington,First-Line Supervisors of Food Preparation and Serving Workers,24100,3.6,7.262,1.05,20.92,43510,1.5
+Washington,"Cooks, Fast Food",9410,11.8,2.835,0.79,14.88,30940,2.5
+Washington,"Cooks, Institution and Cafeteria",9290,4.5,2.8,1.02,17.49,36370,0.7
+Washington,"Cooks, Restaurant",32010,3.2,9.645,1.01,16.51,34340,0.8
+Washington,"Cooks, Short Order",2480,16.8,0.749,0.72,16.46,34230,3.2
+Washington,"Cooks, All Other",200,26.9,0.059,0.45,20.24,42110,5.6
+Washington,Food Preparation Workers,15820,9.2,4.768,0.81,15.47,32180,1
+Washington,Bartenders,14840,5,4.473,1.02,18.84,39180,2.8
+Washington,Fast Food and Counter Workers,97240,2.7,29.302,1.08,14.11,29360,0.8
+Washington,Waiters and Waitresses,55090,2.4,16.6,0.95,18.63,38750,2.3
+Washington,"Food Servers, Nonrestaurant",5470,8.3,1.648,0.87,13.89,28900,1.2
+Washington,Dining Room and Cafeteria Attendants and Bartender Helpers,9590,9.6,2.889,0.89,14.83,30840,2.6
+Washington,Dishwashers,13240,6.9,3.989,1.14,14.12,29360,1
+Washington,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",9100,8.8,2.743,0.95,14.91,31010,3.3
+Washington,"Food Preparation and Serving Related Workers, All Other",320,20.9,0.095,0.19,13.81,28730,4.3
+Washington,Building and Grounds Cleaning and Maintenance Occupations,90590,1.4,27.297,0.91,17.75,36920,1.7
+Washington,First-Line Supervisors of Housekeeping and Janitorial Workers,2400,5.3,0.723,0.68,22.25,46290,2
+Washington,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1930,14,0.58,0.82,28.08,58400,4.7
+Washington,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",45060,2.3,13.577,0.93,17.62,36650,3
+Washington,Maids and Housekeeping Cleaners,18890,5.2,5.692,0.9,14.46,30080,0.9
+Washington,Pest Control Workers,1070,12.6,0.322,0.59,23.56,49010,5.7
+Washington,Landscaping and Groundskeeping Workers,19020,3.8,5.733,0.92,18.33,38120,1
+Washington,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",810,29.3,0.243,1.39,19.14,39810,2.6
+Washington,Tree Trimmers and Pruners,1070,39.1,0.323,1.01,34.5,71750,13.8
+Washington,"Grounds Maintenance Workers, All Other",340,19.1,0.103,1.06,20.35,42340,7.4
+Washington,Personal Care and Service Occupations,74900,2.1,22.572,1,19.11,39750,1.5
+Washington,First-Line Supervisors of Gambling Services Workers,1190,9,0.357,1.78,25.66,53370,5.3
+Washington,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",4220,5.6,1.272,0.86,23.42,48700,1.8
+Washington,Animal Trainers,240,32.7,0.072,0.64,20.98,43650,6.3
+Washington,Animal Caretakers,4720,8.8,1.424,0.98,15,31200,1.5
+Washington,Gambling Dealers,5700,9.7,1.716,2.55,20.05,41690,3.5
+Washington,"Gambling Service Workers, All Other",130,22.1,0.039,0.54,17.94,37310,9.5
+Washington,Motion Picture Projectionists,180,47.5,0.056,1.8,13.47,28020,4.8
+Washington,"Ushers, Lobby Attendants, and Ticket Takers",3370,6.7,1.015,1.08,14.84,30880,4.1
+Washington,Amusement and Recreation Attendants,6560,8.1,1.977,0.86,14.78,30730,1.4
+Washington,Costume Attendants,60,36.6,0.019,0.37,27.26,56710,10.4
+Washington,"Locker Room, Coatroom, and Dressing Room Attendants",180,18,0.056,0.51,15.84,32940,2.7
+Washington,"Entertainment Attendants and Related Workers, All Other",110,44,0.032,1.05,17.75,36930,3
+Washington,Funeral Attendants,160,19.6,0.049,0.21,15.55,32340,5.1
+Washington,"Morticians, Undertakers, and Funeral Arrangers",280,18.7,0.084,0.49,26.96,56080,3.2
+Washington,Barbers,**,**,**,**,27.46,57120,13.5
+Washington,"Hairdressers, Hairstylists, and Cosmetologists",9390,9.6,2.83,1.08,20.79,43240,3.6
+Washington,Manicurists and Pedicurists,5030,11.1,1.515,1.99,15.8,32860,3.4
+Washington,Shampooers,110,40.5,0.033,0.39,14.42,29990,10.1
+Washington,Skincare Specialists,1620,27.7,0.49,1.27,26.33,54770,7.7
+Washington,Baggage Porters and Bellhops,720,11.8,0.217,0.8,15.28,31790,2.5
+Washington,Concierges,840,12.4,0.253,0.89,18.13,37710,1.7
+Washington,Tour and Travel Guides,760,14.8,0.228,0.69,19.58,40720,3.7
+Washington,Childcare Workers,6840,10.7,2.061,0.54,15.09,31380,1.4
+Washington,Exercise Trainers and Group Fitness Instructors,10160,7,3.061,1.38,26.8,55750,3.6
+Washington,Recreation Workers,6440,5.7,1.942,0.8,16.81,34960,1.2
+Washington,Residential Advisors,1640,13,0.495,0.67,17.5,36400,1.8
+Washington,"Crematory Operators and Personal Care and Service Workers, All Other",3370,11.4,1.015,2.42,14.39,29930,3.7
+Washington,Sales and Related Occupations,316510,1.4,95.379,0.97,23.19,48240,1
+Washington,First-Line Supervisors of Retail Sales Workers,24310,3.7,7.326,0.92,24.91,51820,1.9
+Washington,First-Line Supervisors of Non-Retail Sales Workers,5080,8.1,1.532,0.9,43.66,90810,2.7
+Washington,Cashiers,66200,4.3,19.949,0.81,14.74,30660,0.9
+Washington,Gambling Change Persons and Booth Cashiers,900,12,0.271,1.87,17.25,35880,7
+Washington,Counter and Rental Clerks,11930,6.3,3.595,1.28,17.74,36910,1.8
+Washington,Parts Salespersons,5480,6.9,1.651,0.95,18.39,38260,1.4
+Washington,Retail Salespersons,106070,2.8,31.964,1.09,17.08,35520,1.7
+Washington,Advertising Sales Agents,3750,11.4,1.129,1.28,31.57,65660,3.3
+Washington,Insurance Sales Agents,9230,7.7,2.781,1,32.66,67940,4
+Washington,"Securities, Commodities, and Financial Services Sales Agents",7110,9.4,2.143,0.72,37.21,77390,5.3
+Washington,Travel Agents,1180,12.7,0.357,0.79,26.64,55420,4.7
+Washington,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",17710,6.1,5.338,0.75,35.07,72940,4.1
+Washington,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",7600,9.9,2.289,1.1,47.24,98260,4.4
+Washington,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",33970,4.6,10.235,1.12,37.45,77890,1.8
+Washington,Demonstrators and Product Promoters,3500,16.7,1.053,1.99,15.84,32940,1.8
+Washington,Real Estate Brokers,760,18.6,0.229,0.79,34.04,70790,6
+Washington,Real Estate Sales Agents,7810,9.2,2.353,2.13,31.74,66020,4.3
+Washington,Sales Engineers,700,13.8,0.211,0.49,50.49,105030,3
+Washington,Telemarketers,1490,18.9,0.45,0.49,20.23,42080,5.1
+Washington,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",220,32.7,0.067,1.1,17.27,35920,3
+Washington,"Sales and Related Workers, All Other",1490,12.5,0.45,0.56,20.66,42970,3.6
+Washington,Office and Administrative Support Occupations,392860,1.1,118.384,0.89,21.95,45650,0.4
+Washington,First-Line Supervisors of Office and Administrative Support Workers,29380,2,8.852,0.87,32.8,68230,0.9
+Washington,"Switchboard Operators, Including Answering Service",940,11.5,0.284,0.61,18.88,39280,4.6
+Washington,Bill and Account Collectors,2860,5.8,0.861,0.54,21.5,44720,4.7
+Washington,Billing and Posting Clerks,10140,5.1,3.057,0.96,21.9,45550,1.1
+Washington,"Bookkeeping, Accounting, and Auditing Clerks",31770,2.3,9.574,0.93,22.45,46700,0.6
+Washington,Gambling Cage Workers,1100,12.6,0.33,3.38,14.11,29340,1.7
+Washington,Payroll and Timekeeping Clerks,3160,5.4,0.953,0.98,25.37,52770,1.1
+Washington,Procurement Clerks,1140,21,0.342,0.76,23.25,48360,1.6
+Washington,Tellers,9910,3.9,2.987,0.99,17.2,35770,1
+Washington,"Financial Clerks, All Other",420,19.2,0.126,0.61,23.31,48490,6
+Washington,Brokerage Clerks,530,16.2,0.159,0.49,27.6,57410,1.7
+Washington,Correspondence Clerks,40,46,0.012,0.29,19.23,40000,5.1
+Washington,"Court, Municipal, and License Clerks",3030,3.6,0.912,0.87,24.86,51720,1
+Washington,"Credit Authorizers, Checkers, and Clerks",200,30.8,0.061,0.33,21.36,44430,4.1
+Washington,Customer Service Representatives,56760,3,17.105,0.86,20.4,42430,0.7
+Washington,"Eligibility Interviewers, Government Programs",3610,2.2,1.088,1.14,23.83,49570,1.2
+Washington,File Clerks,1220,10.3,0.369,0.53,19.02,39570,1.3
+Washington,"Hotel, Motel, and Resort Desk Clerks",5270,3.7,1.588,0.87,14.22,29590,0.9
+Washington,"Interviewers, Except Eligibility and Loan",3790,8,1.142,0.89,19.09,39710,1.8
+Washington,"Library Assistants, Clerical",1780,5.1,0.536,0.92,16.57,34460,1.6
+Washington,Loan Interviewers and Clerks,3330,5.8,1.004,0.71,21.91,45570,1.5
+Washington,New Accounts Clerks,400,27,0.121,0.41,19.55,40660,1.9
+Washington,Order Clerks,5890,40,1.774,1.9,21.62,44970,4.6
+Washington,"Human Resources Assistants, Except Payroll and Timekeeping",2760,6.2,0.832,1.04,22.07,45910,0.7
+Washington,Receptionists and Information Clerks,25630,3.1,7.725,1.07,17,35360,0.7
+Washington,Reservation and Transportation Ticket Agents and Travel Clerks,3260,3.9,0.982,1.17,20.42,42470,2.5
+Washington,"Information and Record Clerks, All Other",3340,4.4,1.006,0.96,21.03,43740,1.4
+Washington,Cargo and Freight Agents,2160,7.5,0.649,1,26.31,54720,4.9
+Washington,Couriers and Messengers,920,17.1,0.276,0.54,17.61,36640,1.4
+Washington,Public Safety Telecommunicators,1630,11.6,0.491,0.76,27.92,58070,1.8
+Washington,"Dispatchers, Except Police, Fire, and Ambulance",4110,7.9,1.24,0.91,24.99,51980,2.6
+Washington,"Meter Readers, Utilities",680,37.4,0.204,0.98,25.12,52250,3.5
+Washington,Postal Service Clerks,1630,0,0.49,0.89,24.05,50020,0.9
+Washington,Postal Service Mail Carriers,6760,0,2.038,0.88,25.05,52110,1.5
+Washington,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1870,0,0.564,0.81,25.31,52650,2.3
+Washington,"Production, Planning, and Expediting Clerks",10910,6.9,3.288,1.3,25.18,52380,2.6
+Washington,"Shipping, Receiving, and Inventory Clerks",12460,3.5,3.755,0.78,20.5,42630,1.7
+Washington,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",900,21.6,0.271,0.65,20.37,42360,1.7
+Washington,Executive Secretaries and Executive Administrative Assistants,8420,3.7,2.537,0.69,30.75,63970,1.2
+Washington,Legal Secretaries and Administrative Assistants,2830,11.1,0.852,0.74,26.11,54310,3.4
+Washington,Medical Secretaries and Administrative Assistants,8870,5.5,2.674,0.65,20.81,43290,1.1
+Washington,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",33910,2.4,10.219,0.74,21.32,44340,0.5
+Washington,Data Entry Keyers,2080,11.8,0.628,0.58,19.52,40600,2.3
+Washington,Word Processors and Typists,460,41.7,0.138,0.43,22.74,47300,3.5
+Washington,Desktop Publishers,110,25.6,0.032,0.54,21.32,44340,8.3
+Washington,Insurance Claims and Policy Processing Clerks,3920,11.9,1.181,0.67,23.16,48180,1.3
+Washington,"Mail Clerks and Mail Machine Operators, Except Postal Service",920,8.9,0.278,0.49,17.63,36670,1.9
+Washington,"Office Clerks, General",69370,1.9,20.903,1.04,20,41600,0.5
+Washington,"Office Machine Operators, Except Computer",730,24.1,0.219,0.7,17.21,35800,3.4
+Washington,Proofreaders and Copy Markers,80,25.6,0.025,0.47,22.36,46500,3.8
+Washington,Statistical Assistants,340,9.1,0.102,1.53,31.91,66380,7.7
+Washington,"Office and Administrative Support Workers, All Other",5090,8.1,1.534,1.2,20.58,42800,1.6
+Washington,"Farming, Fishing, and Forestry Occupations",22250,5.5,6.706,2.03,16.86,35060,1.7
+Washington,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",1140,8.3,0.342,2.23,25.79,53640,2.9
+Washington,Agricultural Inspectors,720,16.9,0.218,2.32,20.05,41710,5.8
+Washington,Animal Breeders,60,35.2,0.019,1.72,28.76,59830,14.1
+Washington,"Graders and Sorters, Agricultural Products",2240,11.9,0.674,2.88,13.4,27860,1.2
+Washington,Agricultural Equipment Operators,950,18,0.287,1.56,16.84,35040,2.1
+Washington,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",12720,8.6,3.832,1.9,14.82,30830,1.8
+Washington,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1010,8.5,0.305,1.22,16.64,34610,2.2
+Washington,"Agricultural Workers, All Other",560,28.7,0.17,3.82,16.03,33340,2.4
+Washington,Forest and Conservation Workers,380,7.3,0.115,2.5,14.68,30530,1.7
+Washington,Fallers,240,40,0.073,2.19,35.24,73300,7.1
+Washington,Logging Equipment Operators,1380,8.4,0.416,2.35,25.85,53760,1.3
+Washington,Log Graders and Scalers,250,15.7,0.075,3.32,22.94,47720,3
+Washington,"Logging Workers, All Other",600,15.2,0.182,7.12,22.7,47220,6.8
+Washington,Construction and Extraction Occupations,169600,1.2,51.107,1.21,30.6,63660,0.8
+Washington,First-Line Supervisors of Construction Trades and Extraction Workers,16400,3.1,4.943,1.16,41.41,86140,1.2
+Washington,Boilermakers,**,**,**,**,36.82,76580,2.6
+Washington,Brickmasons and Blockmasons,1130,6.8,0.342,0.83,34.75,72270,3.9
+Washington,Stonemasons,120,38.5,0.036,0.43,24.16,50260,4.5
+Washington,Carpenters,25600,4.1,7.714,1.54,30.58,63600,1.4
+Washington,Carpet Installers,1100,20,0.33,1.87,22.22,46220,4.2
+Washington,"Floor Layers, Except Carpet, Wood, and Hard Tiles",330,35.4,0.099,0.9,24.14,50220,14
+Washington,Floor Sanders and Finishers,**,**,**,**,22.62,47050,11.3
+Washington,Tile and Stone Setters,1140,17.9,0.343,1.25,25.56,53160,4.3
+Washington,Cement Masons and Concrete Finishers,4670,10.1,1.408,1.05,31.86,66270,4
+Washington,Construction Laborers,31510,3.5,9.496,1.37,23.98,49880,1.1
+Washington,"Paving, Surfacing, and Tamping Equipment Operators",700,40.6,0.211,0.68,*,*,*
+Washington,Pile Driver Operators,110,36.6,0.034,1.43,33,68640,5.4
+Washington,Operating Engineers and Other Construction Equipment Operators,9000,4.9,2.711,0.98,33.85,70410,1.3
+Washington,Drywall and Ceiling Tile Installers,4390,10.1,1.323,1.89,30.84,64150,3.5
+Washington,Tapers,2280,9.7,0.686,5.6,31.36,65230,2.9
+Washington,Electricians,19840,3.2,5.979,1.28,34.21,71160,1.9
+Washington,Glaziers,2200,20.4,0.662,1.85,32.19,66960,4.5
+Washington,"Insulation Workers, Floor, Ceiling, and Wall",1340,28.9,0.404,1.77,30.49,63410,12
+Washington,"Insulation Workers, Mechanical",1040,31.8,0.313,1.72,35.74,74330,7.7
+Washington,"Painters, Construction and Maintenance",9720,4.4,2.93,1.85,21.56,44840,1.8
+Washington,Pipelayers,810,11.4,0.244,0.99,32.1,66770,2.3
+Washington,"Plumbers, Pipefitters, and Steamfitters",9810,5.3,2.955,0.98,35.02,72830,2.6
+Washington,Plasterers and Stucco Masons,360,30,0.107,0.58,28.99,60300,6.7
+Washington,Reinforcing Iron and Rebar Workers,280,25.6,0.085,0.66,35.2,73230,12.2
+Washington,Roofers,5100,7.2,1.537,1.74,28.63,59540,3.9
+Washington,Sheet Metal Workers,4270,11.7,1.287,1.44,32.43,67450,3.5
+Washington,Structural Iron and Steel Workers,1750,16.5,0.528,1.01,37.33,77650,3.4
+Washington,Solar Photovoltaic Installers,**,**,**,**,23.5,48880,2.9
+Washington,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",310,32,0.092,0.58,25.19,52380,5.8
+Washington,Helpers--Carpenters,990,28.2,0.298,1.33,18.89,39290,6.2
+Washington,Helpers--Electricians,370,23.9,0.111,0.21,22.23,46230,11
+Washington,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",200,40.1,0.06,0.81,15.8,32870,4.9
+Washington,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",600,33.5,0.181,0.46,19.01,39540,4.3
+Washington,Helpers--Roofers,140,47.8,0.041,0.67,16.77,34890,4.5
+Washington,"Helpers, Construction Trades, All Other",60,27.4,0.017,0.09,22.99,47810,3.4
+Washington,Construction and Building Inspectors,2850,6.3,0.859,1.14,36.66,76260,1.8
+Washington,Elevator and Escalator Installers and Repairers,800,49.3,0.242,1.25,53,110240,5.4
+Washington,Fence Erectors,1210,17.8,0.365,2.07,20.05,41700,6.9
+Washington,Hazardous Materials Removal Workers,1240,12,0.373,1.24,29.79,61970,5.4
+Washington,Highway Maintenance Workers,2350,4.1,0.707,0.69,26.24,54580,1
+Washington,Rail-Track Laying and Maintenance Equipment Operators,140,33.7,0.042,0.38,28.87,60040,4.1
+Washington,Septic Tank Servicers and Sewer Pipe Cleaners,850,15.5,0.255,1.26,22.9,47640,4.3
+Washington,Miscellaneous Construction and Related Workers,560,22,0.168,0.77,22.6,47000,5.6
+Washington,"Excavating and Loading Machine and Dragline Operators, Surface Mining",630,15.3,0.189,0.63,26.15,54380,3.1
+Washington,Continuous Mining Machine Operators,**,**,**,**,23.31,48490,5.1
+Washington,"Rock Splitters, Quarry",**,**,**,**,21.02,43730,6.7
+Washington,Helpers--Extraction Workers,60,34.9,0.018,0.15,20.37,42360,4
+Washington,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",350,27.1,0.106,0.62,26.41,54930,6.8
+Washington,"Installation, Maintenance, and Repair Occupations",133320,1.4,40.174,1.03,27.5,57200,1
+Washington,"First-Line Supervisors of Mechanics, Installers, and Repairers",13140,2.9,3.96,1.2,36.42,75740,1.1
+Washington,"Computer, Automated Teller, and Office Machine Repairers",1910,13.6,0.574,0.86,22.84,47520,3.6
+Washington,"Radio, Cellular, and Tower Equipment Installers and Repairers",310,33.8,0.093,0.95,31.27,65030,9.4
+Washington,"Telecommunications Equipment Installers and Repairers, Except Line Installers",4480,8.3,1.351,0.95,31.34,65180,2.2
+Washington,Avionics Technicians,3180,4.1,0.957,6.46,40.36,83940,2.6
+Washington,"Electric Motor, Power Tool, and Related Repairers",470,40.5,0.141,1.3,26.5,55120,6.3
+Washington,"Electrical and Electronics Installers and Repairers, Transportation Equipment",160,10.8,0.049,0.74,41.69,86710,3.4
+Washington,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1830,9.1,0.553,1.38,35.9,74670,2.1
+Washington,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",220,10.1,0.068,0.44,44.5,92560,2.7
+Washington,"Electronic Equipment Installers and Repairers, Motor Vehicles",**,**,**,**,24.53,51010,8.2
+Washington,Audiovisual Equipment Installers and Repairers,430,33.3,0.13,0.75,23.32,48510,5.2
+Washington,Security and Fire Alarm Systems Installers,1120,17.1,0.338,0.69,26.11,54320,2.7
+Washington,Aircraft Mechanics and Service Technicians,6070,3.4,1.828,2.01,33.38,69430,3
+Washington,Automotive Body and Related Repairers,2390,7.4,0.72,0.73,27.16,56500,5.5
+Washington,Automotive Glass Installers and Repairers,630,27.2,0.189,1.43,21.09,43860,6.5
+Washington,Automotive Service Technicians and Mechanics,12710,4.6,3.83,0.86,24.07,50060,1.3
+Washington,Bus and Truck Mechanics and Diesel Engine Specialists,6570,7.1,1.979,1.09,27.9,58030,2.6
+Washington,Farm Equipment Mechanics and Service Technicians,790,11.8,0.238,0.96,22.83,47480,2.1
+Washington,"Mobile Heavy Equipment Mechanics, Except Engines",4880,7.7,1.471,1.46,30.02,62430,1.3
+Washington,Rail Car Repairers,600,45.5,0.182,1.03,29.11,60550,4.7
+Washington,Motorboat Mechanics and Service Technicians,630,14.3,0.191,1.22,21.95,45650,5.6
+Washington,Motorcycle Mechanics,500,20.4,0.152,1.43,21.62,44970,5.4
+Washington,Outdoor Power Equipment and Other Small Engine Mechanics,660,18,0.198,0.91,19.31,40160,4.8
+Washington,Bicycle Repairers,400,27.9,0.119,1.33,15.88,33030,2.7
+Washington,Recreational Vehicle Service Technicians,530,33.9,0.159,1.5,19.84,41260,2.3
+Washington,Tire Repairers and Changers,3100,19.6,0.933,1.24,16.89,35120,5.8
+Washington,Mechanical Door Repairers,490,34.8,0.149,0.95,23.53,48950,11.7
+Washington,"Control and Valve Installers and Repairers, Except Mechanical Door",270,10.2,0.081,0.23,38.39,79850,2.7
+Washington,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",6750,8.1,2.033,0.87,29.47,61300,3.5
+Washington,Home Appliance Repairers,590,21.2,0.176,0.83,19.64,40860,2.9
+Washington,Industrial Machinery Mechanics,7700,3.7,2.321,0.88,30.6,63650,1.9
+Washington,"Maintenance Workers, Machinery",760,11.1,0.229,0.46,26.86,55870,2.1
+Washington,Millwrights,1410,10.3,0.426,1.32,31.47,65450,5
+Washington,Electrical Power-Line Installers and Repairers,2060,5.3,0.622,0.82,41.43,86180,2.1
+Washington,Telecommunications Line Installers and Repairers,1240,15.4,0.373,0.45,31.61,65760,2.8
+Washington,Medical Equipment Repairers,980,10.8,0.295,0.94,27.46,57130,3.4
+Washington,Musical Instrument Repairers and Tuners,420,46.4,0.125,2.3,22.26,46300,6.4
+Washington,"Precision Instrument and Equipment Repairers, All Other",400,22,0.12,1.66,30.63,63720,4.1
+Washington,"Maintenance and Repair Workers, General",35200,2.8,10.606,1.1,22.24,46250,0.9
+Washington,Wind Turbine Service Technicians,**,**,**,**,27.71,57630,4.1
+Washington,"Coin, Vending, and Amusement Machine Servicers and Repairers",610,15.5,0.184,0.86,23.07,47980,6.8
+Washington,Commercial Divers,90,22.6,0.027,1.17,65.52,136290,12.7
+Washington,Locksmiths and Safe Repairers,310,29.8,0.095,0.82,19.03,39590,4.2
+Washington,Manufactured Building and Mobile Home Installers,**,**,**,**,17.78,36980,17.1
+Washington,Riggers,950,8.6,0.286,1.83,28.78,59850,2.8
+Washington,Signal and Track Switch Repairers,150,40.9,0.046,0.98,38.36,79790,4.4
+Washington,"Helpers--Installation, Maintenance, and Repair Workers",1610,10.4,0.486,0.72,18.62,38740,5.3
+Washington,"Installation, Maintenance, and Repair Workers, All Other",3080,8.2,0.928,0.84,26.48,55080,3.4
+Washington,Production Occupations,178980,1.6,53.934,0.86,23.67,49240,3
+Washington,First-Line Supervisors of Production and Operating Workers,14920,2.2,4.496,1.05,35.47,73770,2
+Washington,"Coil Winders, Tapers, and Finishers",**,**,**,**,17.89,37220,5.6
+Washington,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",5670,8.7,1.709,0.88,21.44,44590,2.8
+Washington,Engine and Other Machine Assemblers,930,36.1,0.281,0.9,21.99,45740,2.7
+Washington,Structural Metal Fabricators and Fitters,1780,13.1,0.536,1.02,21.91,45580,2.8
+Washington,Fiberglass Laminators and Fabricators,1170,10.1,0.353,2.59,22.22,46210,3.3
+Washington,Miscellaneous Assemblers and Fabricators,16610,4.3,5.004,0.54,18.38,38230,1.2
+Washington,Bakers,5200,8.8,1.568,1.25,16.94,35230,2
+Washington,Butchers and Meat Cutters,4100,9.1,1.237,1.33,19.28,40110,2
+Washington,"Meat, Poultry, and Fish Cutters and Trimmers",3160,14.1,0.953,0.91,16.06,33390,3.7
+Washington,Slaughterers and Meat Packers,1200,22.5,0.363,0.73,16.19,33670,3.4
+Washington,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",650,21.4,0.196,1.38,17.52,36430,5.8
+Washington,Food Batchmakers,5310,7.4,1.599,1.47,17.74,36890,2
+Washington,Food Cooking Machine Operators and Tenders,850,21.3,0.256,1.25,16.8,34950,2
+Washington,"Food Processing Workers, All Other",280,14.4,0.083,0.28,15.76,32780,1.5
+Washington,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1020,18.2,0.308,0.59,19,39530,3.9
+Washington,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",30,21,0.009,0.08,21.27,44240,10
+Washington,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",290,27.2,0.086,0.39,23.78,49460,5.8
+Washington,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",1900,8.4,0.571,0.43,21.68,45100,4.8
+Washington,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1460,7.3,0.439,0.84,18.3,38070,2.6
+Washington,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",170,10.2,0.052,0.27,20.12,41850,6.5
+Washington,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",90,15.6,0.027,0.21,*,*,*
+Washington,Machinists,9570,4,2.884,1.1,25.88,53830,1.9
+Washington,Metal-Refining Furnace Operators and Tenders,180,19,0.055,0.47,19.84,41270,2.5
+Washington,"Pourers and Casters, Metal",70,19.4,0.021,0.39,18.23,37930,3.4
+Washington,"Model Makers, Metal and Plastic",70,6.6,0.021,0.73,35.63,74110,10.6
+Washington,Foundry Mold and Coremakers,230,10.2,0.07,0.58,19.05,39630,2.6
+Washington,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",2980,9.6,0.898,0.76,19.12,39770,2.8
+Washington,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1160,14.8,0.349,0.35,18.77,39050,4.1
+Washington,Tool and Die Makers,2270,3.2,0.685,1.42,40.31,83850,5.7
+Washington,"Welders, Cutters, Solderers, and Brazers",8400,5.6,2.531,0.91,25.94,53960,1.2
+Washington,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",130,10.8,0.038,0.16,24.66,51300,7.4
+Washington,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",100,28.8,0.03,0.23,25.03,52070,6.2
+Washington,"Layout Workers, Metal and Plastic",710,8,0.215,3.87,28.44,59150,2.9
+Washington,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",380,21.8,0.115,0.4,19.05,39620,3.9
+Washington,"Tool Grinders, Filers, and Sharpeners",200,10,0.06,1.36,31.7,65940,7.3
+Washington,"Metal Workers and Plastic Workers, All Other",630,11.8,0.189,1.14,20.61,42870,3.4
+Washington,Prepress Technicians and Workers,370,13.2,0.11,0.53,21.19,44070,3.7
+Washington,Printing Press Operators,2580,7.3,0.777,0.66,21.1,43880,1.8
+Washington,Print Binding and Finishing Workers,400,27.5,0.121,0.39,21.34,44400,3
+Washington,Laundry and Dry-Cleaning Workers,3450,6,1.041,0.73,14.7,30580,1.1
+Washington,"Pressers, Textile, Garment, and Related Materials",560,16.3,0.168,0.65,15.8,32870,4.1
+Washington,Sewing Machine Operators,2420,8.9,0.73,0.8,16.82,34980,1.8
+Washington,Shoe and Leather Workers and Repairers,**,**,**,**,13.07,27190,2.7
+Washington,Shoe Machine Operators and Tenders,**,**,**,**,16.52,34370,8.8
+Washington,"Tailors, Dressmakers, and Custom Sewers",520,49.4,0.157,0.95,16.79,34930,4.5
+Washington,"Textile Cutting Machine Setters, Operators, and Tenders",110,14.1,0.034,0.38,17.63,36660,4.7
+Washington,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",90,17,0.028,0.19,18.01,37460,2.6
+Washington,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",190,37.6,0.058,0.27,13.78,28670,6.3
+Washington,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",240,30.7,0.074,0.59,18.35,38170,5.8
+Washington,Fabric and Apparel Patternmakers,50,4.6,0.014,0.36,21.34,44380,2.7
+Washington,Upholsterers,360,19.3,0.109,0.55,23.88,49680,3.7
+Washington,"Textile, Apparel, and Furnishings Workers, All Other",190,14.7,0.057,0.46,20.01,41620,10.5
+Washington,Cabinetmakers and Bench Carpenters,2340,12,0.705,1.04,20.58,42820,3.3
+Washington,Furniture Finishers,500,20.6,0.152,1.38,18.18,37810,6.1
+Washington,"Sawing Machine Setters, Operators, and Tenders, Wood",2170,13.3,0.653,1.89,18.75,38990,3.1
+Washington,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2420,10.3,0.73,1.36,17.21,35800,1.9
+Washington,"Woodworkers, All Other",60,14.4,0.018,0.39,24.84,51670,3.3
+Washington,Power Distributors and Dispatchers,350,1.7,0.106,1.45,53.43,111130,0.9
+Washington,Power Plant Operators,510,25.4,0.155,0.68,44.9,93390,2.5
+Washington,Stationary Engineers and Boiler Operators,520,7.8,0.157,0.71,33.99,70700,1.5
+Washington,Water and Wastewater Treatment Plant and System Operators,2670,5.9,0.805,0.96,31.31,65120,2
+Washington,Chemical Plant and System Operators,260,6.2,0.078,0.4,26.67,55470,2.3
+Washington,Gas Plant Operators,100,13.8,0.031,0.32,36.57,76060,2.6
+Washington,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",780,31.1,0.234,0.85,31.11,64720,8.3
+Washington,"Plant and System Operators, All Other",270,7.8,0.081,0.91,34.44,71640,3.1
+Washington,Chemical Equipment Operators and Tenders,1860,16.9,0.559,0.94,22.63,47070,2.6
+Washington,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1460,8.9,0.439,1.26,20.71,43070,2.6
+Washington,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",690,15.9,0.208,0.91,20.99,43670,3.2
+Washington,"Grinding and Polishing Workers, Hand",340,23.8,0.102,0.51,16.64,34600,2.5
+Washington,"Mixing and Blending Machine Setters, Operators, and Tenders",2020,8.1,0.608,0.71,22.43,46650,2.1
+Washington,"Cutters and Trimmers, Hand",40,23.8,0.013,0.2,15.3,31830,3.8
+Washington,"Cutting and Slicing Machine Setters, Operators, and Tenders",1210,13.7,0.365,0.92,18.93,39370,1.5
+Washington,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",880,14.2,0.266,0.54,21.26,44220,3.7
+Washington,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",600,14,0.18,1.39,21.48,44680,2.4
+Washington,"Inspectors, Testers, Sorters, Samplers, and Weighers",12510,3.2,3.768,0.96,29.09,60510,5.2
+Washington,Jewelers and Precious Stone and Metal Workers,470,38.2,0.14,0.87,20.24,42100,2.8
+Washington,Dental Laboratory Technicians,810,12.5,0.244,1.04,23.1,48040,2.2
+Washington,Medical Appliance Technicians,240,26.7,0.073,0.76,23.06,47960,5.9
+Washington,Ophthalmic Laboratory Technicians,1090,13.5,0.327,1.65,19.09,39700,2.6
+Washington,Packaging and Filling Machine Operators and Tenders,7210,6.5,2.173,0.82,17.41,36200,2.2
+Washington,"Painting, Coating, and Decorating Workers",150,27.7,0.046,0.54,23.56,49010,4.3
+Washington,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",4050,5.9,1.22,1.22,24.64,51250,3.8
+Washington,Semiconductor Processing Technicians,**,**,**,**,19.8,41190,3.2
+Washington,Photographic Process Workers and Processing Machine Operators,190,4.3,0.056,0.69,18.39,38250,3.1
+Washington,Computer Numerically Controlled Tool Operators,2150,10.6,0.648,0.63,32.12,66820,4.8
+Washington,Computer Numerically Controlled Tool Programmers,550,6.8,0.165,0.95,44.95,93500,4.9
+Washington,Adhesive Bonding Machine Operators and Tenders,620,10.8,0.188,1.99,23.52,48930,4.3
+Washington,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",340,16.6,0.103,0.92,16.36,34020,3.1
+Washington,Cooling and Freezing Equipment Operators and Tenders,140,17.2,0.043,0.72,19.03,39590,4.4
+Washington,Etchers and Engravers,180,36.2,0.055,0.79,22.15,46060,3.9
+Washington,"Molders, Shapers, and Casters, Except Metal and Plastic",860,19.9,0.26,0.85,22.09,45950,5
+Washington,"Paper Goods Machine Setters, Operators, and Tenders",2110,11.6,0.636,0.93,23.15,48150,5.3
+Washington,Helpers--Production Workers,3020,8,0.909,0.44,17.53,36460,2.1
+Washington,"Production Workers, All Other",1980,31.5,0.597,0.39,18.41,38300,6.5
+Washington,Transportation and Material Moving Occupations,263330,2.7,79.351,0.93,21.85,45440,3.3
+Washington,Aircraft Cargo Handling Supervisors,**,**,**,**,27.94,58120,5.6
+Washington,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",10850,3.8,3.27,1.05,30.89,64250,1.1
+Washington,"Airline Pilots, Copilots, and Flight Engineers",2900,1.4,0.875,1.52,*,234060,15.4
+Washington,Commercial Pilots,1120,12.6,0.337,1.31,*,103410,6.2
+Washington,Airfield Operations Specialists,170,17.6,0.05,0.69,32.98,68590,3.1
+Washington,Flight Attendants,4250,0.6,1.282,1.56,*,78440,7.9
+Washington,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",50,11.8,0.016,0.16,15.48,32200,6.8
+Washington,Driver/Sales Workers,8000,14.1,2.41,0.8,16.67,34680,3.2
+Washington,Heavy and Tractor-Trailer Truck Drivers,32430,3,9.773,0.77,24.7,51370,1
+Washington,Light Truck Drivers,18100,4,5.454,0.87,20.47,42570,1.5
+Washington,"Bus Drivers, Transit and Intercity",5850,4.3,1.763,1.44,27.83,57880,5
+Washington,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",16760,4.8,5.05,1.06,19.99,41590,1.4
+Washington,"Motor Vehicle Operators, All Other",2500,16.4,0.753,1.96,17.41,36210,2.8
+Washington,Locomotive Engineers,410,37.4,0.124,0.51,42.84,89100,2.4
+Washington,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",250,36.7,0.075,0.99,33.82,70340,10.1
+Washington,Railroad Conductors and Yardmasters,660,45.1,0.2,0.64,33.27,69210,3.1
+Washington,"Rail Transportation Workers, All Other",**,**,**,**,30.24,62890,2.4
+Washington,Sailors and Marine Oilers,3500,4.9,1.056,4.96,27.05,56270,3.2
+Washington,"Captains, Mates, and Pilots of Water Vessels",2010,12.5,0.605,2.66,47.5,98800,5.3
+Washington,Motorboat Operators,70,27.7,0.023,1.56,29.85,62090,2.9
+Washington,Ship Engineers,1170,12,0.352,6.15,43.99,91500,4.3
+Washington,Bridge and Lock Tenders,60,0,0.017,0.79,29.56,61490,2.9
+Washington,Parking Attendants,3130,9.3,0.943,0.94,15.46,32170,1.3
+Washington,Automotive and Watercraft Service Attendants,2520,13.8,0.76,0.95,15.87,33010,2.3
+Washington,Traffic Technicians,90,8.2,0.026,0.52,31.01,64490,2.7
+Washington,Transportation Inspectors,660,20.9,0.199,0.97,40.9,85060,4.3
+Washington,Passenger Attendants,910,31.6,0.273,1.42,17.98,37400,2.7
+Washington,"Aircraft Service Attendants and Transportation Workers, All Other",1120,12.8,0.336,1.41,22.54,46870,7
+Washington,Conveyor Operators and Tenders,640,20.4,0.193,1.18,18.99,39500,4.8
+Washington,Crane and Tower Operators,1380,24.4,0.417,1.35,36.24,75380,2.9
+Washington,Hoist and Winch Operators,110,49.3,0.034,1.05,31.13,64740,4.8
+Washington,Industrial Truck and Tractor Operators,11880,12.3,3.578,0.84,20.98,43630,2.3
+Washington,Cleaners of Vehicles and Equipment,8270,6.6,2.492,0.96,15.61,32480,1.2
+Washington,"Laborers and Freight, Stock, and Material Movers, Hand",64880,6.3,19.551,0.97,17.47,36330,0.9
+Washington,Machine Feeders and Offbearers,1590,16.5,0.48,1.11,18.49,38460,2.8
+Washington,"Packers and Packagers, Hand",16620,7.3,5.009,1.16,15.18,31580,1
+Washington,Stockers and Order Fillers,34060,4.2,10.265,0.71,17.01,35390,0.7
+Washington,"Pump Operators, Except Wellhead Pumpers",**,**,**,**,22.89,47610,3.3
+Washington,Refuse and Recyclable Material Collectors,2940,7.9,0.886,1.07,26.24,54570,2.4
+Washington,"Material Moving Workers, All Other",450,20.9,0.136,0.71,19.29,40120,5.2

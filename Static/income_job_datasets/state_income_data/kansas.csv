@@ -1,0 +1,693 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Kansas,All Occupations,1392480,0.7,1000,1,22.37,46520,0.7
+Kansas,Management Occupations,63400,1.3,45.528,0.83,50.66,105360,0.7
+Kansas,Chief Executives,3620,3.3,2.598,1.85,79.21,164760,1.5
+Kansas,General and Operations Managers,18340,2.1,13.17,0.81,47.34,98480,1
+Kansas,Legislators,780,16.9,0.563,1.58,*,20240,2.8
+Kansas,Advertising and Promotions Managers,90,19,0.066,0.39,56.02,116510,8.8
+Kansas,Marketing Managers,1660,7.5,1.194,0.67,69.93,145440,3.3
+Kansas,Sales Managers,3200,6.3,2.299,0.84,69.41,144370,3.2
+Kansas,Public Relations and Fundraising Managers,590,10,0.421,0.78,52.4,109000,2.4
+Kansas,Administrative Services and Facilities Managers,1910,3.6,1.374,0.66,46.46,96630,1.4
+Kansas,Computer and Information Systems Managers,3150,4.6,2.263,0.77,59.79,124350,2.1
+Kansas,Financial Managers,4440,3.9,3.19,0.72,65.25,135720,2.3
+Kansas,Industrial Production Managers,1810,3.8,1.3,1.03,49.79,103560,1.6
+Kansas,Purchasing Managers,580,7,0.415,0.84,51.95,108050,1.5
+Kansas,"Transportation, Storage, and Distribution Managers",980,5.1,0.706,0.78,48.48,100840,1.4
+Kansas,Compensation and Benefits Managers,90,7.9,0.067,0.58,58.55,121770,3
+Kansas,Human Resources Managers,1080,3.2,0.779,0.74,53.87,112060,1.6
+Kansas,Training and Development Managers,220,8.1,0.156,0.6,50.77,105600,2.9
+Kansas,Construction Managers,2640,6.2,1.895,0.95,42.07,87510,2.6
+Kansas,"Education and Childcare Administrators, Preschool and Daycare",510,8.6,0.368,1.03,21.53,44780,3.1
+Kansas,"Education Administrators, Kindergarten through Secondary",2390,3.6,1.716,0.93,*,87140,1.8
+Kansas,"Education Administrators, Postsecondary",1450,5.8,1.044,1.06,50.18,104360,3.7
+Kansas,"Education Administrators, All Other",270,6.1,0.192,0.63,41.48,86270,5.5
+Kansas,Architectural and Engineering Managers,1550,9.4,1.114,0.84,64.21,133560,1.6
+Kansas,Food Service Managers,1000,15.2,0.719,0.45,27.38,56940,6.2
+Kansas,Gambling Managers,30,23.4,0.025,0.81,40.9,85060,7.5
+Kansas,Lodging Managers,190,25.3,0.134,0.51,27.98,58200,11.1
+Kansas,Medical and Health Services Managers,4110,3.7,2.955,1.1,45.22,94060,1.9
+Kansas,Natural Sciences Managers,230,6.4,0.168,0.36,63.42,131920,2.8
+Kansas,Postmasters and Mail Superintendents,200,0,0.143,1.52,36.57,76060,0.6
+Kansas,"Property, Real Estate, and Community Association Managers",2600,10.3,1.869,1.24,24.8,51590,6.1
+Kansas,Social and Community Service Managers,1120,5,0.805,0.76,30.87,64220,2.2
+Kansas,Emergency Management Directors,200,8.6,0.141,2.05,26.5,55110,2.8
+Kansas,Funeral Home Managers,140,29.2,0.103,1.61,32.27,67130,10.9
+Kansas,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",2170,4,1.559,0.49,49.3,102550,1.7
+Kansas,Business and Financial Operations Occupations,75300,1.8,54.076,0.97,33.49,69660,0.9
+Kansas,"Agents and Business Managers of Artists, Performers, and Athletes",40,27.7,0.027,0.23,*,*,*
+Kansas,Buyers and Purchasing Agents,5140,5.4,3.688,1.29,30.34,63110,1.9
+Kansas,"Claims Adjusters, Examiners, and Investigators",2540,16.1,1.824,0.93,35.16,73120,2.8
+Kansas,"Insurance Appraisers, Auto Damage",**,**,**,**,31.8,66140,6.9
+Kansas,Compliance Officers,3000,3.8,2.152,1,29.69,61750,1.5
+Kansas,Cost Estimators,2470,8.5,1.775,1.24,32.1,66780,1.6
+Kansas,Human Resources Specialists,5840,3,4.197,0.97,29.65,61660,1
+Kansas,Labor Relations Specialists,500,6.1,0.357,0.69,23.98,49880,12.2
+Kansas,Logisticians,1520,6.9,1.093,0.88,35.54,73930,1.6
+Kansas,Management Analysts,5160,5.3,3.709,0.77,37.13,77230,3.3
+Kansas,"Meeting, Convention, and Event Planners",1110,10.2,0.798,1,21.42,44550,4.2
+Kansas,Fundraisers,**,**,**,**,24.75,51480,4.2
+Kansas,"Compensation, Benefits, and Job Analysis Specialists",540,5.9,0.389,0.64,30.79,64050,2
+Kansas,Training and Development Specialists,3760,9.9,2.701,1.27,29.23,60790,2.1
+Kansas,Market Research Analysts and Marketing Specialists,6470,4.4,4.646,1.01,31.95,66450,2.7
+Kansas,"Project Management Specialists and Business Operations Specialists, All Other",10390,3.7,7.461,0.86,36.36,75630,1.3
+Kansas,Accountants and Auditors,12680,3,9.107,1.04,33.07,68780,1.2
+Kansas,Property Appraisers and Assessors,1170,9.2,0.842,2.2,27.65,57520,6.7
+Kansas,Budget Analysts,260,4.9,0.187,0.53,33.33,69330,1.4
+Kansas,Credit Analysts,570,9.6,0.41,0.81,31.59,65700,2.8
+Kansas,Personal Financial Advisors,2060,9.6,1.481,1.03,49.35,102660,8.7
+Kansas,Insurance Underwriters,1090,18.1,0.785,1.15,39.53,82220,4.2
+Kansas,Financial Examiners,570,13.1,0.409,0.93,35.54,73920,3.5
+Kansas,Credit Counselors,90,23.9,0.062,0.29,24.32,50580,8.3
+Kansas,Loan Officers,4060,8,2.915,1.39,38.18,79410,3.6
+Kansas,"Tax Examiners and Collectors, and Revenue Agents",70,6.9,0.05,0.14,38.75,80590,4.9
+Kansas,Tax Preparers,440,19.1,0.314,0.69,18.15,37760,8.6
+Kansas,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",2780,6.2,1.994,0.64,37.41,77820,5.2
+Kansas,Computer and Mathematical Occupations,36140,3.4,25.953,0.84,36.44,75790,1
+Kansas,Computer Systems Analysts,4980,11,3.575,0.89,37.39,77770,2
+Kansas,Information Security Analysts,840,11.2,0.601,0.7,41.97,87290,1.7
+Kansas,Computer and Information Research Scientists,130,13.5,0.095,0.45,50.06,104110,7.3
+Kansas,Computer Network Support Specialists,810,8.2,0.584,0.46,24.66,51300,4.3
+Kansas,Computer User Support Specialists,7020,5.7,5.04,1.14,22.43,46660,1.4
+Kansas,Computer Network Architects,1440,7.9,1.034,1,47.82,99470,2.7
+Kansas,Network and Computer Systems Administrators,5510,5.2,3.96,1.64,36.67,76260,1.4
+Kansas,Database Administrators and Architects,810,6,0.579,0.68,43.18,89810,2.4
+Kansas,Computer Programmers,1240,11,0.891,0.66,39.02,81150,2.1
+Kansas,Software Developers and Software Quality Assurance Analysts and Testers,9000,6.4,6.461,0.67,44.22,91990,1.5
+Kansas,Web Developers and Digital Interface Designers,1080,10.2,0.773,0.77,31.57,65670,2.5
+Kansas,"Computer Occupations, All Other",1790,7.6,1.285,0.48,32.91,68450,4
+Kansas,Actuaries,430,24.5,0.308,2.03,53.55,111380,7.5
+Kansas,Operations Research Analysts,810,10.9,0.582,0.86,41.31,85920,2.8
+Kansas,Statisticians,150,16.3,0.106,0.4,43.55,90590,4.3
+Kansas,"Data Scientists and Mathematical Science Occupations, All Other",110,35.4,0.078,0.37,33.43,69520,5.6
+Kansas,Architecture and Engineering Occupations,23350,4.7,16.767,0.95,37.77,78570,1.3
+Kansas,"Architects, Except Landscape and Naval",980,7.9,0.707,0.98,36.1,75090,4
+Kansas,Landscape Architects,200,29.2,0.147,1.07,31.03,64540,5.5
+Kansas,Cartographers and Photogrammetrists,130,22.6,0.093,1.21,28.67,59640,3.4
+Kansas,Surveyors,420,17.2,0.298,0.97,27.45,57090,4.1
+Kansas,Aerospace Engineers,2450,14.1,1.758,4.08,51.11,106300,1.8
+Kansas,Agricultural Engineers,30,41,0.022,2.05,*,*,*
+Kansas,Bioengineers and Biomedical Engineers,50,24.6,0.034,0.25,37.8,78620,6.7
+Kansas,Chemical Engineers,180,17.3,0.126,0.62,41.18,85650,7
+Kansas,Civil Engineers,2100,9.7,1.508,0.71,38.9,80920,3.7
+Kansas,Computer Hardware Engineers,300,17.4,0.217,0.47,45.09,93790,4.7
+Kansas,Electrical Engineers,1960,15,1.404,1.11,42.65,88720,1.2
+Kansas,"Electronics Engineers, Except Computer",1310,38.3,0.942,1.07,44.44,92430,1.6
+Kansas,Environmental Engineers,390,10.1,0.278,0.77,42.03,87420,2.6
+Kansas,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",150,13.9,0.107,0.6,42.77,88950,2.4
+Kansas,Industrial Engineers,3030,5.8,2.174,1.09,39.07,81260,1.6
+Kansas,Materials Engineers,270,15.3,0.193,1.06,50.62,105290,5
+Kansas,Mechanical Engineers,2800,8.4,2.013,0.96,38.33,79720,1.4
+Kansas,Nuclear Engineers,**,**,**,**,54.08,112490,2.4
+Kansas,Petroleum Engineers,130,19.3,0.091,0.41,49.02,101970,8.3
+Kansas,"Engineers, All Other",620,11.1,0.449,0.43,38.42,79910,3.8
+Kansas,Architectural and Civil Drafters,530,14.3,0.378,0.56,26.8,55750,2.9
+Kansas,Electrical and Electronics Drafters,160,24,0.118,0.72,30.73,63920,2.4
+Kansas,Mechanical Drafters,970,10.6,0.7,1.86,25.15,52310,2.4
+Kansas,"Drafters, All Other",100,35.2,0.07,0.71,24.38,50700,4.1
+Kansas,Aerospace Engineering and Operations Technologists and Technicians,490,19.5,0.35,4.45,32.99,68610,6.1
+Kansas,Civil Engineering Technologists and Technicians,930,12,0.668,1.43,21.97,45700,2.4
+Kansas,Electrical and Electronic Engineering Technologists and Technicians,660,9.2,0.475,0.57,29.26,60860,1.9
+Kansas,Electro-Mechanical and Mechatronics Technologists and Technicians,50,14.4,0.034,0.35,*,*,*
+Kansas,Environmental Engineering Technologists and Technicians,100,25,0.072,0.59,24.81,51600,5.1
+Kansas,Industrial Engineering Technologists and Technicians,570,14.2,0.409,0.9,25.56,53160,4.7
+Kansas,Mechanical Engineering Technologists and Technicians,270,12.5,0.195,0.67,24.17,50280,2.1
+Kansas,Surveying and Mapping Technicians,380,14.6,0.273,0.76,23.78,49460,3.4
+Kansas,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",490,23.3,0.354,0.59,31.91,66370,6
+Kansas,"Life, Physical, and Social Science Occupations",10060,4.1,7.226,0.82,31.98,66510,1.7
+Kansas,Food Scientists and Technologists,210,12.4,0.15,1.64,37.58,78170,6.7
+Kansas,Soil and Plant Scientists,400,10.5,0.284,2.95,29.24,60820,4.2
+Kansas,Microbiologists,90,12.6,0.068,0.55,25.6,53240,4
+Kansas,Zoologists and Wildlife Biologists,170,13.7,0.12,0.91,26.93,56010,0.9
+Kansas,"Biological Scientists, All Other",280,2.8,0.204,0.75,32.42,67440,1.8
+Kansas,Conservation Scientists,160,16,0.112,0.74,31.57,65660,3.9
+Kansas,Epidemiologists,30,6.1,0.022,0.45,30.91,64290,2.6
+Kansas,"Medical Scientists, Except Epidemiologists",620,8.1,0.442,0.51,34.91,72610,3.5
+Kansas,Physicists,30,11.2,0.022,0.19,87.11,181190,6.9
+Kansas,Atmospheric and Space Scientists,250,31.6,0.176,2.79,34.47,71700,4.3
+Kansas,Chemists,770,12.9,0.551,0.97,39.61,82390,3.1
+Kansas,"Environmental Scientists and Specialists, Including Health",480,10.5,0.347,0.61,36.61,76140,6.5
+Kansas,"Geoscientists, Except Hydrologists and Geographers",260,16.9,0.185,0.93,37.02,77000,5.2
+Kansas,Hydrologists,30,6.6,0.022,0.51,31.92,66400,2.1
+Kansas,"Physical Scientists, All Other",120,2,0.089,0.74,47.13,98020,2.4
+Kansas,Survey Researchers,120,2,0.086,1.28,25.58,53200,3.4
+Kansas,"Clinical, Counseling, and School Psychologists",870,7.6,0.626,0.81,33.43,69530,4
+Kansas,"Psychologists, All Other",130,11.2,0.091,0.94,50.47,104980,2.3
+Kansas,Urban and Regional Planners,240,10.2,0.17,0.65,32.75,68120,1.8
+Kansas,"Social Scientists and Related Workers, All Other",220,8.6,0.158,0.69,40.16,83540,2.1
+Kansas,Agricultural and Food Science Technicians,400,15.8,0.285,1.91,20.85,43380,4.3
+Kansas,Biological Technicians,350,12.4,0.254,0.47,20.08,41770,2.8
+Kansas,Chemical Technicians,610,15.1,0.44,0.98,22.95,47740,3.5
+Kansas,"Environmental Science and Protection Technicians, Including Health",390,12.9,0.281,1.27,23.87,49640,3.8
+Kansas,Geological and Hydrologic Technicians,80,20.8,0.057,0.49,27.68,57580,7.4
+Kansas,Forest and Conservation Technicians,120,2.9,0.089,0.68,18.17,37790,0.9
+Kansas,Forensic Science Technicians,400,15.9,0.285,2.54,24.26,50460,4.2
+Kansas,"Life, Physical, and Social Science Technicians, All Other",360,8.1,0.258,0.59,26.56,55240,4.1
+Kansas,Occupational Health and Safety Specialists,840,3.4,0.604,0.96,33.03,68700,1.4
+Kansas,Occupational Health and Safety Technicians,320,6.5,0.231,1.65,26.27,54630,2.4
+Kansas,Community and Social Service Occupations,17880,2.5,12.84,0.84,20.8,43260,1.2
+Kansas,"Educational, Guidance, and Career Counselors and Advisors",2660,4.2,1.912,0.95,25.1,52200,2.4
+Kansas,Marriage and Family Therapists,200,18.8,0.146,0.36,20.74,43130,4.6
+Kansas,Rehabilitation Counselors,910,10.3,0.654,0.88,15.51,32250,2.7
+Kansas,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1640,6.8,1.179,0.61,21.56,44850,2
+Kansas,"Counselors, All Other",**,**,**,**,20.73,43120,13.4
+Kansas,"Child, Family, and School Social Workers",2200,4.9,1.579,0.71,20.87,43420,1.8
+Kansas,Healthcare Social Workers,1470,5.7,1.055,0.89,26.67,55470,1.6
+Kansas,Mental Health and Substance Abuse Social Workers,990,7.5,0.714,0.89,20.91,43500,2.2
+Kansas,"Social Workers, All Other",310,4.5,0.22,0.55,31.23,64950,1.5
+Kansas,Health Education Specialists,390,12,0.281,0.7,25.94,53960,9
+Kansas,Probation Officers and Correctional Treatment Specialists,740,2.5,0.531,0.89,21.77,45290,1.1
+Kansas,Social and Human Service Assistants,4560,7.1,3.273,1.19,16.19,33680,1.2
+Kansas,Community Health Workers,200,22.5,0.144,0.36,23.09,48020,3.4
+Kansas,"Community and Social Service Specialists, All Other",1060,5.1,0.764,1.15,17.69,36800,2
+Kansas,Clergy,370,14.3,0.269,0.74,22.74,47310,1.7
+Kansas,"Directors, Religious Activities and Education",50,13.5,0.036,0.24,30.92,64300,7.2
+Kansas,Legal Occupations,7600,4.5,5.458,0.7,38.65,80400,4.4
+Kansas,Lawyers,3640,6.1,2.616,0.58,53.03,110290,5.9
+Kansas,"Administrative Law Judges, Adjudicators, and Hearing Officers",50,0,0.036,0.37,57.76,120140,1.4
+Kansas,"Arbitrators, Mediators, and Conciliators",40,14.5,0.025,0.61,29.9,62190,3.9
+Kansas,"Judges, Magistrate Judges, and Magistrates",450,5.8,0.32,1.64,46.78,97310,8.6
+Kansas,Paralegals and Legal Assistants,2470,9.7,1.773,0.79,21.38,44460,4.6
+Kansas,"Title Examiners, Abstractors, and Searchers",510,29.4,0.369,1.02,21.79,45330,3.3
+Kansas,"Legal Support Workers, All Other",440,3.2,0.316,1.03,26.7,55530,1
+Kansas,Educational Instruction and Library Occupations,93450,3.2,67.113,1.11,22.22,46230,2.6
+Kansas,"Business Teachers, Postsecondary",530,9.6,0.383,0.67,*,93230,10.4
+Kansas,"Computer Science Teachers, Postsecondary",130,6.6,0.097,0.45,*,77280,9.5
+Kansas,"Mathematical Science Teachers, Postsecondary",450,12.4,0.321,0.92,*,73250,10.5
+Kansas,"Architecture Teachers, Postsecondary",140,2.9,0.102,2.2,*,89190,6.3
+Kansas,"Engineering Teachers, Postsecondary",270,8.4,0.195,0.79,*,114400,6.5
+Kansas,"Agricultural Sciences Teachers, Postsecondary",240,5,0.174,2.7,*,100640,2.3
+Kansas,"Biological Science Teachers, Postsecondary",370,17.7,0.265,0.73,*,75980,12.2
+Kansas,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",60,2.5,0.043,0.57,*,91050,5.1
+Kansas,"Chemistry Teachers, Postsecondary",150,11.5,0.109,0.75,*,97420,6
+Kansas,"Physics Teachers, Postsecondary",100,13.4,0.074,0.79,*,100090,4.6
+Kansas,"Anthropology and Archeology Teachers, Postsecondary",80,31.9,0.061,1.52,*,66150,17.9
+Kansas,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",110,1.1,0.078,1.08,*,*,*
+Kansas,"Economics Teachers, Postsecondary",90,8.8,0.064,0.71,*,117310,14.9
+Kansas,"Political Science Teachers, Postsecondary",110,7.3,0.077,0.72,*,66740,5.9
+Kansas,"Psychology Teachers, Postsecondary",250,13.6,0.176,0.69,*,87830,11.3
+Kansas,"Sociology Teachers, Postsecondary",230,16.4,0.166,1.76,*,74200,10.3
+Kansas,"Social Sciences Teachers, Postsecondary, All Other",80,10,0.057,0.49,*,83320,6.3
+Kansas,"Nursing Instructors and Teachers, Postsecondary",480,8.1,0.346,0.85,*,68090,8.3
+Kansas,"Education Teachers, Postsecondary",280,18.3,0.201,0.48,*,75070,6.5
+Kansas,"Library Science Teachers, Postsecondary",70,8,0.047,1.57,*,74170,2.6
+Kansas,"Criminal Justice and Law Enforcement Teachers, Postsecondary",50,17.9,0.033,0.35,*,44280,9
+Kansas,"Social Work Teachers, Postsecondary",150,15.9,0.104,1.12,*,85310,13.9
+Kansas,"Art, Drama, and Music Teachers, Postsecondary",510,11.5,0.366,0.57,*,71960,4.7
+Kansas,"Communications Teachers, Postsecondary",260,6.9,0.184,0.93,*,75530,5.6
+Kansas,"English Language and Literature Teachers, Postsecondary",460,7.1,0.327,0.71,*,65120,4.7
+Kansas,"Foreign Language and Literature Teachers, Postsecondary",140,11.6,0.101,0.6,*,75440,7.7
+Kansas,"History Teachers, Postsecondary",130,12,0.094,0.65,*,80130,5.2
+Kansas,"Philosophy and Religion Teachers, Postsecondary",290,17.9,0.205,1.28,*,82660,4
+Kansas,"Recreation and Fitness Studies Teachers, Postsecondary",60,6.2,0.044,0.41,*,76360,13.5
+Kansas,"Career/Technical Education Teachers, Postsecondary",1560,10.8,1.117,1.46,26.32,54750,3.3
+Kansas,"Postsecondary Teachers, All Other",3230,15.8,2.318,1.69,*,83440,4
+Kansas,"Preschool Teachers, Except Special Education",2210,11.6,1.588,0.54,15.22,31650,4
+Kansas,"Kindergarten Teachers, Except Special Education",1020,12.8,0.735,0.87,*,51100,4.4
+Kansas,"Elementary School Teachers, Except Special Education",16340,3.5,11.731,1.2,*,50650,2.6
+Kansas,"Middle School Teachers, Except Special and Career/Technical Education",6630,3.9,4.761,1.12,*,53500,3.6
+Kansas,"Career/Technical Education Teachers, Middle School",50,22.7,0.038,0.47,*,60160,5.1
+Kansas,"Secondary School Teachers, Except Special and Career/Technical Education",12310,5.8,8.84,1.25,*,52050,2.6
+Kansas,"Career/Technical Education Teachers, Secondary School",540,14,0.387,0.76,*,56220,1.9
+Kansas,"Special Education Teachers, Preschool",400,6.8,0.288,1.9,*,53730,2.7
+Kansas,"Special Education Teachers, Kindergarten and Elementary School",1290,8.7,0.927,0.7,*,54330,2
+Kansas,"Special Education Teachers, Middle School",360,13.9,0.258,0.44,*,53520,2.1
+Kansas,"Special Education Teachers, Secondary School",1030,7.9,0.737,0.76,*,53130,1.8
+Kansas,"Special Education Teachers, All Other",**,**,**,**,*,69180,3.4
+Kansas,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",100,26.7,0.071,0.2,17.3,35980,5
+Kansas,Self-Enrichment Teachers,1940,26.4,1.393,0.81,17.28,35940,4.8
+Kansas,"Substitute Teachers, Short-Term",10290,10.7,7.39,1.85,15.13,31480,3.7
+Kansas,"Tutors and Teachers and Instructors, All Other",2180,8.8,1.568,0.72,*,43720,10.6
+Kansas,Archivists,30,26.3,0.023,0.51,24.1,50140,12.8
+Kansas,Curators,120,9.3,0.089,1.02,26.07,54230,2.7
+Kansas,Museum Technicians and Conservators,170,16.8,0.12,1.34,17.41,36210,3.7
+Kansas,Librarians and Media Collections Specialists,1790,15.2,1.288,1.39,21.93,45610,4.7
+Kansas,Library Technicians,880,16,0.633,1.05,19.19,39910,2.9
+Kansas,Farm and Home Management Educators,270,22.1,0.195,3.28,28.27,58800,5.7
+Kansas,Instructional Coordinators,1420,5.8,1.016,0.84,28.63,59550,1.7
+Kansas,"Teaching Assistants, Postsecondary",340,6.1,0.243,0.26,*,33980,6.1
+Kansas,"Teaching Assistants, Except Postsecondary",19320,3.9,13.872,1.51,*,25110,2
+Kansas,"Educational Instruction and Library Workers, All Other",620,4.7,0.448,0.51,24.34,50620,2.6
+Kansas,"Arts, Design, Entertainment, Sports, and Media Occupations",17380,3.9,12.48,0.91,21.08,43850,1.9
+Kansas,Art Directors,400,14,0.286,0.98,39.58,82320,2.7
+Kansas,Special Effects Artists and Animators,80,26.6,0.055,0.28,32.84,68310,11
+Kansas,Commercial and Industrial Designers,150,32.4,0.105,0.47,33.31,69290,4.3
+Kansas,Fashion Designers,80,41.9,0.054,0.36,29.47,61290,7
+Kansas,Floral Designers,460,10.4,0.332,1.17,12.33,25640,3
+Kansas,Graphic Designers,2420,5.4,1.735,1.18,22.25,46270,1.9
+Kansas,Interior Designers,490,16.1,0.352,0.85,27.49,57180,4.8
+Kansas,Merchandise Displayers and Window Trimmers,1270,22.8,0.912,0.95,14.39,29930,2.8
+Kansas,Set and Exhibit Designers,40,19.8,0.027,0.32,18.67,38830,5.6
+Kansas,"Designers, All Other",**,**,**,**,28.95,60220,23.7
+Kansas,Producers and Directors,390,17.6,0.278,0.32,29.22,60780,5.1
+Kansas,Athletes and Sports Competitors,80,12.6,0.06,0.78,*,64310,21.1
+Kansas,Coaches and Scouts,3990,11.1,2.863,1.74,*,30490,6.8
+Kansas,"Umpires, Referees, and Other Sports Officials",950,6.6,0.683,4.99,*,34200,8.3
+Kansas,Music Directors and Composers,60,19.4,0.044,0.61,22.22,46230,4.2
+Kansas,Musicians and Singers,390,47.3,0.279,1,24.41,*,14.2
+Kansas,Broadcast Announcers and Radio Disc Jockeys,470,20,0.341,1.71,17.78,36980,5.8
+Kansas,"News Analysts, Reporters, and Journalists",330,12.5,0.239,0.8,21.37,44450,5.5
+Kansas,Public Relations Specialists,1870,5.8,1.342,0.81,27.55,57310,2.3
+Kansas,Editors,600,13.3,0.427,0.65,24.48,50910,3.5
+Kansas,Technical Writers,560,8.4,0.405,1.17,30.8,64070,2
+Kansas,Writers and Authors,250,22.3,0.18,0.58,28.96,60230,4.8
+Kansas,Interpreters and Translators,400,7.5,0.285,0.71,20.35,42330,4.7
+Kansas,Court Reporters and Simultaneous Captioners,230,29,0.168,1.7,24.41,50770,2.9
+Kansas,"Media and Communication Workers, All Other",50,25.3,0.036,0.21,24.86,51710,7.1
+Kansas,Audio and Video Technicians,280,19,0.202,0.4,25.13,52270,3.2
+Kansas,Broadcast Technicians,140,21.5,0.1,0.51,19.39,40340,4.5
+Kansas,Photographers,320,14.5,0.229,0.66,16.3,33900,8.5
+Kansas,"Camera Operators, Television, Video, and Film",170,17.4,0.12,0.82,20.84,43350,3.8
+Kansas,Film and Video Editors,40,25.9,0.032,0.17,21.22,44140,11.7
+Kansas,"Lighting Technicians and Media and Communication Equipment Workers, All Other",60,16.1,0.045,0.28,33.49,69650,5.5
+Kansas,Healthcare Practitioners and Technical Occupations,86100,2.3,61.831,1.05,33.68,70060,1.3
+Kansas,Chiropractors,490,14.5,0.354,1.49,28.9,60120,7.2
+Kansas,"Dentists, General",640,14.8,0.457,0.61,88.49,184070,8.3
+Kansas,Dietitians and Nutritionists,500,7.9,0.362,0.79,27.85,57930,2
+Kansas,Optometrists,520,14.2,0.375,1.4,58.01,120660,7.2
+Kansas,Pharmacists,3490,7.4,2.503,1.18,58.52,121710,1.6
+Kansas,Physician Assistants,1050,13.2,0.756,0.92,51.73,107610,1.9
+Kansas,Occupational Therapists,1480,12.9,1.066,1.17,39.34,81830,1.9
+Kansas,Physical Therapists,2340,7.5,1.684,1.06,42.46,88310,1.8
+Kansas,Radiation Therapists,240,20.1,0.171,1.4,34.68,72140,2.5
+Kansas,Recreational Therapists,380,9.1,0.275,2.12,17.75,36910,3
+Kansas,Respiratory Therapists,1210,8.1,0.871,0.97,27.21,56600,0.9
+Kansas,Speech-Language Pathologists,1490,7.6,1.067,1.02,35.62,74100,2.5
+Kansas,Exercise Physiologists,60,26.2,0.041,0.84,27.23,56650,16
+Kansas,"Therapists, All Other",60,20.7,0.042,0.51,21,43670,5.9
+Kansas,Veterinarians,780,11.7,0.563,1.11,44.23,91990,7.2
+Kansas,Registered Nurses,30370,3.6,21.811,1.07,30.02,62450,1.1
+Kansas,Nurse Anesthetists,**,**,**,**,77.89,162010,3.8
+Kansas,Nurse Practitioners,2790,7.5,2.004,1.47,48.34,100550,1.6
+Kansas,Audiologists,140,14.6,0.1,1.08,32.54,67680,3.8
+Kansas,Anesthesiologists,190,47.6,0.136,0.64,133.08,276800,17.6
+Kansas,Family Medicine Physicians,550,19.3,0.398,0.53,112.49,233970,6.6
+Kansas,General Internal Medicine Physicians,**,**,**,**,101.81,211770,10.5
+Kansas,Obstetricians and Gynecologists,230,40.8,0.167,1.32,106.57,221660,11.3
+Kansas,"Pediatricians, General",90,36.7,0.066,0.33,75.3,156620,7.7
+Kansas,Psychiatrists,**,**,**,**,123.07,255980,20.8
+Kansas,"Physicians, All Other; and Ophthalmologists, Except Pediatric",2930,6.2,2.102,0.79,87.59,182180,7.2
+Kansas,"Surgeons, Except Ophthalmologists",120,27.1,0.085,0.34,129.55,269460,8.2
+Kansas,Dental Hygienists,2120,9.2,1.521,1.01,32.85,68340,3
+Kansas,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",160,6.5,0.117,0.47,38.08,79210,10.7
+Kansas,Clinical Laboratory Technologists and Technicians,3520,4.3,2.53,1.14,23.25,48350,1.1
+Kansas,Cardiovascular Technologists and Technicians,510,11.6,0.368,0.96,27.29,56760,2.4
+Kansas,Diagnostic Medical Sonographers,620,10.6,0.448,0.9,36.86,76670,1.4
+Kansas,Nuclear Medicine Technologists,150,10.3,0.109,0.88,37.96,78960,1.3
+Kansas,Radiologic Technologists and Technicians,2130,4.2,1.532,1.09,26.32,54750,0.8
+Kansas,Magnetic Resonance Imaging Technologists,250,9.9,0.182,0.7,31.15,64790,1.8
+Kansas,Emergency Medical Technicians and Paramedics,2760,10.5,1.984,1.12,14.85,30890,2.8
+Kansas,Dietetic Technicians,130,2.3,0.094,0.47,14.25,29640,2.5
+Kansas,Pharmacy Technicians,4220,4.5,3.033,1.07,16.54,34390,1.5
+Kansas,Psychiatric Technicians,1210,7.3,0.866,1.62,14.03,29180,2
+Kansas,Surgical Technologists,1060,6.9,0.764,1.03,21.45,44610,1.6
+Kansas,Veterinary Technologists and Technicians,1020,17.4,0.732,0.97,16.44,34200,3.9
+Kansas,Ophthalmic Medical Technicians,**,**,**,**,17.07,35510,2.5
+Kansas,Licensed Practical and Licensed Vocational Nurses,7370,3.4,5.289,1.11,21.28,44260,0.8
+Kansas,"Opticians, Dispensing",700,14.8,0.504,1.02,15.66,32580,2.5
+Kansas,Orthotists and Prosthetists,70,26.8,0.052,0.77,36.91,76780,7
+Kansas,Hearing Aid Specialists,**,**,**,**,31.63,65780,9.2
+Kansas,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",3350,5,2.404,1.06,20.81,43280,1.9
+Kansas,Athletic Trainers,300,10.8,0.218,1.12,*,49760,1.6
+Kansas,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,26.81,55760,4
+Kansas,Healthcare Support Occupations,63760,2.2,45.785,1.03,13.36,27790,1
+Kansas,Home Health and Personal Care Aides,25110,4.3,18.03,0.84,11.04,22950,0.9
+Kansas,Nursing Assistants,21840,3.4,15.684,1.62,13.12,27280,0.8
+Kansas,Orderlies,270,9.7,0.19,0.6,12.99,27020,1.9
+Kansas,Psychiatric Aides,510,0,0.363,0.97,13.11,27270,2.8
+Kansas,Occupational Therapy Assistants,680,12.4,0.488,1.59,28.95,60220,2.2
+Kansas,Physical Therapist Assistants,1240,10,0.89,1.35,28.64,59570,1.9
+Kansas,Physical Therapist Aides,560,16.3,0.404,1.2,12.56,26130,7.5
+Kansas,Massage Therapists,530,14.9,0.383,0.52,17.19,35750,7.8
+Kansas,Dental Assistants,2970,8.5,2.131,0.89,18.19,37830,2.5
+Kansas,Medical Assistants,5220,4.9,3.747,0.77,15.12,31450,1
+Kansas,Medical Equipment Preparers,410,6.7,0.292,0.75,16.95,35260,1.5
+Kansas,Medical Transcriptionists,960,25.8,0.692,1.82,16.26,33830,7.4
+Kansas,Pharmacy Aides,840,23.7,0.604,2.38,12.3,25580,5.4
+Kansas,Veterinary Assistants and Laboratory Animal Caretakers,950,19.8,0.682,1.03,13.66,28420,3.9
+Kansas,Phlebotomists,1210,9.6,0.866,0.99,16.01,33300,1.9
+Kansas,"Healthcare Support Workers, All Other",460,22.2,0.328,0.52,18.78,39070,10.1
+Kansas,Protective Service Occupations,28790,2.9,20.679,0.87,20.02,41640,2.2
+Kansas,First-Line Supervisors of Correctional Officers,740,2.9,0.533,1.69,24.63,51220,1.3
+Kansas,First-Line Supervisors of Police and Detectives,1940,4.7,1.393,1.69,34.69,72160,1.5
+Kansas,First-Line Supervisors of Firefighting and Prevention Workers,1340,10.4,0.963,2.03,28.52,59320,2.5
+Kansas,"Miscellaneous First-Line Supervisors, Protective Service Workers",520,6.4,0.373,0.66,23.96,49830,4
+Kansas,Firefighters,3630,8.1,2.607,1.18,17.91,37250,3.6
+Kansas,Fire Inspectors and Investigators,90,7.7,0.067,0.72,25.61,53270,2.8
+Kansas,Bailiffs,60,8.3,0.045,0.33,19.91,41420,2.6
+Kansas,Correctional Officers and Jailers,3250,5,2.337,0.81,18.23,37920,2.3
+Kansas,Detectives and Criminal Investigators,910,5,0.652,0.91,30.76,63980,1.8
+Kansas,Police and Sheriff's Patrol Officers,5930,3.9,4.262,0.94,24,49910,1.5
+Kansas,Animal Control Workers,150,13.6,0.11,1.35,17.59,36580,2
+Kansas,Private Detectives and Investigators,150,22.6,0.105,0.44,26.62,55380,3.2
+Kansas,Gambling Surveillance Officers and Gambling Investigators,150,24.5,0.111,1.58,17.36,36120,2.9
+Kansas,Security Guards,5720,5.4,4.111,0.54,14.01,29140,2.9
+Kansas,Crossing Guards and Flaggers,240,22.2,0.174,0.3,15.41,32050,11.1
+Kansas,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2010,10.4,1.442,1.47,9.52,19800,1.8
+Kansas,Transportation Security Screeners,140,0,0.099,0.31,18.37,38210,2.3
+Kansas,"School Bus Monitors and Protective Service Workers, All Other",1650,10.7,1.188,1.19,14.15,29430,4
+Kansas,Food Preparation and Serving Related Occupations,123440,1,88.646,0.96,10.82,22510,0.7
+Kansas,Chefs and Head Cooks,960,19.1,0.689,0.79,20.54,42730,5.6
+Kansas,First-Line Supervisors of Food Preparation and Serving Workers,11080,3.7,7.958,1.16,15.63,32510,1.7
+Kansas,"Cooks, Fast Food",3580,17.2,2.571,0.72,10.11,21040,2
+Kansas,"Cooks, Institution and Cafeteria",6100,4,4.382,1.6,12.09,25150,0.9
+Kansas,"Cooks, Restaurant",11350,6.8,8.154,0.85,12.02,25000,1.8
+Kansas,"Cooks, Short Order",470,35.3,0.337,0.32,11.02,22920,3.8
+Kansas,Food Preparation Workers,5610,8.1,4.031,0.69,11.27,23440,1.6
+Kansas,Bartenders,5100,11.8,3.664,0.83,10.4,21630,2.6
+Kansas,Fast Food and Counter Workers,41030,3.6,29.462,1.08,9.64,20050,0.9
+Kansas,Waiters and Waitresses,22390,5.6,16.082,0.92,10.06,20920,1.9
+Kansas,"Food Servers, Nonrestaurant",2200,19,1.578,0.84,10.06,20910,3.3
+Kansas,Dining Room and Cafeteria Attendants and Bartender Helpers,5520,10.3,3.962,1.22,9.79,20360,1.7
+Kansas,Dishwashers,4040,9,2.901,0.83,9.75,20290,1.8
+Kansas,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",3660,10.5,2.632,0.91,9.4,19540,1.4
+Kansas,"Food Preparation and Serving Related Workers, All Other",300,34.5,0.218,0.44,12.01,24980,11.3
+Kansas,Building and Grounds Cleaning and Maintenance Occupations,40130,2.4,28.819,0.96,13.85,28810,1.2
+Kansas,First-Line Supervisors of Housekeeping and Janitorial Workers,1320,14.6,0.951,0.9,20.6,42840,2.1
+Kansas,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1240,11.2,0.889,1.26,25.77,53590,3.4
+Kansas,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",19750,4.4,14.182,0.97,13.04,27120,1.6
+Kansas,Maids and Housekeeping Cleaners,7430,5,5.336,0.85,10.95,22780,1.3
+Kansas,Pest Control Workers,800,9.3,0.575,1.06,15.43,32090,6.8
+Kansas,Landscaping and Groundskeeping Workers,8520,5.3,6.117,0.98,14.84,30870,1.8
+Kansas,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",680,26.1,0.49,2.79,16.83,35000,3.4
+Kansas,Tree Trimmers and Pruners,330,24.6,0.24,0.75,18.84,39190,2.4
+Kansas,"Grounds Maintenance Workers, All Other",60,39.2,0.04,0.41,21.47,44650,2.8
+Kansas,Personal Care and Service Occupations,28290,3.8,20.317,0.9,13.57,28220,1.9
+Kansas,First-Line Supervisors of Gambling Services Workers,240,9.8,0.175,0.87,20.82,43300,4.6
+Kansas,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1660,7.6,1.189,0.8,18.65,38800,2.3
+Kansas,Animal Trainers,**,**,**,**,13.33,27730,7.8
+Kansas,Animal Caretakers,2330,9.4,1.67,1.15,11.63,24200,2.8
+Kansas,Gambling Dealers,450,8.2,0.325,0.48,9.23,19200,7.5
+Kansas,Motion Picture Projectionists,**,**,**,**,12.45,25890,6.1
+Kansas,"Ushers, Lobby Attendants, and Ticket Takers",1200,19.8,0.86,0.91,10.88,22640,4.7
+Kansas,Amusement and Recreation Attendants,2950,9.8,2.122,0.92,10.56,21970,3
+Kansas,"Locker Room, Coatroom, and Dressing Room Attendants",90,34.2,0.064,0.59,10.57,21990,4.2
+Kansas,Embalmers,110,34.1,0.081,3.04,25.21,52450,4.8
+Kansas,Funeral Attendants,430,14.3,0.307,1.31,13.28,27620,6
+Kansas,"Morticians, Undertakers, and Funeral Arrangers",360,23.7,0.26,1.5,28.89,60090,8
+Kansas,Barbers,**,**,**,**,15,31200,10.1
+Kansas,"Hairdressers, Hairstylists, and Cosmetologists",3590,13.3,2.579,0.98,13.85,28820,6.4
+Kansas,Manicurists and Pedicurists,670,33.2,0.485,0.64,12.09,25140,13.4
+Kansas,Skincare Specialists,460,27,0.334,0.87,19.77,41130,7.6
+Kansas,Baggage Porters and Bellhops,**,**,**,**,11.14,23170,14.5
+Kansas,Concierges,130,46.5,0.091,0.32,14.65,30460,7.8
+Kansas,Tour and Travel Guides,120,18,0.087,0.26,12.49,25990,3.5
+Kansas,Childcare Workers,5290,10.7,3.8,0.99,10.7,22250,1.7
+Kansas,Exercise Trainers and Group Fitness Instructors,3260,8.4,2.341,1.06,18.19,37840,5.7
+Kansas,Recreation Workers,3690,18.6,2.653,1.09,13.25,27560,5.5
+Kansas,Residential Advisors,650,11.8,0.467,0.63,13.75,28600,3.8
+Kansas,Sales and Related Occupations,126590,1.6,90.913,0.93,19.77,41120,1.5
+Kansas,First-Line Supervisors of Retail Sales Workers,11390,3.7,8.178,1.02,19.92,41430,1.5
+Kansas,First-Line Supervisors of Non-Retail Sales Workers,1530,8.6,1.099,0.65,32.28,67140,2.8
+Kansas,Cashiers,32610,3.9,23.416,0.96,10.57,21990,1
+Kansas,Gambling Change Persons and Booth Cashiers,190,29.5,0.135,0.93,13.26,27580,6.6
+Kansas,Counter and Rental Clerks,2950,7.5,2.12,0.76,17.59,36580,2.7
+Kansas,Parts Salespersons,2890,8.8,2.076,1.19,17.14,35660,4.2
+Kansas,Retail Salespersons,36230,4.8,26.015,0.88,13.36,27780,2.1
+Kansas,Advertising Sales Agents,1460,16.5,1.049,1.19,25.76,53580,5
+Kansas,Insurance Sales Agents,4250,10.5,3.052,1.09,31.12,64730,4
+Kansas,"Securities, Commodities, and Financial Services Sales Agents",2540,21.2,1.823,0.61,49.75,103480,7.3
+Kansas,Travel Agents,440,24.3,0.317,0.7,22.65,47110,5.6
+Kansas,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",10610,7.4,7.622,1.08,33.44,69550,2.8
+Kansas,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",1660,11.8,1.193,0.57,42.65,88710,4.9
+Kansas,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",13700,3.9,9.841,1.07,34.88,72550,2
+Kansas,Demonstrators and Product Promoters,880,37,0.634,1.2,13.69,28470,18.3
+Kansas,Real Estate Brokers,110,25.4,0.082,0.28,36.2,75300,24.5
+Kansas,Real Estate Sales Agents,1060,19.3,0.764,0.69,24.37,50680,12.6
+Kansas,Sales Engineers,380,26.1,0.276,0.64,47.52,98830,5.5
+Kansas,Telemarketers,1040,46.4,0.749,0.82,13.97,29050,2.7
+Kansas,"Sales and Related Workers, All Other",650,9.5,0.466,0.58,13.68,28450,4.2
+Kansas,Office and Administrative Support Occupations,189570,1.5,136.138,1.02,17.88,37190,0.6
+Kansas,First-Line Supervisors of Office and Administrative Support Workers,14040,2.6,10.08,1,26.57,55270,1
+Kansas,"Switchboard Operators, Including Answering Service",550,18.7,0.395,0.85,13.61,28310,2
+Kansas,Bill and Account Collectors,3590,19.2,2.578,1.61,16.62,34570,3.2
+Kansas,Billing and Posting Clerks,4340,5.4,3.117,0.98,18.08,37600,1.1
+Kansas,"Bookkeeping, Accounting, and Auditing Clerks",15490,3.2,11.126,1.08,17.59,36580,0.8
+Kansas,Gambling Cage Workers,100,9.3,0.07,0.71,13.27,27600,2.6
+Kansas,Payroll and Timekeeping Clerks,1630,7,1.172,1.21,21.76,45270,1.3
+Kansas,Procurement Clerks,590,9.3,0.427,0.95,18.96,39440,2.8
+Kansas,Tellers,5560,5.9,3.995,1.33,13.95,29020,1.5
+Kansas,"Financial Clerks, All Other",230,22.3,0.163,0.79,20.04,41680,3.8
+Kansas,Brokerage Clerks,460,19.8,0.327,1,23.93,49770,3.9
+Kansas,"Court, Municipal, and License Clerks",1270,2.8,0.914,0.87,17.44,36270,1
+Kansas,"Credit Authorizers, Checkers, and Clerks",170,32.7,0.121,0.67,19.09,39710,4.4
+Kansas,Customer Service Representatives,31920,4.2,22.926,1.15,17.23,35840,1.4
+Kansas,"Eligibility Interviewers, Government Programs",1110,3.9,0.797,0.84,18.73,38970,2.5
+Kansas,File Clerks,1030,16.4,0.742,1.07,14.78,30740,3.2
+Kansas,"Hotel, Motel, and Resort Desk Clerks",2480,6,1.778,0.97,10.56,21960,2.2
+Kansas,"Interviewers, Except Eligibility and Loan",3400,6.3,2.445,1.9,15.5,32230,1.4
+Kansas,"Library Assistants, Clerical",1720,13.1,1.237,2.11,11.37,23650,2.8
+Kansas,Loan Interviewers and Clerks,2440,8,1.749,1.23,19.64,40860,2
+Kansas,New Accounts Clerks,1240,15.5,0.89,3.01,15.72,32700,2.4
+Kansas,Order Clerks,1330,22.2,0.954,1.02,16.14,33580,2.6
+Kansas,"Human Resources Assistants, Except Payroll and Timekeeping",1030,4.2,0.739,0.92,19.11,39740,1
+Kansas,Receptionists and Information Clerks,9450,3.9,6.787,0.94,13.58,28250,1.1
+Kansas,Reservation and Transportation Ticket Agents and Travel Clerks,180,31.9,0.129,0.15,15.15,31500,13.7
+Kansas,"Information and Record Clerks, All Other",1410,3.9,1.011,0.96,18.97,39450,1.7
+Kansas,Cargo and Freight Agents,610,25.4,0.435,0.67,20.62,42900,5.4
+Kansas,Couriers and Messengers,590,16.6,0.424,0.83,14.13,29380,5.3
+Kansas,Public Safety Telecommunicators,1190,6.1,0.852,1.31,16.79,34910,1.6
+Kansas,"Dispatchers, Except Police, Fire, and Ambulance",1920,7.4,1.38,1.02,19.38,40320,2.7
+Kansas,"Meter Readers, Utilities",390,29.6,0.278,1.34,21.07,43830,5.1
+Kansas,Postal Service Clerks,1230,0,0.884,1.6,23.38,48640,1
+Kansas,Postal Service Mail Carriers,3530,0,2.536,1.1,24.6,51180,0.9
+Kansas,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",690,0,0.493,0.71,24,49910,2
+Kansas,"Production, Planning, and Expediting Clerks",4240,9.1,3.045,1.21,24.7,51370,2
+Kansas,"Shipping, Receiving, and Inventory Clerks",6280,3.9,4.508,0.94,16.88,35100,0.9
+Kansas,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",950,28.1,0.679,1.64,17.09,35550,3.2
+Kansas,Executive Secretaries and Executive Administrative Assistants,6480,3.8,4.652,1.26,24.69,51360,1.7
+Kansas,Legal Secretaries and Administrative Assistants,1160,13.6,0.83,0.73,19.1,39720,5.5
+Kansas,Medical Secretaries and Administrative Assistants,4660,5.9,3.35,0.81,16.95,35260,1.4
+Kansas,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",29110,2.2,20.908,1.51,16.47,34260,0.6
+Kansas,Data Entry Keyers,1550,9.5,1.116,1.03,14.62,30420,1.9
+Kansas,Word Processors and Typists,70,36.5,0.049,0.15,17.91,37250,5.1
+Kansas,Desktop Publishers,80,31.5,0.058,0.97,21.98,45720,3.5
+Kansas,Insurance Claims and Policy Processing Clerks,1020,17.8,0.731,0.42,20.8,43260,2.3
+Kansas,"Mail Clerks and Mail Machine Operators, Except Postal Service",1030,15.2,0.74,1.3,13.85,28810,3.9
+Kansas,"Office Clerks, General",14470,5.1,10.391,0.52,13.95,29020,1.2
+Kansas,"Office Machine Operators, Except Computer",500,14.8,0.356,1.14,16.22,33740,2.1
+Kansas,Statistical Assistants,110,38.5,0.077,1.15,32.24,67050,5.2
+Kansas,"Office and Administrative Support Workers, All Other",890,34.2,0.641,0.5,21.39,44490,5.2
+Kansas,"Farming, Fishing, and Forestry Occupations",3480,12,2.502,0.76,16.89,35120,3
+Kansas,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",320,35.2,0.232,1.51,24.4,50750,5.4
+Kansas,Agricultural Inspectors,360,30.3,0.256,2.73,25.13,52260,2.6
+Kansas,"Graders and Sorters, Agricultural Products",170,34.8,0.12,0.51,15.75,32760,5.2
+Kansas,Agricultural Equipment Operators,970,18.7,0.699,3.81,16.85,35050,7
+Kansas,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",420,21,0.3,0.15,14.48,30110,4.7
+Kansas,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1130,21,0.814,3.26,13.57,28220,3.6
+Kansas,Construction and Extraction Occupations,60330,2.4,43.328,1.03,22.29,46370,1
+Kansas,First-Line Supervisors of Construction Trades and Extraction Workers,6770,4,4.859,1.14,31.11,64710,1.2
+Kansas,Brickmasons and Blockmasons,530,19,0.382,0.92,30.34,63110,7.3
+Kansas,Stonemasons,70,49.5,0.052,0.62,19.71,41000,8.5
+Kansas,Carpenters,5760,6.6,4.14,0.83,20.52,42670,1.6
+Kansas,Carpet Installers,310,25.3,0.225,1.27,21.56,44850,5.4
+Kansas,"Floor Layers, Except Carpet, Wood, and Hard Tiles",140,40,0.1,0.91,28.04,58310,7.4
+Kansas,Tile and Stone Setters,340,38.6,0.246,0.89,23.71,49310,6.1
+Kansas,Cement Masons and Concrete Finishers,2740,8.8,1.968,1.47,21.14,43970,3.2
+Kansas,Construction Laborers,9850,5.7,7.076,1.02,17.28,35940,1.8
+Kansas,"Paving, Surfacing, and Tamping Equipment Operators",490,23.1,0.354,1.14,17.59,36590,6.8
+Kansas,Operating Engineers and Other Construction Equipment Operators,7430,4.9,5.339,1.93,20.4,42440,2.1
+Kansas,Drywall and Ceiling Tile Installers,660,25.5,0.474,0.68,21.43,44580,7.1
+Kansas,Tapers,**,**,**,**,20.98,43640,10.3
+Kansas,Electricians,4940,5.8,3.545,0.76,26.32,54750,2.2
+Kansas,Glaziers,340,26.8,0.242,0.68,19.85,41300,9.4
+Kansas,"Insulation Workers, Floor, Ceiling, and Wall",400,34.3,0.285,1.25,20.29,42200,7.6
+Kansas,"Insulation Workers, Mechanical",380,37.9,0.272,1.5,23.72,49350,7.5
+Kansas,"Painters, Construction and Maintenance",2200,11.7,1.578,1,18.64,38760,4.6
+Kansas,Pipelayers,60,34.2,0.043,0.18,20.68,43020,2.3
+Kansas,"Plumbers, Pipefitters, and Steamfitters",4330,8.3,3.11,1.03,27.31,56810,3.5
+Kansas,Plasterers and Stucco Masons,**,**,**,**,22.66,47120,5.8
+Kansas,Reinforcing Iron and Rebar Workers,40,25.2,0.029,0.23,27.5,57200,6.1
+Kansas,Roofers,920,16.4,0.661,0.75,20.33,42280,4.1
+Kansas,Sheet Metal Workers,1680,14.8,1.204,1.35,23.49,48860,7
+Kansas,Structural Iron and Steel Workers,490,15.2,0.349,0.67,21.34,44380,4.4
+Kansas,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",210,25.3,0.148,0.93,18.47,38420,8.7
+Kansas,Helpers--Carpenters,310,20.4,0.221,0.98,14.98,31150,6.9
+Kansas,Helpers--Electricians,300,25,0.219,0.41,15.61,32470,7.1
+Kansas,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,13.15,27350,12.5
+Kansas,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",510,29.8,0.363,0.91,18.11,37660,7.9
+Kansas,Helpers--Roofers,80,33.1,0.06,0.99,15.35,31920,9.2
+Kansas,"Helpers, Construction Trades, All Other",40,47.6,0.032,0.17,11.33,23560,4.3
+Kansas,Construction and Building Inspectors,800,9.2,0.577,0.77,25.08,52170,2.9
+Kansas,Elevator and Escalator Installers and Repairers,440,17.3,0.317,1.64,41.85,87050,3.4
+Kansas,Fence Erectors,**,**,**,**,18.53,38550,6.4
+Kansas,Hazardous Materials Removal Workers,750,27.8,0.539,1.79,18.15,37740,4.3
+Kansas,Highway Maintenance Workers,1580,8.4,1.131,1.1,17.59,36590,1.8
+Kansas,Rail-Track Laying and Maintenance Equipment Operators,**,**,**,**,21.95,45660,2.8
+Kansas,Septic Tank Servicers and Sewer Pipe Cleaners,250,30,0.181,0.9,17.04,35450,5.5
+Kansas,Miscellaneous Construction and Related Workers,120,27.3,0.084,0.38,19.05,39620,7.1
+Kansas,"Derrick Operators, Oil and Gas",60,46.1,0.042,0.51,18.65,38780,5.9
+Kansas,"Rotary Drill Operators, Oil and Gas",200,41,0.143,1,21.86,45470,6
+Kansas,"Service Unit Operators, Oil and Gas",510,28.3,0.363,1.03,19.52,40590,4.8
+Kansas,"Excavating and Loading Machine and Dragline Operators, Surface Mining",220,25.9,0.155,0.52,23.62,49120,5.2
+Kansas,"Rock Splitters, Quarry",**,**,**,**,18.49,38470,4.6
+Kansas,"Roustabouts, Oil and Gas",910,14,0.655,1.63,18.57,38630,2.7
+Kansas,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",160,25.9,0.117,0.69,23.47,48820,6.8
+Kansas,"Installation, Maintenance, and Repair Occupations",63200,2.3,45.385,1.17,22.99,47820,0.8
+Kansas,"First-Line Supervisors of Mechanics, Installers, and Repairers",6190,3.6,4.449,1.35,31.08,64640,1
+Kansas,"Computer, Automated Teller, and Office Machine Repairers",1300,16,0.93,1.39,18.29,38050,3.5
+Kansas,"Radio, Cellular, and Tower Equipment Installers and Repairers",130,49.5,0.092,0.94,29.46,61270,5.8
+Kansas,"Telecommunications Equipment Installers and Repairers, Except Line Installers",2550,12.2,1.832,1.29,25.08,52160,2.4
+Kansas,Avionics Technicians,970,21.1,0.699,4.72,30.09,62590,2.9
+Kansas,"Electric Motor, Power Tool, and Related Repairers",90,24,0.067,0.62,22.59,46980,6.3
+Kansas,"Electrical and Electronics Installers and Repairers, Transportation Equipment",70,11.6,0.048,0.73,31.09,64670,1.6
+Kansas,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",380,13.2,0.272,0.68,29.62,61600,3.1
+Kansas,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",230,21.7,0.162,1.05,39.26,81650,1.7
+Kansas,"Electronic Equipment Installers and Repairers, Motor Vehicles",**,**,**,**,13.95,29020,8.2
+Kansas,Audiovisual Equipment Installers and Repairers,150,29.8,0.111,0.64,17.43,36260,12.7
+Kansas,Security and Fire Alarm Systems Installers,730,28.6,0.524,1.08,26.25,54590,3.5
+Kansas,Aircraft Mechanics and Service Technicians,1570,12.9,1.127,1.24,28.42,59110,2.7
+Kansas,Automotive Body and Related Repairers,1570,13.6,1.124,1.15,20.98,43640,3.2
+Kansas,Automotive Glass Installers and Repairers,100,35.7,0.075,0.57,18.23,37910,3.1
+Kansas,Automotive Service Technicians and Mechanics,6040,6.1,4.336,0.97,19.64,40850,2.2
+Kansas,Bus and Truck Mechanics and Diesel Engine Specialists,2800,7.3,2.013,1.11,22.4,46580,1.9
+Kansas,Farm Equipment Mechanics and Service Technicians,1310,8.7,0.943,3.81,21.67,45070,4.3
+Kansas,"Mobile Heavy Equipment Mechanics, Except Engines",2070,9.6,1.484,1.47,24.3,50540,1.7
+Kansas,Rail Car Repairers,1180,46.3,0.851,4.82,*,*,*
+Kansas,Motorboat Mechanics and Service Technicians,100,18.2,0.073,0.47,16.64,34600,5.7
+Kansas,Motorcycle Mechanics,90,32.8,0.064,0.61,20.32,42270,8.7
+Kansas,Outdoor Power Equipment and Other Small Engine Mechanics,290,28,0.208,0.95,16.96,35280,5.5
+Kansas,Bicycle Repairers,210,27.9,0.152,1.69,13.04,27110,3.3
+Kansas,Recreational Vehicle Service Technicians,180,34.1,0.13,1.22,18.26,37980,5
+Kansas,Tire Repairers and Changers,1520,17.5,1.088,1.44,14.75,30680,3.7
+Kansas,Mechanical Door Repairers,390,24.5,0.281,1.79,21.21,44120,4.4
+Kansas,"Control and Valve Installers and Repairers, Except Mechanical Door",530,11.9,0.379,1.07,29.23,60790,5
+Kansas,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",3530,11.7,2.535,1.09,25.97,54020,2.9
+Kansas,Home Appliance Repairers,330,27.2,0.235,1.11,19.6,40760,6.5
+Kansas,Industrial Machinery Mechanics,5500,8.3,3.951,1.5,25.58,53200,2.4
+Kansas,"Maintenance Workers, Machinery",780,16.4,0.562,1.13,21.64,45010,2.8
+Kansas,Millwrights,610,38.6,0.438,1.36,23.85,49610,4.5
+Kansas,Electrical Power-Line Installers and Repairers,1670,8.2,1.197,1.57,34.43,71600,3.3
+Kansas,Telecommunications Line Installers and Repairers,1000,15.3,0.717,0.87,28.09,58430,4.4
+Kansas,Medical Equipment Repairers,390,15.5,0.282,0.89,21.61,44940,4.6
+Kansas,Musical Instrument Repairers and Tuners,90,29.1,0.067,1.23,15.55,32350,5
+Kansas,"Precision Instrument and Equipment Repairers, All Other",80,17.7,0.061,0.84,25.54,53130,5.8
+Kansas,"Maintenance and Repair Workers, General",13970,3.3,10.031,1.04,18.38,38230,1.4
+Kansas,"Coin, Vending, and Amusement Machine Servicers and Repairers",350,16.7,0.25,1.17,17.59,36590,3.5
+Kansas,Locksmiths and Safe Repairers,110,26.7,0.082,0.71,22.65,47110,8
+Kansas,Manufactured Building and Mobile Home Installers,100,32.5,0.068,3.57,16.68,34690,7.1
+Kansas,Signal and Track Switch Repairers,**,**,**,**,35.18,73170,6.1
+Kansas,"Helpers--Installation, Maintenance, and Repair Workers",500,14,0.36,0.53,14.41,29980,2.3
+Kansas,"Installation, Maintenance, and Repair Workers, All Other",1120,12.7,0.806,0.73,19.07,39670,3.8
+Kansas,Production Occupations,115610,3.5,83.027,1.33,19.97,41530,2.2
+Kansas,First-Line Supervisors of Production and Operating Workers,7340,2.7,5.27,1.23,30.47,63380,1
+Kansas,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",8860,23.1,6.366,21.77,25.7,53460,5.9
+Kansas,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",2720,11.9,1.955,1.01,17.28,35940,2.6
+Kansas,Engine and Other Machine Assemblers,**,**,**,**,18.42,38310,3.1
+Kansas,Structural Metal Fabricators and Fitters,1480,14.8,1.063,2.03,30,62400,14.5
+Kansas,Fiberglass Laminators and Fabricators,250,16.9,0.181,1.33,15.75,32750,3.6
+Kansas,Miscellaneous Assemblers and Fabricators,14440,6,10.369,1.11,18.11,37660,6.6
+Kansas,Bakers,1740,14.6,1.246,0.99,12.25,25470,2.3
+Kansas,Butchers and Meat Cutters,1040,19.5,0.744,0.8,15.65,32560,3.2
+Kansas,"Meat, Poultry, and Fish Cutters and Trimmers",5410,14.5,3.884,3.7,14.65,30460,5.2
+Kansas,Slaughterers and Meat Packers,1880,17.5,1.35,2.7,16.23,33750,3.6
+Kansas,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",200,40,0.144,1.01,14.67,30520,5.5
+Kansas,Food Batchmakers,1400,15.7,1.002,0.92,14.36,29870,4.5
+Kansas,Food Cooking Machine Operators and Tenders,670,6.1,0.483,2.36,17.63,36660,3.5
+Kansas,"Food Processing Workers, All Other",550,24.6,0.395,1.35,14.49,30130,4.5
+Kansas,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",680,8.6,0.492,0.94,17.27,35920,2.7
+Kansas,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",150,26,0.108,0.97,17.87,37170,3.8
+Kansas,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,16.29,33890,8.5
+Kansas,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",1570,11.4,1.131,0.85,17.38,36150,3.7
+Kansas,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",50,32.2,0.032,0.44,18.82,39140,5.2
+Kansas,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",880,12.4,0.635,1.21,16.08,33440,2.7
+Kansas,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",230,13.4,0.166,0.87,17.84,37120,3
+Kansas,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",110,26.8,0.077,0.6,18.72,38940,5.6
+Kansas,Machinists,3790,7.6,2.722,1.04,20.52,42690,1.9
+Kansas,Metal-Refining Furnace Operators and Tenders,40,28.2,0.028,0.24,18.95,39410,5.4
+Kansas,"Patternmakers, Metal and Plastic",40,37.5,0.028,1.39,24.15,50230,8.8
+Kansas,Foundry Mold and Coremakers,220,30.2,0.159,1.33,18.93,39370,3.7
+Kansas,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1450,12.1,1.043,0.89,15.39,32010,2.3
+Kansas,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,19.28,40090,10.4
+Kansas,Tool and Die Makers,920,16.5,0.663,1.38,30.86,64180,6.5
+Kansas,"Welders, Cutters, Solderers, and Brazers",6000,6.5,4.31,1.54,21.01,43710,1.6
+Kansas,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",210,15.6,0.148,0.62,16.84,35030,3.2
+Kansas,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",140,23.2,0.102,0.76,18.62,38730,9.5
+Kansas,"Layout Workers, Metal and Plastic",560,21.7,0.405,7.29,26.72,55580,3.2
+Kansas,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",310,14.8,0.223,0.78,16.27,33850,3.9
+Kansas,"Metal Workers and Plastic Workers, All Other",70,11.6,0.053,0.32,16.82,34980,7.6
+Kansas,Prepress Technicians and Workers,510,6.6,0.367,1.78,16.33,33970,4
+Kansas,Printing Press Operators,3470,11,2.488,2.11,16.82,34990,1.9
+Kansas,Print Binding and Finishing Workers,760,9.9,0.545,1.76,14.88,30960,3.4
+Kansas,Laundry and Dry-Cleaning Workers,2120,10.6,1.525,1.07,11.39,23690,2.1
+Kansas,"Pressers, Textile, Garment, and Related Materials",260,33.9,0.188,0.73,11.87,24700,2.5
+Kansas,Sewing Machine Operators,890,14.4,0.637,0.7,14.47,30100,3.2
+Kansas,"Tailors, Dressmakers, and Custom Sewers",100,29.6,0.072,0.44,14.51,30170,8.3
+Kansas,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",80,37.6,0.057,0.39,15.23,31680,8.8
+Kansas,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",160,33.2,0.112,0.9,20.98,43640,10.4
+Kansas,Upholsterers,320,9.5,0.231,1.15,19.65,40880,9.7
+Kansas,"Textile, Apparel, and Furnishings Workers, All Other",**,**,**,**,12.27,25520,4.1
+Kansas,Cabinetmakers and Bench Carpenters,1200,10.4,0.863,1.27,16.89,35140,4.6
+Kansas,Furniture Finishers,140,8.1,0.099,0.89,15.45,32130,3.7
+Kansas,"Sawing Machine Setters, Operators, and Tenders, Wood",220,23.6,0.161,0.46,14.04,29210,2.5
+Kansas,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",650,18.1,0.47,0.87,14.91,31000,2.2
+Kansas,Power Distributors and Dispatchers,90,19.7,0.062,0.85,45.8,95270,2.9
+Kansas,Power Plant Operators,700,9.5,0.506,2.21,29.13,60600,5.2
+Kansas,Stationary Engineers and Boiler Operators,190,14.6,0.135,0.61,27.42,57030,2.8
+Kansas,Water and Wastewater Treatment Plant and System Operators,1510,11.2,1.081,1.28,19.24,40010,1.6
+Kansas,Chemical Plant and System Operators,100,22.4,0.07,0.36,25.18,52370,4
+Kansas,Gas Plant Operators,220,21.2,0.155,1.58,34.28,71310,5.4
+Kansas,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",1020,27.5,0.733,2.67,30.15,62710,4.8
+Kansas,"Plant and System Operators, All Other",**,**,**,**,35.35,73530,6.5
+Kansas,Chemical Equipment Operators and Tenders,1960,32.3,1.405,2.37,23.69,49270,6.9
+Kansas,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",310,44.3,0.223,0.64,18.1,37650,5.9
+Kansas,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",430,14.3,0.312,1.37,19.16,39850,3.9
+Kansas,"Grinding and Polishing Workers, Hand",240,15.2,0.172,0.87,15.06,31320,2.4
+Kansas,"Mixing and Blending Machine Setters, Operators, and Tenders",1940,10.2,1.393,1.63,18.81,39120,2.6
+Kansas,"Cutters and Trimmers, Hand",90,29.9,0.064,0.97,15.87,33010,4.4
+Kansas,"Cutting and Slicing Machine Setters, Operators, and Tenders",840,10.2,0.601,1.52,16.84,35030,2.8
+Kansas,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1400,21.6,1.008,2.06,18.56,38600,3.5
+Kansas,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",130,21.8,0.095,0.74,18.7,38890,4.5
+Kansas,"Inspectors, Testers, Sorters, Samplers, and Weighers",7360,5.2,5.287,1.35,22.41,46620,2.9
+Kansas,Jewelers and Precious Stone and Metal Workers,140,17.7,0.098,0.61,22.05,45850,5.5
+Kansas,Dental Laboratory Technicians,390,13.8,0.277,1.18,26.2,54490,3.1
+Kansas,Medical Appliance Technicians,90,35.9,0.064,0.67,17.69,36800,8.6
+Kansas,Ophthalmic Laboratory Technicians,130,17.4,0.096,0.49,14.41,29970,5.9
+Kansas,Packaging and Filling Machine Operators and Tenders,5460,9.9,3.919,1.47,16.7,34730,2
+Kansas,"Painting, Coating, and Decorating Workers",110,25.1,0.081,0.96,18.08,37600,3.6
+Kansas,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2110,5.7,1.513,1.52,18.88,39260,3.7
+Kansas,Photographic Process Workers and Processing Machine Operators,90,31.2,0.065,0.8,16.45,34230,7
+Kansas,Computer Numerically Controlled Tool Operators,1860,7.7,1.337,1.29,20.98,43630,3.2
+Kansas,Computer Numerically Controlled Tool Programmers,770,18.6,0.551,3.16,32.28,67150,6.2
+Kansas,Adhesive Bonding Machine Operators and Tenders,380,21,0.276,2.91,18.81,39120,4.9
+Kansas,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",190,39.7,0.139,1.25,16.07,33420,2.1
+Kansas,Cooling and Freezing Equipment Operators and Tenders,160,21.7,0.114,1.91,18.68,38850,3.3
+Kansas,Etchers and Engravers,190,43.5,0.139,1.99,12.92,26870,6.8
+Kansas,"Molders, Shapers, and Casters, Except Metal and Plastic",670,26,0.48,1.57,18.68,38850,3
+Kansas,"Paper Goods Machine Setters, Operators, and Tenders",720,22.1,0.515,0.75,16.06,33410,2.9
+Kansas,Helpers--Production Workers,3520,22.7,2.527,1.22,16.18,33650,3.3
+Kansas,"Production Workers, All Other",1390,10,0.996,0.66,14.7,30580,3.5
+Kansas,Transportation and Material Moving Occupations,118620,2,85.188,1,17.86,37160,1
+Kansas,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",5320,6,3.818,1.23,27.39,56970,1.5
+Kansas,Commercial Pilots,450,10.1,0.326,1.26,*,100670,5.7
+Kansas,Air Traffic Controllers,420,2.4,0.298,1.98,58.71,122120,2.6
+Kansas,Airfield Operations Specialists,40,21.3,0.025,0.35,29.16,60650,2.9
+Kansas,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",60,37.2,0.043,0.43,11.76,24460,4.4
+Kansas,Driver/Sales Workers,3430,15.3,2.466,0.81,14.46,30070,6.1
+Kansas,Heavy and Tractor-Trailer Truck Drivers,20450,4.1,14.685,1.16,22.92,47660,2.1
+Kansas,Light Truck Drivers,8150,5.2,5.856,0.93,18.25,37950,3.9
+Kansas,"Bus Drivers, Transit and Intercity",560,11.7,0.401,0.33,15.61,32470,3.3
+Kansas,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",7600,5.8,5.458,1.15,14.03,29180,1.5
+Kansas,"Motor Vehicle Operators, All Other",630,20.3,0.453,1.18,15.03,31260,12
+Kansas,Locomotive Engineers,**,**,**,**,37.74,78500,3.5
+Kansas,"Rail Yard Engineers, Dinkey Operators, and Hostlers",160,3.6,0.112,3.06,18.76,39010,3.9
+Kansas,Railroad Conductors and Yardmasters,510,18.8,0.369,1.19,32.62,67840,5.9
+Kansas,Parking Attendants,320,32.4,0.233,0.23,10.59,22020,4.8
+Kansas,Automotive and Watercraft Service Attendants,1420,10.9,1.022,1.28,12.1,25160,2.1
+Kansas,Traffic Technicians,80,5.5,0.057,1.13,24.09,50100,2.8
+Kansas,Transportation Inspectors,240,13.7,0.175,0.86,34.34,71430,3.2
+Kansas,Passenger Attendants,**,**,**,**,11.42,23760,5.3
+Kansas,"Aircraft Service Attendants and Transportation Workers, All Other",280,24.1,0.202,0.85,14.83,30840,3
+Kansas,Conveyor Operators and Tenders,1090,20.5,0.784,4.79,17.17,35720,6.7
+Kansas,Crane and Tower Operators,650,25.9,0.47,1.52,26.04,54160,5.9
+Kansas,Industrial Truck and Tractor Operators,6900,9.9,4.953,1.16,18.04,37510,1.8
+Kansas,Cleaners of Vehicles and Equipment,4070,7.1,2.923,1.12,13.08,27200,2.3
+Kansas,"Laborers and Freight, Stock, and Material Movers, Hand",23260,4.8,16.705,0.83,15.79,32850,0.9
+Kansas,Machine Feeders and Offbearers,**,**,**,**,18.7,38900,3.5
+Kansas,"Packers and Packagers, Hand",6080,7.7,4.368,1.01,13.28,27620,3.5
+Kansas,Stockers and Order Fillers,21410,3.5,15.375,1.06,13.57,28220,0.9
+Kansas,Gas Compressor and Gas Pumping Station Operators,**,**,**,**,32.29,67170,2.3
+Kansas,"Pump Operators, Except Wellhead Pumpers",**,**,**,**,23.32,48510,10.7
+Kansas,Wellhead Pumpers,590,28.1,0.42,4.76,23.74,49380,8.7
+Kansas,Refuse and Recyclable Material Collectors,1130,11.6,0.81,0.98,15.26,31740,3.3
+Kansas,"Tank Car, Truck, and Ship Loaders",**,**,**,**,18.64,38760,15.5

@@ -1,0 +1,757 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Tennessee,All Occupations,3007710,0.5,1000,1,21.95,45650,0.7
+Tennessee,Management Occupations,180530,1.1,60.023,1.09,48.79,101490,0.7
+Tennessee,Chief Executives,8720,4.1,2.899,2.07,76.09,158280,2.8
+Tennessee,General and Operations Managers,46030,2,15.305,0.94,52.78,109770,1
+Tennessee,Legislators,350,5.3,0.117,0.33,*,51680,9.2
+Tennessee,Advertising and Promotions Managers,530,11.9,0.177,1.04,47.62,99040,5.2
+Tennessee,Marketing Managers,4710,5.1,1.567,0.87,57.62,119850,2.9
+Tennessee,Sales Managers,7800,4.8,2.593,0.95,59.1,122940,3.5
+Tennessee,Public Relations and Fundraising Managers,1000,8.3,0.334,0.62,44.45,92460,2.8
+Tennessee,Administrative Services and Facilities Managers,7340,3.3,2.439,1.17,48.61,101120,1.4
+Tennessee,Computer and Information Systems Managers,6790,4.3,2.258,0.76,57.82,120260,1.2
+Tennessee,Financial Managers,16810,6.1,5.59,1.25,54.66,113700,1.6
+Tennessee,Industrial Production Managers,4550,2.9,1.513,1.2,49.49,102950,1.5
+Tennessee,Purchasing Managers,1560,5,0.518,1.05,51.72,107580,2.1
+Tennessee,"Transportation, Storage, and Distribution Managers",3550,3.7,1.18,1.31,41.33,85970,1.7
+Tennessee,Compensation and Benefits Managers,350,46.6,0.117,1.01,48.55,100990,3
+Tennessee,Human Resources Managers,4110,19.1,1.367,1.3,45.83,95330,1.3
+Tennessee,Training and Development Managers,1100,16.1,0.365,1.39,47.94,99720,1.7
+Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",70,16.8,0.024,0.69,33.32,69300,8.8
+Tennessee,Construction Managers,6430,6.5,2.139,1.07,38.39,79840,2.1
+Tennessee,"Education and Childcare Administrators, Preschool and Daycare",770,11.3,0.255,0.72,24.87,51720,4.8
+Tennessee,"Education Administrators, Kindergarten through Secondary",5520,2.8,1.837,1,*,86200,1.4
+Tennessee,"Education Administrators, Postsecondary",**,**,**,**,54.73,113840,3.6
+Tennessee,"Education Administrators, All Other",710,7.5,0.236,0.78,43.03,89500,2.7
+Tennessee,Architectural and Engineering Managers,3080,6.5,1.024,0.77,62.01,128970,2.1
+Tennessee,Food Service Managers,10520,7.7,3.498,2.18,23.08,48000,2.3
+Tennessee,Lodging Managers,1330,14,0.443,1.7,25.2,52420,5.7
+Tennessee,Medical and Health Services Managers,9820,3.2,3.264,1.21,49.07,102070,1.9
+Tennessee,Natural Sciences Managers,430,7.2,0.141,0.31,56.86,118260,2.7
+Tennessee,Postmasters and Mail Superintendents,270,0,0.089,0.95,40.61,84480,0.6
+Tennessee,"Property, Real Estate, and Community Association Managers",4160,8.2,1.382,0.92,29.58,61530,3.7
+Tennessee,Social and Community Service Managers,2130,4.9,0.709,0.67,33.24,69140,2.7
+Tennessee,Emergency Management Directors,140,11.1,0.047,0.68,39.29,81720,3.6
+Tennessee,Funeral Home Managers,440,13.9,0.146,2.29,36.79,76510,8.3
+Tennessee,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",16600,2.4,5.52,1.72,38.84,80790,1.1
+Tennessee,Business and Financial Operations Occupations,134980,1.8,44.879,0.81,31.1,64690,0.6
+Tennessee,"Agents and Business Managers of Artists, Performers, and Athletes",800,12.1,0.267,2.3,39.34,81820,9.4
+Tennessee,Buyers and Purchasing Agents,6490,4,2.158,0.75,28.63,59560,1.4
+Tennessee,"Claims Adjusters, Examiners, and Investigators",5670,6.5,1.885,0.96,28.28,58810,2.1
+Tennessee,"Insurance Appraisers, Auto Damage",180,32.7,0.06,0.64,26.63,55390,4.6
+Tennessee,Compliance Officers,6460,3,2.148,0.99,29.54,61440,2
+Tennessee,Cost Estimators,2660,6.2,0.885,0.62,32.55,67710,2.6
+Tennessee,Human Resources Specialists,12070,7.6,4.012,0.93,27.48,57150,1.1
+Tennessee,Labor Relations Specialists,830,15.4,0.275,0.53,25.21,52440,9
+Tennessee,Logisticians,3050,5.2,1.013,0.82,30.86,64180,2.8
+Tennessee,Management Analysts,8360,7.2,2.779,0.58,39.02,81150,1.5
+Tennessee,"Meeting, Convention, and Event Planners",1670,18.6,0.554,0.69,24.57,51100,6.2
+Tennessee,Fundraisers,690,7.1,0.228,0.41,26.45,55010,2.7
+Tennessee,"Compensation, Benefits, and Job Analysis Specialists",1560,16.6,0.52,0.85,27.28,56740,2.1
+Tennessee,Training and Development Specialists,5460,5.6,1.816,0.85,27.94,58110,1.4
+Tennessee,Market Research Analysts and Marketing Specialists,8970,4.9,2.983,0.65,29.18,60690,1.5
+Tennessee,"Project Management Specialists and Business Operations Specialists, All Other",19930,3,6.627,0.76,30.44,63310,1.4
+Tennessee,Accountants and Auditors,22580,12.6,7.507,0.86,34.36,71460,1.6
+Tennessee,Property Appraisers and Assessors,1140,20.5,0.378,0.99,26.07,54220,5
+Tennessee,Budget Analysts,580,4.4,0.191,0.55,34.31,71360,1.7
+Tennessee,Credit Analysts,1420,10.6,0.474,0.94,31.99,66540,4.8
+Tennessee,Personal Financial Advisors,2700,12.5,0.897,0.63,40.59,84420,7
+Tennessee,Insurance Underwriters,**,**,**,**,33.01,68650,4.1
+Tennessee,Financial Examiners,900,18.6,0.299,0.68,41.91,87180,6.7
+Tennessee,Credit Counselors,610,12.4,0.203,0.93,21.48,44680,3.6
+Tennessee,Loan Officers,5600,6.4,1.861,0.89,30.11,62640,2.8
+Tennessee,"Tax Examiners and Collectors, and Revenue Agents",1000,0.4,0.331,0.91,27.05,56270,1.5
+Tennessee,Tax Preparers,**,**,**,**,23.37,48600,6
+Tennessee,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",8680,7.7,2.886,0.92,32.73,68070,2.3
+Tennessee,Computer and Mathematical Occupations,58850,2.3,19.566,0.63,36.17,75240,0.9
+Tennessee,Computer Systems Analysts,9450,5.6,3.143,0.78,38.31,79690,1.7
+Tennessee,Information Security Analysts,1920,8.9,0.637,0.75,41.44,86190,2.6
+Tennessee,Computer and Information Research Scientists,210,10.9,0.07,0.33,49.9,103800,6
+Tennessee,Computer Network Support Specialists,3970,8.4,1.32,1.05,27.7,57610,1.3
+Tennessee,Computer User Support Specialists,9600,5,3.191,0.72,23.42,48710,1.5
+Tennessee,Computer Network Architects,2210,6.9,0.735,0.71,47.38,98550,2.9
+Tennessee,Network and Computer Systems Administrators,5000,4.9,1.661,0.69,37.7,78410,1.4
+Tennessee,Database Administrators and Architects,1910,5.4,0.636,0.74,38.34,79750,1.8
+Tennessee,Computer Programmers,2990,9.6,0.994,0.73,42.43,88260,2.8
+Tennessee,Software Developers and Software Quality Assurance Analysts and Testers,12030,4.5,4,0.42,43.59,90670,1.2
+Tennessee,Web Developers and Digital Interface Designers,1670,8.6,0.556,0.55,31.36,65230,5.4
+Tennessee,"Computer Occupations, All Other",5420,5.1,1.802,0.67,32.5,67610,2.7
+Tennessee,Actuaries,**,**,**,**,58.15,120960,9.4
+Tennessee,Operations Research Analysts,1270,14.2,0.424,0.62,33.65,69980,2
+Tennessee,Statisticians,530,30.1,0.177,0.67,35.5,73830,7.1
+Tennessee,"Data Scientists and Mathematical Science Occupations, All Other",260,22.2,0.087,0.42,40.42,84080,4
+Tennessee,Architecture and Engineering Occupations,42530,2.3,14.14,0.8,36.17,75230,1.3
+Tennessee,"Architects, Except Landscape and Naval",1420,15.3,0.474,0.66,38,79040,3.3
+Tennessee,Landscape Architects,170,35.9,0.057,0.41,29.11,60550,3.7
+Tennessee,Cartographers and Photogrammetrists,220,9.5,0.075,0.97,28.38,59020,2.2
+Tennessee,Surveyors,1010,15,0.335,1.09,23.48,48840,3.1
+Tennessee,Aerospace Engineers,390,5.9,0.13,0.3,43.92,91340,5
+Tennessee,Bioengineers and Biomedical Engineers,470,31.2,0.156,1.16,36.16,75220,5
+Tennessee,Chemical Engineers,770,10.6,0.257,1.25,53.08,110410,2.2
+Tennessee,Civil Engineers,3380,6,1.125,0.53,41.95,87260,2.4
+Tennessee,Computer Hardware Engineers,330,20.6,0.111,0.24,36.91,76770,3.6
+Tennessee,Electrical Engineers,2530,5.6,0.84,0.66,45.97,95610,1.5
+Tennessee,"Electronics Engineers, Except Computer",1370,8.5,0.456,0.52,44.3,92130,2.6
+Tennessee,Environmental Engineers,1000,11.5,0.331,0.92,43.19,89830,3.7
+Tennessee,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",500,12.9,0.165,0.94,50.97,106020,2.6
+Tennessee,Industrial Engineers,5470,4.1,1.819,0.92,39.78,82740,1.3
+Tennessee,Materials Engineers,640,13.3,0.211,1.16,50.69,105430,3.5
+Tennessee,Mechanical Engineers,3650,5.3,1.215,0.58,43.28,90030,2.2
+Tennessee,Nuclear Engineers,460,10.2,0.152,1.4,62.77,130570,2.1
+Tennessee,"Engineers, All Other",3950,9.4,1.314,1.27,39.59,82340,2.5
+Tennessee,Architectural and Civil Drafters,1130,12,0.375,0.56,27.11,56390,3.7
+Tennessee,Electrical and Electronics Drafters,270,10.2,0.091,0.55,31.72,65980,5.3
+Tennessee,Mechanical Drafters,1140,15.1,0.378,1,30.83,64120,2.7
+Tennessee,"Drafters, All Other",450,15,0.151,1.52,21.8,45340,3.6
+Tennessee,Aerospace Engineering and Operations Technologists and Technicians,160,2.2,0.052,0.67,33.58,69850,4.2
+Tennessee,Civil Engineering Technologists and Technicians,2100,3.3,0.697,1.49,20.56,42770,1.8
+Tennessee,Electrical and Electronic Engineering Technologists and Technicians,2810,8.4,0.935,1.12,26.99,56140,1.8
+Tennessee,Electro-Mechanical and Mechatronics Technologists and Technicians,440,18.1,0.147,1.51,27,56170,2.6
+Tennessee,Environmental Engineering Technologists and Technicians,650,9.4,0.217,1.77,24.92,51840,4.7
+Tennessee,Industrial Engineering Technologists and Technicians,1960,13.3,0.651,1.43,24.3,50550,3
+Tennessee,Mechanical Engineering Technologists and Technicians,1100,10.6,0.366,1.26,26.06,54210,5.3
+Tennessee,Surveying and Mapping Technicians,770,10.4,0.255,0.71,22.78,47390,7.1
+Tennessee,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1500,7.8,0.499,0.83,27.61,57430,2.4
+Tennessee,"Life, Physical, and Social Science Occupations",19500,2.6,6.483,0.74,31.33,65160,1.9
+Tennessee,Food Scientists and Technologists,120,16.6,0.038,0.42,27.69,57590,5.6
+Tennessee,Soil and Plant Scientists,140,10,0.046,0.48,28.74,59790,4.9
+Tennessee,Biochemists and Biophysicists,590,11.9,0.196,0.92,44.87,93330,8.7
+Tennessee,Microbiologists,160,15.2,0.054,0.43,34.07,70860,5.4
+Tennessee,Zoologists and Wildlife Biologists,180,30.3,0.058,0.44,30.93,64330,1.7
+Tennessee,"Biological Scientists, All Other",370,5,0.122,0.45,33.99,70710,3.2
+Tennessee,Conservation Scientists,210,24.7,0.069,0.46,32.94,68510,7
+Tennessee,Foresters,160,8.2,0.053,0.82,27.25,56690,1.3
+Tennessee,Epidemiologists,240,1.8,0.079,1.57,40.89,85050,1.8
+Tennessee,"Medical Scientists, Except Epidemiologists",1310,11,0.437,0.5,35.6,74060,5.7
+Tennessee,Physicists,380,9.2,0.125,1.1,60.12,125050,3.5
+Tennessee,Atmospheric and Space Scientists,150,26.1,0.048,0.77,43.5,90470,2.3
+Tennessee,Chemists,1240,7.5,0.411,0.72,37.17,77310,6.7
+Tennessee,Materials Scientists,120,17.8,0.04,0.87,35.54,73920,6.1
+Tennessee,"Environmental Scientists and Specialists, Including Health",1500,7.5,0.499,0.87,34.77,72310,2.5
+Tennessee,"Geoscientists, Except Hydrologists and Geographers",190,15.4,0.063,0.32,36.53,75990,3
+Tennessee,Hydrologists,60,27.3,0.02,0.46,45.11,93830,1.9
+Tennessee,"Physical Scientists, All Other",90,20.5,0.031,0.26,49.4,102740,11
+Tennessee,Economists,60,14.3,0.019,0.15,34.9,72590,3.8
+Tennessee,Survey Researchers,140,38.8,0.048,0.71,24.75,51490,4.1
+Tennessee,"Clinical, Counseling, and School Psychologists",1700,5.8,0.566,0.73,37.63,78270,5.4
+Tennessee,"Psychologists, All Other",260,7.7,0.086,0.89,41.25,85800,1.5
+Tennessee,Urban and Regional Planners,390,8.5,0.13,0.49,29.71,61800,2.1
+Tennessee,Anthropologists and Archeologists,50,12.5,0.016,0.35,29.73,61840,3.7
+Tennessee,"Social Scientists and Related Workers, All Other",460,6.3,0.152,0.66,29.14,60600,2.2
+Tennessee,Agricultural and Food Science Technicians,220,19.8,0.074,0.5,18.52,38520,2.9
+Tennessee,Biological Technicians,1340,7.4,0.446,0.82,18.65,38780,2.4
+Tennessee,Chemical Technicians,2120,9.9,0.705,1.57,23.83,49570,2.1
+Tennessee,"Environmental Science and Protection Technicians, Including Health",660,8.5,0.22,0.99,21.11,43900,3
+Tennessee,Geological and Hydrologic Technicians,270,30.6,0.088,0.76,25.27,52550,3.1
+Tennessee,Nuclear Technicians,190,2.7,0.062,1.42,37.45,77890,2.5
+Tennessee,Social Science Research Assistants,410,20.8,0.135,0.56,19.78,41150,8.5
+Tennessee,Forest and Conservation Technicians,360,1.6,0.119,0.92,18.52,38520,0.9
+Tennessee,Forensic Science Technicians,510,7.5,0.17,1.51,25.13,52270,3.1
+Tennessee,"Life, Physical, and Social Science Technicians, All Other",960,9.2,0.318,0.73,20.89,43450,1.8
+Tennessee,Occupational Health and Safety Specialists,1700,6.9,0.564,0.89,36.46,75840,2.2
+Tennessee,Occupational Health and Safety Technicians,430,12.9,0.143,1.02,31.15,64790,4.7
+Tennessee,Community and Social Service Occupations,35160,1.8,11.691,0.77,20.8,43270,1
+Tennessee,"Educational, Guidance, and Career Counselors and Advisors",4800,2.9,1.596,0.79,25.07,52140,1.6
+Tennessee,Marriage and Family Therapists,850,12.7,0.283,0.7,19.48,40520,3.7
+Tennessee,Rehabilitation Counselors,1730,7.2,0.575,0.77,13.62,28320,3.8
+Tennessee,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",3270,7.4,1.088,0.56,19,39510,2.7
+Tennessee,"Counselors, All Other",1100,8,0.366,2.12,18.24,37940,1.7
+Tennessee,"Child, Family, and School Social Workers",5730,3.7,1.904,0.85,20.56,42760,1.1
+Tennessee,Healthcare Social Workers,4980,4.9,1.655,1.39,23.21,48280,2
+Tennessee,Mental Health and Substance Abuse Social Workers,1600,6.6,0.531,0.66,19.22,39980,2.2
+Tennessee,"Social Workers, All Other",1530,6.1,0.51,1.28,25.48,53000,3.4
+Tennessee,Health Education Specialists,790,18,0.262,0.66,23.08,48010,2.4
+Tennessee,Probation Officers and Correctional Treatment Specialists,2000,2.4,0.664,1.11,20.24,42110,1.1
+Tennessee,Social and Human Service Assistants,2890,6.8,0.961,0.35,15.44,32120,2.3
+Tennessee,Community Health Workers,900,12.6,0.301,0.75,20.26,42140,2.7
+Tennessee,"Community and Social Service Specialists, All Other",2120,3.9,0.704,1.06,19.92,41420,1.8
+Tennessee,Clergy,610,9.2,0.202,0.56,24.56,51090,2.3
+Tennessee,"Directors, Religious Activities and Education",240,38.4,0.078,0.53,28,58230,9.2
+Tennessee,Legal Occupations,15710,3.2,5.223,0.67,43.03,89510,3.5
+Tennessee,Lawyers,7590,5.5,2.522,0.56,59.79,124370,4.3
+Tennessee,"Administrative Law Judges, Adjudicators, and Hearing Officers",300,2.4,0.101,1.03,48.24,100340,1.4
+Tennessee,"Arbitrators, Mediators, and Conciliators",120,6.6,0.039,0.95,30.34,63110,3.8
+Tennessee,"Judges, Magistrate Judges, and Magistrates",430,2.9,0.143,0.73,56.67,117870,2.3
+Tennessee,Paralegals and Legal Assistants,4900,6.8,1.63,0.73,23.96,49830,2.8
+Tennessee,"Title Examiners, Abstractors, and Searchers",1300,17.5,0.432,1.2,24.67,51320,6.6
+Tennessee,"Legal Support Workers, All Other",560,18.2,0.188,0.61,24.06,50040,5.1
+Tennessee,Educational Instruction and Library Occupations,156830,2.5,52.143,0.86,24.35,50660,2.1
+Tennessee,"Business Teachers, Postsecondary",1970,22.8,0.654,1.14,*,97560,4.2
+Tennessee,"Computer Science Teachers, Postsecondary",510,6.8,0.169,0.78,*,85820,3.5
+Tennessee,"Mathematical Science Teachers, Postsecondary",1090,9.6,0.363,1.04,*,60100,6.8
+Tennessee,"Architecture Teachers, Postsecondary",60,0,0.02,0.44,*,94110,3.4
+Tennessee,"Engineering Teachers, Postsecondary",780,0.9,0.258,1.05,*,110880,4
+Tennessee,"Agricultural Sciences Teachers, Postsecondary",100,0.9,0.033,0.5,*,81010,1.7
+Tennessee,"Biological Science Teachers, Postsecondary",1090,4.6,0.363,1,*,88760,6.5
+Tennessee,"Forestry and Conservation Science Teachers, Postsecondary",30,9.2,0.012,0.96,*,107700,3.1
+Tennessee,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",120,3,0.039,0.52,*,86760,3.1
+Tennessee,"Chemistry Teachers, Postsecondary",470,3.3,0.155,1.07,*,75640,5.1
+Tennessee,"Environmental Science Teachers, Postsecondary",60,7.6,0.021,0.52,*,77210,4.3
+Tennessee,"Physics Teachers, Postsecondary",300,3.2,0.098,1.05,*,86710,6.7
+Tennessee,"Anthropology and Archeology Teachers, Postsecondary",70,6.1,0.022,0.56,*,98030,4.5
+Tennessee,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",40,5.5,0.015,0.2,*,74150,5.9
+Tennessee,"Economics Teachers, Postsecondary",270,3.3,0.089,0.99,*,120850,7.9
+Tennessee,"Geography Teachers, Postsecondary",60,10,0.019,0.69,*,76550,3.7
+Tennessee,"Political Science Teachers, Postsecondary",230,3.9,0.078,0.73,*,91510,6.7
+Tennessee,"Psychology Teachers, Postsecondary",710,3.7,0.238,0.93,*,77930,6.5
+Tennessee,"Sociology Teachers, Postsecondary",570,19,0.188,2,*,51280,12.6
+Tennessee,"Social Sciences Teachers, Postsecondary, All Other",260,10.9,0.085,0.74,*,41480,8.3
+Tennessee,"Health Specialties Teachers, Postsecondary",3710,3.3,1.233,0.9,*,99280,5.6
+Tennessee,"Nursing Instructors and Teachers, Postsecondary",1110,4.2,0.37,0.91,*,75260,4.2
+Tennessee,"Education Teachers, Postsecondary",860,3.6,0.284,0.68,*,80320,5
+Tennessee,"Library Science Teachers, Postsecondary",230,0.8,0.076,2.55,*,67020,2.4
+Tennessee,"Criminal Justice and Law Enforcement Teachers, Postsecondary",250,12.1,0.084,0.88,*,58860,3.5
+Tennessee,"Law Teachers, Postsecondary",280,8.9,0.094,0.85,*,136130,10.8
+Tennessee,"Social Work Teachers, Postsecondary",130,0.7,0.044,0.48,*,73710,4.6
+Tennessee,"Art, Drama, and Music Teachers, Postsecondary",1620,11,0.539,0.84,*,70410,5.2
+Tennessee,"Communications Teachers, Postsecondary",400,2.5,0.134,0.67,*,62830,2.2
+Tennessee,"English Language and Literature Teachers, Postsecondary",1330,4.9,0.443,0.96,*,61470,2.7
+Tennessee,"Foreign Language and Literature Teachers, Postsecondary",420,5.1,0.138,0.82,*,69890,4.5
+Tennessee,"History Teachers, Postsecondary",570,5,0.188,1.32,*,74340,7.3
+Tennessee,"Philosophy and Religion Teachers, Postsecondary",580,10.4,0.192,1.2,*,73250,5
+Tennessee,"Family and Consumer Sciences Teachers, Postsecondary",70,0,0.023,1.59,*,85210,2.4
+Tennessee,"Recreation and Fitness Studies Teachers, Postsecondary",140,6,0.046,0.43,*,67510,6.7
+Tennessee,"Career/Technical Education Teachers, Postsecondary",2350,12.6,0.783,1.02,23.18,48210,2.3
+Tennessee,"Postsecondary Teachers, All Other",2700,13.3,0.899,0.66,*,65840,5.7
+Tennessee,"Preschool Teachers, Except Special Education",6420,8.6,2.136,0.73,15.67,32600,2.7
+Tennessee,"Kindergarten Teachers, Except Special Education",3490,2.4,1.161,1.37,*,50390,1.6
+Tennessee,"Elementary School Teachers, Except Special Education",30620,4.8,10.18,1.05,*,53540,1.6
+Tennessee,"Middle School Teachers, Except Special and Career/Technical Education",13240,3.9,4.403,1.04,*,53880,1.3
+Tennessee,"Career/Technical Education Teachers, Middle School",130,1.2,0.044,0.55,*,59650,2.5
+Tennessee,"Secondary School Teachers, Except Special and Career/Technical Education",20690,4.6,6.88,0.98,*,55060,1.4
+Tennessee,"Career/Technical Education Teachers, Secondary School",2390,3,0.794,1.57,*,54950,1
+Tennessee,"Special Education Teachers, Preschool",260,13.3,0.086,0.57,*,49910,2.5
+Tennessee,"Special Education Teachers, Kindergarten and Elementary School",4130,2.7,1.373,1.04,*,53880,1.6
+Tennessee,"Special Education Teachers, Middle School",1310,2.6,0.434,0.74,*,54430,1.4
+Tennessee,"Special Education Teachers, Secondary School",3260,9.2,1.082,1.11,*,55780,1.6
+Tennessee,"Special Education Teachers, All Other",520,22.1,0.174,0.72,*,50750,2.3
+Tennessee,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",420,9.1,0.14,0.4,24.14,50200,1.3
+Tennessee,Self-Enrichment Teachers,2450,11.9,0.815,0.47,16.97,35300,4.3
+Tennessee,"Substitute Teachers, Short-Term",5790,11,1.926,0.48,9.98,20760,2.3
+Tennessee,"Tutors and Teachers and Instructors, All Other",3340,10.1,1.111,0.51,*,45110,3.8
+Tennessee,Archivists,80,3.2,0.025,0.57,22.3,46390,3.8
+Tennessee,Curators,170,12.9,0.057,0.65,25.91,53890,3.7
+Tennessee,Museum Technicians and Conservators,190,35.8,0.062,0.69,20.79,43250,4.4
+Tennessee,Librarians and Media Collections Specialists,2670,2.8,0.888,0.96,27.22,56610,1.5
+Tennessee,Library Technicians,730,9.1,0.242,0.4,14.72,30620,3
+Tennessee,Farm and Home Management Educators,460,12.4,0.152,2.55,27.17,56510,2
+Tennessee,Instructional Coordinators,3180,3.6,1.056,0.88,27.83,57900,2.9
+Tennessee,"Teaching Assistants, Postsecondary",1180,7,0.394,0.42,*,27720,5.7
+Tennessee,"Teaching Assistants, Except Postsecondary",22680,4.1,7.539,0.82,*,24560,2.2
+Tennessee,"Educational Instruction and Library Workers, All Other",1490,8.7,0.497,0.57,18.84,39180,4.1
+Tennessee,"Arts, Design, Entertainment, Sports, and Media Occupations",31840,3.5,10.586,0.77,25.34,52720,2.3
+Tennessee,Art Directors,450,9.8,0.149,0.51,38.42,79920,2.7
+Tennessee,Craft Artists,120,32.4,0.039,1.23,19.29,40120,4.9
+Tennessee,"Fine Artists, Including Painters, Sculptors, and Illustrators",**,**,**,**,19.87,41330,11.7
+Tennessee,Special Effects Artists and Animators,220,17.3,0.072,0.36,30.51,63460,3.4
+Tennessee,"Artists and Related Workers, All Other",80,18.4,0.025,0.49,22.42,46620,7.2
+Tennessee,Commercial and Industrial Designers,650,14.5,0.215,0.97,28.13,58500,2.9
+Tennessee,Fashion Designers,80,28.3,0.025,0.17,34.9,72600,9.4
+Tennessee,Floral Designers,860,9.3,0.287,1.01,12.83,26680,3.2
+Tennessee,Graphic Designers,3370,9.7,1.121,0.76,23.63,49150,2.4
+Tennessee,Interior Designers,1110,18.8,0.37,0.9,23.53,48940,4.5
+Tennessee,Merchandise Displayers and Window Trimmers,1990,12.9,0.663,0.69,14.77,30720,2.8
+Tennessee,Set and Exhibit Designers,200,27.7,0.066,0.81,25.01,52010,13.2
+Tennessee,"Designers, All Other",470,27,0.156,2.15,33.99,70690,20.8
+Tennessee,Actors,240,17.7,0.081,0.23,19.5,*,12.7
+Tennessee,Producers and Directors,1580,8.3,0.525,0.6,30.34,63100,3.2
+Tennessee,Athletes and Sports Competitors,370,23.3,0.124,1.6,*,*,*
+Tennessee,Coaches and Scouts,4570,9.2,1.521,0.93,*,46280,5.8
+Tennessee,"Umpires, Referees, and Other Sports Officials",540,16.5,0.18,1.31,*,33030,2.2
+Tennessee,Dancers,220,34.1,0.074,1.11,14.82,*,11.9
+Tennessee,Music Directors and Composers,180,8.9,0.061,0.85,*,*,*
+Tennessee,Musicians and Singers,2170,11.1,0.722,2.58,41.9,*,12.5
+Tennessee,"Miscellaneous Entertainers and Performers, Sports and Related Workers",320,30.1,0.106,0.98,16.53,*,8
+Tennessee,Broadcast Announcers and Radio Disc Jockeys,720,13.9,0.239,1.2,19.85,41290,14.1
+Tennessee,"News Analysts, Reporters, and Journalists",640,14.9,0.212,0.7,21.77,45280,7.9
+Tennessee,Public Relations Specialists,2090,11.5,0.695,0.42,31.64,65810,5.8
+Tennessee,Editors,1510,10.1,0.502,0.77,29.45,61250,7.9
+Tennessee,Technical Writers,410,8.1,0.138,0.4,30.61,63670,4.2
+Tennessee,Writers and Authors,850,9.2,0.283,0.9,24.41,50770,3.9
+Tennessee,Interpreters and Translators,750,9.4,0.251,0.63,22.45,46690,5
+Tennessee,"Media and Communication Workers, All Other",450,17.9,0.15,0.88,18.87,39250,6.4
+Tennessee,Audio and Video Technicians,1320,28.7,0.438,0.87,24.05,50020,3.7
+Tennessee,Broadcast Technicians,310,13.8,0.102,0.52,24.39,50730,3
+Tennessee,Sound Engineering Technicians,270,26.1,0.09,1.03,*,*,*
+Tennessee,Photographers,1060,31.6,0.354,1.03,20.31,42240,7.7
+Tennessee,"Camera Operators, Television, Video, and Film",600,26.9,0.201,1.37,24.9,51780,5.6
+Tennessee,Film and Video Editors,260,17.3,0.085,0.45,29.98,62350,9
+Tennessee,"Lighting Technicians and Media and Communication Equipment Workers, All Other",330,19.4,0.111,0.7,28.71,59720,4.6
+Tennessee,Healthcare Practitioners and Technical Occupations,199730,2.2,66.406,1.12,33.78,70250,1.3
+Tennessee,Chiropractors,440,27.2,0.147,0.62,47.58,98960,25.3
+Tennessee,"Dentists, General",1410,15.1,0.467,0.62,83.35,173360,6.4
+Tennessee,Orthodontists,100,49,0.034,0.83,123.8,257500,11.7
+Tennessee,"Dentists, All Other Specialists",110,29.9,0.038,1.04,73.22,152300,13.2
+Tennessee,Dietitians and Nutritionists,1100,5.4,0.365,0.79,26.53,55180,1.6
+Tennessee,Optometrists,820,14.5,0.272,1.01,56.94,118430,4.4
+Tennessee,Pharmacists,7350,3.9,2.444,1.15,59.4,123550,1.7
+Tennessee,Physician Assistants,2010,10.4,0.669,0.82,43.63,90760,5
+Tennessee,Podiatrists,80,18.7,0.026,0.39,58.19,121030,4.9
+Tennessee,Occupational Therapists,2450,10.6,0.814,0.9,40.62,84480,1
+Tennessee,Physical Therapists,4920,5.9,1.635,1.03,40.73,84720,2.2
+Tennessee,Radiation Therapists,440,11.7,0.146,1.2,35.47,73780,1.2
+Tennessee,Recreational Therapists,300,11.3,0.1,0.77,20.97,43630,2.2
+Tennessee,Respiratory Therapists,3500,5.8,1.164,1.29,25.08,52170,0.9
+Tennessee,Speech-Language Pathologists,3150,5.9,1.049,1,36.21,75320,1.9
+Tennessee,Exercise Physiologists,130,15.1,0.043,0.87,22.97,47770,2.6
+Tennessee,"Therapists, All Other",370,38.1,0.122,1.48,22.37,46530,7.3
+Tennessee,Veterinarians,1750,11.9,0.582,1.15,46.16,96020,5.3
+Tennessee,Registered Nurses,63330,3.8,21.055,1.04,30.08,62570,0.8
+Tennessee,Nurse Anesthetists,2680,18.8,0.89,3,75.52,157070,2
+Tennessee,Nurse Midwives,40,7.2,0.013,0.28,43.3,90070,2.7
+Tennessee,Nurse Practitioners,7850,6.1,2.612,1.91,46.4,96510,1.2
+Tennessee,Audiologists,410,24.4,0.136,1.47,38.26,79570,3.7
+Tennessee,Anesthesiologists,920,39.2,0.305,1.44,128.21,266670,9.2
+Tennessee,Family Medicine Physicians,980,13.2,0.327,0.44,99.64,207250,6.4
+Tennessee,General Internal Medicine Physicians,490,8.2,0.163,0.54,96.02,199720,8.8
+Tennessee,Obstetricians and Gynecologists,210,21.8,0.07,0.55,112.62,234250,11
+Tennessee,"Pediatricians, General",1000,20.2,0.332,1.64,86.21,179320,18.3
+Tennessee,Psychiatrists,350,27.7,0.118,0.68,101.74,211620,4.6
+Tennessee,"Physicians, All Other; and Ophthalmologists, Except Pediatric",6790,6.1,2.257,0.85,92.4,192190,10.5
+Tennessee,"Surgeons, Except Ophthalmologists",170,30.2,0.057,0.23,129.89,270180,10.4
+Tennessee,Dental Hygienists,4180,8.5,1.39,0.92,32.54,67690,2.2
+Tennessee,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",360,18.3,0.121,0.49,29.97,62350,5.5
+Tennessee,Clinical Laboratory Technologists and Technicians,9380,3.7,3.12,1.41,25.47,52970,3
+Tennessee,Cardiovascular Technologists and Technicians,1280,8.9,0.427,1.12,23.75,49400,4.1
+Tennessee,Diagnostic Medical Sonographers,1570,6.9,0.522,1.05,31.87,66280,1
+Tennessee,Nuclear Medicine Technologists,520,6.7,0.173,1.4,34.56,71890,2.5
+Tennessee,Radiologic Technologists and Technicians,3880,4,1.29,0.91,25.04,52080,1.1
+Tennessee,Magnetic Resonance Imaging Technologists,1400,9.1,0.464,1.8,28.92,60140,1.6
+Tennessee,Emergency Medical Technicians and Paramedics,6960,8.9,2.315,1.3,18.51,38500,2
+Tennessee,Dietetic Technicians,810,21.3,0.269,1.35,11.63,24180,3.7
+Tennessee,Pharmacy Technicians,10270,4.8,3.416,1.2,16.59,34510,2.3
+Tennessee,Psychiatric Technicians,1120,6.6,0.374,0.7,13.06,27170,2.4
+Tennessee,Surgical Technologists,2690,5.7,0.893,1.2,21.41,44530,1.5
+Tennessee,Veterinary Technologists and Technicians,1950,19.4,0.648,0.86,15.35,31920,4.5
+Tennessee,Ophthalmic Medical Technicians,**,**,**,**,16.85,35060,3.5
+Tennessee,Licensed Practical and Licensed Vocational Nurses,25360,3.3,8.432,1.78,19.84,41270,0.6
+Tennessee,"Opticians, Dispensing",1450,9.4,0.481,0.98,18.73,38950,3.3
+Tennessee,Orthotists and Prosthetists,230,28.7,0.076,1.13,29.77,61930,2.7
+Tennessee,Hearing Aid Specialists,180,36.9,0.061,1.1,20.51,42660,7.6
+Tennessee,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",5780,4.4,1.923,0.85,23.11,48070,5.2
+Tennessee,Athletic Trainers,**,**,**,**,*,44120,2
+Tennessee,Genetic Counselors,40,12,0.014,0.87,37.07,77100,2.4
+Tennessee,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",2280,10.3,0.758,2.05,29.49,61340,6.7
+Tennessee,Healthcare Support Occupations,99910,2,33.219,0.75,14.1,29320,0.8
+Tennessee,Home Health and Personal Care Aides,27380,5.1,9.105,0.42,10.64,22140,0.7
+Tennessee,Nursing Assistants,29200,4,9.709,1,13.1,27250,0.8
+Tennessee,Orderlies,820,8.9,0.273,0.85,11.84,24620,2.4
+Tennessee,Psychiatric Aides,1770,17.7,0.589,1.57,12.86,26740,4.9
+Tennessee,Occupational Therapy Assistants,1020,12,0.338,1.1,29.31,60970,1.6
+Tennessee,Occupational Therapy Aides,50,27.1,0.018,0.35,15.47,32180,7.2
+Tennessee,Physical Therapist Assistants,3290,7.2,1.095,1.66,27.15,56470,1.8
+Tennessee,Physical Therapist Aides,1540,17.5,0.513,1.53,12.61,26230,2.5
+Tennessee,Massage Therapists,2200,14.1,0.733,1,19.95,41490,4.4
+Tennessee,Dental Assistants,5680,8.1,1.889,0.79,18.72,38940,2.7
+Tennessee,Medical Assistants,15280,4.4,5.079,1.05,16.16,33610,1.1
+Tennessee,Medical Equipment Preparers,1090,12.2,0.362,0.93,15.73,32710,1.7
+Tennessee,Medical Transcriptionists,1190,11.6,0.396,1.04,16.09,33470,2.4
+Tennessee,Pharmacy Aides,2550,15.9,0.849,3.35,12.73,26480,2.5
+Tennessee,Veterinary Assistants and Laboratory Animal Caretakers,2720,13,0.905,1.37,12.07,25110,1.9
+Tennessee,Phlebotomists,2290,8.4,0.763,0.87,15.11,31440,1.5
+Tennessee,"Healthcare Support Workers, All Other",1810,7.5,0.603,0.95,15.85,32970,4
+Tennessee,Protective Service Occupations,70640,2.4,23.487,0.99,19.12,39780,3
+Tennessee,First-Line Supervisors of Correctional Officers,630,5.8,0.208,0.66,26.7,55540,1.4
+Tennessee,First-Line Supervisors of Police and Detectives,3930,2.6,1.308,1.58,32.26,67100,1.7
+Tennessee,First-Line Supervisors of Firefighting and Prevention Workers,2060,3.6,0.684,1.44,29.25,60840,3.8
+Tennessee,"Miscellaneous First-Line Supervisors, Protective Service Workers",1340,12.5,0.445,0.79,22.83,47480,3.5
+Tennessee,Firefighters,5450,2.7,1.811,0.82,21.34,44400,3.8
+Tennessee,Fire Inspectors and Investigators,320,5.5,0.108,1.15,29.19,60710,2.1
+Tennessee,Bailiffs,350,4.6,0.115,0.86,20.8,43270,7.8
+Tennessee,Correctional Officers and Jailers,9320,2.8,3.098,1.08,17.78,36990,1.6
+Tennessee,Detectives and Criminal Investigators,1530,2.2,0.51,0.71,34.18,71090,0.8
+Tennessee,Fish and Game Wardens,350,0.1,0.115,2.48,33.24,69140,0.9
+Tennessee,Parking Enforcement Workers,190,1.4,0.062,1.19,15.66,32570,2.9
+Tennessee,Police and Sheriff's Patrol Officers,13270,1.8,4.411,0.97,21.81,45370,1.8
+Tennessee,Animal Control Workers,320,6.1,0.105,1.29,15.92,33120,2.2
+Tennessee,Private Detectives and Investigators,680,16.4,0.227,0.95,27.86,57960,9.2
+Tennessee,Security Guards,23990,5.9,7.978,1.04,14.08,29280,3.9
+Tennessee,Crossing Guards and Flaggers,2320,9.6,0.771,1.33,16.03,33350,3.5
+Tennessee,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2500,10,0.832,0.85,10.26,21340,1.3
+Tennessee,Transportation Security Screeners,620,0.4,0.206,0.65,19.05,39620,1.8
+Tennessee,"School Bus Monitors and Protective Service Workers, All Other",1440,3.9,0.478,0.48,16.53,34380,3.4
+Tennessee,Food Preparation and Serving Related Occupations,282690,1,93.988,1.02,10.82,22510,0.6
+Tennessee,Chefs and Head Cooks,1590,15.7,0.529,0.61,23.48,48830,4.5
+Tennessee,First-Line Supervisors of Food Preparation and Serving Workers,21480,4,7.142,1.04,16.04,33360,1.2
+Tennessee,"Cooks, Fast Food",19740,9.7,6.564,1.83,9.91,20610,1.5
+Tennessee,"Cooks, Institution and Cafeteria",9870,2.8,3.282,1.2,12.67,26350,1.9
+Tennessee,"Cooks, Restaurant",24320,7,8.085,0.85,12.23,25430,1.4
+Tennessee,"Cooks, Short Order",7000,15.1,2.328,2.24,11.57,24060,1.8
+Tennessee,"Cooks, All Other",1390,36.7,0.462,3.51,12.22,25420,7.8
+Tennessee,Food Preparation Workers,35940,6.2,11.949,2.03,10.09,20990,1.6
+Tennessee,Bartenders,7550,8.3,2.511,0.57,10.69,22240,3.5
+Tennessee,Fast Food and Counter Workers,66270,5.1,22.032,0.81,9.87,20520,0.8
+Tennessee,Waiters and Waitresses,55250,5.2,18.371,1.05,9.62,20020,1.4
+Tennessee,"Food Servers, Nonrestaurant",6240,10.9,2.076,1.1,11.07,23030,3.9
+Tennessee,Dining Room and Cafeteria Attendants and Bartender Helpers,6350,11.6,2.11,0.65,10.25,21330,2.6
+Tennessee,Dishwashers,8230,9.8,2.738,0.78,10.33,21490,1.2
+Tennessee,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",10560,9.7,3.51,1.22,9.76,20290,1.5
+Tennessee,"Food Preparation and Serving Related Workers, All Other",900,35,0.298,0.61,11.79,24530,3.6
+Tennessee,Building and Grounds Cleaning and Maintenance Occupations,83940,2.1,27.908,0.93,12.95,26940,1.2
+Tennessee,First-Line Supervisors of Housekeeping and Janitorial Workers,3740,10,1.244,1.17,18.73,38950,3.3
+Tennessee,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2490,12.6,0.826,1.17,21.37,44440,2.3
+Tennessee,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",38300,4.2,12.733,0.87,11.87,24700,1.2
+Tennessee,Maids and Housekeeping Cleaners,18190,5.4,6.049,0.96,10.86,22590,1.4
+Tennessee,Pest Control Workers,2590,6.9,0.863,1.59,18.6,38690,7.1
+Tennessee,Landscaping and Groundskeeping Workers,14850,4,4.939,0.79,13.25,27560,1.6
+Tennessee,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",150,36.1,0.05,0.29,13.1,27240,17.1
+Tennessee,Tree Trimmers and Pruners,1500,23.3,0.498,1.55,17.44,36280,4.9
+Tennessee,"Grounds Maintenance Workers, All Other",1080,15,0.36,3.69,14.52,30210,3.4
+Tennessee,Personal Care and Service Occupations,57100,3.2,18.983,0.84,13.07,27190,1.2
+Tennessee,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",3530,4.9,1.173,0.79,19.25,40050,2.2
+Tennessee,Animal Trainers,130,32.8,0.043,0.38,14.05,29220,6.8
+Tennessee,Animal Caretakers,3560,7.2,1.185,0.82,11.83,24600,1.9
+Tennessee,Motion Picture Projectionists,150,16.8,0.05,1.63,12.91,26840,6.9
+Tennessee,"Ushers, Lobby Attendants, and Ticket Takers",3880,19,1.291,1.37,10.19,21180,3.1
+Tennessee,Amusement and Recreation Attendants,5570,8.9,1.851,0.8,10.45,21740,1.5
+Tennessee,Costume Attendants,70,45.1,0.023,0.46,22.79,47400,7.7
+Tennessee,"Locker Room, Coatroom, and Dressing Room Attendants",110,23.2,0.036,0.33,11.29,23480,10.5
+Tennessee,"Entertainment Attendants and Related Workers, All Other",90,19.5,0.03,0.98,14.92,31040,5.6
+Tennessee,Embalmers,130,39.9,0.044,1.67,24.26,50460,7.4
+Tennessee,Funeral Attendants,1070,15.7,0.356,1.52,12.76,26540,6
+Tennessee,"Morticians, Undertakers, and Funeral Arrangers",660,18.7,0.22,1.27,24.6,51160,5.4
+Tennessee,Barbers,**,**,**,**,24.42,50790,7.1
+Tennessee,"Hairdressers, Hairstylists, and Cosmetologists",6780,6.7,2.254,0.86,14.29,29720,4
+Tennessee,Manicurists and Pedicurists,470,17.1,0.158,0.21,12.7,26420,6.5
+Tennessee,Shampooers,110,30.3,0.038,0.46,11.62,24180,3.3
+Tennessee,Skincare Specialists,990,19.8,0.33,0.85,15.89,33060,4.9
+Tennessee,Baggage Porters and Bellhops,570,11.9,0.189,0.7,11.85,24650,6.8
+Tennessee,Concierges,720,20,0.239,0.84,12.96,26960,2.2
+Tennessee,Tour and Travel Guides,1330,17.1,0.443,1.33,12.84,26720,5
+Tennessee,Childcare Workers,10560,7.1,3.511,0.92,10.71,22270,2.2
+Tennessee,Exercise Trainers and Group Fitness Instructors,3360,11.7,1.116,0.5,20.49,42620,5.6
+Tennessee,Recreation Workers,5470,6.5,1.818,0.74,12.32,25630,1.8
+Tennessee,Residential Advisors,6410,16.2,2.131,2.9,12.08,25130,1.7
+Tennessee,"Crematory Operators and Personal Care and Service Workers, All Other",1210,10.2,0.402,0.96,11.44,23790,4.8
+Tennessee,Sales and Related Occupations,282540,1.4,93.938,0.96,18.6,38680,1
+Tennessee,First-Line Supervisors of Retail Sales Workers,30210,2.8,10.043,1.26,21.41,44520,1.7
+Tennessee,First-Line Supervisors of Non-Retail Sales Workers,5630,5.3,1.872,1.1,39.91,83020,3.6
+Tennessee,Cashiers,74130,4.2,24.648,1.01,10.62,22100,0.6
+Tennessee,Counter and Rental Clerks,5780,11.7,1.923,0.69,13.28,27630,3.4
+Tennessee,Parts Salespersons,5390,9.2,1.793,1.03,16.44,34200,3.8
+Tennessee,Retail Salespersons,90030,3.1,29.932,1.02,13.63,28360,1.6
+Tennessee,Advertising Sales Agents,2230,12,0.741,0.84,26.5,55120,4.3
+Tennessee,Insurance Sales Agents,6980,10.2,2.322,0.83,28.43,59130,5
+Tennessee,"Securities, Commodities, and Financial Services Sales Agents",4260,10.1,1.417,0.48,39.67,82520,7.4
+Tennessee,Travel Agents,990,23.9,0.328,0.72,23.14,48120,3.3
+Tennessee,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",17380,5.5,5.778,0.82,29.36,61070,1.9
+Tennessee,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",13020,6,4.328,2.07,38.72,80540,4.4
+Tennessee,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",17110,8,5.688,0.62,30.96,64400,3.1
+Tennessee,Demonstrators and Product Promoters,870,29.5,0.289,0.55,15.44,32100,2.8
+Tennessee,Models,110,45.2,0.037,2.36,9.56,19880,5.8
+Tennessee,Real Estate Brokers,660,20.5,0.221,0.76,*,*,*
+Tennessee,Real Estate Sales Agents,1880,13.4,0.627,0.57,24.36,50670,6.5
+Tennessee,Sales Engineers,520,18.9,0.172,0.4,45.96,95590,8
+Tennessee,Telemarketers,2540,15.8,0.843,0.92,12.43,25860,3.7
+Tennessee,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",60,36,0.019,0.31,20.45,42530,18.2
+Tennessee,"Sales and Related Workers, All Other",2730,8.1,0.907,1.12,19.21,39960,6.2
+Tennessee,Office and Administrative Support Occupations,417440,1,138.789,1.04,18.22,37910,0.5
+Tennessee,First-Line Supervisors of Office and Administrative Support Workers,38440,1.7,12.78,1.26,26.61,55340,0.8
+Tennessee,"Switchboard Operators, Including Answering Service",1310,11.6,0.436,0.94,14.08,29290,2.5
+Tennessee,Telephone Operators,100,19.9,0.033,1.02,13.37,27800,2.9
+Tennessee,"Communications Equipment Operators, All Other",110,41.3,0.036,1.64,18.91,39340,9.2
+Tennessee,Bill and Account Collectors,6440,9.8,2.14,1.33,16.5,34320,4.3
+Tennessee,Billing and Posting Clerks,10730,5.6,3.567,1.12,18.04,37520,1.1
+Tennessee,"Bookkeeping, Accounting, and Auditing Clerks",33770,3.3,11.229,1.09,19.9,41400,0.9
+Tennessee,Payroll and Timekeeping Clerks,2560,5.3,0.852,0.88,20.97,43620,1.8
+Tennessee,Procurement Clerks,1200,5.3,0.399,0.89,20.91,43500,1.4
+Tennessee,Tellers,10390,4.8,3.453,1.15,13.88,28880,1
+Tennessee,"Financial Clerks, All Other",810,22,0.27,1.3,18.86,39230,3.7
+Tennessee,Brokerage Clerks,1270,19.6,0.421,1.29,21.36,44420,4.1
+Tennessee,Correspondence Clerks,200,6.3,0.066,1.54,18.56,38610,2.1
+Tennessee,"Court, Municipal, and License Clerks",2530,6.2,0.843,0.8,17.83,37090,1.4
+Tennessee,"Credit Authorizers, Checkers, and Clerks",810,10.6,0.271,1.49,17.94,37310,2.6
+Tennessee,Customer Service Representatives,67820,3.3,22.548,1.13,16.56,34440,0.9
+Tennessee,"Eligibility Interviewers, Government Programs",3190,1.2,1.06,1.11,19.64,40850,1.4
+Tennessee,File Clerks,1970,6.9,0.656,0.94,15.41,32050,2.4
+Tennessee,"Hotel, Motel, and Resort Desk Clerks",5930,8.8,1.972,1.08,11.36,23640,2.5
+Tennessee,"Interviewers, Except Eligibility and Loan",5480,4.8,1.821,1.42,15.61,32470,2.6
+Tennessee,"Library Assistants, Clerical",1510,4.9,0.503,0.86,13,27030,2.3
+Tennessee,Loan Interviewers and Clerks,4530,12.5,1.507,1.06,19.73,41030,2.4
+Tennessee,New Accounts Clerks,1940,28.4,0.645,2.18,17.27,35930,1.8
+Tennessee,Order Clerks,3800,8.5,1.263,1.35,15.04,31280,2
+Tennessee,"Human Resources Assistants, Except Payroll and Timekeeping",2100,37.2,0.697,0.87,19.52,40610,1.2
+Tennessee,Receptionists and Information Clerks,19080,3.4,6.344,0.88,13.64,28370,1
+Tennessee,Reservation and Transportation Ticket Agents and Travel Clerks,1590,22.1,0.528,0.63,18.3,38060,9.1
+Tennessee,"Information and Record Clerks, All Other",3750,10.8,1.246,1.19,17.75,36910,3.7
+Tennessee,Cargo and Freight Agents,1660,14.5,0.553,0.85,20.34,42310,4.1
+Tennessee,Couriers and Messengers,1720,18.9,0.573,1.13,16.49,34300,11
+Tennessee,Public Safety Telecommunicators,1860,5.4,0.619,0.95,18.15,37750,2.2
+Tennessee,"Dispatchers, Except Police, Fire, and Ambulance",4640,21,1.542,1.14,19.12,39770,1.8
+Tennessee,"Meter Readers, Utilities",780,8.8,0.259,1.25,20.73,43110,2.4
+Tennessee,Postal Service Clerks,1410,0,0.467,0.85,24.65,51280,0.6
+Tennessee,Postal Service Mail Carriers,7090,0,2.359,1.02,24.82,51630,0.7
+Tennessee,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",2200,0,0.732,1.05,24.21,50360,1.6
+Tennessee,"Production, Planning, and Expediting Clerks",8620,3.8,2.866,1.14,22.2,46180,1
+Tennessee,"Shipping, Receiving, and Inventory Clerks",18730,4.2,6.229,1.3,16.47,34270,0.8
+Tennessee,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",1420,5.4,0.471,1.13,17.39,36170,1.5
+Tennessee,Executive Secretaries and Executive Administrative Assistants,5840,3.6,1.943,0.53,27.04,56240,1.5
+Tennessee,Legal Secretaries and Administrative Assistants,2530,10.8,0.84,0.73,20.74,43150,3.6
+Tennessee,Medical Secretaries and Administrative Assistants,10470,4.1,3.48,0.85,15.89,33050,1.2
+Tennessee,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",42040,2.3,13.978,1.01,17.74,36900,0.8
+Tennessee,Data Entry Keyers,2740,7.4,0.912,0.84,15.74,32740,1.4
+Tennessee,Word Processors and Typists,490,38.7,0.163,0.51,16.89,35130,2.1
+Tennessee,Desktop Publishers,220,35.1,0.072,1.21,20.77,43190,13.9
+Tennessee,Insurance Claims and Policy Processing Clerks,3680,7.6,1.222,0.7,18.72,38950,1.9
+Tennessee,"Mail Clerks and Mail Machine Operators, Except Postal Service",1250,8.2,0.416,0.73,14.49,30150,2.3
+Tennessee,"Office Clerks, General",59540,1.9,19.797,0.98,16.12,33540,0.7
+Tennessee,"Office Machine Operators, Except Computer",1370,39.4,0.455,1.46,15.06,31320,2.6
+Tennessee,Proofreaders and Copy Markers,90,23,0.031,0.58,16,33270,5.5
+Tennessee,Statistical Assistants,320,3.2,0.108,1.61,20.69,43040,2.5
+Tennessee,"Office and Administrative Support Workers, All Other",3360,6,1.116,0.87,15.75,32760,4.1
+Tennessee,"Farming, Fishing, and Forestry Occupations",5220,6.8,1.735,0.53,14.96,31110,2.1
+Tennessee,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",280,11.7,0.094,0.61,23.07,47990,2.6
+Tennessee,Agricultural Inspectors,330,5.5,0.11,1.17,21.89,45530,1.8
+Tennessee,"Graders and Sorters, Agricultural Products",490,15.6,0.164,0.7,12.48,25970,2.6
+Tennessee,Agricultural Equipment Operators,300,25.8,0.1,0.54,16.21,33720,4.9
+Tennessee,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1590,15,0.527,0.26,11.71,24360,3.3
+Tennessee,"Farmworkers, Farm, Ranch, and Aquacultural Animals",510,14.2,0.168,0.67,13.47,28010,3.7
+Tennessee,"Agricultural Workers, All Other",240,24.6,0.08,1.8,14.38,29900,3.9
+Tennessee,Forest and Conservation Workers,350,4.7,0.115,2.5,12.66,26340,1
+Tennessee,Fallers,310,33.4,0.103,3.09,18.83,39170,6.4
+Tennessee,Logging Equipment Operators,650,18.6,0.215,1.21,17.68,36770,7
+Tennessee,Log Graders and Scalers,**,**,**,**,19.76,41090,5.8
+Tennessee,"Logging Workers, All Other",60,44.5,0.02,0.79,13.31,27680,7.1
+Tennessee,Construction and Extraction Occupations,100060,1.8,33.267,0.79,20.67,43000,0.7
+Tennessee,First-Line Supervisors of Construction Trades and Extraction Workers,10410,3.7,3.46,0.81,28.79,59880,1
+Tennessee,Boilermakers,420,19.5,0.138,1.29,28.2,58660,4.1
+Tennessee,Brickmasons and Blockmasons,1340,16.8,0.444,1.08,23.36,48580,4.1
+Tennessee,Stonemasons,80,34.1,0.027,0.32,16.89,35120,5.8
+Tennessee,Carpenters,8490,6.4,2.823,0.56,20.01,41610,1.2
+Tennessee,Carpet Installers,250,25.9,0.084,0.47,17.46,36320,7.8
+Tennessee,"Floor Layers, Except Carpet, Wood, and Hard Tiles",260,27.2,0.086,0.78,16.68,34700,4.2
+Tennessee,Floor Sanders and Finishers,140,20.6,0.047,1.4,18.39,38240,3.9
+Tennessee,Tile and Stone Setters,240,26.6,0.081,0.29,18.6,38690,5.8
+Tennessee,Cement Masons and Concrete Finishers,2920,11.6,0.97,0.73,18.56,38590,3.1
+Tennessee,Construction Laborers,17940,4.4,5.966,0.86,16.13,33550,1.1
+Tennessee,"Paving, Surfacing, and Tamping Equipment Operators",1510,9.2,0.502,1.61,17.43,36260,2
+Tennessee,Pile Driver Operators,110,9.5,0.037,1.53,21.39,44480,8.7
+Tennessee,Operating Engineers and Other Construction Equipment Operators,6640,5.8,2.208,0.8,19.97,41540,1.4
+Tennessee,Drywall and Ceiling Tile Installers,1040,20.8,0.345,0.49,19.6,40770,3.5
+Tennessee,Electricians,12480,4.5,4.148,0.88,24.25,50440,1.4
+Tennessee,Glaziers,1020,20,0.338,0.95,18.67,38840,2.8
+Tennessee,"Insulation Workers, Floor, Ceiling, and Wall",900,30.6,0.298,1.31,14.24,29610,8.6
+Tennessee,"Insulation Workers, Mechanical",540,26,0.18,0.99,19.87,41330,5.7
+Tennessee,"Painters, Construction and Maintenance",3220,12.7,1.071,0.68,17.6,36620,2.1
+Tennessee,Pipelayers,1210,21.2,0.402,1.63,17.94,37310,4.8
+Tennessee,"Plumbers, Pipefitters, and Steamfitters",6390,6.4,2.123,0.7,25.02,52050,5.2
+Tennessee,Plasterers and Stucco Masons,140,40.4,0.045,0.24,22.6,47000,5.3
+Tennessee,Reinforcing Iron and Rebar Workers,490,15.1,0.162,1.26,22.59,46990,3.5
+Tennessee,Roofers,2240,16.8,0.743,0.84,16.79,34930,2.5
+Tennessee,Sheet Metal Workers,3090,11.4,1.028,1.15,21.5,44720,1.9
+Tennessee,Structural Iron and Steel Workers,870,14.6,0.288,0.55,24.44,50830,4.9
+Tennessee,Solar Photovoltaic Installers,30,33.7,0.011,0.15,19.81,41200,8.9
+Tennessee,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",840,17.7,0.281,1.76,16.33,33960,2.5
+Tennessee,Helpers--Carpenters,750,14.6,0.248,1.11,15.06,31330,3.6
+Tennessee,Helpers--Electricians,2790,9.8,0.929,1.72,15.95,33180,2.8
+Tennessee,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,14.76,30700,7.3
+Tennessee,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",780,15.5,0.26,0.65,16.14,33580,3.7
+Tennessee,Helpers--Roofers,**,**,**,**,14.27,29680,8.8
+Tennessee,"Helpers, Construction Trades, All Other",1050,27.5,0.35,1.8,13.49,28070,6.3
+Tennessee,Construction and Building Inspectors,1450,8.5,0.481,0.64,26.37,54850,8.6
+Tennessee,Elevator and Escalator Installers and Repairers,340,20.2,0.113,0.58,36.73,76400,3
+Tennessee,Fence Erectors,340,38.2,0.111,0.63,16.51,34340,5.3
+Tennessee,Hazardous Materials Removal Workers,370,15.4,0.122,0.4,29.48,61320,5.5
+Tennessee,Highway Maintenance Workers,1570,8.2,0.521,0.51,15.91,33090,1.3
+Tennessee,Rail-Track Laying and Maintenance Equipment Operators,210,37,0.07,0.63,25.22,52450,8.1
+Tennessee,Septic Tank Servicers and Sewer Pipe Cleaners,510,28.9,0.17,0.84,16.54,34390,4.7
+Tennessee,Miscellaneous Construction and Related Workers,1510,21.4,0.502,2.3,16.56,34440,2.7
+Tennessee,"Rotary Drill Operators, Oil and Gas",60,2.3,0.021,0.15,19.01,39540,3.3
+Tennessee,"Service Unit Operators, Oil and Gas",70,32.2,0.023,0.07,25.46,52960,8.7
+Tennessee,"Excavating and Loading Machine and Dragline Operators, Surface Mining",990,20,0.33,1.1,20.25,42110,3.2
+Tennessee,Continuous Mining Machine Operators,60,19,0.019,0.19,*,*,*
+Tennessee,"Loading and Moving Machine Operators, Underground Mining",30,39.8,0.01,0.36,21.05,43790,10.7
+Tennessee,"Rock Splitters, Quarry",210,21.4,0.07,2.02,17.28,35940,3.3
+Tennessee,Helpers--Extraction Workers,260,10.4,0.087,0.76,17.26,35900,3.2
+Tennessee,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",550,23.6,0.183,1.08,22.65,47120,4.1
+Tennessee,"Underground Mining Machine Operators and Extraction Workers, All Other",670,18.2,0.223,2.37,19.41,40380,4
+Tennessee,"Installation, Maintenance, and Repair Occupations",124230,1.5,41.303,1.06,22.06,45890,0.6
+Tennessee,"First-Line Supervisors of Mechanics, Installers, and Repairers",9420,4.4,3.133,0.95,31.36,65240,1.2
+Tennessee,"Computer, Automated Teller, and Office Machine Repairers",1170,15.8,0.389,0.58,19.19,39910,3.7
+Tennessee,"Radio, Cellular, and Tower Equipment Installers and Repairers",620,37.3,0.206,2.11,34.64,72040,13.5
+Tennessee,"Telecommunications Equipment Installers and Repairers, Except Line Installers",4830,7.1,1.607,1.13,27.79,57800,2.2
+Tennessee,Avionics Technicians,200,5,0.066,0.45,29.81,62010,5
+Tennessee,"Electric Motor, Power Tool, and Related Repairers",620,22.2,0.207,1.92,20.64,42930,4.9
+Tennessee,"Electrical and Electronics Installers and Repairers, Transportation Equipment",280,32.6,0.092,1.38,28.07,58380,5.4
+Tennessee,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1620,8.4,0.539,1.34,25.06,52120,1.8
+Tennessee,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",560,13.4,0.186,1.21,33.91,70540,3.4
+Tennessee,"Electronic Equipment Installers and Repairers, Motor Vehicles",240,32.7,0.079,1.13,20.62,42880,8.8
+Tennessee,Audiovisual Equipment Installers and Repairers,660,26.2,0.22,1.26,20.57,42780,5.8
+Tennessee,Security and Fire Alarm Systems Installers,1540,18.4,0.513,1.05,23.29,48450,4.2
+Tennessee,Aircraft Mechanics and Service Technicians,1250,6.3,0.415,0.46,28.05,58350,3.4
+Tennessee,Automotive Body and Related Repairers,3730,8.4,1.239,1.26,20.34,42300,3.1
+Tennessee,Automotive Glass Installers and Repairers,250,49.1,0.082,0.62,17.58,36570,4.2
+Tennessee,Automotive Service Technicians and Mechanics,16130,4.6,5.363,1.2,20.24,42090,2.2
+Tennessee,Bus and Truck Mechanics and Diesel Engine Specialists,5770,8.4,1.919,1.06,22.8,47430,2.2
+Tennessee,Farm Equipment Mechanics and Service Technicians,270,19.9,0.09,0.36,19.59,40740,4.3
+Tennessee,"Mobile Heavy Equipment Mechanics, Except Engines",2610,7.8,0.866,0.86,22.21,46190,1.6
+Tennessee,Rail Car Repairers,350,11.2,0.117,0.66,27.44,57070,6.4
+Tennessee,Motorboat Mechanics and Service Technicians,270,26.7,0.091,0.58,18.72,38930,4.9
+Tennessee,Motorcycle Mechanics,300,24.9,0.101,0.95,19.88,41360,4.8
+Tennessee,Outdoor Power Equipment and Other Small Engine Mechanics,870,15.9,0.291,1.33,15.77,32800,3
+Tennessee,Bicycle Repairers,**,**,**,**,14.25,29650,4
+Tennessee,Recreational Vehicle Service Technicians,420,33.5,0.138,1.3,20.61,42870,5.8
+Tennessee,Tire Repairers and Changers,2570,14.1,0.853,1.13,14.16,29450,2.7
+Tennessee,Mechanical Door Repairers,270,33.8,0.091,0.58,20.62,42880,4.6
+Tennessee,"Control and Valve Installers and Repairers, Except Mechanical Door",820,26.5,0.274,0.77,24.41,50780,3.5
+Tennessee,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",8330,8.7,2.768,1.19,20.44,42510,2
+Tennessee,Home Appliance Repairers,450,21.3,0.148,0.7,18.93,39380,3.8
+Tennessee,Industrial Machinery Mechanics,9540,4.1,3.171,1.2,25.08,52160,1.6
+Tennessee,"Maintenance Workers, Machinery",3020,6.4,1.003,2.02,21.92,45600,1.1
+Tennessee,Millwrights,1310,13.6,0.436,1.35,24.73,51430,2.3
+Tennessee,"Refractory Materials Repairers, Except Brickmasons",30,5,0.011,2.02,25.28,52580,5.3
+Tennessee,Electrical Power-Line Installers and Repairers,2240,8.7,0.746,0.98,32.86,68340,1.8
+Tennessee,Telecommunications Line Installers and Repairers,1590,17,0.528,0.64,20.96,43590,2.9
+Tennessee,Camera and Photographic Equipment Repairers,130,23,0.043,1.74,17.01,35370,4.1
+Tennessee,Medical Equipment Repairers,1290,12.7,0.43,1.36,21.65,45040,3.3
+Tennessee,Musical Instrument Repairers and Tuners,160,22.2,0.053,0.98,18.93,39380,9.1
+Tennessee,Watch and Clock Repairers,**,**,**,**,22.49,46790,7.6
+Tennessee,"Precision Instrument and Equipment Repairers, All Other",340,20.4,0.114,1.59,32.26,67100,7.3
+Tennessee,"Maintenance and Repair Workers, General",27890,2.4,9.272,0.96,18.99,39500,0.8
+Tennessee,"Coin, Vending, and Amusement Machine Servicers and Repairers",620,24.2,0.205,0.96,14.26,29660,7.6
+Tennessee,Commercial Divers,**,**,**,**,24.47,50910,2.1
+Tennessee,Locksmiths and Safe Repairers,270,18.8,0.09,0.78,19.87,41330,7
+Tennessee,Manufactured Building and Mobile Home Installers,**,**,**,**,12.62,26260,7.8
+Tennessee,Riggers,**,**,**,**,19.32,40190,3.2
+Tennessee,"Helpers--Installation, Maintenance, and Repair Workers",2240,12,0.745,1.1,15.82,32910,3.2
+Tennessee,"Installation, Maintenance, and Repair Workers, All Other",6360,8.6,2.115,1.93,18.84,39190,1.6
+Tennessee,Production Occupations,268790,1.7,89.366,1.43,18.03,37500,0.9
+Tennessee,First-Line Supervisors of Production and Operating Workers,18790,2.1,6.246,1.45,28.32,58900,1.1
+Tennessee,"Coil Winders, Tapers, and Finishers",680,15.5,0.225,2.6,18.59,38660,3.3
+Tennessee,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",6050,15.5,2.012,1.04,17.67,36750,2.1
+Tennessee,Engine and Other Machine Assemblers,1210,11.3,0.403,1.29,16.58,34490,6.9
+Tennessee,Structural Metal Fabricators and Fitters,1670,9.3,0.554,1.06,18.38,38230,3.4
+Tennessee,Fiberglass Laminators and Fabricators,1320,13.1,0.44,3.23,17.74,36900,2.3
+Tennessee,Timing Device Assemblers and Adjusters,170,13.3,0.057,6.7,20.83,43320,4.6
+Tennessee,Miscellaneous Assemblers and Fabricators,50280,3.9,16.718,1.79,16.34,33980,2.7
+Tennessee,Bakers,2820,13.2,0.937,0.74,13.56,28200,3.2
+Tennessee,Butchers and Meat Cutters,1490,14.5,0.495,0.53,15.88,33040,1.8
+Tennessee,"Meat, Poultry, and Fish Cutters and Trimmers",3330,10.1,1.106,1.06,13.71,28520,2.1
+Tennessee,Slaughterers and Meat Packers,1050,11.8,0.349,0.7,12.45,25900,2.9
+Tennessee,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",610,1.3,0.202,1.42,18.7,38900,4.1
+Tennessee,Food Batchmakers,5770,10.4,1.917,1.77,18.27,38010,3.5
+Tennessee,Food Cooking Machine Operators and Tenders,500,16.2,0.166,0.81,15.43,32090,2
+Tennessee,"Food Processing Workers, All Other",**,**,**,**,14.7,30580,3.1
+Tennessee,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1170,17.2,0.39,0.74,15.5,32240,1.7
+Tennessee,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1120,17.6,0.371,3.34,17.43,36250,1.8
+Tennessee,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,16.5,34320,3.6
+Tennessee,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",7500,6.7,2.494,1.88,16.66,34660,1.1
+Tennessee,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",340,20.9,0.113,1.52,17.84,37100,4.9
+Tennessee,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1950,23.5,0.649,1.24,17.93,37290,2.5
+Tennessee,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",610,10.9,0.201,1.05,15.16,31530,7
+Tennessee,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",1210,7.1,0.402,3.15,22.48,46750,7.7
+Tennessee,Machinists,9460,7.3,3.145,1.2,21.35,44410,2
+Tennessee,Metal-Refining Furnace Operators and Tenders,640,28.8,0.213,1.82,19.13,39790,4.2
+Tennessee,"Pourers and Casters, Metal",210,39.7,0.069,1.27,18.94,39390,4.8
+Tennessee,"Model Makers, Metal and Plastic",200,43.7,0.068,2.32,22.35,46500,5
+Tennessee,"Patternmakers, Metal and Plastic",150,30.8,0.048,2.37,16.83,35000,5.5
+Tennessee,Foundry Mold and Coremakers,760,8.2,0.254,2.12,15.77,32800,3
+Tennessee,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",4060,9.5,1.35,1.15,16.85,35040,2.3
+Tennessee,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",8910,5.4,2.963,2.96,19.12,39760,8.2
+Tennessee,Tool and Die Makers,2650,6.3,0.882,1.83,22.96,47760,1.4
+Tennessee,"Welders, Cutters, Solderers, and Brazers",10350,5.1,3.441,1.23,19.91,41420,1.2
+Tennessee,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",2060,10.3,0.685,2.86,18.69,38870,1.7
+Tennessee,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",600,13.5,0.198,1.49,17.05,35470,2.7
+Tennessee,"Layout Workers, Metal and Plastic",220,13.4,0.075,1.34,22.36,46520,2.6
+Tennessee,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",860,16.8,0.285,1,16.88,35110,1.9
+Tennessee,"Tool Grinders, Filers, and Sharpeners",180,33.9,0.061,1.4,19.65,40880,5.9
+Tennessee,"Metal Workers and Plastic Workers, All Other",2880,14.9,0.956,5.77,17.12,35610,2.6
+Tennessee,Prepress Technicians and Workers,700,9.7,0.233,1.13,18.81,39120,2.7
+Tennessee,Printing Press Operators,3840,8.3,1.276,1.08,19.46,40470,2.8
+Tennessee,Print Binding and Finishing Workers,840,13.6,0.278,0.9,17.26,35910,2.5
+Tennessee,Laundry and Dry-Cleaning Workers,5230,7.7,1.738,1.22,10.66,22180,1.2
+Tennessee,"Pressers, Textile, Garment, and Related Materials",650,30.1,0.216,0.83,13.47,28010,7.9
+Tennessee,Sewing Machine Operators,4050,9.6,1.347,1.48,12.44,25880,1.9
+Tennessee,Shoe and Leather Workers and Repairers,120,44.5,0.041,0.69,12.28,25540,5.2
+Tennessee,"Sewers, Hand",70,46.2,0.023,0.69,15.32,31870,3.6
+Tennessee,"Tailors, Dressmakers, and Custom Sewers",410,33.6,0.138,0.84,14.32,29780,2.4
+Tennessee,Textile Bleaching and Dyeing Machine Operators and Tenders,240,36.7,0.081,1.37,13.96,29040,4.2
+Tennessee,"Textile Cutting Machine Setters, Operators, and Tenders",780,19,0.259,2.88,12.93,26900,1.5
+Tennessee,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",540,32.5,0.181,1.26,13.2,27460,2.3
+Tennessee,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",620,34.9,0.206,0.97,14.04,29200,3.4
+Tennessee,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",390,27.6,0.13,1.05,23.31,48490,3.4
+Tennessee,Fabric and Apparel Patternmakers,60,30.3,0.019,0.47,16.4,34120,12.2
+Tennessee,Upholsterers,820,28,0.272,1.36,14.81,30810,2.9
+Tennessee,"Textile, Apparel, and Furnishings Workers, All Other",1110,20.1,0.371,3.01,15.11,31420,6
+Tennessee,Cabinetmakers and Bench Carpenters,1710,11.6,0.57,0.84,15.66,32570,2.3
+Tennessee,Furniture Finishers,270,14.9,0.09,0.81,15.76,32770,7
+Tennessee,"Sawing Machine Setters, Operators, and Tenders, Wood",1280,13,0.426,1.23,13.54,28160,3.9
+Tennessee,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2040,13.6,0.678,1.26,14.36,29870,2.4
+Tennessee,"Woodworkers, All Other",1180,12.7,0.393,8.62,13.5,28090,2.6
+Tennessee,Nuclear Power Reactor Operators,240,0,0.079,2.29,45.9,95460,2.8
+Tennessee,Power Distributors and Dispatchers,80,9.4,0.027,0.37,34.89,72570,3.9
+Tennessee,Power Plant Operators,630,3.6,0.208,0.91,38.35,79770,2.3
+Tennessee,Stationary Engineers and Boiler Operators,390,14.7,0.13,0.59,30.8,64070,8
+Tennessee,Water and Wastewater Treatment Plant and System Operators,2860,7.6,0.952,1.13,20,41600,1.4
+Tennessee,Chemical Plant and System Operators,390,27.1,0.131,0.67,23.72,49330,6.1
+Tennessee,Gas Plant Operators,200,10.3,0.067,0.68,23.08,48010,1.9
+Tennessee,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",360,27.1,0.118,0.43,34.83,72440,6.6
+Tennessee,"Plant and System Operators, All Other",360,18.2,0.121,1.37,23.14,48130,6.3
+Tennessee,Chemical Equipment Operators and Tenders,2830,12.5,0.942,1.59,25.91,53890,2.5
+Tennessee,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",710,21.9,0.237,0.68,22.63,47070,5.1
+Tennessee,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",740,15.2,0.247,1.09,16.81,34960,2
+Tennessee,"Grinding and Polishing Workers, Hand",330,17.2,0.11,0.55,14.81,30800,4.6
+Tennessee,"Mixing and Blending Machine Setters, Operators, and Tenders",1690,11.5,0.563,0.66,17.57,36550,1.8
+Tennessee,"Cutters and Trimmers, Hand",100,27.6,0.033,0.51,14.92,31040,5.7
+Tennessee,"Cutting and Slicing Machine Setters, Operators, and Tenders",1630,11.3,0.543,1.38,17.58,36570,2.7
+Tennessee,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",2530,16.5,0.841,1.72,15.8,32860,2.2
+Tennessee,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",680,11.2,0.226,1.75,20.41,42460,3.3
+Tennessee,"Inspectors, Testers, Sorters, Samplers, and Weighers",15080,3.8,5.013,1.28,18.28,38030,1
+Tennessee,Jewelers and Precious Stone and Metal Workers,340,29.2,0.113,0.7,20.48,42610,12
+Tennessee,Dental Laboratory Technicians,530,20,0.176,0.75,20.32,42260,3.3
+Tennessee,Medical Appliance Technicians,390,35.5,0.13,1.36,20.51,42660,7.1
+Tennessee,Ophthalmic Laboratory Technicians,460,22.4,0.151,0.76,16.21,33710,4.2
+Tennessee,Packaging and Filling Machine Operators and Tenders,8890,15.2,2.956,1.11,15.42,32070,2.8
+Tennessee,"Painting, Coating, and Decorating Workers",730,14.3,0.244,2.88,15.59,32420,2.9
+Tennessee,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",3240,5.7,1.077,1.08,18.01,37460,1.9
+Tennessee,Photographic Process Workers and Processing Machine Operators,410,12.2,0.138,1.69,14.31,29760,4
+Tennessee,Computer Numerically Controlled Tool Operators,2540,9,0.845,0.82,19.68,40940,2.1
+Tennessee,Computer Numerically Controlled Tool Programmers,490,6.9,0.162,0.93,25.58,53200,2
+Tennessee,Adhesive Bonding Machine Operators and Tenders,250,19.7,0.084,0.89,15.77,32800,4.6
+Tennessee,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",540,13.1,0.181,1.62,16.14,33560,6.5
+Tennessee,Cooling and Freezing Equipment Operators and Tenders,200,16,0.067,1.13,18.81,39130,3.3
+Tennessee,Etchers and Engravers,370,34.1,0.123,1.75,11.28,23470,3.8
+Tennessee,"Molders, Shapers, and Casters, Except Metal and Plastic",980,14.7,0.325,1.06,15.56,32360,2.4
+Tennessee,"Paper Goods Machine Setters, Operators, and Tenders",2720,15.3,0.904,1.32,17.8,37020,2.3
+Tennessee,Tire Builders,1870,7.4,0.623,4.4,22.81,47450,5.4
+Tennessee,Helpers--Production Workers,8040,12.7,2.673,1.3,15.2,31620,1.6
+Tennessee,"Production Workers, All Other",19000,7.2,6.316,4.17,15.69,32630,3.6
+Tennessee,Transportation and Material Moving Occupations,339500,1.9,112.876,1.32,16.84,35020,1
+Tennessee,Aircraft Cargo Handling Supervisors,**,**,**,**,26.17,54430,2.8
+Tennessee,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",13310,5.2,4.424,1.43,26.92,55990,1.5
+Tennessee,"Airline Pilots, Copilots, and Flight Engineers",270,12.5,0.09,0.16,*,88540,2.5
+Tennessee,Commercial Pilots,340,18.7,0.112,0.44,*,95260,5.2
+Tennessee,Air Traffic Controllers,640,0,0.212,1.41,54.57,113510,2.2
+Tennessee,Airfield Operations Specialists,130,32.6,0.044,0.61,22.75,47320,12.1
+Tennessee,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",490,41.9,0.162,1.62,12.1,25170,4.8
+Tennessee,Driver/Sales Workers,7300,10.2,2.428,0.8,13.48,28040,3.5
+Tennessee,Heavy and Tractor-Trailer Truck Drivers,63790,5.9,21.21,1.68,21.8,45340,1.3
+Tennessee,Light Truck Drivers,22190,5.7,7.379,1.17,18.49,38460,2.2
+Tennessee,"Bus Drivers, Transit and Intercity",2910,11.3,0.968,0.79,17.2,35780,3.6
+Tennessee,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",11470,3.1,3.812,0.8,13.49,28070,2.6
+Tennessee,"Motor Vehicle Operators, All Other",1240,14.2,0.414,1.07,14.93,31060,3.5
+Tennessee,"Rail Yard Engineers, Dinkey Operators, and Hostlers",90,40.2,0.03,0.8,20.26,42130,7.9
+Tennessee,"Rail Transportation Workers, All Other",60,29,0.019,1.06,18.9,39310,17
+Tennessee,Sailors and Marine Oilers,150,10.3,0.051,0.24,17.97,37390,3
+Tennessee,"Captains, Mates, and Pilots of Water Vessels",1430,2.3,0.474,2.09,35.49,73820,3
+Tennessee,Ship Engineers,260,9.9,0.086,1.5,39.81,82810,4.5
+Tennessee,Bridge and Lock Tenders,60,37.6,0.019,0.89,25.53,53100,1.9
+Tennessee,Parking Attendants,2510,10.8,0.835,0.83,11.77,24470,2.2
+Tennessee,Automotive and Watercraft Service Attendants,3280,10.6,1.091,1.36,12.06,25090,2.5
+Tennessee,Traffic Technicians,620,9.8,0.207,4.07,21.71,45160,2.4
+Tennessee,Transportation Inspectors,350,27.1,0.115,0.56,40.39,84010,4.4
+Tennessee,Passenger Attendants,50,47.6,0.018,0.09,12.65,26300,6.3
+Tennessee,"Aircraft Service Attendants and Transportation Workers, All Other",870,28.7,0.29,1.22,16.71,34750,3.7
+Tennessee,Conveyor Operators and Tenders,480,18.9,0.159,0.97,21.16,44020,6.3
+Tennessee,Crane and Tower Operators,590,25.3,0.197,0.64,26.36,54830,3
+Tennessee,Hoist and Winch Operators,50,26.5,0.018,0.54,21.14,43970,7.4
+Tennessee,Industrial Truck and Tractor Operators,16390,6.1,5.451,1.27,17,35370,1.6
+Tennessee,Cleaners of Vehicles and Equipment,7190,9.7,2.392,0.92,12.89,26820,2.2
+Tennessee,"Laborers and Freight, Stock, and Material Movers, Hand",93310,4.9,31.025,1.54,14.63,30430,1
+Tennessee,Machine Feeders and Offbearers,2000,13.6,0.664,1.54,15.87,33010,1.8
+Tennessee,"Packers and Packagers, Hand",17910,13.3,5.956,1.38,12.37,25720,1.4
+Tennessee,Stockers and Order Fillers,59650,3.4,19.834,1.36,13.22,27500,0.9
+Tennessee,Gas Compressor and Gas Pumping Station Operators,130,37.3,0.043,1.82,26.2,54500,11.3
+Tennessee,Refuse and Recyclable Material Collectors,2740,9.9,0.911,1.1,13.91,28940,3.3
+Tennessee,"Tank Car, Truck, and Ship Loaders",410,7.7,0.135,1.7,25.92,53910,6.1
+Tennessee,"Material Moving Workers, All Other",1720,34.5,0.572,2.97,16,33280,4.2

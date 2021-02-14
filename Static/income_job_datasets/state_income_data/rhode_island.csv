@@ -1,0 +1,562 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Rhode Island,All Occupations,483580,0.7,1000,1,27.51,57220,1.5
+Rhode Island,Management Occupations,20960,2.4,43.337,0.79,67.41,140210,1
+Rhode Island,Chief Executives,300,5.5,0.613,0.44,119.89,249360,3.2
+Rhode Island,General and Operations Managers,5240,6,10.846,0.66,75.83,157720,1.9
+Rhode Island,Legislators,60,16.1,0.125,0.35,*,*,*
+Rhode Island,Advertising and Promotions Managers,60,15.6,0.124,0.73,63.41,131890,8.2
+Rhode Island,Marketing Managers,720,6.9,1.488,0.83,79.1,164520,3.2
+Rhode Island,Sales Managers,550,12,1.144,0.42,82.33,171240,2.6
+Rhode Island,Public Relations and Fundraising Managers,370,7.7,0.757,1.41,74.92,155830,4.2
+Rhode Island,Administrative Services and Facilities Managers,500,5.9,1.032,0.49,64.62,134400,2.2
+Rhode Island,Computer and Information Systems Managers,1390,7.8,2.873,0.97,72.54,150870,1.3
+Rhode Island,Financial Managers,2480,4.7,5.137,1.15,77.83,161880,2.7
+Rhode Island,Industrial Production Managers,420,9.6,0.859,0.68,58.1,120840,2.9
+Rhode Island,Purchasing Managers,190,5.3,0.4,0.82,66.45,138210,2.3
+Rhode Island,"Transportation, Storage, and Distribution Managers",260,6.6,0.542,0.6,57.97,120580,3.6
+Rhode Island,Compensation and Benefits Managers,50,4,0.096,0.84,78.77,163840,3.2
+Rhode Island,Human Resources Managers,330,5.6,0.684,0.65,74.23,154410,3.2
+Rhode Island,Training and Development Managers,60,23.8,0.131,0.5,62.88,130790,7.5
+Rhode Island,Construction Managers,390,19.3,0.804,0.4,57.69,120000,8.2
+Rhode Island,"Education and Childcare Administrators, Preschool and Daycare",230,14.1,0.483,1.35,24.53,51030,6.3
+Rhode Island,"Education Administrators, Kindergarten through Secondary",1020,2.7,2.108,1.14,*,105750,1.6
+Rhode Island,"Education Administrators, Postsecondary",850,1,1.762,1.79,58.23,121110,2.5
+Rhode Island,"Education Administrators, All Other",80,19,0.172,0.57,44.23,92000,2.6
+Rhode Island,Architectural and Engineering Managers,440,12.9,0.919,0.69,78,162250,3
+Rhode Island,Food Service Managers,470,33,0.971,0.61,30.38,63190,3.9
+Rhode Island,Lodging Managers,**,**,**,**,32.9,68440,12.5
+Rhode Island,Medical and Health Services Managers,1920,4.3,3.977,1.48,63.22,131500,3.9
+Rhode Island,Natural Sciences Managers,70,6.5,0.142,0.31,58.93,122580,3.4
+Rhode Island,Postmasters and Mail Superintendents,30,0,0.066,0.7,40.27,83770,1.2
+Rhode Island,"Property, Real Estate, and Community Association Managers",810,13.5,1.671,1.11,46.5,96730,3.7
+Rhode Island,Social and Community Service Managers,450,7.5,0.937,0.88,45.61,94860,2
+Rhode Island,Emergency Management Directors,70,28.4,0.151,2.2,41.04,85360,2.5
+Rhode Island,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",950,8.9,1.963,0.61,59.6,123970,2.4
+Rhode Island,Business and Financial Operations Occupations,30320,2.2,62.705,1.13,38.84,80780,1.2
+Rhode Island,Buyers and Purchasing Agents,1250,4.3,2.589,0.9,35.65,74140,1.9
+Rhode Island,"Claims Adjusters, Examiners, and Investigators",1260,15,2.599,1.33,32.18,66940,4.1
+Rhode Island,"Insurance Appraisers, Auto Damage",40,6.4,0.078,0.84,35.58,74010,12
+Rhode Island,Compliance Officers,790,5.9,1.64,0.76,37.9,78840,2.4
+Rhode Island,Cost Estimators,540,11.9,1.126,0.79,33.96,70630,3.7
+Rhode Island,Human Resources Specialists,2160,4.5,4.464,1.04,35.74,74340,1.6
+Rhode Island,Labor Relations Specialists,530,16.1,1.099,2.14,35.05,72900,15.2
+Rhode Island,Logisticians,580,15.4,1.206,0.97,*,*,*
+Rhode Island,Management Analysts,3260,7.6,6.74,1.39,42.57,88550,2.7
+Rhode Island,"Meeting, Convention, and Event Planners",**,**,**,**,30.11,62630,2.7
+Rhode Island,Fundraisers,910,8.6,1.878,3.38,35.12,73040,2.5
+Rhode Island,"Compensation, Benefits, and Job Analysis Specialists",260,14.3,0.542,0.89,35.2,73220,3.5
+Rhode Island,Training and Development Specialists,910,10.8,1.882,0.88,35.55,73940,2.2
+Rhode Island,Market Research Analysts and Marketing Specialists,2490,7,5.157,1.12,36.01,74910,3
+Rhode Island,"Project Management Specialists and Business Operations Specialists, All Other",3220,4.2,6.665,0.77,41.61,86550,1.5
+Rhode Island,Accountants and Auditors,4740,4.8,9.799,1.12,40.07,83340,1.2
+Rhode Island,Property Appraisers and Assessors,160,27.8,0.332,0.87,32.75,68110,5.1
+Rhode Island,Budget Analysts,110,2.4,0.228,0.65,41.33,85970,2.2
+Rhode Island,Credit Analysts,**,**,**,**,36.8,76540,5.6
+Rhode Island,Personal Financial Advisors,**,**,**,**,52.42,109030,7.1
+Rhode Island,Insurance Underwriters,470,21,0.977,1.43,36.08,75040,4.5
+Rhode Island,Financial Examiners,440,30.5,0.913,2.08,42.13,87640,1.6
+Rhode Island,Credit Counselors,160,16.7,0.323,1.48,29.1,60520,1.5
+Rhode Island,Loan Officers,1490,16.9,3.082,1.47,33.97,70660,6.9
+Rhode Island,"Tax Examiners and Collectors, and Revenue Agents",360,1.2,0.738,2.02,34.93,72650,2.7
+Rhode Island,Tax Preparers,200,27.5,0.419,0.92,*,*,*
+Rhode Island,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",1870,12.2,3.858,1.24,42.6,88620,2.6
+Rhode Island,Computer and Mathematical Occupations,14510,3.7,30.009,0.97,43.86,91220,1.7
+Rhode Island,Computer Systems Analysts,1900,9.1,3.937,0.98,47.52,98840,1.5
+Rhode Island,Information Security Analysts,350,12.2,0.727,0.85,45.89,95450,4.8
+Rhode Island,Computer and Information Research Scientists,440,6.6,0.903,4.31,52.09,108350,2.7
+Rhode Island,Computer Network Support Specialists,1190,6.1,2.46,1.95,28.9,60110,3.1
+Rhode Island,Computer User Support Specialists,1620,13.1,3.348,0.76,31.17,64830,3.5
+Rhode Island,Computer Network Architects,340,10.8,0.705,0.68,61.68,128300,2.7
+Rhode Island,Network and Computer Systems Administrators,1510,4.7,3.123,1.29,44.82,93230,1.8
+Rhode Island,Database Administrators and Architects,450,12.2,0.938,1.1,44.75,93070,1.4
+Rhode Island,Computer Programmers,1110,26.6,2.303,1.7,*,*,*
+Rhode Island,Software Developers and Software Quality Assurance Analysts and Testers,2770,10.7,5.727,0.6,51.93,108020,3.3
+Rhode Island,Web Developers and Digital Interface Designers,460,20.1,0.95,0.94,35.68,74220,4.2
+Rhode Island,"Computer Occupations, All Other",1690,5.4,3.494,1.31,39.27,81690,2.5
+Rhode Island,Actuaries,80,5.9,0.173,1.14,53.52,111320,6.6
+Rhode Island,Operations Research Analysts,**,**,**,**,49.86,103710,2.4
+Rhode Island,Statisticians,40,9,0.08,0.3,46.83,97410,3.5
+Rhode Island,"Data Scientists and Mathematical Science Occupations, All Other",150,20.4,0.301,1.43,40.59,84430,5
+Rhode Island,Architecture and Engineering Occupations,8870,5.9,18.343,1.04,44.94,93480,2.6
+Rhode Island,"Architects, Except Landscape and Naval",280,29.5,0.579,0.8,38.08,79210,10.3
+Rhode Island,Landscape Architects,**,**,**,**,34.22,71170,2.7
+Rhode Island,Cartographers and Photogrammetrists,30,16.6,0.064,0.83,38.09,79220,2.9
+Rhode Island,Surveyors,**,**,**,**,29.52,61390,3
+Rhode Island,Bioengineers and Biomedical Engineers,50,15.6,0.106,0.79,53.96,112240,5
+Rhode Island,Chemical Engineers,60,41.5,0.127,0.62,42.63,88680,3.1
+Rhode Island,Civil Engineers,960,24.8,1.987,0.94,41.66,86650,4.4
+Rhode Island,Computer Hardware Engineers,680,25.9,1.415,3.06,50.42,104880,2.8
+Rhode Island,Electrical Engineers,510,14.4,1.059,0.84,51.37,106850,3.6
+Rhode Island,"Electronics Engineers, Except Computer",1120,4.3,2.316,2.64,57.92,120480,2.9
+Rhode Island,Environmental Engineers,**,**,**,**,41.04,85360,8.6
+Rhode Island,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",120,43.2,0.239,1.36,48.05,99940,3.2
+Rhode Island,Industrial Engineers,910,8.1,1.889,0.95,48.96,101840,2.1
+Rhode Island,Mechanical Engineers,1260,6,2.613,1.25,47.18,98130,2.3
+Rhode Island,"Engineers, All Other",620,13.5,1.281,1.24,49.5,102960,4.5
+Rhode Island,Architectural and Civil Drafters,290,21.9,0.594,0.88,25.88,53830,3.2
+Rhode Island,Mechanical Drafters,70,16.3,0.141,0.37,27.51,57220,4.4
+Rhode Island,Civil Engineering Technologists and Technicians,210,5.8,0.438,0.93,26.88,55910,3.9
+Rhode Island,Electrical and Electronic Engineering Technologists and Technicians,460,15.6,0.946,1.13,33.71,70110,3
+Rhode Island,Industrial Engineering Technologists and Technicians,130,19.2,0.263,0.57,27.64,57490,4.1
+Rhode Island,Surveying and Mapping Technicians,90,13.5,0.185,0.51,32.65,67910,4.3
+Rhode Island,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",240,7.9,0.505,0.84,33.96,70640,5.9
+Rhode Island,"Life, Physical, and Social Science Occupations",3600,6.9,7.434,0.85,40.58,84420,2.9
+Rhode Island,Microbiologists,**,**,**,**,38.01,79070,3.7
+Rhode Island,Zoologists and Wildlife Biologists,80,44.5,0.169,1.29,33.28,69220,2.7
+Rhode Island,"Biological Scientists, All Other",50,3.5,0.099,0.36,42.64,88690,2
+Rhode Island,"Medical Scientists, Except Epidemiologists",430,36.7,0.891,1.03,59.26,123250,11.9
+Rhode Island,"Life Scientists, All Other",90,26,0.194,4.41,31.37,65240,9.1
+Rhode Island,Physicists,50,25.5,0.096,0.84,71.05,147780,17.9
+Rhode Island,Chemists,240,16.7,0.492,0.87,46.63,96990,2.7
+Rhode Island,"Environmental Scientists and Specialists, Including Health",350,12.3,0.733,1.28,39.02,81160,3.2
+Rhode Island,"Geoscientists, Except Hydrologists and Geographers",100,39.5,0.202,1.02,*,*,*
+Rhode Island,"Physical Scientists, All Other",40,5.9,0.092,0.77,51.23,106550,2.6
+Rhode Island,"Clinical, Counseling, and School Psychologists",700,7.4,1.445,1.87,40.44,84120,4.4
+Rhode Island,"Psychologists, All Other",110,19.3,0.231,2.38,*,*,*
+Rhode Island,Urban and Regional Planners,170,3.8,0.351,1.33,36.15,75190,1.8
+Rhode Island,"Social Scientists and Related Workers, All Other",**,**,**,**,32.52,67650,1.4
+Rhode Island,Biological Technicians,50,31.1,0.112,0.21,20.65,42940,8.1
+Rhode Island,Chemical Technicians,310,28.6,0.642,1.43,25.01,52020,3.3
+Rhode Island,"Environmental Science and Protection Technicians, Including Health",60,36.4,0.128,0.58,33.08,68810,4.1
+Rhode Island,Social Science Research Assistants,40,36.6,0.078,0.32,29.36,61070,10.1
+Rhode Island,"Life, Physical, and Social Science Technicians, All Other",60,18.7,0.134,0.31,27,56150,1.9
+Rhode Island,Occupational Health and Safety Specialists,120,5.6,0.246,0.39,43.78,91070,1.9
+Rhode Island,Occupational Health and Safety Technicians,70,35.6,0.145,1.03,33.57,69830,2.6
+Rhode Island,Community and Social Service Occupations,9050,4.2,18.706,1.22,26.16,54420,4.2
+Rhode Island,"Educational, Guidance, and Career Counselors and Advisors",1130,4,2.339,1.16,30.78,64030,2
+Rhode Island,Rehabilitation Counselors,520,16.1,1.071,1.44,28.71,59710,9.7
+Rhode Island,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",640,22.5,1.328,0.69,26.38,54870,4.8
+Rhode Island,"Counselors, All Other",**,**,**,**,17.46,36320,2.9
+Rhode Island,"Child, Family, and School Social Workers",1660,6.5,3.44,1.54,30.44,63310,4
+Rhode Island,Healthcare Social Workers,590,17.1,1.21,1.02,28.41,59090,6
+Rhode Island,Mental Health and Substance Abuse Social Workers,320,19,0.658,0.82,*,*,*
+Rhode Island,"Social Workers, All Other",130,13.7,0.276,0.69,35.83,74520,2.5
+Rhode Island,Health Education Specialists,200,9.3,0.42,1.05,37.12,77210,2.9
+Rhode Island,Social and Human Service Assistants,2580,8.4,5.326,1.93,17.83,37090,2
+Rhode Island,Community Health Workers,100,15.8,0.213,0.53,21.91,45560,3.3
+Rhode Island,"Community and Social Service Specialists, All Other",210,8.1,0.439,0.66,29.22,60770,6.5
+Rhode Island,Clergy,350,20.9,0.726,2.01,26.94,56040,6.9
+Rhode Island,"Directors, Religious Activities and Education",120,31.8,0.242,1.63,*,*,*
+Rhode Island,"Religious Workers, All Other",40,45.8,0.081,1.25,23.47,48830,20.5
+Rhode Island,Legal Occupations,3760,6.3,7.779,0.99,44.41,92360,4.9
+Rhode Island,Lawyers,1780,14.1,3.677,0.82,59.9,124600,4.3
+Rhode Island,"Judges, Magistrate Judges, and Magistrates",120,0.8,0.246,1.26,*,*,*
+Rhode Island,Paralegals and Legal Assistants,1180,19.3,2.435,1.08,25.21,52440,5.5
+Rhode Island,"Title Examiners, Abstractors, and Searchers",**,**,**,**,22.21,46190,2.8
+Rhode Island,"Legal Support Workers, All Other",160,27.8,0.325,1.06,*,*,*
+Rhode Island,Educational Instruction and Library Occupations,32780,2,67.783,1.12,33.09,68830,3.1
+Rhode Island,"Business Teachers, Postsecondary",450,0,0.927,1.62,*,132480,6.8
+Rhode Island,"Computer Science Teachers, Postsecondary",150,0,0.315,1.45,*,125340,7.4
+Rhode Island,"Mathematical Science Teachers, Postsecondary",260,2.8,0.529,1.52,*,114660,9.2
+Rhode Island,"Architecture Teachers, Postsecondary",90,0,0.195,4.22,*,117550,7.3
+Rhode Island,"Engineering Teachers, Postsecondary",210,0,0.444,1.81,*,137240,6.2
+Rhode Island,"Biological Science Teachers, Postsecondary",200,2.7,0.404,1.12,*,99530,7.2
+Rhode Island,"Chemistry Teachers, Postsecondary",90,0,0.185,1.27,*,118320,9.7
+Rhode Island,"Physics Teachers, Postsecondary",90,0.6,0.185,1.97,*,105260,6
+Rhode Island,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",140,0,0.282,3.91,*,120050,4.7
+Rhode Island,"Economics Teachers, Postsecondary",110,0,0.234,2.59,*,161180,12.1
+Rhode Island,"Political Science Teachers, Postsecondary",110,0,0.219,2.05,*,136460,6.9
+Rhode Island,"Psychology Teachers, Postsecondary",150,1.2,0.305,1.2,*,92470,5.7
+Rhode Island,"Sociology Teachers, Postsecondary",60,0,0.133,1.41,*,121760,7.6
+Rhode Island,"Social Sciences Teachers, Postsecondary, All Other",50,0,0.113,0.99,*,111780,5.3
+Rhode Island,"Health Specialties Teachers, Postsecondary",370,0.9,0.772,0.56,*,136590,6.5
+Rhode Island,"Nursing Instructors and Teachers, Postsecondary",300,8.5,0.622,1.53,*,80220,3.2
+Rhode Island,"Education Teachers, Postsecondary",200,0,0.42,1.01,*,79320,3.3
+Rhode Island,"Library Science Teachers, Postsecondary",50,7,0.104,3.48,*,78030,2.6
+Rhode Island,"Criminal Justice and Law Enforcement Teachers, Postsecondary",70,2.4,0.153,1.6,*,93290,5.1
+Rhode Island,"Social Work Teachers, Postsecondary",80,4.4,0.167,1.8,*,74900,5.2
+Rhode Island,"Art, Drama, and Music Teachers, Postsecondary",460,1.1,0.949,1.48,*,79930,3.6
+Rhode Island,"Communications Teachers, Postsecondary",110,0,0.221,1.11,*,*,*
+Rhode Island,"English Language and Literature Teachers, Postsecondary",340,4.7,0.707,1.53,*,92410,6.2
+Rhode Island,"Foreign Language and Literature Teachers, Postsecondary",170,0.3,0.341,2.02,*,86300,5
+Rhode Island,"History Teachers, Postsecondary",240,0,0.498,3.48,*,113790,7.3
+Rhode Island,"Philosophy and Religion Teachers, Postsecondary",140,0,0.3,1.87,*,105790,10.3
+Rhode Island,"Career/Technical Education Teachers, Postsecondary",180,29.1,0.363,0.47,26.6,55330,3.3
+Rhode Island,"Postsecondary Teachers, All Other",930,1.3,1.916,1.4,*,85290,5.4
+Rhode Island,"Preschool Teachers, Except Special Education",1540,10.8,3.176,1.08,15.35,31930,4
+Rhode Island,"Kindergarten Teachers, Except Special Education",430,7.1,0.884,1.05,*,78180,1.5
+Rhode Island,"Elementary School Teachers, Except Special Education",4100,8.6,8.484,0.87,*,72310,2.8
+Rhode Island,"Middle School Teachers, Except Special and Career/Technical Education",1670,3.8,3.446,0.81,*,75130,1.9
+Rhode Island,"Secondary School Teachers, Except Special and Career/Technical Education",4840,5.6,10.015,1.42,*,75950,2
+Rhode Island,"Career/Technical Education Teachers, Secondary School",140,0,0.284,0.56,*,78490,2.1
+Rhode Island,"Special Education Teachers, Preschool",90,10.4,0.187,1.23,*,72750,1.4
+Rhode Island,"Special Education Teachers, Kindergarten and Elementary School",530,3,1.09,0.83,*,75040,1.9
+Rhode Island,"Special Education Teachers, Middle School",250,4.8,0.513,0.88,*,75000,1.7
+Rhode Island,"Special Education Teachers, Secondary School",460,3.8,0.955,0.98,*,78230,1.5
+Rhode Island,"Special Education Teachers, All Other",470,4.1,0.974,4.02,*,76330,2.9
+Rhode Island,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",60,45.4,0.123,0.35,28.07,58380,6.7
+Rhode Island,Self-Enrichment Teachers,830,17.1,1.716,1,20.36,42350,5.8
+Rhode Island,"Substitute Teachers, Short-Term",1660,6.1,3.439,0.86,15.54,32320,2.2
+Rhode Island,"Tutors and Teachers and Instructors, All Other",1830,14.8,3.79,1.74,*,83200,5.1
+Rhode Island,Archivists,90,15.6,0.182,4.06,28.01,58250,9.9
+Rhode Island,Curators,**,**,**,**,30.83,64130,6.9
+Rhode Island,Museum Technicians and Conservators,60,2.8,0.114,1.27,26.96,56070,2.9
+Rhode Island,Librarians and Media Collections Specialists,750,2.6,1.56,1.69,33.2,69060,1.5
+Rhode Island,Library Technicians,140,10.5,0.286,0.47,21.26,44220,2.9
+Rhode Island,Instructional Coordinators,860,6.1,1.784,1.48,29.75,61880,2.1
+Rhode Island,"Teaching Assistants, Except Postsecondary",4120,6.1,8.519,0.93,*,34930,2.6
+Rhode Island,"Educational Instruction and Library Workers, All Other",1360,0.8,2.804,3.19,28.13,58500,3.1
+Rhode Island,"Arts, Design, Entertainment, Sports, and Media Occupations",7640,5,15.793,1.15,30.32,63070,2.6
+Rhode Island,Art Directors,100,20.3,0.207,0.71,37.48,77950,5.8
+Rhode Island,Commercial and Industrial Designers,510,19.3,1.064,4.77,41.08,85450,3
+Rhode Island,Fashion Designers,30,23.2,0.071,0.47,31.67,65880,4.8
+Rhode Island,Floral Designers,70,27.4,0.148,0.52,15.84,32950,12
+Rhode Island,Graphic Designers,900,12.3,1.861,1.27,30.58,63600,1.9
+Rhode Island,Interior Designers,430,31.8,0.883,2.14,35.19,73190,10.4
+Rhode Island,Merchandise Displayers and Window Trimmers,630,28.8,1.311,1.37,16.6,34540,4.5
+Rhode Island,"Designers, All Other",60,37.9,0.13,1.8,30.01,62420,13.2
+Rhode Island,Actors,30,20.2,0.064,0.18,21.5,*,11.4
+Rhode Island,Producers and Directors,310,17.2,0.645,0.73,33.03,68700,6.2
+Rhode Island,Coaches and Scouts,990,11.9,2.045,1.24,*,47080,7.3
+Rhode Island,Music Directors and Composers,50,36,0.103,1.43,*,*,*
+Rhode Island,Musicians and Singers,270,28.7,0.566,2.02,35.77,*,17.9
+Rhode Island,"Miscellaneous Entertainers and Performers, Sports and Related Workers",90,18.3,0.183,1.7,26.94,*,9.2
+Rhode Island,Broadcast Announcers and Radio Disc Jockeys,70,24.9,0.147,0.74,24.38,50720,23.2
+Rhode Island,Public Relations Specialists,1330,6.3,2.755,1.65,33.92,70560,3
+Rhode Island,Editors,230,15.9,0.474,0.72,35.16,73140,4.6
+Rhode Island,Technical Writers,250,19.8,0.525,1.52,33.28,69220,5.1
+Rhode Island,Writers and Authors,180,10.7,0.378,1.21,32.34,67260,1.6
+Rhode Island,Interpreters and Translators,130,13.3,0.268,0.67,23.66,49210,9.8
+Rhode Island,"Media and Communication Workers, All Other",40,21,0.078,0.46,25.64,53320,4.6
+Rhode Island,Audio and Video Technicians,170,49.4,0.352,0.7,21.08,43850,5.3
+Rhode Island,Broadcast Technicians,50,33.9,0.109,0.56,*,*,*
+Rhode Island,Photographers,280,9.3,0.585,1.7,28.1,58460,4.6
+Rhode Island,Healthcare Practitioners and Technical Occupations,33940,3.3,70.177,1.19,45.31,94240,3.2
+Rhode Island,Chiropractors,100,32.4,0.212,0.89,*,*,*
+Rhode Island,"Dentists, General",320,18,0.652,0.86,126.39,262900,9.8
+Rhode Island,Dietitians and Nutritionists,250,12.5,0.511,1.11,29.96,62320,4.5
+Rhode Island,Optometrists,**,**,**,**,52.84,109910,4
+Rhode Island,Pharmacists,1520,13.9,3.136,1.48,59.3,123350,2.1
+Rhode Island,Physician Assistants,230,8.5,0.485,0.59,*,*,*
+Rhode Island,Podiatrists,30,42.7,0.07,1.05,*,*,*
+Rhode Island,Occupational Therapists,**,**,**,**,42.5,88390,1.9
+Rhode Island,Physical Therapists,1100,11.3,2.274,1.43,41.13,85540,2.6
+Rhode Island,Radiation Therapists,**,**,**,**,48.42,100720,2.8
+Rhode Island,Respiratory Therapists,310,12,0.637,0.71,32.21,66990,1.3
+Rhode Island,Speech-Language Pathologists,600,8.7,1.235,1.18,41.08,85450,2.5
+Rhode Island,Exercise Physiologists,30,13.4,0.063,1.26,23.76,49420,2.6
+Rhode Island,"Therapists, All Other",220,24.1,0.459,5.54,36.87,76700,4.8
+Rhode Island,Veterinarians,210,21.1,0.438,0.86,58.61,121900,9.5
+Rhode Island,Registered Nurses,12630,5.4,26.115,1.29,39.57,82310,1.7
+Rhode Island,Nurse Midwives,50,13.4,0.094,2,52.08,108320,2.8
+Rhode Island,Nurse Practitioners,700,8.7,1.441,1.05,55.44,115310,1.3
+Rhode Island,Family Medicine Physicians,**,**,**,**,114.23,237600,14.2
+Rhode Island,General Internal Medicine Physicians,**,**,**,**,82.35,171280,4.3
+Rhode Island,Obstetricians and Gynecologists,80,32.6,0.173,1.37,127.19,264550,14.5
+Rhode Island,"Pediatricians, General",250,28.2,0.521,2.57,96.3,200300,6.8
+Rhode Island,Psychiatrists,220,11.9,0.448,2.58,107.47,223530,9.6
+Rhode Island,"Physicians, All Other; and Ophthalmologists, Except Pediatric",2810,9.1,5.81,2.18,98.6,205090,5.6
+Rhode Island,"Surgeons, Except Ophthalmologists",**,**,**,**,133.66,278020,16.3
+Rhode Island,Dental Hygienists,1100,13,2.283,1.51,36.21,75330,2.2
+Rhode Island,Clinical Laboratory Technologists and Technicians,960,12.5,1.987,0.9,32.69,68000,1.9
+Rhode Island,Cardiovascular Technologists and Technicians,190,8.7,0.401,1.05,37.8,78620,3.4
+Rhode Island,Diagnostic Medical Sonographers,270,13.3,0.552,1.11,42.94,89310,1.5
+Rhode Island,Nuclear Medicine Technologists,40,6.7,0.092,0.75,49.37,102700,2.7
+Rhode Island,Radiologic Technologists and Technicians,900,10,1.86,1.32,34.55,71870,1.9
+Rhode Island,Magnetic Resonance Imaging Technologists,190,10.9,0.391,1.52,41.23,85760,1.8
+Rhode Island,Emergency Medical Technicians and Paramedics,650,6,1.349,0.76,19.63,40820,3.4
+Rhode Island,Dietetic Technicians,80,11.5,0.166,0.83,21.7,45140,2.5
+Rhode Island,Pharmacy Technicians,1840,15.1,3.806,1.34,18.21,37880,3.4
+Rhode Island,Psychiatric Technicians,290,36,0.599,1.12,18.39,38250,3.5
+Rhode Island,Surgical Technologists,240,8.5,0.494,0.67,27.9,58040,1.7
+Rhode Island,Veterinary Technologists and Technicians,620,18,1.287,1.71,17.86,37150,2.8
+Rhode Island,Ophthalmic Medical Technicians,30,47.9,0.064,0.16,20.11,41830,6.3
+Rhode Island,Licensed Practical and Licensed Vocational Nurses,980,8.3,2.017,0.42,28.78,59860,1.8
+Rhode Island,"Opticians, Dispensing",290,30.3,0.607,1.23,*,*,*
+Rhode Island,Orthotists and Prosthetists,50,48.1,0.102,1.52,37.53,78050,4.7
+Rhode Island,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",1070,7.9,2.208,0.98,25.41,52860,2.3
+Rhode Island,Athletic Trainers,80,9.6,0.168,0.86,*,55550,1.5
+Rhode Island,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,29.14,60620,5.1
+Rhode Island,Healthcare Support Occupations,24240,2.9,50.125,1.13,16.59,34500,1.3
+Rhode Island,Home Health and Personal Care Aides,7310,7.3,15.11,0.7,14.18,29490,1.4
+Rhode Island,Nursing Assistants,9300,5.1,19.236,1.99,15.88,33020,1.7
+Rhode Island,Orderlies,190,3.2,0.383,1.2,16.44,34200,2.3
+Rhode Island,Psychiatric Aides,630,0.2,1.311,3.5,*,*,*
+Rhode Island,Occupational Therapy Assistants,240,22.6,0.506,1.65,29.57,61500,2.2
+Rhode Island,Physical Therapist Assistants,390,14.1,0.799,1.21,31.48,65480,2.5
+Rhode Island,Physical Therapist Aides,160,37.8,0.339,1.01,*,*,*
+Rhode Island,Massage Therapists,250,36.1,0.526,0.72,17.92,37260,12.9
+Rhode Island,Dental Assistants,890,11.7,1.836,0.77,21.53,44790,4.1
+Rhode Island,Medical Assistants,2820,5.3,5.832,1.2,17.92,37270,2.4
+Rhode Island,Medical Equipment Preparers,240,4.2,0.489,1.26,21.15,43990,1.8
+Rhode Island,Medical Transcriptionists,180,27.5,0.382,1.01,17.17,35720,6
+Rhode Island,Pharmacy Aides,**,**,**,**,17.69,36790,3.3
+Rhode Island,Veterinary Assistants and Laboratory Animal Caretakers,60,27,0.121,0.18,14.1,29330,10.4
+Rhode Island,Phlebotomists,850,17.1,1.749,2,19.38,40300,2.9
+Rhode Island,"Healthcare Support Workers, All Other",650,11.4,1.341,2.11,17.94,37310,1.8
+Rhode Island,Protective Service Occupations,12950,4.9,26.788,1.12,24.4,50740,4.8
+Rhode Island,First-Line Supervisors of Correctional Officers,140,0,0.283,0.9,47.72,99270,*
+Rhode Island,First-Line Supervisors of Police and Detectives,790,4.5,1.63,1.97,41.67,86660,1.5
+Rhode Island,First-Line Supervisors of Firefighting and Prevention Workers,670,6.9,1.376,2.9,34.44,71640,1.7
+Rhode Island,"Miscellaneous First-Line Supervisors, Protective Service Workers",220,26.1,0.464,0.82,28.44,59160,4.3
+Rhode Island,Firefighters,1440,7.2,2.985,1.35,27,56150,2
+Rhode Island,Fire Inspectors and Investigators,70,4.2,0.138,1.47,28.22,58700,2.6
+Rhode Island,Correctional Officers and Jailers,1080,0,2.233,0.78,32.95,68540,4
+Rhode Island,Detectives and Criminal Investigators,320,4,0.664,0.92,41.88,87100,3.7
+Rhode Island,Fish and Game Wardens,30,0,0.064,1.38,38.19,79440,*
+Rhode Island,Police and Sheriff's Patrol Officers,1890,4.4,3.904,0.86,30.62,63690,1.2
+Rhode Island,Animal Control Workers,60,6.8,0.117,1.43,22.16,46090,2.2
+Rhode Island,Private Detectives and Investigators,50,23.3,0.098,0.41,28.32,58900,9.6
+Rhode Island,Security Guards,3240,14.7,6.69,0.87,14.76,30700,2.6
+Rhode Island,Crossing Guards and Flaggers,420,12.4,0.87,1.5,17.87,37160,5.7
+Rhode Island,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",400,38.5,0.837,0.85,13.4,27860,2.5
+Rhode Island,Transportation Security Screeners,170,7.2,0.348,1.09,20.75,43150,6.4
+Rhode Island,"School Bus Monitors and Protective Service Workers, All Other",1920,6.7,3.977,3.99,15.95,33170,3
+Rhode Island,Food Preparation and Serving Related Occupations,49120,2.4,101.572,1.11,14.19,29520,1
+Rhode Island,Chefs and Head Cooks,300,28.1,0.626,0.72,34.25,71230,7.5
+Rhode Island,First-Line Supervisors of Food Preparation and Serving Workers,3350,8.2,6.935,1.01,22.08,45920,3.4
+Rhode Island,"Cooks, Fast Food",1960,31.7,4.053,1.13,12.66,26330,3.1
+Rhode Island,"Cooks, Institution and Cafeteria",1230,13,2.547,0.93,17.65,36720,3.5
+Rhode Island,"Cooks, Restaurant",5340,6.3,11.04,1.16,15.06,31320,1.8
+Rhode Island,"Cooks, Short Order",520,28.8,1.085,1.04,13.39,27850,3.9
+Rhode Island,Food Preparation Workers,3450,10,7.139,1.21,14.72,30610,3.1
+Rhode Island,Bartenders,3860,21.3,7.983,1.81,*,*,*
+Rhode Island,Fast Food and Counter Workers,11860,6.5,24.535,0.9,12.21,25400,1.2
+Rhode Island,Waiters and Waitresses,9750,6.9,20.16,1.15,13.81,28730,2.2
+Rhode Island,"Food Servers, Nonrestaurant",1170,22,2.427,1.28,12.91,26850,2
+Rhode Island,Dining Room and Cafeteria Attendants and Bartender Helpers,2320,13.5,4.8,1.48,12.18,25340,2.4
+Rhode Island,Dishwashers,2650,14.7,5.485,1.57,12.6,26200,2.7
+Rhode Island,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",1190,26.6,2.458,0.85,12.28,25540,2.2
+Rhode Island,"Food Preparation and Serving Related Workers, All Other",140,32.3,0.295,0.6,12.74,26500,3.3
+Rhode Island,Building and Grounds Cleaning and Maintenance Occupations,16950,3.5,35.046,1.16,16.13,33550,1.9
+Rhode Island,First-Line Supervisors of Housekeeping and Janitorial Workers,430,16.9,0.898,0.85,22.72,47260,3.6
+Rhode Island,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",480,14.5,0.983,1.39,31.01,64500,8
+Rhode Island,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",6950,2.1,14.372,0.98,15.09,31380,2.7
+Rhode Island,Maids and Housekeeping Cleaners,4280,10,8.859,1.4,14.63,30430,3.2
+Rhode Island,Pest Control Workers,300,14.8,0.614,1.13,17.76,36940,4.7
+Rhode Island,Landscaping and Groundskeeping Workers,4370,8.5,9.043,1.46,16.77,34880,2.4
+Rhode Island,Tree Trimmers and Pruners,**,**,**,**,19.4,40350,6.3
+Rhode Island,Personal Care and Service Occupations,10930,4.5,22.611,1.01,15.69,32630,2.4
+Rhode Island,First-Line Supervisors of Gambling Services Workers,40,8.9,0.076,0.38,24.52,51000,3.8
+Rhode Island,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",760,9,1.563,1.05,22.91,47650,2.6
+Rhode Island,Animal Caretakers,700,17.1,1.453,1,15.09,31380,3.9
+Rhode Island,"Ushers, Lobby Attendants, and Ticket Takers",300,29.1,0.619,0.66,12,24970,3
+Rhode Island,Amusement and Recreation Attendants,1090,14.1,2.253,0.98,12.77,26570,3.7
+Rhode Island,"Locker Room, Coatroom, and Dressing Room Attendants",120,33.2,0.258,2.37,14.26,29670,3.4
+Rhode Island,"Morticians, Undertakers, and Funeral Arrangers",150,18.8,0.316,1.82,30.28,62980,5.9
+Rhode Island,"Hairdressers, Hairstylists, and Cosmetologists",1140,21.8,2.362,0.9,14.68,30530,6.1
+Rhode Island,Manicurists and Pedicurists,560,35,1.161,1.53,12.94,26920,4.1
+Rhode Island,Skincare Specialists,200,35,0.42,1.09,14.8,30790,12.6
+Rhode Island,Baggage Porters and Bellhops,90,40.4,0.196,0.72,13.68,28460,3.6
+Rhode Island,Concierges,50,49.4,0.095,0.33,16.81,34960,5.6
+Rhode Island,Tour and Travel Guides,210,29.6,0.426,1.28,14.07,29260,4.2
+Rhode Island,Childcare Workers,2540,11.7,5.247,1.37,13.41,27880,3.3
+Rhode Island,Exercise Trainers and Group Fitness Instructors,1200,15.1,2.477,1.12,20.99,43670,5.3
+Rhode Island,Recreation Workers,960,11.2,1.995,0.82,14.36,29860,2.6
+Rhode Island,Residential Advisors,580,14,1.197,1.63,16.73,34800,4
+Rhode Island,Sales and Related Occupations,46180,3.4,95.498,0.98,22.42,46630,2.5
+Rhode Island,First-Line Supervisors of Retail Sales Workers,3260,8,6.733,0.84,28.83,59960,3.5
+Rhode Island,First-Line Supervisors of Non-Retail Sales Workers,1000,10.1,2.058,1.21,48.65,101200,3.4
+Rhode Island,Cashiers,13570,13.3,28.062,1.15,12.44,25880,1.2
+Rhode Island,Counter and Rental Clerks,1140,17,2.364,0.84,17.59,36590,5.5
+Rhode Island,Parts Salespersons,680,18.6,1.407,0.81,17.6,36600,6.2
+Rhode Island,Retail Salespersons,12920,12.1,26.723,0.91,15.7,32660,2.8
+Rhode Island,Advertising Sales Agents,440,12.2,0.909,1.03,30.5,63430,5.9
+Rhode Island,Insurance Sales Agents,1690,7.6,3.488,1.25,33.94,70600,7.3
+Rhode Island,"Securities, Commodities, and Financial Services Sales Agents",1780,12.8,3.688,1.24,44.59,92750,6.3
+Rhode Island,Travel Agents,380,5,0.784,1.73,19.56,40680,6.2
+Rhode Island,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",2240,12,4.63,0.65,32.16,66890,4.3
+Rhode Island,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",880,17.7,1.822,0.87,37.56,78130,5.4
+Rhode Island,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",5330,5.4,11.025,1.2,38.55,80180,3.7
+Rhode Island,Real Estate Sales Agents,170,48.4,0.351,0.32,33.86,70420,17.9
+Rhode Island,Sales Engineers,80,38.7,0.169,0.39,*,*,*
+Rhode Island,Telemarketers,290,33,0.599,0.65,15.97,33220,8.4
+Rhode Island,"Sales and Related Workers, All Other",140,25.5,0.285,0.35,14.97,31140,5.7
+Rhode Island,Office and Administrative Support Occupations,64260,1.9,132.877,1,21.15,43990,0.9
+Rhode Island,First-Line Supervisors of Office and Administrative Support Workers,4240,3.7,8.766,0.87,32.3,67180,1.2
+Rhode Island,"Switchboard Operators, Including Answering Service",**,**,**,**,17.07,35500,3.3
+Rhode Island,Telephone Operators,40,24.9,0.082,2.53,19.06,39630,2.7
+Rhode Island,Bill and Account Collectors,340,24.7,0.709,0.44,20.97,43620,2.2
+Rhode Island,Billing and Posting Clerks,2000,12.2,4.141,1.3,20.76,43190,1.5
+Rhode Island,"Bookkeeping, Accounting, and Auditing Clerks",6090,5.4,12.597,1.22,22.17,46110,1.2
+Rhode Island,Payroll and Timekeeping Clerks,530,13.1,1.103,1.14,23.67,49240,3.1
+Rhode Island,Procurement Clerks,320,9.8,0.652,1.45,21.97,45700,1.6
+Rhode Island,Tellers,1270,13.4,2.625,0.87,17.12,35610,2.9
+Rhode Island,"Financial Clerks, All Other",140,14.7,0.282,1.36,20.97,43620,3.6
+Rhode Island,Brokerage Clerks,**,**,**,**,24.97,51940,2.4
+Rhode Island,Correspondence Clerks,**,**,**,**,22.81,47450,3.4
+Rhode Island,"Court, Municipal, and License Clerks",720,1.7,1.495,1.43,24.4,50760,2.5
+Rhode Island,"Credit Authorizers, Checkers, and Clerks",40,33.9,0.087,0.48,23.8,49500,5.1
+Rhode Island,Customer Service Representatives,8460,8.6,17.489,0.88,19.01,39540,1.6
+Rhode Island,"Eligibility Interviewers, Government Programs",580,3.6,1.197,1.26,26.5,55120,3.4
+Rhode Island,File Clerks,290,24.1,0.592,0.85,18.17,37800,4.5
+Rhode Island,"Hotel, Motel, and Resort Desk Clerks",920,16.6,1.895,1.04,13.25,27570,3.7
+Rhode Island,"Interviewers, Except Eligibility and Loan",490,10.1,1.008,0.79,20.72,43100,5.4
+Rhode Island,"Library Assistants, Clerical",610,5.2,1.271,2.17,15.68,32620,2
+Rhode Island,Loan Interviewers and Clerks,1230,12.6,2.545,1.79,21.94,45630,2.9
+Rhode Island,New Accounts Clerks,**,**,**,**,24.94,51880,5.9
+Rhode Island,Order Clerks,140,37.1,0.285,0.3,19.95,41500,4.4
+Rhode Island,"Human Resources Assistants, Except Payroll and Timekeeping",550,10.2,1.139,1.43,20.94,43560,1.9
+Rhode Island,Receptionists and Information Clerks,4330,6.6,8.952,1.24,16.6,34530,1.5
+Rhode Island,Reservation and Transportation Ticket Agents and Travel Clerks,140,8.6,0.281,0.33,23.45,48780,5.1
+Rhode Island,"Information and Record Clerks, All Other",200,23,0.422,0.4,22.72,47270,1.5
+Rhode Island,Cargo and Freight Agents,200,16.3,0.418,0.64,25.25,52530,9.5
+Rhode Island,Couriers and Messengers,**,**,**,**,16.75,34830,8.9
+Rhode Island,Public Safety Telecommunicators,390,6.7,0.802,1.24,23.24,48350,2
+Rhode Island,"Dispatchers, Except Police, Fire, and Ambulance",460,9.8,0.954,0.7,20.25,42130,3.3
+Rhode Island,Postal Service Clerks,280,0,0.583,1.06,24.36,50680,0.8
+Rhode Island,Postal Service Mail Carriers,1280,0,2.653,1.15,24.8,51580,0.9
+Rhode Island,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",610,0,1.266,1.82,24.19,50320,3
+Rhode Island,"Production, Planning, and Expediting Clerks",720,11.4,1.482,0.59,26.55,55220,2.3
+Rhode Island,"Shipping, Receiving, and Inventory Clerks",2430,9.7,5.02,1.05,17.73,36870,3.2
+Rhode Island,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",200,13.8,0.406,0.98,17.25,35890,7.1
+Rhode Island,Executive Secretaries and Executive Administrative Assistants,870,5.5,1.794,0.49,31.99,66540,1.5
+Rhode Island,Legal Secretaries and Administrative Assistants,1070,24.2,2.21,1.93,24.33,50600,5.1
+Rhode Island,Medical Secretaries and Administrative Assistants,1560,6.6,3.226,0.78,20.67,42990,2.3
+Rhode Island,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",6590,6,13.631,0.98,21.28,44270,1.5
+Rhode Island,Data Entry Keyers,440,13,0.92,0.84,18.5,38490,2.5
+Rhode Island,Word Processors and Typists,280,6.5,0.575,1.78,21.3,44310,2.4
+Rhode Island,Insurance Claims and Policy Processing Clerks,730,13.9,1.515,0.87,21.66,45050,3.2
+Rhode Island,"Mail Clerks and Mail Machine Operators, Except Postal Service",230,26.4,0.465,0.82,19.47,40500,1.9
+Rhode Island,"Office Clerks, General",10460,3.7,21.621,1.07,19.18,39890,1.1
+Rhode Island,"Office Machine Operators, Except Computer",50,13.5,0.112,0.36,*,*,*
+Rhode Island,"Office and Administrative Support Workers, All Other",330,14.1,0.685,0.53,19.53,40630,2.1
+Rhode Island,"Farming, Fishing, and Forestry Occupations",90,25.5,0.193,0.06,16.76,34850,7
+Rhode Island,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",40,43.1,0.076,0.04,17.36,36100,14.9
+Rhode Island,Construction and Extraction Occupations,17090,3.2,35.331,0.84,26.53,55180,1.5
+Rhode Island,First-Line Supervisors of Construction Trades and Extraction Workers,1500,10.1,3.1,0.73,40.39,84020,2.5
+Rhode Island,Brickmasons and Blockmasons,90,26.2,0.191,0.46,32.46,67510,7.3
+Rhode Island,Carpenters,2630,8.3,5.432,1.09,25.32,52670,3.9
+Rhode Island,"Floor Layers, Except Carpet, Wood, and Hard Tiles",60,45.9,0.118,1.07,20.65,42940,22.5
+Rhode Island,Tile and Stone Setters,**,**,**,**,17.98,37400,11.7
+Rhode Island,Cement Masons and Concrete Finishers,500,23.7,1.031,0.77,24.68,51320,11.6
+Rhode Island,Construction Laborers,2660,13.7,5.496,0.79,24.5,50960,4
+Rhode Island,"Paving, Surfacing, and Tamping Equipment Operators",240,47.6,0.487,1.56,22.8,47420,4.9
+Rhode Island,Pile Driver Operators,50,48,0.107,4.45,29.88,62140,8.2
+Rhode Island,Operating Engineers and Other Construction Equipment Operators,440,20.8,0.902,0.33,31.64,65800,5.2
+Rhode Island,Drywall and Ceiling Tile Installers,560,18.5,1.164,1.66,19.37,40290,8.3
+Rhode Island,Electricians,2130,11,4.403,0.94,27.76,57740,3
+Rhode Island,Glaziers,160,47.2,0.328,0.92,*,*,*
+Rhode Island,"Insulation Workers, Floor, Ceiling, and Wall",**,**,**,**,17.63,36670,4.1
+Rhode Island,"Painters, Construction and Maintenance",790,13.1,1.642,1.04,22.85,47530,5
+Rhode Island,"Plumbers, Pipefitters, and Steamfitters",1340,8.5,2.781,0.92,26.52,55170,2.1
+Rhode Island,Roofers,330,10.8,0.683,0.77,25.92,53920,8.2
+Rhode Island,Sheet Metal Workers,620,15.9,1.276,1.43,25.27,52570,5.9
+Rhode Island,Structural Iron and Steel Workers,440,37.3,0.906,1.74,36.05,74990,4.7
+Rhode Island,Helpers--Carpenters,240,48.4,0.499,2.23,16.46,34230,6.2
+Rhode Island,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",**,**,**,**,17,35350,3.5
+Rhode Island,Construction and Building Inspectors,250,16.3,0.527,0.7,31.87,66280,8.5
+Rhode Island,Hazardous Materials Removal Workers,180,26.7,0.366,1.22,*,*,*
+Rhode Island,Highway Maintenance Workers,570,3.1,1.175,1.14,22.4,46590,1.4
+Rhode Island,Septic Tank Servicers and Sewer Pipe Cleaners,190,42,0.392,1.94,20.77,43210,4.4
+Rhode Island,Miscellaneous Construction and Related Workers,60,42.5,0.127,0.58,29.23,60790,12.5
+Rhode Island,"Excavating and Loading Machine and Dragline Operators, Surface Mining",50,39.5,0.099,0.33,25.48,53000,4.9
+Rhode Island,"Installation, Maintenance, and Repair Occupations",16370,3.4,33.845,0.87,25.17,52350,1.9
+Rhode Island,"First-Line Supervisors of Mechanics, Installers, and Repairers",1190,7.7,2.468,0.75,37.46,77920,2.6
+Rhode Island,"Computer, Automated Teller, and Office Machine Repairers",340,28.3,0.713,1.07,23.1,48040,6.1
+Rhode Island,"Telecommunications Equipment Installers and Repairers, Except Line Installers",440,34.8,0.919,0.65,31.83,66200,5.5
+Rhode Island,Audiovisual Equipment Installers and Repairers,**,**,**,**,21.75,45250,3.7
+Rhode Island,Security and Fire Alarm Systems Installers,220,37.2,0.464,0.95,23.89,49680,7.2
+Rhode Island,Aircraft Mechanics and Service Technicians,240,28.4,0.499,0.55,38.71,80520,11.5
+Rhode Island,Automotive Body and Related Repairers,650,14.9,1.337,1.36,22.57,46950,3
+Rhode Island,Automotive Service Technicians and Mechanics,2780,12.4,5.746,1.29,20.37,42360,3.9
+Rhode Island,Bus and Truck Mechanics and Diesel Engine Specialists,370,15.4,0.757,0.42,24.99,51980,2.4
+Rhode Island,"Mobile Heavy Equipment Mechanics, Except Engines",160,20.8,0.329,0.33,29.88,62150,3.7
+Rhode Island,Motorboat Mechanics and Service Technicians,**,**,**,**,24.49,50940,6.4
+Rhode Island,Outdoor Power Equipment and Other Small Engine Mechanics,230,45.3,0.474,2.16,18.55,38580,3.5
+Rhode Island,Tire Repairers and Changers,150,42.6,0.303,0.4,17.41,36220,3.9
+Rhode Island,Mechanical Door Repairers,**,**,**,**,18.37,38200,12.8
+Rhode Island,"Control and Valve Installers and Repairers, Except Mechanical Door",370,16.4,0.757,2.13,38.26,79570,2.7
+Rhode Island,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1610,9.1,3.338,1.43,27.56,57320,4.3
+Rhode Island,Home Appliance Repairers,**,**,**,**,17.85,37130,8.6
+Rhode Island,Industrial Machinery Mechanics,550,12.5,1.13,0.43,25.1,52210,3
+Rhode Island,"Maintenance Workers, Machinery",120,16.9,0.245,0.49,*,*,*
+Rhode Island,Electrical Power-Line Installers and Repairers,270,13.2,0.562,0.74,39.99,83170,3.2
+Rhode Island,Telecommunications Line Installers and Repairers,320,28.5,0.655,0.8,31.93,66420,8
+Rhode Island,Medical Equipment Repairers,170,22.9,0.349,1.11,*,*,*
+Rhode Island,Watch and Clock Repairers,60,49.3,0.122,6.45,21.66,45060,2.9
+Rhode Island,"Maintenance and Repair Workers, General",4440,4.1,9.18,0.95,22.25,46280,1.8
+Rhode Island,"Coin, Vending, and Amusement Machine Servicers and Repairers",80,31.3,0.164,0.77,17.62,36660,8.6
+Rhode Island,Locksmiths and Safe Repairers,**,**,**,**,20.52,42680,8.5
+Rhode Island,Riggers,140,18.6,0.296,1.89,27.8,57830,3.6
+Rhode Island,"Helpers--Installation, Maintenance, and Repair Workers",150,33.2,0.305,0.45,16.88,35110,5.9
+Rhode Island,"Installation, Maintenance, and Repair Workers, All Other",130,19.1,0.258,0.24,25.92,53910,7.6
+Rhode Island,Production Occupations,29100,2.9,60.183,0.97,20.44,42520,4
+Rhode Island,First-Line Supervisors of Production and Operating Workers,2390,4.2,4.938,1.15,36.31,75520,2.8
+Rhode Island,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",1050,14.7,2.161,1.11,18.51,38490,4.7
+Rhode Island,Structural Metal Fabricators and Fitters,1780,2.3,3.681,7.03,*,*,*
+Rhode Island,Fiberglass Laminators and Fabricators,240,11.2,0.506,3.71,19.19,39910,1.9
+Rhode Island,Miscellaneous Assemblers and Fabricators,2590,8.3,5.358,0.57,15.23,31670,2.1
+Rhode Island,Bakers,790,15.7,1.628,1.29,14.95,31100,3.4
+Rhode Island,Butchers and Meat Cutters,270,29.9,0.553,0.59,18.92,39360,6.2
+Rhode Island,"Meat, Poultry, and Fish Cutters and Trimmers",**,**,**,**,13.84,28790,2.9
+Rhode Island,Food Batchmakers,240,23.7,0.503,0.46,15.85,32970,5.5
+Rhode Island,Food Cooking Machine Operators and Tenders,60,30.6,0.125,0.61,13.9,28910,6.2
+Rhode Island,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",300,28.3,0.611,1.17,20.95,43580,2.9
+Rhode Island,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,18.55,38580,2.9
+Rhode Island,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",60,31.9,0.134,0.6,20.55,42750,4.5
+Rhode Island,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",450,12.7,0.92,0.69,16.05,33390,3.3
+Rhode Island,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",240,43.8,0.492,0.94,16.78,34890,3.3
+Rhode Island,Machinists,1180,11.4,2.448,0.94,22.99,47810,3
+Rhode Island,Metal-Refining Furnace Operators and Tenders,110,49.1,0.23,1.97,19.34,40230,3.6
+Rhode Island,Foundry Mold and Coremakers,50,28.4,0.104,0.87,18.11,37670,6.9
+Rhode Island,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",490,21.1,1.008,0.86,15.97,33220,3.7
+Rhode Island,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",390,9.4,0.806,0.81,22.6,47000,3.1
+Rhode Island,Tool and Die Makers,270,15.6,0.563,1.17,25.38,52780,3.2
+Rhode Island,"Welders, Cutters, Solderers, and Brazers",1430,8.8,2.955,1.06,25.13,52270,5.6
+Rhode Island,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",90,17.8,0.192,0.8,20.06,41720,7.7
+Rhode Island,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,20.3,42230,4.5
+Rhode Island,"Layout Workers, Metal and Plastic",50,29.9,0.1,1.8,25.51,53060,5.3
+Rhode Island,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",290,24.5,0.602,2.11,16.56,34450,4
+Rhode Island,Prepress Technicians and Workers,110,35.4,0.218,1.06,20.44,42500,5.6
+Rhode Island,Printing Press Operators,420,13.5,0.86,0.73,22.02,45810,4.5
+Rhode Island,Print Binding and Finishing Workers,320,36,0.658,2.12,16.25,33810,8.4
+Rhode Island,Laundry and Dry-Cleaning Workers,1200,19.1,2.49,1.75,14.25,29640,5.1
+Rhode Island,"Pressers, Textile, Garment, and Related Materials",220,39.9,0.449,1.73,14.11,29340,6.7
+Rhode Island,Sewing Machine Operators,480,19.8,0.995,1.1,14,29110,4
+Rhode Island,"Textile Cutting Machine Setters, Operators, and Tenders",140,37.3,0.286,3.18,*,*,*
+Rhode Island,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",260,37,0.538,3.74,13.12,27300,2.7
+Rhode Island,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",**,**,**,**,13.6,28280,5
+Rhode Island,Upholsterers,70,43.8,0.137,0.68,16.2,33700,7.6
+Rhode Island,"Textile, Apparel, and Furnishings Workers, All Other",90,26.1,0.178,1.45,12.06,25090,2.3
+Rhode Island,Cabinetmakers and Bench Carpenters,400,12.7,0.834,1.23,21.42,44540,3.4
+Rhode Island,Furniture Finishers,60,28.1,0.134,1.21,19.92,41440,2.6
+Rhode Island,"Sawing Machine Setters, Operators, and Tenders, Wood",40,30.2,0.073,0.21,14.72,30610,2.5
+Rhode Island,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",210,24.5,0.442,0.82,*,*,*
+Rhode Island,Power Plant Operators,110,44.9,0.228,1,40.88,85020,3.4
+Rhode Island,Stationary Engineers and Boiler Operators,130,4.4,0.277,1.25,28.67,59630,2.1
+Rhode Island,Water and Wastewater Treatment Plant and System Operators,360,17,0.753,0.89,24.7,51380,1.2
+Rhode Island,Chemical Equipment Operators and Tenders,250,22.1,0.513,0.86,20.56,42770,3.9
+Rhode Island,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",90,38.1,0.188,0.54,*,*,*
+Rhode Island,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",30,23.3,0.066,0.29,17.24,35850,10.6
+Rhode Island,"Grinding and Polishing Workers, Hand",300,22.3,0.625,3.15,17.91,37260,3.1
+Rhode Island,"Mixing and Blending Machine Setters, Operators, and Tenders",260,11.5,0.528,0.62,20.52,42690,3.2
+Rhode Island,"Cutters and Trimmers, Hand",**,**,**,**,19.13,39790,4.4
+Rhode Island,"Cutting and Slicing Machine Setters, Operators, and Tenders",140,23.8,0.29,0.73,24.1,50120,10.5
+Rhode Island,"Inspectors, Testers, Sorters, Samplers, and Weighers",1530,5.9,3.17,0.81,22.2,46170,4.3
+Rhode Island,Jewelers and Precious Stone and Metal Workers,780,19.3,1.604,9.99,18.49,38460,9.1
+Rhode Island,Dental Laboratory Technicians,**,**,**,**,24.03,49980,9.8
+Rhode Island,Ophthalmic Laboratory Technicians,150,26.4,0.316,1.59,17.32,36020,3.6
+Rhode Island,Packaging and Filling Machine Operators and Tenders,650,14.1,1.342,0.5,16.08,33440,4.4
+Rhode Island,"Painting, Coating, and Decorating Workers",140,47.2,0.291,3.44,15.71,32670,6.6
+Rhode Island,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",640,15.8,1.317,1.32,22.28,46340,5.5
+Rhode Island,Computer Numerically Controlled Tool Operators,320,24.4,0.653,0.63,22.07,45900,4.5
+Rhode Island,Computer Numerically Controlled Tool Programmers,90,13.3,0.187,1.07,26.16,54410,2.8
+Rhode Island,Etchers and Engravers,70,38.2,0.153,2.18,21.48,44680,3.1
+Rhode Island,"Molders, Shapers, and Casters, Except Metal and Plastic",120,29.9,0.247,0.81,18.83,39160,13.5
+Rhode Island,"Paper Goods Machine Setters, Operators, and Tenders",480,18.7,0.992,1.45,15.94,33150,4.3
+Rhode Island,Helpers--Production Workers,1510,13.1,3.115,1.51,13.61,28320,2
+Rhode Island,"Production Workers, All Other",150,4.7,0.305,0.2,15.58,32420,3.2
+Rhode Island,Transportation and Material Moving Occupations,30880,3.6,63.866,0.75,17.9,37230,1.4
+Rhode Island,Aircraft Cargo Handling Supervisors,**,**,**,**,23.79,49480,5.5
+Rhode Island,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",990,9.1,2.055,0.66,31.04,64570,3.5
+Rhode Island,"Airline Pilots, Copilots, and Flight Engineers",40,46.7,0.08,0.14,*,103900,4.6
+Rhode Island,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",130,8.3,0.267,2.66,14.47,30090,7.1
+Rhode Island,Driver/Sales Workers,1570,25.4,3.256,1.08,15.13,31470,6.4
+Rhode Island,Heavy and Tractor-Trailer Truck Drivers,3720,11.2,7.688,0.61,22.05,45860,2.6
+Rhode Island,Light Truck Drivers,3030,16.7,6.27,1,19.08,39690,5.6
+Rhode Island,"Bus Drivers, Transit and Intercity",110,28.3,0.221,0.18,17.64,36700,4.7
+Rhode Island,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",2170,7.2,4.487,0.94,18.64,38760,3.6
+Rhode Island,Sailors and Marine Oilers,120,29.5,0.249,1.17,19.68,40940,6
+Rhode Island,"Captains, Mates, and Pilots of Water Vessels",150,18.6,0.302,1.33,37.99,79030,6.2
+Rhode Island,Ship Engineers,40,17,0.086,1.49,42.84,89100,3.1
+Rhode Island,Parking Attendants,780,19.3,1.606,1.6,12.49,25980,2.4
+Rhode Island,Automotive and Watercraft Service Attendants,260,32.8,0.529,0.66,13.3,27670,10.6
+Rhode Island,"Aircraft Service Attendants and Transportation Workers, All Other",80,34,0.156,0.66,14.9,30990,2.9
+Rhode Island,Industrial Truck and Tractor Operators,550,12.5,1.139,0.27,19.99,41590,3.4
+Rhode Island,Cleaners of Vehicles and Equipment,910,18.4,1.888,0.72,13.53,28150,3.5
+Rhode Island,"Laborers and Freight, Stock, and Material Movers, Hand",8270,6.7,17.097,0.85,16.48,34280,2.2
+Rhode Island,Machine Feeders and Offbearers,170,11.9,0.361,0.84,13.64,28360,2.1
+Rhode Island,"Packers and Packagers, Hand",2060,8.8,4.253,0.99,13.58,28240,4
+Rhode Island,Stockers and Order Fillers,4770,11,9.865,0.68,15.23,31690,1.4
+Rhode Island,Refuse and Recyclable Material Collectors,470,24.7,0.965,1.17,18.46,38410,5.3

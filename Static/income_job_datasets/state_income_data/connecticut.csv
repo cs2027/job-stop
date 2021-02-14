@@ -1,0 +1,687 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Connecticut,All Occupations,1665100,0.8,1000,1,29.98,62350,0.8
+Connecticut,Management Occupations,120810,1.7,72.553,1.32,69.64,144850,0.7
+Connecticut,Chief Executives,970,7.8,0.582,0.42,111.34,231590,2.1
+Connecticut,General and Operations Managers,30480,2.2,18.306,1.12,75.56,157170,0.9
+Connecticut,Legislators,440,5.1,0.264,0.74,*,60010,11.6
+Connecticut,Advertising and Promotions Managers,240,19.9,0.141,0.83,63,131030,6.8
+Connecticut,Marketing Managers,5680,4.6,3.413,1.9,76.41,158940,2.2
+Connecticut,Sales Managers,7000,3.7,4.204,1.53,72.09,149950,1.5
+Connecticut,Public Relations and Fundraising Managers,1010,4.8,0.61,1.13,60.94,126760,1.9
+Connecticut,Administrative Services and Facilities Managers,4080,4.6,2.45,1.17,56.76,118060,1.5
+Connecticut,Computer and Information Systems Managers,9360,3.4,5.623,1.9,71.34,148380,1.4
+Connecticut,Financial Managers,17790,3.4,10.687,2.4,80.29,167000,1.4
+Connecticut,Industrial Production Managers,2850,4.7,1.709,1.35,65.44,136110,2
+Connecticut,Purchasing Managers,1780,6.9,1.069,2.18,61.67,128270,1.8
+Connecticut,"Transportation, Storage, and Distribution Managers",1200,7.3,0.718,0.8,53.51,111310,2.7
+Connecticut,Compensation and Benefits Managers,410,8.4,0.244,2.12,84.29,175330,3.1
+Connecticut,Human Resources Managers,2990,4.1,1.796,1.7,72.61,151030,2.3
+Connecticut,Training and Development Managers,740,6.6,0.444,1.7,61.12,127130,2.5
+Connecticut,Construction Managers,2310,7.3,1.388,0.69,56.78,118090,2.4
+Connecticut,"Education and Childcare Administrators, Preschool and Daycare",800,15.5,0.48,1.35,29.55,61470,4.5
+Connecticut,"Education Administrators, Kindergarten through Secondary",4190,3.5,2.518,1.36,*,129700,1.1
+Connecticut,"Education Administrators, Postsecondary",1780,4.9,1.071,1.09,*,*,*
+Connecticut,"Education Administrators, All Other",440,13.7,0.265,0.87,39.68,82530,6.9
+Connecticut,Architectural and Engineering Managers,3760,8.7,2.256,1.71,71.14,147970,2.7
+Connecticut,Food Service Managers,1090,10.2,0.656,0.41,35.21,73240,2.9
+Connecticut,Lodging Managers,120,22.9,0.073,0.28,32.83,68280,5.4
+Connecticut,Medical and Health Services Managers,6270,3.8,3.768,1.4,62.01,128970,2.2
+Connecticut,Natural Sciences Managers,630,9.9,0.38,0.83,80.8,168060,5.6
+Connecticut,Postmasters and Mail Superintendents,170,0,0.101,1.07,38.6,80290,0.6
+Connecticut,"Property, Real Estate, and Community Association Managers",2200,9.7,1.321,0.88,36.97,76910,4.3
+Connecticut,Social and Community Service Managers,2940,5,1.767,1.66,35.14,73090,1.3
+Connecticut,Emergency Management Directors,160,11,0.093,1.36,44.77,93110,4.4
+Connecticut,Funeral Home Managers,110,28.7,0.069,1.08,56.97,118510,23.6
+Connecticut,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",6760,4,4.058,1.26,66.31,137930,1.7
+Connecticut,Business and Financial Operations Occupations,94570,1.8,56.793,1.02,41.48,86280,0.9
+Connecticut,"Agents and Business Managers of Artists, Performers, and Athletes",110,32.1,0.069,0.59,51.9,107950,20.1
+Connecticut,Buyers and Purchasing Agents,5870,4.4,3.527,1.23,34.03,70790,1.5
+Connecticut,"Claims Adjusters, Examiners, and Investigators",3970,7,2.386,1.22,39.59,82340,2.4
+Connecticut,"Insurance Appraisers, Auto Damage",170,6.9,0.101,1.07,33.86,70420,2.8
+Connecticut,Compliance Officers,3340,3.9,2.006,0.93,41.94,87240,2.4
+Connecticut,Cost Estimators,1880,6.4,1.126,0.79,38.36,79780,2.4
+Connecticut,Human Resources Specialists,7040,4,4.225,0.98,35.25,73330,1.4
+Connecticut,Labor Relations Specialists,1730,13.1,1.037,2.01,35.46,73760,5.2
+Connecticut,Logisticians,1150,5.7,0.688,0.56,36.93,76820,2.5
+Connecticut,Management Analysts,8380,4,5.034,1.04,50.71,105480,2.1
+Connecticut,"Meeting, Convention, and Event Planners",1000,15.7,0.6,0.75,29.76,61900,2.1
+Connecticut,Fundraisers,1090,9.3,0.657,1.18,34.09,70910,3.5
+Connecticut,"Compensation, Benefits, and Job Analysis Specialists",1220,7.9,0.734,1.21,37.67,78350,1.7
+Connecticut,Training and Development Specialists,3430,4.9,2.057,0.97,35.32,73470,2.1
+Connecticut,Market Research Analysts and Marketing Specialists,7830,4.3,4.702,1.02,36.16,75200,2.9
+Connecticut,"Project Management Specialists and Business Operations Specialists, All Other",8880,4.1,5.332,0.61,40.92,85110,1.7
+Connecticut,Accountants and Auditors,15450,3.4,9.278,1.06,40.23,83680,1.1
+Connecticut,Property Appraisers and Assessors,650,10.1,0.389,1.01,35.74,74340,2.8
+Connecticut,Budget Analysts,1020,2.8,0.61,1.74,40.41,84050,1.8
+Connecticut,Credit Analysts,1090,8.4,0.656,1.3,45.41,94460,4.6
+Connecticut,Personal Financial Advisors,4250,10.1,2.555,1.79,66.08,137440,6.5
+Connecticut,Insurance Underwriters,3100,8.4,1.864,2.74,43.11,89670,3.3
+Connecticut,Financial Examiners,310,7.2,0.185,0.42,51.08,106240,5.1
+Connecticut,Credit Counselors,620,32.9,0.373,1.71,23.25,48350,6.1
+Connecticut,Loan Officers,2170,7.7,1.302,0.62,39.93,83050,4.9
+Connecticut,"Tax Examiners and Collectors, and Revenue Agents",870,1.6,0.523,1.43,41.31,85920,1.4
+Connecticut,Tax Preparers,550,28.7,0.328,0.72,26.21,54510,11.1
+Connecticut,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",7410,5.3,4.449,1.43,49.64,103250,2.6
+Connecticut,Computer and Mathematical Occupations,48650,3.4,29.219,0.94,45.82,95310,1
+Connecticut,Computer Systems Analysts,7160,4.1,4.299,1.07,46.59,96910,1.7
+Connecticut,Information Security Analysts,850,6.8,0.512,0.6,48.81,101530,1.9
+Connecticut,Computer Network Support Specialists,890,11.2,0.534,0.42,36.63,76200,2.2
+Connecticut,Computer User Support Specialists,9050,5.9,5.437,1.23,29.57,61500,1.2
+Connecticut,Computer Network Architects,1370,6.8,0.821,0.79,57.33,119250,3.8
+Connecticut,Network and Computer Systems Administrators,2510,5.7,1.509,0.63,45.91,95500,1.4
+Connecticut,Database Administrators and Architects,1530,6.3,0.92,1.08,50.59,105230,1.5
+Connecticut,Computer Programmers,2630,9,1.578,1.16,46.39,96480,4.8
+Connecticut,Software Developers and Software Quality Assurance Analysts and Testers,16350,4.6,9.819,1.03,51.7,107540,1.6
+Connecticut,Web Developers and Digital Interface Designers,1430,6.8,0.859,0.85,40.37,83970,3.6
+Connecticut,"Computer Occupations, All Other",1410,9.3,0.847,0.32,40.56,84370,2.8
+Connecticut,Actuaries,1350,14.4,0.813,5.37,*,*,*
+Connecticut,Operations Research Analysts,1100,8,0.66,0.97,48.71,101320,6.5
+Connecticut,Statisticians,380,7.2,0.227,0.85,50.09,104190,5.8
+Connecticut,"Data Scientists and Mathematical Science Occupations, All Other",600,21.3,0.358,1.71,46.16,96000,1.5
+Connecticut,Architecture and Engineering Occupations,35730,4.4,21.458,1.22,44,91520,0.7
+Connecticut,"Architects, Except Landscape and Naval",1040,16.3,0.626,0.87,42.09,87560,3.8
+Connecticut,Landscape Architects,430,33.9,0.258,1.87,40.91,85090,5.9
+Connecticut,Cartographers and Photogrammetrists,60,17.4,0.035,0.45,36.1,75080,5.8
+Connecticut,Surveyors,390,14.1,0.236,0.77,35.08,72970,4
+Connecticut,Aerospace Engineers,1450,20.7,0.873,2.03,52.71,109630,3.3
+Connecticut,Bioengineers and Biomedical Engineers,250,30.9,0.153,1.13,49.01,101940,2.5
+Connecticut,Chemical Engineers,460,21.2,0.277,1.35,41.56,86430,3.2
+Connecticut,Civil Engineers,3720,4.7,2.231,1.05,45.39,94400,1.2
+Connecticut,Computer Hardware Engineers,690,17.5,0.413,0.89,52.81,109830,2.5
+Connecticut,Electrical Engineers,2570,6.1,1.541,1.22,48.7,101310,2.1
+Connecticut,"Electronics Engineers, Except Computer",1020,18.4,0.615,0.7,52.01,108170,1.9
+Connecticut,Environmental Engineers,650,13.1,0.391,1.08,46.57,96870,2.1
+Connecticut,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",130,10.3,0.077,0.44,49.86,103700,2.5
+Connecticut,Industrial Engineers,5780,8.3,3.474,1.75,44.74,93070,1.6
+Connecticut,Materials Engineers,330,15.7,0.201,1.1,45.52,94680,3
+Connecticut,Mechanical Engineers,4510,9.1,2.707,1.3,45.89,95460,2
+Connecticut,Nuclear Engineers,580,14.8,0.346,3.2,55.77,116000,2.2
+Connecticut,"Engineers, All Other",1220,8,0.734,0.71,52.07,108300,1.8
+Connecticut,Architectural and Civil Drafters,680,12.2,0.411,0.61,30.14,62680,2.5
+Connecticut,Electrical and Electronics Drafters,330,9.3,0.197,1.2,27.85,57920,2
+Connecticut,Mechanical Drafters,710,9.2,0.427,1.14,32.64,67880,4.7
+Connecticut,"Drafters, All Other",340,8.7,0.203,2.04,24.29,50520,4
+Connecticut,Civil Engineering Technologists and Technicians,350,16.3,0.209,0.44,33.81,70330,2.5
+Connecticut,Electrical and Electronic Engineering Technologists and Technicians,1550,4.7,0.933,1.12,31.54,65600,3
+Connecticut,Electro-Mechanical and Mechatronics Technologists and Technicians,70,18.7,0.039,0.4,27.65,57500,3
+Connecticut,Environmental Engineering Technologists and Technicians,80,12.4,0.049,0.4,27.82,57870,3.7
+Connecticut,Industrial Engineering Technologists and Technicians,940,11.1,0.566,1.24,29.89,62160,2.4
+Connecticut,Mechanical Engineering Technologists and Technicians,400,8.8,0.24,0.82,32.92,68480,4.5
+Connecticut,Surveying and Mapping Technicians,340,13.4,0.204,0.57,29.95,62300,2.8
+Connecticut,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",630,14.5,0.38,0.63,32.08,66720,2.3
+Connecticut,"Life, Physical, and Social Science Occupations",12210,3.7,7.334,0.84,40.6,84450,2.2
+Connecticut,Food Scientists and Technologists,40,36.6,0.026,0.29,42.11,87590,12.8
+Connecticut,Soil and Plant Scientists,120,22.2,0.072,0.75,35.74,74340,2.7
+Connecticut,Microbiologists,**,**,**,**,37.59,78190,2.7
+Connecticut,Zoologists and Wildlife Biologists,60,5.1,0.036,0.27,37.75,78510,5.4
+Connecticut,"Biological Scientists, All Other",240,16.7,0.147,0.54,44.74,93050,2.2
+Connecticut,Conservation Scientists,50,22.2,0.03,0.2,42.98,89400,4.4
+Connecticut,Foresters,60,9.9,0.036,0.55,35.24,73310,6.2
+Connecticut,Epidemiologists,150,14.7,0.087,1.73,39.21,81550,3.3
+Connecticut,"Medical Scientists, Except Epidemiologists",1510,8.6,0.905,1.04,60.62,126090,3.5
+Connecticut,Physicists,130,49.8,0.078,0.69,79.64,165650,7.9
+Connecticut,Chemists,920,14.6,0.55,0.97,40.89,85060,2.7
+Connecticut,"Environmental Scientists and Specialists, Including Health",860,11.8,0.516,0.9,35.44,73710,3.3
+Connecticut,"Geoscientists, Except Hydrologists and Geographers",60,35.3,0.038,0.19,42.33,88050,4.3
+Connecticut,"Physical Scientists, All Other",170,13.7,0.101,0.84,55.07,114550,6.8
+Connecticut,Economists,120,7.5,0.07,0.54,44.07,91660,3.2
+Connecticut,Survey Researchers,430,14.1,0.256,3.78,25.81,53690,4.6
+Connecticut,"Clinical, Counseling, and School Psychologists",1800,6.4,1.078,1.4,44.61,92790,2.4
+Connecticut,"Psychologists, All Other",190,16.6,0.116,1.19,42.53,88460,2
+Connecticut,Urban and Regional Planners,350,6.3,0.209,0.8,38.72,80530,1.4
+Connecticut,Anthropologists and Archeologists,40,29.3,0.025,0.56,31.53,65590,3.6
+Connecticut,"Social Scientists and Related Workers, All Other",240,6.5,0.144,0.63,39.04,81200,1.2
+Connecticut,Agricultural and Food Science Technicians,60,14.3,0.034,0.23,19.71,40990,2.8
+Connecticut,Biological Technicians,710,14.2,0.428,0.79,33.3,69260,2.6
+Connecticut,Chemical Technicians,890,12.3,0.535,1.19,24.64,51240,2.1
+Connecticut,"Environmental Science and Protection Technicians, Including Health",270,20.5,0.159,0.72,27.42,57030,7.1
+Connecticut,Geological and Hydrologic Technicians,50,21.8,0.03,0.25,19.93,41460,8
+Connecticut,Social Science Research Assistants,220,18,0.129,0.53,21.7,45130,4.9
+Connecticut,Forest and Conservation Technicians,40,45.5,0.024,0.18,26.62,55360,26.5
+Connecticut,Forensic Science Technicians,110,10.5,0.064,0.57,33.16,68960,3.1
+Connecticut,"Life, Physical, and Social Science Technicians, All Other",480,14.2,0.291,0.67,30.27,62970,2.9
+Connecticut,Occupational Health and Safety Specialists,780,5.1,0.468,0.74,40.4,84030,1.5
+Connecticut,Occupational Health and Safety Technicians,130,12.4,0.081,0.58,26.56,55240,4.1
+Connecticut,Community and Social Service Occupations,34190,3,20.531,1.34,27.89,58010,2
+Connecticut,"Educational, Guidance, and Career Counselors and Advisors",4240,12.9,2.548,1.26,31.68,65890,2.2
+Connecticut,Marriage and Family Therapists,370,22.7,0.224,0.56,26.34,54790,5.8
+Connecticut,Rehabilitation Counselors,2570,15.3,1.545,2.08,21.39,44490,4.9
+Connecticut,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",4160,5.5,2.501,1.3,26.7,55530,2.3
+Connecticut,"Counselors, All Other",370,49.6,0.22,1.27,27.59,57390,13.1
+Connecticut,"Child, Family, and School Social Workers",5360,3.4,3.22,1.44,32.87,68360,2.5
+Connecticut,Healthcare Social Workers,2210,9,1.325,1.11,35.09,72980,1.9
+Connecticut,Mental Health and Substance Abuse Social Workers,1920,7.6,1.155,1.44,31.05,64590,2.6
+Connecticut,"Social Workers, All Other",750,29.4,0.45,1.13,31.76,66060,7.8
+Connecticut,Health Education Specialists,590,11.8,0.352,0.88,34.85,72490,3.1
+Connecticut,Social and Human Service Assistants,8270,6.1,4.966,1.8,20.22,42050,2.3
+Connecticut,Community Health Workers,400,11.3,0.241,0.6,24.81,51610,2.8
+Connecticut,"Community and Social Service Specialists, All Other",750,9.3,0.451,0.68,28.21,58670,5.5
+Connecticut,Clergy,680,8.3,0.408,1.13,27.4,56990,3.9
+Connecticut,"Directors, Religious Activities and Education",260,21.3,0.155,1.04,24.16,50250,4.6
+Connecticut,"Religious Workers, All Other",80,45.1,0.05,0.78,31,64480,4.4
+Connecticut,Legal Occupations,14100,3.5,8.469,1.08,54.81,114000,2.9
+Connecticut,Lawyers,7600,5.5,4.566,1.02,74.33,154610,3.2
+Connecticut,Judicial Law Clerks,260,12.4,0.158,1.4,38.57,80220,4.2
+Connecticut,"Administrative Law Judges, Adjudicators, and Hearing Officers",200,0,0.122,1.24,48.38,100620,1.6
+Connecticut,"Arbitrators, Mediators, and Conciliators",110,28,0.068,1.64,32.44,67480,4
+Connecticut,"Judges, Magistrate Judges, and Magistrates",240,9.2,0.143,0.73,77.75,161720,2.2
+Connecticut,Paralegals and Legal Assistants,5160,7.4,3.098,1.38,28.96,60240,2.6
+Connecticut,"Title Examiners, Abstractors, and Searchers",270,47.7,0.162,0.45,26.16,54400,3.6
+Connecticut,"Legal Support Workers, All Other",250,10.6,0.152,0.5,36.2,75300,4.6
+Connecticut,Educational Instruction and Library Occupations,121290,2.3,72.844,1.2,32.43,67460,2.8
+Connecticut,"Business Teachers, Postsecondary",1040,2.6,0.624,1.09,*,95030,4.2
+Connecticut,"Computer Science Teachers, Postsecondary",300,4.1,0.181,0.84,*,91620,2.4
+Connecticut,"Mathematical Science Teachers, Postsecondary",540,2.6,0.322,0.92,*,80300,1.8
+Connecticut,"Architecture Teachers, Postsecondary",**,**,**,**,*,63270,9.5
+Connecticut,"Engineering Teachers, Postsecondary",410,4.3,0.246,1,*,79190,5.4
+Connecticut,"Biological Science Teachers, Postsecondary",1170,3.6,0.702,1.94,*,108500,4.2
+Connecticut,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",**,**,**,**,*,75220,3.4
+Connecticut,"Chemistry Teachers, Postsecondary",360,3,0.217,1.49,*,85130,2.5
+Connecticut,"Environmental Science Teachers, Postsecondary",60,4.4,0.035,0.84,*,88850,3.6
+Connecticut,"Physics Teachers, Postsecondary",210,0.4,0.124,1.32,*,89520,2.2
+Connecticut,"Anthropology and Archeology Teachers, Postsecondary",100,0,0.059,1.48,*,89340,2.2
+Connecticut,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",160,0,0.096,1.33,*,91770,4.6
+Connecticut,"Economics Teachers, Postsecondary",220,1.9,0.135,1.49,*,92350,1.8
+Connecticut,"Political Science Teachers, Postsecondary",230,1.4,0.138,1.29,*,84690,2.4
+Connecticut,"Psychology Teachers, Postsecondary",800,4.1,0.478,1.87,*,88760,2.4
+Connecticut,"Sociology Teachers, Postsecondary",170,1,0.103,1.09,*,86830,2.1
+Connecticut,"Social Sciences Teachers, Postsecondary, All Other",70,25.1,0.04,0.35,*,84310,6.8
+Connecticut,"Health Specialties Teachers, Postsecondary",**,**,**,**,*,137650,10.2
+Connecticut,"Nursing Instructors and Teachers, Postsecondary",640,10.1,0.383,0.94,*,97350,1.9
+Connecticut,"Education Teachers, Postsecondary",600,2.8,0.359,0.86,*,82180,4.6
+Connecticut,"Criminal Justice and Law Enforcement Teachers, Postsecondary",140,17.2,0.085,0.89,*,78280,3.3
+Connecticut,"Law Teachers, Postsecondary",190,0.7,0.117,1.06,*,138630,5.8
+Connecticut,"Social Work Teachers, Postsecondary",170,24.7,0.105,1.13,*,75720,2.4
+Connecticut,"Art, Drama, and Music Teachers, Postsecondary",1110,14.4,0.666,1.04,*,92490,3.6
+Connecticut,"Communications Teachers, Postsecondary",310,1.6,0.187,0.94,*,83040,3.2
+Connecticut,"English Language and Literature Teachers, Postsecondary",710,1.8,0.425,0.92,*,84500,1.6
+Connecticut,"Foreign Language and Literature Teachers, Postsecondary",330,2,0.2,1.18,*,74200,5.5
+Connecticut,"History Teachers, Postsecondary",340,2.7,0.202,1.41,*,86400,2.9
+Connecticut,"Philosophy and Religion Teachers, Postsecondary",430,2.5,0.258,1.62,*,76950,2.8
+Connecticut,"Family and Consumer Sciences Teachers, Postsecondary",40,10.3,0.026,1.76,*,*,*
+Connecticut,"Recreation and Fitness Studies Teachers, Postsecondary",160,0,0.098,0.91,*,87340,1.3
+Connecticut,"Career/Technical Education Teachers, Postsecondary",960,11.7,0.575,0.75,26.51,55140,3.6
+Connecticut,"Postsecondary Teachers, All Other",2850,6.1,1.71,1.25,*,79590,3.6
+Connecticut,"Preschool Teachers, Except Special Education",6510,7.3,3.911,1.33,20.71,43080,3.7
+Connecticut,"Kindergarten Teachers, Except Special Education",1470,4.8,0.883,1.04,*,78720,1.6
+Connecticut,"Elementary School Teachers, Except Special Education",15930,3.6,9.567,0.98,*,78070,1.4
+Connecticut,"Middle School Teachers, Except Special and Career/Technical Education",8320,3.4,4.996,1.18,*,79510,1.4
+Connecticut,"Career/Technical Education Teachers, Middle School",110,8.2,0.065,0.81,*,82370,2.2
+Connecticut,"Secondary School Teachers, Except Special and Career/Technical Education",15820,4.5,9.501,1.35,*,78540,1.1
+Connecticut,"Career/Technical Education Teachers, Secondary School",1660,13.4,0.998,1.97,*,80360,1.2
+Connecticut,"Special Education Teachers, Preschool",220,17.2,0.133,0.87,*,70400,2.5
+Connecticut,"Special Education Teachers, Kindergarten and Elementary School",2780,8.2,1.672,1.27,*,77440,1.1
+Connecticut,"Special Education Teachers, Middle School",1140,4.7,0.684,1.17,*,80370,1.4
+Connecticut,"Special Education Teachers, Secondary School",1650,6.7,0.993,1.02,*,77440,2.9
+Connecticut,"Special Education Teachers, All Other",920,19.2,0.551,2.27,*,70350,2.3
+Connecticut,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",520,20,0.314,0.89,31.99,66530,3.8
+Connecticut,Self-Enrichment Teachers,3430,8.8,2.057,1.2,24.25,50430,3.8
+Connecticut,"Substitute Teachers, Short-Term",6240,4.9,3.746,0.94,18.31,38080,3.7
+Connecticut,"Tutors and Teachers and Instructors, All Other",3630,5.8,2.179,1,*,62210,2.9
+Connecticut,Archivists,40,15.6,0.026,0.59,30.75,63960,4.5
+Connecticut,Curators,190,17.9,0.116,1.32,31.73,65990,3.6
+Connecticut,Museum Technicians and Conservators,220,16.1,0.13,1.45,27.81,57850,2.5
+Connecticut,Librarians and Media Collections Specialists,2410,2.8,1.446,1.56,34.87,72540,1
+Connecticut,Library Technicians,1120,6.1,0.675,1.12,24.28,50510,2.2
+Connecticut,Farm and Home Management Educators,90,31.4,0.056,0.95,18.26,37980,8.2
+Connecticut,Instructional Coordinators,1210,10,0.728,0.61,45.41,94450,2.9
+Connecticut,"Teaching Assistants, Postsecondary",3190,1.5,1.919,2.05,*,55500,3.5
+Connecticut,"Teaching Assistants, Except Postsecondary",22350,4.3,13.422,1.46,*,36140,1.4
+Connecticut,"Educational Instruction and Library Workers, All Other",420,21.8,0.251,0.29,24.95,51900,2.7
+Connecticut,"Arts, Design, Entertainment, Sports, and Media Occupations",20900,3.7,12.553,0.91,31.46,65430,2.2
+Connecticut,Art Directors,510,10.1,0.306,1.05,47.95,99740,3.3
+Connecticut,"Fine Artists, Including Painters, Sculptors, and Illustrators",180,24.6,0.111,1.32,37.27,77530,16
+Connecticut,Special Effects Artists and Animators,440,11.9,0.264,1.32,50.85,105770,6.2
+Connecticut,"Artists and Related Workers, All Other",50,15.2,0.027,0.53,35.13,73060,10.8
+Connecticut,Commercial and Industrial Designers,320,12.5,0.19,0.85,35.96,74790,4.4
+Connecticut,Fashion Designers,30,35.2,0.019,0.13,32.6,67810,9.5
+Connecticut,Floral Designers,530,14.5,0.317,1.11,19.35,40240,5.9
+Connecticut,Graphic Designers,2060,5.4,1.236,0.84,29.63,61630,1.9
+Connecticut,Interior Designers,710,21.9,0.426,1.03,*,*,*
+Connecticut,Merchandise Displayers and Window Trimmers,1080,21.8,0.646,0.67,19.56,40690,10.5
+Connecticut,Set and Exhibit Designers,80,30.1,0.049,0.6,28.46,59190,11.2
+Connecticut,"Designers, All Other",70,39,0.043,0.6,28.36,58990,5.2
+Connecticut,Actors,360,19.8,0.218,0.61,*,*,*
+Connecticut,Producers and Directors,1960,13.7,1.177,1.34,42.57,88550,4.8
+Connecticut,Athletes and Sports Competitors,290,35.1,0.173,2.25,*,67170,5.3
+Connecticut,Coaches and Scouts,3150,7.2,1.893,1.15,*,45990,4.6
+Connecticut,"Umpires, Referees, and Other Sports Officials",50,13.6,0.029,0.21,*,47090,6.4
+Connecticut,Choreographers,**,**,**,**,26.12,54340,21.4
+Connecticut,Music Directors and Composers,190,19.5,0.117,1.62,27.56,57320,5.5
+Connecticut,Musicians and Singers,550,16.4,0.329,1.17,34.33,*,5.3
+Connecticut,Broadcast Announcers and Radio Disc Jockeys,420,22.6,0.253,1.27,18.78,39070,6.5
+Connecticut,"News Analysts, Reporters, and Journalists",280,11.5,0.168,0.56,29.86,62100,8.9
+Connecticut,Public Relations Specialists,1750,8.6,1.053,0.63,35.56,73970,5.5
+Connecticut,Editors,1040,7.7,0.624,0.95,35.09,72990,3.3
+Connecticut,Technical Writers,580,12.9,0.35,1.01,39.57,82300,2.7
+Connecticut,Writers and Authors,490,9.7,0.295,0.95,39.78,82750,3.7
+Connecticut,Interpreters and Translators,440,24.1,0.262,0.65,23.82,49550,5
+Connecticut,Court Reporters and Simultaneous Captioners,170,0.5,0.104,1.05,27.27,56720,1.8
+Connecticut,"Media and Communication Workers, All Other",220,11.6,0.134,0.78,28.66,59610,5.4
+Connecticut,Audio and Video Technicians,890,10.6,0.535,1.06,27.49,57180,4.2
+Connecticut,Broadcast Technicians,250,19.5,0.149,0.76,22.13,46030,6
+Connecticut,Sound Engineering Technicians,120,28.8,0.072,0.82,45.69,95030,7.5
+Connecticut,Photographers,510,16.4,0.309,0.9,22.92,47670,8.1
+Connecticut,"Camera Operators, Television, Video, and Film",420,14.5,0.252,1.72,24.02,49970,5
+Connecticut,Film and Video Editors,320,11.3,0.193,1.03,35.79,74440,7.7
+Connecticut,"Lighting Technicians and Media and Communication Equipment Workers, All Other",160,14.7,0.094,0.59,33.25,69150,3.4
+Connecticut,Healthcare Practitioners and Technical Occupations,105800,4.4,63.538,1.08,44.76,93090,1.3
+Connecticut,Chiropractors,190,20,0.112,0.47,61.14,127180,14.3
+Connecticut,"Dentists, General",1020,11.1,0.615,0.82,92.57,192540,6.3
+Connecticut,Orthodontists,**,**,**,**,118.88,247270,19.6
+Connecticut,Dietitians and Nutritionists,820,10.6,0.492,1.07,32.86,68350,2.1
+Connecticut,Optometrists,**,**,**,**,65.38,136000,13.5
+Connecticut,Pharmacists,3300,9.6,1.979,0.93,59.44,123640,1.5
+Connecticut,Physician Assistants,2140,9.6,1.286,1.57,65.9,137060,2.1
+Connecticut,Podiatrists,90,21.5,0.054,0.8,62.18,129330,10.4
+Connecticut,Occupational Therapists,2570,8,1.545,1.7,44.6,92770,1.6
+Connecticut,Physical Therapists,3930,7.3,2.359,1.49,47.49,98780,1.6
+Connecticut,Radiation Therapists,130,9.2,0.076,0.63,48.09,100040,1.3
+Connecticut,Recreational Therapists,320,16.2,0.191,1.47,29.45,61250,3.9
+Connecticut,Respiratory Therapists,1340,11.1,0.805,0.9,33.78,70260,1
+Connecticut,Speech-Language Pathologists,2290,7.7,1.375,1.31,48.75,101410,6.4
+Connecticut,Exercise Physiologists,50,14.3,0.028,0.57,30.03,62450,2.5
+Connecticut,"Therapists, All Other",190,9.7,0.113,1.36,32.79,68210,2.2
+Connecticut,Veterinarians,910,12.2,0.549,1.08,53.58,111440,3.9
+Connecticut,Registered Nurses,34740,7.6,20.866,1.03,40.12,83440,0.9
+Connecticut,Nurse Anesthetists,**,**,**,**,95.55,198750,3.8
+Connecticut,Nurse Midwives,80,27.3,0.045,0.96,54.29,112920,3.4
+Connecticut,Nurse Practitioners,2670,8.3,1.603,1.17,55.36,115140,2
+Connecticut,Audiologists,150,33.8,0.089,0.96,38.08,79200,4.3
+Connecticut,Anesthesiologists,**,**,**,**,124.58,259130,15.3
+Connecticut,Family Medicine Physicians,920,13.9,0.552,0.74,91.56,190440,5.8
+Connecticut,General Internal Medicine Physicians,520,19.4,0.314,1.03,99.13,206200,10.1
+Connecticut,Obstetricians and Gynecologists,500,25.9,0.303,2.39,124.91,259810,7
+Connecticut,"Pediatricians, General",540,23.7,0.325,1.61,96.2,200090,9.6
+Connecticut,Psychiatrists,380,8,0.225,1.3,122.26,254310,5
+Connecticut,"Physicians, All Other; and Ophthalmologists, Except Pediatric",6130,8.1,3.682,1.38,100.15,208310,6.6
+Connecticut,"Surgeons, Except Ophthalmologists",560,34.7,0.334,1.35,108.24,225150,9.4
+Connecticut,Dental Hygienists,4140,5.5,2.489,1.65,39.71,82600,2.3
+Connecticut,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",220,9.1,0.134,0.54,37.55,78100,3.6
+Connecticut,Clinical Laboratory Technologists and Technicians,3680,8.1,2.212,1,32.64,67900,1.8
+Connecticut,Cardiovascular Technologists and Technicians,350,10.6,0.213,0.56,36.33,75570,1.1
+Connecticut,Diagnostic Medical Sonographers,1010,9.3,0.607,1.23,39.37,81890,1.8
+Connecticut,Nuclear Medicine Technologists,170,17.5,0.1,0.81,43.22,89900,1.7
+Connecticut,Radiologic Technologists and Technicians,2280,10.6,1.366,0.97,33.37,69400,1.3
+Connecticut,Magnetic Resonance Imaging Technologists,370,16.4,0.219,0.85,38.97,81060,1.6
+Connecticut,Emergency Medical Technicians and Paramedics,3820,11,2.297,1.29,22.36,46510,1.5
+Connecticut,Dietetic Technicians,**,**,**,**,15.69,32630,3.2
+Connecticut,Pharmacy Technicians,3870,6.6,2.327,0.82,17.02,35400,1.5
+Connecticut,Psychiatric Technicians,970,1.7,0.58,1.08,25.74,53540,2.2
+Connecticut,Surgical Technologists,1090,9.9,0.652,0.88,28.39,59040,1.2
+Connecticut,Veterinary Technologists and Technicians,1590,11.3,0.956,1.27,23.99,49900,6.5
+Connecticut,Ophthalmic Medical Technicians,660,23,0.399,1,19.73,41040,3.7
+Connecticut,Licensed Practical and Licensed Vocational Nurses,8840,4.2,5.308,1.12,27.59,57380,0.7
+Connecticut,"Opticians, Dispensing",600,16.9,0.362,0.74,27.1,56360,5.8
+Connecticut,Orthotists and Prosthetists,**,**,**,**,51.37,106840,5.4
+Connecticut,Hearing Aid Specialists,50,34,0.029,0.52,26.9,55950,5
+Connecticut,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",2580,10.1,1.547,0.68,25.52,53080,1.9
+Connecticut,Athletic Trainers,240,9,0.142,0.73,*,60930,2.5
+Connecticut,Genetic Counselors,40,29.6,0.024,1.45,48.62,101130,3.6
+Connecticut,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",780,11.2,0.467,1.26,37.8,78620,3.7
+Connecticut,Healthcare Support Occupations,77930,2.4,46.803,1.05,16.37,34040,0.8
+Connecticut,Home Health and Personal Care Aides,34610,4,20.787,0.97,13.6,28280,0.9
+Connecticut,Nursing Assistants,21600,4.2,12.972,1.34,16.52,34360,0.9
+Connecticut,Orderlies,410,26.5,0.248,0.77,17.05,35450,1.9
+Connecticut,Psychiatric Aides,760,20.3,0.454,1.21,19.78,41140,1.3
+Connecticut,Occupational Therapy Assistants,840,11.9,0.504,1.65,32.06,66680,1.5
+Connecticut,Occupational Therapy Aides,150,34.7,0.088,1.71,15.94,33150,3
+Connecticut,Physical Therapist Assistants,630,10.7,0.376,0.57,31.5,65510,2.6
+Connecticut,Physical Therapist Aides,410,24.3,0.248,0.74,*,*,*
+Connecticut,Massage Therapists,1140,18,0.683,0.94,22.85,47520,5.1
+Connecticut,Dental Assistants,4020,5.1,2.417,1.01,21.5,44710,1.9
+Connecticut,Medical Assistants,8140,4.6,4.886,1.01,19.44,40440,1.4
+Connecticut,Medical Equipment Preparers,480,13.8,0.29,0.75,19.76,41100,3
+Connecticut,Medical Transcriptionists,600,17.3,0.359,0.94,18.77,39040,5.6
+Connecticut,Pharmacy Aides,220,33.9,0.134,0.53,14.98,31170,3
+Connecticut,Veterinary Assistants and Laboratory Animal Caretakers,1200,12.9,0.719,1.09,16.93,35210,7
+Connecticut,Phlebotomists,1470,9.1,0.882,1.01,19.45,40460,1.3
+Connecticut,"Healthcare Support Workers, All Other",1260,14.4,0.757,1.19,20.41,42440,3.3
+Connecticut,Protective Service Occupations,36120,3.1,21.691,0.91,26.77,55680,2.4
+Connecticut,First-Line Supervisors of Correctional Officers,610,0,0.366,1.16,33.66,70000,1.6
+Connecticut,First-Line Supervisors of Police and Detectives,1930,4.2,1.161,1.4,48.5,100880,0.8
+Connecticut,First-Line Supervisors of Firefighting and Prevention Workers,1130,9.9,0.677,1.43,44.69,92960,1.2
+Connecticut,"Miscellaneous First-Line Supervisors, Protective Service Workers",820,11.9,0.491,0.87,28.7,59700,3.4
+Connecticut,Firefighters,3020,8.2,1.813,0.82,31.59,65700,1.4
+Connecticut,Fire Inspectors and Investigators,260,5.3,0.157,1.68,36.48,75870,2
+Connecticut,Correctional Officers and Jailers,3630,0,2.183,0.76,25.83,53720,1.9
+Connecticut,Detectives and Criminal Investigators,980,5.7,0.586,0.81,43.95,91430,1.1
+Connecticut,Fish and Game Wardens,80,2.4,0.046,1,27.98,58210,3.9
+Connecticut,Parking Enforcement Workers,80,14.4,0.048,0.92,23.93,49780,3.6
+Connecticut,Police and Sheriff's Patrol Officers,6330,3.1,3.804,0.84,35.23,73270,0.7
+Connecticut,Animal Control Workers,190,4.1,0.114,1.4,25.04,52070,1.6
+Connecticut,Private Detectives and Investigators,490,23.5,0.293,1.23,27.89,58010,7.4
+Connecticut,Gambling Surveillance Officers and Gambling Investigators,200,44.2,0.123,1.76,*,*,*
+Connecticut,Security Guards,11130,6,6.685,0.87,16.51,34350,2
+Connecticut,Crossing Guards and Flaggers,1630,9,0.98,1.7,*,*,*
+Connecticut,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1640,9.2,0.985,1,12.6,26200,1.1
+Connecticut,Transportation Security Screeners,250,0,0.15,0.47,21.49,44710,3.3
+Connecticut,"School Bus Monitors and Protective Service Workers, All Other",1670,13,1.003,1.01,19.07,39670,4.7
+Connecticut,Food Preparation and Serving Related Occupations,137680,1.4,82.683,0.9,14.53,30220,1
+Connecticut,Chefs and Head Cooks,1990,14.1,1.194,1.37,29.23,60810,4.2
+Connecticut,First-Line Supervisors of Food Preparation and Serving Workers,8840,5.2,5.309,0.77,21.6,44940,1.6
+Connecticut,"Cooks, Fast Food",6290,20.3,3.778,1.05,13.71,28510,3.1
+Connecticut,"Cooks, Institution and Cafeteria",3290,6.3,1.976,0.72,19.09,39710,1.4
+Connecticut,"Cooks, Restaurant",13030,5.8,7.827,0.82,15.23,31690,1.5
+Connecticut,"Cooks, Short Order",1520,25.7,0.915,0.88,14.07,29260,4.3
+Connecticut,"Cooks, All Other",170,27.2,0.103,0.78,18.84,39180,5.4
+Connecticut,Food Preparation Workers,13020,9,7.821,1.33,14.57,30310,2.8
+Connecticut,Bartenders,7200,9.8,4.321,0.98,14.62,30410,3.1
+Connecticut,Fast Food and Counter Workers,32800,5.7,19.699,0.72,12.72,26460,1.3
+Connecticut,Waiters and Waitresses,30870,4.8,18.537,1.06,13.74,28590,2.2
+Connecticut,"Food Servers, Nonrestaurant",3990,8.2,2.394,1.27,14.09,29320,1.6
+Connecticut,Dining Room and Cafeteria Attendants and Bartender Helpers,4280,8,2.569,0.79,13.31,27680,3.6
+Connecticut,Dishwashers,6630,7.1,3.979,1.14,12.29,25560,1
+Connecticut,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",3310,10.3,1.989,0.69,12.52,26040,1.5
+Connecticut,"Food Preparation and Serving Related Workers, All Other",450,18.1,0.272,0.55,13.8,28700,2.9
+Connecticut,Building and Grounds Cleaning and Maintenance Occupations,55830,2.6,33.53,1.11,17.76,36930,1.2
+Connecticut,First-Line Supervisors of Housekeeping and Janitorial Workers,2200,9,1.318,1.24,26.92,56000,2.2
+Connecticut,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1440,14.5,0.864,1.22,28.91,60130,2.4
+Connecticut,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",30920,4.1,18.568,1.27,17.17,35720,1.4
+Connecticut,Maids and Housekeeping Cleaners,6450,4.1,3.873,0.61,13.66,28420,1.4
+Connecticut,"Building Cleaning Workers, All Other",80,28.9,0.05,0.41,18.4,38270,4.7
+Connecticut,Pest Control Workers,520,16.8,0.31,0.57,18.39,38250,3.9
+Connecticut,Landscaping and Groundskeeping Workers,13770,4.3,8.272,1.33,18.22,37890,1.7
+Connecticut,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",**,**,**,**,17.38,36160,3.4
+Connecticut,Tree Trimmers and Pruners,280,28.5,0.166,0.52,23,47850,5.2
+Connecticut,"Grounds Maintenance Workers, All Other",50,13.4,0.032,0.33,21.06,43810,9.2
+Connecticut,Personal Care and Service Occupations,47440,2.3,28.492,1.27,17,35370,1.7
+Connecticut,First-Line Supervisors of Gambling Services Workers,790,0.3,0.476,2.38,32.29,67160,3.2
+Connecticut,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",3900,5.5,2.345,1.58,23.36,48580,1.7
+Connecticut,Animal Trainers,330,39.3,0.199,1.77,18.61,38710,2.7
+Connecticut,Animal Caretakers,2460,7.2,1.478,1.02,14.28,29710,1.4
+Connecticut,"Gambling Service Workers, All Other",**,**,**,**,12.74,26490,4.4
+Connecticut,"Ushers, Lobby Attendants, and Ticket Takers",1130,17.2,0.677,0.72,13.32,27710,2.5
+Connecticut,Amusement and Recreation Attendants,2650,15.2,1.594,0.69,13.31,27690,3.2
+Connecticut,Costume Attendants,80,32.5,0.051,1,25.29,52600,10.2
+Connecticut,"Locker Room, Coatroom, and Dressing Room Attendants",250,25.3,0.149,1.37,14.01,29140,3.7
+Connecticut,Embalmers,40,29,0.023,0.86,33.26,69190,13.6
+Connecticut,Funeral Attendants,510,18.9,0.309,1.32,16.69,34720,4
+Connecticut,"Morticians, Undertakers, and Funeral Arrangers",310,25.6,0.185,1.07,64.78,134740,20.7
+Connecticut,Barbers,**,**,**,**,14.64,30440,9.9
+Connecticut,"Hairdressers, Hairstylists, and Cosmetologists",4680,8.9,2.812,1.07,16.57,34470,3.5
+Connecticut,Manicurists and Pedicurists,4010,11.9,2.408,3.16,12.31,25600,1.8
+Connecticut,Shampooers,120,45.6,0.073,0.89,11.66,24250,2.3
+Connecticut,Skincare Specialists,490,30.4,0.293,0.76,17.85,37120,3.3
+Connecticut,Baggage Porters and Bellhops,210,16.6,0.126,0.46,11.65,24230,4.5
+Connecticut,Concierges,130,29.1,0.077,0.27,17.41,36210,3.7
+Connecticut,Tour and Travel Guides,410,17.5,0.246,0.74,13.5,28080,2.8
+Connecticut,Childcare Workers,8740,8,5.249,1.37,13.49,28060,1.1
+Connecticut,Exercise Trainers and Group Fitness Instructors,5040,8.5,3.026,1.37,27.04,56240,3
+Connecticut,Recreation Workers,5630,5.9,3.38,1.38,15.5,32250,1.5
+Connecticut,Residential Advisors,1630,18.6,0.982,1.34,18.01,37460,5.7
+Connecticut,"Crematory Operators and Personal Care and Service Workers, All Other",310,17.3,0.189,0.45,14.42,29990,3.5
+Connecticut,Sales and Related Occupations,156010,1.6,93.692,0.96,23.35,48570,1.5
+Connecticut,First-Line Supervisors of Retail Sales Workers,14540,3.4,8.735,1.09,25.74,53540,1.7
+Connecticut,First-Line Supervisors of Non-Retail Sales Workers,3090,6.1,1.856,1.09,40.02,83230,2
+Connecticut,Cashiers,45010,4.9,27.03,1.1,12.42,25840,0.7
+Connecticut,Gambling Change Persons and Booth Cashiers,130,0.1,0.079,0.55,15.15,31510,1.9
+Connecticut,Counter and Rental Clerks,3750,9.6,2.251,0.8,17.08,35520,3
+Connecticut,Parts Salespersons,2680,10.2,1.61,0.92,19.42,40390,3.3
+Connecticut,Retail Salespersons,41900,3.2,25.161,0.86,16.46,34230,1.9
+Connecticut,Advertising Sales Agents,1260,9.5,0.758,0.86,37.46,77920,4.9
+Connecticut,Insurance Sales Agents,5780,6.5,3.469,1.24,32.77,68160,4.9
+Connecticut,"Securities, Commodities, and Financial Services Sales Agents",6210,6,3.727,1.25,58.18,121020,6.9
+Connecticut,Travel Agents,630,19.9,0.38,0.84,*,*,*
+Connecticut,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",9760,4.9,5.864,0.83,35.32,73460,3.1
+Connecticut,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",3120,11.5,1.877,0.9,50.91,105900,4.1
+Connecticut,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",13560,3.6,8.141,0.89,37.89,78810,2.4
+Connecticut,Demonstrators and Product Promoters,330,17.6,0.197,0.37,17.7,36810,4
+Connecticut,Real Estate Brokers,100,38.7,0.06,0.21,*,*,*
+Connecticut,Real Estate Sales Agents,1220,16.4,0.733,0.66,38.35,79780,11
+Connecticut,Sales Engineers,880,11.6,0.53,1.22,43.69,90880,3.9
+Connecticut,Telemarketers,1220,26.6,0.731,0.8,16.62,34570,6.3
+Connecticut,"Sales and Related Workers, All Other",690,10.5,0.413,0.51,22.94,47720,6.9
+Connecticut,Office and Administrative Support Occupations,224470,1,134.807,1.01,22.78,47390,0.5
+Connecticut,First-Line Supervisors of Office and Administrative Support Workers,25350,1.8,15.223,1.5,32.38,67350,0.8
+Connecticut,"Switchboard Operators, Including Answering Service",880,17.4,0.529,1.14,20.9,43470,6.6
+Connecticut,Telephone Operators,**,**,**,**,20.65,42950,5.9
+Connecticut,"Communications Equipment Operators, All Other",40,11.4,0.026,1.2,18.36,38180,3.8
+Connecticut,Bill and Account Collectors,1790,14.3,1.076,0.67,24,49920,2
+Connecticut,Billing and Posting Clerks,5110,5.5,3.067,0.97,22.19,46160,1
+Connecticut,"Bookkeeping, Accounting, and Auditing Clerks",17050,2.9,10.24,0.99,23.53,48950,0.8
+Connecticut,Payroll and Timekeeping Clerks,1650,10.7,0.992,1.02,26.37,54850,1.9
+Connecticut,Procurement Clerks,940,8.2,0.564,1.26,22.46,46720,2.1
+Connecticut,Tellers,5410,4.9,3.25,1.08,16.28,33850,1.1
+Connecticut,"Financial Clerks, All Other",460,8.7,0.275,1.32,22.62,47040,5.8
+Connecticut,Brokerage Clerks,590,18,0.354,1.08,30.55,63540,3.9
+Connecticut,"Court, Municipal, and License Clerks",1200,6.2,0.721,0.69,25.63,53320,1.8
+Connecticut,"Credit Authorizers, Checkers, and Clerks",160,35.2,0.094,0.52,19.09,39700,7.3
+Connecticut,Customer Service Representatives,31100,3.1,18.679,0.94,19.6,40760,1.2
+Connecticut,"Eligibility Interviewers, Government Programs",1000,1.2,0.601,0.63,28.57,59430,1.6
+Connecticut,File Clerks,770,13.9,0.465,0.67,17.64,36700,2.6
+Connecticut,"Hotel, Motel, and Resort Desk Clerks",1700,10.6,1.019,0.56,14.06,29250,4
+Connecticut,"Interviewers, Except Eligibility and Loan",1650,8.8,0.988,0.77,20.11,41830,3.8
+Connecticut,"Library Assistants, Clerical",1760,4.9,1.055,1.8,16.31,33930,1.2
+Connecticut,Loan Interviewers and Clerks,1670,14.8,1.004,0.71,22.65,47100,2
+Connecticut,Order Clerks,550,13.7,0.329,0.35,20.57,42790,2.3
+Connecticut,"Human Resources Assistants, Except Payroll and Timekeeping",1050,8.5,0.632,0.79,23.6,49080,1.9
+Connecticut,Receptionists and Information Clerks,14200,4.4,8.527,1.18,17.56,36520,1.5
+Connecticut,Reservation and Transportation Ticket Agents and Travel Clerks,590,11.8,0.355,0.42,18.94,39390,4.8
+Connecticut,"Information and Record Clerks, All Other",880,8.6,0.528,0.5,23.75,49410,2
+Connecticut,Cargo and Freight Agents,770,21.1,0.46,0.71,*,*,*
+Connecticut,Couriers and Messengers,760,26,0.456,0.9,21,43670,10.3
+Connecticut,Public Safety Telecommunicators,1050,5.8,0.631,0.97,27.18,56530,1.3
+Connecticut,"Dispatchers, Except Police, Fire, and Ambulance",2170,7,1.303,0.96,23.49,48870,2.9
+Connecticut,"Meter Readers, Utilities",120,22.1,0.072,0.35,30.11,62630,2.5
+Connecticut,Postal Service Clerks,1080,0,0.649,1.17,24.68,51340,0.4
+Connecticut,Postal Service Mail Carriers,4810,0,2.889,1.25,25.16,52330,0.5
+Connecticut,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1130,0,0.68,0.98,25.38,52780,2
+Connecticut,"Production, Planning, and Expediting Clerks",4400,3.7,2.642,1.05,27.57,57340,2.6
+Connecticut,"Shipping, Receiving, and Inventory Clerks",6440,4.8,3.867,0.81,18.71,38920,1.2
+Connecticut,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",440,12.1,0.262,0.63,*,*,*
+Connecticut,Executive Secretaries and Executive Administrative Assistants,7390,3,4.436,1.2,35.29,73410,1.4
+Connecticut,Legal Secretaries and Administrative Assistants,1620,17.2,0.974,0.85,27.24,56660,3.9
+Connecticut,Medical Secretaries and Administrative Assistants,4520,9.1,2.712,0.66,20.26,42140,1.7
+Connecticut,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",27450,2.4,16.484,1.19,23.23,48320,0.6
+Connecticut,Data Entry Keyers,1420,8.9,0.855,0.79,19.72,41020,1.7
+Connecticut,Word Processors and Typists,430,7.7,0.26,0.8,22.42,46620,1.7
+Connecticut,Desktop Publishers,40,9.4,0.025,0.42,27.14,56460,3.9
+Connecticut,Insurance Claims and Policy Processing Clerks,4030,7,2.418,1.38,25.69,53430,2.2
+Connecticut,"Mail Clerks and Mail Machine Operators, Except Postal Service",1850,16.6,1.113,1.96,17.07,35500,2.7
+Connecticut,"Office Clerks, General",28350,2.4,17.028,0.85,18.86,39220,0.6
+Connecticut,"Office Machine Operators, Except Computer",450,12.3,0.268,0.86,20.18,41960,2.1
+Connecticut,Proofreaders and Copy Markers,80,20.7,0.047,0.89,19.07,39670,8
+Connecticut,Statistical Assistants,130,15.8,0.076,1.14,33.71,70120,4.6
+Connecticut,"Office and Administrative Support Workers, All Other",5850,1.7,3.514,2.74,14.69,30560,2.5
+Connecticut,"Farming, Fishing, and Forestry Occupations",1180,16.8,0.706,0.21,16.29,33890,3.4
+Connecticut,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",120,28.5,0.07,0.45,25.78,53610,4.2
+Connecticut,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",790,24.3,0.473,0.23,14.34,29820,3.1
+Connecticut,"Farmworkers, Farm, Ranch, and Aquacultural Animals",190,17.2,0.111,0.45,14.09,29310,5
+Connecticut,Construction and Extraction Occupations,51040,2,30.652,0.73,29.19,60710,0.8
+Connecticut,First-Line Supervisors of Construction Trades and Extraction Workers,5340,4.3,3.205,0.75,38.7,80490,1.1
+Connecticut,Brickmasons and Blockmasons,710,18.5,0.429,1.04,29.49,61340,6.8
+Connecticut,Stonemasons,290,45.3,0.177,2.09,22.16,46100,6.6
+Connecticut,Carpenters,5590,6.8,3.356,0.67,28.27,58790,1.9
+Connecticut,Carpet Installers,**,**,**,**,20.87,43410,9.4
+Connecticut,"Floor Layers, Except Carpet, Wood, and Hard Tiles",190,31.5,0.116,1.05,20.98,43650,2.4
+Connecticut,Cement Masons and Concrete Finishers,1050,23.8,0.63,0.47,24.02,49950,2.8
+Connecticut,Construction Laborers,8030,5.2,4.822,0.69,24.75,51470,1.7
+Connecticut,"Paving, Surfacing, and Tamping Equipment Operators",230,38.4,0.14,0.45,24.4,50750,4.6
+Connecticut,Operating Engineers and Other Construction Equipment Operators,3200,7.4,1.92,0.7,34.57,71900,2
+Connecticut,Drywall and Ceiling Tile Installers,510,23.5,0.307,0.44,26.09,54280,6.6
+Connecticut,Tapers,50,48.9,0.028,0.23,26.05,54180,4.6
+Connecticut,Electricians,7800,4.1,4.686,1,30.56,63560,2
+Connecticut,Glaziers,450,21,0.268,0.75,26.8,55740,4.5
+Connecticut,"Insulation Workers, Floor, Ceiling, and Wall",280,27.4,0.171,0.75,22.06,45880,5.9
+Connecticut,"Insulation Workers, Mechanical",160,28.6,0.098,0.54,32.29,67150,6.2
+Connecticut,"Painters, Construction and Maintenance",1860,7.4,1.116,0.7,22.99,47810,4
+Connecticut,Pipelayers,110,46.8,0.067,0.27,27.99,58210,17.9
+Connecticut,"Plumbers, Pipefitters, and Steamfitters",4900,9.5,2.944,0.98,31.81,66170,3.1
+Connecticut,Reinforcing Iron and Rebar Workers,**,**,**,**,29.31,60970,17.8
+Connecticut,Roofers,770,14.7,0.463,0.52,29.25,60850,5.1
+Connecticut,Sheet Metal Workers,1430,13.8,0.859,0.96,28.22,58690,4.5
+Connecticut,Structural Iron and Steel Workers,490,29.9,0.294,0.56,30.96,64390,3
+Connecticut,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",200,40,0.121,0.76,23.58,49050,10.8
+Connecticut,Helpers--Carpenters,160,33,0.099,0.44,18.57,38630,4.2
+Connecticut,Helpers--Electricians,210,21.5,0.129,0.24,22.67,47160,8.5
+Connecticut,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",440,39.7,0.265,0.67,19.95,41500,8.6
+Connecticut,"Helpers, Construction Trades, All Other",210,32.9,0.125,0.64,19.1,39730,4.5
+Connecticut,Construction and Building Inspectors,1140,8.8,0.683,0.91,34.58,71920,2.3
+Connecticut,Elevator and Escalator Installers and Repairers,240,13.8,0.143,0.74,46.05,95780,2.6
+Connecticut,Fence Erectors,140,40,0.084,0.48,22.78,47370,7.9
+Connecticut,Hazardous Materials Removal Workers,480,23.7,0.285,0.95,19.03,39580,4.3
+Connecticut,Highway Maintenance Workers,2330,3.6,1.397,1.36,25.51,53070,1
+Connecticut,Septic Tank Servicers and Sewer Pipe Cleaners,480,27.6,0.291,1.44,21.34,44390,3.4
+Connecticut,Miscellaneous Construction and Related Workers,**,**,**,**,26.81,55760,15.9
+Connecticut,"Excavating and Loading Machine and Dragline Operators, Surface Mining",200,34.8,0.121,0.4,29.88,62150,11.1
+Connecticut,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",110,40.7,0.064,0.38,23.74,49380,8.2
+Connecticut,"Installation, Maintenance, and Repair Occupations",53980,2.7,32.417,0.83,27.94,58110,1.1
+Connecticut,"First-Line Supervisors of Mechanics, Installers, and Repairers",4930,5.5,2.958,0.89,37.35,77700,1.4
+Connecticut,"Computer, Automated Teller, and Office Machine Repairers",940,17.6,0.563,0.84,22.11,45980,2.5
+Connecticut,"Radio, Cellular, and Tower Equipment Installers and Repairers",40,36.9,0.026,0.27,35.13,73060,6.5
+Connecticut,"Telecommunications Equipment Installers and Repairers, Except Line Installers",2560,15.5,1.536,1.08,32.76,68140,4.4
+Connecticut,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",480,18.5,0.286,0.71,28.6,59490,5.2
+Connecticut,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",120,12.5,0.075,0.49,43.02,89470,2.3
+Connecticut,"Electronic Equipment Installers and Repairers, Motor Vehicles",30,26.5,0.019,0.27,19.96,41510,2.7
+Connecticut,Audiovisual Equipment Installers and Repairers,120,45,0.074,0.42,24.57,51100,7.3
+Connecticut,Security and Fire Alarm Systems Installers,590,13.7,0.357,0.73,28.06,58370,2.9
+Connecticut,Aircraft Mechanics and Service Technicians,1740,16.8,1.048,1.15,36.56,76050,5.2
+Connecticut,Automotive Body and Related Repairers,1680,12.6,1.007,1.03,24.1,50130,2.8
+Connecticut,Automotive Service Technicians and Mechanics,8060,5.7,4.843,1.09,24.45,50860,2.4
+Connecticut,Bus and Truck Mechanics and Diesel Engine Specialists,2090,8.3,1.252,0.69,29.5,61360,1.5
+Connecticut,Farm Equipment Mechanics and Service Technicians,30,26.3,0.02,0.08,*,*,*
+Connecticut,"Mobile Heavy Equipment Mechanics, Except Engines",860,17.8,0.519,0.52,28.62,59540,2.1
+Connecticut,Motorboat Mechanics and Service Technicians,340,23.8,0.204,1.31,26.81,55760,3.7
+Connecticut,Motorcycle Mechanics,100,29.8,0.062,0.58,20.39,42410,3.1
+Connecticut,Outdoor Power Equipment and Other Small Engine Mechanics,750,21.2,0.448,2.05,23.58,49050,4.5
+Connecticut,Bicycle Repairers,**,**,**,**,17.13,35620,4.1
+Connecticut,Recreational Vehicle Service Technicians,40,38.6,0.021,0.2,21.13,43950,4.3
+Connecticut,Tire Repairers and Changers,710,32.2,0.424,0.56,14.99,31170,4.8
+Connecticut,Mechanical Door Repairers,**,**,**,**,21.45,44610,6.1
+Connecticut,"Control and Valve Installers and Repairers, Except Mechanical Door",480,15.3,0.29,0.82,38.34,79740,2.6
+Connecticut,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4780,9.6,2.869,1.23,31.2,64900,1.7
+Connecticut,Home Appliance Repairers,**,**,**,**,24.8,51580,6.3
+Connecticut,Industrial Machinery Mechanics,2650,6.3,1.593,0.6,31.55,65630,2.1
+Connecticut,"Maintenance Workers, Machinery",920,11.8,0.553,1.11,24,49910,2
+Connecticut,Millwrights,260,25.3,0.156,0.48,28.4,59070,5.7
+Connecticut,Electrical Power-Line Installers and Repairers,890,14,0.535,0.7,41.69,86700,4.4
+Connecticut,Telecommunications Line Installers and Repairers,600,44,0.358,0.43,26.77,55670,2.9
+Connecticut,Camera and Photographic Equipment Repairers,**,**,**,**,17.45,36290,4.7
+Connecticut,Medical Equipment Repairers,380,18.2,0.226,0.72,26.33,54770,3.3
+Connecticut,"Precision Instrument and Equipment Repairers, All Other",50,19,0.028,0.39,28.36,59000,5.5
+Connecticut,"Maintenance and Repair Workers, General",11310,3.7,6.79,0.7,23.84,49580,1.1
+Connecticut,"Coin, Vending, and Amusement Machine Servicers and Repairers",290,11.7,0.174,0.81,21.02,43730,3.5
+Connecticut,Commercial Divers,**,**,**,**,38.05,79140,6
+Connecticut,Locksmiths and Safe Repairers,150,31.5,0.092,0.8,26.2,54500,4.1
+Connecticut,Riggers,230,17.4,0.139,0.89,25.43,52900,2.4
+Connecticut,"Helpers--Installation, Maintenance, and Repair Workers",640,17.5,0.385,0.57,17.51,36410,4.6
+Connecticut,"Installation, Maintenance, and Repair Workers, All Other",2180,19.3,1.311,1.19,20.97,43610,2.6
+Connecticut,Production Occupations,93440,2.3,56.116,0.9,22.93,47700,1.5
+Connecticut,First-Line Supervisors of Production and Operating Workers,8530,2.8,5.122,1.19,37.61,78240,1.3
+Connecticut,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",**,**,**,**,39.54,82250,4.3
+Connecticut,"Coil Winders, Tapers, and Finishers",120,29.4,0.071,0.82,18.93,39380,8.1
+Connecticut,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",4010,6.4,2.407,1.24,19.1,39720,2.2
+Connecticut,Engine and Other Machine Assemblers,400,42.2,0.24,0.77,24.81,51600,4.9
+Connecticut,Structural Metal Fabricators and Fitters,630,18.2,0.375,0.72,22.94,47710,4
+Connecticut,Fiberglass Laminators and Fabricators,60,32.8,0.036,0.27,17.12,35600,5.2
+Connecticut,Miscellaneous Assemblers and Fabricators,12430,6.8,7.466,0.8,18.56,38600,3.5
+Connecticut,Bakers,2610,10.4,1.57,1.25,15.47,32180,2.4
+Connecticut,Butchers and Meat Cutters,1030,18.4,0.619,0.66,21.32,44340,3.2
+Connecticut,"Meat, Poultry, and Fish Cutters and Trimmers",210,18.5,0.126,0.12,15.36,31950,4
+Connecticut,Slaughterers and Meat Packers,50,41.5,0.031,0.06,13.71,28520,3.7
+Connecticut,Food Batchmakers,1040,13.8,0.625,0.58,16.08,33440,3.3
+Connecticut,Food Cooking Machine Operators and Tenders,100,19.9,0.063,0.31,17.92,37270,10.7
+Connecticut,"Food Processing Workers, All Other",180,23.9,0.106,0.36,15.88,33030,5.5
+Connecticut,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1350,14.1,0.812,1.55,21.94,45630,2.3
+Connecticut,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,13.18,27410,6.2
+Connecticut,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",360,22,0.218,0.98,26.32,54740,6.8
+Connecticut,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2180,9.7,1.308,0.99,18.92,39360,2.6
+Connecticut,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",70,15.4,0.042,0.56,25.42,52870,8.2
+Connecticut,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1200,10.2,0.722,1.38,23.23,48320,3.1
+Connecticut,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",590,20,0.352,1.84,24.46,50880,10.8
+Connecticut,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",230,18.5,0.138,1.08,28.15,58550,9.2
+Connecticut,Machinists,7950,4.9,4.775,1.83,24.65,51270,2
+Connecticut,Metal-Refining Furnace Operators and Tenders,30,36.1,0.019,0.16,19.04,39600,8.9
+Connecticut,"Pourers and Casters, Metal",50,42.7,0.028,0.51,20.19,42000,4.7
+Connecticut,"Model Makers, Metal and Plastic",80,28.7,0.048,1.64,29.38,61100,3.9
+Connecticut,Foundry Mold and Coremakers,**,**,**,**,18.66,38800,4.4
+Connecticut,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1610,14.4,0.968,0.82,18.9,39320,3.2
+Connecticut,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2530,13.4,1.519,1.52,19.91,41410,2.3
+Connecticut,Tool and Die Makers,1760,9.5,1.056,2.19,32.03,66620,2.3
+Connecticut,"Welders, Cutters, Solderers, and Brazers",2350,8.9,1.412,0.5,25.03,52070,2.7
+Connecticut,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",460,27.8,0.276,1.16,20.75,43150,3.6
+Connecticut,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",400,32.3,0.238,1.78,21.62,44960,2.9
+Connecticut,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",650,18.3,0.389,1.37,20.33,42280,5.1
+Connecticut,"Tool Grinders, Filers, and Sharpeners",40,20.4,0.026,0.58,*,*,*
+Connecticut,"Metal Workers and Plastic Workers, All Other",300,22.3,0.178,1.07,18.23,37910,3.6
+Connecticut,Prepress Technicians and Workers,470,15.5,0.283,1.37,20.79,43230,4.6
+Connecticut,Printing Press Operators,2120,10.4,1.275,1.08,19.14,39800,3.5
+Connecticut,Print Binding and Finishing Workers,1080,16.9,0.651,2.1,16.68,34690,4
+Connecticut,Laundry and Dry-Cleaning Workers,2120,10.4,1.274,0.89,13.55,28180,1.6
+Connecticut,"Pressers, Textile, Garment, and Related Materials",560,34,0.334,1.29,13.22,27500,2.2
+Connecticut,Sewing Machine Operators,650,12.8,0.391,0.43,17.21,35790,3.5
+Connecticut,"Tailors, Dressmakers, and Custom Sewers",230,33.7,0.137,0.84,19.38,40320,6.5
+Connecticut,Textile Bleaching and Dyeing Machine Operators and Tenders,30,22.6,0.021,0.35,15.36,31940,1.9
+Connecticut,"Textile Cutting Machine Setters, Operators, and Tenders",30,25.2,0.019,0.21,17.08,35520,7.6
+Connecticut,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",**,**,**,**,16.27,33830,2.7
+Connecticut,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",**,**,**,**,15.73,32710,2.8
+Connecticut,Upholsterers,150,23.6,0.089,0.45,20.01,41610,5.6
+Connecticut,"Textile, Apparel, and Furnishings Workers, All Other",120,34.3,0.074,0.6,15,31200,5
+Connecticut,Cabinetmakers and Bench Carpenters,880,10.2,0.529,0.78,22.76,47340,3.4
+Connecticut,Furniture Finishers,170,24.7,0.099,0.9,19.18,39900,7.8
+Connecticut,"Sawing Machine Setters, Operators, and Tenders, Wood",80,39,0.051,0.15,21.86,45460,8.4
+Connecticut,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",310,26.8,0.186,0.35,20.64,42930,6.6
+Connecticut,Power Distributors and Dispatchers,**,**,**,**,46.18,96050,3.3
+Connecticut,Power Plant Operators,370,14.6,0.221,0.96,38.32,79710,4.5
+Connecticut,Stationary Engineers and Boiler Operators,330,16.8,0.199,0.9,31.96,66480,2.4
+Connecticut,Water and Wastewater Treatment Plant and System Operators,1050,10,0.629,0.75,32.62,67840,2.3
+Connecticut,Chemical Plant and System Operators,**,**,**,**,28.78,59870,4.8
+Connecticut,Gas Plant Operators,30,14.6,0.02,0.2,43.08,89610,5
+Connecticut,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",**,**,**,**,33.17,69000,4.7
+Connecticut,"Plant and System Operators, All Other",100,34.3,0.057,0.65,32.53,67660,3
+Connecticut,Chemical Equipment Operators and Tenders,690,17.8,0.413,0.7,21.81,45370,3.8
+Connecticut,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",330,42.7,0.196,0.56,20.76,43180,2.6
+Connecticut,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",390,19.2,0.232,1.02,19.89,41370,5.7
+Connecticut,"Grinding and Polishing Workers, Hand",**,**,**,**,21.15,44000,4.1
+Connecticut,"Mixing and Blending Machine Setters, Operators, and Tenders",1080,11.9,0.646,0.76,20.74,43140,2.4
+Connecticut,"Cutting and Slicing Machine Setters, Operators, and Tenders",620,12.7,0.373,0.95,18.48,38440,2.8
+Connecticut,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",220,24.3,0.134,0.27,22.94,47710,9.7
+Connecticut,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",60,32,0.035,0.27,20.17,41960,6.5
+Connecticut,"Inspectors, Testers, Sorters, Samplers, and Weighers",8100,5.3,4.866,1.24,25.81,53680,3
+Connecticut,Jewelers and Precious Stone and Metal Workers,300,17.2,0.182,1.13,25.14,52300,11.2
+Connecticut,Dental Laboratory Technicians,220,25.4,0.135,0.57,23.25,48350,3.1
+Connecticut,Medical Appliance Technicians,**,**,**,**,21.26,44220,9.6
+Connecticut,Ophthalmic Laboratory Technicians,190,17.8,0.116,0.59,18.58,38650,4.7
+Connecticut,Packaging and Filling Machine Operators and Tenders,2200,15.6,1.319,0.5,17.62,36640,3.7
+Connecticut,"Painting, Coating, and Decorating Workers",**,**,**,**,16.79,34930,13
+Connecticut,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",1670,11.1,1,1,21.95,45660,4.1
+Connecticut,Photographic Process Workers and Processing Machine Operators,90,35.7,0.052,0.63,15.25,31710,6.6
+Connecticut,Computer Numerically Controlled Tool Operators,2590,11.7,1.555,1.51,22.49,46770,2.8
+Connecticut,Computer Numerically Controlled Tool Programmers,710,14.2,0.425,2.44,34.97,72730,3.4
+Connecticut,Adhesive Bonding Machine Operators and Tenders,30,48.4,0.019,0.2,*,*,*
+Connecticut,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",150,18.9,0.089,0.8,17.42,36230,3.3
+Connecticut,"Molders, Shapers, and Casters, Except Metal and Plastic",230,32.3,0.135,0.44,17.1,35560,4.6
+Connecticut,"Paper Goods Machine Setters, Operators, and Tenders",930,19.2,0.558,0.82,19.62,40800,4.5
+Connecticut,Helpers--Production Workers,1440,10.6,0.867,0.42,17.26,35910,3.1
+Connecticut,"Production Workers, All Other",1670,9,1.001,0.66,18.26,37990,2.5
+Connecticut,Transportation and Material Moving Occupations,121750,2.6,73.118,0.86,18.45,38370,0.9
+Connecticut,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",4930,3.9,2.959,0.95,29.53,61410,1.2
+Connecticut,"Airline Pilots, Copilots, and Flight Engineers",130,24.9,0.076,0.13,*,126070,7.9
+Connecticut,Commercial Pilots,270,10.4,0.164,0.63,*,144100,4.6
+Connecticut,Air Traffic Controllers,100,21.2,0.058,0.38,40.53,84300,3.5
+Connecticut,Airfield Operations Specialists,60,23.6,0.038,0.53,28.73,59750,5.2
+Connecticut,Flight Attendants,40,22.6,0.025,0.03,*,*,*
+Connecticut,Driver/Sales Workers,3600,16.7,2.161,0.71,18.64,38780,4.9
+Connecticut,Heavy and Tractor-Trailer Truck Drivers,12700,4.8,7.626,0.6,24.49,50940,1.1
+Connecticut,Light Truck Drivers,12580,5.1,7.555,1.2,18.67,38840,2.3
+Connecticut,"Bus Drivers, Transit and Intercity",1890,8.6,1.137,0.93,24,49910,3.7
+Connecticut,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",13720,14.6,8.241,1.73,18.09,37620,2.2
+Connecticut,"Motor Vehicle Operators, All Other",**,**,**,**,17.25,35870,2.7
+Connecticut,Sailors and Marine Oilers,190,18.7,0.117,0.55,16.02,33310,6
+Connecticut,"Captains, Mates, and Pilots of Water Vessels",310,16.8,0.189,0.83,24.2,50330,10.6
+Connecticut,Parking Attendants,1610,9.1,0.967,0.96,13.01,27060,5
+Connecticut,Automotive and Watercraft Service Attendants,1390,16.9,0.836,1.04,16.73,34790,7.4
+Connecticut,Traffic Technicians,40,4.1,0.022,0.43,18.34,38140,8.2
+Connecticut,Transportation Inspectors,190,10.6,0.116,0.57,41.04,85370,5.9
+Connecticut,Passenger Attendants,510,7.9,0.309,1.61,11.09,23060,4
+Connecticut,"Aircraft Service Attendants and Transportation Workers, All Other",220,25.1,0.134,0.56,17.79,37000,5.2
+Connecticut,Crane and Tower Operators,130,17.7,0.077,0.25,31.01,64510,5.6
+Connecticut,Industrial Truck and Tractor Operators,3270,8.2,1.964,0.46,18.92,39360,3.9
+Connecticut,Cleaners of Vehicles and Equipment,3160,8.4,1.897,0.73,14.5,30150,2.1
+Connecticut,"Laborers and Freight, Stock, and Material Movers, Hand",27750,3,16.667,0.83,16.16,33600,1.3
+Connecticut,Machine Feeders and Offbearers,**,**,**,**,16.71,34760,5.7
+Connecticut,"Packers and Packagers, Hand",6250,21.1,3.752,0.87,15.47,32180,4.8
+Connecticut,Stockers and Order Fillers,23090,3.4,13.865,0.95,15.08,31360,1.3
+Connecticut,Refuse and Recyclable Material Collectors,1140,24.7,0.686,0.83,22.4,46580,3.3
+Connecticut,"Material Moving Workers, All Other",120,25.2,0.074,0.38,17.43,36250,4.8

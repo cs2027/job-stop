@@ -1,0 +1,558 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Vermont,All Occupations,306300,1,1000,1,24.58,51120,1
+Vermont,Management Occupations,19170,2.3,62.57,1.14,45.19,93990,1.1
+Vermont,Chief Executives,730,6.4,2.399,1.71,66.15,137600,2.7
+Vermont,General and Operations Managers,4370,4.1,14.253,0.87,43.65,90790,2.3
+Vermont,Advertising and Promotions Managers,50,32.3,0.159,0.93,50.85,105760,4.5
+Vermont,Marketing Managers,670,7.9,2.183,1.22,55.28,114990,4.3
+Vermont,Sales Managers,630,13.4,2.061,0.75,57.37,119330,7.2
+Vermont,Public Relations and Fundraising Managers,350,10.6,1.138,2.11,50.14,104290,3.8
+Vermont,Administrative Services and Facilities Managers,1010,6.5,3.311,1.58,37.58,78170,2.6
+Vermont,Computer and Information Systems Managers,750,6.6,2.45,0.83,57.62,119860,2.4
+Vermont,Financial Managers,1380,5.5,4.491,1.01,50.56,105160,2.5
+Vermont,Industrial Production Managers,540,6.1,1.76,1.39,51.7,107540,3.7
+Vermont,Purchasing Managers,150,9.5,0.502,1.02,50.89,105840,3.3
+Vermont,"Transportation, Storage, and Distribution Managers",260,10.2,0.841,0.94,*,*,*
+Vermont,Human Resources Managers,300,6.1,0.98,0.93,47.27,98320,2.3
+Vermont,Training and Development Managers,50,24.9,0.155,0.59,45.33,94300,10.8
+Vermont,Construction Managers,630,11.3,2.063,1.03,42.38,88150,5.1
+Vermont,"Education and Childcare Administrators, Preschool and Daycare",270,15.9,0.878,2.46,24.66,51280,3.3
+Vermont,"Education Administrators, Kindergarten through Secondary",820,9,2.678,1.45,*,91670,1.8
+Vermont,"Education Administrators, All Other",**,**,**,**,35.12,73040,3.1
+Vermont,Architectural and Engineering Managers,350,11.2,1.131,0.86,69.58,144730,4.1
+Vermont,Food Service Managers,740,17.8,2.422,1.51,27.35,56880,6.5
+Vermont,Lodging Managers,160,25.1,0.508,1.94,32.16,66900,9.1
+Vermont,Medical and Health Services Managers,1180,5.1,3.839,1.43,50.46,104950,3
+Vermont,Natural Sciences Managers,140,9.3,0.467,1.01,43.68,90860,2.8
+Vermont,Postmasters and Mail Superintendents,120,0,0.379,4.02,34.44,71630,0.7
+Vermont,"Property, Real Estate, and Community Association Managers",530,15.9,1.742,1.16,32.09,66750,6.9
+Vermont,Social and Community Service Managers,1040,7,3.387,3.18,30.43,63290,3.9
+Vermont,Emergency Management Directors,50,12.7,0.158,2.31,36.24,75390,5.7
+Vermont,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",670,6.5,2.19,0.68,49.05,102020,2.1
+Vermont,Business and Financial Operations Occupations,15000,2.6,48.962,0.88,33.95,70610,1.2
+Vermont,Buyers and Purchasing Agents,840,7.2,2.749,0.96,27.23,56630,2.4
+Vermont,"Claims Adjusters, Examiners, and Investigators",400,21.7,1.31,0.67,32.58,67760,2.2
+Vermont,Compliance Officers,2090,1.8,6.816,3.15,33.48,69640,2.3
+Vermont,Cost Estimators,320,10.2,1.034,0.72,32.56,67730,2.6
+Vermont,Human Resources Specialists,1030,6,3.367,0.78,29.65,61670,1.7
+Vermont,Labor Relations Specialists,130,16.7,0.434,0.84,34.81,72400,7.3
+Vermont,Logisticians,140,15.2,0.457,0.37,34.91,72620,3
+Vermont,Management Analysts,970,8.8,3.151,0.65,47.8,99430,5.2
+Vermont,"Meeting, Convention, and Event Planners",260,18.3,0.855,1.07,23.72,49330,3.1
+Vermont,Fundraisers,450,9.1,1.468,2.64,27.55,57300,4.8
+Vermont,"Compensation, Benefits, and Job Analysis Specialists",160,8.7,0.517,0.85,29.83,62050,3.6
+Vermont,Training and Development Specialists,590,18.8,1.928,0.91,32.41,67410,3.4
+Vermont,Market Research Analysts and Marketing Specialists,1230,7.8,4.023,0.87,28.43,59140,1.8
+Vermont,"Project Management Specialists and Business Operations Specialists, All Other",1590,7.2,5.181,0.59,33.72,70140,2
+Vermont,Accountants and Auditors,2610,3.6,8.515,0.98,35.88,74640,1.8
+Vermont,Property Appraisers and Assessors,170,25.1,0.551,1.44,28.48,59250,8.5
+Vermont,Budget Analysts,70,7.8,0.218,0.62,32.7,68020,1.7
+Vermont,Credit Analysts,150,12.5,0.482,0.96,33.78,70260,5
+Vermont,Personal Financial Advisors,360,23.3,1.168,0.82,59.27,123280,10.8
+Vermont,Insurance Underwriters,140,28.2,0.462,0.68,30.84,64150,5.3
+Vermont,Financial Examiners,80,9.7,0.268,0.61,38.26,79570,2.2
+Vermont,Credit Counselors,80,36.3,0.247,1.13,*,*,*
+Vermont,Loan Officers,480,11.3,1.555,0.74,33.55,69790,3.7
+Vermont,"Tax Examiners and Collectors, and Revenue Agents",110,2.3,0.362,0.99,28.59,59460,3.3
+Vermont,Tax Preparers,160,32.8,0.513,1.13,25.27,52560,11.4
+Vermont,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",360,6.8,1.175,0.38,37.35,77680,4
+Vermont,Computer and Mathematical Occupations,6760,9.3,22.067,0.71,36.65,76230,1.6
+Vermont,Computer Systems Analysts,530,10.1,1.719,0.43,38.57,80220,1.9
+Vermont,Information Security Analysts,120,19.4,0.377,0.44,40.14,83490,3
+Vermont,Computer Network Support Specialists,360,26.8,1.165,0.92,26.42,54960,3.7
+Vermont,Computer User Support Specialists,1210,11.9,3.96,0.9,24.74,51460,1.7
+Vermont,Computer Network Architects,100,16.5,0.31,0.3,45.58,94810,4.4
+Vermont,Network and Computer Systems Administrators,1020,15.3,3.342,1.39,36.43,75770,2
+Vermont,Database Administrators and Architects,150,9.2,0.479,0.56,34.19,71110,3.2
+Vermont,Computer Programmers,450,13.4,1.476,1.09,42.28,87950,7.5
+Vermont,Software Developers and Software Quality Assurance Analysts and Testers,1670,11.2,5.456,0.57,47.95,99730,3.4
+Vermont,Web Developers and Digital Interface Designers,340,21.6,1.11,1.1,26.94,56030,4.8
+Vermont,"Computer Occupations, All Other",550,10.3,1.779,0.66,32.57,67750,5.3
+Vermont,Operations Research Analysts,100,17.3,0.326,0.48,40.67,84590,2.9
+Vermont,Statisticians,80,6.6,0.259,0.97,33.79,70290,2.3
+Vermont,Architecture and Engineering Occupations,6020,4.6,19.651,1.11,39.79,82750,3
+Vermont,"Architects, Except Landscape and Naval",280,25.2,0.901,1.25,38.76,80620,4.8
+Vermont,Landscape Architects,**,**,**,**,36.71,76360,7.6
+Vermont,Cartographers and Photogrammetrists,40,39.7,0.137,1.79,30.77,63990,3.6
+Vermont,Surveyors,90,19,0.279,0.91,27.72,57670,6.7
+Vermont,Bioengineers and Biomedical Engineers,80,24.7,0.257,1.91,42.87,89170,4.1
+Vermont,Civil Engineers,680,6.9,2.232,1.05,37.09,77150,2.3
+Vermont,Electrical Engineers,650,24.9,2.113,1.67,*,*,*
+Vermont,"Electronics Engineers, Except Computer",110,19.7,0.357,0.41,50.91,105880,5
+Vermont,Environmental Engineers,130,24.9,0.428,1.18,41.14,85570,3.7
+Vermont,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",60,25.9,0.204,1.16,*,*,*
+Vermont,Industrial Engineers,650,18.6,2.111,1.06,36.36,75630,3.6
+Vermont,Mechanical Engineers,250,14.2,0.832,0.4,45.01,93620,7.9
+Vermont,"Engineers, All Other",200,16.2,0.652,0.63,44.84,93260,4.8
+Vermont,Architectural and Civil Drafters,220,15.7,0.705,1.05,24.17,50270,3.5
+Vermont,Electrical and Electronics Drafters,70,20,0.216,1.31,39.11,81350,4.5
+Vermont,Mechanical Drafters,90,24.3,0.283,0.75,25.72,53500,8.2
+Vermont,"Drafters, All Other",100,41.2,0.317,3.19,25.19,52390,3.3
+Vermont,Civil Engineering Technologists and Technicians,260,15.6,0.852,1.82,27.12,56420,5.3
+Vermont,Electrical and Electronic Engineering Technologists and Technicians,270,10.7,0.891,1.07,41.16,85600,6
+Vermont,Environmental Engineering Technologists and Technicians,40,41.8,0.135,1.1,24.48,50920,4.6
+Vermont,Mechanical Engineering Technologists and Technicians,40,31.4,0.123,0.42,29.21,60760,8.6
+Vermont,Surveying and Mapping Technicians,60,25.7,0.188,0.52,23.45,48770,5.9
+Vermont,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",70,19.2,0.218,0.36,27.52,57240,7.5
+Vermont,"Life, Physical, and Social Science Occupations",2900,5.3,9.474,1.08,32.52,67640,1.9
+Vermont,Food Scientists and Technologists,50,23.1,0.156,1.71,39.27,81690,4.6
+Vermont,Microbiologists,70,33.2,0.231,1.86,29.52,61390,4.6
+Vermont,Zoologists and Wildlife Biologists,90,12.9,0.286,2.18,32.66,67940,2.4
+Vermont,"Biological Scientists, All Other",40,13.9,0.142,0.52,37.36,77720,3.1
+Vermont,Conservation Scientists,100,21.7,0.336,2.24,31.26,65020,6.7
+Vermont,Foresters,80,6.9,0.255,3.94,30.52,63490,2.1
+Vermont,"Medical Scientists, Except Epidemiologists",100,24.5,0.314,0.36,45.73,95110,7.6
+Vermont,Physicists,40,25.6,0.135,1.19,60.66,126170,25
+Vermont,Chemists,140,17.2,0.472,0.83,36.55,76020,3.8
+Vermont,"Environmental Scientists and Specialists, Including Health",330,9.4,1.086,1.89,31.32,65140,1.8
+Vermont,"Geoscientists, Except Hydrologists and Geographers",**,**,**,**,40.48,84200,8.8
+Vermont,Economists,50,22.7,0.176,1.36,53.94,112200,13.1
+Vermont,"Clinical, Counseling, and School Psychologists",410,9.7,1.331,1.73,33.71,70120,10.7
+Vermont,Urban and Regional Planners,240,21.2,0.769,2.93,28.91,60120,4.9
+Vermont,Agricultural and Food Science Technicians,90,20.9,0.285,1.91,22.18,46130,4.3
+Vermont,Biological Technicians,120,17.9,0.399,0.74,22.62,47050,4.8
+Vermont,Chemical Technicians,60,18.5,0.196,0.44,26.02,54120,3.2
+Vermont,"Environmental Science and Protection Technicians, Including Health",50,29.2,0.172,0.77,21.05,43780,9.9
+Vermont,Social Science Research Assistants,**,**,**,**,23.18,48220,6.9
+Vermont,Forest and Conservation Technicians,40,6.3,0.116,0.89,20.93,43530,2.1
+Vermont,Occupational Health and Safety Specialists,160,18.1,0.521,0.82,33.69,70070,2.2
+Vermont,Community and Social Service Occupations,10540,4.2,34.398,2.25,21.43,44580,3.5
+Vermont,"Educational, Guidance, and Career Counselors and Advisors",1030,8.6,3.365,1.67,25.98,54030,4
+Vermont,Rehabilitation Counselors,520,11.2,1.71,2.3,24.29,50530,5.5
+Vermont,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1810,8.6,5.912,3.06,21.62,44970,3.5
+Vermont,"Counselors, All Other",60,24.8,0.205,1.18,19.6,40770,5
+Vermont,"Child, Family, and School Social Workers",1180,10.9,3.85,1.73,24.88,51750,3.1
+Vermont,Healthcare Social Workers,460,15.3,1.486,1.25,27.2,56570,3.5
+Vermont,Mental Health and Substance Abuse Social Workers,830,9.5,2.7,3.37,21.76,45260,3.7
+Vermont,"Social Workers, All Other",100,7.2,0.334,0.84,32.44,67470,7.4
+Vermont,Health Education Specialists,150,9.9,0.486,1.22,30.42,63270,3.9
+Vermont,Probation Officers and Correctional Treatment Specialists,200,0.3,0.662,1.1,31.45,65410,2
+Vermont,Social and Human Service Assistants,3280,6.2,10.715,3.89,16.46,34240,4.4
+Vermont,Community Health Workers,290,33,0.937,2.34,16.44,34190,4.1
+Vermont,"Community and Social Service Specialists, All Other",530,14.4,1.719,2.59,21,43680,4
+Vermont,Clergy,50,46.9,0.17,0.47,22.97,47770,12.5
+Vermont,Legal Occupations,1990,6.6,6.511,0.83,39.86,82900,5.4
+Vermont,Lawyers,1090,5.8,3.548,0.79,50.38,104790,6.8
+Vermont,"Administrative Law Judges, Adjudicators, and Hearing Officers",40,18.7,0.12,1.23,36.31,75530,7.6
+Vermont,"Judges, Magistrate Judges, and Magistrates",60,0,0.199,1.02,60.18,125170,2.2
+Vermont,Paralegals and Legal Assistants,660,14.6,2.151,0.96,23.58,49050,2.8
+Vermont,"Title Examiners, Abstractors, and Searchers",40,32.5,0.146,0.4,22.8,47420,9.2
+Vermont,"Legal Support Workers, All Other",60,24.3,0.206,0.67,32.05,66670,6.5
+Vermont,Educational Instruction and Library Occupations,25400,2.9,82.917,1.37,27.38,56940,3.5
+Vermont,"Business Teachers, Postsecondary",270,43.2,0.871,1.52,*,104300,5.5
+Vermont,"Computer Science Teachers, Postsecondary",120,43.6,0.402,1.85,*,92330,4.8
+Vermont,"Mathematical Science Teachers, Postsecondary",160,11.9,0.518,1.49,*,86910,4.1
+Vermont,"Economics Teachers, Postsecondary",30,25.5,0.109,1.2,*,120410,7.7
+Vermont,"Political Science Teachers, Postsecondary",50,36.8,0.162,1.51,*,97130,7.3
+Vermont,"Psychology Teachers, Postsecondary",**,**,**,**,*,67610,7.5
+Vermont,"Health Specialties Teachers, Postsecondary",**,**,**,**,*,117610,8.5
+Vermont,"Education Teachers, Postsecondary",**,**,**,**,*,75010,2.2
+Vermont,"Art, Drama, and Music Teachers, Postsecondary",300,37.7,0.975,1.52,*,76330,4.1
+Vermont,"English Language and Literature Teachers, Postsecondary",340,23.4,1.101,2.38,*,76810,6.1
+Vermont,"Foreign Language and Literature Teachers, Postsecondary",260,38.2,0.848,5.01,*,71770,3
+Vermont,"History Teachers, Postsecondary",**,**,**,**,*,86500,5
+Vermont,"Philosophy and Religion Teachers, Postsecondary",60,47.6,0.211,1.32,*,*,*
+Vermont,"Career/Technical Education Teachers, Postsecondary",**,**,**,**,30.05,62500,12.3
+Vermont,"Postsecondary Teachers, All Other",780,47.5,2.548,1.86,*,88850,13.3
+Vermont,"Preschool Teachers, Except Special Education",1040,15.9,3.393,1.16,17.27,35920,3.7
+Vermont,"Kindergarten Teachers, Except Special Education",210,14.1,0.692,0.82,*,57340,1.9
+Vermont,"Elementary School Teachers, Except Special Education",3770,9.8,12.316,1.26,*,63480,2.9
+Vermont,"Middle School Teachers, Except Special and Career/Technical Education",1030,9.8,3.37,0.8,*,61470,2.1
+Vermont,"Career/Technical Education Teachers, Middle School",30,30.4,0.104,1.29,*,62860,5.4
+Vermont,"Secondary School Teachers, Except Special and Career/Technical Education",2770,8.6,9.04,1.28,*,66660,2.1
+Vermont,"Career/Technical Education Teachers, Secondary School",330,8.5,1.069,2.11,*,64110,1.8
+Vermont,"Special Education Teachers, Preschool",110,9.4,0.365,2.4,*,58920,6.9
+Vermont,"Special Education Teachers, Kindergarten and Elementary School",570,15.7,1.863,1.41,*,63120,1.9
+Vermont,"Special Education Teachers, Middle School",210,17.2,0.688,1.18,*,65100,2.7
+Vermont,"Special Education Teachers, Secondary School",560,7.8,1.817,1.86,*,63570,2.4
+Vermont,"Special Education Teachers, All Other",350,43.1,1.136,4.69,*,47780,8.2
+Vermont,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",200,33.3,0.659,1.86,27.16,56500,3.6
+Vermont,Self-Enrichment Teachers,890,12.1,2.916,1.69,23.78,49460,8
+Vermont,"Substitute Teachers, Short-Term",1790,9.6,5.839,1.46,19.07,39670,14.6
+Vermont,"Tutors and Teachers and Instructors, All Other",1040,9.4,3.408,1.56,*,46930,4
+Vermont,Curators,60,23.3,0.189,2.15,25.02,52040,8.8
+Vermont,Museum Technicians and Conservators,50,30.6,0.166,1.84,21.04,43770,5.4
+Vermont,Librarians and Media Collections Specialists,640,10.2,2.105,2.28,24.09,50100,3.6
+Vermont,Library Technicians,200,20.7,0.666,1.1,16.49,34290,3.2
+Vermont,Instructional Coordinators,420,10.6,1.361,1.13,28.39,59050,3.5
+Vermont,"Teaching Assistants, Except Postsecondary",4650,5.6,15.194,1.66,*,33500,1.4
+Vermont,"Educational Instruction and Library Workers, All Other",80,33.4,0.268,0.31,*,*,*
+Vermont,"Arts, Design, Entertainment, Sports, and Media Occupations",5370,5.6,17.537,1.28,24.7,51390,2.4
+Vermont,Art Directors,80,17.5,0.271,0.93,*,*,*
+Vermont,Craft Artists,30,42.9,0.112,3.55,16.83,35020,4.1
+Vermont,"Fine Artists, Including Painters, Sculptors, and Illustrators",**,**,**,**,23.49,48860,17.2
+Vermont,"Artists and Related Workers, All Other",**,**,**,**,20.55,42740,5.1
+Vermont,Commercial and Industrial Designers,190,21.4,0.61,2.73,33.44,69550,3.4
+Vermont,Fashion Designers,50,44.1,0.156,1.04,*,*,*
+Vermont,Floral Designers,100,17.7,0.321,1.13,16.84,35030,4
+Vermont,Graphic Designers,500,9.9,1.623,1.1,24.76,51490,3.4
+Vermont,Interior Designers,60,32,0.208,0.5,25.66,53380,3.2
+Vermont,Merchandise Displayers and Window Trimmers,190,8.5,0.635,0.66,16,33280,3.4
+Vermont,"Designers, All Other",40,28.8,0.118,1.63,31.68,65900,12.7
+Vermont,Actors,40,26.9,0.129,0.36,*,*,*
+Vermont,Producers and Directors,270,15.8,0.889,1.01,26.4,54920,5.9
+Vermont,Coaches and Scouts,1130,11.9,3.691,2.25,*,45780,7.5
+Vermont,"Umpires, Referees, and Other Sports Officials",60,21.6,0.193,1.41,*,43450,7.9
+Vermont,Music Directors and Composers,30,26.6,0.101,1.4,27.46,57120,6.7
+Vermont,"Miscellaneous Entertainers and Performers, Sports and Related Workers",40,11.5,0.136,1.26,22.26,*,4.9
+Vermont,Broadcast Announcers and Radio Disc Jockeys,90,29,0.31,1.56,16.95,35260,12
+Vermont,"News Analysts, Reporters, and Journalists",140,30.2,0.46,1.53,23.24,48350,9.7
+Vermont,Public Relations Specialists,780,14.7,2.543,1.53,26.88,55900,3
+Vermont,Editors,290,12.2,0.933,1.43,24.77,51520,4.5
+Vermont,Technical Writers,70,17.7,0.226,0.65,40.61,84460,7.2
+Vermont,Writers and Authors,180,26.2,0.581,1.86,30.04,62480,5.6
+Vermont,Interpreters and Translators,110,23.9,0.361,0.9,18.78,39050,20.5
+Vermont,"Media and Communication Workers, All Other",80,33.2,0.263,1.54,22,45770,6.1
+Vermont,Audio and Video Technicians,140,20.3,0.455,0.9,21.72,45170,3.9
+Vermont,Broadcast Technicians,70,42.9,0.224,1.15,19.02,39560,3.6
+Vermont,Photographers,90,20.2,0.305,0.88,23.23,48310,7.5
+Vermont,"Camera Operators, Television, Video, and Film",90,20.5,0.309,2.11,20.77,43210,7.4
+Vermont,Film and Video Editors,**,**,**,**,24.14,50220,7.7
+Vermont,Healthcare Practitioners and Technical Occupations,19930,3.1,65.052,1.1,38.93,80980,3.5
+Vermont,Chiropractors,50,34,0.153,0.64,36.31,75530,16
+Vermont,"Dentists, General",360,28.3,1.173,1.56,125.86,261790,12.7
+Vermont,Dietitians and Nutritionists,190,10.8,0.616,1.34,29.63,61630,3.5
+Vermont,Optometrists,80,23.8,0.254,0.95,69.78,145150,9
+Vermont,Pharmacists,620,17,2.012,0.95,65.22,135650,2.2
+Vermont,Physician Assistants,260,11,0.859,1.05,58.02,120680,4.6
+Vermont,Occupational Therapists,210,11.7,0.686,0.75,36.82,76580,1.8
+Vermont,Physical Therapists,760,7.6,2.486,1.56,38.95,81020,5.2
+Vermont,Recreational Therapists,50,18.8,0.156,1.2,20.86,43400,3.4
+Vermont,Respiratory Therapists,170,8.2,0.56,0.62,30.61,63670,1.9
+Vermont,Speech-Language Pathologists,280,6.6,0.904,0.86,35.88,74640,1.9
+Vermont,Veterinarians,240,13,0.795,1.57,45.32,94270,3.6
+Vermont,Registered Nurses,7020,3.8,22.92,1.13,33.77,70240,1.6
+Vermont,Nurse Midwives,50,8.6,0.175,3.71,45.6,94850,4.3
+Vermont,Nurse Practitioners,440,10.8,1.434,1.05,50.88,105840,1.8
+Vermont,Anesthesiologists,80,27.1,0.268,1.27,*,*,*
+Vermont,Family Medicine Physicians,450,14,1.483,1.99,98.22,204300,10.4
+Vermont,General Internal Medicine Physicians,80,29.8,0.246,0.81,99.96,207920,8.6
+Vermont,Obstetricians and Gynecologists,70,25.7,0.213,1.68,*,*,*
+Vermont,"Pediatricians, General",120,17.5,0.395,1.95,*,*,*
+Vermont,Psychiatrists,80,8.7,0.255,1.47,97.42,202640,10.7
+Vermont,"Physicians, All Other; and Ophthalmologists, Except Pediatric",640,14.5,2.101,0.79,*,*,*
+Vermont,"Surgeons, Except Ophthalmologists",140,32.8,0.463,1.87,*,*,*
+Vermont,Dental Hygienists,620,18.1,2.037,1.35,36.09,75070,4.8
+Vermont,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",90,20.2,0.291,1.17,42.9,89240,10.5
+Vermont,Clinical Laboratory Technologists and Technicians,630,9.4,2.07,0.93,28.25,58760,2.4
+Vermont,Cardiovascular Technologists and Technicians,80,9.1,0.246,0.64,27.55,57300,2.6
+Vermont,Diagnostic Medical Sonographers,110,8.3,0.352,0.71,38.33,79720,2
+Vermont,Nuclear Medicine Technologists,40,24.1,0.137,1.11,38.84,80800,3
+Vermont,Radiologic Technologists and Technicians,470,9.9,1.536,1.09,29.98,62370,1.4
+Vermont,Magnetic Resonance Imaging Technologists,60,12.3,0.188,0.73,36.49,75900,2.2
+Vermont,Emergency Medical Technicians and Paramedics,900,16.4,2.936,1.65,17.1,35570,1.7
+Vermont,Dietetic Technicians,190,15.5,0.615,3.09,14.43,30010,2.5
+Vermont,Pharmacy Technicians,740,12.2,2.412,0.85,17.22,35810,3.4
+Vermont,Psychiatric Technicians,310,9.5,1.019,1.91,19.24,40010,2.6
+Vermont,Surgical Technologists,120,37.3,0.402,0.54,19.78,41150,3.8
+Vermont,Veterinary Technologists and Technicians,560,13.6,1.83,2.43,16.36,34020,3
+Vermont,Ophthalmic Medical Technicians,**,**,**,**,20.64,42940,1.9
+Vermont,Licensed Practical and Licensed Vocational Nurses,1130,8.5,3.675,0.77,24.14,50210,1.2
+Vermont,"Opticians, Dispensing",60,16.9,0.204,0.41,21.68,45100,2.9
+Vermont,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",830,13.7,2.706,1.2,22.13,46030,2
+Vermont,Athletic Trainers,110,20.6,0.361,1.85,*,51980,2.6
+Vermont,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",40,11.1,0.146,0.4,32.61,67830,3.7
+Vermont,Healthcare Support Occupations,13390,3.1,43.716,0.98,16.34,33990,1.8
+Vermont,Home Health and Personal Care Aides,7230,5.4,23.616,1.1,15.67,32590,3.6
+Vermont,Nursing Assistants,2940,6.6,9.595,0.99,15.24,31710,1.1
+Vermont,Orderlies,110,4.6,0.359,1.12,13.52,28120,2.7
+Vermont,Psychiatric Aides,290,26.8,0.952,2.54,16.6,34530,3.6
+Vermont,Occupational Therapy Assistants,60,36.6,0.203,0.66,28.79,59890,3.1
+Vermont,Physical Therapist Assistants,150,12.2,0.506,0.77,28.01,58260,2.1
+Vermont,Physical Therapist Aides,40,18.8,0.141,0.42,16.19,33680,3.9
+Vermont,Massage Therapists,400,16.6,1.295,1.77,22.92,47670,8.4
+Vermont,Dental Assistants,370,27.6,1.2,0.5,20.79,43230,3.7
+Vermont,Medical Assistants,1110,11.6,3.608,0.74,17.36,36100,2.2
+Vermont,Medical Equipment Preparers,90,5.4,0.286,0.74,18.85,39220,1.9
+Vermont,Medical Transcriptionists,100,29.4,0.327,0.86,19.77,41120,3.2
+Vermont,Pharmacy Aides,110,36.3,0.366,1.44,12.15,25270,2.6
+Vermont,Veterinary Assistants and Laboratory Animal Caretakers,70,49.6,0.223,0.34,15.25,31730,6.3
+Vermont,Phlebotomists,220,8,0.718,0.82,16.56,34450,1.8
+Vermont,"Healthcare Support Workers, All Other",100,19.7,0.31,0.49,19.57,40710,5.2
+Vermont,Protective Service Occupations,5210,6.3,17.012,0.71,21.29,44290,2.9
+Vermont,First-Line Supervisors of Correctional Officers,50,0,0.17,0.54,30.69,63830,2.4
+Vermont,First-Line Supervisors of Police and Detectives,170,12.6,0.566,0.68,43.52,90520,2.2
+Vermont,First-Line Supervisors of Firefighting and Prevention Workers,80,10.5,0.248,0.52,31.52,65550,4.4
+Vermont,"Miscellaneous First-Line Supervisors, Protective Service Workers",90,12.5,0.283,0.5,28.03,58310,2.8
+Vermont,Firefighters,**,**,**,**,19.22,39970,6.1
+Vermont,Fire Inspectors and Investigators,40,14.2,0.122,1.31,29.81,62010,2.2
+Vermont,Correctional Officers and Jailers,540,0,1.753,0.61,22.15,46080,1.8
+Vermont,Detectives and Criminal Investigators,200,1.5,0.639,0.89,40.72,84700,2
+Vermont,Fish and Game Wardens,40,0,0.131,2.82,29.49,61340,2.5
+Vermont,Parking Enforcement Workers,40,14.1,0.13,2.49,18.06,37570,3.6
+Vermont,Police and Sheriff's Patrol Officers,1130,8.2,3.702,0.82,25.52,53070,2.3
+Vermont,Security Guards,1010,19.4,3.299,0.43,15.46,32150,2.8
+Vermont,Crossing Guards and Flaggers,370,28.5,1.223,2.12,15.19,31580,2.9
+Vermont,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",350,6.9,1.157,1.18,12.83,26680,1.7
+Vermont,Transportation Security Screeners,80,0,0.275,0.86,20.08,41760,2.9
+Vermont,Food Preparation and Serving Related Occupations,26280,2.9,85.809,0.93,15.35,31930,1.3
+Vermont,Chefs and Head Cooks,950,29.9,3.112,3.57,22.14,46040,3.6
+Vermont,First-Line Supervisors of Food Preparation and Serving Workers,1530,7.4,5.001,0.73,20.86,43390,2.3
+Vermont,"Cooks, Fast Food",310,46.5,1.011,0.28,13.2,27450,11.4
+Vermont,"Cooks, Institution and Cafeteria",1180,8.3,3.866,1.41,15.74,32730,1.6
+Vermont,"Cooks, Restaurant",2590,11.2,8.447,0.88,15.32,31860,1.7
+Vermont,"Cooks, Short Order",400,46.2,1.293,1.24,14.44,30030,2.8
+Vermont,Food Preparation Workers,**,**,**,**,13.71,28520,2.4
+Vermont,Bartenders,2080,9.9,6.783,1.54,17.11,35590,3.2
+Vermont,Fast Food and Counter Workers,5950,8.9,19.427,0.71,13.22,27510,1.8
+Vermont,Waiters and Waitresses,4970,8,16.228,0.92,16.76,34850,3.9
+Vermont,"Food Servers, Nonrestaurant",500,19.3,1.643,0.87,14.17,29480,5.8
+Vermont,Dining Room and Cafeteria Attendants and Bartender Helpers,1090,15.4,3.549,1.09,13.56,28200,2.9
+Vermont,Dishwashers,1320,18,4.314,1.23,13.16,27380,2.7
+Vermont,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",820,14.8,2.687,0.93,12.24,25450,1.5
+Vermont,"Food Preparation and Serving Related Workers, All Other",50,37.3,0.163,0.33,14.23,29590,5.4
+Vermont,Building and Grounds Cleaning and Maintenance Occupations,10540,4.2,34.412,1.14,16.42,34140,1.4
+Vermont,First-Line Supervisors of Housekeeping and Janitorial Workers,420,8.7,1.37,1.29,21.67,45080,2.4
+Vermont,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",**,**,**,**,26.96,56090,3.4
+Vermont,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",4880,3.8,15.921,1.09,15.78,32820,1.5
+Vermont,Maids and Housekeeping Cleaners,2110,10.1,6.889,1.09,13.23,27510,1.3
+Vermont,Pest Control Workers,70,49.7,0.23,0.42,18.63,38750,4.5
+Vermont,Landscaping and Groundskeeping Workers,2220,11.1,7.245,1.17,17.33,36040,2.9
+Vermont,Tree Trimmers and Pruners,**,**,**,**,20.38,42390,2.3
+Vermont,"Grounds Maintenance Workers, All Other",**,**,**,**,18.29,38050,4.1
+Vermont,Personal Care and Service Occupations,6650,7,21.712,0.97,17.38,36150,2.4
+Vermont,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",450,12.7,1.466,0.99,22.59,46980,2.3
+Vermont,Animal Caretakers,450,12.3,1.471,1.02,14.14,29410,4.6
+Vermont,"Ushers, Lobby Attendants, and Ticket Takers",**,**,**,**,14.97,31140,19.6
+Vermont,Amusement and Recreation Attendants,730,17.7,2.383,1.04,13.21,27480,1.9
+Vermont,Funeral Attendants,80,7.5,0.256,1.09,18.17,37790,7.8
+Vermont,"Morticians, Undertakers, and Funeral Arrangers",70,11.4,0.212,1.23,34.24,71220,7.7
+Vermont,"Hairdressers, Hairstylists, and Cosmetologists",630,21.7,2.045,0.78,17.66,36730,5.5
+Vermont,Manicurists and Pedicurists,**,**,**,**,17.53,36470,5.6
+Vermont,Baggage Porters and Bellhops,90,20.6,0.282,1.04,12.4,25780,2
+Vermont,Concierges,50,21.5,0.17,0.6,15.24,31690,3.3
+Vermont,Tour and Travel Guides,70,18.6,0.229,0.69,18.46,38400,7.6
+Vermont,Childcare Workers,1460,25.5,4.757,1.24,14.85,30880,2.6
+Vermont,Exercise Trainers and Group Fitness Instructors,780,10.9,2.555,1.15,25.83,53740,9.4
+Vermont,Recreation Workers,1080,13,3.528,1.44,15.09,31380,2
+Vermont,Residential Advisors,380,20.8,1.229,1.67,17.96,37350,4.1
+Vermont,"Crematory Operators and Personal Care and Service Workers, All Other",40,25.5,0.141,0.34,16.16,33610,10.5
+Vermont,Sales and Related Occupations,27730,3.3,90.521,0.93,19.4,40360,1.8
+Vermont,First-Line Supervisors of Retail Sales Workers,2890,6.1,9.423,1.18,23.97,49860,3.3
+Vermont,First-Line Supervisors of Non-Retail Sales Workers,460,12.8,1.493,0.88,33.45,69580,3.6
+Vermont,Cashiers,8690,8.2,28.385,1.16,12.6,26220,0.9
+Vermont,Counter and Rental Clerks,890,13.1,2.915,1.04,17.31,36000,3.2
+Vermont,Parts Salespersons,450,13.8,1.477,0.85,18.03,37510,2.9
+Vermont,Retail Salespersons,8520,5.5,27.802,0.95,15.13,31480,1.7
+Vermont,Advertising Sales Agents,260,18.5,0.835,0.95,24.75,51490,7.2
+Vermont,Insurance Sales Agents,890,10.3,2.911,1.04,*,*,*
+Vermont,"Securities, Commodities, and Financial Services Sales Agents",630,13.4,2.062,0.69,36.07,75020,7.5
+Vermont,Travel Agents,80,31.7,0.265,0.58,21.87,45480,6.5
+Vermont,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",950,14.7,3.099,0.44,30.16,62730,4
+Vermont,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",430,14.7,1.404,0.67,42.73,88880,5.9
+Vermont,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",1970,6.8,6.42,0.7,31.92,66400,3
+Vermont,Demonstrators and Product Promoters,**,**,**,**,15.11,31430,5.3
+Vermont,Real Estate Brokers,100,29.3,0.337,1.16,26.56,55250,8.7
+Vermont,Real Estate Sales Agents,80,42.7,0.268,0.24,26.81,55770,7.4
+Vermont,Sales Engineers,100,26.9,0.34,0.79,*,*,*
+Vermont,Telemarketers,60,40.9,0.191,0.21,12.87,26770,9.3
+Vermont,"Sales and Related Workers, All Other",**,**,**,**,24.68,51340,8.2
+Vermont,Office and Administrative Support Occupations,37310,2.1,121.818,0.92,19.82,41230,0.6
+Vermont,First-Line Supervisors of Office and Administrative Support Workers,2110,4.9,6.903,0.68,28.23,58710,1.2
+Vermont,"Switchboard Operators, Including Answering Service",200,39.7,0.637,1.38,14.92,31030,2.2
+Vermont,Bill and Account Collectors,320,17.3,1.039,0.65,21.19,44070,2.3
+Vermont,Billing and Posting Clerks,880,9.2,2.886,0.91,20.56,42760,2.5
+Vermont,"Bookkeeping, Accounting, and Auditing Clerks",4840,4.9,15.809,1.54,20.62,42890,1.1
+Vermont,Payroll and Timekeeping Clerks,260,8.5,0.845,0.87,22.33,46440,2.1
+Vermont,Procurement Clerks,140,15.3,0.445,0.99,21.17,44040,2.5
+Vermont,Tellers,1010,5.9,3.281,1.09,15.36,31940,1.7
+Vermont,"Financial Clerks, All Other",50,27.8,0.15,0.72,21.44,44590,2.8
+Vermont,Brokerage Clerks,70,36.4,0.231,0.71,27.3,56790,3.8
+Vermont,"Court, Municipal, and License Clerks",870,9.2,2.839,2.71,20.89,43440,2.7
+Vermont,Customer Service Representatives,4290,8.3,14.012,0.71,18.48,38450,1.2
+Vermont,"Eligibility Interviewers, Government Programs",260,1.2,0.85,0.89,25.24,52490,1.9
+Vermont,File Clerks,140,26.1,0.452,0.65,16.31,33920,3.5
+Vermont,"Hotel, Motel, and Resort Desk Clerks",960,9.3,3.121,1.71,13.61,28320,1.9
+Vermont,"Interviewers, Except Eligibility and Loan",280,16.5,0.901,0.7,21.63,44990,5
+Vermont,"Library Assistants, Clerical",230,14.2,0.755,1.29,14.43,30010,2.3
+Vermont,Loan Interviewers and Clerks,190,12.7,0.617,0.43,20.81,43280,1.3
+Vermont,New Accounts Clerks,80,48.8,0.256,0.87,18.67,38830,2.6
+Vermont,Order Clerks,620,13.7,2.027,2.17,17.02,35400,4.6
+Vermont,"Human Resources Assistants, Except Payroll and Timekeeping",160,10.3,0.538,0.67,18.8,39110,1.8
+Vermont,Receptionists and Information Clerks,2470,6,8.064,1.12,15.82,32910,1.7
+Vermont,Reservation and Transportation Ticket Agents and Travel Clerks,230,33.3,0.751,0.89,16.96,35280,7.6
+Vermont,"Information and Record Clerks, All Other",180,9.4,0.59,0.56,21,43680,1.7
+Vermont,Cargo and Freight Agents,**,**,**,**,17.75,36910,12.6
+Vermont,Couriers and Messengers,150,46.1,0.498,0.98,14.13,29390,4.4
+Vermont,Public Safety Telecommunicators,260,10.6,0.852,1.31,22.33,46460,1.7
+Vermont,"Dispatchers, Except Police, Fire, and Ambulance",290,14.9,0.952,0.7,23.05,47950,4.1
+Vermont,Postal Service Clerks,460,0,1.485,2.69,23,47850,0.4
+Vermont,Postal Service Mail Carriers,790,0,2.582,1.12,24.28,50500,0.6
+Vermont,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",160,0,0.535,0.77,24.53,51030,2
+Vermont,"Production, Planning, and Expediting Clerks",680,5.9,2.214,0.88,22.27,46320,2
+Vermont,"Shipping, Receiving, and Inventory Clerks",1340,5.3,4.383,0.91,17.11,35580,1.4
+Vermont,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",110,12.7,0.37,0.89,23.22,48290,4.9
+Vermont,Executive Secretaries and Executive Administrative Assistants,1380,5.4,4.496,1.22,26.89,55930,1.3
+Vermont,Legal Secretaries and Administrative Assistants,350,34.2,1.139,0.99,24.94,51870,6.7
+Vermont,Medical Secretaries and Administrative Assistants,1780,7,5.805,1.41,19.14,39810,1.5
+Vermont,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",5460,4.9,17.839,1.29,18.51,38500,1.1
+Vermont,Data Entry Keyers,470,18.9,1.529,1.4,16.7,34740,1.8
+Vermont,Desktop Publishers,**,**,**,**,22.1,45980,3.3
+Vermont,Insurance Claims and Policy Processing Clerks,390,34.4,1.289,0.74,21.05,43790,1.8
+Vermont,"Mail Clerks and Mail Machine Operators, Except Postal Service",470,6.9,1.526,2.68,17.46,36320,3
+Vermont,"Office Clerks, General",1510,5.7,4.937,0.25,18.49,38460,1.4
+Vermont,"Office Machine Operators, Except Computer",80,47.3,0.254,0.81,15.49,32210,3.2
+Vermont,Proofreaders and Copy Markers,**,**,**,**,16.12,33530,3.4
+Vermont,"Office and Administrative Support Workers, All Other",120,5.9,0.396,0.31,23.53,48950,8.4
+Vermont,"Farming, Fishing, and Forestry Occupations",1200,17.1,3.925,1.19,18.1,37650,3.3
+Vermont,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",100,30.8,0.318,2.07,24.83,51640,9.6
+Vermont,Agricultural Inspectors,60,4.1,0.21,2.24,28.2,58660,2.4
+Vermont,"Graders and Sorters, Agricultural Products",**,**,**,**,14.18,29500,4.9
+Vermont,Agricultural Equipment Operators,70,40.2,0.214,1.17,16.2,33690,6.8
+Vermont,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",490,34.7,1.615,0.8,16.22,33740,3.1
+Vermont,"Farmworkers, Farm, Ranch, and Aquacultural Animals",150,28.3,0.494,1.98,16.68,34690,4.1
+Vermont,Fallers,50,36.9,0.176,5.29,18.96,39450,8.4
+Vermont,Logging Equipment Operators,40,45.9,0.132,0.75,22.03,45830,11.3
+Vermont,Log Graders and Scalers,40,38.7,0.119,5.32,26.18,54460,9.8
+Vermont,"Logging Workers, All Other",**,**,**,**,14.21,29550,12.7
+Vermont,Construction and Extraction Occupations,14320,2.7,46.764,1.11,22.48,46750,1
+Vermont,First-Line Supervisors of Construction Trades and Extraction Workers,1490,6,4.851,1.14,32.39,67370,1.9
+Vermont,Brickmasons and Blockmasons,80,20,0.276,0.67,23.77,49440,5.8
+Vermont,Stonemasons,60,43.6,0.202,2.39,22.62,47040,8.8
+Vermont,Carpenters,2620,7.9,8.562,1.71,22.15,46070,2.5
+Vermont,Carpet Installers,90,30.4,0.307,1.73,21.77,45290,5.9
+Vermont,Tile and Stone Setters,30,38.7,0.113,0.41,22.38,46550,2.9
+Vermont,Cement Masons and Concrete Finishers,230,20.1,0.759,0.57,22.6,47010,8
+Vermont,Construction Laborers,1730,10.4,5.649,0.81,18.2,37850,1.9
+Vermont,Operating Engineers and Other Construction Equipment Operators,1000,13.1,3.255,1.18,20.9,43480,2.1
+Vermont,Drywall and Ceiling Tile Installers,140,27.8,0.464,0.66,20.53,42700,1.8
+Vermont,Electricians,1130,7.8,3.689,0.79,25.51,53060,3.3
+Vermont,Glaziers,70,47.1,0.219,0.61,22.53,46860,3.2
+Vermont,"Insulation Workers, Floor, Ceiling, and Wall",60,40.3,0.21,0.92,20.98,43640,7.1
+Vermont,"Painters, Construction and Maintenance",560,13,1.814,1.14,20.03,41670,2.8
+Vermont,Pipelayers,100,39.8,0.334,1.35,21.32,44340,4.9
+Vermont,"Plumbers, Pipefitters, and Steamfitters",920,15.8,2.992,0.99,24.84,51670,2.6
+Vermont,Roofers,370,17.3,1.2,1.36,18.42,38310,3.1
+Vermont,Sheet Metal Workers,250,18,0.817,0.91,22.96,47770,4.2
+Vermont,Structural Iron and Steel Workers,30,27.3,0.104,0.2,*,*,*
+Vermont,Solar Photovoltaic Installers,**,**,**,**,21.66,45060,4.2
+Vermont,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",110,33.5,0.375,2.34,17.32,36030,5.1
+Vermont,Helpers--Carpenters,250,22.2,0.804,3.59,15.82,32890,3.5
+Vermont,Helpers--Electricians,70,44.8,0.221,0.41,16.96,35270,7.3
+Vermont,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",**,**,**,**,14.09,29310,5.5
+Vermont,Construction and Building Inspectors,200,13.5,0.655,0.87,30.95,64390,4.8
+Vermont,Fence Erectors,100,39.8,0.317,1.8,19.87,41330,11.9
+Vermont,Hazardous Materials Removal Workers,80,20.1,0.277,0.92,19.22,39970,3
+Vermont,Highway Maintenance Workers,1000,9.2,3.262,3.18,20.26,42140,1.5
+Vermont,Rail-Track Laying and Maintenance Equipment Operators,**,**,**,**,24.33,50600,6.8
+Vermont,Septic Tank Servicers and Sewer Pipe Cleaners,60,32.9,0.205,1.01,18.96,39440,2.8
+Vermont,Miscellaneous Construction and Related Workers,50,31,0.176,0.81,20.93,43530,8.8
+Vermont,"Excavating and Loading Machine and Dragline Operators, Surface Mining",**,**,**,**,20.11,41830,2.7
+Vermont,"Rock Splitters, Quarry",**,**,**,**,18.55,38580,8.4
+Vermont,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",70,40.7,0.213,1.25,22.44,46680,8.1
+Vermont,"Installation, Maintenance, and Repair Occupations",11720,3.4,38.258,0.98,23.49,48860,1.3
+Vermont,"First-Line Supervisors of Mechanics, Installers, and Repairers",970,5.8,3.167,0.96,32,66550,2
+Vermont,"Computer, Automated Teller, and Office Machine Repairers",70,32.7,0.232,0.35,19.26,40060,6
+Vermont,"Radio, Cellular, and Tower Equipment Installers and Repairers",60,41.9,0.199,2.04,28.83,59960,10.9
+Vermont,"Telecommunications Equipment Installers and Repairers, Except Line Installers",180,26,0.571,0.4,28.31,58890,8.2
+Vermont,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",140,41.3,0.457,1.14,29.35,61040,4.7
+Vermont,Audiovisual Equipment Installers and Repairers,**,**,**,**,21.79,45310,2.3
+Vermont,Security and Fire Alarm Systems Installers,150,35,0.487,1,23.45,48770,6.3
+Vermont,Aircraft Mechanics and Service Technicians,150,19.6,0.498,0.55,29.94,62270,5.4
+Vermont,Automotive Body and Related Repairers,400,13.6,1.305,1.33,21.87,45500,3.9
+Vermont,Automotive Glass Installers and Repairers,80,46.8,0.262,1.99,20.29,42210,7.4
+Vermont,Automotive Service Technicians and Mechanics,1590,10.6,5.19,1.16,19.72,41020,2.5
+Vermont,Bus and Truck Mechanics and Diesel Engine Specialists,590,17.4,1.937,1.07,22.95,47730,2.4
+Vermont,Farm Equipment Mechanics and Service Technicians,80,28.3,0.276,1.12,23.9,49720,6.2
+Vermont,"Mobile Heavy Equipment Mechanics, Except Engines",250,14.8,0.806,0.8,22.92,47680,2.7
+Vermont,Motorboat Mechanics and Service Technicians,60,22.1,0.197,1.26,19.51,40580,5.4
+Vermont,Motorcycle Mechanics,70,27.5,0.215,2.02,16.61,34540,5.7
+Vermont,Outdoor Power Equipment and Other Small Engine Mechanics,150,34.3,0.473,2.16,18.35,38170,4.9
+Vermont,Bicycle Repairers,190,36.7,0.624,6.95,13.57,28230,6.9
+Vermont,Tire Repairers and Changers,180,39.8,0.584,0.77,14.68,30530,5
+Vermont,Mechanical Door Repairers,**,**,**,**,16.93,35220,8
+Vermont,"Control and Valve Installers and Repairers, Except Mechanical Door",110,23.6,0.368,1.03,27.06,56280,8.3
+Vermont,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",860,17.3,2.811,1.21,25.44,52920,2.1
+Vermont,Home Appliance Repairers,70,35.8,0.227,1.07,22.63,47070,6.4
+Vermont,Industrial Machinery Mechanics,640,8.6,2.081,0.79,25.72,53490,3.4
+Vermont,"Maintenance Workers, Machinery",60,16.8,0.184,0.37,21.34,44380,4.1
+Vermont,Millwrights,50,12.1,0.178,0.55,23.61,49100,3.9
+Vermont,Electrical Power-Line Installers and Repairers,370,25.1,1.196,1.57,41.46,86240,1.9
+Vermont,Telecommunications Line Installers and Repairers,350,36.4,1.133,1.38,29.44,61230,4
+Vermont,Medical Equipment Repairers,**,**,**,**,24.03,49970,6
+Vermont,"Maintenance and Repair Workers, General",2910,4.9,9.511,0.98,20.21,42030,1.4
+Vermont,Wind Turbine Service Technicians,**,**,**,**,28.05,58340,4.5
+Vermont,"Coin, Vending, and Amusement Machine Servicers and Repairers",**,**,**,**,17.87,37180,2.4
+Vermont,Commercial Divers,40,30.6,0.125,5.38,30.87,64210,15.7
+Vermont,"Helpers--Installation, Maintenance, and Repair Workers",120,30.3,0.386,0.57,15.2,31620,3.7
+Vermont,"Installation, Maintenance, and Repair Workers, All Other",250,21.4,0.822,0.75,21.3,44290,9.3
+Vermont,Production Occupations,20130,3.6,65.731,1.05,19.85,41290,2.7
+Vermont,First-Line Supervisors of Production and Operating Workers,1440,5,4.707,1.1,30.4,63230,1.7
+Vermont,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",860,40.2,2.796,1.44,18.88,39280,2.1
+Vermont,Structural Metal Fabricators and Fitters,40,31.8,0.143,0.27,21.1,43890,4.8
+Vermont,Miscellaneous Assemblers and Fabricators,1600,13.2,5.215,0.56,15.51,32250,1.4
+Vermont,Bakers,760,10.5,2.471,1.96,16.53,34380,5.6
+Vermont,Butchers and Meat Cutters,180,14.4,0.58,0.62,17.99,37410,3.2
+Vermont,"Meat, Poultry, and Fish Cutters and Trimmers",50,45.9,0.148,0.14,17.01,35390,7.3
+Vermont,Slaughterers and Meat Packers,130,40.4,0.415,0.83,15.29,31810,3.5
+Vermont,Food Batchmakers,840,12.3,2.745,2.53,17.91,37240,3
+Vermont,"Food Processing Workers, All Other",210,26.2,0.67,2.29,16.82,34990,4.7
+Vermont,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",100,35.2,0.333,0.64,15.5,32240,4.3
+Vermont,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",140,21.9,0.47,0.35,19.03,39580,4.9
+Vermont,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",230,9.4,0.742,1.42,17.39,36170,2.9
+Vermont,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",90,25.5,0.29,1.52,19.37,40280,3.8
+Vermont,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",40,28.8,0.132,1.03,18.73,38960,4.3
+Vermont,Machinists,660,11.1,2.141,0.82,20.98,43630,3.3
+Vermont,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",400,23.6,1.304,1.11,15.92,33120,3.3
+Vermont,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",300,41.4,0.981,0.98,18.3,38060,3.9
+Vermont,Tool and Die Makers,190,8.2,0.633,1.31,27.62,57450,6.8
+Vermont,"Welders, Cutters, Solderers, and Brazers",390,12.6,1.288,0.46,20.23,42070,2.8
+Vermont,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",110,27.3,0.369,1.29,14.49,30140,4.4
+Vermont,"Tool Grinders, Filers, and Sharpeners",60,38.6,0.205,4.67,19.81,41210,5.8
+Vermont,Prepress Technicians and Workers,100,11.4,0.316,1.53,22.84,47510,5.8
+Vermont,Printing Press Operators,290,12.1,0.957,0.81,18.5,38480,3.5
+Vermont,Print Binding and Finishing Workers,190,23.4,0.618,1.99,18.38,38230,4.3
+Vermont,Laundry and Dry-Cleaning Workers,350,12.9,1.137,0.8,12.31,25610,1.4
+Vermont,Sewing Machine Operators,130,22.8,0.42,0.46,13.7,28500,3.8
+Vermont,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",50,9.9,0.173,0.82,16,33280,6.7
+Vermont,Upholsterers,**,**,**,**,15.61,32480,5.2
+Vermont,Cabinetmakers and Bench Carpenters,310,14.6,1.009,1.49,18.83,39160,5.1
+Vermont,Furniture Finishers,120,13.7,0.399,3.62,14.54,30250,3.1
+Vermont,"Sawing Machine Setters, Operators, and Tenders, Wood",170,23.6,0.554,1.6,20.36,42340,6.3
+Vermont,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",370,26.1,1.216,2.27,15.78,32820,3
+Vermont,Power Plant Operators,90,32.2,0.309,1.35,34.55,71860,3.7
+Vermont,Stationary Engineers and Boiler Operators,50,21.7,0.162,0.73,22.82,47460,4
+Vermont,Water and Wastewater Treatment Plant and System Operators,440,14,1.42,1.69,22.44,46670,3.8
+Vermont,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",320,15.4,1.06,3.04,19.7,40970,3.6
+Vermont,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",130,14.5,0.427,1.88,23.24,48330,3.8
+Vermont,"Grinding and Polishing Workers, Hand",80,17.4,0.276,1.39,16.18,33660,12.6
+Vermont,"Mixing and Blending Machine Setters, Operators, and Tenders",220,14.6,0.713,0.84,18.26,37980,2.6
+Vermont,"Cutters and Trimmers, Hand",60,13.4,0.198,3,18.93,39380,4.8
+Vermont,"Cutting and Slicing Machine Setters, Operators, and Tenders",230,28,0.742,1.88,19.7,40980,8.8
+Vermont,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",250,32.9,0.83,1.7,16.28,33860,2.6
+Vermont,"Inspectors, Testers, Sorters, Samplers, and Weighers",1080,9.4,3.521,0.9,21.38,44460,4.1
+Vermont,Jewelers and Precious Stone and Metal Workers,70,27.1,0.243,1.51,21.65,45030,5.5
+Vermont,Ophthalmic Laboratory Technicians,**,**,**,**,18.51,38500,2.9
+Vermont,Packaging and Filling Machine Operators and Tenders,820,14,2.67,1,16.43,34170,4.2
+Vermont,"Painting, Coating, and Decorating Workers",40,38.1,0.125,1.48,17.22,35810,2.7
+Vermont,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",270,12.5,0.884,0.89,18.01,37460,3.3
+Vermont,Computer Numerically Controlled Tool Operators,1290,2.3,4.212,4.08,29.58,61530,9.1
+Vermont,Computer Numerically Controlled Tool Programmers,90,13.8,0.283,1.63,27.69,57600,2.1
+Vermont,Adhesive Bonding Machine Operators and Tenders,90,25.1,0.279,2.95,16.11,33510,2.8
+Vermont,Etchers and Engravers,**,**,**,**,16.67,34670,2.9
+Vermont,"Molders, Shapers, and Casters, Except Metal and Plastic",**,**,**,**,20.58,42800,5.9
+Vermont,"Paper Goods Machine Setters, Operators, and Tenders",300,25.3,0.974,1.43,19.37,40300,6.3
+Vermont,Helpers--Production Workers,290,22,0.949,0.46,15.67,32580,3.9
+Vermont,"Production Workers, All Other",360,24.8,1.191,0.79,15.84,32950,3.7
+Vermont,Transportation and Material Moving Occupations,18740,3.4,61.185,0.72,18.15,37760,1.2
+Vermont,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",710,8.1,2.327,0.75,27.1,56370,2.1
+Vermont,Commercial Pilots,**,**,**,**,*,105970,10.2
+Vermont,Air Traffic Controllers,30,0,0.101,0.67,38.13,79300,*
+Vermont,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",140,34.7,0.453,4.52,13.82,28730,5.3
+Vermont,Driver/Sales Workers,880,19,2.882,0.95,15.89,33050,3.7
+Vermont,Heavy and Tractor-Trailer Truck Drivers,2950,8.2,9.636,0.76,22.19,46140,2.3
+Vermont,Light Truck Drivers,2230,10.6,7.274,1.16,18.89,39300,3.7
+Vermont,"Bus Drivers, Transit and Intercity",**,**,**,**,21.1,43880,4.5
+Vermont,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",1710,14.3,5.572,1.17,18.04,37520,4.2
+Vermont,"Motor Vehicle Operators, All Other",80,17.2,0.245,0.64,17.47,36340,8.3
+Vermont,Parking Attendants,90,21.1,0.304,0.3,14.05,29220,2.2
+Vermont,Automotive and Watercraft Service Attendants,50,39.1,0.175,0.22,12.66,26330,3.7
+Vermont,Crane and Tower Operators,60,21.2,0.202,0.65,26.2,54490,3.3
+Vermont,Industrial Truck and Tractor Operators,620,10.3,2.029,0.47,18.58,38650,2.8
+Vermont,Cleaners of Vehicles and Equipment,680,13.9,2.21,0.85,14.55,30260,3.2
+Vermont,"Laborers and Freight, Stock, and Material Movers, Hand",2940,7.3,9.587,0.48,16.23,33760,2.9
+Vermont,Machine Feeders and Offbearers,70,23.8,0.222,0.52,17.02,35410,4.6
+Vermont,"Packers and Packagers, Hand",730,16.8,2.371,0.55,14.3,29730,2.5
+Vermont,Stockers and Order Fillers,3700,6.7,12.094,0.83,15.23,31680,2.2
+Vermont,Refuse and Recyclable Material Collectors,320,18.9,1.06,1.28,17.47,36340,1.9
+Vermont,"Material Moving Workers, All Other",60,33.4,0.196,1.02,14.52,30190,5.4

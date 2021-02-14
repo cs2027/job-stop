@@ -51,23 +51,28 @@ class _2State2JobOutputA: UIViewController {
         }
         
         // Format annual incomes nicely with commas, correct # of decimals
-        let numberFormatter = NumberFormatter()
-        numberFormatter.numberStyle = .decimal
-        numberFormatter.maximumFractionDigits = 2
-        annualIncomeParsed1 = numberFormatter.string(from: NSNumber(value: selectedJob1.annualSalary))
-        annualIncomeParsed2 = numberFormatter.string(from: NSNumber(value: selectedJob2.annualSalary))
-        adjustedAnnualParsed1 = numberFormatter.string(from: NSNumber(value: Int(Double(selectedJob1.annualSalary) / stateCostOfLiving1)))
-        adjustedAnnualParsed2 = numberFormatter.string(from: NSNumber(value: Int(Double(selectedJob2.annualSalary) / stateCostOfLiving2)))
-        adjustedHourlyParsed1 = numberFormatter.string(from: NSNumber(value: Double(selectedJob1.hourlySalary) / stateCostOfLiving1))
-        adjustedHourlyParsed2 = numberFormatter.string(from: NSNumber(value: Double(selectedJob2.hourlySalary) / stateCostOfLiving2))
+        let NFAnnual = NumberFormatter()
+        NFAnnual.numberStyle = .decimal
+        
+        let NFHourly = NumberFormatter()
+        NFHourly.numberStyle = .decimal
+        NFHourly.minimumFractionDigits = 2
+        NFHourly.maximumFractionDigits = 2
+        
+        annualIncomeParsed1 = NFAnnual.string(from: NSNumber(value: selectedJob1.annualSalary))
+        annualIncomeParsed2 = NFAnnual.string(from: NSNumber(value: selectedJob2.annualSalary))
+        adjustedAnnualParsed1 = NFAnnual.string(from: NSNumber(value: Int(Double(selectedJob1.annualSalary) / stateCostOfLiving1)))
+        adjustedAnnualParsed2 = NFAnnual.string(from: NSNumber(value: Int(Double(selectedJob2.annualSalary) / stateCostOfLiving2)))
+        adjustedHourlyParsed1 = NFHourly.string(from: NSNumber(value: Double(selectedJob1.hourlySalary) / stateCostOfLiving1))
+        adjustedHourlyParsed2 = NFHourly.string(from: NSNumber(value: Double(selectedJob2.hourlySalary) / stateCostOfLiving2))
         
         // Display the appropriate data in our view, adjusting the font size as needed
-        let jobText1 = "Income Data \(stateName1!): \(selectedJob1.title)"
+        let jobText1 = "Income Data (\(stateName1!)): \(selectedJob1.title)"
         let jobFontSize1 = Globals.singleton.maxFontSize(s: jobText1, maxChars: 70, defaultSize: 32)
         jobTextView1.text = jobText1
         jobTextView1.font = jobTextView1.font?.withSize(CGFloat(jobFontSize1))
         
-        let jobText2 = "Income Data \(stateName2!): \(selectedJob2.title)"
+        let jobText2 = "Income Data (\(stateName2!)): \(selectedJob2.title)"
         let jobFontSize2 = Globals.singleton.maxFontSize(s: jobText2, maxChars: 70, defaultSize: 32)
         jobTextView2.text = jobText2
         jobTextView2.font = jobTextView2.font?.withSize(CGFloat(jobFontSize2))

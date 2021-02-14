@@ -1,0 +1,648 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+New Mexico,All Occupations,823570,0.6,1000,1,22.61,47040,2
+New Mexico,Management Occupations,37460,1.6,45.484,0.83,48.35,100580,1.9
+New Mexico,General and Operations Managers,14730,2.6,17.887,1.09,50.21,104430,1.5
+New Mexico,Legislators,500,6.4,0.606,1.7,*,23520,1.9
+New Mexico,Advertising and Promotions Managers,50,29.6,0.055,0.32,64,133130,9.9
+New Mexico,Marketing Managers,340,10.7,0.415,0.23,47.27,98330,2.6
+New Mexico,Sales Managers,1130,6.4,1.368,0.5,53.64,111570,4.6
+New Mexico,Public Relations and Fundraising Managers,200,7.5,0.238,0.44,56.34,117180,4.9
+New Mexico,Administrative Services and Facilities Managers,1670,5.4,2.033,0.97,46.59,96910,1.5
+New Mexico,Computer and Information Systems Managers,1070,3.7,1.293,0.44,56.74,118020,3.5
+New Mexico,Financial Managers,2090,3.6,2.533,0.57,51.57,107260,1.9
+New Mexico,Industrial Production Managers,380,6.3,0.464,0.37,55.59,115620,2
+New Mexico,Purchasing Managers,210,6.4,0.26,0.53,49.29,102510,2.3
+New Mexico,"Transportation, Storage, and Distribution Managers",380,11,0.462,0.51,40.18,83570,2.6
+New Mexico,Compensation and Benefits Managers,40,12.1,0.053,0.46,45.95,95570,4
+New Mexico,Human Resources Managers,440,4.7,0.534,0.51,49.95,103890,2.1
+New Mexico,Training and Development Managers,100,8.5,0.12,0.46,48.44,100760,3.5
+New Mexico,Construction Managers,1530,9.1,1.859,0.93,44.93,93440,2.2
+New Mexico,"Education and Childcare Administrators, Preschool and Daycare",250,23.4,0.306,0.86,24.49,50940,6.4
+New Mexico,"Education Administrators, Kindergarten through Secondary",1600,5.4,1.942,1.05,*,84220,2.3
+New Mexico,"Education Administrators, Postsecondary",620,5,0.755,0.77,44.41,92370,3
+New Mexico,"Education Administrators, All Other",250,5.5,0.3,0.99,33.66,70020,2.4
+New Mexico,Architectural and Engineering Managers,1530,5.5,1.861,1.41,79.39,165130,5.6
+New Mexico,Food Service Managers,1130,13.2,1.374,0.86,28.53,59350,2.2
+New Mexico,Gambling Managers,70,10.3,0.084,2.77,39.43,82020,3.9
+New Mexico,Lodging Managers,290,11.6,0.354,1.36,32.49,67580,4.6
+New Mexico,Medical and Health Services Managers,1710,3.6,2.077,0.77,60.97,126820,5.3
+New Mexico,Natural Sciences Managers,350,7,0.419,0.91,49.05,102030,4.3
+New Mexico,Postmasters and Mail Superintendents,150,0,0.182,1.93,33.35,69380,0.8
+New Mexico,"Property, Real Estate, and Community Association Managers",1010,12.7,1.22,0.81,25.8,53670,9.2
+New Mexico,Social and Community Service Managers,650,5.7,0.785,0.74,31.93,66400,2.1
+New Mexico,Emergency Management Directors,110,2.5,0.128,1.87,44.92,93440,5.4
+New Mexico,Funeral Home Managers,50,18.5,0.056,0.87,28.32,58910,5.5
+New Mexico,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",2790,6.5,3.389,1.05,46.18,96060,1.3
+New Mexico,Business and Financial Operations Occupations,38430,1.8,46.667,0.84,33.75,70200,3.3
+New Mexico,Buyers and Purchasing Agents,1840,5.4,2.23,0.78,29.99,62390,4.7
+New Mexico,"Claims Adjusters, Examiners, and Investigators",1170,9.6,1.416,0.72,30.37,63170,3.8
+New Mexico,Compliance Officers,1550,7.1,1.887,0.87,31.48,65470,3.4
+New Mexico,Cost Estimators,1010,10.8,1.226,0.86,28.58,59450,3.7
+New Mexico,Human Resources Specialists,3040,3.2,3.693,0.86,28.61,59510,3
+New Mexico,Labor Relations Specialists,200,12.4,0.243,0.47,26.79,55720,13.2
+New Mexico,Logisticians,820,13.3,0.997,0.8,38.84,80800,2
+New Mexico,Management Analysts,3180,3.8,3.866,0.8,38.18,79410,2.8
+New Mexico,"Meeting, Convention, and Event Planners",450,13.3,0.546,0.68,19.57,40710,4.1
+New Mexico,Fundraisers,350,13.3,0.424,0.76,26.19,54480,5.5
+New Mexico,"Compensation, Benefits, and Job Analysis Specialists",220,4.7,0.273,0.45,26.72,55580,2.2
+New Mexico,Training and Development Specialists,2360,4.4,2.861,1.34,27.37,56920,2.5
+New Mexico,Market Research Analysts and Marketing Specialists,1880,6,2.278,0.49,26.52,55160,2.2
+New Mexico,"Project Management Specialists and Business Operations Specialists, All Other",8220,3.7,9.985,1.15,42.83,89090,9.3
+New Mexico,Accountants and Auditors,5950,3,7.222,0.83,31.14,64770,1.6
+New Mexico,Property Appraisers and Assessors,480,10.5,0.578,1.51,24.24,50410,2.7
+New Mexico,Budget Analysts,580,1.7,0.706,2.01,36.65,76220,2
+New Mexico,Credit Analysts,140,24.2,0.17,0.34,32.3,67180,4.7
+New Mexico,Personal Financial Advisors,310,13.7,0.372,0.26,60,124790,12.5
+New Mexico,Insurance Underwriters,220,21.9,0.27,0.4,31.72,65980,7.5
+New Mexico,Financial Examiners,80,14.9,0.099,0.22,39.45,82050,10.3
+New Mexico,Credit Counselors,410,3.5,0.501,2.29,18.66,38820,1.6
+New Mexico,Loan Officers,1550,9,1.881,0.9,29.42,61190,5
+New Mexico,"Tax Examiners and Collectors, and Revenue Agents",180,0,0.22,0.6,23.68,49250,1.9
+New Mexico,Tax Preparers,370,23.8,0.45,0.99,20.84,43340,9.6
+New Mexico,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",1870,11,2.266,0.73,40.64,84540,5.1
+New Mexico,Computer and Mathematical Occupations,16280,2.3,19.762,0.64,37.01,76990,3.6
+New Mexico,Computer Systems Analysts,1590,8.3,1.932,0.48,38.41,79900,2.8
+New Mexico,Information Security Analysts,960,6.9,1.17,1.37,52.67,109550,2.9
+New Mexico,Computer and Information Research Scientists,730,7,0.886,4.23,62.48,129950,3.5
+New Mexico,Computer Network Support Specialists,1230,6,1.493,1.18,27.69,57600,2.5
+New Mexico,Computer User Support Specialists,2820,5.9,3.418,0.78,20.37,42360,2.5
+New Mexico,Computer Network Architects,510,13.2,0.615,0.59,46.89,97540,2.6
+New Mexico,Network and Computer Systems Administrators,1670,4.9,2.022,0.84,36.34,75590,1.7
+New Mexico,Database Administrators and Architects,560,9.2,0.681,0.8,37.37,77730,3.3
+New Mexico,Computer Programmers,720,17.8,0.88,0.65,34.12,70970,3.9
+New Mexico,Software Developers and Software Quality Assurance Analysts and Testers,3490,6.8,4.238,0.44,42.78,88980,4.1
+New Mexico,Web Developers and Digital Interface Designers,280,21.6,0.335,0.33,28.46,59200,2.4
+New Mexico,"Computer Occupations, All Other",1200,6.6,1.455,0.54,36.84,76630,2.7
+New Mexico,Mathematicians,60,16.7,0.067,3.74,60.04,124870,5.5
+New Mexico,Operations Research Analysts,340,9.4,0.407,0.6,41.39,86100,3.6
+New Mexico,Statisticians,90,12.6,0.107,0.4,39.62,82400,5.4
+New Mexico,"Data Scientists and Mathematical Science Occupations, All Other",30,19.2,0.039,0.19,32.72,68050,4.1
+New Mexico,Architecture and Engineering Occupations,20720,2.6,25.154,1.42,47.45,98700,4.5
+New Mexico,"Architects, Except Landscape and Naval",360,11.9,0.432,0.6,36.28,75450,3.9
+New Mexico,Landscape Architects,110,28.3,0.135,0.98,29.52,61400,7
+New Mexico,Surveyors,300,11.6,0.365,1.18,38.29,79630,9.5
+New Mexico,Aerospace Engineers,610,10.5,0.746,1.73,49.25,102430,2.9
+New Mexico,Chemical Engineers,110,30.4,0.138,0.67,58.72,122140,3.1
+New Mexico,Civil Engineers,1500,7.5,1.822,0.86,42.72,88850,1.8
+New Mexico,Electrical Engineers,1330,6.1,1.614,1.28,56.34,117190,4
+New Mexico,"Electronics Engineers, Except Computer",840,4,1.016,1.16,54.48,113330,4.9
+New Mexico,Environmental Engineers,380,16.9,0.464,1.28,43.09,89620,3.5
+New Mexico,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",260,6.4,0.321,1.82,56.4,117310,3
+New Mexico,Industrial Engineers,530,15,0.643,0.32,50.6,105240,4.3
+New Mexico,Materials Engineers,390,5.6,0.477,2.61,58.63,121950,4.7
+New Mexico,Mechanical Engineers,1250,3.7,1.519,0.73,55.01,114420,4.6
+New Mexico,"Mining and Geological Engineers, Including Mining Safety Engineers",270,15.3,0.324,7.57,61.35,127600,4.8
+New Mexico,Nuclear Engineers,730,2.7,0.89,8.25,*,*,*
+New Mexico,Petroleum Engineers,380,24,0.463,2.09,*,*,*
+New Mexico,"Engineers, All Other",2170,4.2,2.632,2.54,57.05,118670,2.1
+New Mexico,Architectural and Civil Drafters,720,12.5,0.872,1.3,24.98,51960,2.5
+New Mexico,Electrical and Electronics Drafters,210,8.1,0.258,1.57,38.7,80490,5.3
+New Mexico,Mechanical Drafters,190,9,0.225,0.6,28.97,60250,4
+New Mexico,"Drafters, All Other",50,34,0.063,0.63,28.46,59190,11.7
+New Mexico,Aerospace Engineering and Operations Technologists and Technicians,180,16.2,0.222,2.82,33.01,68650,3.4
+New Mexico,Civil Engineering Technologists and Technicians,950,7.1,1.159,2.47,22.32,46430,1.7
+New Mexico,Electrical and Electronic Engineering Technologists and Technicians,1230,10,1.493,1.79,30.82,64110,3.5
+New Mexico,Environmental Engineering Technologists and Technicians,60,9.5,0.076,0.62,26.2,54490,3.2
+New Mexico,Industrial Engineering Technologists and Technicians,**,**,**,**,38.84,80790,2.6
+New Mexico,Mechanical Engineering Technologists and Technicians,150,7.9,0.182,0.63,37.39,77780,3
+New Mexico,Surveying and Mapping Technicians,800,6.9,0.969,2.68,23.45,48780,2.3
+New Mexico,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",2310,4.2,2.804,4.66,42.18,87730,6
+New Mexico,"Life, Physical, and Social Science Occupations",12190,3.4,14.806,1.69,40.4,84030,8
+New Mexico,Soil and Plant Scientists,90,31.1,0.104,1.08,31.9,66360,8.1
+New Mexico,Microbiologists,60,4.8,0.072,0.58,24.17,50280,5.2
+New Mexico,Zoologists and Wildlife Biologists,210,12.1,0.254,1.93,29.57,61500,3.8
+New Mexico,"Biological Scientists, All Other",330,8.8,0.406,1.49,37.11,77190,1.4
+New Mexico,Conservation Scientists,220,9.7,0.271,1.8,33,68640,2.2
+New Mexico,Foresters,90,5.7,0.109,1.68,25.51,53070,1.1
+New Mexico,Epidemiologists,100,7.8,0.122,2.42,32.72,68060,3.2
+New Mexico,"Medical Scientists, Except Epidemiologists",500,12.5,0.603,0.7,39.44,82030,5.5
+New Mexico,"Life Scientists, All Other",90,3.6,0.104,2.37,28.42,59100,4.5
+New Mexico,Astronomers,30,14.3,0.04,2.87,37.02,77000,8.6
+New Mexico,Physicists,1740,1.3,2.109,18.52,80.16,166720,7.3
+New Mexico,Atmospheric and Space Scientists,80,3.1,0.103,1.62,47.91,99650,3.2
+New Mexico,Chemists,310,13.1,0.379,0.67,41.1,85480,6
+New Mexico,Materials Scientists,80,3.9,0.098,2.14,*,*,*
+New Mexico,"Environmental Scientists and Specialists, Including Health",1270,6.9,1.543,2.69,37.45,77900,4.9
+New Mexico,"Geoscientists, Except Hydrologists and Geographers",330,15.9,0.398,2,38.84,80790,3.8
+New Mexico,Hydrologists,160,16.8,0.191,4.36,41.95,87250,9.8
+New Mexico,"Physical Scientists, All Other",470,0.5,0.57,4.77,57.19,118970,4.7
+New Mexico,Economists,**,**,**,**,44.02,91560,4.7
+New Mexico,Survey Researchers,50,4.1,0.063,0.92,19.26,40060,3.9
+New Mexico,"Clinical, Counseling, and School Psychologists",790,17.1,0.962,1.25,35.36,73550,2.9
+New Mexico,"Psychologists, All Other",90,0,0.104,1.07,40.17,83560,2
+New Mexico,Urban and Regional Planners,540,16.7,0.657,2.5,28,58240,1.2
+New Mexico,Anthropologists and Archeologists,250,12.1,0.307,6.7,29.43,61220,2.5
+New Mexico,Historians,50,23.9,0.055,2.65,36.03,74950,4.7
+New Mexico,"Social Scientists and Related Workers, All Other",170,5.2,0.208,0.91,37.98,79010,2.3
+New Mexico,Agricultural and Food Science Technicians,60,3.9,0.079,0.53,19.78,41140,2.2
+New Mexico,Biological Technicians,240,21.4,0.292,0.54,20.69,43030,2.4
+New Mexico,Chemical Technicians,260,39,0.314,0.7,*,*,*
+New Mexico,"Environmental Science and Protection Technicians, Including Health",520,18.6,0.625,2.82,23.13,48110,3.1
+New Mexico,Geological and Hydrologic Technicians,110,19.3,0.128,1.1,29.38,61110,5.3
+New Mexico,Nuclear Technicians,230,35.9,0.278,6.36,*,*,*
+New Mexico,Forest and Conservation Technicians,560,9.9,0.683,5.27,20.57,42780,1.8
+New Mexico,Forensic Science Technicians,240,0.4,0.29,2.58,20.85,43370,5.6
+New Mexico,"Life, Physical, and Social Science Technicians, All Other",310,7.2,0.378,0.86,21.5,44710,2.3
+New Mexico,Occupational Health and Safety Specialists,960,3.4,1.167,1.85,35.7,74260,2.9
+New Mexico,Occupational Health and Safety Technicians,140,13.8,0.174,1.25,28.9,60120,4.7
+New Mexico,Community and Social Service Occupations,14440,2.2,17.534,1.15,22.74,47300,1.8
+New Mexico,"Educational, Guidance, and Career Counselors and Advisors",1630,3.2,1.979,0.98,27.65,57500,2.8
+New Mexico,Marriage and Family Therapists,130,13.3,0.159,0.4,23.65,49200,3.2
+New Mexico,Rehabilitation Counselors,460,5,0.563,0.76,18.42,38310,1.9
+New Mexico,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1450,7.2,1.767,0.92,24.25,50430,3.4
+New Mexico,"Counselors, All Other",90,22.8,0.104,0.6,21.64,45010,5.7
+New Mexico,"Child, Family, and School Social Workers",2000,6.7,2.43,1.09,21.36,44430,2.1
+New Mexico,Healthcare Social Workers,1420,7.5,1.72,1.44,28.23,58720,1.9
+New Mexico,Mental Health and Substance Abuse Social Workers,380,9.9,0.467,0.58,23.67,49220,2.9
+New Mexico,"Social Workers, All Other",450,1.6,0.541,1.36,27.64,57500,1.9
+New Mexico,Health Education Specialists,840,4.7,1.015,2.54,25.81,53690,3.1
+New Mexico,Probation Officers and Correctional Treatment Specialists,670,2.6,0.818,1.36,22.32,46420,1.7
+New Mexico,Social and Human Service Assistants,3630,5.3,4.41,1.6,16.74,34810,1.4
+New Mexico,Community Health Workers,860,6.6,1.044,2.6,27.87,57980,5.1
+New Mexico,"Community and Social Service Specialists, All Other",230,10.7,0.28,0.42,17.63,36680,2.8
+New Mexico,Clergy,160,10.5,0.195,0.54,26.67,55480,2.6
+New Mexico,Legal Occupations,6050,3.4,7.345,0.94,40.24,83700,4.8
+New Mexico,Lawyers,3560,8.2,4.324,0.97,49.66,103290,5.8
+New Mexico,"Administrative Law Judges, Adjudicators, and Hearing Officers",160,0.7,0.196,2,38.33,79730,9.4
+New Mexico,"Judges, Magistrate Judges, and Magistrates",340,3.2,0.415,2.13,40.15,83510,1.5
+New Mexico,Paralegals and Legal Assistants,1340,14.2,1.624,0.72,23.57,49020,2.9
+New Mexico,"Title Examiners, Abstractors, and Searchers",480,17.2,0.587,1.63,22.41,46620,10.7
+New Mexico,"Legal Support Workers, All Other",120,7.9,0.151,0.49,23.3,48450,2
+New Mexico,Educational Instruction and Library Occupations,53370,1.2,64.805,1.07,24.23,50390,3.8
+New Mexico,"Business Teachers, Postsecondary",240,0.3,0.294,0.52,*,80080,4.3
+New Mexico,"Computer Science Teachers, Postsecondary",110,2.9,0.133,0.62,*,79380,2.5
+New Mexico,"Mathematical Science Teachers, Postsecondary",110,7.5,0.135,0.39,*,58640,5.8
+New Mexico,"Engineering Teachers, Postsecondary",70,3.3,0.088,0.36,*,85110,7
+New Mexico,"Biological Science Teachers, Postsecondary",60,0,0.071,0.2,*,72150,3.3
+New Mexico,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",40,11.8,0.05,0.69,*,53350,11.6
+New Mexico,"Psychology Teachers, Postsecondary",40,0,0.045,0.18,*,66070,4.7
+New Mexico,"Social Sciences Teachers, Postsecondary, All Other",370,0,0.447,3.9,*,87360,3.5
+New Mexico,"Health Specialties Teachers, Postsecondary",**,**,**,**,*,150480,10.9
+New Mexico,"Nursing Instructors and Teachers, Postsecondary",90,6.2,0.111,0.27,*,67410,3.1
+New Mexico,"Education Teachers, Postsecondary",100,0,0.123,0.3,*,67120,10.6
+New Mexico,"Social Work Teachers, Postsecondary",50,0,0.058,0.62,*,*,*
+New Mexico,"Art, Drama, and Music Teachers, Postsecondary",150,11.8,0.176,0.27,*,55680,4.4
+New Mexico,"English Language and Literature Teachers, Postsecondary",100,0,0.127,0.28,*,55730,6.6
+New Mexico,"Foreign Language and Literature Teachers, Postsecondary",**,**,**,**,*,26950,12.3
+New Mexico,"History Teachers, Postsecondary",40,0,0.043,0.3,*,72470,7
+New Mexico,"Career/Technical Education Teachers, Postsecondary",730,12.3,0.888,1.16,24.77,51530,9.2
+New Mexico,"Postsecondary Teachers, All Other",4070,3.5,4.941,3.6,*,74120,4.9
+New Mexico,"Preschool Teachers, Except Special Education",2910,8.3,3.534,1.2,15.94,33160,4.1
+New Mexico,"Kindergarten Teachers, Except Special Education",1370,20.6,1.667,1.97,*,52290,5
+New Mexico,"Elementary School Teachers, Except Special Education",7650,7.9,9.292,0.95,*,57330,3.5
+New Mexico,"Middle School Teachers, Except Special and Career/Technical Education",3250,14.7,3.949,0.93,*,49570,1.7
+New Mexico,"Secondary School Teachers, Except Special and Career/Technical Education",6880,9.3,8.353,1.18,*,57410,3.3
+New Mexico,"Career/Technical Education Teachers, Secondary School",230,11.6,0.284,0.56,*,52140,3
+New Mexico,"Special Education Teachers, Preschool",220,46.5,0.272,1.79,*,51070,7
+New Mexico,"Special Education Teachers, Kindergarten and Elementary School",920,13.4,1.119,0.85,*,52920,4
+New Mexico,"Special Education Teachers, Middle School",510,22.2,0.624,1.07,*,48460,2.2
+New Mexico,"Special Education Teachers, Secondary School",1170,25.8,1.421,1.46,*,55720,5.5
+New Mexico,"Special Education Teachers, All Other",480,19.4,0.587,2.42,*,59150,5.7
+New Mexico,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",410,7.4,0.496,1.4,16.99,35350,9.9
+New Mexico,Self-Enrichment Teachers,1030,10.5,1.246,0.72,18.96,39430,6
+New Mexico,"Substitute Teachers, Short-Term",3020,5.3,3.673,0.92,11.86,24680,3.4
+New Mexico,"Tutors and Teachers and Instructors, All Other",2730,13.2,3.313,1.52,*,58860,7.5
+New Mexico,Archivists,70,8.6,0.088,1.96,24.8,51590,4.5
+New Mexico,Curators,110,7.5,0.138,1.57,25.61,53260,1.8
+New Mexico,Museum Technicians and Conservators,80,14.7,0.102,1.13,19.09,39710,4.9
+New Mexico,Librarians and Media Collections Specialists,700,7.6,0.844,0.91,23.1,48050,3.3
+New Mexico,Library Technicians,630,2.4,0.764,1.27,14.53,30220,2.8
+New Mexico,Instructional Coordinators,580,17.3,0.709,0.59,30.5,63430,2.3
+New Mexico,"Teaching Assistants, Postsecondary",1720,0.9,2.094,2.24,*,26580,4.2
+New Mexico,"Teaching Assistants, Except Postsecondary",7970,4.9,9.677,1.06,*,21550,2.1
+New Mexico,"Educational Instruction and Library Workers, All Other",330,0,0.403,0.46,19.29,40130,1.9
+New Mexico,"Arts, Design, Entertainment, Sports, and Media Occupations",9020,4.2,10.958,0.8,27.9,58030,7.7
+New Mexico,Art Directors,80,16.5,0.098,0.34,41.96,87270,9.8
+New Mexico,Craft Artists,**,**,**,**,16.16,33610,4.6
+New Mexico,"Fine Artists, Including Painters, Sculptors, and Illustrators",50,41.7,0.066,0.78,15.81,32880,13.5
+New Mexico,Special Effects Artists and Animators,160,12,0.2,1,28.54,59360,4.8
+New Mexico,Commercial and Industrial Designers,70,26.7,0.088,0.39,34.27,71290,6.1
+New Mexico,Fashion Designers,80,23.9,0.094,0.63,35.19,73200,6.3
+New Mexico,Floral Designers,190,12.7,0.234,0.82,12.55,26100,4
+New Mexico,Graphic Designers,750,7.6,0.913,0.62,22.23,46250,3.2
+New Mexico,Interior Designers,130,24.3,0.159,0.39,25.56,53160,3
+New Mexico,Merchandise Displayers and Window Trimmers,620,16.6,0.757,0.79,14.35,29860,1.7
+New Mexico,Set and Exhibit Designers,280,17.2,0.344,4.2,27.28,56740,2.9
+New Mexico,Actors,420,19.7,0.515,1.44,*,*,*
+New Mexico,Producers and Directors,510,9.8,0.625,0.71,38.27,79590,8.1
+New Mexico,Coaches and Scouts,680,16.4,0.825,0.5,*,40240,7.1
+New Mexico,"Umpires, Referees, and Other Sports Officials",60,17.7,0.069,0.5,*,28410,5.5
+New Mexico,Musicians and Singers,260,2.7,0.31,1.11,36.71,*,4.4
+New Mexico,Broadcast Announcers and Radio Disc Jockeys,270,12.4,0.329,1.65,16.46,34240,5.7
+New Mexico,"News Analysts, Reporters, and Journalists",170,10.3,0.206,0.69,22.64,47090,4.7
+New Mexico,Public Relations Specialists,1010,5.8,1.225,0.73,28.46,59200,3.1
+New Mexico,Editors,310,14.5,0.374,0.57,22.49,46770,4.5
+New Mexico,Technical Writers,530,13.3,0.645,1.87,34.06,70840,5.2
+New Mexico,Writers and Authors,100,17.9,0.121,0.39,33.33,69330,6.8
+New Mexico,Interpreters and Translators,490,35.8,0.599,1.49,25.87,53810,2.4
+New Mexico,Court Reporters and Simultaneous Captioners,70,37.8,0.079,0.8,30.2,62830,6
+New Mexico,"Media and Communication Workers, All Other",130,20.6,0.164,0.95,27.66,57520,8.1
+New Mexico,Audio and Video Technicians,580,20.5,0.706,1.4,21.84,45420,9.8
+New Mexico,Broadcast Technicians,130,10.8,0.157,0.81,18.11,37660,1.9
+New Mexico,Sound Engineering Technicians,40,7.7,0.043,0.49,26.04,54170,9.2
+New Mexico,Photographers,230,10.9,0.283,0.82,26.38,54880,14
+New Mexico,"Camera Operators, Television, Video, and Film",110,13.3,0.139,0.95,*,*,*
+New Mexico,Film and Video Editors,40,40.1,0.049,0.26,35.81,74490,13.3
+New Mexico,"Lighting Technicians and Media and Communication Equipment Workers, All Other",190,13.7,0.229,1.43,31.72,65990,5.4
+New Mexico,Healthcare Practitioners and Technical Occupations,47530,2.2,57.71,0.98,40.51,84270,2.8
+New Mexico,Chiropractors,150,22.1,0.188,0.79,30.26,62940,10.9
+New Mexico,"Dentists, General",630,11.2,0.77,1.02,87.7,182420,9.4
+New Mexico,Orthodontists,60,46.8,0.07,1.71,102.91,214050,22
+New Mexico,"Dentists, All Other Specialists",70,16.7,0.079,2.17,91.91,191170,7.9
+New Mexico,Dietitians and Nutritionists,380,11.4,0.46,1,28.1,58440,2.1
+New Mexico,Optometrists,200,22.7,0.242,0.9,46.47,96660,11.7
+New Mexico,Pharmacists,1500,4.5,1.824,0.86,60.64,126120,1.2
+New Mexico,Physician Assistants,650,17.7,0.784,0.96,57.89,120400,2.3
+New Mexico,Podiatrists,70,10.2,0.082,1.23,69.53,144630,8
+New Mexico,Occupational Therapists,630,9.8,0.771,0.85,40.46,84150,2
+New Mexico,Physical Therapists,1380,10.2,1.677,1.06,45.4,94430,3.1
+New Mexico,Radiation Therapists,70,10.3,0.086,0.71,42.11,87590,3.4
+New Mexico,Recreational Therapists,130,24.8,0.162,1.25,19.82,41230,5.8
+New Mexico,Respiratory Therapists,630,5.8,0.762,0.85,28.09,58420,1.7
+New Mexico,Speech-Language Pathologists,880,7.8,1.063,1.01,36.17,75230,2.9
+New Mexico,"Therapists, All Other",190,21,0.229,2.77,33.17,68990,7
+New Mexico,Veterinarians,380,22.3,0.457,0.9,45.38,94390,4.4
+New Mexico,Registered Nurses,17350,2.3,21.07,1.04,35.24,73300,1.3
+New Mexico,Nurse Anesthetists,170,32.2,0.207,0.7,78.04,162320,9.5
+New Mexico,Nurse Midwives,90,14.5,0.113,2.39,47.48,98750,3.1
+New Mexico,Nurse Practitioners,1110,8.2,1.342,0.98,53.81,111930,1.7
+New Mexico,Audiologists,70,21.8,0.083,0.9,36.54,76010,2.8
+New Mexico,Anesthesiologists,**,**,**,**,133.24,277140,25.2
+New Mexico,Family Medicine Physicians,710,11.5,0.86,1.16,79.04,164400,5.2
+New Mexico,General Internal Medicine Physicians,130,40.5,0.153,0.5,134.91,280620,14.5
+New Mexico,Obstetricians and Gynecologists,100,18.1,0.116,0.91,124.22,258380,13.5
+New Mexico,"Pediatricians, General",140,21.9,0.165,0.82,92.49,192390,9.2
+New Mexico,Psychiatrists,100,31.8,0.125,0.72,115.55,240350,13
+New Mexico,"Physicians, All Other; and Ophthalmologists, Except Pediatric",2120,6.6,2.57,0.97,110.47,229770,8
+New Mexico,"Surgeons, Except Ophthalmologists",**,**,**,**,119.59,248740,8.9
+New Mexico,Dental Hygienists,1180,16.2,1.433,0.95,36.04,74960,4.7
+New Mexico,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",120,15.7,0.149,0.6,33.39,69460,6.7
+New Mexico,Clinical Laboratory Technologists and Technicians,1350,9.2,1.642,0.74,23.66,49210,2.3
+New Mexico,Cardiovascular Technologists and Technicians,330,4.7,0.395,1.03,27.75,57720,2.4
+New Mexico,Diagnostic Medical Sonographers,500,18.7,0.608,1.23,31.95,66460,5.1
+New Mexico,Nuclear Medicine Technologists,110,3.4,0.135,1.09,36.55,76020,1.6
+New Mexico,Radiologic Technologists and Technicians,1280,8.5,1.549,1.1,28.43,59140,1.2
+New Mexico,Magnetic Resonance Imaging Technologists,120,7.4,0.142,0.55,33.89,70490,1.5
+New Mexico,Emergency Medical Technicians and Paramedics,1410,6.7,1.714,0.97,17.5,36410,2.5
+New Mexico,Dietetic Technicians,210,27,0.251,1.26,12.02,25000,4.6
+New Mexico,Pharmacy Technicians,2340,3.7,2.842,1,16.66,34650,1.3
+New Mexico,Psychiatric Technicians,920,28.2,1.117,2.09,15.04,31290,2.7
+New Mexico,Surgical Technologists,720,7.4,0.879,1.18,21.61,44950,2.2
+New Mexico,Veterinary Technologists and Technicians,620,17,0.758,1.01,17.19,35750,5
+New Mexico,Ophthalmic Medical Technicians,330,31,0.395,0.99,18,37440,3.9
+New Mexico,Licensed Practical and Licensed Vocational Nurses,2120,7.5,2.576,0.54,23.24,48330,1.5
+New Mexico,"Opticians, Dispensing",440,13.6,0.529,1.08,16.04,33360,3.2
+New Mexico,Hearing Aid Specialists,**,**,**,**,20.8,43260,10.2
+New Mexico,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",1820,5.1,2.209,0.98,21.28,44260,2.9
+New Mexico,Athletic Trainers,50,14.9,0.059,0.3,*,52420,2.6
+New Mexico,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",360,5.5,0.441,1.19,25.45,52940,4
+New Mexico,Healthcare Support Occupations,49990,2.4,60.694,1.37,12.87,26770,1.2
+New Mexico,Home Health and Personal Care Aides,30230,3.6,36.704,1.71,10.92,22720,1.2
+New Mexico,Nursing Assistants,5620,6.7,6.821,0.71,13.87,28850,1.3
+New Mexico,Orderlies,150,7.7,0.185,0.58,13.77,28640,2.9
+New Mexico,Psychiatric Aides,250,30.6,0.307,0.82,15.53,32310,4.9
+New Mexico,Occupational Therapy Assistants,170,11.5,0.208,0.68,27.9,58040,2.9
+New Mexico,Physical Therapist Assistants,600,12.2,0.73,1.11,24.61,51190,3.6
+New Mexico,Physical Therapist Aides,280,27.1,0.338,1.01,13.72,28540,3.5
+New Mexico,Massage Therapists,400,36.7,0.484,0.66,22.81,47450,7.9
+New Mexico,Dental Assistants,2830,9.6,3.434,1.44,17.94,37310,2.6
+New Mexico,Medical Assistants,6750,3.8,8.2,1.69,15.18,31570,1
+New Mexico,Medical Equipment Preparers,260,14.1,0.314,0.81,17.6,36600,2.2
+New Mexico,Medical Transcriptionists,**,**,**,**,19.16,39840,3.7
+New Mexico,Pharmacy Aides,80,36.1,0.103,0.41,14.21,29570,3.6
+New Mexico,Veterinary Assistants and Laboratory Animal Caretakers,690,28.5,0.843,1.28,11.87,24700,2.9
+New Mexico,Phlebotomists,670,11.5,0.817,0.94,16.04,33370,2.5
+New Mexico,"Healthcare Support Workers, All Other",620,3.6,0.75,1.18,18.45,38370,2.9
+New Mexico,Protective Service Occupations,25760,3,31.276,1.31,20.47,42580,2.5
+New Mexico,First-Line Supervisors of Correctional Officers,640,4,0.781,2.47,25.28,52580,1.2
+New Mexico,First-Line Supervisors of Police and Detectives,640,2.2,0.783,0.95,40.18,83570,0.9
+New Mexico,First-Line Supervisors of Firefighting and Prevention Workers,840,1.6,1.02,2.15,29.62,61610,1.7
+New Mexico,"Miscellaneous First-Line Supervisors, Protective Service Workers",680,6.3,0.827,1.47,22.36,46510,2.2
+New Mexico,Firefighters,2370,2.2,2.874,1.3,17.61,36620,3.3
+New Mexico,Fire Inspectors and Investigators,50,3.2,0.055,0.59,21.35,44400,2
+New Mexico,Correctional Officers and Jailers,4110,6.6,4.994,1.73,18.01,37450,1.2
+New Mexico,Detectives and Criminal Investigators,1720,0.9,2.088,2.9,37.1,77170,3.1
+New Mexico,Police and Sheriff's Patrol Officers,4360,2,5.295,1.17,25.84,53750,1.4
+New Mexico,Animal Control Workers,150,4.3,0.18,2.21,15.51,32260,1.4
+New Mexico,Private Detectives and Investigators,70,19,0.081,0.34,27.5,57200,4.3
+New Mexico,Gambling Surveillance Officers and Gambling Investigators,230,18.9,0.274,3.91,14.78,30740,2.4
+New Mexico,Security Guards,7020,9.3,8.524,1.11,13.82,28750,2.7
+New Mexico,Crossing Guards and Flaggers,360,5.6,0.435,0.75,13,27030,2.5
+New Mexico,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",850,2.7,1.035,1.06,10.4,21640,2.6
+New Mexico,Transportation Security Screeners,210,0,0.251,0.79,18.06,37570,2.9
+New Mexico,"School Bus Monitors and Protective Service Workers, All Other",1340,4.1,1.631,1.64,20.29,42210,5.8
+New Mexico,Food Preparation and Serving Related Occupations,83760,1.4,101.7,1.11,10.88,22630,0.7
+New Mexico,Chefs and Head Cooks,390,12.1,0.469,0.54,24.31,50560,3
+New Mexico,First-Line Supervisors of Food Preparation and Serving Workers,7240,6.5,8.793,1.28,15.14,31490,1.8
+New Mexico,"Cooks, Fast Food",2700,20.8,3.276,0.91,10.88,22620,3.7
+New Mexico,"Cooks, Institution and Cafeteria",2620,4.8,3.184,1.16,12.11,25190,1.5
+New Mexico,"Cooks, Restaurant",9700,7.3,11.782,1.23,12.15,25260,2
+New Mexico,"Cooks, Short Order",270,22.1,0.325,0.31,11.03,22950,4
+New Mexico,"Cooks, All Other",**,**,**,**,18.05,37550,8
+New Mexico,Food Preparation Workers,5770,16.9,7.002,1.19,10.8,22460,1.6
+New Mexico,Bartenders,2630,9.4,3.198,0.73,9.99,20780,4.6
+New Mexico,Fast Food and Counter Workers,24290,4.6,29.49,1.08,9.98,20750,1.3
+New Mexico,Waiters and Waitresses,17000,3.3,20.645,1.18,9.59,19940,1.7
+New Mexico,"Food Servers, Nonrestaurant",2000,23.4,2.423,1.28,10.79,22440,1.8
+New Mexico,Dining Room and Cafeteria Attendants and Bartender Helpers,3000,10.3,3.638,1.12,9.91,20610,2.3
+New Mexico,Dishwashers,2850,13.2,3.46,0.99,10.69,22230,1.8
+New Mexico,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",3000,14.3,3.646,1.26,10.31,21450,1.9
+New Mexico,"Food Preparation and Serving Related Workers, All Other",250,19.9,0.306,0.62,11.59,24110,2.9
+New Mexico,Building and Grounds Cleaning and Maintenance Occupations,25560,2.6,31.03,1.03,12.84,26710,1.1
+New Mexico,First-Line Supervisors of Housekeeping and Janitorial Workers,1030,9.1,1.251,1.18,18.53,38550,4.2
+New Mexico,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",680,15.6,0.824,1.17,23.34,48540,2.2
+New Mexico,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",12070,4.2,14.66,1,12.01,24970,1
+New Mexico,Maids and Housekeeping Cleaners,6280,6.3,7.62,1.21,10.88,22630,2.1
+New Mexico,"Building Cleaning Workers, All Other",**,**,**,**,14.49,30130,11.6
+New Mexico,Pest Control Workers,360,7.6,0.438,0.81,18.42,38320,8.9
+New Mexico,Landscaping and Groundskeeping Workers,4660,5.5,5.661,0.91,13.99,29100,1.4
+New Mexico,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",**,**,**,**,17.31,36000,7.4
+New Mexico,Tree Trimmers and Pruners,**,**,**,**,18.67,38840,3.4
+New Mexico,"Grounds Maintenance Workers, All Other",50,22.9,0.06,0.62,21.56,44850,6.3
+New Mexico,Personal Care and Service Occupations,15790,4,19.167,0.85,13.68,28460,1.4
+New Mexico,First-Line Supervisors of Gambling Services Workers,370,12,0.444,2.22,21.94,45630,2.9
+New Mexico,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1760,5.9,2.139,1.44,18.17,37800,2.4
+New Mexico,Animal Trainers,120,29,0.15,1.33,18.59,38660,9.4
+New Mexico,Animal Caretakers,1230,10.3,1.493,1.03,12.53,26060,2.3
+New Mexico,Gambling Dealers,660,25.3,0.803,1.19,9.55,19870,5.6
+New Mexico,Gambling and Sports Book Writers and Runners,**,**,**,**,11.8,24540,3.4
+New Mexico,"Gambling Service Workers, All Other",110,27.6,0.138,1.94,15.11,31430,8.4
+New Mexico,"Ushers, Lobby Attendants, and Ticket Takers",420,34.7,0.51,0.54,9.97,20750,6.8
+New Mexico,Amusement and Recreation Attendants,990,10.4,1.196,0.52,11.31,23520,2
+New Mexico,Costume Attendants,70,21.3,0.091,1.78,30.33,63090,3.8
+New Mexico,"Entertainment Attendants and Related Workers, All Other",40,12.9,0.043,1.39,11.23,23360,3
+New Mexico,Funeral Attendants,200,19.8,0.246,1.05,14.67,30520,7.8
+New Mexico,"Morticians, Undertakers, and Funeral Arrangers",100,32.4,0.12,0.69,30.29,63000,7.6
+New Mexico,"Hairdressers, Hairstylists, and Cosmetologists",1700,11.8,2.062,0.78,11.48,23870,4.4
+New Mexico,"Makeup Artists, Theatrical and Performance",60,25,0.072,3.09,44.87,93330,4.8
+New Mexico,Manicurists and Pedicurists,50,45.2,0.06,0.08,13,27030,10.4
+New Mexico,Skincare Specialists,80,27.7,0.102,0.27,18.93,39380,18.8
+New Mexico,Baggage Porters and Bellhops,140,13.3,0.169,0.62,11.25,23410,3.7
+New Mexico,Concierges,50,21.5,0.06,0.21,14.02,29170,4
+New Mexico,Tour and Travel Guides,300,16.2,0.364,1.1,14.65,30470,4.7
+New Mexico,Childcare Workers,2110,14.4,2.558,0.67,11.29,23470,4.7
+New Mexico,Exercise Trainers and Group Fitness Instructors,1340,8.6,1.621,0.73,18.72,38940,3.3
+New Mexico,Recreation Workers,2800,9.4,3.399,1.39,11.76,24470,3
+New Mexico,Residential Advisors,660,9.8,0.796,1.08,12.99,27010,2.6
+New Mexico,"Crematory Operators and Personal Care and Service Workers, All Other",140,41.2,0.168,0.4,14.91,31020,5.3
+New Mexico,Sales and Related Occupations,78400,2.2,95.199,0.97,16.45,34220,1.2
+New Mexico,First-Line Supervisors of Retail Sales Workers,8170,4.3,9.926,1.24,19.73,41040,1.6
+New Mexico,First-Line Supervisors of Non-Retail Sales Workers,880,14.2,1.073,0.63,29.54,61450,2.6
+New Mexico,Cashiers,22850,7.3,27.751,1.13,11.05,22990,1
+New Mexico,Gambling Change Persons and Booth Cashiers,520,18.2,0.633,4.37,12.26,25510,4.2
+New Mexico,Counter and Rental Clerks,2270,9.8,2.753,0.98,15.29,31800,3.3
+New Mexico,Parts Salespersons,1970,6.6,2.389,1.37,15.69,32630,5.4
+New Mexico,Retail Salespersons,25790,7,31.316,1.07,13.13,27310,1.5
+New Mexico,Advertising Sales Agents,540,14.6,0.659,0.75,21.98,45720,4.9
+New Mexico,Insurance Sales Agents,1690,8.7,2.048,0.73,22.11,45990,6.4
+New Mexico,"Securities, Commodities, and Financial Services Sales Agents",1150,18.7,1.391,0.47,27.57,57350,7.4
+New Mexico,Travel Agents,180,24.6,0.213,0.47,18.66,38820,3.5
+New Mexico,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",4270,6.6,5.187,0.73,26.79,55720,3.4
+New Mexico,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",860,17.5,1.042,0.5,51.84,107830,17.3
+New Mexico,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",4410,7.3,5.357,0.59,31.15,64800,4.3
+New Mexico,Demonstrators and Product Promoters,290,36.4,0.353,0.67,16.75,34830,8.1
+New Mexico,Real Estate Brokers,80,33.6,0.1,0.34,54.26,112860,20.6
+New Mexico,Real Estate Sales Agents,1170,28.8,1.419,1.28,26.87,55900,4.9
+New Mexico,Sales Engineers,40,37.8,0.048,0.11,45.09,93780,4.2
+New Mexico,Telemarketers,1010,36.6,1.225,1.34,12.51,26020,4.5
+New Mexico,Office and Administrative Support Occupations,114620,1.2,139.178,1.05,17.46,36320,0.6
+New Mexico,First-Line Supervisors of Office and Administrative Support Workers,9310,2.8,11.309,1.12,26.38,54880,0.9
+New Mexico,"Switchboard Operators, Including Answering Service",390,14.4,0.469,1.01,14.9,31000,3.3
+New Mexico,Bill and Account Collectors,640,14.7,0.777,0.48,17.29,35960,2.5
+New Mexico,Billing and Posting Clerks,1660,5.3,2.017,0.64,17.25,35890,1.2
+New Mexico,"Bookkeeping, Accounting, and Auditing Clerks",8140,3.8,9.879,0.96,18.54,38560,1.2
+New Mexico,Gambling Cage Workers,210,22.5,0.257,2.64,12.77,26560,4.7
+New Mexico,Payroll and Timekeeping Clerks,690,6.2,0.834,0.86,18.9,39300,2
+New Mexico,Procurement Clerks,370,6.3,0.453,1.01,20.28,42190,2
+New Mexico,Tellers,2600,4.7,3.154,1.05,13.69,28470,1.8
+New Mexico,"Financial Clerks, All Other",**,**,**,**,21.51,44740,6.8
+New Mexico,Brokerage Clerks,100,38.4,0.121,0.37,25.09,52190,4.5
+New Mexico,"Court, Municipal, and License Clerks",1100,2.2,1.33,1.27,19.5,40550,2
+New Mexico,Customer Service Representatives,19400,3.7,23.556,1.19,15.04,31280,1.6
+New Mexico,"Eligibility Interviewers, Government Programs",1000,4.9,1.209,1.27,20.96,43600,2.8
+New Mexico,File Clerks,630,5.3,0.768,1.1,15.29,31810,1.4
+New Mexico,"Hotel, Motel, and Resort Desk Clerks",2400,7.9,2.917,1.6,11.4,23700,3.6
+New Mexico,"Interviewers, Except Eligibility and Loan",**,**,**,**,13.86,28830,4.3
+New Mexico,"Library Assistants, Clerical",340,6.7,0.408,0.7,11.14,23170,2.2
+New Mexico,Loan Interviewers and Clerks,1040,13.3,1.266,0.89,18.1,37640,2.9
+New Mexico,New Accounts Clerks,50,38.9,0.065,0.22,17.33,36040,10.3
+New Mexico,Order Clerks,110,13.2,0.133,0.14,16.31,33920,2.7
+New Mexico,"Human Resources Assistants, Except Payroll and Timekeeping",830,4.1,1.006,1.26,18.75,39000,2
+New Mexico,Receptionists and Information Clerks,5620,5.3,6.823,0.95,14.01,29140,1.4
+New Mexico,Reservation and Transportation Ticket Agents and Travel Clerks,670,5,0.815,0.97,23.66,49220,4.4
+New Mexico,"Information and Record Clerks, All Other",950,2.8,1.156,1.1,20.96,43600,2.3
+New Mexico,Cargo and Freight Agents,170,22.5,0.2,0.31,22.57,46940,10.2
+New Mexico,Couriers and Messengers,290,18.6,0.351,0.69,13.38,27830,2
+New Mexico,Public Safety Telecommunicators,920,7.4,1.118,1.72,17.84,37100,2.1
+New Mexico,"Dispatchers, Except Police, Fire, and Ambulance",890,9.7,1.077,0.79,21.63,45000,3.8
+New Mexico,"Meter Readers, Utilities",230,14.1,0.281,1.36,18.76,39030,3.9
+New Mexico,Postal Service Clerks,640,0,0.777,1.41,23.99,49900,0.9
+New Mexico,Postal Service Mail Carriers,1600,0,1.939,0.84,24.99,51970,1.7
+New Mexico,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",380,0,0.457,0.65,23.7,49300,2.5
+New Mexico,"Production, Planning, and Expediting Clerks",550,9.9,0.669,0.27,24.17,50270,3.2
+New Mexico,"Shipping, Receiving, and Inventory Clerks",2300,7.3,2.787,0.58,16.11,33500,1.4
+New Mexico,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",260,19.7,0.314,0.76,20.09,41780,4.1
+New Mexico,Executive Secretaries and Executive Administrative Assistants,2090,3.2,2.542,0.69,30.51,63460,2.2
+New Mexico,Legal Secretaries and Administrative Assistants,1350,6.1,1.637,1.43,18.94,39400,2.3
+New Mexico,Medical Secretaries and Administrative Assistants,4680,5,5.686,1.38,15.72,32700,1.8
+New Mexico,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",28990,2,35.204,2.54,16.95,35250,0.9
+New Mexico,Data Entry Keyers,470,9.9,0.57,0.52,13.44,27950,2.6
+New Mexico,Word Processors and Typists,100,10.6,0.123,0.38,17.19,35760,2.4
+New Mexico,Desktop Publishers,60,38.3,0.068,1.15,26.06,54210,4.9
+New Mexico,Insurance Claims and Policy Processing Clerks,1190,23.7,1.44,0.82,18.57,38620,3
+New Mexico,"Mail Clerks and Mail Machine Operators, Except Postal Service",350,9.8,0.43,0.76,15.42,32070,1.8
+New Mexico,"Office Clerks, General",7940,4.7,9.641,0.48,12.32,25630,1.5
+New Mexico,"Office Machine Operators, Except Computer",140,9.9,0.171,0.55,13.07,27180,5.8
+New Mexico,Statistical Assistants,30,44.2,0.038,0.57,21.44,44590,4.8
+New Mexico,"Office and Administrative Support Workers, All Other",390,5.2,0.473,0.37,18.03,37500,2
+New Mexico,"Farming, Fishing, and Forestry Occupations",2870,5.5,3.479,1.05,12.65,26310,3.5
+New Mexico,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",220,15.2,0.271,1.76,20.04,41670,5.4
+New Mexico,Agricultural Inspectors,90,0,0.109,1.17,*,*,*
+New Mexico,"Graders and Sorters, Agricultural Products",60,27.1,0.069,0.3,10.42,21670,5.1
+New Mexico,Agricultural Equipment Operators,480,26.2,0.586,3.19,14.71,30600,7.5
+New Mexico,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1570,9.9,1.9,0.94,10.49,21820,3.9
+New Mexico,"Farmworkers, Farm, Ranch, and Aquacultural Animals",370,15.9,0.447,1.79,13.31,27690,3
+New Mexico,Construction and Extraction Occupations,54990,2.4,66.766,1.58,21.59,44910,1
+New Mexico,First-Line Supervisors of Construction Trades and Extraction Workers,7040,4.3,8.551,2.01,31.43,65380,1.7
+New Mexico,Brickmasons and Blockmasons,230,24.8,0.28,0.68,21.35,44420,4
+New Mexico,Stonemasons,60,44.1,0.073,0.86,15.16,31530,2.8
+New Mexico,Carpenters,3730,8.2,4.53,0.91,19.28,40090,2
+New Mexico,Carpet Installers,60,37.3,0.073,0.41,19.42,40390,5.3
+New Mexico,Tile and Stone Setters,180,19.9,0.214,0.78,20.34,42320,10.8
+New Mexico,Cement Masons and Concrete Finishers,1190,13.3,1.445,1.08,18.72,38930,2
+New Mexico,Construction Laborers,10620,5.2,12.896,1.86,15.93,33130,1.2
+New Mexico,"Paving, Surfacing, and Tamping Equipment Operators",**,**,**,**,19.47,40490,4.1
+New Mexico,Operating Engineers and Other Construction Equipment Operators,4230,5.3,5.134,1.86,21.69,45120,1.4
+New Mexico,Drywall and Ceiling Tile Installers,670,25.9,0.814,1.16,19.94,41480,5.9
+New Mexico,Tapers,50,19.1,0.061,0.5,26.39,54890,3.5
+New Mexico,Electricians,4080,10.6,4.949,1.06,24.26,50460,2
+New Mexico,Glaziers,280,27.3,0.339,0.95,19.23,39990,3.9
+New Mexico,"Insulation Workers, Floor, Ceiling, and Wall",**,**,**,**,18.77,39050,15.8
+New Mexico,"Insulation Workers, Mechanical",50,15,0.064,0.35,24.78,51530,3.4
+New Mexico,"Painters, Construction and Maintenance",990,15.4,1.203,0.76,17.35,36100,2.1
+New Mexico,Paperhangers,**,**,**,**,16.36,34020,6.5
+New Mexico,Pipelayers,110,23.4,0.137,0.56,23.22,48290,5.7
+New Mexico,"Plumbers, Pipefitters, and Steamfitters",2290,7.7,2.778,0.92,22.25,46280,2.6
+New Mexico,Plasterers and Stucco Masons,440,23.1,0.531,2.85,21.25,44210,8.9
+New Mexico,Roofers,1260,16.8,1.532,1.74,16.26,33830,2.2
+New Mexico,Sheet Metal Workers,710,20.5,0.86,0.96,23.97,49850,6.2
+New Mexico,Structural Iron and Steel Workers,310,27.8,0.373,0.72,25.96,54000,6.7
+New Mexico,Solar Photovoltaic Installers,170,25.7,0.21,2.79,20.8,43260,4.9
+New Mexico,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",60,27.8,0.077,0.48,13.69,28480,8.1
+New Mexico,Helpers--Carpenters,260,26.9,0.315,1.4,14.55,30270,3.8
+New Mexico,Helpers--Electricians,970,29.3,1.182,2.19,16.48,34280,3.8
+New Mexico,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",630,30.7,0.76,1.91,15.96,33190,4.6
+New Mexico,Helpers--Roofers,60,35.4,0.078,1.27,15.22,31660,6
+New Mexico,"Helpers, Construction Trades, All Other",170,30.5,0.212,1.09,13.51,28090,4.9
+New Mexico,Construction and Building Inspectors,510,8,0.621,0.83,28.45,59170,1.8
+New Mexico,Elevator and Escalator Installers and Repairers,170,35.4,0.203,1.05,36.16,75200,4.3
+New Mexico,Fence Erectors,260,39.9,0.322,1.82,14.67,30500,4.6
+New Mexico,Hazardous Materials Removal Workers,650,31.2,0.792,2.63,25.79,53640,5.6
+New Mexico,Highway Maintenance Workers,1540,2.7,1.865,1.82,17.13,35630,1.1
+New Mexico,Septic Tank Servicers and Sewer Pipe Cleaners,160,45.3,0.199,0.98,16.6,34530,15.2
+New Mexico,Miscellaneous Construction and Related Workers,200,14.1,0.248,1.14,25.41,52860,7.5
+New Mexico,"Derrick Operators, Oil and Gas",1070,19.5,1.301,15.79,23.8,49500,5.6
+New Mexico,"Rotary Drill Operators, Oil and Gas",1040,41.7,1.266,8.85,22.79,47400,15.7
+New Mexico,"Service Unit Operators, Oil and Gas",2390,18.2,2.896,8.22,30.72,63900,4
+New Mexico,"Excavating and Loading Machine and Dragline Operators, Surface Mining",170,31.1,0.208,0.69,23.44,48750,4.8
+New Mexico,Continuous Mining Machine Operators,360,11,0.437,4.39,*,*,*
+New Mexico,"Roustabouts, Oil and Gas",4240,14.7,5.151,12.84,17.16,35690,2.7
+New Mexico,Helpers--Extraction Workers,200,22.7,0.245,2.15,16.82,34980,3
+New Mexico,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",270,11.2,0.331,1.95,26.83,55810,3.8
+New Mexico,"Underground Mining Machine Operators and Extraction Workers, All Other",200,20.6,0.238,2.53,25.93,53940,3.9
+New Mexico,"Installation, Maintenance, and Repair Occupations",34010,2.6,41.29,1.06,22.29,46370,1.1
+New Mexico,"First-Line Supervisors of Mechanics, Installers, and Repairers",2940,4.4,3.567,1.08,32.71,68040,1.5
+New Mexico,"Computer, Automated Teller, and Office Machine Repairers",170,23.5,0.206,0.31,17.97,37370,2.7
+New Mexico,"Radio, Cellular, and Tower Equipment Installers and Repairers",**,**,**,**,27.23,56650,9.4
+New Mexico,"Telecommunications Equipment Installers and Repairers, Except Line Installers",800,20.4,0.974,0.69,24.32,50580,6.4
+New Mexico,Avionics Technicians,50,35.8,0.063,0.43,26.59,55310,4
+New Mexico,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",340,14.3,0.412,1.03,26.42,54950,3.7
+New Mexico,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",140,11.8,0.171,1.11,43.32,90110,2.5
+New Mexico,Audiovisual Equipment Installers and Repairers,100,12.3,0.117,0.67,21.13,43950,4.6
+New Mexico,Security and Fire Alarm Systems Installers,780,43.7,0.95,1.95,22.31,46400,5.5
+New Mexico,Aircraft Mechanics and Service Technicians,420,11.3,0.51,0.56,29.81,62010,7.7
+New Mexico,Automotive Body and Related Repairers,710,12.2,0.866,0.88,20.09,41800,5.1
+New Mexico,Automotive Glass Installers and Repairers,140,24.4,0.168,1.27,15.98,33230,4
+New Mexico,Automotive Service Technicians and Mechanics,4390,5.7,5.326,1.19,20.36,42340,3.9
+New Mexico,Bus and Truck Mechanics and Diesel Engine Specialists,1920,7.3,2.329,1.28,22.98,47790,2
+New Mexico,Farm Equipment Mechanics and Service Technicians,**,**,**,**,24.84,51660,12.4
+New Mexico,"Mobile Heavy Equipment Mechanics, Except Engines",1040,9.3,1.258,1.25,26.18,54460,2.9
+New Mexico,Rail Car Repairers,**,**,**,**,30.11,62620,6.1
+New Mexico,Motorcycle Mechanics,280,36.8,0.345,3.25,15.55,32350,6.5
+New Mexico,Outdoor Power Equipment and Other Small Engine Mechanics,200,22.3,0.24,1.1,17.79,37000,5.2
+New Mexico,Bicycle Repairers,90,35.6,0.108,1.2,13.65,28390,4.8
+New Mexico,Recreational Vehicle Service Technicians,**,**,**,**,17.05,35470,9.9
+New Mexico,Tire Repairers and Changers,920,16.1,1.115,1.48,13.16,27380,3.6
+New Mexico,Mechanical Door Repairers,**,**,**,**,18.34,38140,6.6
+New Mexico,"Control and Valve Installers and Repairers, Except Mechanical Door",600,17.7,0.734,2.06,29.52,61390,4.2
+New Mexico,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1380,15.3,1.679,0.72,21.47,44650,5.7
+New Mexico,Home Appliance Repairers,180,27.3,0.22,1.04,19.34,40230,4.3
+New Mexico,Industrial Machinery Mechanics,2940,7.3,3.573,1.35,27.21,56590,1.8
+New Mexico,"Maintenance Workers, Machinery",260,36.2,0.311,0.63,20.88,43440,7.5
+New Mexico,Millwrights,190,35,0.233,0.72,38.08,79210,4.6
+New Mexico,Electrical Power-Line Installers and Repairers,730,8.2,0.884,1.16,30.72,63900,3.1
+New Mexico,Telecommunications Line Installers and Repairers,110,44.8,0.134,0.16,21.49,44700,10.9
+New Mexico,Medical Equipment Repairers,310,29.2,0.375,1.19,23.06,47970,5.4
+New Mexico,Musical Instrument Repairers and Tuners,**,**,**,**,40.87,85010,18
+New Mexico,"Precision Instrument and Equipment Repairers, All Other",110,31.8,0.14,1.94,29.5,61360,6.3
+New Mexico,"Maintenance and Repair Workers, General",8430,3.3,10.239,1.06,17.37,36130,1.7
+New Mexico,Wind Turbine Service Technicians,150,40.3,0.178,4.38,25.25,52530,3.6
+New Mexico,"Coin, Vending, and Amusement Machine Servicers and Repairers",270,15.4,0.334,1.56,16.15,33590,3.6
+New Mexico,Locksmiths and Safe Repairers,100,17.4,0.123,1.07,18.16,37770,5.1
+New Mexico,Riggers,140,21.1,0.165,1.05,30.05,62510,9
+New Mexico,"Helpers--Installation, Maintenance, and Repair Workers",830,13.9,1.01,1.49,14,29110,3.1
+New Mexico,"Installation, Maintenance, and Repair Workers, All Other",910,39.8,1.107,1.01,19.56,40690,3.5
+New Mexico,Production Occupations,28100,3.2,34.121,0.55,20.38,42400,1.9
+New Mexico,First-Line Supervisors of Production and Operating Workers,2490,4.3,3.02,0.7,30.89,64250,2.1
+New Mexico,"Coil Winders, Tapers, and Finishers",60,39.5,0.074,0.85,22.34,46460,4
+New Mexico,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",370,11.7,0.444,0.23,16.21,33710,8.4
+New Mexico,Structural Metal Fabricators and Fitters,180,23,0.217,0.41,16.35,34010,2.8
+New Mexico,Miscellaneous Assemblers and Fabricators,2470,13.1,3.003,0.32,14.21,29560,2.1
+New Mexico,Bakers,740,11.6,0.902,0.72,12.91,26850,2.3
+New Mexico,Butchers and Meat Cutters,820,14.2,0.993,1.07,15.71,32680,2.5
+New Mexico,"Meat, Poultry, and Fish Cutters and Trimmers",80,41.6,0.098,0.09,12.46,25930,3
+New Mexico,Slaughterers and Meat Packers,60,31.1,0.072,0.14,15.46,32160,12.9
+New Mexico,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",60,33.4,0.069,0.49,16.4,34110,4
+New Mexico,Food Batchmakers,960,11.1,1.163,1.07,13.64,28370,4.5
+New Mexico,Food Cooking Machine Operators and Tenders,70,17.6,0.081,0.4,12.95,26940,3.7
+New Mexico,"Food Processing Workers, All Other",180,25.8,0.213,0.73,15.05,31310,2.9
+New Mexico,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",330,47.1,0.4,0.76,18.31,38080,5.6
+New Mexico,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",150,27.7,0.178,0.13,13.66,28400,3.2
+New Mexico,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",40,18.3,0.043,0.08,15.2,31610,5.5
+New Mexico,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,18.16,37770,8.8
+New Mexico,Machinists,880,12.1,1.064,0.41,25.25,52520,3
+New Mexico,Metal-Refining Furnace Operators and Tenders,**,**,**,**,22.26,46300,3.6
+New Mexico,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",140,23.5,0.168,0.14,14.43,30010,7
+New Mexico,"Welders, Cutters, Solderers, and Brazers",2080,7.7,2.529,0.9,27.28,56740,2.4
+New Mexico,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",80,24.3,0.093,0.33,19.15,39840,5.6
+New Mexico,"Metal Workers and Plastic Workers, All Other",60,13.2,0.074,0.44,19.52,40600,5
+New Mexico,Prepress Technicians and Workers,130,23.6,0.161,0.78,22.25,46280,4.8
+New Mexico,Printing Press Operators,430,13.1,0.517,0.44,15.74,32750,2.6
+New Mexico,Print Binding and Finishing Workers,60,31,0.07,0.23,15.16,31540,3.7
+New Mexico,Laundry and Dry-Cleaning Workers,1450,9,1.757,1.23,10.56,21960,1.3
+New Mexico,"Pressers, Textile, Garment, and Related Materials",200,20.2,0.242,0.94,11.42,23740,2.8
+New Mexico,Sewing Machine Operators,240,20.5,0.29,0.32,11.49,23910,2
+New Mexico,"Tailors, Dressmakers, and Custom Sewers",50,30.6,0.06,0.37,13.96,29040,4.5
+New Mexico,Upholsterers,**,**,**,**,12.6,26210,13.5
+New Mexico,Cabinetmakers and Bench Carpenters,260,20.1,0.311,0.46,17.28,35940,4.8
+New Mexico,"Sawing Machine Setters, Operators, and Tenders, Wood",70,38,0.087,0.25,15.94,33160,6.1
+New Mexico,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",110,24.8,0.131,0.24,15.85,32960,5.3
+New Mexico,"Woodworkers, All Other",**,**,**,**,14.75,30690,10.6
+New Mexico,Power Distributors and Dispatchers,180,10.8,0.22,3.01,45.4,94420,2.9
+New Mexico,Power Plant Operators,310,15.8,0.373,1.63,40.78,84820,3.2
+New Mexico,Stationary Engineers and Boiler Operators,140,5.3,0.168,0.76,22.82,47470,2.8
+New Mexico,Water and Wastewater Treatment Plant and System Operators,1280,5.1,1.555,1.85,19.88,41350,1.8
+New Mexico,Gas Plant Operators,320,17.1,0.387,3.95,30.33,63080,6.5
+New Mexico,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",820,21.9,1,3.64,37.06,77080,1.8
+New Mexico,"Plant and System Operators, All Other",350,37.1,0.429,4.87,26.17,54430,5
+New Mexico,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",180,6.4,0.218,0.63,17.89,37210,2.9
+New Mexico,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",150,11.3,0.187,0.82,22.29,46370,2
+New Mexico,"Mixing and Blending Machine Setters, Operators, and Tenders",490,12,0.593,0.69,20.1,41810,4.8
+New Mexico,"Cutters and Trimmers, Hand",40,5,0.044,0.67,16.39,34090,4.1
+New Mexico,"Cutting and Slicing Machine Setters, Operators, and Tenders",50,28.8,0.063,0.16,17.57,36540,5.3
+New Mexico,"Inspectors, Testers, Sorters, Samplers, and Weighers",1750,9.6,2.12,0.54,25.05,52100,5
+New Mexico,Jewelers and Precious Stone and Metal Workers,470,16.2,0.572,3.56,16.39,34090,3.8
+New Mexico,Dental Laboratory Technicians,140,22.5,0.17,0.73,18.04,37520,3.5
+New Mexico,Medical Appliance Technicians,90,43.4,0.112,1.17,18.84,39180,2.8
+New Mexico,Ophthalmic Laboratory Technicians,100,19.6,0.117,0.59,16.65,34630,5.6
+New Mexico,Packaging and Filling Machine Operators and Tenders,1170,11.8,1.418,0.53,13.57,28220,3.7
+New Mexico,"Painting, Coating, and Decorating Workers",40,41.3,0.05,0.59,25.61,53280,6
+New Mexico,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",450,12.5,0.55,0.55,20.96,43590,6.3
+New Mexico,Semiconductor Processing Technicians,1130,45.2,1.378,7.31,22.11,45980,7.2
+New Mexico,Computer Numerically Controlled Tool Operators,80,21.1,0.098,0.09,16.71,34760,3.4
+New Mexico,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",30,12,0.037,0.33,13.05,27140,5.7
+New Mexico,"Molders, Shapers, and Casters, Except Metal and Plastic",100,23.7,0.121,0.4,14.36,29870,7.2
+New Mexico,"Paper Goods Machine Setters, Operators, and Tenders",120,32.4,0.146,0.21,16.09,33460,14.1
+New Mexico,Helpers--Production Workers,1670,10.3,2.029,0.98,12.56,26110,2.4
+New Mexico,"Production Workers, All Other",370,9.8,0.448,0.3,20.05,41710,8
+New Mexico,Transportation and Material Moving Occupations,54250,2.2,65.876,0.77,17.05,35460,1.5
+New Mexico,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",2420,5.9,2.941,0.95,28.05,58350,2.3
+New Mexico,"Airline Pilots, Copilots, and Flight Engineers",50,1.6,0.055,0.1,*,*,*
+New Mexico,Commercial Pilots,200,21.5,0.241,0.94,*,113080,14
+New Mexico,Air Traffic Controllers,350,0,0.429,2.85,52.55,109290,2.2
+New Mexico,Airfield Operations Specialists,50,44.6,0.061,0.83,29.83,62040,4
+New Mexico,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",**,**,**,**,11.18,23250,5.1
+New Mexico,Driver/Sales Workers,1620,21.8,1.962,0.65,13.76,28620,6.4
+New Mexico,Heavy and Tractor-Trailer Truck Drivers,11750,4.6,14.262,1.13,20.99,43650,2.2
+New Mexico,Light Truck Drivers,4730,6.2,5.739,0.91,17.8,37010,2.9
+New Mexico,"Bus Drivers, Transit and Intercity",550,6.2,0.67,0.55,14.93,31050,2.3
+New Mexico,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",4070,7.6,4.946,1.04,12.81,26640,2.2
+New Mexico,"Motor Vehicle Operators, All Other",310,10.9,0.381,0.99,16.6,34520,6
+New Mexico,Locomotive Engineers,130,13.3,0.154,0.64,35.57,73990,4.9
+New Mexico,Railroad Conductors and Yardmasters,120,44.1,0.144,0.46,32.99,68610,5.1
+New Mexico,Parking Attendants,430,10.4,0.528,0.53,11.84,24620,2.4
+New Mexico,Automotive and Watercraft Service Attendants,500,18.2,0.608,0.76,11.68,24300,2.1
+New Mexico,Traffic Technicians,160,2.8,0.191,3.76,17.91,37250,2
+New Mexico,Transportation Inspectors,110,9.6,0.129,0.63,27.48,57150,4.8
+New Mexico,"Aircraft Service Attendants and Transportation Workers, All Other",200,15.8,0.238,1,13.23,27530,3.6
+New Mexico,Conveyor Operators and Tenders,140,3.6,0.17,1.04,17.62,36650,4.2
+New Mexico,Crane and Tower Operators,120,40,0.145,0.47,32.63,67870,4.7
+New Mexico,Hoist and Winch Operators,60,27.4,0.071,2.18,26.23,54550,8.9
+New Mexico,Industrial Truck and Tractor Operators,1040,8.8,1.267,0.3,18.45,38370,4.3
+New Mexico,Cleaners of Vehicles and Equipment,2170,12.5,2.639,1.01,11.82,24580,3.4
+New Mexico,"Laborers and Freight, Stock, and Material Movers, Hand",9450,4.6,11.473,0.57,14.05,29230,2
+New Mexico,"Packers and Packagers, Hand",1800,6.3,2.19,0.51,10.72,22300,2.4
+New Mexico,Stockers and Order Fillers,10360,5,12.577,0.86,13.94,29000,2
+New Mexico,Wellhead Pumpers,260,36.3,0.318,3.61,32.96,68560,3.5
+New Mexico,Refuse and Recyclable Material Collectors,480,10.9,0.588,0.71,16.12,33530,3.3
+New Mexico,"Tank Car, Truck, and Ship Loaders",**,**,**,**,22.54,46890,4.6

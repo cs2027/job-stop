@@ -1,0 +1,711 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Iowa,All Occupations,1549460,0.5,1000,1,22.76,47330,0.9
+Iowa,Management Occupations,85370,1.1,55.1,1,48.02,99880,1
+Iowa,Chief Executives,2010,3.3,1.297,0.93,74.61,155180,3.7
+Iowa,General and Operations Managers,24120,1.7,15.564,0.95,47.95,99740,1.2
+Iowa,Legislators,**,**,**,**,*,38670,7.7
+Iowa,Advertising and Promotions Managers,230,17.9,0.147,0.86,51.67,107460,4.8
+Iowa,Marketing Managers,2550,3.9,1.647,0.92,55.75,115960,2.1
+Iowa,Sales Managers,3170,4.6,2.046,0.75,57.4,119390,1.7
+Iowa,Public Relations and Fundraising Managers,960,12.8,0.622,1.15,49.47,102900,2.7
+Iowa,Administrative Services and Facilities Managers,2290,5.4,1.475,0.71,43.86,91230,1.6
+Iowa,Computer and Information Systems Managers,3560,3.1,2.299,0.78,59.41,123570,1.7
+Iowa,Financial Managers,8630,2.1,5.573,1.25,56.05,116590,2
+Iowa,Industrial Production Managers,3310,3.7,2.136,1.69,48.32,100510,1.1
+Iowa,Purchasing Managers,710,5.4,0.455,0.93,49.58,103130,3.8
+Iowa,"Transportation, Storage, and Distribution Managers",1690,5.8,1.091,1.21,41.52,86370,1.5
+Iowa,Compensation and Benefits Managers,120,13.1,0.079,0.69,56.37,117250,5.5
+Iowa,Human Resources Managers,1580,3.4,1.018,0.97,53.44,111160,1.6
+Iowa,Training and Development Managers,360,7.9,0.233,0.89,45.72,95100,2
+Iowa,"Farmers, Ranchers, and Other Agricultural Managers",160,20.1,0.103,3,43.43,90340,6.3
+Iowa,Construction Managers,3160,6.3,2.039,1.02,41.44,86180,2.1
+Iowa,"Education and Childcare Administrators, Preschool and Daycare",810,11.2,0.524,1.47,21.11,43910,3.4
+Iowa,"Education Administrators, Kindergarten through Secondary",2660,5.5,1.714,0.93,*,100090,1.4
+Iowa,"Education Administrators, Postsecondary",2440,3.7,1.573,1.59,50.15,104320,4.7
+Iowa,"Education Administrators, All Other",500,9.5,0.32,1.05,44.54,92630,3.5
+Iowa,Architectural and Engineering Managers,2360,5.2,1.523,1.15,59.49,123750,3.1
+Iowa,Food Service Managers,1910,7.8,1.231,0.77,23.36,48590,2
+Iowa,Gambling Managers,160,8.6,0.104,3.43,36.91,76770,4.4
+Iowa,Lodging Managers,530,14.2,0.341,1.31,27.44,57080,5.1
+Iowa,Medical and Health Services Managers,6880,3.8,4.441,1.65,42.28,87940,1.2
+Iowa,Natural Sciences Managers,360,12.4,0.232,0.5,54.53,113420,2.4
+Iowa,Postmasters and Mail Superintendents,260,0,0.17,1.81,35.52,73870,0.6
+Iowa,"Property, Real Estate, and Community Association Managers",1300,14.4,0.842,0.56,32.96,68560,9.9
+Iowa,Social and Community Service Managers,2370,4.4,1.532,1.44,28.96,60230,1.4
+Iowa,Emergency Management Directors,150,6.3,0.094,1.38,31.35,65210,2.6
+Iowa,Funeral Home Managers,80,19.8,0.053,0.82,40.24,83710,11.6
+Iowa,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",2890,4.8,1.868,0.58,51.29,106690,4.2
+Iowa,Business and Financial Operations Occupations,74630,1.6,48.167,0.86,32.49,67580,0.9
+Iowa,Buyers and Purchasing Agents,3790,3.4,2.444,0.85,29.15,60640,1.4
+Iowa,"Claims Adjusters, Examiners, and Investigators",3160,11.6,2.037,1.04,31.41,65330,1.6
+Iowa,Compliance Officers,2700,3.9,1.74,0.8,30.91,64300,1.4
+Iowa,Cost Estimators,2250,8.7,1.453,1.02,32.95,68530,4.2
+Iowa,Human Resources Specialists,5890,3,3.801,0.88,28.56,59400,1.2
+Iowa,Labor Relations Specialists,690,9.6,0.447,0.87,31.64,65810,7.2
+Iowa,Logisticians,1930,10.6,1.245,1,31.34,65190,2.4
+Iowa,Management Analysts,5530,4,3.568,0.74,39.15,81440,1.6
+Iowa,"Meeting, Convention, and Event Planners",860,8.3,0.555,0.69,22.06,45880,2.8
+Iowa,Fundraisers,900,7.5,0.584,1.05,27.41,57020,3
+Iowa,"Compensation, Benefits, and Job Analysis Specialists",740,6.5,0.48,0.79,32.26,67090,3.4
+Iowa,Training and Development Specialists,3680,4.7,2.372,1.12,26.77,55670,2
+Iowa,Market Research Analysts and Marketing Specialists,5660,3.8,3.655,0.79,30.17,62760,1.6
+Iowa,"Project Management Specialists and Business Operations Specialists, All Other",9960,2.5,6.426,0.74,33.31,69280,1.7
+Iowa,Accountants and Auditors,10170,2.9,6.564,0.75,33.41,69480,1.3
+Iowa,Property Appraisers and Assessors,740,15.1,0.476,1.24,34.54,71840,7.9
+Iowa,Budget Analysts,430,9.7,0.275,0.78,37.27,77520,2
+Iowa,Credit Analysts,780,6,0.503,1,38.13,79310,4.3
+Iowa,Personal Financial Advisors,1620,7.9,1.048,0.73,41.58,86480,7.6
+Iowa,Insurance Underwriters,1880,14.3,1.212,1.78,32.4,67380,1.7
+Iowa,Financial Examiners,1180,2.3,0.764,1.74,32.97,68580,6.4
+Iowa,Credit Counselors,560,11.4,0.359,1.64,22.09,45950,2.8
+Iowa,Loan Officers,4670,3.8,3.015,1.44,32.89,68420,2.2
+Iowa,"Tax Examiners and Collectors, and Revenue Agents",200,1.6,0.132,0.36,31.99,66530,1.2
+Iowa,Tax Preparers,460,13.6,0.298,0.66,22.2,46180,5
+Iowa,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",4160,3,2.688,0.86,38.42,79910,2.9
+Iowa,Computer and Mathematical Occupations,38370,2.2,24.76,0.8,38.77,80650,2
+Iowa,Computer Systems Analysts,7040,4.6,4.546,1.13,40.88,85040,1.5
+Iowa,Information Security Analysts,830,7.6,0.537,0.63,41.86,87080,1.8
+Iowa,Computer Network Support Specialists,2360,5.9,1.522,1.21,26.84,55820,2
+Iowa,Computer User Support Specialists,4820,5.9,3.113,0.71,24.31,50570,1.3
+Iowa,Computer Network Architects,1130,7.6,0.727,0.7,50.32,104660,3.2
+Iowa,Network and Computer Systems Administrators,3290,4.2,2.126,0.88,36.86,76660,1
+Iowa,Database Administrators and Architects,760,8,0.489,0.57,44.89,93370,2.1
+Iowa,Computer Programmers,1570,12,1.012,0.75,37.52,78040,3.4
+Iowa,Software Developers and Software Quality Assurance Analysts and Testers,11190,3.3,7.221,0.75,45.85,95370,2.6
+Iowa,Web Developers and Digital Interface Designers,1290,10.4,0.832,0.82,31.9,66340,4
+Iowa,"Computer Occupations, All Other",2220,4.8,1.431,0.53,36.35,75600,2.6
+Iowa,Actuaries,460,5.3,0.297,1.96,53.54,111360,4.1
+Iowa,Operations Research Analysts,620,7.2,0.4,0.59,39.64,82440,2.6
+Iowa,Statisticians,520,5.7,0.336,1.26,33.76,70220,3.4
+Iowa,Architecture and Engineering Occupations,22930,3.6,14.798,0.84,36.45,75810,1.2
+Iowa,"Architects, Except Landscape and Naval",650,8.6,0.417,0.58,39.12,81370,12.5
+Iowa,Landscape Architects,230,25.2,0.149,1.08,29.12,60560,3.7
+Iowa,Cartographers and Photogrammetrists,40,37.5,0.024,0.31,30.36,63140,2.1
+Iowa,Surveyors,310,8.1,0.201,0.65,30.89,64250,2.7
+Iowa,Agricultural Engineers,150,37.3,0.097,9.2,38.05,79140,4.2
+Iowa,Bioengineers and Biomedical Engineers,100,30.8,0.062,0.46,32.1,66760,5.3
+Iowa,Chemical Engineers,240,17,0.152,0.74,53.75,111810,4
+Iowa,Civil Engineers,2050,5.7,1.325,0.63,41,85290,1.3
+Iowa,Computer Hardware Engineers,220,26,0.14,0.3,*,*,*
+Iowa,Electrical Engineers,1480,5.9,0.953,0.75,45.98,95640,3.9
+Iowa,"Electronics Engineers, Except Computer",390,17.2,0.25,0.29,41.79,86920,4.1
+Iowa,Environmental Engineers,330,11.2,0.216,0.6,39.97,83130,1.4
+Iowa,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",130,18.8,0.085,0.48,38.57,80220,2.6
+Iowa,Industrial Engineers,3220,6.4,2.08,1.05,40.26,83740,1.4
+Iowa,Materials Engineers,210,28.2,0.135,0.74,48.82,101540,3.3
+Iowa,Mechanical Engineers,3430,12,2.214,1.06,40.27,83750,2.2
+Iowa,"Engineers, All Other",1950,6.6,1.261,1.22,39.99,83180,1.7
+Iowa,Architectural and Civil Drafters,990,10.2,0.641,0.95,27.77,57760,2.2
+Iowa,Electrical and Electronics Drafters,130,18.4,0.083,0.51,30.67,63800,3.7
+Iowa,Mechanical Drafters,1040,13.4,0.67,1.78,29.11,60550,3.6
+Iowa,"Drafters, All Other",270,21.5,0.177,1.78,25.07,52140,2.6
+Iowa,Aerospace Engineering and Operations Technologists and Technicians,80,19.8,0.05,0.64,23.44,48750,5.1
+Iowa,Civil Engineering Technologists and Technicians,1100,7.7,0.713,1.52,26.61,55340,1.8
+Iowa,Electrical and Electronic Engineering Technologists and Technicians,1190,8.4,0.766,0.92,32,66560,1.7
+Iowa,Electro-Mechanical and Mechatronics Technologists and Technicians,130,15.8,0.086,0.89,28.84,59990,2.8
+Iowa,Environmental Engineering Technologists and Technicians,60,22.8,0.041,0.34,25.61,53260,9.5
+Iowa,Industrial Engineering Technologists and Technicians,790,9.6,0.513,1.12,25.67,53400,3.7
+Iowa,Mechanical Engineering Technologists and Technicians,440,13.9,0.284,0.97,25.86,53800,2.8
+Iowa,Surveying and Mapping Technicians,200,11.6,0.13,0.36,23.99,49900,2.7
+Iowa,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1310,5,0.845,1.41,28.52,59320,2
+Iowa,"Life, Physical, and Social Science Occupations",12370,3.4,7.985,0.91,29.63,61630,1.3
+Iowa,Animal Scientists,110,15,0.074,4.03,34.19,71120,4.4
+Iowa,Food Scientists and Technologists,320,13.5,0.205,2.24,33.21,69070,5.2
+Iowa,Soil and Plant Scientists,900,15.6,0.58,6.02,32.91,68450,3.2
+Iowa,Biochemists and Biophysicists,80,21.4,0.053,0.25,30.42,63280,6.2
+Iowa,Microbiologists,230,6.9,0.146,1.17,36.86,76660,8.6
+Iowa,Zoologists and Wildlife Biologists,90,7.9,0.055,0.42,33.8,70310,1.8
+Iowa,"Biological Scientists, All Other",350,25.1,0.229,0.84,32.06,66680,3
+Iowa,Conservation Scientists,560,10.7,0.359,2.39,26.63,55390,3.3
+Iowa,Foresters,60,6.6,0.041,0.64,32.17,66920,2.1
+Iowa,Epidemiologists,40,5.2,0.029,0.57,31.51,65540,2.1
+Iowa,"Medical Scientists, Except Epidemiologists",1030,4.5,0.666,0.77,31.6,65720,4.1
+Iowa,"Life Scientists, All Other",120,1.3,0.078,1.79,37.78,78580,2.4
+Iowa,Physicists,50,11.1,0.031,0.27,50.14,104290,9.7
+Iowa,Atmospheric and Space Scientists,70,14.6,0.046,0.73,41.44,86200,3.7
+Iowa,Chemists,490,20.8,0.319,0.56,37.31,77610,3.6
+Iowa,Materials Scientists,90,24.1,0.055,1.2,41.56,86440,9.5
+Iowa,"Environmental Scientists and Specialists, Including Health",510,6.1,0.33,0.57,33.37,69400,2.2
+Iowa,"Geoscientists, Except Hydrologists and Geographers",40,22.3,0.026,0.13,36.77,76480,3.1
+Iowa,Hydrologists,50,1.7,0.033,0.75,37.54,78080,2
+Iowa,"Physical Scientists, All Other",30,16.3,0.019,0.16,31.93,66420,15.4
+Iowa,Economists,50,13.1,0.032,0.25,42.33,88040,3.5
+Iowa,Survey Researchers,40,21.1,0.025,0.37,39.94,83080,10.2
+Iowa,"Clinical, Counseling, and School Psychologists",770,8.9,0.497,0.64,39.95,83090,4
+Iowa,"Psychologists, All Other",100,8.3,0.063,0.65,46.83,97410,2.3
+Iowa,Urban and Regional Planners,260,6.4,0.167,0.64,31.85,66240,2
+Iowa,Anthropologists and Archeologists,30,11.6,0.019,0.42,30.27,62960,4.6
+Iowa,"Social Scientists and Related Workers, All Other",330,9.5,0.211,0.92,34.45,71650,2
+Iowa,Agricultural and Food Science Technicians,1280,12.1,0.826,5.54,22.13,46030,3
+Iowa,Biological Technicians,730,7.3,0.473,0.87,21.16,44000,2
+Iowa,Chemical Technicians,580,11.4,0.373,0.83,22.75,47310,2.3
+Iowa,"Environmental Science and Protection Technicians, Including Health",170,7.5,0.113,0.51,22.96,47750,2.2
+Iowa,Geological and Hydrologic Technicians,60,15.6,0.039,0.34,23.44,48750,7.1
+Iowa,Social Science Research Assistants,70,13.4,0.047,0.19,20.11,41830,1.9
+Iowa,Forest and Conservation Technicians,600,23.8,0.39,3,19.07,39680,3.1
+Iowa,"Life, Physical, and Social Science Technicians, All Other",720,23.7,0.462,1.05,21.14,43980,2
+Iowa,Occupational Health and Safety Specialists,910,4.8,0.586,0.93,34.2,71130,1.8
+Iowa,Occupational Health and Safety Technicians,300,10.4,0.191,1.36,23.69,49270,2.6
+Iowa,Community and Social Service Occupations,21040,3.4,13.582,0.89,22.45,46690,1.4
+Iowa,"Educational, Guidance, and Career Counselors and Advisors",2680,4.2,1.73,0.86,26.4,54910,1.7
+Iowa,Marriage and Family Therapists,760,31.3,0.492,1.22,26.7,55530,6.1
+Iowa,Rehabilitation Counselors,1850,14.8,1.194,1.61,18.48,38440,4.3
+Iowa,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",2380,9.3,1.536,0.8,25.88,53830,3.3
+Iowa,"Counselors, All Other",230,33.3,0.149,0.86,18.17,37790,3.6
+Iowa,"Child, Family, and School Social Workers",2620,7.5,1.691,0.76,22.31,46400,2.9
+Iowa,Healthcare Social Workers,1230,6.5,0.794,0.67,25.86,53800,1.1
+Iowa,Mental Health and Substance Abuse Social Workers,720,12.5,0.466,0.58,22.94,47720,3.4
+Iowa,"Social Workers, All Other",530,8.9,0.343,0.86,28.88,60070,3.3
+Iowa,Health Education Specialists,570,9.8,0.365,0.91,27.4,56990,1.6
+Iowa,Probation Officers and Correctional Treatment Specialists,830,7.7,0.534,0.89,33.45,69570,1.4
+Iowa,Social and Human Service Assistants,4780,5.4,3.088,1.12,16.89,35130,1.2
+Iowa,Community Health Workers,360,22.6,0.234,0.58,18.1,37640,2.7
+Iowa,"Community and Social Service Specialists, All Other",960,15.7,0.617,0.93,16.54,34410,5.5
+Iowa,Clergy,380,11.4,0.248,0.68,24.42,50800,1.9
+Iowa,"Directors, Religious Activities and Education",90,33.5,0.06,0.4,26.43,54980,8.7
+Iowa,"Religious Workers, All Other",70,38,0.042,0.65,14.8,30790,7.9
+Iowa,Legal Occupations,7600,3.4,4.904,0.63,39.17,81460,4.2
+Iowa,Lawyers,3360,5.4,2.166,0.48,57.55,119700,4.6
+Iowa,Judicial Law Clerks,60,0,0.037,0.33,32.56,67730,1.4
+Iowa,"Administrative Law Judges, Adjudicators, and Hearing Officers",80,0,0.048,0.49,50.42,104880,1.4
+Iowa,"Arbitrators, Mediators, and Conciliators",70,40.6,0.043,1.04,*,*,*
+Iowa,"Judges, Magistrate Judges, and Magistrates",400,0,0.255,1.31,*,*,*
+Iowa,Paralegals and Legal Assistants,2090,9.2,1.351,0.6,24.11,50140,2.8
+Iowa,"Title Examiners, Abstractors, and Searchers",740,25.4,0.477,1.33,16.62,34570,4.1
+Iowa,"Legal Support Workers, All Other",810,1.7,0.525,1.71,22.76,47350,1.8
+Iowa,Educational Instruction and Library Occupations,109010,1.4,70.35,1.16,24.5,50970,4.7
+Iowa,"Business Teachers, Postsecondary",1110,6.4,0.715,1.25,*,111080,8.7
+Iowa,"Computer Science Teachers, Postsecondary",370,5.9,0.236,1.09,*,90670,3.8
+Iowa,"Mathematical Science Teachers, Postsecondary",620,4,0.4,1.15,*,80270,5.1
+Iowa,"Architecture Teachers, Postsecondary",70,1.1,0.045,0.97,*,80490,2.8
+Iowa,"Engineering Teachers, Postsecondary",530,2.5,0.339,1.38,*,113050,3.8
+Iowa,"Agricultural Sciences Teachers, Postsecondary",270,5,0.177,2.75,*,97950,6.5
+Iowa,"Biological Science Teachers, Postsecondary",630,4.1,0.404,1.12,*,89910,4.3
+Iowa,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",60,7.8,0.039,0.52,*,86390,4.8
+Iowa,"Chemistry Teachers, Postsecondary",230,5.2,0.149,1.02,*,83350,4
+Iowa,"Environmental Science Teachers, Postsecondary",90,6.7,0.056,1.36,*,87790,3.5
+Iowa,"Physics Teachers, Postsecondary",170,4.8,0.111,1.18,*,105940,6
+Iowa,"Anthropology and Archeology Teachers, Postsecondary",50,10,0.035,0.89,*,95690,7.6
+Iowa,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",50,3.1,0.031,0.43,*,77350,10.8
+Iowa,"Economics Teachers, Postsecondary",150,3.9,0.098,1.08,*,111480,9.2
+Iowa,"Geography Teachers, Postsecondary",40,4.7,0.024,0.87,*,*,*
+Iowa,"Political Science Teachers, Postsecondary",140,10.3,0.092,0.86,*,93920,4.9
+Iowa,"Psychology Teachers, Postsecondary",390,5.8,0.251,0.98,*,91010,6.1
+Iowa,"Sociology Teachers, Postsecondary",240,7.5,0.156,1.66,*,81690,3.6
+Iowa,"Social Sciences Teachers, Postsecondary, All Other",200,19.1,0.126,1.1,*,85170,8
+Iowa,"Health Specialties Teachers, Postsecondary",3270,5.2,2.113,1.54,*,130830,14.3
+Iowa,"Nursing Instructors and Teachers, Postsecondary",870,16.3,0.562,1.38,*,75690,2.4
+Iowa,"Education Teachers, Postsecondary",1090,10.8,0.702,1.68,*,64620,4
+Iowa,"Library Science Teachers, Postsecondary",50,8.5,0.035,1.17,*,76400,4.7
+Iowa,"Criminal Justice and Law Enforcement Teachers, Postsecondary",90,6.9,0.056,0.58,*,68380,2.9
+Iowa,"Law Teachers, Postsecondary",140,21.9,0.087,0.79,*,110040,13.6
+Iowa,"Social Work Teachers, Postsecondary",90,14.1,0.056,0.61,*,68970,5
+Iowa,"Art, Drama, and Music Teachers, Postsecondary",1220,4.1,0.784,1.22,*,70370,3
+Iowa,"Communications Teachers, Postsecondary",550,8.8,0.353,1.78,*,82520,2.6
+Iowa,"English Language and Literature Teachers, Postsecondary",810,6,0.523,1.13,*,74150,4.2
+Iowa,"Foreign Language and Literature Teachers, Postsecondary",340,2.4,0.222,1.31,*,72190,2.7
+Iowa,"History Teachers, Postsecondary",250,5.2,0.16,1.12,*,78340,3.8
+Iowa,"Philosophy and Religion Teachers, Postsecondary",320,4.2,0.207,1.29,*,77330,4.3
+Iowa,"Recreation and Fitness Studies Teachers, Postsecondary",200,6.4,0.131,1.21,*,69270,3.4
+Iowa,"Career/Technical Education Teachers, Postsecondary",1320,11.2,0.853,1.12,31.43,65370,6.7
+Iowa,"Postsecondary Teachers, All Other",1900,5.1,1.227,0.9,*,64170,6.3
+Iowa,"Preschool Teachers, Except Special Education",4970,10.4,3.21,1.09,13.73,28550,2.2
+Iowa,"Kindergarten Teachers, Except Special Education",1090,11.4,0.704,0.83,*,51720,2.1
+Iowa,"Elementary School Teachers, Except Special Education",18720,8.1,12.079,1.24,*,53950,1.2
+Iowa,"Middle School Teachers, Except Special and Career/Technical Education",7920,13,5.108,1.21,*,55250,2.1
+Iowa,"Career/Technical Education Teachers, Middle School",70,47.9,0.043,0.53,*,54310,11.4
+Iowa,"Secondary School Teachers, Except Special and Career/Technical Education",11950,8.6,7.714,1.09,*,56570,1.9
+Iowa,"Career/Technical Education Teachers, Secondary School",510,14.4,0.327,0.64,*,60910,3.1
+Iowa,"Special Education Teachers, Preschool",80,37.7,0.049,0.32,*,47290,11.2
+Iowa,"Special Education Teachers, Kindergarten and Elementary School",1570,10,1.016,0.77,*,57180,3.7
+Iowa,"Special Education Teachers, Middle School",810,16.8,0.525,0.9,*,59900,2.8
+Iowa,"Special Education Teachers, Secondary School",1350,14.2,0.871,0.89,*,59420,2.4
+Iowa,"Special Education Teachers, All Other",200,14.2,0.131,0.54,*,69890,4.2
+Iowa,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",450,13.9,0.289,0.82,26.49,55100,4.9
+Iowa,Self-Enrichment Teachers,1960,11.8,1.265,0.74,17.1,35570,5
+Iowa,"Substitute Teachers, Short-Term",9110,9.4,5.88,1.47,15.79,32830,2.4
+Iowa,"Tutors and Teachers and Instructors, All Other",1500,10.2,0.965,0.44,*,40720,3.7
+Iowa,Curators,160,11.2,0.106,1.2,20.68,43010,3.9
+Iowa,Museum Technicians and Conservators,100,11.3,0.061,0.68,21.1,43890,5.4
+Iowa,Librarians and Media Collections Specialists,1690,4.4,1.092,1.18,22.99,47830,2.9
+Iowa,Library Technicians,1300,6.7,0.837,1.39,16.03,33340,3.6
+Iowa,Farm and Home Management Educators,200,18.1,0.129,2.17,29.38,61100,5
+Iowa,Instructional Coordinators,2300,7.1,1.486,1.24,33.46,69590,1.8
+Iowa,"Teaching Assistants, Postsecondary",290,2.1,0.184,0.2,*,34710,2.2
+Iowa,"Teaching Assistants, Except Postsecondary",22250,3.4,14.361,1.57,*,25390,1.2
+Iowa,"Educational Instruction and Library Workers, All Other",460,18.7,0.295,0.34,22.13,46030,2.6
+Iowa,"Arts, Design, Entertainment, Sports, and Media Occupations",18630,2.8,12.025,0.88,21.87,45480,3.5
+Iowa,Art Directors,250,9.3,0.162,0.55,35.36,73540,3.6
+Iowa,"Fine Artists, Including Painters, Sculptors, and Illustrators",50,18.9,0.032,0.38,23.45,48770,3.7
+Iowa,Special Effects Artists and Animators,120,22,0.08,0.4,26.37,54850,3.1
+Iowa,Commercial and Industrial Designers,670,13.4,0.433,1.94,31.05,64580,1.5
+Iowa,Floral Designers,590,10.3,0.378,1.33,12.84,26700,1.8
+Iowa,Graphic Designers,2040,5.5,1.319,0.9,22.11,46000,1.5
+Iowa,Interior Designers,360,14.9,0.232,0.56,23.6,49090,3.5
+Iowa,Merchandise Displayers and Window Trimmers,1400,13.9,0.901,0.94,13.95,29010,2.5
+Iowa,"Designers, All Other",70,30.9,0.042,0.58,20.12,41840,11.3
+Iowa,Producers and Directors,600,11.5,0.388,0.44,22.23,46230,2.9
+Iowa,Coaches and Scouts,4220,7.7,2.723,1.66,*,32880,6.2
+Iowa,"Umpires, Referees, and Other Sports Officials",300,9,0.194,1.41,*,25200,7.6
+Iowa,Musicians and Singers,340,31.4,0.221,0.79,*,*,*
+Iowa,"Miscellaneous Entertainers and Performers, Sports and Related Workers",30,46.8,0.021,0.19,18.22,*,12.6
+Iowa,Broadcast Announcers and Radio Disc Jockeys,480,10.3,0.311,1.56,17.31,35990,5.8
+Iowa,"News Analysts, Reporters, and Journalists",590,10.6,0.383,1.28,16.37,34050,2
+Iowa,Public Relations Specialists,1980,5.1,1.278,0.77,27.43,57060,2.5
+Iowa,Editors,770,11.4,0.498,0.76,27.12,56410,5.3
+Iowa,Technical Writers,540,12.5,0.35,1.01,28.34,58950,3.4
+Iowa,Writers and Authors,490,9.1,0.319,1.02,25.37,52780,3.7
+Iowa,Interpreters and Translators,470,11,0.303,0.76,18.74,38990,2.5
+Iowa,Court Reporters and Simultaneous Captioners,210,6.5,0.134,1.36,32.16,66890,3.5
+Iowa,"Media and Communication Workers, All Other",110,20,0.073,0.43,17.85,37130,7.6
+Iowa,Audio and Video Technicians,440,21.6,0.281,0.56,21.97,45710,4.8
+Iowa,Broadcast Technicians,270,15.4,0.174,0.89,18.23,37920,4.8
+Iowa,Sound Engineering Technicians,**,**,**,**,25.74,53540,11.3
+Iowa,Photographers,430,9.4,0.275,0.8,16.12,33530,5.6
+Iowa,"Camera Operators, Television, Video, and Film",70,17.3,0.047,0.32,23.14,48130,6.3
+Iowa,Film and Video Editors,80,24.9,0.05,0.27,23.63,49150,4.9
+Iowa,"Lighting Technicians and Media and Communication Equipment Workers, All Other",30,26.7,0.022,0.14,27.23,56650,12.6
+Iowa,Healthcare Practitioners and Technical Occupations,85780,1.7,55.358,0.94,35.81,74490,1.3
+Iowa,Chiropractors,790,12.4,0.513,2.15,33.65,69980,8.7
+Iowa,"Dentists, General",1070,20.8,0.69,0.92,90.18,187570,10.4
+Iowa,Oral and Maxillofacial Surgeons,100,47.7,0.067,2.12,124.88,259740,17.6
+Iowa,Orthodontists,70,46.4,0.042,1.04,128.85,268000,13.2
+Iowa,Dietitians and Nutritionists,750,8.7,0.481,1.04,25,52000,3.8
+Iowa,Optometrists,510,13.8,0.326,1.21,67.52,140450,7.3
+Iowa,Pharmacists,2890,6.1,1.864,0.88,56.45,117420,1.6
+Iowa,Physician Assistants,960,6.4,0.623,0.76,54.19,112720,1.5
+Iowa,Podiatrists,100,22.1,0.066,1,64.39,133940,6.7
+Iowa,Occupational Therapists,930,7.8,0.602,0.66,39.61,82380,1.3
+Iowa,Physical Therapists,2080,4.5,1.341,0.84,39.87,82940,1.2
+Iowa,Radiation Therapists,120,20.9,0.08,0.66,39.53,82220,4.1
+Iowa,Recreational Therapists,170,6.1,0.109,0.84,26.16,54400,2
+Iowa,Respiratory Therapists,920,7.7,0.597,0.66,26.34,54780,1.2
+Iowa,Speech-Language Pathologists,1230,7.5,0.792,0.75,36.66,76250,2.5
+Iowa,Exercise Physiologists,40,7.2,0.029,0.59,23.55,48990,4.7
+Iowa,"Therapists, All Other",60,38,0.037,0.45,27.16,56500,13
+Iowa,Veterinarians,1040,9.1,0.672,1.32,43.37,90210,3.9
+Iowa,Registered Nurses,32980,2.5,21.287,1.05,29.13,60590,1
+Iowa,Nurse Anesthetists,340,14.1,0.221,0.75,97.31,202400,6.6
+Iowa,Nurse Midwives,40,37.6,0.025,0.54,50.2,104420,7
+Iowa,Nurse Practitioners,2000,5.4,1.289,0.94,52.84,109910,1
+Iowa,Audiologists,210,21.8,0.134,1.45,39.83,82840,5.4
+Iowa,Anesthesiologists,350,39.2,0.224,1.06,#,#,13.1
+Iowa,Family Medicine Physicians,1590,11.3,1.029,1.38,113.45,235980,4.9
+Iowa,General Internal Medicine Physicians,280,16.7,0.179,0.59,104.28,216910,8
+Iowa,Obstetricians and Gynecologists,130,15.9,0.082,0.64,136.19,283280,8.3
+Iowa,"Pediatricians, General",320,27.7,0.207,1.02,114.9,238990,12.6
+Iowa,Psychiatrists,190,16.2,0.125,0.72,103.27,214790,8
+Iowa,"Physicians, All Other; and Ophthalmologists, Except Pediatric",2410,5.8,1.553,0.58,105.21,218830,4.1
+Iowa,"Surgeons, Except Ophthalmologists",300,24.1,0.191,0.77,120.16,249920,8.8
+Iowa,Dental Hygienists,2250,7.3,1.45,0.96,33.94,70600,1.7
+Iowa,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",270,17.5,0.174,0.7,37.64,78290,4.3
+Iowa,Clinical Laboratory Technologists and Technicians,2790,5,1.799,0.81,23.33,48520,1
+Iowa,Cardiovascular Technologists and Technicians,430,13.8,0.278,0.73,24.43,50810,2.5
+Iowa,Diagnostic Medical Sonographers,700,6.7,0.45,0.91,34.67,72110,1
+Iowa,Nuclear Medicine Technologists,150,10.1,0.097,0.79,35.86,74590,1.8
+Iowa,Radiologic Technologists and Technicians,2310,6.8,1.494,1.06,25.37,52770,1.1
+Iowa,Magnetic Resonance Imaging Technologists,260,13.9,0.165,0.64,29.73,61840,1.2
+Iowa,Emergency Medical Technicians and Paramedics,2200,6.2,1.422,0.8,17.65,36720,1.8
+Iowa,Dietetic Technicians,430,27.8,0.277,1.39,12.37,25730,2.3
+Iowa,Pharmacy Technicians,4270,4.6,2.754,0.97,16.07,33430,1.4
+Iowa,Psychiatric Technicians,**,**,**,**,19.36,40260,6.9
+Iowa,Surgical Technologists,740,8.1,0.48,0.65,20.49,42620,1.3
+Iowa,Veterinary Technologists and Technicians,970,11.4,0.626,0.83,16.3,33900,1.7
+Iowa,Ophthalmic Medical Technicians,700,15.4,0.455,1.14,19.03,39570,2.5
+Iowa,Licensed Practical and Licensed Vocational Nurses,6260,4.1,4.039,0.85,21.26,44220,0.6
+Iowa,"Opticians, Dispensing",1030,13.4,0.667,1.35,16.45,34220,2.5
+Iowa,Orthotists and Prosthetists,50,31.8,0.035,0.52,33.16,68970,4.4
+Iowa,Hearing Aid Specialists,160,26.2,0.105,1.87,24.9,51790,10.9
+Iowa,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",3740,4.9,2.414,1.07,20.69,43030,1.7
+Iowa,Athletic Trainers,340,10.4,0.221,1.13,*,44950,2.1
+Iowa,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,30.89,64260,5.1
+Iowa,Healthcare Support Occupations,59580,1.7,38.452,0.87,15.02,31240,0.7
+Iowa,Home Health and Personal Care Aides,21830,3.2,14.087,0.65,13.16,27380,0.9
+Iowa,Nursing Assistants,22450,2.7,14.487,1.5,14.67,30520,1
+Iowa,Psychiatric Aides,170,3.6,0.111,0.3,17.02,35410,2.8
+Iowa,Occupational Therapy Assistants,350,12.6,0.224,0.73,26.47,55060,2
+Iowa,Occupational Therapy Aides,50,7.9,0.03,0.58,14.82,30830,2.3
+Iowa,Physical Therapist Assistants,1030,6.4,0.667,1.01,24.84,51670,1.8
+Iowa,Physical Therapist Aides,390,13.7,0.251,0.75,14.71,30610,4.6
+Iowa,Massage Therapists,810,17.6,0.525,0.72,18.59,38660,3.5
+Iowa,Dental Assistants,3300,6.3,2.129,0.89,20.29,42210,1.3
+Iowa,Medical Assistants,4970,4.4,3.205,0.66,17.25,35880,1.2
+Iowa,Medical Equipment Preparers,440,6.2,0.286,0.74,17.12,35620,2.5
+Iowa,Medical Transcriptionists,450,8.2,0.288,0.76,17.17,35720,2.5
+Iowa,Pharmacy Aides,240,13.5,0.152,0.6,12.5,26010,2.2
+Iowa,Veterinary Assistants and Laboratory Animal Caretakers,920,20.4,0.597,0.9,14.13,29400,4.5
+Iowa,Phlebotomists,1240,9.1,0.803,0.92,15.18,31560,1.3
+Iowa,"Healthcare Support Workers, All Other",**,**,**,**,18.55,38590,4.3
+Iowa,Protective Service Occupations,23750,3.2,15.326,0.64,22.38,46540,2.1
+Iowa,First-Line Supervisors of Correctional Officers,260,3.5,0.167,0.53,34.18,71080,1.7
+Iowa,First-Line Supervisors of Police and Detectives,1240,2.8,0.8,0.97,39.98,83160,1.1
+Iowa,First-Line Supervisors of Firefighting and Prevention Workers,660,5.9,0.426,0.9,34.47,71700,2.2
+Iowa,"Miscellaneous First-Line Supervisors, Protective Service Workers",550,8.5,0.353,0.63,21.62,44960,2.4
+Iowa,Firefighters,1790,5.2,1.155,0.52,22.42,46640,2.7
+Iowa,Fire Inspectors and Investigators,40,5.8,0.023,0.25,31.39,65280,2.3
+Iowa,Bailiffs,50,6.1,0.03,0.23,21.1,43890,2.7
+Iowa,Correctional Officers and Jailers,3270,3.5,2.114,0.73,24.23,50400,1.5
+Iowa,Detectives and Criminal Investigators,410,0.9,0.266,0.37,35.15,73120,2.7
+Iowa,Fish and Game Wardens,120,1.9,0.08,1.72,31.34,65180,1.6
+Iowa,Parking Enforcement Workers,50,15.2,0.031,0.6,20.9,43470,2.7
+Iowa,Police and Sheriff's Patrol Officers,5000,2.9,3.224,0.71,28.72,59730,0.9
+Iowa,Animal Control Workers,90,15,0.056,0.68,17.59,36590,3.7
+Iowa,Private Detectives and Investigators,100,22.7,0.067,0.28,*,*,*
+Iowa,Gambling Surveillance Officers and Gambling Investigators,160,7.8,0.104,1.48,16.25,33790,2.8
+Iowa,Security Guards,6440,8.7,4.154,0.54,15.74,32750,3.6
+Iowa,Crossing Guards and Flaggers,920,19.3,0.595,1.03,15.54,32320,3.7
+Iowa,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2020,11,1.307,1.33,9.68,20120,1.4
+Iowa,Transportation Security Screeners,210,0,0.138,0.43,19.97,41540,1.7
+Iowa,"School Bus Monitors and Protective Service Workers, All Other",350,14,0.226,0.23,17.58,36570,6.1
+Iowa,Food Preparation and Serving Related Occupations,132150,0.9,85.291,0.93,11.56,24050,0.6
+Iowa,Chefs and Head Cooks,1000,20.3,0.645,0.74,20.23,42080,4.3
+Iowa,First-Line Supervisors of Food Preparation and Serving Workers,10710,4,6.914,1,16.52,34350,1.3
+Iowa,"Cooks, Fast Food",5550,16.1,3.58,1,11.41,23720,4.6
+Iowa,"Cooks, Institution and Cafeteria",7010,3.7,4.525,1.65,13.3,27660,0.9
+Iowa,"Cooks, Restaurant",12560,5.4,8.106,0.85,12.35,25690,1.3
+Iowa,"Cooks, Short Order",830,27.4,0.535,0.51,11.29,23470,3.3
+Iowa,"Cooks, All Other",150,31.7,0.094,0.72,17.97,37380,6.3
+Iowa,Food Preparation Workers,6560,11.7,4.233,0.72,11.5,23930,1.5
+Iowa,Bartenders,9430,8.2,6.088,1.38,10.51,21860,3.6
+Iowa,Fast Food and Counter Workers,40510,4.4,26.147,0.96,10.71,22270,0.9
+Iowa,Waiters and Waitresses,23160,4.1,14.946,0.85,10.61,22070,2
+Iowa,"Food Servers, Nonrestaurant",3940,8.9,2.546,1.35,11.97,24900,2.6
+Iowa,Dining Room and Cafeteria Attendants and Bartender Helpers,3000,10.6,1.938,0.6,10.01,20820,1.5
+Iowa,Dishwashers,3660,9.9,2.361,0.67,9.82,20420,2
+Iowa,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",3800,10.9,2.451,0.85,9.66,20080,1.5
+Iowa,"Food Preparation and Serving Related Workers, All Other",280,34.6,0.182,0.37,11.57,24080,5.8
+Iowa,Building and Grounds Cleaning and Maintenance Occupations,47350,2,30.56,1.01,14.36,29860,0.9
+Iowa,First-Line Supervisors of Housekeeping and Janitorial Workers,1760,4.8,1.139,1.08,20.79,43250,2
+Iowa,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",960,11.1,0.622,0.88,23.45,48780,3.3
+Iowa,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",25190,3,16.254,1.11,14,29120,1.2
+Iowa,Maids and Housekeeping Cleaners,9380,4,6.054,0.96,11.55,24030,1
+Iowa,"Building Cleaning Workers, All Other",190,38,0.124,1,15.22,31660,12.1
+Iowa,Pest Control Workers,450,9,0.288,0.53,19.65,40870,4.2
+Iowa,Landscaping and Groundskeeping Workers,7780,5,5.021,0.81,15.1,31400,1.6
+Iowa,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",1220,15.5,0.79,4.5,17.94,37310,1.8
+Iowa,Tree Trimmers and Pruners,300,30.5,0.193,0.6,20.07,41750,5.1
+Iowa,"Grounds Maintenance Workers, All Other",110,26,0.073,0.75,20.24,42100,7.5
+Iowa,Personal Care and Service Occupations,33820,2.6,21.824,0.97,13.14,27320,1.2
+Iowa,First-Line Supervisors of Gambling Services Workers,660,7.7,0.427,2.13,21.36,44420,3.8
+Iowa,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",2740,4.5,1.769,1.19,18.23,37930,1.7
+Iowa,Animal Trainers,90,21.6,0.058,0.51,26.07,54230,15.9
+Iowa,Animal Caretakers,2390,7.7,1.54,1.06,11.73,24390,2.1
+Iowa,Gambling Dealers,1370,7.3,0.885,1.31,9.64,20050,3.1
+Iowa,"Gambling Service Workers, All Other",**,**,**,**,15.25,31720,2.9
+Iowa,Motion Picture Projectionists,130,24.1,0.082,2.63,9.01,18740,4.2
+Iowa,"Ushers, Lobby Attendants, and Ticket Takers",1280,11.2,0.828,0.88,10.93,22740,5.7
+Iowa,Amusement and Recreation Attendants,2650,9,1.71,0.74,10.63,22100,1.8
+Iowa,"Locker Room, Coatroom, and Dressing Room Attendants",330,31.5,0.211,1.94,8.89,18490,2.9
+Iowa,Funeral Attendants,620,12.5,0.401,1.71,14.91,31010,4
+Iowa,"Morticians, Undertakers, and Funeral Arrangers",530,18.2,0.343,1.98,32.82,68270,4.9
+Iowa,Barbers,**,**,**,**,15.05,31300,12.8
+Iowa,"Hairdressers, Hairstylists, and Cosmetologists",3330,9.3,2.146,0.82,13.48,28040,2.6
+Iowa,Manicurists and Pedicurists,**,**,**,**,11.28,23460,8.1
+Iowa,Skincare Specialists,160,22.2,0.1,0.26,17.58,36560,3.7
+Iowa,Baggage Porters and Bellhops,230,24.9,0.151,0.56,10.22,21260,4.3
+Iowa,Concierges,130,21.8,0.085,0.3,15.11,31420,3.1
+Iowa,Tour and Travel Guides,170,12.2,0.111,0.33,12.91,26850,3.2
+Iowa,Childcare Workers,8390,6.5,5.417,1.42,10.18,21170,1.8
+Iowa,Exercise Trainers and Group Fitness Instructors,3650,8.9,2.354,1.06,15.87,33000,2.6
+Iowa,Recreation Workers,3310,5.1,2.134,0.87,13.11,27270,2
+Iowa,Residential Advisors,830,10.5,0.537,0.73,14.19,29520,3.9
+Iowa,"Crematory Operators and Personal Care and Service Workers, All Other",500,44,0.324,0.77,12.78,26580,3.2
+Iowa,Sales and Related Occupations,153400,1.2,99.002,1.01,18.07,37590,1
+Iowa,First-Line Supervisors of Retail Sales Workers,12530,3.1,8.086,1.01,19.48,40510,1.6
+Iowa,First-Line Supervisors of Non-Retail Sales Workers,2260,5.1,1.456,0.86,39.34,81820,2.7
+Iowa,Cashiers,46310,3,29.885,1.22,11.04,22960,0.7
+Iowa,Gambling Change Persons and Booth Cashiers,340,5.3,0.217,1.5,13.67,28440,4.6
+Iowa,Counter and Rental Clerks,4220,10.1,2.726,0.97,13.06,27170,3.4
+Iowa,Parts Salespersons,3430,5.8,2.216,1.27,18.04,37530,2.3
+Iowa,Retail Salespersons,43190,3,27.877,0.95,13.49,28060,1.4
+Iowa,Advertising Sales Agents,1700,10.4,1.094,1.24,19.02,39560,4
+Iowa,Insurance Sales Agents,6980,5.2,4.502,1.61,32.09,66750,4.6
+Iowa,"Securities, Commodities, and Financial Services Sales Agents",2350,7.2,1.515,0.51,32.96,68560,5.2
+Iowa,Travel Agents,500,13.7,0.324,0.71,20.6,42860,2.9
+Iowa,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",5440,5.5,3.508,0.5,30.52,63490,2
+Iowa,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",2220,9.7,1.433,0.69,42.43,88260,3.8
+Iowa,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",15890,2.8,10.257,1.12,31.83,66210,1.9
+Iowa,Demonstrators and Product Promoters,1020,23.1,0.656,1.24,13.06,27150,2.2
+Iowa,Real Estate Sales Agents,1080,14.1,0.696,0.63,26.25,54610,8.7
+Iowa,Sales Engineers,170,30.2,0.109,0.25,61.16,127210,5.9
+Iowa,Telemarketers,2600,19.1,1.678,1.83,14.16,29440,2.6
+Iowa,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",30,35.7,0.021,0.35,21.82,45390,11.7
+Iowa,"Sales and Related Workers, All Other",1010,15.7,0.654,0.81,19.86,41320,4.8
+Iowa,Office and Administrative Support Occupations,193010,1,124.563,0.94,18.85,39210,0.4
+Iowa,First-Line Supervisors of Office and Administrative Support Workers,11700,2.2,7.548,0.75,27.66,57520,1
+Iowa,"Switchboard Operators, Including Answering Service",330,13.7,0.215,0.46,13.49,28060,3.9
+Iowa,Bill and Account Collectors,2430,5.9,1.57,0.98,17.66,36730,2.2
+Iowa,Billing and Posting Clerks,4540,5,2.932,0.92,19.13,39790,1.7
+Iowa,"Bookkeeping, Accounting, and Auditing Clerks",19040,2.6,12.289,1.19,19.28,40100,0.7
+Iowa,Gambling Cage Workers,270,13.2,0.173,1.78,13.55,28190,3.1
+Iowa,Payroll and Timekeeping Clerks,1030,6.7,0.666,0.69,21.93,45610,1.2
+Iowa,Procurement Clerks,480,5.6,0.312,0.69,20.31,42240,1.4
+Iowa,Tellers,5970,4.8,3.85,1.28,14.42,30000,1
+Iowa,"Financial Clerks, All Other",360,21.8,0.233,1.12,20.34,42310,3.6
+Iowa,Brokerage Clerks,390,15,0.253,0.78,23.4,48680,9.3
+Iowa,"Court, Municipal, and License Clerks",1790,6.2,1.153,1.1,19.3,40140,2.1
+Iowa,"Credit Authorizers, Checkers, and Clerks",370,7.7,0.241,1.33,15.8,32870,8.2
+Iowa,Customer Service Representatives,32240,4.3,20.804,1.05,18.48,38430,1.1
+Iowa,"Eligibility Interviewers, Government Programs",1010,0.8,0.652,0.68,26.97,56100,1.7
+Iowa,File Clerks,520,9.7,0.336,0.48,16.31,33910,3.9
+Iowa,"Hotel, Motel, and Resort Desk Clerks",3580,7.2,2.313,1.27,11.23,23370,1.3
+Iowa,"Interviewers, Except Eligibility and Loan",1420,8.7,0.918,0.71,15.54,32330,0.9
+Iowa,"Library Assistants, Clerical",1750,6.4,1.13,1.93,12.14,25250,2.9
+Iowa,Loan Interviewers and Clerks,3780,5.8,2.438,1.72,18.83,39160,1.5
+Iowa,New Accounts Clerks,1220,14.8,0.785,2.66,18.69,38880,4.2
+Iowa,Order Clerks,820,10.2,0.531,0.57,18.09,37640,2.1
+Iowa,"Human Resources Assistants, Except Payroll and Timekeeping",900,4.5,0.579,0.73,19.5,40560,1.1
+Iowa,Receptionists and Information Clerks,8440,4,5.445,0.76,14.39,29930,0.9
+Iowa,Reservation and Transportation Ticket Agents and Travel Clerks,390,24,0.253,0.3,15.35,31930,10.3
+Iowa,"Information and Record Clerks, All Other",680,4.4,0.441,0.42,20.22,42060,1.6
+Iowa,Cargo and Freight Agents,390,19.4,0.249,0.38,19.36,40270,5
+Iowa,Couriers and Messengers,580,10.5,0.372,0.73,13.22,27500,2.4
+Iowa,Public Safety Telecommunicators,920,5.1,0.593,0.91,22.51,46820,1.4
+Iowa,"Dispatchers, Except Police, Fire, and Ambulance",1790,9.7,1.154,0.85,21.68,45100,2
+Iowa,"Meter Readers, Utilities",290,14.3,0.189,0.91,23.13,48120,1.9
+Iowa,Postal Service Clerks,1380,0,0.892,1.61,22.26,46300,0.4
+Iowa,Postal Service Mail Carriers,3990,0,2.576,1.11,24.76,51490,0.7
+Iowa,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1150,0,0.742,1.06,24.62,51200,2.4
+Iowa,"Production, Planning, and Expediting Clerks",3840,5.4,2.481,0.98,24.54,51040,1.3
+Iowa,"Shipping, Receiving, and Inventory Clerks",6170,5.1,3.982,0.83,17.42,36240,1.1
+Iowa,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",670,11.7,0.43,1.04,16.95,35260,1.5
+Iowa,Executive Secretaries and Executive Administrative Assistants,5190,3.5,3.35,0.91,24.96,51930,1.2
+Iowa,Legal Secretaries and Administrative Assistants,1560,12.2,1.007,0.88,19.23,40000,3.9
+Iowa,Medical Secretaries and Administrative Assistants,5260,6.4,3.394,0.82,16.86,35080,1.5
+Iowa,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",14980,2.2,9.667,0.7,17.64,36690,1
+Iowa,Data Entry Keyers,910,7.7,0.59,0.54,15.26,31750,2.3
+Iowa,Word Processors and Typists,450,8.2,0.291,0.9,16.85,35050,5.3
+Iowa,Desktop Publishers,160,26,0.102,1.71,19.37,40290,3.5
+Iowa,Insurance Claims and Policy Processing Clerks,5260,11.3,3.398,1.94,20.47,42570,2.3
+Iowa,"Mail Clerks and Mail Machine Operators, Except Postal Service",1350,6.9,0.874,1.54,14.34,29830,1.9
+Iowa,"Office Clerks, General",29550,2.4,19.071,0.95,17.11,35600,0.7
+Iowa,"Office Machine Operators, Except Computer",390,11.2,0.253,0.81,16.49,34310,2.6
+Iowa,Statistical Assistants,230,7.4,0.148,2.21,26.46,55040,4.3
+Iowa,"Office and Administrative Support Workers, All Other",780,9.8,0.506,0.39,16.74,34820,3.2
+Iowa,"Farming, Fishing, and Forestry Occupations",5450,6.6,3.515,1.06,17.58,36560,2.3
+Iowa,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",250,20.6,0.159,1.03,27.44,57080,3.7
+Iowa,Agricultural Inspectors,370,11,0.238,2.54,25.23,52480,2.4
+Iowa,Animal Breeders,60,20.5,0.036,3.24,16.66,34650,5.5
+Iowa,"Graders and Sorters, Agricultural Products",130,12.6,0.083,0.36,15.79,32840,4.6
+Iowa,Agricultural Equipment Operators,1580,11.2,1.017,5.54,18.34,38150,3.5
+Iowa,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1430,19.2,0.923,0.46,15.36,31950,7.3
+Iowa,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1130,12.9,0.73,2.93,15.88,33040,3
+Iowa,"Agricultural Workers, All Other",310,35.9,0.202,4.53,13.9,28920,4.9
+Iowa,Forest and Conservation Workers,90,21.1,0.06,1.31,12.08,25120,2.3
+Iowa,Logging Equipment Operators,40,36.4,0.023,0.13,15.43,32100,9.3
+Iowa,Log Graders and Scalers,40,28.1,0.027,1.22,*,*,*
+Iowa,Construction and Extraction Occupations,68200,2.1,44.017,1.04,23.47,48820,0.7
+Iowa,First-Line Supervisors of Construction Trades and Extraction Workers,7350,3.9,4.741,1.11,31.36,65240,1.1
+Iowa,Brickmasons and Blockmasons,770,20.7,0.494,1.2,27.69,57610,3
+Iowa,Carpenters,5800,6.6,3.744,0.75,21.4,44520,1.3
+Iowa,Carpet Installers,290,19.6,0.185,1.05,23.87,49650,5.4
+Iowa,"Floor Layers, Except Carpet, Wood, and Hard Tiles",180,48,0.113,1.02,24.63,51240,6
+Iowa,Tile and Stone Setters,140,22.6,0.092,0.34,22.95,47730,4.3
+Iowa,Cement Masons and Concrete Finishers,4170,11.2,2.691,2.02,20.42,42470,1.5
+Iowa,Construction Laborers,12260,5.2,7.912,1.14,18.48,38430,1
+Iowa,"Paving, Surfacing, and Tamping Equipment Operators",630,25.8,0.408,1.31,23.62,49120,4.2
+Iowa,Operating Engineers and Other Construction Equipment Operators,5920,5.8,3.821,1.38,24.06,50050,1.1
+Iowa,Drywall and Ceiling Tile Installers,850,37.8,0.55,0.79,18.03,37490,5.2
+Iowa,Tapers,**,**,**,**,29.3,60950,2.1
+Iowa,Electricians,8510,5.3,5.49,1.17,26.95,56050,1.8
+Iowa,Glaziers,580,23.5,0.372,1.04,18.89,39300,3.7
+Iowa,"Insulation Workers, Floor, Ceiling, and Wall",250,21.5,0.162,0.71,20.79,43240,3.7
+Iowa,"Insulation Workers, Mechanical",410,22.8,0.267,1.47,24.68,51340,6.1
+Iowa,"Painters, Construction and Maintenance",1880,9.3,1.211,0.76,20.7,43060,2.6
+Iowa,Pipelayers,170,31.1,0.109,0.44,23.64,49170,3.5
+Iowa,"Plumbers, Pipefitters, and Steamfitters",4460,7,2.88,0.96,27.94,58120,1.9
+Iowa,Plasterers and Stucco Masons,130,43.3,0.087,0.47,25.3,52620,4.9
+Iowa,Roofers,1170,9.7,0.755,0.85,20.88,43420,3.3
+Iowa,Sheet Metal Workers,1420,9.7,0.916,1.03,24.04,50000,2.6
+Iowa,Structural Iron and Steel Workers,930,31.8,0.601,1.15,25.73,53520,2.4
+Iowa,Solar Photovoltaic Installers,**,**,**,**,18.92,39350,3.4
+Iowa,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",210,30.7,0.133,0.83,20.88,43430,4.6
+Iowa,Helpers--Carpenters,250,24.7,0.159,0.71,16.06,33410,3.8
+Iowa,Helpers--Electricians,970,17.6,0.623,1.16,18.58,38650,5.3
+Iowa,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",780,23.5,0.5,1.26,16.42,34150,3.1
+Iowa,"Helpers, Construction Trades, All Other",**,**,**,**,11.02,22920,10
+Iowa,Construction and Building Inspectors,800,3.9,0.515,0.68,32.44,67480,2.6
+Iowa,Elevator and Escalator Installers and Repairers,200,28.4,0.126,0.65,37.34,77670,3.4
+Iowa,Fence Erectors,370,33.1,0.24,1.36,17.46,36320,6.3
+Iowa,Hazardous Materials Removal Workers,450,37.7,0.292,0.97,19.62,40800,7.8
+Iowa,Highway Maintenance Workers,3570,3.2,2.301,2.24,22.4,46590,0.6
+Iowa,Septic Tank Servicers and Sewer Pipe Cleaners,470,22.9,0.302,1.49,22.67,47150,2.7
+Iowa,Miscellaneous Construction and Related Workers,130,29.6,0.086,0.39,18.72,38940,4.4
+Iowa,"Excavating and Loading Machine and Dragline Operators, Surface Mining",290,11.6,0.185,0.62,21.17,44030,3.8
+Iowa,Continuous Mining Machine Operators,**,**,**,**,21.85,45450,2.5
+Iowa,"Loading and Moving Machine Operators, Underground Mining",110,47.9,0.068,2.39,18.87,39240,2.8
+Iowa,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",160,29.5,0.102,0.6,22.4,46590,4.4
+Iowa,"Installation, Maintenance, and Repair Occupations",69420,1.7,44.804,1.15,23.28,48430,0.6
+Iowa,"First-Line Supervisors of Mechanics, Installers, and Repairers",5860,3.1,3.78,1.14,32.08,66740,1.3
+Iowa,"Computer, Automated Teller, and Office Machine Repairers",920,15.6,0.593,0.89,20.07,41740,3.5
+Iowa,"Radio, Cellular, and Tower Equipment Installers and Repairers",110,35.4,0.068,0.7,21.97,45710,4.2
+Iowa,"Telecommunications Equipment Installers and Repairers, Except Line Installers",2350,10,1.519,1.07,25.68,53420,2.9
+Iowa,"Electric Motor, Power Tool, and Related Repairers",100,26.2,0.067,0.62,21.15,43990,2.9
+Iowa,"Electrical and Electronics Installers and Repairers, Transportation Equipment",180,5.8,0.114,1.72,31.39,65290,3.5
+Iowa,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",290,17.7,0.189,0.47,28.1,58450,2.3
+Iowa,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",100,44.5,0.063,0.41,39.07,81260,2.9
+Iowa,"Electronic Equipment Installers and Repairers, Motor Vehicles",30,33.2,0.021,0.3,15.72,32700,7
+Iowa,Audiovisual Equipment Installers and Repairers,290,25.3,0.187,1.08,21.62,44960,9.1
+Iowa,Security and Fire Alarm Systems Installers,570,23.4,0.366,0.75,23.67,49230,2.5
+Iowa,Aircraft Mechanics and Service Technicians,440,14,0.282,0.31,28.17,58600,5.3
+Iowa,Automotive Body and Related Repairers,1960,9.5,1.265,1.29,21.17,44040,2.7
+Iowa,Automotive Glass Installers and Repairers,210,32.8,0.135,1.02,18.48,38450,9.2
+Iowa,Automotive Service Technicians and Mechanics,7140,4.9,4.609,1.03,20.79,43240,2
+Iowa,Bus and Truck Mechanics and Diesel Engine Specialists,4100,7.7,2.645,1.46,22.02,45810,1.4
+Iowa,Farm Equipment Mechanics and Service Technicians,2290,7.8,1.478,5.98,21.48,44670,1.6
+Iowa,"Mobile Heavy Equipment Mechanics, Except Engines",1620,8.8,1.045,1.04,25.32,52660,1.3
+Iowa,Rail Car Repairers,510,31.6,0.329,1.86,24.28,50500,6.7
+Iowa,Motorboat Mechanics and Service Technicians,160,29.4,0.103,0.66,17.82,37060,3.7
+Iowa,Motorcycle Mechanics,360,14.9,0.23,2.16,15.72,32700,4.2
+Iowa,Outdoor Power Equipment and Other Small Engine Mechanics,370,25.7,0.239,1.09,16.91,35160,4.3
+Iowa,Bicycle Repairers,190,37.3,0.125,1.4,14.11,29350,5.6
+Iowa,Recreational Vehicle Service Technicians,290,19.9,0.186,1.75,18.92,39360,3.5
+Iowa,Tire Repairers and Changers,1330,12.3,0.856,1.13,15.35,31920,2.1
+Iowa,Mechanical Door Repairers,590,23.4,0.38,2.42,20.24,42090,2.8
+Iowa,"Control and Valve Installers and Repairers, Except Mechanical Door",490,13.9,0.314,0.88,31.75,66040,3.7
+Iowa,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4290,6.8,2.769,1.19,24.45,50850,1.8
+Iowa,Home Appliance Repairers,510,33,0.329,1.55,18.42,38310,4
+Iowa,Industrial Machinery Mechanics,7950,5.5,5.13,1.94,24.81,51600,1.1
+Iowa,"Maintenance Workers, Machinery",570,18.5,0.371,0.75,23.35,48570,2.3
+Iowa,Millwrights,1310,17.9,0.846,2.63,25.74,53540,3.3
+Iowa,Electrical Power-Line Installers and Repairers,1850,11.5,1.192,1.57,34.41,71570,3.8
+Iowa,Telecommunications Line Installers and Repairers,880,19.3,0.566,0.69,26.76,55670,3.7
+Iowa,Medical Equipment Repairers,670,14.3,0.435,1.38,21.22,44150,2.8
+Iowa,Musical Instrument Repairers and Tuners,100,25.1,0.065,1.19,18.3,38060,13.9
+Iowa,"Precision Instrument and Equipment Repairers, All Other",100,35.2,0.063,0.88,23.64,49180,5.2
+Iowa,"Maintenance and Repair Workers, General",14200,2.6,9.165,0.95,20.14,41900,0.8
+Iowa,Wind Turbine Service Technicians,480,22.1,0.307,7.58,27.65,57510,3.9
+Iowa,"Coin, Vending, and Amusement Machine Servicers and Repairers",480,26.2,0.312,1.46,16.25,33790,2.8
+Iowa,Locksmiths and Safe Repairers,220,34.9,0.144,1.25,20.25,42130,13.4
+Iowa,Manufactured Building and Mobile Home Installers,40,39.9,0.026,1.35,18.58,38640,6.9
+Iowa,Riggers,90,23,0.06,0.38,24.34,50620,3.6
+Iowa,"Helpers--Installation, Maintenance, and Repair Workers",950,14,0.61,0.9,15.29,31810,3.3
+Iowa,"Installation, Maintenance, and Repair Workers, All Other",1420,11.5,0.916,0.83,20.98,43630,1.9
+Iowa,Production Occupations,143840,2.6,92.829,1.49,18.85,39200,0.6
+Iowa,First-Line Supervisors of Production and Operating Workers,10170,2.6,6.564,1.53,28.95,60210,1
+Iowa,"Coil Winders, Tapers, and Finishers",30,28.8,0.019,0.22,17.9,37230,3.9
+Iowa,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",4430,8.7,2.858,1.47,19.49,40550,2.5
+Iowa,Engine and Other Machine Assemblers,**,**,**,**,18.99,39510,5.2
+Iowa,Structural Metal Fabricators and Fitters,980,15.1,0.635,1.21,19.14,39800,1.5
+Iowa,Fiberglass Laminators and Fabricators,520,39.7,0.333,2.44,20.76,43170,3.3
+Iowa,Miscellaneous Assemblers and Fabricators,20270,8.3,13.079,1.4,16.42,34160,1.1
+Iowa,Bakers,1920,21.6,1.237,0.98,13.23,27530,3.7
+Iowa,Butchers and Meat Cutters,2940,6,1.899,2.04,13.31,27680,1.2
+Iowa,"Meat, Poultry, and Fish Cutters and Trimmers",5870,8.3,3.79,3.61,16.8,34940,2.4
+Iowa,Slaughterers and Meat Packers,5010,12,3.234,6.47,15.86,32980,1.9
+Iowa,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",430,13.8,0.276,1.95,20.73,43130,5.2
+Iowa,Food Batchmakers,3720,8.4,2.4,2.21,18.38,38230,3.8
+Iowa,Food Cooking Machine Operators and Tenders,1050,12.5,0.675,3.3,18.25,37950,6.2
+Iowa,"Food Processing Workers, All Other",850,12.4,0.546,1.87,17.83,37080,2.3
+Iowa,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",750,17.9,0.482,0.92,21.18,44050,5.3
+Iowa,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",100,36.7,0.067,0.6,18.47,38410,3.1
+Iowa,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",390,26,0.254,1.15,19.34,40240,5.7
+Iowa,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2240,10.4,1.444,1.09,17.94,37300,1.3
+Iowa,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",110,21.4,0.074,1,21.96,45680,7.2
+Iowa,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",900,11.3,0.583,1.11,17.54,36480,1.6
+Iowa,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",410,33.7,0.267,1.4,18.67,38830,4.4
+Iowa,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,19.96,41520,2
+Iowa,Machinists,4570,5.3,2.948,1.13,19.44,40440,1.1
+Iowa,Metal-Refining Furnace Operators and Tenders,390,14.4,0.25,2.14,21.22,44150,3.3
+Iowa,"Pourers and Casters, Metal",410,17.2,0.264,4.84,21.46,44630,2.5
+Iowa,"Model Makers, Metal and Plastic",80,25.6,0.054,1.84,25.52,53080,3
+Iowa,"Patternmakers, Metal and Plastic",60,37.5,0.037,1.79,24.58,51120,5.3
+Iowa,Foundry Mold and Coremakers,240,16.8,0.154,1.28,19.09,39700,3.4
+Iowa,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",2980,9,1.924,1.64,16.43,34170,2.2
+Iowa,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3480,10.3,2.245,2.24,18.53,38540,2.5
+Iowa,Tool and Die Makers,1200,9.7,0.776,1.61,24.14,50220,1.5
+Iowa,"Welders, Cutters, Solderers, and Brazers",7700,7.5,4.968,1.78,19.16,39850,1
+Iowa,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1330,11.4,0.86,3.6,19.37,40280,1.4
+Iowa,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",220,20,0.143,1.08,17.88,37190,3.5
+Iowa,"Layout Workers, Metal and Plastic",**,**,**,**,22.92,47670,2.3
+Iowa,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",440,15.7,0.284,1,18.7,38900,3.2
+Iowa,"Tool Grinders, Filers, and Sharpeners",90,23.9,0.057,1.31,21.53,44790,4.3
+Iowa,"Metal Workers and Plastic Workers, All Other",**,**,**,**,20.88,43430,3.7
+Iowa,Prepress Technicians and Workers,540,11.1,0.347,1.68,18.35,38160,3.7
+Iowa,Printing Press Operators,2550,6.3,1.646,1.39,17.58,36560,2.9
+Iowa,Print Binding and Finishing Workers,480,19.3,0.311,1,16.87,35080,3.4
+Iowa,Laundry and Dry-Cleaning Workers,2370,8.3,1.529,1.07,12.08,25120,1.7
+Iowa,"Pressers, Textile, Garment, and Related Materials",220,31.6,0.141,0.54,11.77,24490,2.5
+Iowa,Sewing Machine Operators,770,14.1,0.499,0.55,13.65,28390,1.8
+Iowa,"Sewers, Hand",40,45.9,0.026,0.8,14.54,30250,14.1
+Iowa,"Tailors, Dressmakers, and Custom Sewers",150,36.2,0.096,0.59,15.79,32840,4.1
+Iowa,"Textile Cutting Machine Setters, Operators, and Tenders",70,29,0.048,0.53,15.81,32880,3.9
+Iowa,Upholsterers,80,31.9,0.054,0.27,17.48,36350,2.7
+Iowa,"Textile, Apparel, and Furnishings Workers, All Other",**,**,**,**,16.86,35060,6.1
+Iowa,Cabinetmakers and Bench Carpenters,1070,10.1,0.69,1.02,19.85,41280,3.7
+Iowa,Furniture Finishers,190,24.3,0.126,1.14,17.21,35800,2.3
+Iowa,"Sawing Machine Setters, Operators, and Tenders, Wood",340,20.7,0.216,0.63,18.18,37810,4.3
+Iowa,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2550,13.9,1.643,3.06,18.31,38080,3.9
+Iowa,Power Plant Operators,240,16.3,0.153,0.67,36.9,76750,4
+Iowa,Stationary Engineers and Boiler Operators,300,6,0.194,0.88,27.5,57190,1.7
+Iowa,Water and Wastewater Treatment Plant and System Operators,1810,7.1,1.169,1.39,22.17,46110,2.1
+Iowa,Chemical Plant and System Operators,810,26.7,0.524,2.67,29.45,61250,3.3
+Iowa,Gas Plant Operators,50,29.7,0.034,0.35,26.54,55200,7.2
+Iowa,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",120,43.4,0.077,0.28,34.13,70980,3.3
+Iowa,"Plant and System Operators, All Other",400,14.6,0.258,2.92,32.51,67630,3.2
+Iowa,Chemical Equipment Operators and Tenders,1240,11.9,0.802,1.35,24.64,51250,4.7
+Iowa,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",670,16.3,0.43,1.23,21.62,44960,2.6
+Iowa,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1280,27.1,0.826,3.64,18.32,38100,3
+Iowa,"Grinding and Polishing Workers, Hand",210,22,0.134,0.68,16.72,34770,3.9
+Iowa,"Mixing and Blending Machine Setters, Operators, and Tenders",2270,8.9,1.462,1.71,20.35,42320,1.8
+Iowa,"Cutters and Trimmers, Hand",40,40.5,0.024,0.37,16.77,34870,7.3
+Iowa,"Cutting and Slicing Machine Setters, Operators, and Tenders",710,10.2,0.461,1.17,19.61,40800,3.8
+Iowa,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",780,30.1,0.504,1.03,17.52,36440,5.5
+Iowa,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",100,27.6,0.062,0.48,20.05,41710,2.7
+Iowa,"Inspectors, Testers, Sorters, Samplers, and Weighers",5920,4.1,3.822,0.97,20.8,43260,1.8
+Iowa,Jewelers and Precious Stone and Metal Workers,120,17.7,0.078,0.49,22.44,46680,5.4
+Iowa,Dental Laboratory Technicians,480,13.6,0.309,1.32,20.36,42340,3.3
+Iowa,Medical Appliance Technicians,120,33.9,0.075,0.78,20.7,43060,4.3
+Iowa,Ophthalmic Laboratory Technicians,190,23.6,0.12,0.6,17.21,35800,3.4
+Iowa,Packaging and Filling Machine Operators and Tenders,6400,5.2,4.132,1.55,16.55,34430,3
+Iowa,"Painting, Coating, and Decorating Workers",240,26.2,0.152,1.79,18.1,37640,4.7
+Iowa,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2760,7.3,1.779,1.79,19.13,39780,2.6
+Iowa,Photographic Process Workers and Processing Machine Operators,180,26.4,0.115,1.42,13.79,28680,3.9
+Iowa,Computer Numerically Controlled Tool Operators,2820,11.1,1.82,1.76,19.87,41330,2.4
+Iowa,Computer Numerically Controlled Tool Programmers,410,6.2,0.262,1.5,24.25,50440,3
+Iowa,Adhesive Bonding Machine Operators and Tenders,50,13.6,0.03,0.31,18.53,38550,5.6
+Iowa,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",290,22.8,0.185,1.66,16.55,34410,4.4
+Iowa,Cooling and Freezing Equipment Operators and Tenders,580,6,0.374,6.28,19.35,40250,3.3
+Iowa,Etchers and Engravers,90,34.5,0.058,0.83,18.03,37510,12.9
+Iowa,"Molders, Shapers, and Casters, Except Metal and Plastic",580,16.1,0.375,1.23,17.89,37220,4.3
+Iowa,"Paper Goods Machine Setters, Operators, and Tenders",1350,9,0.869,1.27,20.27,42160,6.7
+Iowa,Tire Builders,520,47.3,0.339,2.39,21.71,45150,3
+Iowa,Helpers--Production Workers,6130,9.7,3.956,1.92,15.94,33160,2
+Iowa,"Production Workers, All Other",3440,10.3,2.22,1.47,15.65,32560,2.8
+Iowa,Transportation and Material Moving Occupations,143770,2,92.79,1.09,18.18,37810,1
+Iowa,Aircraft Cargo Handling Supervisors,70,39.7,0.043,0.67,24.96,51920,3.9
+Iowa,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",4740,4.2,3.059,0.99,27.5,57200,1.2
+Iowa,"Airline Pilots, Copilots, and Flight Engineers",80,28.5,0.049,0.08,*,106580,11.9
+Iowa,Commercial Pilots,340,19,0.217,0.84,*,93520,5
+Iowa,Air Traffic Controllers,160,37.8,0.104,0.69,40.07,83350,1.5
+Iowa,Airfield Operations Specialists,70,5.9,0.046,0.63,25.9,53870,5.2
+Iowa,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",210,22.8,0.137,1.37,12.19,25360,6.9
+Iowa,Driver/Sales Workers,5220,11,3.369,1.11,14.8,30770,3.8
+Iowa,Heavy and Tractor-Trailer Truck Drivers,38900,5.3,25.105,1.99,21.06,43800,1.7
+Iowa,Light Truck Drivers,9670,5.3,6.243,0.99,15.9,33080,2.3
+Iowa,"Bus Drivers, Transit and Intercity",1560,11.7,1.008,0.83,16.74,34810,2.8
+Iowa,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",6710,7.5,4.329,0.91,17.67,36760,3.8
+Iowa,"Motor Vehicle Operators, All Other",610,32,0.395,1.03,13.02,27090,11
+Iowa,Locomotive Engineers,1200,43.8,0.774,3.2,34.05,70830,2.9
+Iowa,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",**,**,**,**,25.47,52970,3.7
+Iowa,Sailors and Marine Oilers,90,5.3,0.056,0.26,19.12,39770,2.7
+Iowa,"Captains, Mates, and Pilots of Water Vessels",50,20.6,0.035,0.15,42.46,88330,2.3
+Iowa,Bridge and Lock Tenders,60,9.1,0.036,1.69,27.08,56330,1.9
+Iowa,Parking Attendants,860,14.2,0.555,0.55,13.76,28620,8.5
+Iowa,Automotive and Watercraft Service Attendants,610,15.4,0.391,0.49,15.17,31560,2.5
+Iowa,Traffic Technicians,180,1.2,0.117,2.3,20.22,42050,1.8
+Iowa,Transportation Inspectors,150,43.1,0.099,0.49,36.69,76310,9.3
+Iowa,Passenger Attendants,**,**,**,**,14.13,29400,3.6
+Iowa,"Aircraft Service Attendants and Transportation Workers, All Other",60,43.3,0.036,0.15,15.71,32670,3.1
+Iowa,Conveyor Operators and Tenders,860,14.9,0.558,3.41,17.63,36680,2.3
+Iowa,Crane and Tower Operators,610,18.2,0.393,1.27,27.01,56180,3.3
+Iowa,Dredge Operators,40,32.1,0.025,2.32,21.3,44300,7.1
+Iowa,Industrial Truck and Tractor Operators,8020,7.3,5.174,1.21,18.79,39090,1.4
+Iowa,Cleaners of Vehicles and Equipment,4430,9.6,2.861,1.1,13.31,27690,1.8
+Iowa,"Laborers and Freight, Stock, and Material Movers, Hand",29270,3.3,18.888,0.94,16.22,33730,0.9
+Iowa,Machine Feeders and Offbearers,680,21.6,0.441,1.02,18.04,37520,5.2
+Iowa,"Packers and Packagers, Hand",3330,9.1,2.149,0.5,14.68,30540,1.9
+Iowa,Stockers and Order Fillers,21580,3.9,13.926,0.96,14.62,30410,1.2
+Iowa,Refuse and Recyclable Material Collectors,1250,9.9,0.805,0.97,17.84,37110,2.4
+Iowa,"Tank Car, Truck, and Ship Loaders",100,18.8,0.062,0.78,20.17,41960,3
+Iowa,"Material Moving Workers, All Other",40,35.5,0.024,0.12,19.53,40620,9.8

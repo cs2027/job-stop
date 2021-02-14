@@ -1,0 +1,579 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Hawaii,All Occupations,635500,0.7,1000,1,26.41,54930,1.6
+Hawaii,Management Occupations,34110,1.8,53.677,0.98,52.74,109690,1
+Hawaii,Chief Executives,910,8.4,1.43,1.02,91.35,190010,3.9
+Hawaii,General and Operations Managers,9370,2.7,14.748,0.9,55.37,115160,1.6
+Hawaii,Legislators,120,0,0.187,0.53,*,61330,3.2
+Hawaii,Advertising and Promotions Managers,100,16.5,0.164,0.96,46.78,97300,4.6
+Hawaii,Marketing Managers,670,9.2,1.055,0.59,51.86,107880,3.8
+Hawaii,Sales Managers,1830,10.7,2.872,1.05,52.33,108840,4.1
+Hawaii,Public Relations and Fundraising Managers,430,9.6,0.676,1.25,54.27,112880,5.2
+Hawaii,Administrative Services and Facilities Managers,1610,6.2,2.531,1.21,50,103990,3
+Hawaii,Computer and Information Systems Managers,990,6.8,1.55,0.52,61.27,127450,1.8
+Hawaii,Financial Managers,2820,3.2,4.445,1,59.03,122780,2
+Hawaii,Industrial Production Managers,130,14.2,0.208,0.16,47.67,99160,4.6
+Hawaii,Purchasing Managers,260,6.8,0.412,0.84,49.19,102310,2.2
+Hawaii,"Transportation, Storage, and Distribution Managers",500,7.6,0.791,0.88,46.29,96290,2.6
+Hawaii,Compensation and Benefits Managers,40,12.1,0.061,0.53,52.09,108350,3.6
+Hawaii,Human Resources Managers,600,4.6,0.946,0.9,53.15,110540,1.5
+Hawaii,Training and Development Managers,130,9.6,0.2,0.76,49.51,102970,3.9
+Hawaii,Construction Managers,2160,6.7,3.401,1.7,56.21,116910,3.5
+Hawaii,"Education and Childcare Administrators, Preschool and Daycare",180,21.9,0.284,0.8,27.18,56540,4.5
+Hawaii,"Education Administrators, Kindergarten through Secondary",1080,5.3,1.698,0.92,*,102290,2.1
+Hawaii,"Education Administrators, Postsecondary",410,11.8,0.642,0.65,61.19,127280,5.8
+Hawaii,"Education Administrators, All Other",200,12.5,0.318,1.05,49.7,103370,8.7
+Hawaii,Architectural and Engineering Managers,890,8.5,1.402,1.06,67.48,140370,2.5
+Hawaii,Food Service Managers,1170,14.5,1.844,1.15,35.17,73160,2.8
+Hawaii,Lodging Managers,350,14.9,0.552,2.11,48.43,100730,5.4
+Hawaii,Medical and Health Services Managers,1540,3.7,2.43,0.9,64.09,133320,3.1
+Hawaii,Natural Sciences Managers,270,10.6,0.424,0.92,54.55,113470,2.9
+Hawaii,Postmasters and Mail Superintendents,60,0,0.096,1.02,39.47,82100,1.8
+Hawaii,"Property, Real Estate, and Community Association Managers",2880,11.7,4.535,3.02,31.58,65690,4.9
+Hawaii,Social and Community Service Managers,720,8.3,1.14,1.07,34.38,71510,2.1
+Hawaii,Emergency Management Directors,80,0.6,0.122,1.78,42.91,89260,2.3
+Hawaii,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",1540,2.5,2.431,0.76,48.01,99870,3.4
+Hawaii,Business and Financial Operations Occupations,29170,1.8,45.904,0.82,34.71,72190,2.1
+Hawaii,Buyers and Purchasing Agents,1760,7.3,2.763,0.96,30.31,63040,4.4
+Hawaii,"Claims Adjusters, Examiners, and Investigators",730,11.4,1.155,0.59,31.29,65080,2.2
+Hawaii,Compliance Officers,1650,4.8,2.604,1.2,33.42,69510,2.4
+Hawaii,Cost Estimators,850,8.9,1.331,0.93,40.92,85120,3.6
+Hawaii,Human Resources Specialists,2140,3.4,3.36,0.78,32.48,67560,2.3
+Hawaii,Labor Relations Specialists,490,18.9,0.767,1.49,42.37,88120,8
+Hawaii,Logisticians,440,6.8,0.7,0.56,40.66,84580,2.4
+Hawaii,Management Analysts,2010,3.7,3.159,0.65,38.76,80620,2.7
+Hawaii,"Meeting, Convention, and Event Planners",910,12.5,1.437,1.79,28.24,58740,7.6
+Hawaii,Fundraisers,280,14.8,0.443,0.8,32.8,68230,3.7
+Hawaii,"Compensation, Benefits, and Job Analysis Specialists",260,12.8,0.407,0.67,31.16,64810,2.7
+Hawaii,Training and Development Specialists,1080,12,1.705,0.8,32.98,68610,6.4
+Hawaii,Market Research Analysts and Marketing Specialists,**,**,**,**,27.65,57520,4.7
+Hawaii,"Project Management Specialists and Business Operations Specialists, All Other",5140,3.6,8.082,0.93,36.91,76780,2.7
+Hawaii,Accountants and Auditors,4770,4.6,7.511,0.86,31.74,66020,1.5
+Hawaii,Property Appraisers and Assessors,200,24.4,0.314,0.82,32.33,67240,3.5
+Hawaii,Budget Analysts,280,4.1,0.448,1.28,39.92,83030,3
+Hawaii,Credit Analysts,130,10.2,0.211,0.42,39.51,82180,2.9
+Hawaii,Personal Financial Advisors,640,7.8,1.015,0.71,39.85,82890,7.7
+Hawaii,Insurance Underwriters,460,13.2,0.726,1.07,31.83,66210,3.1
+Hawaii,Credit Counselors,40,30.4,0.059,0.27,24.93,51860,2.8
+Hawaii,Loan Officers,1190,8.8,1.867,0.89,42.19,87750,6.5
+Hawaii,"Tax Examiners and Collectors, and Revenue Agents",90,0,0.14,0.38,34.85,72490,1.8
+Hawaii,Tax Preparers,320,42.5,0.51,1.12,22.71,47240,6.6
+Hawaii,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",1220,12.6,1.92,0.62,46.87,97490,17.5
+Hawaii,Computer and Mathematical Occupations,10890,3,17.14,0.55,39.32,81790,1.5
+Hawaii,Computer Systems Analysts,1780,5,2.796,0.7,38.29,79650,1.8
+Hawaii,Information Security Analysts,340,22.6,0.538,0.63,50.44,104910,12
+Hawaii,Computer and Information Research Scientists,80,4.8,0.126,0.6,*,*,*
+Hawaii,Computer Network Support Specialists,840,13.4,1.326,1.05,31.1,64700,3.1
+Hawaii,Computer User Support Specialists,1150,5.9,1.815,0.41,24.33,50610,1.6
+Hawaii,Computer Network Architects,420,13.9,0.667,0.64,46.53,96790,2.8
+Hawaii,Network and Computer Systems Administrators,1260,8.6,1.978,0.82,39.65,82460,2
+Hawaii,Database Administrators and Architects,310,14.2,0.484,0.57,45.19,93990,4.3
+Hawaii,Computer Programmers,470,20,0.732,0.54,38.17,79390,4.9
+Hawaii,Software Developers and Software Quality Assurance Analysts and Testers,1880,8.7,2.955,0.31,47.87,99570,5.2
+Hawaii,Web Developers and Digital Interface Designers,300,14.3,0.467,0.46,30.52,63480,3.5
+Hawaii,"Computer Occupations, All Other",1700,3.4,2.668,1,40.78,84820,4.9
+Hawaii,Operations Research Analysts,150,19.2,0.241,0.35,45.2,94010,4.2
+Hawaii,Statisticians,170,29.1,0.264,0.99,35.44,73710,2.1
+Hawaii,Architecture and Engineering Occupations,9250,3,14.551,0.82,39.71,82600,2
+Hawaii,"Architects, Except Landscape and Naval",680,10.2,1.062,1.47,40.11,83430,5.2
+Hawaii,Landscape Architects,**,**,**,**,36.89,76730,16
+Hawaii,Cartographers and Photogrammetrists,40,21.9,0.064,0.83,33.98,70670,5.7
+Hawaii,Surveyors,220,23.6,0.341,1.11,29.66,61700,4.4
+Hawaii,Aerospace Engineers,30,48.1,0.053,0.12,55.95,116370,8.4
+Hawaii,Civil Engineers,2050,6.6,3.22,1.52,41.51,86340,1.7
+Hawaii,Computer Hardware Engineers,60,26.6,0.1,0.22,57.8,120220,6.9
+Hawaii,Electrical Engineers,990,13.1,1.551,1.23,43.24,89930,2.4
+Hawaii,"Electronics Engineers, Except Computer",450,6,0.713,0.81,48.86,101620,1.6
+Hawaii,Environmental Engineers,200,14.2,0.318,0.88,44.12,91770,2.7
+Hawaii,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",80,28.5,0.132,0.75,40.48,84200,4
+Hawaii,Industrial Engineers,60,28.2,0.087,0.04,46.9,97550,6.5
+Hawaii,Marine Engineers and Naval Architects,90,9.6,0.148,1.91,39.43,82020,3.6
+Hawaii,Mechanical Engineers,740,4.7,1.158,0.55,39.53,82220,5.3
+Hawaii,Petroleum Engineers,30,26.4,0.05,0.23,56.25,116990,2.1
+Hawaii,"Engineers, All Other",600,3.5,0.946,0.91,47.82,99470,1.9
+Hawaii,Architectural and Civil Drafters,400,16.2,0.628,0.93,27.06,56290,3.7
+Hawaii,Electrical and Electronics Drafters,160,20.2,0.246,1.5,30.95,64380,7.8
+Hawaii,Mechanical Drafters,90,17.3,0.148,0.39,32.29,67170,11.5
+Hawaii,"Drafters, All Other",30,22.8,0.053,0.53,24.21,50350,4.5
+Hawaii,Aerospace Engineering and Operations Technologists and Technicians,70,9.6,0.109,1.39,37.15,77260,3.5
+Hawaii,Civil Engineering Technologists and Technicians,170,14.3,0.263,0.56,27.83,57890,2
+Hawaii,Electrical and Electronic Engineering Technologists and Technicians,650,12.5,1.021,1.22,35.82,74500,2.8
+Hawaii,Environmental Engineering Technologists and Technicians,70,18.3,0.106,0.87,26.84,55820,7.4
+Hawaii,Surveying and Mapping Technicians,120,17,0.195,0.54,22.95,47730,2.7
+Hawaii,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",470,7.9,0.742,1.23,34.39,71520,7.7
+Hawaii,"Life, Physical, and Social Science Occupations",6510,2.1,10.247,1.17,35.47,73770,3
+Hawaii,Soil and Plant Scientists,110,27.7,0.165,1.72,32.41,67420,4.7
+Hawaii,Microbiologists,50,19.4,0.084,0.67,35.13,73060,5.2
+Hawaii,Zoologists and Wildlife Biologists,250,12.8,0.394,3,35.58,74020,2.6
+Hawaii,"Biological Scientists, All Other",300,0.8,0.468,1.71,38.57,80220,2.4
+Hawaii,Conservation Scientists,170,18.6,0.269,1.79,33.97,70650,4.1
+Hawaii,"Medical Scientists, Except Epidemiologists",280,1.9,0.442,0.51,45.39,94420,3.2
+Hawaii,Astronomers,100,10.8,0.151,10.72,65.5,136230,6
+Hawaii,Physicists,50,13.5,0.076,0.67,59.93,124660,9.8
+Hawaii,Atmospheric and Space Scientists,80,18.2,0.124,1.96,49.85,103690,2
+Hawaii,Chemists,150,10.4,0.242,0.43,37.29,77560,3.6
+Hawaii,"Environmental Scientists and Specialists, Including Health",560,7.7,0.882,1.54,33.67,70030,3.6
+Hawaii,"Geoscientists, Except Hydrologists and Geographers",110,8,0.18,0.9,55.1,114620,3
+Hawaii,"Physical Scientists, All Other",70,1.6,0.118,0.99,51.47,107050,4
+Hawaii,Economists,90,8.3,0.149,1.15,40.73,84710,2.3
+Hawaii,Survey Researchers,60,4.3,0.091,1.35,20.44,42510,3.1
+Hawaii,"Clinical, Counseling, and School Psychologists",410,12.5,0.653,0.85,*,*,*
+Hawaii,"Psychologists, All Other",130,7.1,0.203,2.1,41.55,86430,3.8
+Hawaii,Urban and Regional Planners,490,6,0.777,2.96,36.71,76350,2.3
+Hawaii,Anthropologists and Archeologists,130,14.3,0.21,4.59,37.71,78440,3.6
+Hawaii,Historians,30,3.9,0.052,2.5,40.85,84980,4.6
+Hawaii,"Social Scientists and Related Workers, All Other",270,2.3,0.423,1.84,45.39,94420,2.3
+Hawaii,Agricultural and Food Science Technicians,60,41.8,0.096,0.65,20.84,43340,3.9
+Hawaii,Biological Technicians,650,1.1,1.022,1.89,18.32,38100,1.2
+Hawaii,Chemical Technicians,**,**,**,**,26.72,55580,2.6
+Hawaii,"Environmental Science and Protection Technicians, Including Health",130,3.1,0.2,0.9,24.59,51160,1.8
+Hawaii,Social Science Research Assistants,110,6.7,0.167,0.69,21.85,45450,3.7
+Hawaii,Forest and Conservation Technicians,80,0,0.123,0.95,19.76,41090,1.6
+Hawaii,Forensic Science Technicians,80,0,0.122,1.09,27.16,56500,2.4
+Hawaii,"Life, Physical, and Social Science Technicians, All Other",730,6.9,1.146,2.62,26.37,54850,4.5
+Hawaii,Occupational Health and Safety Specialists,470,9.4,0.739,1.17,35.32,73470,2.8
+Hawaii,Occupational Health and Safety Technicians,40,17.1,0.056,0.4,25.83,53730,5
+Hawaii,Community and Social Service Occupations,11030,3.7,17.354,1.14,25.9,53860,1.9
+Hawaii,"Educational, Guidance, and Career Counselors and Advisors",1780,4.8,2.796,1.39,29.23,60790,2.4
+Hawaii,Marriage and Family Therapists,150,33.8,0.232,0.58,33.2,69060,11.5
+Hawaii,Rehabilitation Counselors,170,31.5,0.267,0.36,20.87,43410,4.6
+Hawaii,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",710,10.1,1.117,0.58,26.59,55300,3.5
+Hawaii,"Counselors, All Other",100,19.1,0.155,0.9,28.2,58660,1.7
+Hawaii,"Child, Family, and School Social Workers",1700,6.2,2.681,1.2,27.43,57050,2.7
+Hawaii,Healthcare Social Workers,760,15.2,1.192,1,34.26,71260,2
+Hawaii,Mental Health and Substance Abuse Social Workers,420,17.3,0.654,0.82,28.52,59330,7.5
+Hawaii,"Social Workers, All Other",200,8.7,0.319,0.8,39.19,81520,2.9
+Hawaii,Health Education Specialists,390,11.1,0.613,1.54,35.39,73610,5.4
+Hawaii,Social and Human Service Assistants,2430,7.1,3.827,1.39,18.11,37660,1.6
+Hawaii,Community Health Workers,480,21.6,0.749,1.87,21.47,44660,4.9
+Hawaii,"Community and Social Service Specialists, All Other",810,11.8,1.276,1.92,27.26,56700,2.8
+Hawaii,Clergy,670,14.6,1.06,2.93,22.32,46430,6.2
+Hawaii,"Directors, Religious Activities and Education",130,18.3,0.204,1.38,22.37,46530,11.4
+Hawaii,"Religious Workers, All Other",**,**,**,**,18.26,37990,6.7
+Hawaii,Legal Occupations,4050,4,6.378,0.81,41.68,86690,4.4
+Hawaii,Lawyers,2040,7,3.207,0.72,52.61,109420,5.5
+Hawaii,Paralegals and Legal Assistants,1130,6.4,1.771,0.79,26.22,54530,3.3
+Hawaii,"Title Examiners, Abstractors, and Searchers",170,17.4,0.272,0.76,28.09,58430,4.6
+Hawaii,"Legal Support Workers, All Other",100,5,0.157,0.51,29.12,60580,2.7
+Hawaii,Educational Instruction and Library Occupations,44190,4.7,69.538,1.15,26.33,54770,3.1
+Hawaii,"Business Teachers, Postsecondary",280,6,0.441,0.77,*,93430,5.9
+Hawaii,"Computer Science Teachers, Postsecondary",120,13.2,0.185,0.86,*,102340,7.1
+Hawaii,"Mathematical Science Teachers, Postsecondary",170,2.2,0.271,0.78,*,72910,2
+Hawaii,"Engineering Teachers, Postsecondary",70,10.4,0.117,0.48,*,129270,9.4
+Hawaii,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",270,8.3,0.427,5.69,*,97830,4.2
+Hawaii,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",200,0.8,0.315,4.36,*,72410,2.7
+Hawaii,"Economics Teachers, Postsecondary",**,**,**,**,*,89620,2.2
+Hawaii,"Political Science Teachers, Postsecondary",70,11.5,0.108,1.01,*,90480,4.5
+Hawaii,"Psychology Teachers, Postsecondary",140,11.3,0.218,0.86,*,72030,2.5
+Hawaii,"Health Specialties Teachers, Postsecondary",480,1.4,0.756,0.55,*,144330,3.9
+Hawaii,"Nursing Instructors and Teachers, Postsecondary",190,20.5,0.304,0.75,*,82800,4.5
+Hawaii,"Education Teachers, Postsecondary",440,0.6,0.685,1.64,*,82130,2
+Hawaii,"Art, Drama, and Music Teachers, Postsecondary",300,27.3,0.467,0.73,*,66470,2.7
+Hawaii,"English Language and Literature Teachers, Postsecondary",450,3.7,0.701,1.51,*,65870,2.5
+Hawaii,"Philosophy and Religion Teachers, Postsecondary",70,2.4,0.111,0.69,*,80590,2
+Hawaii,"Career/Technical Education Teachers, Postsecondary",830,8.3,1.308,1.71,31.37,65250,2.5
+Hawaii,"Postsecondary Teachers, All Other",450,8.3,0.705,0.51,*,62360,2.7
+Hawaii,"Preschool Teachers, Except Special Education",1600,9.8,2.512,0.86,20.27,42160,3.1
+Hawaii,"Kindergarten Teachers, Except Special Education",**,**,**,**,*,37570,8.8
+Hawaii,"Elementary School Teachers, Except Special Education",5780,5.1,9.101,0.93,*,63360,2.5
+Hawaii,"Middle School Teachers, Except Special and Career/Technical Education",2090,7.7,3.288,0.78,*,63520,2.1
+Hawaii,"Secondary School Teachers, Except Special and Career/Technical Education",4320,6.3,6.804,0.96,*,62580,1.9
+Hawaii,"Special Education Teachers, Kindergarten and Elementary School",1690,3.5,2.659,2.01,*,55310,2.5
+Hawaii,"Special Education Teachers, Middle School",150,34.1,0.232,0.4,*,55260,2
+Hawaii,"Special Education Teachers, Secondary School",200,32.2,0.31,0.32,*,59980,2.1
+Hawaii,"Special Education Teachers, All Other",80,22.2,0.118,0.49,*,37210,6.5
+Hawaii,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",380,3.4,0.6,1.7,22.56,46920,3.8
+Hawaii,Self-Enrichment Teachers,2490,11.7,3.926,2.28,21.35,44410,4.6
+Hawaii,"Substitute Teachers, Short-Term",2760,8.5,4.35,1.09,23.17,48200,3.3
+Hawaii,"Tutors and Teachers and Instructors, All Other",6450,8.7,10.151,4.66,*,45350,2.6
+Hawaii,Archivists,**,**,**,**,20.73,43120,3.4
+Hawaii,Curators,50,12.1,0.073,0.83,28.88,60080,2.1
+Hawaii,Museum Technicians and Conservators,60,31.2,0.099,1.1,20.63,42910,2.1
+Hawaii,Librarians and Media Collections Specialists,510,3.5,0.81,0.88,33.77,70240,2.3
+Hawaii,Library Technicians,180,2.1,0.289,0.48,21.29,44290,2.1
+Hawaii,Instructional Coordinators,880,7.1,1.386,1.15,34.15,71040,2.5
+Hawaii,"Teaching Assistants, Except Postsecondary",6130,6.3,9.643,1.05,*,31380,2.5
+Hawaii,"Educational Instruction and Library Workers, All Other",400,4.6,0.629,0.72,26.61,55340,2.3
+Hawaii,"Arts, Design, Entertainment, Sports, and Media Occupations",9350,4.7,14.713,1.07,27.69,57580,3.2
+Hawaii,Art Directors,100,17.6,0.165,0.56,37.65,78310,8.1
+Hawaii,Craft Artists,30,15.1,0.054,1.71,31.18,64850,6.5
+Hawaii,"Fine Artists, Including Painters, Sculptors, and Illustrators",70,39,0.11,1.31,*,*,*
+Hawaii,Special Effects Artists and Animators,70,41.6,0.115,0.58,37.81,78640,6.6
+Hawaii,"Artists and Related Workers, All Other",**,**,**,**,16.82,34990,9.3
+Hawaii,Commercial and Industrial Designers,100,21.1,0.161,0.72,28.58,59440,6.5
+Hawaii,Fashion Designers,60,33.1,0.096,0.64,26.04,54160,6.4
+Hawaii,Floral Designers,260,14.1,0.413,1.45,16.04,33370,5.6
+Hawaii,Graphic Designers,550,9.6,0.861,0.59,26.09,54260,3.9
+Hawaii,Interior Designers,180,18.2,0.286,0.69,32.31,67200,5.9
+Hawaii,Merchandise Displayers and Window Trimmers,920,15.2,1.45,1.51,16.43,34180,2.5
+Hawaii,Set and Exhibit Designers,90,44.6,0.137,1.68,40.03,83260,2.6
+Hawaii,Actors,**,**,**,**,20.89,*,19.4
+Hawaii,Producers and Directors,**,**,**,**,38.19,79430,8.7
+Hawaii,Coaches and Scouts,920,15.8,1.451,0.88,*,43040,6.7
+Hawaii,Dancers,360,10.4,0.56,8.48,22.93,*,5.1
+Hawaii,Music Directors and Composers,100,19,0.162,2.24,38.69,80470,9.4
+Hawaii,Musicians and Singers,740,15.9,1.164,4.16,39.5,*,7.8
+Hawaii,"Miscellaneous Entertainers and Performers, Sports and Related Workers",90,24.6,0.14,1.29,25.01,*,15.8
+Hawaii,Broadcast Announcers and Radio Disc Jockeys,260,20.6,0.405,2.04,17.89,37220,12.8
+Hawaii,"News Analysts, Reporters, and Journalists",130,9.6,0.202,0.67,31,64490,10.6
+Hawaii,Public Relations Specialists,1090,7.7,1.714,1.03,30.21,62830,2.9
+Hawaii,Editors,420,26.6,0.663,1.01,37.36,77700,17.8
+Hawaii,Technical Writers,80,35.8,0.123,0.36,30.28,62980,7
+Hawaii,Writers and Authors,60,14.5,0.087,0.28,24.62,51210,5.6
+Hawaii,Interpreters and Translators,70,17.5,0.104,0.26,*,*,*
+Hawaii,"Media and Communication Workers, All Other",80,34.2,0.127,0.74,25.66,53370,8.7
+Hawaii,Audio and Video Technicians,510,12.7,0.806,1.6,26.21,54520,2.9
+Hawaii,Broadcast Technicians,60,37.8,0.096,0.49,21.32,44350,7.4
+Hawaii,Sound Engineering Technicians,30,20.6,0.049,0.56,22.58,46980,13.3
+Hawaii,Photographers,430,14.5,0.682,1.98,21.05,43780,6.9
+Hawaii,"Camera Operators, Television, Video, and Film",110,21.3,0.168,1.15,34.01,70750,5.4
+Hawaii,Film and Video Editors,110,22.8,0.17,0.9,*,*,*
+Hawaii,"Lighting Technicians and Media and Communication Equipment Workers, All Other",310,20.1,0.49,3.07,32.46,67520,10.2
+Hawaii,Healthcare Practitioners and Technical Occupations,30770,1.8,48.425,0.82,49.93,103850,2.5
+Hawaii,Chiropractors,80,22.6,0.126,0.53,52.43,109050,14.8
+Hawaii,"Dentists, General",700,15.1,1.104,1.46,87.6,182210,13.8
+Hawaii,Dietitians and Nutritionists,270,11.6,0.418,0.91,34.24,71230,1.7
+Hawaii,Optometrists,160,10,0.245,0.91,61.61,128140,9.4
+Hawaii,Pharmacists,1630,18.4,2.566,1.21,62.19,129360,1.6
+Hawaii,Physician Assistants,300,11.8,0.465,0.57,56.34,117200,4.9
+Hawaii,Podiatrists,40,38.5,0.062,0.93,58.13,120910,17.4
+Hawaii,Occupational Therapists,300,13.2,0.476,0.52,41.87,87080,1.8
+Hawaii,Physical Therapists,790,10.3,1.236,0.78,44.54,92650,3.1
+Hawaii,Radiation Therapists,**,**,**,**,47.23,98240,4.2
+Hawaii,Recreational Therapists,30,21.7,0.052,0.4,30.71,63870,2.5
+Hawaii,Respiratory Therapists,350,2.2,0.55,0.61,36.83,76610,1.5
+Hawaii,Speech-Language Pathologists,**,**,**,**,38.43,79930,2
+Hawaii,Veterinarians,250,21.3,0.388,0.76,47.02,97810,5
+Hawaii,Registered Nurses,11330,2.4,17.831,0.88,50.03,104060,1.8
+Hawaii,Nurse Anesthetists,90,36.8,0.135,0.45,95.35,198330,5.7
+Hawaii,Nurse Practitioners,420,21.9,0.668,0.49,59.62,124000,4.7
+Hawaii,Audiologists,100,38.6,0.15,1.62,*,*,*
+Hawaii,Anesthesiologists,**,**,**,**,#,#,24.6
+Hawaii,Family Medicine Physicians,330,23,0.526,0.71,113.67,236440,11.2
+Hawaii,General Internal Medicine Physicians,330,22.1,0.524,1.72,113.35,235770,8.3
+Hawaii,Obstetricians and Gynecologists,180,30.8,0.277,2.19,#,#,12.1
+Hawaii,"Pediatricians, General",200,23.3,0.307,1.52,83.31,173290,6.3
+Hawaii,"Physicians, All Other; and Ophthalmologists, Except Pediatric",1490,7.2,2.351,0.88,110.24,229310,8.4
+Hawaii,"Surgeons, Except Ophthalmologists",140,21.2,0.225,0.91,120.28,250180,12
+Hawaii,Dental Hygienists,1000,9.4,1.57,1.04,40.11,83430,3.3
+Hawaii,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",160,21.5,0.25,1.01,43.54,90560,18.6
+Hawaii,Clinical Laboratory Technologists and Technicians,1190,5.6,1.877,0.85,28.96,60230,1.7
+Hawaii,Cardiovascular Technologists and Technicians,150,3.1,0.242,0.63,31.37,65250,2.1
+Hawaii,Diagnostic Medical Sonographers,170,10.4,0.274,0.55,49.11,102140,1.7
+Hawaii,Nuclear Medicine Technologists,40,2.5,0.058,0.47,47.35,98480,2.1
+Hawaii,Radiologic Technologists and Technicians,660,5.6,1.038,0.74,39.75,82680,1.2
+Hawaii,Magnetic Resonance Imaging Technologists,110,16,0.172,0.67,46.42,96540,1.8
+Hawaii,Emergency Medical Technicians and Paramedics,590,3.1,0.936,0.53,27.22,56610,3.9
+Hawaii,Dietetic Technicians,230,16.4,0.368,1.85,15.89,33040,2.7
+Hawaii,Pharmacy Technicians,1790,10.7,2.811,0.99,20.14,41880,3.2
+Hawaii,Psychiatric Technicians,330,28.2,0.521,0.97,19.37,40290,2.6
+Hawaii,Surgical Technologists,310,6.6,0.495,0.67,28.2,58670,2.5
+Hawaii,Veterinary Technologists and Technicians,260,11.5,0.404,0.54,18.3,38070,3.5
+Hawaii,Ophthalmic Medical Technicians,340,29.9,0.529,1.33,18.23,37920,7.8
+Hawaii,Licensed Practical and Licensed Vocational Nurses,1050,7.8,1.66,0.35,24.52,51010,1.9
+Hawaii,"Opticians, Dispensing",340,41.3,0.53,1.08,23.38,48620,3.5
+Hawaii,Orthotists and Prosthetists,40,25.8,0.067,1.01,32.15,66880,6.5
+Hawaii,Hearing Aid Specialists,160,26.3,0.255,4.56,38.5,80080,25.6
+Hawaii,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",1070,7.1,1.68,0.74,26.41,54920,1.6
+Hawaii,Athletic Trainers,140,6.1,0.214,1.1,*,62610,1.7
+Hawaii,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,29.06,60440,2.8
+Hawaii,Healthcare Support Occupations,23430,2.8,36.876,0.83,17.39,36180,1.3
+Hawaii,Home Health and Personal Care Aides,8650,4.5,13.616,0.63,13.6,28290,2.1
+Hawaii,Nursing Assistants,4000,8.9,6.3,0.65,18.13,37710,2
+Hawaii,Orderlies,160,19.5,0.244,0.76,20.4,42430,1.9
+Hawaii,Psychiatric Aides,390,30.3,0.619,1.65,20.26,42130,4.6
+Hawaii,Occupational Therapy Assistants,50,22.9,0.077,0.25,29.25,60840,2.4
+Hawaii,Physical Therapist Assistants,190,22.3,0.294,0.45,26.61,55350,5.2
+Hawaii,Physical Therapist Aides,**,**,**,**,15.26,31740,4.9
+Hawaii,Massage Therapists,1200,15.5,1.891,2.59,28.74,59770,4.9
+Hawaii,Dental Assistants,1590,4.3,2.506,1.05,17.78,36990,3.6
+Hawaii,Medical Assistants,4340,6.2,6.829,1.41,19.05,39620,1.5
+Hawaii,Medical Equipment Preparers,290,16.2,0.449,1.16,22.24,46260,2.2
+Hawaii,Medical Transcriptionists,180,2.7,0.284,0.75,14.23,29610,4.3
+Hawaii,Pharmacy Aides,160,25.2,0.248,0.98,16.9,35140,3.6
+Hawaii,Veterinary Assistants and Laboratory Animal Caretakers,360,38.5,0.562,0.85,15.71,32680,2.8
+Hawaii,Phlebotomists,830,0.9,1.3,1.49,19.52,40610,1.5
+Hawaii,"Healthcare Support Workers, All Other",940,8.4,1.479,2.33,20.44,42520,3.2
+Hawaii,Protective Service Occupations,19630,3.1,30.887,1.3,25.33,52700,7.3
+Hawaii,First-Line Supervisors of Police and Detectives,640,0,1.001,1.21,54.29,112910,1.9
+Hawaii,First-Line Supervisors of Firefighting and Prevention Workers,470,0.5,0.741,1.56,48.75,101400,3.8
+Hawaii,"Miscellaneous First-Line Supervisors, Protective Service Workers",700,5.9,1.109,1.97,24.63,51230,3
+Hawaii,Firefighters,1800,1,2.826,1.28,30.82,64110,4
+Hawaii,Correctional Officers and Jailers,1450,0,2.286,0.79,28.82,59950,3.1
+Hawaii,Detectives and Criminal Investigators,450,0,0.716,1,52.56,109320,1.7
+Hawaii,Parking Enforcement Workers,40,0,0.058,1.12,17.93,37290,2
+Hawaii,Police and Sheriff's Patrol Officers,2500,0,3.935,0.87,37.85,78720,2.2
+Hawaii,Security Guards,8930,6.2,14.046,1.83,16.67,34670,1.5
+Hawaii,Crossing Guards and Flaggers,**,**,**,**,14.95,31100,2.5
+Hawaii,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",750,5,1.182,1.21,21.57,44870,4
+Hawaii,Transportation Security Screeners,1090,0,1.72,5.41,21.08,43850,2.1
+Hawaii,"School Bus Monitors and Protective Service Workers, All Other",220,8.8,0.343,0.34,18.73,38960,4.8
+Hawaii,Food Preparation and Serving Related Occupations,85430,1.4,134.423,1.46,19.08,39690,1.7
+Hawaii,Chefs and Head Cooks,940,13.2,1.479,1.69,37.81,78640,10.6
+Hawaii,First-Line Supervisors of Food Preparation and Serving Workers,6430,6.3,10.118,1.47,21.25,44200,2
+Hawaii,"Cooks, Fast Food",1020,31.8,1.608,0.45,13.64,28360,4.2
+Hawaii,"Cooks, Institution and Cafeteria",1360,16.4,2.146,0.78,19.05,39610,3.5
+Hawaii,"Cooks, Restaurant",11220,7.1,17.654,1.85,17.26,35900,2.5
+Hawaii,"Cooks, Short Order",880,43.6,1.38,1.33,15.46,32150,6.4
+Hawaii,"Cooks, All Other",700,48.4,1.105,8.39,19.92,41440,5.8
+Hawaii,Food Preparation Workers,9290,11.3,14.625,2.49,14.65,30470,1.9
+Hawaii,Bartenders,3410,8.1,5.362,1.22,28.29,58830,2.8
+Hawaii,Fast Food and Counter Workers,17070,9.6,26.867,0.99,12.71,26440,1.6
+Hawaii,Waiters and Waitresses,19500,3.4,30.684,1.75,26.54,55200,3.2
+Hawaii,"Food Servers, Nonrestaurant",910,15,1.433,0.76,17.85,37120,3.6
+Hawaii,Dining Room and Cafeteria Attendants and Bartender Helpers,5070,9.1,7.979,2.46,18.88,39260,2.6
+Hawaii,Dishwashers,4210,9.4,6.63,1.89,14.4,29950,2.2
+Hawaii,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",3270,9.5,5.144,1.78,16.94,35240,2.2
+Hawaii,"Food Preparation and Serving Related Workers, All Other",130,46.6,0.201,0.41,13.16,27370,2.7
+Hawaii,Building and Grounds Cleaning and Maintenance Occupations,36220,2.2,56.996,1.89,18.19,37840,1.2
+Hawaii,First-Line Supervisors of Housekeeping and Janitorial Workers,1390,9.9,2.182,2.06,24.07,50070,1.7
+Hawaii,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",680,12.1,1.073,1.52,28.18,58600,1.8
+Hawaii,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",11910,4.7,18.741,1.28,16.19,33670,1.8
+Hawaii,Maids and Housekeeping Cleaners,13230,4.2,20.824,3.3,18.63,38740,1.6
+Hawaii,Pest Control Workers,450,14.6,0.712,1.32,19.68,40920,5.7
+Hawaii,Landscaping and Groundskeeping Workers,7970,6.2,12.536,2.02,18.25,37960,2.2
+Hawaii,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",**,**,**,**,19.72,41010,4
+Hawaii,Tree Trimmers and Pruners,240,34.9,0.377,1.17,24.14,50200,9.5
+Hawaii,Personal Care and Service Occupations,18620,3.3,29.3,1.3,16.95,35270,1.7
+Hawaii,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1250,7.4,1.969,1.33,23.79,49480,2.4
+Hawaii,Animal Trainers,80,21.2,0.132,1.17,16.37,34050,4.2
+Hawaii,Animal Caretakers,640,20.5,1.004,0.69,15.96,33200,3.1
+Hawaii,Motion Picture Projectionists,**,**,**,**,19.7,40970,8.7
+Hawaii,"Ushers, Lobby Attendants, and Ticket Takers",680,16.8,1.073,1.14,12.88,26800,3.8
+Hawaii,Amusement and Recreation Attendants,2190,9.9,3.443,1.5,14.7,30580,3.3
+Hawaii,Costume Attendants,50,21.3,0.082,1.62,21,43680,5.1
+Hawaii,"Locker Room, Coatroom, and Dressing Room Attendants",210,14.1,0.332,3.05,19.41,40370,3.2
+Hawaii,"Entertainment Attendants and Related Workers, All Other",**,**,**,**,20.14,41880,4.4
+Hawaii,Embalmers,70,35,0.114,4.32,20.5,42640,8.6
+Hawaii,Funeral Attendants,**,**,**,**,15.08,31360,8.9
+Hawaii,"Morticians, Undertakers, and Funeral Arrangers",40,13.2,0.065,0.37,21.43,44570,8.9
+Hawaii,"Hairdressers, Hairstylists, and Cosmetologists",1500,24.8,2.354,0.9,17.32,36030,7.3
+Hawaii,"Makeup Artists, Theatrical and Performance",60,35,0.101,4.35,27.89,58010,18.6
+Hawaii,Manicurists and Pedicurists,**,**,**,**,13.71,28510,6.7
+Hawaii,Skincare Specialists,180,20.6,0.284,0.74,25.49,53010,6.5
+Hawaii,Baggage Porters and Bellhops,1300,7.4,2.052,7.58,17.24,35860,4.3
+Hawaii,Concierges,960,9,1.51,5.32,19.95,41490,4.9
+Hawaii,Tour and Travel Guides,1670,10.7,2.63,7.93,16.19,33680,3.5
+Hawaii,Childcare Workers,1630,14,2.567,0.67,13.32,27710,1.9
+Hawaii,Exercise Trainers and Group Fitness Instructors,1170,11.2,1.845,0.83,22.27,46320,3.1
+Hawaii,Recreation Workers,2980,10.7,4.691,1.92,16.55,34420,3.1
+Hawaii,Residential Advisors,490,16.7,0.776,1.06,15.79,32840,3.9
+Hawaii,"Crematory Operators and Personal Care and Service Workers, All Other",930,8.9,1.465,3.5,13.07,27180,6.7
+Hawaii,Sales and Related Occupations,60260,2.3,94.82,0.97,19.29,40120,1.8
+Hawaii,First-Line Supervisors of Retail Sales Workers,6650,6.9,10.467,1.31,22.97,47770,3.8
+Hawaii,First-Line Supervisors of Non-Retail Sales Workers,1130,8.4,1.782,1.05,34.45,71650,3.2
+Hawaii,Cashiers,13270,9.1,20.879,0.85,13.4,27870,0.9
+Hawaii,Counter and Rental Clerks,1780,16.1,2.797,1,16.84,35030,3.2
+Hawaii,Parts Salespersons,640,15.6,1.013,0.58,20.53,42710,5.6
+Hawaii,Retail Salespersons,24940,6.3,39.24,1.33,15.93,33130,2.8
+Hawaii,Advertising Sales Agents,390,14.7,0.619,0.7,30.48,63410,7.1
+Hawaii,Insurance Sales Agents,790,14.7,1.249,0.45,30.23,62880,15.4
+Hawaii,"Securities, Commodities, and Financial Services Sales Agents",810,16.2,1.271,0.43,31.94,66420,6.8
+Hawaii,Travel Agents,630,10.7,0.998,2.2,21.3,44290,5.3
+Hawaii,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",3380,6.6,5.312,0.75,34.45,71660,5.8
+Hawaii,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",670,17.9,1.057,0.51,42.73,88880,6.5
+Hawaii,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",3620,6,5.695,0.62,26.57,55260,2.8
+Hawaii,Demonstrators and Product Promoters,560,27.6,0.88,1.66,14.29,29720,5.7
+Hawaii,Real Estate Brokers,170,39.6,0.274,0.94,37.73,78480,19.1
+Hawaii,Real Estate Sales Agents,420,21,0.655,0.59,34.2,71140,7.2
+Hawaii,Sales Engineers,50,37.1,0.086,0.2,38.88,80870,15.2
+Hawaii,Telemarketers,190,25.4,0.293,0.32,12.55,26110,4
+Hawaii,"Sales and Related Workers, All Other",150,17,0.236,0.29,17.29,35960,2.8
+Hawaii,Office and Administrative Support Occupations,79410,1.2,124.95,0.94,20.81,43290,0.7
+Hawaii,First-Line Supervisors of Office and Administrative Support Workers,7600,2.9,11.953,1.18,28.39,59050,1
+Hawaii,"Switchboard Operators, Including Answering Service",440,11.1,0.699,1.51,19.57,40700,2.2
+Hawaii,Telephone Operators,30,31.2,0.055,1.7,18.77,39030,7.4
+Hawaii,Bill and Account Collectors,550,7.5,0.87,0.54,20.49,42630,2
+Hawaii,Billing and Posting Clerks,1070,8.4,1.684,0.53,21.52,44760,1.6
+Hawaii,"Bookkeeping, Accounting, and Auditing Clerks",5970,3.9,9.398,0.91,20.62,42900,1.4
+Hawaii,Payroll and Timekeeping Clerks,540,9.3,0.843,0.87,22.98,47800,1.7
+Hawaii,Procurement Clerks,380,5,0.602,1.34,21.76,45260,1.7
+Hawaii,Tellers,2040,5.1,3.217,1.07,16.71,34750,2.2
+Hawaii,"Financial Clerks, All Other",300,37,0.465,2.24,20.74,43130,6.4
+Hawaii,Brokerage Clerks,100,24.1,0.158,0.48,25.25,52510,3.1
+Hawaii,Correspondence Clerks,30,12.5,0.049,1.16,18.31,38090,3.3
+Hawaii,"Court, Municipal, and License Clerks",530,0,0.839,0.8,23.41,48690,1.4
+Hawaii,"Credit Authorizers, Checkers, and Clerks",60,31.7,0.101,0.55,22.4,46590,4.7
+Hawaii,Customer Service Representatives,8430,4.1,13.272,0.67,18.75,39000,1.5
+Hawaii,"Eligibility Interviewers, Government Programs",710,2.2,1.118,1.17,23.37,48620,1.6
+Hawaii,File Clerks,640,12.6,1.01,1.45,17.55,36510,3.5
+Hawaii,"Hotel, Motel, and Resort Desk Clerks",3000,5.7,4.72,2.59,22.16,46080,2.2
+Hawaii,"Interviewers, Except Eligibility and Loan",450,15,0.703,0.55,18.23,37920,4.7
+Hawaii,"Library Assistants, Clerical",320,1.4,0.498,0.85,15.62,32490,2.3
+Hawaii,Loan Interviewers and Clerks,710,9.5,1.125,0.79,21.49,44690,2.4
+Hawaii,Order Clerks,320,17.3,0.509,0.54,17.89,37210,2.9
+Hawaii,"Human Resources Assistants, Except Payroll and Timekeeping",740,3.7,1.166,1.46,20.32,42250,1.2
+Hawaii,Receptionists and Information Clerks,3940,6,6.195,0.86,16.4,34100,1.6
+Hawaii,Reservation and Transportation Ticket Agents and Travel Clerks,2360,5.3,3.706,4.4,21.92,45600,4.5
+Hawaii,"Information and Record Clerks, All Other",1080,5,1.702,1.63,21.75,45240,2
+Hawaii,Cargo and Freight Agents,1380,11.6,2.175,3.33,19.04,39600,5.1
+Hawaii,Couriers and Messengers,350,31.2,0.544,1.07,15.16,31530,3.8
+Hawaii,Public Safety Telecommunicators,210,0.8,0.331,0.51,22.94,47720,1.9
+Hawaii,"Dispatchers, Except Police, Fire, and Ambulance",940,8.5,1.482,1.09,21.58,44890,3.2
+Hawaii,"Meter Readers, Utilities",110,13.6,0.174,0.84,24.89,51780,4.5
+Hawaii,Postal Service Clerks,420,0,0.659,1.19,26.33,54780,1.9
+Hawaii,Postal Service Mail Carriers,1140,0,1.786,0.77,26.13,54360,3.3
+Hawaii,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",380,0,0.59,0.85,24.84,51660,3.1
+Hawaii,"Production, Planning, and Expediting Clerks",1080,5.1,1.703,0.68,25.29,52600,1.8
+Hawaii,"Shipping, Receiving, and Inventory Clerks",1810,7.1,2.855,0.59,19.8,41180,3.4
+Hawaii,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",480,16.1,0.756,1.82,12.23,25430,4.8
+Hawaii,Executive Secretaries and Executive Administrative Assistants,2390,5.6,3.756,1.02,31.12,64740,1.6
+Hawaii,Legal Secretaries and Administrative Assistants,870,11.4,1.375,1.2,25.2,52410,4.6
+Hawaii,Medical Secretaries and Administrative Assistants,1060,10.5,1.673,0.41,20.79,43240,2
+Hawaii,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",10200,3.6,16.043,1.16,20.7,43060,1.1
+Hawaii,Data Entry Keyers,320,11,0.503,0.46,16.55,34420,2
+Hawaii,Word Processors and Typists,490,4.3,0.768,2.38,18.3,38070,2
+Hawaii,Insurance Claims and Policy Processing Clerks,540,22.7,0.845,0.48,17.83,37080,2.8
+Hawaii,"Mail Clerks and Mail Machine Operators, Except Postal Service",150,7.9,0.243,0.43,17.8,37020,2.5
+Hawaii,"Office Clerks, General",11310,3,17.792,0.88,16.86,35070,1.2
+Hawaii,"Office Machine Operators, Except Computer",80,43.9,0.129,0.41,16.81,34970,4.6
+Hawaii,Statistical Assistants,30,12.8,0.051,0.76,22.4,46580,2.6
+Hawaii,"Office and Administrative Support Workers, All Other",1250,9.4,1.973,1.54,17.74,36910,3.2
+Hawaii,"Farming, Fishing, and Forestry Occupations",870,8.9,1.375,0.42,19.72,41010,2.3
+Hawaii,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",60,21,0.09,0.58,27.5,57210,3.7
+Hawaii,Agricultural Inspectors,100,0,0.151,1.61,27.68,57570,1.9
+Hawaii,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",440,14.7,0.685,0.34,16.79,34920,4.6
+Hawaii,Forest and Conservation Workers,130,13.6,0.212,4.61,19.4,40350,2.1
+Hawaii,Construction and Extraction Occupations,31010,2.7,48.793,1.16,33.93,70570,1.2
+Hawaii,First-Line Supervisors of Construction Trades and Extraction Workers,3120,7.8,4.913,1.15,41.34,85990,2.8
+Hawaii,Brickmasons and Blockmasons,180,29.9,0.287,0.7,34.52,71810,3.8
+Hawaii,Carpenters,6170,8.7,9.716,1.94,36.98,76930,1.8
+Hawaii,Carpet Installers,130,17.3,0.197,1.11,32.58,67760,3.9
+Hawaii,"Floor Layers, Except Carpet, Wood, and Hard Tiles",200,29.4,0.32,2.89,32.17,66920,8.9
+Hawaii,Tile and Stone Setters,400,18.7,0.629,2.28,31.64,65820,7.1
+Hawaii,Cement Masons and Concrete Finishers,550,22.4,0.872,0.65,40.86,84980,3.4
+Hawaii,Construction Laborers,5020,7.3,7.899,1.14,28.44,59160,2.6
+Hawaii,"Paving, Surfacing, and Tamping Equipment Operators",40,31.8,0.062,0.2,23.74,49380,6.1
+Hawaii,Operating Engineers and Other Construction Equipment Operators,1650,6.8,2.598,0.94,37.74,78500,3.1
+Hawaii,Drywall and Ceiling Tile Installers,520,12.9,0.816,1.17,36.21,75310,4.1
+Hawaii,Tapers,220,16.9,0.354,2.89,37.55,78110,2.7
+Hawaii,Electricians,3080,7,4.847,1.03,37.27,77530,2.9
+Hawaii,Glaziers,260,23.2,0.403,1.13,32.15,66860,9.6
+Hawaii,"Insulation Workers, Mechanical",120,31.4,0.195,1.07,31.87,66300,5.7
+Hawaii,"Painters, Construction and Maintenance",1820,8.7,2.865,1.81,26.94,56030,3.9
+Hawaii,"Plumbers, Pipefitters, and Steamfitters",2050,12.2,3.231,1.07,35.06,72920,6.8
+Hawaii,Plasterers and Stucco Masons,120,26.3,0.194,1.04,32.49,67580,4
+Hawaii,Reinforcing Iron and Rebar Workers,330,9.7,0.521,4.06,36.17,75230,2.3
+Hawaii,Roofers,780,11.5,1.228,1.39,31.05,64590,6.6
+Hawaii,Sheet Metal Workers,780,14.9,1.228,1.37,38.38,79830,4.3
+Hawaii,Structural Iron and Steel Workers,150,28.6,0.239,0.46,38.47,80010,5.1
+Hawaii,Solar Photovoltaic Installers,350,30.3,0.549,7.28,27.37,56920,3.6
+Hawaii,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",30,44,0.05,0.31,22.84,47500,24.7
+Hawaii,Helpers--Electricians,490,35,0.777,1.44,18.89,39290,7.2
+Hawaii,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,19.09,39700,3.8
+Hawaii,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",**,**,**,**,18.39,38250,4.8
+Hawaii,"Helpers, Construction Trades, All Other",260,13.1,0.414,2.13,16.97,35300,6.1
+Hawaii,Construction and Building Inspectors,640,14.7,1.006,1.34,32.98,68590,2.8
+Hawaii,Elevator and Escalator Installers and Repairers,270,24.7,0.42,2.18,42.92,89270,8
+Hawaii,Fence Erectors,100,42.3,0.162,0.92,20.5,42640,6.1
+Hawaii,Hazardous Materials Removal Workers,190,37.8,0.294,0.98,25.48,53010,4.5
+Hawaii,Highway Maintenance Workers,210,34.1,0.334,0.32,16.16,33610,6.7
+Hawaii,Septic Tank Servicers and Sewer Pipe Cleaners,60,17.6,0.1,0.49,23.61,49100,3.3
+Hawaii,Miscellaneous Construction and Related Workers,120,10.4,0.19,0.87,27.84,57900,9.5
+Hawaii,"Excavating and Loading Machine and Dragline Operators, Surface Mining",110,29.8,0.166,0.55,28.11,58470,13.6
+Hawaii,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",80,34.8,0.132,0.78,29.84,62060,3.3
+Hawaii,"Installation, Maintenance, and Repair Occupations",25200,2.3,39.646,1.02,27.87,57980,2.1
+Hawaii,"First-Line Supervisors of Mechanics, Installers, and Repairers",2950,4.3,4.636,1.4,36.63,76190,3.5
+Hawaii,"Computer, Automated Teller, and Office Machine Repairers",450,24,0.709,1.06,19.65,40860,7.7
+Hawaii,"Radio, Cellular, and Tower Equipment Installers and Repairers",110,21.4,0.171,1.74,29.88,62160,6.5
+Hawaii,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1320,12.7,2.071,1.46,31.1,64700,3
+Hawaii,Avionics Technicians,100,34.4,0.161,1.09,38.33,79720,5.2
+Hawaii,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",330,6.3,0.525,1.31,35.41,73640,2.9
+Hawaii,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",140,13.1,0.224,1.45,51.99,108140,2.9
+Hawaii,Security and Fire Alarm Systems Installers,360,18.4,0.565,1.16,24.33,50610,5.6
+Hawaii,Aircraft Mechanics and Service Technicians,1470,7.5,2.305,2.54,32.27,67110,3
+Hawaii,Automotive Body and Related Repairers,670,25,1.059,1.08,24.08,50090,2.8
+Hawaii,Automotive Glass Installers and Repairers,150,41.2,0.234,1.77,20.73,43120,12.1
+Hawaii,Automotive Service Technicians and Mechanics,2490,7.1,3.918,0.88,23.3,48450,2.4
+Hawaii,Bus and Truck Mechanics and Diesel Engine Specialists,860,8.7,1.36,0.75,28.35,58970,2.5
+Hawaii,"Mobile Heavy Equipment Mechanics, Except Engines",440,10,0.69,0.69,34.16,71050,2.2
+Hawaii,Motorboat Mechanics and Service Technicians,80,19.7,0.125,0.8,28.21,58690,5.1
+Hawaii,Motorcycle Mechanics,70,41.4,0.102,0.96,18.78,39060,6.7
+Hawaii,Outdoor Power Equipment and Other Small Engine Mechanics,260,19.3,0.403,1.84,23.89,49700,4.1
+Hawaii,Tire Repairers and Changers,380,29.7,0.6,0.79,17.68,36760,5.9
+Hawaii,"Control and Valve Installers and Repairers, Except Mechanical Door",90,28.5,0.148,0.42,33.02,68690,8
+Hawaii,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1080,15.1,1.694,0.73,29.56,61480,3.6
+Hawaii,Home Appliance Repairers,200,29.3,0.32,1.51,21.2,44090,5.6
+Hawaii,Industrial Machinery Mechanics,500,15.3,0.789,0.3,32.75,68120,2.4
+Hawaii,"Maintenance Workers, Machinery",80,27,0.131,0.26,25,52000,3.9
+Hawaii,Millwrights,**,**,**,**,29.12,60570,8
+Hawaii,Electrical Power-Line Installers and Repairers,380,15.1,0.597,0.78,41.59,86510,6.1
+Hawaii,Telecommunications Line Installers and Repairers,590,23.1,0.924,1.12,34.9,72590,5.4
+Hawaii,Medical Equipment Repairers,260,32.7,0.412,1.31,29.33,61010,10.2
+Hawaii,"Precision Instrument and Equipment Repairers, All Other",150,2.8,0.236,3.28,33.65,70000,3.8
+Hawaii,"Maintenance and Repair Workers, General",7400,3.1,11.65,1.21,23.46,48790,1.6
+Hawaii,"Coin, Vending, and Amusement Machine Servicers and Repairers",100,49.8,0.161,0.75,17.69,36800,8.8
+Hawaii,Locksmiths and Safe Repairers,**,**,**,**,23.49,48870,8.1
+Hawaii,Riggers,250,17.6,0.391,2.5,32.55,67700,3.3
+Hawaii,"Helpers--Installation, Maintenance, and Repair Workers",330,10.9,0.514,0.76,19.91,41410,2.7
+Hawaii,"Installation, Maintenance, and Repair Workers, All Other",900,13.2,1.421,1.29,28.86,60030,5.7
+Hawaii,Production Occupations,14910,4.1,23.465,0.38,20.99,43650,3.2
+Hawaii,First-Line Supervisors of Production and Operating Workers,1390,6.1,2.187,0.51,33.09,68830,2.9
+Hawaii,Structural Metal Fabricators and Fitters,100,34.5,0.16,0.31,24.89,51780,7.6
+Hawaii,Miscellaneous Assemblers and Fabricators,450,17.9,0.708,0.08,16.98,35310,2.6
+Hawaii,Bakers,1480,10.7,2.327,1.85,18.31,38080,3.7
+Hawaii,Butchers and Meat Cutters,560,18.1,0.879,0.94,20.33,42280,3.3
+Hawaii,"Meat, Poultry, and Fish Cutters and Trimmers",670,44.1,1.059,1.01,14.34,29840,5.5
+Hawaii,Slaughterers and Meat Packers,70,28.3,0.116,0.23,16.28,33860,5.1
+Hawaii,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",130,36.3,0.198,1.4,18.31,38090,7.4
+Hawaii,Food Batchmakers,920,11,1.455,1.34,14.13,29380,3.2
+Hawaii,Food Cooking Machine Operators and Tenders,90,33.5,0.149,0.73,14.86,30900,4.2
+Hawaii,"Food Processing Workers, All Other",**,**,**,**,14.94,31070,3.8
+Hawaii,Machinists,280,12.2,0.442,0.17,31.99,66550,3.5
+Hawaii,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",120,4.6,0.187,0.16,28.38,59020,3.8
+Hawaii,"Welders, Cutters, Solderers, and Brazers",530,9.9,0.831,0.3,29.73,61830,2.8
+Hawaii,Prepress Technicians and Workers,**,**,**,**,18.63,38760,3.4
+Hawaii,Printing Press Operators,230,12.4,0.354,0.3,20.92,43510,4.9
+Hawaii,Print Binding and Finishing Workers,60,26.5,0.093,0.3,19.52,40600,4.6
+Hawaii,Laundry and Dry-Cleaning Workers,1800,10.2,2.829,1.99,15.45,32130,3
+Hawaii,"Pressers, Textile, Garment, and Related Materials",190,36,0.292,1.13,11.82,24580,1.9
+Hawaii,Sewing Machine Operators,260,21.1,0.413,0.45,13.5,28070,2.7
+Hawaii,"Tailors, Dressmakers, and Custom Sewers",**,**,**,**,16.37,34060,6.4
+Hawaii,"Textile, Apparel, and Furnishings Workers, All Other",70,20.4,0.116,0.94,24.5,50960,14
+Hawaii,Cabinetmakers and Bench Carpenters,200,14.8,0.316,0.47,24.98,51950,5.7
+Hawaii,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",60,25,0.099,0.18,19.56,40690,7.2
+Hawaii,"Woodworkers, All Other",40,35.9,0.065,1.43,20.53,42700,9.2
+Hawaii,Power Plant Operators,350,15.8,0.552,2.41,42.58,88570,5.3
+Hawaii,Water and Wastewater Treatment Plant and System Operators,520,11,0.822,0.98,26.94,56030,3.1
+Hawaii,"Plant and System Operators, All Other",**,**,**,**,35.04,72880,3.6
+Hawaii,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",90,32.3,0.141,0.41,18.54,38570,5.5
+Hawaii,"Mixing and Blending Machine Setters, Operators, and Tenders",110,32.5,0.173,0.2,20.66,42970,10.1
+Hawaii,"Cutters and Trimmers, Hand",30,45,0.052,0.79,19.29,40120,8.4
+Hawaii,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",130,30.2,0.197,0.4,13.92,28960,6
+Hawaii,"Inspectors, Testers, Sorters, Samplers, and Weighers",830,11.7,1.313,0.33,20.01,41610,7.3
+Hawaii,Jewelers and Precious Stone and Metal Workers,230,12.7,0.361,2.25,16.73,34790,3.9
+Hawaii,Dental Laboratory Technicians,180,34.3,0.275,1.17,19.42,40380,3
+Hawaii,Packaging and Filling Machine Operators and Tenders,520,22.7,0.819,0.31,14.64,30450,3.2
+Hawaii,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",130,24,0.207,0.21,23.24,48340,5.8
+Hawaii,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",30,21.4,0.05,0.45,13.79,28690,4.5
+Hawaii,"Molders, Shapers, and Casters, Except Metal and Plastic",80,43.6,0.129,0.42,22.85,47530,6.7
+Hawaii,Helpers--Production Workers,320,13.7,0.511,0.25,16.19,33660,4.2
+Hawaii,"Production Workers, All Other",100,13.6,0.157,0.1,17.11,35580,3.6
+Hawaii,Transportation and Material Moving Occupations,51190,2.5,80.543,0.94,22.15,46070,7.7
+Hawaii,Aircraft Cargo Handling Supervisors,**,**,**,**,24.08,50090,5.4
+Hawaii,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",2420,5,3.81,1.23,28.09,58430,2.8
+Hawaii,"Airline Pilots, Copilots, and Flight Engineers",980,3.2,1.54,2.68,*,*,*
+Hawaii,Commercial Pilots,350,21.7,0.547,2.12,*,105520,11.7
+Hawaii,Air Traffic Controllers,240,4.7,0.383,2.55,54.38,113100,5.5
+Hawaii,Airfield Operations Specialists,**,**,**,**,21.01,43700,7.4
+Hawaii,Driver/Sales Workers,2730,15.4,4.288,1.42,17.17,35710,7.3
+Hawaii,Heavy and Tractor-Trailer Truck Drivers,3740,7.6,5.89,0.47,24,49930,2.4
+Hawaii,Light Truck Drivers,4710,6.3,7.419,1.18,18.23,37910,2.3
+Hawaii,"Bus Drivers, Transit and Intercity",2430,3.1,3.831,3.13,21.6,44930,4.1
+Hawaii,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",2190,7.6,3.449,0.72,16.9,35160,3.2
+Hawaii,"Motor Vehicle Operators, All Other",190,5.2,0.304,0.79,24.45,50860,7.1
+Hawaii,Sailors and Marine Oilers,**,**,**,**,20.3,42230,3.3
+Hawaii,"Captains, Mates, and Pilots of Water Vessels",1270,36.8,1.992,8.77,27.44,57070,2.5
+Hawaii,Motorboat Operators,**,**,**,**,20.77,43210,8.8
+Hawaii,Ship Engineers,80,25,0.128,2.24,41.06,85400,18.8
+Hawaii,Parking Attendants,2200,10,3.46,3.45,13.16,27360,2.8
+Hawaii,Automotive and Watercraft Service Attendants,240,29.9,0.385,0.48,17.56,36520,7
+Hawaii,Transportation Inspectors,130,8.9,0.197,0.97,37.92,78870,1.8
+Hawaii,Passenger Attendants,1720,26.6,2.713,14.13,15.37,31980,2.2
+Hawaii,"Aircraft Service Attendants and Transportation Workers, All Other",620,9.7,0.979,4.12,21,43670,6.1
+Hawaii,Crane and Tower Operators,70,10.9,0.115,0.37,*,*,*
+Hawaii,Industrial Truck and Tractor Operators,710,13.4,1.118,0.26,*,*,*
+Hawaii,Cleaners of Vehicles and Equipment,2330,7.9,3.669,1.41,13.92,28950,2.3
+Hawaii,"Laborers and Freight, Stock, and Material Movers, Hand",7300,4.2,11.484,0.57,18.26,37990,3.2
+Hawaii,"Packers and Packagers, Hand",2340,10.2,3.687,0.85,13.65,28390,2.2
+Hawaii,Stockers and Order Fillers,8000,5.2,12.589,0.87,15.51,32270,1.3
+Hawaii,Refuse and Recyclable Material Collectors,610,10.8,0.962,1.16,21.16,44000,4.7

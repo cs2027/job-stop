@@ -1,0 +1,749 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Indiana,All Occupations,3073680,0.4,1000,1,22.49,46770,0.6
+Indiana,Management Occupations,147080,2,47.853,0.87,49.17,102280,1.1
+Indiana,Chief Executives,3310,3.1,1.076,0.77,77.6,161410,2.1
+Indiana,General and Operations Managers,51040,1.5,16.605,1.02,53.11,110480,0.9
+Indiana,Legislators,1650,3.3,0.535,1.5,*,37600,5.4
+Indiana,Advertising and Promotions Managers,240,20.2,0.077,0.45,41.62,86560,5.9
+Indiana,Marketing Managers,3400,7,1.107,0.62,55.4,115230,1.8
+Indiana,Sales Managers,5630,4.7,1.831,0.67,61.13,127140,1.8
+Indiana,Public Relations and Fundraising Managers,**,**,**,**,48.16,100180,5.5
+Indiana,Administrative Services and Facilities Managers,4990,3.3,1.623,0.78,43.53,90550,1
+Indiana,Computer and Information Systems Managers,5080,5,1.654,0.56,60.59,126030,1.7
+Indiana,Financial Managers,8330,2.6,2.709,0.61,56.91,118370,1.5
+Indiana,Industrial Production Managers,6040,3.3,1.963,1.55,49.59,103140,2
+Indiana,Purchasing Managers,1340,4.2,0.437,0.89,51.79,107730,1.9
+Indiana,"Transportation, Storage, and Distribution Managers",2000,4.2,0.65,0.72,45.74,95130,1.7
+Indiana,Compensation and Benefits Managers,170,7.1,0.054,0.47,51.57,107260,2.4
+Indiana,Human Resources Managers,2380,2.7,0.775,0.74,51.8,107750,1.3
+Indiana,Training and Development Managers,600,4.4,0.194,0.74,47.65,99120,2.2
+Indiana,"Farmers, Ranchers, and Other Agricultural Managers",100,27.6,0.033,0.95,33.52,69720,4.4
+Indiana,Construction Managers,5170,5.7,1.68,0.84,44.07,91660,2.2
+Indiana,"Education and Childcare Administrators, Preschool and Daycare",790,12.5,0.256,0.72,21.72,45180,3.2
+Indiana,"Education Administrators, Kindergarten through Secondary",5010,3.5,1.63,0.88,*,88250,1.2
+Indiana,"Education Administrators, Postsecondary",3660,3.3,1.191,1.21,49.59,103150,4.2
+Indiana,"Education Administrators, All Other",250,19.6,0.08,0.26,30.97,64420,6.7
+Indiana,Architectural and Engineering Managers,3980,5.1,1.296,0.98,60.65,126150,1.2
+Indiana,Food Service Managers,3110,6.5,1.011,0.63,25.66,53370,1.5
+Indiana,Gambling Managers,90,18.6,0.03,1,34.67,72110,3.7
+Indiana,Lodging Managers,500,14.4,0.162,0.62,22.44,46680,4.5
+Indiana,Medical and Health Services Managers,7960,2.6,2.588,0.96,49.18,102300,1.8
+Indiana,Postmasters and Mail Superintendents,290,0,0.094,1,38.11,79260,0.5
+Indiana,"Property, Real Estate, and Community Association Managers",3870,6.9,1.259,0.84,25.16,52330,2.3
+Indiana,Social and Community Service Managers,2170,5.2,0.706,0.66,29.74,61850,1.5
+Indiana,Emergency Management Directors,260,5,0.084,1.22,25.86,53800,3.3
+Indiana,Funeral Home Managers,440,16.1,0.143,2.23,33.92,70560,7.1
+Indiana,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",7570,3,2.462,0.77,34.04,70790,1.4
+Indiana,Business and Financial Operations Occupations,124640,1.6,40.552,0.73,32.18,66930,0.9
+Indiana,"Agents and Business Managers of Artists, Performers, and Athletes",120,41.3,0.04,0.35,*,*,*
+Indiana,Buyers and Purchasing Agents,8850,2.9,2.88,1,28.07,58380,1.3
+Indiana,"Claims Adjusters, Examiners, and Investigators",4130,6.8,1.344,0.69,30.18,62780,2.3
+Indiana,Compliance Officers,4820,9.1,1.569,0.73,30.78,64020,1.5
+Indiana,Cost Estimators,4110,4.3,1.337,0.94,31.16,64820,1.6
+Indiana,Human Resources Specialists,13280,2.4,4.322,1,27.95,58130,0.6
+Indiana,Labor Relations Specialists,2540,7.3,0.825,1.6,25.81,53680,8.6
+Indiana,Logisticians,2330,5.3,0.759,0.61,35.12,73060,2.1
+Indiana,Management Analysts,10220,7.5,3.323,0.69,39.53,82220,2.1
+Indiana,"Meeting, Convention, and Event Planners",1650,16.2,0.536,0.67,22.11,45980,2.7
+Indiana,Fundraisers,1640,7.8,0.534,0.96,28,58230,4.3
+Indiana,"Compensation, Benefits, and Job Analysis Specialists",1080,6.3,0.35,0.58,29.85,62080,2.6
+Indiana,Training and Development Specialists,5490,5.6,1.785,0.84,28.06,58360,1.8
+Indiana,Market Research Analysts and Marketing Specialists,10600,5.8,3.448,0.75,27.69,57590,1.2
+Indiana,"Project Management Specialists and Business Operations Specialists, All Other",11840,5.3,3.85,0.44,32.44,67470,1.6
+Indiana,Accountants and Auditors,20910,2.6,6.802,0.78,34.47,71690,0.9
+Indiana,Property Appraisers and Assessors,1160,15.3,0.378,0.99,24.86,51700,8.8
+Indiana,Budget Analysts,420,8.2,0.135,0.39,35,72790,1.9
+Indiana,Credit Analysts,740,8.4,0.241,0.48,29.8,61980,2.4
+Indiana,Personal Financial Advisors,4090,9.2,1.331,0.93,55.29,115010,4.7
+Indiana,Insurance Underwriters,1370,10.6,0.444,0.65,39.23,81600,6
+Indiana,Financial Examiners,410,13.5,0.134,0.31,37.96,78950,5.9
+Indiana,Credit Counselors,330,23.9,0.106,0.49,20.72,43100,4.2
+Indiana,Loan Officers,5190,8.9,1.688,0.8,31.34,65190,2.5
+Indiana,"Tax Examiners and Collectors, and Revenue Agents",600,0.6,0.194,0.53,25.88,53830,1.1
+Indiana,Tax Preparers,1250,12.9,0.407,0.9,19.35,40260,4.6
+Indiana,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",5470,3.9,1.78,0.57,35.28,73390,1.2
+Indiana,Computer and Mathematical Occupations,62720,2.7,20.406,0.66,37.2,77380,1.1
+Indiana,Computer Systems Analysts,9220,4.6,2.999,0.75,39.57,82310,1.4
+Indiana,Information Security Analysts,1210,7.5,0.394,0.46,39.59,82350,1.8
+Indiana,Computer and Information Research Scientists,130,5.1,0.041,0.19,46.72,97170,6.5
+Indiana,Computer Network Support Specialists,1540,8.5,0.501,0.4,29.63,61640,1.6
+Indiana,Computer User Support Specialists,10840,3.8,3.526,0.8,22.76,47350,1.1
+Indiana,Computer Network Architects,3480,6.8,1.133,1.09,45.09,93790,1.9
+Indiana,Network and Computer Systems Administrators,6700,3.9,2.18,0.9,38.01,79070,2.1
+Indiana,Database Administrators and Architects,1540,6.3,0.501,0.59,35.83,74530,2.3
+Indiana,Computer Programmers,3790,14.2,1.233,0.91,41.33,85970,3
+Indiana,Software Developers and Software Quality Assurance Analysts and Testers,16810,6.6,5.469,0.57,44.17,91880,1.1
+Indiana,Web Developers and Digital Interface Designers,1820,7.1,0.592,0.59,28.16,58570,2.1
+Indiana,"Computer Occupations, All Other",3120,4.6,1.015,0.38,34.59,71950,4.3
+Indiana,Actuaries,240,16.4,0.078,0.51,50.14,104300,4
+Indiana,Operations Research Analysts,1280,4.7,0.415,0.61,34.39,71540,2.5
+Indiana,Statisticians,460,42.8,0.151,0.57,42.76,88940,6.3
+Indiana,"Data Scientists and Mathematical Science Occupations, All Other",530,48.7,0.172,0.82,38.7,80490,2
+Indiana,Architecture and Engineering Occupations,53210,2.7,17.31,0.98,37.18,77330,1.4
+Indiana,"Architects, Except Landscape and Naval",1340,11.1,0.435,0.6,35.46,73760,2.3
+Indiana,Landscape Architects,360,17.9,0.118,0.86,27.39,56980,5.1
+Indiana,Cartographers and Photogrammetrists,40,22.3,0.014,0.18,26.31,54720,2.9
+Indiana,Surveyors,800,9.1,0.26,0.84,28.81,59930,2.4
+Indiana,Aerospace Engineers,450,10.9,0.147,0.34,49.13,102190,2.3
+Indiana,Agricultural Engineers,60,38.7,0.019,1.84,39.16,81450,3.3
+Indiana,Bioengineers and Biomedical Engineers,860,41.4,0.281,2.09,45.1,93820,2.1
+Indiana,Chemical Engineers,320,19.9,0.103,0.5,49.99,103980,3.4
+Indiana,Civil Engineers,3770,4.9,1.226,0.58,40.06,83330,1.6
+Indiana,Computer Hardware Engineers,420,10.8,0.137,0.3,42.61,88630,2.5
+Indiana,Electrical Engineers,3600,8.6,1.171,0.93,43.72,90940,1.8
+Indiana,"Electronics Engineers, Except Computer",2560,7,0.833,0.95,46.55,96820,2.5
+Indiana,Environmental Engineers,730,10.3,0.238,0.66,38.63,80350,3.3
+Indiana,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",340,6.7,0.112,0.63,39.72,82610,2.8
+Indiana,Industrial Engineers,11060,5.7,3.6,1.81,37.46,77930,1
+Indiana,Materials Engineers,840,18.6,0.273,1.5,42.65,88720,4.7
+Indiana,Mechanical Engineers,8270,3.7,2.691,1.29,43.35,90170,3.3
+Indiana,"Mining and Geological Engineers, Including Mining Safety Engineers",50,9,0.017,0.39,38.11,79280,2.5
+Indiana,Petroleum Engineers,**,**,**,**,95.27,198170,13.9
+Indiana,"Engineers, All Other",2880,7.5,0.936,0.9,36.58,76080,3.4
+Indiana,Architectural and Civil Drafters,1190,9.9,0.388,0.58,27.49,57170,2
+Indiana,Electrical and Electronics Drafters,190,16.2,0.062,0.38,25.88,53840,3.4
+Indiana,Mechanical Drafters,1340,8.2,0.437,1.16,24.65,51270,1.3
+Indiana,"Drafters, All Other",200,25.1,0.065,0.65,21.72,45190,4.4
+Indiana,Aerospace Engineering and Operations Technologists and Technicians,220,20.9,0.072,0.91,34.81,72410,4.9
+Indiana,Civil Engineering Technologists and Technicians,1070,9.5,0.349,0.74,27.76,57750,3.8
+Indiana,Electrical and Electronic Engineering Technologists and Technicians,2380,6.9,0.775,0.93,31.06,64610,4
+Indiana,Electro-Mechanical and Mechatronics Technologists and Technicians,320,11.8,0.106,1.08,29.63,61630,4.1
+Indiana,Environmental Engineering Technologists and Technicians,180,27.5,0.059,0.48,23.69,49270,2.7
+Indiana,Industrial Engineering Technologists and Technicians,2390,18.7,0.776,1.7,23.21,48280,1.5
+Indiana,Mechanical Engineering Technologists and Technicians,1750,10.5,0.57,1.95,29.52,61390,4
+Indiana,Surveying and Mapping Technicians,1020,7.6,0.333,0.92,20.07,41740,2.4
+Indiana,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1790,15.3,0.582,0.97,28,58230,4.3
+Indiana,"Life, Physical, and Social Science Occupations",22350,5.5,7.27,0.83,33.13,68910,4.7
+Indiana,Animal Scientists,60,23.6,0.02,1.09,37.4,77780,5
+Indiana,Food Scientists and Technologists,260,22.2,0.085,0.93,36.95,76860,8.3
+Indiana,Soil and Plant Scientists,170,13.3,0.055,0.57,28.59,59470,3.5
+Indiana,Biochemists and Biophysicists,450,29.6,0.147,0.69,44.25,92030,4.8
+Indiana,Microbiologists,350,20,0.113,0.91,31.56,65650,6.9
+Indiana,Zoologists and Wildlife Biologists,120,13.6,0.039,0.29,26.36,54830,1.1
+Indiana,"Biological Scientists, All Other",580,12.3,0.189,0.69,32.74,68100,2.6
+Indiana,Conservation Scientists,250,3.3,0.08,0.53,32.41,67410,2.4
+Indiana,Foresters,100,7.5,0.032,0.5,23.4,48680,2.1
+Indiana,Epidemiologists,130,18.4,0.044,0.86,29.31,60960,4.3
+Indiana,"Medical Scientists, Except Epidemiologists",**,**,**,**,53.19,110630,4.3
+Indiana,"Life Scientists, All Other",**,**,**,**,39.43,82000,4.5
+Indiana,Physicists,260,36.5,0.085,0.75,*,*,*
+Indiana,Atmospheric and Space Scientists,70,6.1,0.022,0.35,43.66,90820,4.1
+Indiana,Chemists,2840,14.8,0.922,1.62,34.57,71910,1.8
+Indiana,Materials Scientists,**,**,**,**,59.25,123250,5.5
+Indiana,"Environmental Scientists and Specialists, Including Health",970,9.7,0.316,0.55,30.24,62910,2.6
+Indiana,"Geoscientists, Except Hydrologists and Geographers",350,26.3,0.115,0.58,29.9,62180,2.6
+Indiana,Hydrologists,40,20.9,0.013,0.3,42.85,89130,9.7
+Indiana,"Physical Scientists, All Other",100,35.8,0.033,0.27,40.37,83970,2.6
+Indiana,Economists,130,25.8,0.041,0.32,45.7,95070,5.5
+Indiana,Survey Researchers,80,12.3,0.027,0.39,26.67,55470,3.8
+Indiana,"Clinical, Counseling, and School Psychologists",1390,6.2,0.453,0.59,38.82,80750,3.6
+Indiana,"Psychologists, All Other",320,22.5,0.103,1.06,36.31,75520,4.6
+Indiana,Urban and Regional Planners,450,4.5,0.147,0.56,28.33,58920,1.2
+Indiana,"Social Scientists and Related Workers, All Other",190,5.1,0.062,0.27,38.41,79890,1.8
+Indiana,Agricultural and Food Science Technicians,350,12.1,0.115,0.77,21.18,44050,5.2
+Indiana,Biological Technicians,730,16.9,0.237,0.44,21.31,44320,4.7
+Indiana,Chemical Technicians,1100,23,0.357,0.8,21.88,45510,2.4
+Indiana,"Environmental Science and Protection Technicians, Including Health",580,9.2,0.187,0.84,20.72,43090,2.7
+Indiana,Geological and Hydrologic Technicians,90,26.3,0.03,0.26,24.32,50580,10.9
+Indiana,Social Science Research Assistants,1140,0.3,0.37,1.53,*,*,*
+Indiana,Forest and Conservation Technicians,80,4.5,0.025,0.2,18.42,38310,2
+Indiana,Forensic Science Technicians,380,14.6,0.123,1.09,29.43,61210,2.1
+Indiana,"Life, Physical, and Social Science Technicians, All Other",1750,8.9,0.57,1.3,25.81,53680,2.5
+Indiana,Occupational Health and Safety Specialists,2440,7.8,0.795,1.26,31.92,66400,1.7
+Indiana,Occupational Health and Safety Technicians,660,8.2,0.214,1.53,23.83,49560,2.1
+Indiana,Community and Social Service Occupations,41790,2.1,13.596,0.89,21.55,44810,0.8
+Indiana,"Educational, Guidance, and Career Counselors and Advisors",4530,2.5,1.474,0.73,24.93,51850,1.1
+Indiana,Marriage and Family Therapists,740,21.3,0.242,0.6,22.86,47560,2.5
+Indiana,Rehabilitation Counselors,1390,9.2,0.453,0.61,19.34,40230,2.4
+Indiana,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",5210,6.1,1.695,0.88,22.05,45860,2.2
+Indiana,"Counselors, All Other",490,6,0.159,0.92,25.99,54050,3.8
+Indiana,"Child, Family, and School Social Workers",7220,2.7,2.349,1.05,20.4,42440,1.1
+Indiana,Healthcare Social Workers,5430,11.1,1.767,1.48,25.04,52090,2.6
+Indiana,Mental Health and Substance Abuse Social Workers,1910,10.9,0.622,0.78,22.03,45820,4
+Indiana,"Social Workers, All Other",400,8.6,0.129,0.32,30.29,63010,1.7
+Indiana,Health Education Specialists,1540,6.4,0.501,1.26,28,58240,2.2
+Indiana,Probation Officers and Correctional Treatment Specialists,1810,2.7,0.59,0.98,22.84,47500,1.2
+Indiana,Social and Human Service Assistants,6740,4.3,2.193,0.8,15.27,31760,0.9
+Indiana,Community Health Workers,1960,7.2,0.637,1.59,19.9,41380,2.8
+Indiana,"Community and Social Service Specialists, All Other",1060,9.9,0.345,0.52,20.26,42140,3
+Indiana,Clergy,970,6.8,0.316,0.87,22.6,47010,3
+Indiana,"Directors, Religious Activities and Education",320,21,0.104,0.7,23.22,48290,7.3
+Indiana,"Religious Workers, All Other",60,16.8,0.019,0.3,19.12,39770,16.6
+Indiana,Legal Occupations,15280,2.8,4.97,0.63,41.66,86660,3
+Indiana,Lawyers,8220,4.5,2.674,0.6,53.75,111790,3.9
+Indiana,Judicial Law Clerks,**,**,**,**,17.38,36150,3.3
+Indiana,"Administrative Law Judges, Adjudicators, and Hearing Officers",90,0,0.028,0.28,59.76,124300,4.2
+Indiana,"Arbitrators, Mediators, and Conciliators",40,12.4,0.013,0.31,26.07,54220,3.4
+Indiana,"Judges, Magistrate Judges, and Magistrates",760,1,0.247,1.26,60.17,125160,1.1
+Indiana,Paralegals and Legal Assistants,4490,5.7,1.46,0.65,23.21,48280,2.4
+Indiana,"Title Examiners, Abstractors, and Searchers",910,18,0.297,0.82,19.66,40900,3.1
+Indiana,"Legal Support Workers, All Other",**,**,**,**,27.58,57370,6.8
+Indiana,Educational Instruction and Library Occupations,163850,1.5,53.306,0.88,23.85,49610,2.9
+Indiana,"Business Teachers, Postsecondary",2400,12,0.781,1.37,*,103880,4.3
+Indiana,"Computer Science Teachers, Postsecondary",830,4.7,0.27,1.25,*,92810,3.4
+Indiana,"Mathematical Science Teachers, Postsecondary",830,7.2,0.269,0.77,*,76890,2.9
+Indiana,"Architecture Teachers, Postsecondary",**,**,**,**,*,88470,2.5
+Indiana,"Engineering Teachers, Postsecondary",1690,7,0.549,2.23,*,103870,2.3
+Indiana,"Agricultural Sciences Teachers, Postsecondary",120,5.2,0.04,0.62,*,83690,4
+Indiana,"Biological Science Teachers, Postsecondary",1400,11.6,0.456,1.26,*,95980,3.4
+Indiana,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",80,5.4,0.026,0.35,*,88870,4.8
+Indiana,"Chemistry Teachers, Postsecondary",460,8.4,0.15,1.03,*,89000,4.8
+Indiana,"Environmental Science Teachers, Postsecondary",250,3.5,0.083,2.01,*,86100,2.8
+Indiana,"Physics Teachers, Postsecondary",340,6.4,0.109,1.16,*,98490,4.4
+Indiana,"Anthropology and Archeology Teachers, Postsecondary",70,7.6,0.023,0.58,*,96900,4
+Indiana,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",70,1.8,0.023,0.31,*,80940,9.4
+Indiana,"Economics Teachers, Postsecondary",260,6.9,0.084,0.93,*,139490,7.5
+Indiana,"Political Science Teachers, Postsecondary",230,5.8,0.075,0.7,*,94610,4.2
+Indiana,"Psychology Teachers, Postsecondary",520,11.3,0.168,0.66,*,82440,4.3
+Indiana,"Sociology Teachers, Postsecondary",240,5.8,0.079,0.84,*,78170,2.5
+Indiana,"Social Sciences Teachers, Postsecondary, All Other",140,20.7,0.045,0.39,*,58200,4
+Indiana,"Health Specialties Teachers, Postsecondary",3590,2.9,1.17,0.85,*,116890,5.9
+Indiana,"Nursing Instructors and Teachers, Postsecondary",1730,16.5,0.562,1.38,*,83880,3.5
+Indiana,"Education Teachers, Postsecondary",1470,4.8,0.479,1.15,*,70850,1.5
+Indiana,"Library Science Teachers, Postsecondary",80,9.3,0.027,0.9,*,85020,7.2
+Indiana,"Criminal Justice and Law Enforcement Teachers, Postsecondary",230,15.2,0.075,0.78,*,52610,4.5
+Indiana,"Law Teachers, Postsecondary",340,8.1,0.112,1.01,*,127070,5.3
+Indiana,"Social Work Teachers, Postsecondary",270,3.7,0.088,0.95,*,72150,3.1
+Indiana,"Art, Drama, and Music Teachers, Postsecondary",2420,13.9,0.788,1.23,*,71450,4
+Indiana,"Communications Teachers, Postsecondary",970,3.8,0.316,1.59,*,72050,2
+Indiana,"English Language and Literature Teachers, Postsecondary",1010,12,0.328,0.71,*,76960,4.1
+Indiana,"Foreign Language and Literature Teachers, Postsecondary",500,9.1,0.162,0.96,*,72010,3.6
+Indiana,"History Teachers, Postsecondary",330,8.5,0.107,0.75,*,77200,2.9
+Indiana,"Philosophy and Religion Teachers, Postsecondary",620,8.1,0.203,1.27,*,81290,2.8
+Indiana,"Recreation and Fitness Studies Teachers, Postsecondary",380,15.7,0.122,1.13,*,66090,2.7
+Indiana,"Career/Technical Education Teachers, Postsecondary",3300,3.3,1.075,1.41,25.68,53400,3.2
+Indiana,"Postsecondary Teachers, All Other",3460,8.1,1.125,0.82,*,73100,4.8
+Indiana,"Preschool Teachers, Except Special Education",6460,5.9,2.103,0.72,13.63,28340,1.9
+Indiana,"Kindergarten Teachers, Except Special Education",2030,6.6,0.662,0.78,*,51730,1.6
+Indiana,"Elementary School Teachers, Except Special Education",25530,3.4,8.304,0.85,*,52570,1.5
+Indiana,"Middle School Teachers, Except Special and Career/Technical Education",11320,9,3.684,0.87,*,52450,1.2
+Indiana,"Career/Technical Education Teachers, Middle School",50,23.3,0.016,0.2,*,52130,6
+Indiana,"Secondary School Teachers, Except Special and Career/Technical Education",21180,5.5,6.89,0.98,*,53150,0.9
+Indiana,"Career/Technical Education Teachers, Secondary School",1010,20.7,0.328,0.65,*,58810,4.3
+Indiana,"Special Education Teachers, Preschool",310,19.8,0.1,0.66,*,46910,4.8
+Indiana,"Special Education Teachers, Kindergarten and Elementary School",2940,6.7,0.955,0.72,*,53120,2.4
+Indiana,"Special Education Teachers, Middle School",1120,10.7,0.363,0.62,*,50670,2.5
+Indiana,"Special Education Teachers, Secondary School",2030,7.1,0.659,0.68,*,52460,2.4
+Indiana,"Special Education Teachers, All Other",280,14.8,0.091,0.38,*,47750,4.9
+Indiana,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",890,5.4,0.291,0.82,24.12,50160,2.5
+Indiana,Self-Enrichment Teachers,2640,7.3,0.86,0.5,18.47,38420,6.2
+Indiana,"Substitute Teachers, Short-Term",14220,8.1,4.626,1.16,12.34,25670,2.2
+Indiana,"Tutors and Teachers and Instructors, All Other",3430,7.9,1.117,0.51,*,40460,2.6
+Indiana,Archivists,130,19.6,0.042,0.95,19.95,41490,3.7
+Indiana,Curators,200,12.7,0.067,0.76,21.76,45250,3.8
+Indiana,Museum Technicians and Conservators,190,14,0.063,0.7,18.61,38710,3.8
+Indiana,Librarians and Media Collections Specialists,2580,3.7,0.841,0.91,23.25,48360,2.1
+Indiana,Library Technicians,1930,5.8,0.629,1.04,13.21,27470,1.9
+Indiana,Farm and Home Management Educators,430,11,0.14,2.36,26.03,54150,7.6
+Indiana,Instructional Coordinators,1640,7.1,0.535,0.44,29.48,61320,2.7
+Indiana,"Teaching Assistants, Postsecondary",3330,4.2,1.085,1.16,*,37650,2
+Indiana,"Teaching Assistants, Except Postsecondary",26790,3,8.717,0.95,*,24340,1.1
+Indiana,"Educational Instruction and Library Workers, All Other",340,32.7,0.11,0.12,13.64,28380,8.6
+Indiana,"Arts, Design, Entertainment, Sports, and Media Occupations",34580,2.5,11.25,0.82,23.5,48870,2.8
+Indiana,Art Directors,410,13.1,0.133,0.46,39.25,81640,4.8
+Indiana,Craft Artists,50,36.7,0.015,0.48,23.19,48240,2.2
+Indiana,"Fine Artists, Including Painters, Sculptors, and Illustrators",160,19.6,0.051,0.6,23.19,48230,10.3
+Indiana,Special Effects Artists and Animators,70,16,0.022,0.11,25.68,53410,5.8
+Indiana,"Artists and Related Workers, All Other",**,**,**,**,14.37,29890,22.5
+Indiana,Commercial and Industrial Designers,640,16.2,0.208,0.93,31.99,66540,3.7
+Indiana,Fashion Designers,100,34.3,0.031,0.21,37.22,77410,5.3
+Indiana,Floral Designers,980,8.3,0.32,1.13,13.45,27970,2.9
+Indiana,Graphic Designers,3810,5.7,1.239,0.84,21.97,45700,1.2
+Indiana,Interior Designers,1290,18.5,0.419,1.01,22.22,46210,5.4
+Indiana,Merchandise Displayers and Window Trimmers,1690,10.1,0.551,0.57,15.6,32450,2.5
+Indiana,Set and Exhibit Designers,120,10.9,0.039,0.47,21.52,44770,2.5
+Indiana,"Designers, All Other",70,19.3,0.022,0.31,31.4,65310,5.5
+Indiana,Actors,630,32.7,0.205,0.57,14.6,*,11.6
+Indiana,Producers and Directors,960,5.2,0.311,0.35,26.31,54720,3.6
+Indiana,Athletes and Sports Competitors,470,31.1,0.152,1.98,*,166100,21.5
+Indiana,Coaches and Scouts,7590,5.6,2.468,1.5,*,38170,5.6
+Indiana,"Umpires, Referees, and Other Sports Officials",200,7.4,0.064,0.47,*,43850,13.4
+Indiana,Music Directors and Composers,100,15.7,0.033,0.46,*,*,*
+Indiana,Musicians and Singers,840,10.7,0.272,0.97,*,*,*
+Indiana,"Miscellaneous Entertainers and Performers, Sports and Related Workers",230,16,0.075,0.69,17.69,*,10.7
+Indiana,Broadcast Announcers and Radio Disc Jockeys,720,10.3,0.235,1.18,23.28,48410,10.6
+Indiana,"News Analysts, Reporters, and Journalists",920,9.3,0.3,1,24.82,51630,7.7
+Indiana,Public Relations Specialists,4410,6.5,1.434,0.86,26.55,55230,1.4
+Indiana,Editors,960,7.7,0.311,0.48,26,54080,2.5
+Indiana,Technical Writers,770,11.7,0.249,0.72,29.81,62000,1.8
+Indiana,Writers and Authors,440,9.9,0.143,0.46,34.38,71500,8.1
+Indiana,Interpreters and Translators,920,6.5,0.301,0.75,21.47,44660,3.6
+Indiana,Court Reporters and Simultaneous Captioners,680,4.1,0.223,2.25,18.99,39500,1.2
+Indiana,"Media and Communication Workers, All Other",480,23,0.155,0.9,16.01,33300,9.8
+Indiana,Audio and Video Technicians,1100,12.5,0.357,0.71,19.34,40230,2.8
+Indiana,Broadcast Technicians,670,9.8,0.218,1.12,20.2,42020,14.6
+Indiana,Sound Engineering Technicians,100,38.2,0.031,0.35,*,*,*
+Indiana,Photographers,850,8.9,0.276,0.8,17.95,37340,6.9
+Indiana,"Camera Operators, Television, Video, and Film",400,17.4,0.129,0.88,19.62,40800,4.8
+Indiana,Film and Video Editors,160,17.8,0.051,0.27,20.85,43360,6.2
+Indiana,"Lighting Technicians and Media and Communication Equipment Workers, All Other",150,27.3,0.05,0.31,27.67,57550,4.8
+Indiana,Healthcare Practitioners and Technical Occupations,193730,1.8,63.03,1.07,37.7,78410,2
+Indiana,Chiropractors,770,15.6,0.249,1.05,46.03,95740,7.7
+Indiana,"Dentists, General",2010,12.5,0.653,0.87,85.94,178750,7.8
+Indiana,Oral and Maxillofacial Surgeons,**,**,**,**,#,#,18.4
+Indiana,Orthodontists,80,45.1,0.026,0.63,113.2,235450,13.9
+Indiana,Dietitians and Nutritionists,1200,6.1,0.392,0.85,27.34,56860,1.2
+Indiana,Optometrists,1030,8.3,0.334,1.24,59.74,124260,6.1
+Indiana,Pharmacists,6020,6.6,1.959,0.92,57.66,119920,1.8
+Indiana,Physician Assistants,1530,7.4,0.499,0.61,46.21,96120,3.3
+Indiana,Podiatrists,280,30.4,0.09,1.36,63.48,132030,10.4
+Indiana,Occupational Therapists,3310,5.2,1.076,1.18,39.15,81440,1.4
+Indiana,Physical Therapists,5050,5.9,1.643,1.03,41.67,86670,1.2
+Indiana,Radiation Therapists,410,9.9,0.132,1.08,39.26,81660,1.1
+Indiana,Recreational Therapists,270,9.1,0.088,0.68,22.82,47450,2.1
+Indiana,Respiratory Therapists,3860,7.5,1.256,1.4,27.66,57520,1.1
+Indiana,Speech-Language Pathologists,2610,6.9,0.849,0.81,36.4,75710,1.9
+Indiana,Exercise Physiologists,210,20.4,0.068,1.37,24.01,49940,2.1
+Indiana,"Therapists, All Other",**,**,**,**,20.48,42590,4
+Indiana,Veterinarians,1560,4.7,0.508,1,43.88,91260,3.7
+Indiana,Registered Nurses,67510,2.7,21.963,1.08,32,66560,0.8
+Indiana,Nurse Anesthetists,**,**,**,**,79.7,165770,5.2
+Indiana,Nurse Midwives,80,9.5,0.025,0.53,53.85,112010,2.8
+Indiana,Nurse Practitioners,5330,3.3,1.735,1.27,51.14,106380,0.7
+Indiana,Audiologists,180,14.5,0.059,0.64,35.37,73560,3.4
+Indiana,Anesthesiologists,760,18.7,0.249,1.18,131.07,272630,6.8
+Indiana,Family Medicine Physicians,**,**,**,**,111.84,232630,11.9
+Indiana,General Internal Medicine Physicians,**,**,**,**,123.69,257270,6.3
+Indiana,Obstetricians and Gynecologists,240,14.9,0.079,0.63,129.05,268430,9.3
+Indiana,"Pediatricians, General",550,9.6,0.18,0.89,88.66,184410,4.8
+Indiana,Psychiatrists,300,11.1,0.096,0.55,127.05,264260,4.8
+Indiana,"Physicians, All Other; and Ophthalmologists, Except Pediatric",9070,4.9,2.952,1.11,117.78,244980,3.8
+Indiana,"Surgeons, Except Ophthalmologists",820,23.3,0.266,1.08,103.86,216040,10
+Indiana,Dental Hygienists,5030,5.5,1.637,1.09,32.88,68390,2.4
+Indiana,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",1640,1.7,0.532,2.14,30.39,63210,3.8
+Indiana,Clinical Laboratory Technologists and Technicians,7550,6,2.455,1.11,22.91,47650,1.1
+Indiana,Cardiovascular Technologists and Technicians,1290,4.6,0.419,1.1,26.72,55570,1.1
+Indiana,Diagnostic Medical Sonographers,1200,3.8,0.389,0.78,34.3,71350,0.8
+Indiana,Nuclear Medicine Technologists,390,5.9,0.128,1.03,35.57,73980,1
+Indiana,Radiologic Technologists and Technicians,4550,3.3,1.48,1.05,28.22,58710,0.7
+Indiana,Magnetic Resonance Imaging Technologists,890,4.3,0.291,1.13,32.37,67330,0.9
+Indiana,Emergency Medical Technicians and Paramedics,6620,4.2,2.153,1.21,17,35350,1.2
+Indiana,Dietetic Technicians,390,13.2,0.126,0.64,19.4,40350,11.3
+Indiana,Pharmacy Technicians,9610,4.7,3.128,1.1,15.58,32410,1
+Indiana,Psychiatric Technicians,2260,11.1,0.737,1.38,15.24,31700,1.8
+Indiana,Surgical Technologists,2910,4,0.945,1.27,22.97,47780,0.7
+Indiana,Veterinary Technologists and Technicians,1950,9.9,0.636,0.84,15.74,32740,2
+Indiana,Ophthalmic Medical Technicians,1400,12.1,0.456,1.14,17.69,36790,3.2
+Indiana,Licensed Practical and Licensed Vocational Nurses,15320,2.4,4.984,1.05,22.14,46050,0.8
+Indiana,"Opticians, Dispensing",2040,8.5,0.665,1.35,15.4,32040,1.3
+Indiana,Orthotists and Prosthetists,80,23.3,0.025,0.38,29.73,61850,5.3
+Indiana,Hearing Aid Specialists,230,37.8,0.076,1.36,30.27,62960,4.6
+Indiana,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",5770,4.6,1.878,0.83,22.54,46890,2.1
+Indiana,Athletic Trainers,710,4.8,0.231,1.19,*,47220,2.5
+Indiana,Genetic Counselors,40,11.2,0.014,0.88,38.7,80500,1.8
+Indiana,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,19.73,41040,2.5
+Indiana,Healthcare Support Occupations,114240,1.5,37.167,0.84,14.43,30010,0.7
+Indiana,Home Health and Personal Care Aides,42640,3.1,13.874,0.64,11.59,24100,0.6
+Indiana,Nursing Assistants,30890,3.2,10.049,1.04,13.75,28610,0.7
+Indiana,Orderlies,1680,8.1,0.545,1.7,14.51,30180,1.1
+Indiana,Psychiatric Aides,890,9.8,0.291,0.78,13.38,27830,2.9
+Indiana,Occupational Therapy Assistants,1350,14.9,0.44,1.44,26.1,54290,2.4
+Indiana,Physical Therapist Assistants,2620,6.6,0.851,1.29,27.56,57330,1.8
+Indiana,Physical Therapist Aides,730,19.6,0.237,0.71,14.4,29950,6.1
+Indiana,Massage Therapists,1410,17.1,0.457,0.63,20.28,42180,5.5
+Indiana,Dental Assistants,6390,4.5,2.08,0.87,20.21,42040,2.1
+Indiana,Medical Assistants,16120,2.8,5.245,1.08,16.37,34050,0.6
+Indiana,Medical Equipment Preparers,1040,5.4,0.339,0.88,17.62,36640,1.8
+Indiana,Medical Transcriptionists,1450,9.6,0.472,1.24,15.38,31990,4.9
+Indiana,Pharmacy Aides,400,25,0.131,0.52,14.23,29590,6
+Indiana,Veterinary Assistants and Laboratory Animal Caretakers,2290,13.5,0.744,1.13,14.28,29700,4.5
+Indiana,Phlebotomists,2700,10.4,0.878,1,16.75,34840,1.8
+Indiana,"Healthcare Support Workers, All Other",1610,8.1,0.525,0.83,17.87,37170,2.1
+Indiana,Protective Service Occupations,60660,1.6,19.734,0.83,20.72,43090,1.7
+Indiana,First-Line Supervisors of Correctional Officers,1170,1,0.379,1.2,21.56,44840,1.1
+Indiana,First-Line Supervisors of Police and Detectives,1450,2.3,0.472,0.57,36.41,75720,1
+Indiana,First-Line Supervisors of Firefighting and Prevention Workers,1100,3.3,0.356,0.75,34.65,72070,1.7
+Indiana,"Miscellaneous First-Line Supervisors, Protective Service Workers",1260,5.3,0.411,0.73,23.92,49760,2.2
+Indiana,Firefighters,7980,4.6,2.597,1.18,24.55,51050,2.1
+Indiana,Fire Inspectors and Investigators,190,8.3,0.063,0.67,25.32,52670,1.8
+Indiana,Bailiffs,520,2.7,0.169,1.26,17.87,37160,1.5
+Indiana,Correctional Officers and Jailers,7830,1.9,2.548,0.88,17.99,37430,1.5
+Indiana,Detectives and Criminal Investigators,810,3.8,0.262,0.36,33.63,69960,1.1
+Indiana,Fish and Game Wardens,140,0,0.047,1.01,33.7,70100,1.2
+Indiana,Parking Enforcement Workers,110,23.1,0.035,0.67,15.59,32420,2.8
+Indiana,Police and Sheriff's Patrol Officers,12550,2.6,4.084,0.9,27.3,56780,1.6
+Indiana,Transit and Railroad Police,60,41,0.019,0.58,35.97,74810,7.5
+Indiana,Animal Control Workers,250,4.6,0.081,0.99,15.48,32190,2
+Indiana,Private Detectives and Investigators,440,21.9,0.144,0.6,20.4,42430,4
+Indiana,Gambling Surveillance Officers and Gambling Investigators,370,12.4,0.119,1.7,27.28,56730,5.3
+Indiana,Security Guards,18220,2.8,5.929,0.77,15.42,32070,2.6
+Indiana,Crossing Guards and Flaggers,930,7.7,0.303,0.52,13.39,27850,2.3
+Indiana,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2420,8.1,0.787,0.8,9.76,20290,1.3
+Indiana,Transportation Security Screeners,370,0,0.122,0.38,18.63,38750,2.2
+Indiana,"School Bus Monitors and Protective Service Workers, All Other",2490,3.6,0.809,0.81,13.79,28690,1.5
+Indiana,Food Preparation and Serving Related Occupations,282350,1,91.86,1,11.21,23320,0.7
+Indiana,Chefs and Head Cooks,1290,12.8,0.418,0.48,24.58,51130,2.8
+Indiana,First-Line Supervisors of Food Preparation and Serving Workers,22480,3.2,7.313,1.06,16.29,33870,1.2
+Indiana,"Cooks, Fast Food",9150,14.3,2.978,0.83,9.83,20440,1.5
+Indiana,"Cooks, Institution and Cafeteria",10220,4.3,3.324,1.21,12.65,26320,1
+Indiana,"Cooks, Restaurant",28760,4.5,9.356,0.98,12.13,25240,1.7
+Indiana,"Cooks, Short Order",1070,27.6,0.349,0.34,10,20800,3.2
+Indiana,"Cooks, All Other",230,25.5,0.074,0.56,13.71,28510,3.8
+Indiana,Food Preparation Workers,15960,6.7,5.193,0.88,11.21,23320,1.1
+Indiana,Bartenders,12590,6.5,4.096,0.93,11.06,23000,2.7
+Indiana,Fast Food and Counter Workers,101290,2.5,32.953,1.21,9.9,20580,0.7
+Indiana,Waiters and Waitresses,49690,2.8,16.166,0.92,11.32,23540,2.5
+Indiana,"Food Servers, Nonrestaurant",5870,8,1.91,1.01,11.05,22990,1.4
+Indiana,Dining Room and Cafeteria Attendants and Bartender Helpers,6590,8.5,2.145,0.66,9.91,20620,1.4
+Indiana,Dishwashers,7220,7.7,2.35,0.67,10.03,20870,1.5
+Indiana,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",9290,5.8,3.022,1.05,9.92,20630,1.6
+Indiana,"Food Preparation and Serving Related Workers, All Other",650,35.8,0.212,0.43,11.69,24300,5.3
+Indiana,Building and Grounds Cleaning and Maintenance Occupations,85460,2,27.805,0.92,13.92,28950,0.8
+Indiana,First-Line Supervisors of Housekeeping and Janitorial Workers,3130,7.3,1.019,0.96,19.83,41250,1.7
+Indiana,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2280,8.9,0.743,1.05,23.47,48810,3.4
+Indiana,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",43230,3.7,14.065,0.96,13.46,28000,1.1
+Indiana,Maids and Housekeeping Cleaners,16070,5.5,5.228,0.83,11.1,23100,1.1
+Indiana,"Building Cleaning Workers, All Other",**,**,**,**,12.91,26850,10.9
+Indiana,Pest Control Workers,1250,13.5,0.406,0.75,18.79,39090,5.2
+Indiana,Landscaping and Groundskeeping Workers,17700,3.2,5.759,0.93,14.56,30290,1.6
+Indiana,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",700,24.8,0.226,1.29,18.24,37940,5.1
+Indiana,Tree Trimmers and Pruners,730,23.9,0.239,0.74,18.29,38040,3.8
+Indiana,"Grounds Maintenance Workers, All Other",150,10.2,0.05,0.51,20.95,43580,4.6
+Indiana,Personal Care and Service Occupations,54010,2.5,17.57,0.78,12.86,26740,1.2
+Indiana,First-Line Supervisors of Gambling Services Workers,880,18,0.287,1.43,20.68,43010,3.3
+Indiana,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",3330,4.8,1.085,0.73,17.84,37110,1.6
+Indiana,Animal Trainers,200,44.1,0.066,0.59,13.38,27830,14.4
+Indiana,Animal Caretakers,4540,5.7,1.477,1.02,11.7,24330,1.9
+Indiana,Gambling Dealers,2290,11.9,0.746,1.11,10.61,22080,7.7
+Indiana,"Ushers, Lobby Attendants, and Ticket Takers",2290,10.5,0.746,0.79,9.63,20030,1.4
+Indiana,Amusement and Recreation Attendants,6420,6.4,2.09,0.91,10.01,20810,1.2
+Indiana,Costume Attendants,80,28.4,0.026,0.5,15.72,32700,2.6
+Indiana,"Locker Room, Coatroom, and Dressing Room Attendants",40,24.3,0.011,0.11,11.6,24130,2.7
+Indiana,Funeral Attendants,1440,17.9,0.469,2,11.97,24900,5.3
+Indiana,"Morticians, Undertakers, and Funeral Arrangers",670,25.9,0.218,1.26,28.55,59370,4.4
+Indiana,Barbers,230,47,0.076,0.56,14.71,30590,12.5
+Indiana,"Hairdressers, Hairstylists, and Cosmetologists",7340,5.1,2.388,0.91,13.36,27780,4
+Indiana,Manicurists and Pedicurists,710,25.6,0.232,0.31,14.18,29490,9.6
+Indiana,Skincare Specialists,660,18.4,0.216,0.56,13.5,28080,5.8
+Indiana,Baggage Porters and Bellhops,390,18.6,0.127,0.47,11.04,22970,3.6
+Indiana,Concierges,100,15.7,0.033,0.12,12.65,26310,8.5
+Indiana,Tour and Travel Guides,880,36,0.288,0.87,10.95,22780,2.5
+Indiana,Childcare Workers,8110,9.3,2.639,0.69,10.8,22470,1.5
+Indiana,Exercise Trainers and Group Fitness Instructors,4750,6.1,1.544,0.7,16.15,33600,4.7
+Indiana,Recreation Workers,6340,3.8,2.062,0.84,12.5,26000,1.2
+Indiana,Residential Advisors,1540,9,0.501,0.68,15.26,31750,2.2
+Indiana,"Crematory Operators and Personal Care and Service Workers, All Other",630,24,0.205,0.49,11.69,24310,4.3
+Indiana,Sales and Related Occupations,284150,1.3,92.447,0.94,19.59,40750,1.1
+Indiana,First-Line Supervisors of Retail Sales Workers,23280,2.7,7.575,0.95,20.15,41920,1.2
+Indiana,First-Line Supervisors of Non-Retail Sales Workers,3730,6,1.213,0.72,39.85,82890,2.3
+Indiana,Cashiers,69340,3.4,22.56,0.92,10.54,21930,0.6
+Indiana,Gambling Change Persons and Booth Cashiers,510,21.9,0.166,1.14,13.1,27250,4.2
+Indiana,Counter and Rental Clerks,8240,5.9,2.681,0.96,14.07,29270,1.7
+Indiana,Parts Salespersons,6690,5.6,2.177,1.25,16.01,33310,1.8
+Indiana,Retail Salespersons,88840,2.8,28.902,0.98,13.33,27730,1.6
+Indiana,Advertising Sales Agents,2380,5.9,0.774,0.88,24.9,51790,2.9
+Indiana,Insurance Sales Agents,9380,4.2,3.051,1.09,30.46,63360,3.6
+Indiana,"Securities, Commodities, and Financial Services Sales Agents",5280,10.4,1.718,0.58,42.5,88400,8.3
+Indiana,Travel Agents,550,12.1,0.18,0.4,20.55,42740,4
+Indiana,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",17140,3.9,5.577,0.79,32.71,68040,1.9
+Indiana,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",6900,7.4,2.244,1.07,46.43,96580,3.4
+Indiana,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",31500,2.8,10.247,1.12,35.32,73470,2.4
+Indiana,Demonstrators and Product Promoters,790,23.3,0.256,0.48,14.13,29380,5.9
+Indiana,Real Estate Brokers,710,34.4,0.23,0.79,43.13,89720,17.9
+Indiana,Real Estate Sales Agents,2860,9.8,0.93,0.84,22.92,47670,5.1
+Indiana,Sales Engineers,1060,11.6,0.344,0.8,48.46,100790,5.1
+Indiana,Telemarketers,3400,16.7,1.106,1.21,14.32,29790,6.1
+Indiana,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",130,27.6,0.043,0.71,14.82,30820,6.4
+Indiana,"Sales and Related Workers, All Other",**,**,**,**,13.94,28990,2.7
+Indiana,Office and Administrative Support Occupations,369170,1,120.106,0.9,18.37,38210,0.4
+Indiana,First-Line Supervisors of Office and Administrative Support Workers,28320,1.5,9.214,0.91,27.59,57380,0.7
+Indiana,"Switchboard Operators, Including Answering Service",970,11.9,0.315,0.68,14.11,29340,1.6
+Indiana,Telephone Operators,70,16.3,0.022,0.68,18.16,37770,8.6
+Indiana,"Communications Equipment Operators, All Other",40,42.9,0.013,0.58,20.93,43530,2.6
+Indiana,Bill and Account Collectors,3530,8.5,1.148,0.71,18.36,38180,2.3
+Indiana,Billing and Posting Clerks,8520,4.5,2.771,0.87,18,37440,0.8
+Indiana,"Bookkeeping, Accounting, and Auditing Clerks",26650,2.1,8.67,0.84,18.94,39400,0.6
+Indiana,Gambling Cage Workers,310,23.6,0.102,1.05,13.95,29020,1.7
+Indiana,Payroll and Timekeeping Clerks,2900,4,0.944,0.97,20.44,42520,0.9
+Indiana,Procurement Clerks,900,15.1,0.293,0.65,19.88,41360,1.5
+Indiana,Tellers,10040,4,3.267,1.09,14.11,29340,1
+Indiana,"Financial Clerks, All Other",300,22.1,0.096,0.46,20.44,42510,2.1
+Indiana,Brokerage Clerks,610,23.5,0.2,0.61,24.16,50250,3
+Indiana,Correspondence Clerks,300,26.8,0.099,2.33,15.31,31840,8.1
+Indiana,"Court, Municipal, and License Clerks",1760,3.6,0.574,0.55,16.13,33550,1.1
+Indiana,"Credit Authorizers, Checkers, and Clerks",310,16.1,0.1,0.55,22.12,46010,3.6
+Indiana,Customer Service Representatives,53480,3,17.399,0.88,17.95,37340,0.8
+Indiana,"Eligibility Interviewers, Government Programs",2230,7.2,0.726,0.76,17.86,37140,1.5
+Indiana,File Clerks,1850,4.7,0.603,0.87,15.72,32710,1.1
+Indiana,"Hotel, Motel, and Resort Desk Clerks",4730,6.2,1.537,0.84,10.81,22480,1.5
+Indiana,"Interviewers, Except Eligibility and Loan",6740,9.7,2.192,1.71,16.6,34530,0.8
+Indiana,"Library Assistants, Clerical",2610,6.9,0.848,1.45,11.87,24690,1.9
+Indiana,Loan Interviewers and Clerks,3040,11.2,0.987,0.7,17.29,35960,2.7
+Indiana,New Accounts Clerks,910,12.1,0.295,1,18.3,38070,2
+Indiana,Order Clerks,2860,34.9,0.931,1,13.82,28750,8
+Indiana,"Human Resources Assistants, Except Payroll and Timekeeping",1350,4.3,0.44,0.55,18.73,38960,1.1
+Indiana,Receptionists and Information Clerks,16140,3.2,5.251,0.73,13.97,29060,0.8
+Indiana,Reservation and Transportation Ticket Agents and Travel Clerks,1120,19,0.363,0.43,19.61,40790,3.9
+Indiana,"Information and Record Clerks, All Other",3520,1.7,1.144,1.09,20.43,42490,1.1
+Indiana,Cargo and Freight Agents,2740,19.3,0.892,1.37,20.78,43220,3
+Indiana,Couriers and Messengers,930,15.7,0.304,0.6,13.25,27550,1.8
+Indiana,Public Safety Telecommunicators,2080,3.7,0.677,1.04,18.11,37670,1
+Indiana,"Dispatchers, Except Police, Fire, and Ambulance",4420,5.7,1.438,1.06,21.83,45410,2.4
+Indiana,"Meter Readers, Utilities",1310,44.5,0.425,2.05,22.55,46910,2.2
+Indiana,Postal Service Clerks,1670,0,0.542,0.98,23.99,49900,0.6
+Indiana,Postal Service Mail Carriers,7200,0,2.341,1.01,24.92,51830,0.7
+Indiana,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1750,0,0.569,0.82,23.6,49080,1.9
+Indiana,"Production, Planning, and Expediting Clerks",6300,3.5,2.051,0.81,23.94,49800,0.9
+Indiana,"Shipping, Receiving, and Inventory Clerks",20860,4.2,6.786,1.41,16.85,35050,0.7
+Indiana,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2760,20.4,0.899,2.17,17.37,36130,2.5
+Indiana,Executive Secretaries and Executive Administrative Assistants,5810,7.5,1.889,0.51,25.67,53380,1.1
+Indiana,Legal Secretaries and Administrative Assistants,2730,10.1,0.889,0.78,20.17,41960,3.5
+Indiana,Medical Secretaries and Administrative Assistants,11920,4.1,3.877,0.94,17.48,36350,1.1
+Indiana,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",23180,2.3,7.54,0.54,16.58,34490,0.9
+Indiana,Data Entry Keyers,2160,8.1,0.701,0.64,14.69,30560,1.2
+Indiana,Word Processors and Typists,180,21.1,0.059,0.18,16.55,34430,2.7
+Indiana,Desktop Publishers,170,35.7,0.057,0.95,15.38,31990,6.5
+Indiana,Insurance Claims and Policy Processing Clerks,5720,9.5,1.862,1.06,19.23,40000,1.2
+Indiana,"Mail Clerks and Mail Machine Operators, Except Postal Service",970,14.3,0.315,0.55,15.36,31960,3
+Indiana,"Office Clerks, General",73900,1.6,24.044,1.19,16.52,34370,0.5
+Indiana,"Office Machine Operators, Except Computer",430,21.3,0.139,0.44,17.08,35530,4
+Indiana,Proofreaders and Copy Markers,80,22.6,0.025,0.48,18.84,39180,7.8
+Indiana,Statistical Assistants,760,6.2,0.247,3.7,18.52,38510,4.7
+Indiana,"Office and Administrative Support Workers, All Other",3050,6.9,0.993,0.77,17.68,36780,3.7
+Indiana,"Farming, Fishing, and Forestry Occupations",3260,6.2,1.061,0.32,16.07,33440,2.2
+Indiana,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",150,17.7,0.05,0.32,27.98,58200,4.7
+Indiana,Agricultural Inspectors,200,13.2,0.066,0.7,19.9,41390,2.7
+Indiana,"Graders and Sorters, Agricultural Products",170,34.4,0.056,0.24,13.32,27700,4.4
+Indiana,Agricultural Equipment Operators,580,18,0.188,1.03,17.52,36440,2
+Indiana,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1160,12.1,0.376,0.19,13.34,27740,3.6
+Indiana,"Farmworkers, Farm, Ranch, and Aquacultural Animals",440,10.4,0.144,0.58,13.97,29050,4.4
+Indiana,"Agricultural Workers, All Other",70,45.4,0.021,0.48,11.2,23290,3.4
+Indiana,Forest and Conservation Workers,120,19,0.038,0.82,12.83,26690,6.4
+Indiana,Fallers,110,17.2,0.035,1.05,27.73,57680,13.6
+Indiana,Logging Equipment Operators,220,16.5,0.07,0.39,18.47,38420,3.9
+Indiana,Log Graders and Scalers,40,24.8,0.012,0.54,18,37450,3.7
+Indiana,Construction and Extraction Occupations,127000,1.4,41.318,0.98,24.75,51480,0.7
+Indiana,First-Line Supervisors of Construction Trades and Extraction Workers,11290,3.1,3.673,0.86,32.02,66600,1
+Indiana,Boilermakers,830,25.7,0.269,2.49,34.85,72490,3.5
+Indiana,Brickmasons and Blockmasons,1940,7.4,0.63,1.52,27.25,56680,2.2
+Indiana,Stonemasons,120,48.8,0.038,0.45,26.07,54230,9.6
+Indiana,Carpenters,13920,4.7,4.528,0.91,23.47,48820,1.5
+Indiana,Carpet Installers,530,23,0.173,0.98,16.62,34560,5.5
+Indiana,"Floor Layers, Except Carpet, Wood, and Hard Tiles",240,32.8,0.078,0.7,20.43,42500,7.1
+Indiana,Floor Sanders and Finishers,40,48,0.015,0.43,19.45,40450,4.6
+Indiana,Tile and Stone Setters,560,21.8,0.183,0.66,19.54,40640,3.8
+Indiana,Cement Masons and Concrete Finishers,4720,7.7,1.536,1.15,21.73,45210,2.6
+Indiana,Construction Laborers,23500,3.4,7.645,1.1,19.48,40530,1.7
+Indiana,"Paving, Surfacing, and Tamping Equipment Operators",800,19.6,0.26,0.83,20.91,43490,4.9
+Indiana,Pile Driver Operators,50,18.7,0.015,0.61,43.12,89690,14
+Indiana,Operating Engineers and Other Construction Equipment Operators,10090,4.3,3.282,1.19,28.73,59770,1.5
+Indiana,Drywall and Ceiling Tile Installers,1080,11.5,0.351,0.5,22.32,46420,4.4
+Indiana,Electricians,16130,4.2,5.248,1.12,28.43,59130,1.5
+Indiana,Glaziers,1150,18,0.373,1.05,22.48,46750,4.8
+Indiana,"Insulation Workers, Floor, Ceiling, and Wall",700,15.2,0.228,1,17.95,37330,4
+Indiana,"Insulation Workers, Mechanical",400,26.5,0.13,0.72,28.53,59340,8.4
+Indiana,"Painters, Construction and Maintenance",3760,7.7,1.223,0.77,20.33,42280,3.1
+Indiana,Pipelayers,440,26.2,0.142,0.58,25.77,53610,4.7
+Indiana,"Plumbers, Pipefitters, and Steamfitters",11630,6.6,3.784,1.25,29.56,61480,2.1
+Indiana,Plasterers and Stucco Masons,100,24.9,0.033,0.18,24.32,50580,4.4
+Indiana,Reinforcing Iron and Rebar Workers,170,20.2,0.057,0.44,31.63,65790,9.9
+Indiana,Roofers,2840,7.4,0.925,1.05,20.94,43550,3.4
+Indiana,Sheet Metal Workers,4070,11.1,1.323,1.48,26.72,55580,3.3
+Indiana,Structural Iron and Steel Workers,2060,13.2,0.669,1.28,25.82,53710,3.3
+Indiana,Solar Photovoltaic Installers,**,**,**,**,20.32,42260,17.9
+Indiana,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",440,27.1,0.142,0.89,21.68,45090,5.5
+Indiana,Helpers--Carpenters,320,30.1,0.105,0.47,14.51,30180,3.2
+Indiana,Helpers--Electricians,840,20.7,0.274,0.51,15.15,31510,4
+Indiana,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",140,47.7,0.045,0.61,15.68,32620,13
+Indiana,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",370,25,0.12,0.3,16.06,33410,4.6
+Indiana,Helpers--Roofers,40,46.3,0.014,0.23,15.06,31330,8.8
+Indiana,"Helpers, Construction Trades, All Other",410,22.6,0.134,0.69,17.68,36770,7
+Indiana,Construction and Building Inspectors,1340,8.1,0.436,0.58,23.09,48020,2.4
+Indiana,Elevator and Escalator Installers and Repairers,390,28.2,0.128,0.66,37.8,78630,2.3
+Indiana,Fence Erectors,310,43.6,0.101,0.57,16.35,34010,4.6
+Indiana,Hazardous Materials Removal Workers,880,15.3,0.286,0.95,21.24,44170,4.2
+Indiana,Highway Maintenance Workers,3980,2.8,1.295,1.26,18.22,37900,1.2
+Indiana,Rail-Track Laying and Maintenance Equipment Operators,280,13.3,0.09,0.82,28.38,59030,2.1
+Indiana,Septic Tank Servicers and Sewer Pipe Cleaners,510,19.4,0.165,0.82,19.12,39770,2.5
+Indiana,Miscellaneous Construction and Related Workers,500,21.8,0.162,0.74,15.84,32950,4.3
+Indiana,"Service Unit Operators, Oil and Gas",40,43,0.014,0.04,21.49,44690,5.5
+Indiana,"Excavating and Loading Machine and Dragline Operators, Surface Mining",350,14.6,0.115,0.38,22.59,46980,3.9
+Indiana,Continuous Mining Machine Operators,470,26.9,0.152,1.52,25.66,53370,3.1
+Indiana,"Roof Bolters, Mining",240,0,0.078,3.65,26.12,54340,2.5
+Indiana,"Loading and Moving Machine Operators, Underground Mining",140,3.3,0.047,1.65,30.11,62630,2.5
+Indiana,"Rock Splitters, Quarry",320,27.2,0.105,3.04,19.09,39700,5.9
+Indiana,"Roustabouts, Oil and Gas",100,28.1,0.033,0.08,19.66,40900,4
+Indiana,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",780,10.7,0.255,1.5,22.75,47310,2.2
+Indiana,"Underground Mining Machine Operators and Extraction Workers, All Other",**,**,**,**,20.61,42860,5.1
+Indiana,"Installation, Maintenance, and Repair Occupations",133440,1.4,43.414,1.12,22.72,47260,0.5
+Indiana,"First-Line Supervisors of Mechanics, Installers, and Repairers",11310,2.4,3.679,1.11,31.68,65890,0.7
+Indiana,"Computer, Automated Teller, and Office Machine Repairers",1890,13,0.615,0.92,19.43,40420,6.3
+Indiana,"Radio, Cellular, and Tower Equipment Installers and Repairers",230,46.4,0.074,0.76,26.9,55960,4.1
+Indiana,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1700,16,0.553,0.39,23.91,49740,4
+Indiana,Avionics Technicians,160,14.5,0.05,0.34,27.79,57790,3.3
+Indiana,"Electric Motor, Power Tool, and Related Repairers",510,20.3,0.166,1.54,19.5,40560,2.6
+Indiana,"Electrical and Electronics Installers and Repairers, Transportation Equipment",140,18.6,0.047,0.7,27.21,56600,7.1
+Indiana,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1110,17,0.361,0.9,26.35,54800,3
+Indiana,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",630,10.4,0.204,1.32,36.96,76870,2.4
+Indiana,"Electronic Equipment Installers and Repairers, Motor Vehicles",180,16.9,0.059,0.85,19.89,41360,8.5
+Indiana,Audiovisual Equipment Installers and Repairers,990,16,0.321,1.84,22.88,47590,7
+Indiana,Security and Fire Alarm Systems Installers,1310,12.1,0.425,0.87,21.44,44590,2.8
+Indiana,Aircraft Mechanics and Service Technicians,1440,11,0.47,0.52,25.77,53610,3.9
+Indiana,Automotive Body and Related Repairers,3460,5.4,1.125,1.15,20.93,43530,2.4
+Indiana,Automotive Glass Installers and Repairers,230,34.6,0.075,0.57,17.87,37160,3.5
+Indiana,Automotive Service Technicians and Mechanics,14260,4,4.639,1.04,20.16,41940,1.2
+Indiana,Bus and Truck Mechanics and Diesel Engine Specialists,8150,5.9,2.652,1.46,22.2,46180,1.1
+Indiana,Farm Equipment Mechanics and Service Technicians,1100,10.9,0.357,1.45,20.75,43150,3.3
+Indiana,"Mobile Heavy Equipment Mechanics, Except Engines",3280,6.9,1.068,1.06,24.64,51250,1.1
+Indiana,Rail Car Repairers,700,14.6,0.227,1.29,24.81,51600,3.4
+Indiana,Motorboat Mechanics and Service Technicians,560,20.6,0.181,1.16,17.32,36030,2.8
+Indiana,Motorcycle Mechanics,470,23.9,0.153,1.44,18.56,38600,3.7
+Indiana,Outdoor Power Equipment and Other Small Engine Mechanics,1070,17.1,0.348,1.59,16.97,35290,4.5
+Indiana,Bicycle Repairers,500,38.3,0.161,1.79,12.59,26180,2.6
+Indiana,Recreational Vehicle Service Technicians,970,19.2,0.315,2.97,20.27,42160,2.8
+Indiana,Tire Repairers and Changers,3070,11.6,0.999,1.32,13.52,28120,2.5
+Indiana,Mechanical Door Repairers,370,20,0.119,0.76,19.15,39840,4
+Indiana,"Control and Valve Installers and Repairers, Except Mechanical Door",940,15.3,0.307,0.86,29.92,62230,4.1
+Indiana,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",7180,8.3,2.336,1,24.74,51450,2
+Indiana,Home Appliance Repairers,480,16.7,0.156,0.74,19.79,41160,3.2
+Indiana,Industrial Machinery Mechanics,12670,9.7,4.123,1.56,26,54080,1.3
+Indiana,"Maintenance Workers, Machinery",1560,19,0.506,1.02,23.48,48830,1.4
+Indiana,Millwrights,2490,12,0.811,2.52,26.48,55070,3.6
+Indiana,"Refractory Materials Repairers, Except Brickmasons",110,41.9,0.037,6.59,27.22,56610,3.8
+Indiana,Electrical Power-Line Installers and Repairers,3100,13.5,1.008,1.33,33.48,69640,2
+Indiana,Telecommunications Line Installers and Repairers,1800,15.8,0.586,0.71,21.19,44080,2.8
+Indiana,Camera and Photographic Equipment Repairers,**,**,**,**,19.9,41400,2.9
+Indiana,Medical Equipment Repairers,1410,13.3,0.459,1.45,23.09,48040,2.3
+Indiana,Musical Instrument Repairers and Tuners,200,27.4,0.066,1.2,16.37,34050,5.2
+Indiana,"Precision Instrument and Equipment Repairers, All Other",250,16.3,0.082,1.15,26.93,56010,3.6
+Indiana,"Maintenance and Repair Workers, General",35440,2.1,11.53,1.19,19.84,41270,0.8
+Indiana,Wind Turbine Service Technicians,120,26.8,0.038,0.93,24.84,51680,8.3
+Indiana,"Coin, Vending, and Amusement Machine Servicers and Repairers",1190,22.4,0.387,1.81,16.54,34410,2.2
+Indiana,Locksmiths and Safe Repairers,330,21.4,0.108,0.94,17.67,36760,7.1
+Indiana,Riggers,330,30.3,0.107,0.68,26.76,55660,4.8
+Indiana,Signal and Track Switch Repairers,250,17.8,0.08,1.71,35.31,73450,3.8
+Indiana,"Helpers--Installation, Maintenance, and Repair Workers",1280,11.7,0.417,0.62,13.89,28890,2.3
+Indiana,"Installation, Maintenance, and Repair Workers, All Other",2400,13.7,0.782,0.71,19.32,40190,2.3
+Indiana,Production Occupations,386740,1.7,125.822,2.02,19.11,39750,1
+Indiana,First-Line Supervisors of Production and Operating Workers,24450,2.1,7.954,1.85,30.24,62910,0.9
+Indiana,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",50,14.5,0.015,0.05,23.44,48760,2.7
+Indiana,"Coil Winders, Tapers, and Finishers",500,19,0.164,1.9,17.89,37220,2.8
+Indiana,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",8650,16.9,2.815,1.45,15.43,32090,1.5
+Indiana,Engine and Other Machine Assemblers,7990,3.8,2.601,8.31,*,*,*
+Indiana,Structural Metal Fabricators and Fitters,2400,20.7,0.78,1.49,18.77,39050,1.6
+Indiana,Fiberglass Laminators and Fabricators,2580,26.8,0.841,6.17,17.17,35720,4
+Indiana,Miscellaneous Assemblers and Fabricators,91280,3.4,29.698,3.18,18.47,38420,2.6
+Indiana,Bakers,2520,7.5,0.821,0.65,12.49,25970,1.3
+Indiana,Butchers and Meat Cutters,2090,10.9,0.68,0.73,15.5,32240,2.6
+Indiana,"Meat, Poultry, and Fish Cutters and Trimmers",1860,22.8,0.604,0.58,13.79,28680,2.8
+Indiana,Slaughterers and Meat Packers,1030,19.5,0.335,0.67,15.2,31630,2.7
+Indiana,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",370,13.7,0.119,0.84,16.87,35080,2.9
+Indiana,Food Batchmakers,3530,9.8,1.149,1.06,16.12,33530,2.3
+Indiana,Food Cooking Machine Operators and Tenders,750,23.4,0.246,1.2,15.33,31890,1.9
+Indiana,"Food Processing Workers, All Other",590,18.8,0.19,0.65,13.57,28220,1.7
+Indiana,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",4840,9.1,1.575,3.01,17.46,36320,1.7
+Indiana,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1070,14.4,0.347,3.12,22.44,46670,6
+Indiana,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,21.61,44950,2.7
+Indiana,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",16050,4.4,5.222,3.93,16.93,35210,1.3
+Indiana,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",720,30,0.234,3.15,18.12,37680,5.5
+Indiana,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",5290,8.4,1.719,3.29,18.24,37940,2.1
+Indiana,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2040,9.5,0.663,3.47,20.02,41640,3.9
+Indiana,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",420,23.9,0.138,1.08,22.03,45820,2.4
+Indiana,Machinists,19630,4.4,6.387,2.45,21.58,44880,1.1
+Indiana,Metal-Refining Furnace Operators and Tenders,1190,15.5,0.388,3.32,20.41,42440,1.9
+Indiana,"Pourers and Casters, Metal",610,15.5,0.199,3.65,19.27,40080,3.5
+Indiana,"Model Makers, Metal and Plastic",40,34.7,0.012,0.4,24.33,50600,11.5
+Indiana,"Patternmakers, Metal and Plastic",230,26.6,0.074,3.62,24.15,50220,2.8
+Indiana,Foundry Mold and Coremakers,720,14.4,0.234,1.95,17.95,37340,3.5
+Indiana,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",13700,7.8,4.458,3.8,17.2,35780,2
+Indiana,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",5480,10.7,1.784,1.78,20.04,41680,2.8
+Indiana,Tool and Die Makers,4170,5.5,1.355,2.81,25.93,53940,2.3
+Indiana,"Welders, Cutters, Solderers, and Brazers",16550,3.9,5.384,1.93,20.27,42160,1.8
+Indiana,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",3000,8.1,0.977,4.09,16.81,34950,1.9
+Indiana,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",2110,16.5,0.688,5.16,19.49,40530,2.6
+Indiana,"Layout Workers, Metal and Plastic",180,25.3,0.059,1.06,24.07,50070,3
+Indiana,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",2030,13.3,0.66,2.32,15.85,32960,2.4
+Indiana,"Tool Grinders, Filers, and Sharpeners",220,36.6,0.071,1.63,20.54,42730,3.4
+Indiana,"Metal Workers and Plastic Workers, All Other",750,8.3,0.245,1.48,17.33,36050,2.5
+Indiana,Prepress Technicians and Workers,790,13,0.258,1.25,17.81,37040,2.1
+Indiana,Printing Press Operators,4750,7.4,1.545,1.31,16.67,34670,2
+Indiana,Print Binding and Finishing Workers,1550,18.4,0.503,1.62,16.09,33460,2
+Indiana,Laundry and Dry-Cleaning Workers,4770,8.8,1.551,1.09,11.38,23680,1.6
+Indiana,"Pressers, Textile, Garment, and Related Materials",370,28.8,0.119,0.46,12.66,26330,3.2
+Indiana,Sewing Machine Operators,2880,9.4,0.938,1.03,14.08,29280,2
+Indiana,Shoe and Leather Workers and Repairers,150,36.4,0.048,0.8,16.21,33710,5.9
+Indiana,"Tailors, Dressmakers, and Custom Sewers",590,16,0.193,1.18,15.11,31430,3.2
+Indiana,"Textile Cutting Machine Setters, Operators, and Tenders",190,15.6,0.061,0.68,13.82,28750,2.1
+Indiana,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",100,20.4,0.032,0.22,14.16,29460,3.9
+Indiana,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",80,45.3,0.025,0.12,13.35,27760,4.5
+Indiana,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",770,22.2,0.249,2.01,19.41,40370,3.4
+Indiana,Upholsterers,1700,21.9,0.552,2.76,17.39,36180,3
+Indiana,Cabinetmakers and Bench Carpenters,5290,8.3,1.722,2.54,16.9,35160,1.5
+Indiana,Furniture Finishers,1170,10.4,0.38,3.44,15.92,33110,1.7
+Indiana,"Sawing Machine Setters, Operators, and Tenders, Wood",1760,7.8,0.571,1.65,16.39,34080,1.5
+Indiana,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",4090,7.4,1.331,2.48,15.73,32730,1.6
+Indiana,"Woodworkers, All Other",180,22.3,0.058,1.28,20.71,43080,6.8
+Indiana,Power Distributors and Dispatchers,240,24,0.077,1.05,38.2,79460,4.5
+Indiana,Power Plant Operators,770,12.5,0.252,1.1,32.99,68610,3.2
+Indiana,Stationary Engineers and Boiler Operators,530,10.8,0.174,0.78,25.48,53000,2.1
+Indiana,Water and Wastewater Treatment Plant and System Operators,3430,5.9,1.115,1.32,21.07,43820,1.2
+Indiana,Chemical Plant and System Operators,540,21.2,0.176,0.9,23.33,48540,5
+Indiana,Gas Plant Operators,260,18.7,0.085,0.86,33.15,68950,2.9
+Indiana,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",770,45.8,0.251,0.91,27.55,57300,4.1
+Indiana,"Plant and System Operators, All Other",120,23.4,0.039,0.44,30.2,62810,5.6
+Indiana,Chemical Equipment Operators and Tenders,2640,17.2,0.858,1.45,22.26,46310,2.7
+Indiana,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1060,11,0.345,0.99,20.94,43550,3.7
+Indiana,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",920,11.6,0.299,1.32,18.02,37480,2.9
+Indiana,"Grinding and Polishing Workers, Hand",1110,12.9,0.362,1.82,15.68,32620,2.4
+Indiana,"Mixing and Blending Machine Setters, Operators, and Tenders",5280,37.7,1.719,2.01,18.57,38630,1.5
+Indiana,"Cutters and Trimmers, Hand",150,15.6,0.049,0.75,13.97,29060,4.2
+Indiana,"Cutting and Slicing Machine Setters, Operators, and Tenders",2340,11.9,0.76,1.93,16.12,33520,2
+Indiana,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",3020,10.3,0.983,2.01,16.76,34860,2.5
+Indiana,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",840,24,0.272,2.1,18.49,38450,2.7
+Indiana,"Inspectors, Testers, Sorters, Samplers, and Weighers",20330,2.9,6.613,1.68,19.59,40740,1.2
+Indiana,Jewelers and Precious Stone and Metal Workers,420,24.6,0.135,0.84,20.18,41970,4.3
+Indiana,Dental Laboratory Technicians,880,11,0.287,1.22,18.53,38540,3.1
+Indiana,Medical Appliance Technicians,520,16.6,0.17,1.77,17.62,36660,5.8
+Indiana,Ophthalmic Laboratory Technicians,260,17,0.084,0.42,17.57,36540,3.6
+Indiana,Packaging and Filling Machine Operators and Tenders,9820,10,3.196,1.2,16.46,34240,1.6
+Indiana,"Painting, Coating, and Decorating Workers",560,23.5,0.181,2.14,16.86,35070,2.8
+Indiana,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",8660,14.6,2.819,2.83,19.23,40010,2.4
+Indiana,Photographic Process Workers and Processing Machine Operators,330,7.8,0.108,1.33,14.15,29440,11.7
+Indiana,Computer Numerically Controlled Tool Operators,6190,5.7,2.015,1.95,19.73,41040,1.3
+Indiana,Computer Numerically Controlled Tool Programmers,740,15,0.242,1.39,23.63,49150,3.1
+Indiana,Adhesive Bonding Machine Operators and Tenders,720,18.9,0.235,2.49,16.02,33330,4.5
+Indiana,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",260,17.5,0.085,0.76,16.02,33320,3.9
+Indiana,Cooling and Freezing Equipment Operators and Tenders,240,18.4,0.077,1.29,17.73,36880,6.2
+Indiana,Etchers and Engravers,190,24.4,0.06,0.86,16.09,33470,4.8
+Indiana,"Molders, Shapers, and Casters, Except Metal and Plastic",1770,17.6,0.576,1.88,17.3,35980,1.9
+Indiana,"Paper Goods Machine Setters, Operators, and Tenders",2260,14.1,0.734,1.08,16.2,33700,3
+Indiana,Helpers--Production Workers,16760,11.4,5.453,2.64,14.82,30830,1.4
+Indiana,"Production Workers, All Other",3440,9.1,1.12,0.74,16.59,34510,2
+Indiana,Transportation and Material Moving Occupations,313990,1.6,102.153,1.2,17.06,35480,0.7
+Indiana,Aircraft Cargo Handling Supervisors,40,40,0.013,0.2,27.29,56760,2.4
+Indiana,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",11470,3.3,3.732,1.2,26.88,55910,0.8
+Indiana,"Airline Pilots, Copilots, and Flight Engineers",**,**,**,**,*,106280,4.3
+Indiana,Commercial Pilots,720,17.9,0.235,0.91,*,74430,7.4
+Indiana,Air Traffic Controllers,610,0,0.197,1.31,58.75,122190,2.5
+Indiana,Airfield Operations Specialists,130,14.1,0.042,0.58,22.01,45790,4.6
+Indiana,Flight Attendants,**,**,**,**,*,62120,4.7
+Indiana,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",410,25.2,0.133,1.32,13.35,27760,3.5
+Indiana,Driver/Sales Workers,9030,8.6,2.937,0.97,13.68,28460,4.6
+Indiana,Heavy and Tractor-Trailer Truck Drivers,52740,3.3,17.16,1.36,22.27,46320,1.2
+Indiana,Light Truck Drivers,19990,4.4,6.503,1.03,16.94,35230,1.8
+Indiana,"Bus Drivers, Transit and Intercity",1920,8.2,0.625,0.51,18.54,38560,3.7
+Indiana,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",14820,3.5,4.822,1.01,14.96,31130,1.8
+Indiana,"Motor Vehicle Operators, All Other",1420,18.8,0.463,1.2,15.78,32820,6.9
+Indiana,Locomotive Engineers,1140,13.6,0.372,1.54,29.36,61080,3
+Indiana,"Rail Yard Engineers, Dinkey Operators, and Hostlers",160,41.4,0.052,1.4,29.41,61180,7.4
+Indiana,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",310,19.4,0.101,1.33,27.64,57490,2.9
+Indiana,Railroad Conductors and Yardmasters,1370,13.8,0.446,1.43,30.58,63600,4.2
+Indiana,Bridge and Lock Tenders,**,**,**,**,26.23,54570,2.2
+Indiana,Parking Attendants,1660,15.3,0.539,0.54,10.8,22460,3.3
+Indiana,Automotive and Watercraft Service Attendants,2410,10.4,0.783,0.98,12,24950,1
+Indiana,Transportation Inspectors,490,33.8,0.158,0.77,30.85,64180,5.7
+Indiana,"Aircraft Service Attendants and Transportation Workers, All Other",320,11.9,0.103,0.43,13.94,29000,10
+Indiana,Conveyor Operators and Tenders,740,9.2,0.242,1.48,16.99,35340,3.4
+Indiana,Crane and Tower Operators,1760,13.7,0.573,1.85,31.7,65950,5.8
+Indiana,Dredge Operators,60,41.3,0.02,1.92,23.75,49400,7.2
+Indiana,Hoist and Winch Operators,130,21.1,0.041,1.27,24.47,50910,9.4
+Indiana,Industrial Truck and Tractor Operators,20940,5.3,6.811,1.59,17.9,37240,1.3
+Indiana,Cleaners of Vehicles and Equipment,9450,8.1,3.074,1.18,12.52,26040,1.5
+Indiana,"Laborers and Freight, Stock, and Material Movers, Hand",93040,3.5,30.27,1.51,14.81,30810,0.7
+Indiana,Machine Feeders and Offbearers,3760,9.3,1.224,2.84,14.84,30870,3.5
+Indiana,"Packers and Packagers, Hand",12190,5.5,3.967,0.92,,28860,1.2
+Indiana,Stockers and Order Fillers,46490,2.7,15.126,1.04,13.52,28130,1.1
+Indiana,"Pump Operators, Except Wellhead Pumpers",70,26.3,0.023,0.33,27.33,56850,10.6
+Indiana,Refuse and Recyclable Material Collectors,1720,14.1,0.561,0.68,17.3,35990,1.8
+Indiana,"Tank Car, Truck, and Ship Loaders",140,26.8,0.045,0.57,17.35,36090,4.5
+Indiana,"Material Moving Workers, All Other",190,34.3,0.061,0.32,22.44,46680,6.6

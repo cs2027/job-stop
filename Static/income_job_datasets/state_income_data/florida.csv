@@ -1,0 +1,787 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Florida,All Occupations,8794050,0.6,1000,1,22.96,47750,0.4
+Florida,Management Occupations,474730,0.9,53.983,0.98,51.56,107250,0.5
+Florida,Chief Executives,26300,3.1,2.991,2.13,87.02,181000,1.5
+Florida,General and Operations Managers,147680,1.3,16.794,1.03,50.61,105260,0.7
+Florida,Legislators,1260,4.3,0.144,0.4,*,61940,4.4
+Florida,Advertising and Promotions Managers,1290,14.8,0.146,0.86,43.18,89810,4.7
+Florida,Marketing Managers,12090,3.3,1.375,0.77,59.91,124600,1.7
+Florida,Sales Managers,25020,2.9,2.845,1.04,60.48,125810,1.3
+Florida,Public Relations and Fundraising Managers,2730,5.5,0.31,0.58,52.37,108940,3.2
+Florida,Administrative Services and Facilities Managers,15970,2.8,1.816,0.87,44.58,92740,1.9
+Florida,Computer and Information Systems Managers,20090,3.8,2.284,0.77,66.54,138400,1.4
+Florida,Financial Managers,32860,2,3.736,0.84,62.98,131000,1
+Florida,Industrial Production Managers,5900,2.8,0.671,0.53,52.02,108200,1.1
+Florida,Purchasing Managers,3270,3.8,0.372,0.76,54,112320,1.5
+Florida,"Transportation, Storage, and Distribution Managers",5890,3.6,0.67,0.74,44.15,91830,1.6
+Florida,Compensation and Benefits Managers,800,10.3,0.091,0.79,51.68,107490,2.3
+Florida,Human Resources Managers,7980,3.3,0.907,0.86,51.69,107520,1.3
+Florida,Training and Development Managers,1840,4.6,0.21,0.8,47.63,99070,2
+Florida,"Farmers, Ranchers, and Other Agricultural Managers",180,29.2,0.02,0.58,30.78,64020,10.1
+Florida,Construction Managers,23820,3.3,2.708,1.36,47.52,98840,2
+Florida,"Education and Childcare Administrators, Preschool and Daycare",**,**,**,**,21.66,45060,2.9
+Florida,"Education Administrators, Kindergarten through Secondary",**,**,**,**,*,84530,2
+Florida,"Education Administrators, All Other",1430,7.1,0.162,0.54,39.31,81770,3.4
+Florida,Architectural and Engineering Managers,7520,3.2,0.856,0.65,65.38,135990,1.5
+Florida,Food Service Managers,20150,4.7,2.291,1.43,27.84,57900,2.1
+Florida,Gambling Managers,310,13.8,0.035,1.15,38.42,79910,3.6
+Florida,Lodging Managers,3990,6.8,0.454,1.74,29.92,62220,2.5
+Florida,Medical and Health Services Managers,**,**,**,**,51.3,106710,1.6
+Florida,Natural Sciences Managers,2230,7.2,0.254,0.55,42.34,88070,2.7
+Florida,Postmasters and Mail Superintendents,350,0,0.04,0.42,41.69,86720,0.6
+Florida,"Property, Real Estate, and Community Association Managers",22260,3.8,2.532,1.68,30.59,63620,3.1
+Florida,Social and Community Service Managers,**,**,**,**,32.91,68460,1.3
+Florida,Emergency Management Directors,400,6.4,0.045,0.66,39.68,82530,2
+Florida,Funeral Home Managers,500,10.5,0.057,0.88,37.2,77380,5.8
+Florida,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",26560,2.6,3.02,0.94,47.5,98800,1
+Florida,Business and Financial Operations Occupations,500640,0.9,56.929,1.02,33.03,68700,0.5
+Florida,"Agents and Business Managers of Artists, Performers, and Athletes",660,13.4,0.075,0.64,42.82,89070,9
+Florida,Buyers and Purchasing Agents,22600,2.4,2.57,0.9,31.08,64660,0.9
+Florida,"Claims Adjusters, Examiners, and Investigators",24880,4.5,2.829,1.44,30.35,63140,1.2
+Florida,"Insurance Appraisers, Auto Damage",1270,21.1,0.144,1.54,30.76,63980,2.8
+Florida,Compliance Officers,22620,1.8,2.572,1.19,31.21,64910,2.8
+Florida,Cost Estimators,13190,3.4,1.5,1.05,30.77,64000,1.2
+Florida,Human Resources Specialists,36970,2.3,4.204,0.98,28.31,58890,0.7
+Florida,Labor Relations Specialists,1800,9.8,0.205,0.4,30.12,62640,6.2
+Florida,Logisticians,7780,4.7,0.884,0.71,32.06,66670,1.9
+Florida,Management Analysts,48910,3,5.562,1.15,38.49,80050,3
+Florida,"Meeting, Convention, and Event Planners",7660,7.8,0.871,1.09,23.75,49400,1.5
+Florida,"Compensation, Benefits, and Job Analysis Specialists",6080,15.9,0.691,1.14,26.16,54410,2.1
+Florida,Training and Development Specialists,19900,2.5,2.263,1.06,27.71,57640,1.3
+Florida,Market Research Analysts and Marketing Specialists,40480,2.9,4.603,1,29.67,61700,1.2
+Florida,"Project Management Specialists and Business Operations Specialists, All Other",86800,1.8,9.87,1.13,33.16,68970,1
+Florida,Accountants and Auditors,71520,2,8.133,0.93,34.92,72630,1
+Florida,Property Appraisers and Assessors,4530,11,0.515,1.34,26.46,55050,4.7
+Florida,Budget Analysts,3310,3.2,0.376,1.07,35.23,73270,1.4
+Florida,Credit Analysts,3100,6.6,0.352,0.7,39.01,81130,1.9
+Florida,Personal Financial Advisors,15830,5.6,1.801,1.26,54.65,113670,3.5
+Florida,Insurance Underwriters,5500,5.9,0.626,0.92,34.34,71420,2.4
+Florida,Financial Examiners,2290,12.4,0.26,0.59,42.03,87420,2.2
+Florida,Credit Counselors,1960,9.1,0.223,1.02,21,43690,2
+Florida,Loan Officers,16220,6.2,1.845,0.88,35.57,73990,2.4
+Florida,"Tax Examiners and Collectors, and Revenue Agents",4390,4.3,0.5,1.37,22.37,46520,1.1
+Florida,Tax Preparers,4910,11.3,0.559,1.23,21.18,44050,4.5
+Florida,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",22190,3.6,2.523,0.81,35.34,73500,1.6
+Florida,Computer and Mathematical Occupations,217000,1.9,24.676,0.8,39.12,81370,0.8
+Florida,Computer Systems Analysts,27450,4.2,3.121,0.78,41.33,85970,1.7
+Florida,Information Security Analysts,6630,5.6,0.754,0.88,44.03,91580,1.6
+Florida,Computer and Information Research Scientists,1100,7.4,0.125,0.6,61.13,127140,7.6
+Florida,Computer Network Support Specialists,8900,6.8,1.013,0.8,31.26,65030,2.6
+Florida,Computer User Support Specialists,42560,3.4,4.84,1.1,24.72,51420,0.9
+Florida,Computer Network Architects,8410,11.5,0.956,0.92,50.95,105980,1.1
+Florida,Network and Computer Systems Administrators,17930,3.2,2.039,0.84,39.22,81570,0.8
+Florida,Database Administrators and Architects,7510,4.4,0.854,1,43.43,90340,1.5
+Florida,Computer Programmers,9670,7.8,1.099,0.81,38.64,80370,2
+Florida,Software Developers and Software Quality Assurance Analysts and Testers,59880,3.3,6.81,0.71,48,99840,1
+Florida,Web Developers and Digital Interface Designers,7200,4.7,0.819,0.81,32.08,66720,1.8
+Florida,"Computer Occupations, All Other",12100,3.1,1.376,0.51,36.17,75240,1.9
+Florida,Actuaries,680,14.8,0.078,0.51,54.59,113540,4.6
+Florida,Mathematicians,80,6.5,0.009,0.5,40.33,83890,11.5
+Florida,Operations Research Analysts,4620,6.5,0.525,0.77,36.3,75500,1.5
+Florida,Statisticians,980,26.7,0.111,0.42,32.82,68270,4.4
+Florida,"Data Scientists and Mathematical Science Occupations, All Other",1310,19,0.149,0.71,38.93,80980,2.8
+Florida,Architecture and Engineering Occupations,111000,1.5,12.623,0.72,37.55,78100,0.8
+Florida,"Architects, Except Landscape and Naval",4230,7,0.481,0.67,37.29,77550,2.6
+Florida,Landscape Architects,1630,16.2,0.186,1.34,33.08,68810,4.3
+Florida,Cartographers and Photogrammetrists,620,10.9,0.071,0.92,33.37,69400,2.3
+Florida,Surveyors,3460,6.7,0.394,1.28,28.83,59960,3
+Florida,Aerospace Engineers,3070,9.7,0.349,0.81,51.92,107990,3.4
+Florida,Agricultural Engineers,60,30.7,0.007,0.66,35.88,74620,6.8
+Florida,Bioengineers and Biomedical Engineers,1220,17.5,0.139,1.03,41.14,85570,2.3
+Florida,Chemical Engineers,360,8.5,0.041,0.2,47.08,97930,4.1
+Florida,Civil Engineers,16060,3.7,1.827,0.86,43.68,90850,1.5
+Florida,Computer Hardware Engineers,3090,8.6,0.351,0.76,49.46,102880,2.3
+Florida,Electrical Engineers,6060,4.5,0.689,0.55,47.68,99160,1.5
+Florida,"Electronics Engineers, Except Computer",5290,4.8,0.601,0.69,47.38,98560,1.3
+Florida,Environmental Engineers,1590,8.2,0.181,0.5,39.41,81980,3.2
+Florida,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",1090,7.7,0.124,0.71,39.64,82440,2.2
+Florida,Industrial Engineers,10500,3.4,1.194,0.6,39.89,82970,1
+Florida,Marine Engineers and Naval Architects,380,41.5,0.044,0.56,38.07,79190,4.9
+Florida,Materials Engineers,590,12.8,0.067,0.37,45.74,95140,2.2
+Florida,Mechanical Engineers,8150,4.3,0.927,0.44,42.92,89270,1.6
+Florida,"Mining and Geological Engineers, Including Mining Safety Engineers",170,22.5,0.019,0.45,52.71,109650,5.3
+Florida,Nuclear Engineers,**,**,**,**,50.88,105830,2.8
+Florida,Petroleum Engineers,**,**,**,**,72,149750,14.3
+Florida,"Engineers, All Other",9220,3.5,1.048,1.01,41.8,86950,2.9
+Florida,Architectural and Civil Drafters,6900,5.8,0.784,1.17,26.03,54150,1.4
+Florida,Electrical and Electronics Drafters,890,20.8,0.101,0.62,25.68,53420,4.5
+Florida,Mechanical Drafters,2510,5.9,0.286,0.76,26.64,55400,2
+Florida,"Drafters, All Other",830,15,0.095,0.95,25.06,52130,3.6
+Florida,Aerospace Engineering and Operations Technologists and Technicians,1520,17,0.172,2.19,28.29,58830,3.7
+Florida,Civil Engineering Technologists and Technicians,3370,7.1,0.383,0.82,24.52,51010,2.6
+Florida,Electrical and Electronic Engineering Technologists and Technicians,6510,5.2,0.741,0.89,29.47,61300,1.7
+Florida,Electro-Mechanical and Mechatronics Technologists and Technicians,300,18.6,0.034,0.35,24.93,51860,4.2
+Florida,Environmental Engineering Technologists and Technicians,970,13.8,0.11,0.9,21.4,44510,3.4
+Florida,Industrial Engineering Technologists and Technicians,1930,6.6,0.22,0.48,25.96,54010,1.5
+Florida,Mechanical Engineering Technologists and Technicians,1030,8.6,0.117,0.4,25.07,52150,3.7
+Florida,Surveying and Mapping Technicians,4270,5.5,0.486,1.35,21.26,44220,2.3
+Florida,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",2810,8.5,0.319,0.53,29.42,61190,2.1
+Florida,"Life, Physical, and Social Science Occupations",46800,2.3,5.322,0.61,31.81,66170,1.2
+Florida,Animal Scientists,60,38.3,0.007,0.4,29.04,60400,7.9
+Florida,Food Scientists and Technologists,180,23.3,0.02,0.22,37.11,77180,4.5
+Florida,Soil and Plant Scientists,250,18.9,0.028,0.29,32.96,68560,10.4
+Florida,Biochemists and Biophysicists,430,33,0.049,0.23,37.01,76970,4.5
+Florida,Microbiologists,300,12.2,0.034,0.27,29.14,60610,4.4
+Florida,Zoologists and Wildlife Biologists,2150,5.5,0.245,1.87,22.36,46500,1.3
+Florida,"Biological Scientists, All Other",1670,3,0.19,0.7,33.03,68710,2.7
+Florida,Conservation Scientists,510,6.6,0.058,0.38,32.46,67510,3.6
+Florida,Foresters,120,10.4,0.014,0.21,31.74,66020,2.6
+Florida,Epidemiologists,260,4.6,0.029,0.58,23.03,47910,3.6
+Florida,"Medical Scientists, Except Epidemiologists",3530,13.9,0.402,0.46,41.09,85460,2.5
+Florida,"Life Scientists, All Other",130,27.1,0.015,0.34,42.11,87600,5.6
+Florida,Physicists,210,11.8,0.024,0.21,67.33,140040,6
+Florida,Atmospheric and Space Scientists,460,22.5,0.052,0.82,46.72,97180,1.7
+Florida,Chemists,2030,6.6,0.231,0.41,31.21,64910,2.6
+Florida,Materials Scientists,210,23.9,0.024,0.53,47.95,99730,9.4
+Florida,"Environmental Scientists and Specialists, Including Health",4800,6.2,0.545,0.95,29.42,61200,2.8
+Florida,"Geoscientists, Except Hydrologists and Geographers",950,16.6,0.108,0.54,41.95,87260,3.9
+Florida,Hydrologists,400,23.7,0.046,1.05,39.75,82680,2.7
+Florida,"Physical Scientists, All Other",300,5.2,0.034,0.29,48.05,99940,7.8
+Florida,Economists,460,18.8,0.052,0.4,43.17,89790,8.9
+Florida,Survey Researchers,450,31.9,0.051,0.75,32.38,67340,22.3
+Florida,"Clinical, Counseling, and School Psychologists",5270,6.7,0.599,0.78,37.24,77460,3.2
+Florida,"Psychologists, All Other",1220,8.8,0.138,1.43,45.69,95040,4.4
+Florida,Sociologists,70,0,0.008,0.43,31.53,65580,2.4
+Florida,Urban and Regional Planners,2880,8.3,0.328,1.25,35.39,73600,1.5
+Florida,Anthropologists and Archeologists,230,12.3,0.026,0.56,25.35,52720,3.5
+Florida,Historians,90,8,0.01,0.48,28.21,58670,3.6
+Florida,Political Scientists,40,5.5,0.005,0.12,47.46,98710,1.7
+Florida,"Social Scientists and Related Workers, All Other",1330,4.2,0.151,0.66,37.7,78420,2
+Florida,Agricultural and Food Science Technicians,380,11.4,0.043,0.29,18.98,39480,2.4
+Florida,Biological Technicians,3250,8.4,0.37,0.68,20.78,43230,1.7
+Florida,Chemical Technicians,2140,7.3,0.243,0.54,23.42,48710,1.9
+Florida,"Environmental Science and Protection Technicians, Including Health",1380,7.1,0.157,0.71,23.76,49420,7.4
+Florida,Geological and Hydrologic Technicians,350,12.9,0.04,0.34,21.57,44860,5.7
+Florida,Nuclear Technicians,190,40.5,0.022,0.49,45.11,93830,2
+Florida,Social Science Research Assistants,440,18.1,0.05,0.21,26,54070,5.1
+Florida,Forest and Conservation Technicians,190,2.7,0.022,0.17,21.7,45140,1.3
+Florida,Forensic Science Technicians,1680,1.7,0.191,1.7,26.2,54490,1.3
+Florida,"Life, Physical, and Social Science Technicians, All Other",2250,6.6,0.256,0.59,23.64,49170,2
+Florida,Occupational Health and Safety Specialists,2970,5.7,0.337,0.53,32.17,66920,2.1
+Florida,Occupational Health and Safety Technicians,570,5.6,0.065,0.46,22.13,46030,6.1
+Florida,Community and Social Service Occupations,107020,2.9,12.17,0.8,21.56,44830,0.9
+Florida,"Educational, Guidance, and Career Counselors and Advisors",19030,6.9,2.164,1.07,24.14,50200,1.9
+Florida,Marriage and Family Therapists,1990,10.2,0.226,0.56,22.28,46330,5.2
+Florida,Rehabilitation Counselors,3680,4.4,0.418,0.56,17.62,36640,2.7
+Florida,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",13980,9.5,1.59,0.82,21.55,44820,2
+Florida,"Counselors, All Other",2130,10.3,0.243,1.4,17.49,36380,1.8
+Florida,"Child, Family, and School Social Workers",10650,3.6,1.211,0.54,20.32,42260,1.6
+Florida,Healthcare Social Workers,10690,9.1,1.216,1.02,25.34,52700,2.1
+Florida,Mental Health and Substance Abuse Social Workers,4380,6.6,0.498,0.62,20.72,43100,4
+Florida,"Social Workers, All Other",3880,3.6,0.441,1.11,24.99,51980,1.8
+Florida,Health Education Specialists,3030,6.1,0.344,0.86,28.73,59760,3.7
+Florida,Probation Officers and Correctional Treatment Specialists,2150,2,0.245,0.41,18.61,38710,1.6
+Florida,Social and Human Service Assistants,12150,3.9,1.382,0.5,17.63,36660,1.2
+Florida,Community Health Workers,3120,9.7,0.355,0.88,20.07,41750,2.4
+Florida,"Community and Social Service Specialists, All Other",11020,4.5,1.253,1.89,18.37,38200,1.5
+Florida,Clergy,3010,6.8,0.342,0.95,24.98,51950,2.7
+Florida,"Directors, Religious Activities and Education",1110,9.5,0.127,0.85,21.61,44940,3.1
+Florida,"Religious Workers, All Other",1010,20.1,0.115,1.79,19.14,39820,9.5
+Florida,Legal Occupations,89680,1.7,10.198,1.3,46.02,95730,2.3
+Florida,Lawyers,47900,2.1,5.447,1.22,62.5,130010,3
+Florida,Judicial Law Clerks,620,1.2,0.071,0.63,22.49,46790,1
+Florida,"Administrative Law Judges, Adjudicators, and Hearing Officers",540,0,0.062,0.63,48.25,100360,0.9
+Florida,"Arbitrators, Mediators, and Conciliators",310,20.6,0.035,0.84,29.09,60510,11
+Florida,"Judges, Magistrate Judges, and Magistrates",1380,0.1,0.156,0.8,82.43,171450,2.4
+Florida,Paralegals and Legal Assistants,30850,3.2,3.508,1.56,24.58,51130,1.3
+Florida,"Title Examiners, Abstractors, and Searchers",5750,13.2,0.654,1.82,25.02,52050,3
+Florida,"Legal Support Workers, All Other",2330,6.5,0.265,0.86,29.52,61410,4
+Florida,Educational Instruction and Library Occupations,436950,6,49.687,0.82,25.03,52060,2.1
+Florida,"Business Teachers, Postsecondary",4770,7.1,0.542,0.95,*,96680,3.4
+Florida,"Computer Science Teachers, Postsecondary",1350,17.1,0.154,0.71,*,94100,4.8
+Florida,"Mathematical Science Teachers, Postsecondary",1760,5.4,0.2,0.57,*,86010,5
+Florida,"Architecture Teachers, Postsecondary",380,11.8,0.043,0.93,*,86750,8.2
+Florida,"Agricultural Sciences Teachers, Postsecondary",390,0.8,0.045,0.69,*,106980,4
+Florida,"Biological Science Teachers, Postsecondary",1270,9.3,0.144,0.4,*,95750,5.1
+Florida,"Forestry and Conservation Science Teachers, Postsecondary",80,0,0.009,0.78,*,103500,2
+Florida,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",390,5.7,0.045,0.6,*,96970,3.5
+Florida,"Chemistry Teachers, Postsecondary",520,12.8,0.059,0.4,*,87610,3.8
+Florida,"Environmental Science Teachers, Postsecondary",**,**,**,**,*,75720,7.9
+Florida,"Physics Teachers, Postsecondary",440,12.8,0.05,0.53,*,96840,1.6
+Florida,"Anthropology and Archeology Teachers, Postsecondary",140,12.5,0.016,0.39,*,92280,4
+Florida,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",320,18.1,0.036,0.5,*,92940,5.2
+Florida,"Economics Teachers, Postsecondary",290,10.6,0.033,0.36,*,115730,5.7
+Florida,"Geography Teachers, Postsecondary",80,29.5,0.009,0.34,*,90440,4.3
+Florida,"Political Science Teachers, Postsecondary",390,7.3,0.045,0.42,*,93210,4
+Florida,"Psychology Teachers, Postsecondary",870,11.1,0.098,0.39,*,83510,3.3
+Florida,"Sociology Teachers, Postsecondary",170,13.9,0.019,0.2,*,83900,4.5
+Florida,"Social Sciences Teachers, Postsecondary, All Other",760,4,0.087,0.76,*,86670,4.9
+Florida,"Health Specialties Teachers, Postsecondary",9390,10.3,1.068,0.78,*,113140,9.7
+Florida,"Nursing Instructors and Teachers, Postsecondary",3110,5.2,0.353,0.87,*,122050,17.8
+Florida,"Education Teachers, Postsecondary",1640,6.1,0.186,0.45,*,75490,3
+Florida,"Library Science Teachers, Postsecondary",80,1.1,0.009,0.32,*,79600,3.1
+Florida,"Criminal Justice and Law Enforcement Teachers, Postsecondary",520,9.1,0.059,0.61,*,73200,4.9
+Florida,"Law Teachers, Postsecondary",600,20.8,0.069,0.62,*,144740,6.7
+Florida,"Social Work Teachers, Postsecondary",310,9.6,0.035,0.38,*,78120,4.8
+Florida,"Art, Drama, and Music Teachers, Postsecondary",3140,14.1,0.357,0.56,*,76960,4.5
+Florida,"Communications Teachers, Postsecondary",820,13.2,0.094,0.47,*,74600,3.3
+Florida,"English Language and Literature Teachers, Postsecondary",1870,6,0.213,0.46,*,81410,5.7
+Florida,"Foreign Language and Literature Teachers, Postsecondary",640,8.2,0.073,0.43,*,88540,3.6
+Florida,"History Teachers, Postsecondary",420,10.8,0.048,0.33,*,81840,2.7
+Florida,"Philosophy and Religion Teachers, Postsecondary",620,16,0.071,0.44,*,87110,3.4
+Florida,"Recreation and Fitness Studies Teachers, Postsecondary",280,14,0.032,0.3,*,71750,4.9
+Florida,"Career/Technical Education Teachers, Postsecondary",7230,10.5,0.823,1.08,27.61,57430,2.6
+Florida,"Postsecondary Teachers, All Other",18400,8.8,2.093,1.53,*,69050,1.9
+Florida,"Preschool Teachers, Except Special Education",31060,4.4,3.532,1.2,13.84,28790,2
+Florida,"Kindergarten Teachers, Except Special Education",9180,8.3,1.044,1.23,*,56970,2.5
+Florida,"Elementary School Teachers, Except Special Education",77170,6.6,8.775,0.9,*,55210,4.2
+Florida,"Middle School Teachers, Except Special and Career/Technical Education",33600,7.2,3.821,0.9,*,56640,2.3
+Florida,"Career/Technical Education Teachers, Middle School",490,32.8,0.056,0.7,*,56560,4
+Florida,"Secondary School Teachers, Except Special and Career/Technical Education",50640,14.2,5.758,0.82,*,57880,2.5
+Florida,"Career/Technical Education Teachers, Secondary School",5200,41.8,0.591,1.16,*,60110,4.4
+Florida,"Special Education Teachers, Preschool",1040,20.3,0.118,0.78,*,51310,5.6
+Florida,"Special Education Teachers, Kindergarten and Elementary School",6910,10.2,0.786,0.6,*,62950,3.8
+Florida,"Special Education Teachers, Middle School",3120,33.2,0.355,0.61,*,58400,4.1
+Florida,"Special Education Teachers, Secondary School",4920,18.4,0.56,0.57,*,56860,3.8
+Florida,"Special Education Teachers, All Other",3490,17.1,0.397,1.64,*,51690,4.4
+Florida,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",**,**,**,**,24.45,50870,2.3
+Florida,Self-Enrichment Teachers,12770,5.8,1.452,0.84,19.55,40670,3.8
+Florida,"Substitute Teachers, Short-Term",15810,5.3,1.798,0.45,13.87,28850,4.9
+Florida,"Tutors and Teachers and Instructors, All Other",24080,5.2,2.738,1.26,*,44040,5
+Florida,Archivists,230,16.1,0.026,0.57,18.78,39070,2.8
+Florida,Curators,770,12.4,0.087,1,23.35,48560,7.2
+Florida,Museum Technicians and Conservators,410,18.4,0.047,0.52,19.38,40310,3.2
+Florida,Librarians and Media Collections Specialists,4970,3.3,0.566,0.61,26.99,56150,1.4
+Florida,Library Technicians,3060,6.2,0.348,0.58,17.4,36200,2.9
+Florida,Farm and Home Management Educators,630,0.7,0.071,1.2,20.85,43370,0.7
+Florida,Instructional Coordinators,9720,6.3,1.105,0.92,27.29,56760,2.1
+Florida,"Teaching Assistants, Postsecondary",14480,1.3,1.647,1.76,*,29080,1.1
+Florida,"Teaching Assistants, Except Postsecondary",49490,5.3,5.627,0.61,*,26640,2.1
+Florida,"Educational Instruction and Library Workers, All Other",3280,13.2,0.373,0.42,22.7,47210,2.9
+Florida,"Arts, Design, Entertainment, Sports, and Media Occupations",105470,2.9,11.994,0.87,25.26,52540,1.3
+Florida,Art Directors,1630,10.9,0.185,0.63,37.87,78760,3.1
+Florida,Craft Artists,150,21.7,0.017,0.54,21.89,45540,9.8
+Florida,"Fine Artists, Including Painters, Sculptors, and Illustrators",880,18.3,0.1,1.19,22.01,45780,5.2
+Florida,Special Effects Artists and Animators,830,9.8,0.094,0.47,31.97,66490,2.1
+Florida,"Artists and Related Workers, All Other",510,35.1,0.058,1.13,39.84,82870,5.3
+Florida,Commercial and Industrial Designers,1230,10,0.14,0.63,31.34,65190,4.2
+Florida,Fashion Designers,680,30.2,0.078,0.52,27.11,56390,8.3
+Florida,Floral Designers,2570,10.2,0.292,1.03,14.69,30560,2.4
+Florida,Graphic Designers,13830,4.4,1.573,1.07,23.97,49850,1.5
+Florida,Interior Designers,4410,9.2,0.501,1.21,25.4,52820,3.6
+Florida,Merchandise Displayers and Window Trimmers,8070,8.1,0.918,0.96,16.52,34350,4.2
+Florida,Set and Exhibit Designers,510,17,0.058,0.71,23.71,49310,4.4
+Florida,"Designers, All Other",620,32.2,0.07,0.97,25.56,53170,5.4
+Florida,Actors,540,19.3,0.062,0.17,18.89,*,6.6
+Florida,Producers and Directors,5980,6.3,0.681,0.77,33.89,70490,2.8
+Florida,Athletes and Sports Competitors,1250,21.4,0.142,1.84,*,73150,13.3
+Florida,Coaches and Scouts,10620,7.2,1.208,0.74,*,45940,4
+Florida,"Umpires, Referees, and Other Sports Officials",880,14.5,0.1,0.73,*,36200,7.8
+Florida,Dancers,310,32.8,0.035,0.54,22.25,*,7.5
+Florida,Choreographers,110,45,0.012,0.38,19.1,39720,20.1
+Florida,Music Directors and Composers,520,12.8,0.059,0.82,37.24,77470,15.4
+Florida,Musicians and Singers,1450,13.1,0.165,0.59,42.61,*,14.1
+Florida,"Miscellaneous Entertainers and Performers, Sports and Related Workers",**,**,**,**,25.43,*,29.6
+Florida,Broadcast Announcers and Radio Disc Jockeys,1490,12.7,0.17,0.85,26.28,54660,8.2
+Florida,"News Analysts, Reporters, and Journalists",2050,8.4,0.233,0.78,30.08,62580,4.7
+Florida,Public Relations Specialists,11830,3.8,1.345,0.81,29.2,60740,1.7
+Florida,Editors,4030,5.8,0.458,0.7,26.72,55570,2.8
+Florida,Technical Writers,2760,7.7,0.314,0.91,30.03,62470,2.5
+Florida,Writers and Authors,1910,7.5,0.217,0.7,30.8,64070,10.4
+Florida,Interpreters and Translators,2970,11,0.338,0.84,26.52,55170,5.5
+Florida,Court Reporters and Simultaneous Captioners,1310,18.5,0.149,1.5,24.53,51030,14.1
+Florida,"Media and Communication Workers, All Other",860,14.9,0.097,0.57,21.56,44850,6
+Florida,Audio and Video Technicians,5680,9.8,0.645,1.28,22.73,47270,3.5
+Florida,Broadcast Technicians,1780,12.3,0.202,1.04,19.4,40350,5.1
+Florida,Sound Engineering Technicians,900,38.3,0.102,1.17,26.63,55390,4.6
+Florida,Photographers,4790,12.7,0.544,1.58,15.46,32150,4.3
+Florida,"Camera Operators, Television, Video, and Film",870,14.4,0.099,0.68,23.24,48330,5
+Florida,Film and Video Editors,1220,14.3,0.138,0.74,24.79,51560,3.3
+Florida,"Lighting Technicians and Media and Communication Equipment Workers, All Other",860,32.3,0.097,0.61,39.54,82250,2.8
+Florida,Healthcare Practitioners and Technical Occupations,547060,1,62.209,1.05,37.54,78070,1
+Florida,Chiropractors,2750,9.4,0.313,1.31,45.81,95290,5.3
+Florida,"Dentists, General",7110,6.7,0.809,1.07,83.48,173630,4
+Florida,Oral and Maxillofacial Surgeons,250,49.9,0.028,0.9,135.89,282650,15.3
+Florida,Orthodontists,170,45.8,0.02,0.48,116.41,242130,14.9
+Florida,Prosthodontists,**,**,**,**,126.72,263580,15.9
+Florida,"Dentists, All Other Specialists",250,15.7,0.028,0.78,67.9,141230,12.6
+Florida,Dietitians and Nutritionists,3300,4.5,0.376,0.81,30.06,62530,1.5
+Florida,Optometrists,1980,9.1,0.226,0.84,47.38,98550,4.9
+Florida,Pharmacists,19890,4.5,2.262,1.07,58.43,121530,0.9
+Florida,Physician Assistants,6630,5.9,0.754,0.92,52.17,108510,2.2
+Florida,Podiatrists,760,12.7,0.086,1.29,68.1,141640,8.1
+Florida,Occupational Therapists,7240,5.5,0.823,0.91,40.17,83550,1.5
+Florida,Physical Therapists,13750,4.5,1.564,0.98,41.39,86090,1.2
+Florida,Radiation Therapists,1030,13,0.117,0.96,40.41,84060,1.4
+Florida,Recreational Therapists,**,**,**,**,23.41,48700,2.7
+Florida,Respiratory Therapists,8080,3.2,0.919,1.02,28.22,58700,0.7
+Florida,Speech-Language Pathologists,9120,10.6,1.037,0.99,38.58,80250,2
+Florida,Exercise Physiologists,350,12.6,0.039,0.79,25.6,53240,3.2
+Florida,"Therapists, All Other",1040,13.7,0.118,1.42,24.34,50630,3.8
+Florida,Veterinarians,4690,7.1,0.533,1.05,46.87,97490,3.9
+Florida,Registered Nurses,181670,1.9,20.659,1.02,32.5,67610,0.7
+Florida,Nurse Anesthetists,**,**,**,**,76.94,160030,4.1
+Florida,Nurse Midwives,330,18.8,0.038,0.8,40.51,84270,6.2
+Florida,Nurse Practitioners,12310,4.5,1.4,1.02,48.8,101510,1.8
+Florida,Audiologists,830,16.8,0.094,1.02,33.5,69670,3.6
+Florida,Anesthesiologists,1180,24.7,0.134,0.63,129.07,268470,10.2
+Florida,Family Medicine Physicians,11830,5.5,1.345,1.81,104.75,217870,3.4
+Florida,General Internal Medicine Physicians,1240,15,0.141,0.46,98.41,204690,9.5
+Florida,Obstetricians and Gynecologists,1090,23.6,0.124,0.98,119.9,249380,8.2
+Florida,"Pediatricians, General",**,**,**,**,75.43,156900,6.5
+Florida,Psychiatrists,1240,16.7,0.141,0.81,98,203830,8.7
+Florida,"Physicians, All Other; and Ophthalmologists, Except Pediatric",27380,4.1,3.113,1.17,102.3,212780,3.5
+Florida,"Surgeons, Except Ophthalmologists",1580,16.5,0.18,0.73,90.99,189260,10.7
+Florida,Dental Hygienists,11310,5.2,1.286,0.85,31.82,66170,2
+Florida,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",1620,10.4,0.184,0.74,32.01,66590,5.1
+Florida,Clinical Laboratory Technologists and Technicians,19890,3.8,2.262,1.02,24.98,51960,1.3
+Florida,Cardiovascular Technologists and Technicians,5080,6.3,0.578,1.51,24.2,50330,1.5
+Florida,Diagnostic Medical Sonographers,5380,5.9,0.612,1.24,31.88,66310,1.5
+Florida,Nuclear Medicine Technologists,1600,6.1,0.182,1.47,35.8,74470,1.2
+Florida,Radiologic Technologists and Technicians,13830,3.6,1.573,1.11,27.48,57150,0.9
+Florida,Magnetic Resonance Imaging Technologists,3040,8.9,0.345,1.34,30.76,63980,1.7
+Florida,Emergency Medical Technicians and Paramedics,11790,6.1,1.341,0.76,17.4,36190,1.9
+Florida,Dietetic Technicians,1740,8.6,0.198,0.99,13.76,28610,2.5
+Florida,Pharmacy Technicians,29800,2.9,3.389,1.19,16.02,33330,0.8
+Florida,Psychiatric Technicians,8510,6,0.968,1.81,14.74,30660,1.6
+Florida,Surgical Technologists,7540,4.6,0.857,1.16,21.52,44770,0.9
+Florida,Veterinary Technologists and Technicians,8660,7,0.984,1.31,16.04,33360,2.2
+Florida,Ophthalmic Medical Technicians,4050,11.2,0.46,1.15,18.83,39160,1.7
+Florida,Licensed Practical and Licensed Vocational Nurses,45960,3.9,5.226,1.1,21.91,45580,0.7
+Florida,"Opticians, Dispensing",4070,7.9,0.463,0.94,20.82,43300,2.5
+Florida,Orthotists and Prosthetists,470,23.3,0.054,0.8,30.6,63640,3.8
+Florida,Hearing Aid Specialists,**,**,**,**,30.66,63770,9.4
+Florida,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",22870,3.5,2.601,1.15,20.36,42350,1.1
+Florida,Athletic Trainers,1530,13.1,0.174,0.89,*,47100,2.3
+Florida,Genetic Counselors,80,34.8,0.009,0.58,30.3,63030,12.4
+Florida,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,25.75,53560,3.7
+Florida,Healthcare Support Occupations,295400,1.6,33.591,0.76,15.07,31340,0.6
+Florida,Home Health and Personal Care Aides,76040,5.6,8.647,0.4,11.84,24630,0.8
+Florida,Nursing Assistants,87840,2.1,9.989,1.03,13.36,27790,0.6
+Florida,Orderlies,2050,4.7,0.234,0.73,13.28,27630,1.5
+Florida,Psychiatric Aides,3010,5.2,0.342,0.91,13.08,27210,1.6
+Florida,Occupational Therapy Assistants,3050,8.4,0.347,1.13,31.59,65710,1.5
+Florida,Occupational Therapy Aides,340,28.1,0.039,0.75,21.18,44060,22
+Florida,Physical Therapist Assistants,6780,5.1,0.771,1.17,30.48,63410,1.1
+Florida,Physical Therapist Aides,2040,7.2,0.231,0.69,13.52,28120,1
+Florida,Massage Therapists,8320,7.7,0.947,1.3,22.82,47470,4.7
+Florida,Dental Assistants,20550,4.7,2.336,0.98,19.1,39730,1.5
+Florida,Medical Assistants,57410,2.4,6.528,1.35,16.31,33920,0.5
+Florida,Medical Equipment Preparers,2620,6.7,0.298,0.77,16.36,34040,1.5
+Florida,Medical Transcriptionists,4440,17,0.505,1.33,16.65,34640,6.2
+Florida,Pharmacy Aides,1880,17.9,0.214,0.84,14.52,30190,3
+Florida,Veterinary Assistants and Laboratory Animal Caretakers,5410,10.2,0.615,0.93,13.84,28790,2.9
+Florida,Phlebotomists,7880,6.5,0.896,1.03,16.27,33840,0.9
+Florida,"Healthcare Support Workers, All Other",5740,6.9,0.652,1.03,18.54,38560,2.8
+Florida,Protective Service Occupations,244590,1.8,27.813,1.17,21.18,44050,2.1
+Florida,First-Line Supervisors of Correctional Officers,2870,1.9,0.326,1.03,30,62400,1.9
+Florida,First-Line Supervisors of Police and Detectives,8150,1.5,0.927,1.12,42.74,88900,1
+Florida,First-Line Supervisors of Firefighting and Prevention Workers,5400,2.8,0.615,1.3,38.41,79900,1.2
+Florida,"Miscellaneous First-Line Supervisors, Protective Service Workers",5540,4.4,0.63,1.12,22.51,46820,1.9
+Florida,Firefighters,19560,1.8,2.224,1.01,24.66,51300,1.4
+Florida,Fire Inspectors and Investigators,2290,1.3,0.261,2.79,28.95,60230,2.6
+Florida,Bailiffs,1450,2.4,0.165,1.23,22.06,45880,2.6
+Florida,Correctional Officers and Jailers,33040,2.3,3.757,1.3,20.68,43010,1.6
+Florida,Detectives and Criminal Investigators,6890,1.4,0.783,1.09,36.65,76220,2.5
+Florida,Fish and Game Wardens,440,0.1,0.05,1.07,13.79,28690,0.9
+Florida,Parking Enforcement Workers,420,8.3,0.048,0.91,20.51,42670,2.3
+Florida,Police and Sheriff's Patrol Officers,39090,1.9,4.445,0.98,29.19,60720,1
+Florida,Transit and Railroad Police,120,2,0.014,0.44,29.98,62350,3.3
+Florida,Animal Control Workers,530,3.6,0.06,0.74,18.35,38160,2.1
+Florida,Private Detectives and Investigators,4350,38.6,0.494,2.07,20.07,41750,6.1
+Florida,Gambling Surveillance Officers and Gambling Investigators,240,12.7,0.027,0.39,16.27,33850,1.7
+Florida,Security Guards,86190,4.4,9.801,1.28,14.01,29150,1.7
+Florida,Crossing Guards and Flaggers,6070,11.5,0.691,1.19,12.86,26750,1.6
+Florida,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",8680,31.3,0.988,1.01,13.12,27280,2.3
+Florida,Transportation Security Screeners,5410,0.9,0.616,1.94,19.45,40460,1.5
+Florida,"School Bus Monitors and Protective Service Workers, All Other",7830,20.1,0.891,0.89,16.79,34910,3.3
+Florida,Food Preparation and Serving Related Occupations,950180,0.9,108.048,1.18,12.5,26000,0.5
+Florida,Chefs and Head Cooks,12040,6.8,1.369,1.57,25.49,53030,2.3
+Florida,First-Line Supervisors of Food Preparation and Serving Workers,71140,2.3,8.09,1.18,17.95,37330,1.1
+Florida,"Cooks, Fast Food",20150,11.9,2.292,0.64,10.66,22170,1.5
+Florida,"Cooks, Institution and Cafeteria",19560,6.1,2.224,0.81,13.02,27090,1.7
+Florida,"Cooks, Restaurant",116310,2.6,13.226,1.39,13.81,28730,0.7
+Florida,"Cooks, Short Order",5560,13.4,0.632,0.61,13.44,27960,5
+Florida,"Cooks, All Other",1340,18.1,0.152,1.16,14.23,29600,3.8
+Florida,Food Preparation Workers,65620,4.7,7.462,1.27,12.07,25100,0.8
+Florida,Bartenders,47910,3.6,5.449,1.24,12.72,26460,1.9
+Florida,Fast Food and Counter Workers,242300,3,27.553,1.01,10.4,21640,0.6
+Florida,Waiters and Waitresses,208360,2.3,23.693,1.35,12.66,26340,1.3
+Florida,"Food Servers, Nonrestaurant",19220,4.1,2.185,1.16,11.09,23070,1.1
+Florida,Dining Room and Cafeteria Attendants and Bartender Helpers,41630,4.7,4.734,1.46,10.71,22280,1.3
+Florida,Dishwashers,40320,4,4.585,1.31,10.96,22810,0.7
+Florida,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35310,5.8,4.015,1.39,11.82,24590,3.1
+Florida,"Food Preparation and Serving Related Workers, All Other",3400,25.4,0.386,0.78,12.81,26650,5.4
+Florida,Building and Grounds Cleaning and Maintenance Occupations,321970,1.4,36.612,1.21,13.61,28300,0.7
+Florida,First-Line Supervisors of Housekeeping and Janitorial Workers,12410,5.8,1.411,1.33,19.1,39720,2.3
+Florida,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",8400,5,0.955,1.35,22.94,47720,1.8
+Florida,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",116830,3.3,13.285,0.91,12.77,26560,1.6
+Florida,Maids and Housekeeping Cleaners,80000,3.4,9.098,1.44,11.6,24130,0.7
+Florida,"Building Cleaning Workers, All Other",2780,26,0.316,2.56,16.87,35090,8.9
+Florida,Pest Control Workers,9310,7.1,1.059,1.96,18.6,38680,2.6
+Florida,Landscaping and Groundskeeping Workers,83960,2.5,9.548,1.54,13.99,29090,0.9
+Florida,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",3490,12,0.397,2.26,15.99,33270,2.6
+Florida,Tree Trimmers and Pruners,4190,21.7,0.477,1.48,17.07,35500,4.7
+Florida,"Grounds Maintenance Workers, All Other",590,33.7,0.068,0.69,16.23,33770,4.7
+Florida,Personal Care and Service Occupations,211190,4.4,24.015,1.07,14.09,29300,0.7
+Florida,First-Line Supervisors of Gambling Services Workers,820,14.8,0.094,0.47,25.71,53470,3.6
+Florida,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",12710,4.3,1.445,0.97,21.41,44530,1.6
+Florida,Animal Trainers,1590,13.8,0.181,1.61,16.36,34030,7.6
+Florida,Animal Caretakers,14760,5.1,1.679,1.16,12.82,26670,2.2
+Florida,Gambling Dealers,4360,16.7,0.495,0.74,11.32,23540,5.3
+Florida,Gambling and Sports Book Writers and Runners,250,14.2,0.028,0.42,13.66,28400,6.5
+Florida,"Gambling Service Workers, All Other",240,21.8,0.027,0.38,16.59,34500,6.8
+Florida,Motion Picture Projectionists,210,20.6,0.024,0.77,13.3,27660,3.2
+Florida,"Ushers, Lobby Attendants, and Ticket Takers",8690,13.2,0.988,1.05,11.98,24910,2.3
+Florida,Amusement and Recreation Attendants,39010,19.9,4.436,1.93,11.23,23360,1.1
+Florida,Costume Attendants,**,**,**,**,26,54080,8.7
+Florida,"Locker Room, Coatroom, and Dressing Room Attendants",1530,9.5,0.174,1.6,12.85,26720,2
+Florida,"Entertainment Attendants and Related Workers, All Other",220,23.6,0.025,0.83,15.26,31730,13.1
+Florida,Embalmers,270,21.2,0.031,1.17,28.15,58560,13
+Florida,Funeral Attendants,2370,12.8,0.27,1.15,13.55,28170,5.9
+Florida,"Morticians, Undertakers, and Funeral Arrangers",1430,11.3,0.162,0.94,27.02,56200,5.3
+Florida,Barbers,1610,24,0.183,1.34,14.02,29150,6.7
+Florida,"Hairdressers, Hairstylists, and Cosmetologists",25840,4.4,2.938,1.12,14.62,30410,2.1
+Florida,"Makeup Artists, Theatrical and Performance",**,**,**,**,34.16,71050,6.2
+Florida,Manicurists and Pedicurists,2830,13.3,0.322,0.42,13.1,27240,3.2
+Florida,Shampooers,1320,27.6,0.15,1.82,12,24960,3.2
+Florida,Skincare Specialists,4200,11.2,0.478,1.24,17.49,36380,2.9
+Florida,Baggage Porters and Bellhops,5400,8.2,0.614,2.26,12.19,25350,2.8
+Florida,Concierges,6580,13.9,0.748,2.64,13.7,28500,1.4
+Florida,Tour and Travel Guides,3270,16.7,0.371,1.12,14.94,31080,3.3
+Florida,Childcare Workers,27310,8.2,3.106,0.81,11.71,24350,1.4
+Florida,Exercise Trainers and Group Fitness Instructors,16460,5.6,1.872,0.84,19.05,39630,2.2
+Florida,Recreation Workers,19300,5.8,2.194,0.9,13.98,29080,1.2
+Florida,Residential Advisors,3820,7.8,0.434,0.59,14.62,30400,2.5
+Florida,"Crematory Operators and Personal Care and Service Workers, All Other",4110,10.9,0.467,1.12,12.98,27000,3.1
+Florida,Sales and Related Occupations,1022310,0.8,116.25,1.19,19.12,39760,0.7
+Florida,First-Line Supervisors of Retail Sales Workers,83260,1.8,9.468,1.19,22.17,46110,0.8
+Florida,First-Line Supervisors of Non-Retail Sales Workers,17270,3.3,1.963,1.16,37.9,78830,1.2
+Florida,Cashiers,229830,2.5,26.135,1.07,11.08,23050,0.6
+Florida,Gambling Change Persons and Booth Cashiers,1150,25.2,0.13,0.9,14.01,29140,3
+Florida,Counter and Rental Clerks,24950,4.7,2.837,1.01,14.29,29730,1.5
+Florida,Parts Salespersons,14930,4.7,1.698,0.97,15.65,32550,1.6
+Florida,Retail Salespersons,325640,2,37.03,1.26,13.35,27760,0.8
+Florida,Advertising Sales Agents,8120,11.4,0.923,1.05,28.03,58310,5.2
+Florida,Insurance Sales Agents,33580,4.6,3.818,1.37,29.51,61390,3.1
+Florida,"Securities, Commodities, and Financial Services Sales Agents",30060,3.9,3.419,1.15,37.89,78820,3.2
+Florida,Travel Agents,9490,8.8,1.079,2.38,19.26,40060,3
+Florida,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",81410,2.9,9.257,1.31,28.04,58320,2.7
+Florida,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",20830,4.6,2.368,1.13,42.8,89030,2.9
+Florida,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",86490,2.3,9.835,1.07,30.07,62540,1.6
+Florida,Demonstrators and Product Promoters,4750,21.9,0.541,1.02,15.53,32300,5.8
+Florida,Real Estate Brokers,3160,12.1,0.36,1.24,28.63,59550,9.4
+Florida,Real Estate Sales Agents,19240,5.8,2.188,1.98,30.19,62790,6.5
+Florida,Sales Engineers,2170,15.4,0.247,0.57,54.49,113350,3
+Florida,Telemarketers,16760,14.5,1.906,2.08,12.56,26120,2.4
+Florida,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",580,24,0.066,1.08,13.9,28910,7
+Florida,"Sales and Related Workers, All Other",8560,6.4,0.973,1.2,16.93,35210,3.2
+Florida,Office and Administrative Support Occupations,1294440,0.6,147.196,1.11,18.33,38130,0.2
+Florida,First-Line Supervisors of Office and Administrative Support Workers,108820,1.3,12.374,1.22,26.89,55930,0.5
+Florida,"Switchboard Operators, Including Answering Service",5060,9.5,0.575,1.24,13.93,28970,2.2
+Florida,Telephone Operators,220,19.9,0.025,0.78,14.71,30600,3.5
+Florida,"Communications Equipment Operators, All Other",**,**,**,**,15.61,32470,7.8
+Florida,Bill and Account Collectors,17650,4.7,2.007,1.25,18.14,37730,1.2
+Florida,Billing and Posting Clerks,29350,3.4,3.337,1.05,18.01,37470,0.6
+Florida,"Bookkeeping, Accounting, and Auditing Clerks",94230,1.8,10.715,1.04,19.82,41220,0.7
+Florida,Gambling Cage Workers,580,16,0.065,0.67,11.76,24460,4.8
+Florida,Payroll and Timekeeping Clerks,7520,4.8,0.855,0.88,21.06,43800,1
+Florida,Procurement Clerks,3030,5.6,0.345,0.77,20.14,41890,1
+Florida,Tellers,24870,4.7,2.829,0.94,16.34,34000,0.9
+Florida,"Financial Clerks, All Other",1990,18,0.226,1.09,20.52,42680,1.9
+Florida,Brokerage Clerks,3200,9.6,0.364,1.11,25.99,54050,1.8
+Florida,Correspondence Clerks,100,15.7,0.012,0.27,20.22,42050,3.9
+Florida,"Court, Municipal, and License Clerks",8800,3.6,1.001,0.95,19.45,40450,1
+Florida,"Credit Authorizers, Checkers, and Clerks",2000,18.9,0.228,1.25,18.86,39220,4.7
+Florida,Customer Service Representatives,267430,1.9,30.41,1.53,16.64,34620,0.6
+Florida,"Eligibility Interviewers, Government Programs",2930,2.8,0.333,0.35,20.15,41920,2.6
+Florida,File Clerks,8490,6.2,0.966,1.39,16.06,33410,1.3
+Florida,"Hotel, Motel, and Resort Desk Clerks",20900,5.7,2.377,1.3,12.28,25540,0.9
+Florida,"Interviewers, Except Eligibility and Loan",11300,7.4,1.285,1,17.51,36430,2.3
+Florida,"Library Assistants, Clerical",2440,3.9,0.278,0.47,14.07,29260,1.6
+Florida,Loan Interviewers and Clerks,10970,8.5,1.247,0.88,20.97,43610,1.2
+Florida,New Accounts Clerks,1170,22.8,0.133,0.45,19.63,40820,2.3
+Florida,Order Clerks,8530,5.3,0.97,1.04,16.43,34180,2.2
+Florida,"Human Resources Assistants, Except Payroll and Timekeeping",6200,4.8,0.705,0.88,18.99,39510,1.9
+Florida,Receptionists and Information Clerks,78540,2.1,8.931,1.24,14.14,29400,0.5
+Florida,Reservation and Transportation Ticket Agents and Travel Clerks,13020,5.1,1.481,1.76,19.29,40130,3.6
+Florida,"Information and Record Clerks, All Other",9200,3.1,1.046,1,19.19,39910,1
+Florida,Cargo and Freight Agents,7760,9.3,0.882,1.35,20.47,42590,3.4
+Florida,Couriers and Messengers,4900,9.7,0.557,1.09,15.1,31410,3.1
+Florida,Public Safety Telecommunicators,4980,3.1,0.566,0.87,20.69,43040,1.6
+Florida,"Dispatchers, Except Police, Fire, and Ambulance",11810,4.5,1.342,0.99,17.9,37240,1.2
+Florida,"Meter Readers, Utilities",1580,6.7,0.18,0.87,19.59,40750,3
+Florida,Postal Service Clerks,3840,0,0.437,0.79,24.82,51630,0.7
+Florida,Postal Service Mail Carriers,20750,0,2.36,1.02,25.15,52320,0.8
+Florida,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",5950,0,0.676,0.97,24.68,51330,1.1
+Florida,"Production, Planning, and Expediting Clerks",17870,3.1,2.032,0.81,21.22,44140,1.3
+Florida,"Shipping, Receiving, and Inventory Clerks",33520,2.9,3.812,0.79,16.03,33340,0.7
+Florida,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2160,5.4,0.246,0.59,17.5,36400,1.7
+Florida,Executive Secretaries and Executive Administrative Assistants,25160,2.7,2.861,0.77,25.64,53330,0.7
+Florida,Legal Secretaries and Administrative Assistants,9760,7.7,1.11,0.97,22.49,46780,2
+Florida,Medical Secretaries and Administrative Assistants,31680,3.4,3.603,0.88,16.71,34760,0.7
+Florida,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",129470,1.5,14.722,1.06,17.34,36070,0.5
+Florida,Data Entry Keyers,10980,5.5,1.248,1.15,15.49,32220,1
+Florida,Word Processors and Typists,1460,6.8,0.166,0.51,15.74,32740,2.3
+Florida,Desktop Publishers,290,9.6,0.032,0.55,23.21,48280,6.6
+Florida,Insurance Claims and Policy Processing Clerks,14880,4.5,1.692,0.97,19.4,40360,1.3
+Florida,"Mail Clerks and Mail Machine Operators, Except Postal Service",2930,8,0.334,0.59,14.74,30660,1.4
+Florida,"Office Clerks, General",191650,1.5,21.793,1.08,16.51,34350,0.5
+Florida,"Office Machine Operators, Except Computer",1720,9.9,0.196,0.63,15.27,31760,2.6
+Florida,Proofreaders and Copy Markers,160,18.9,0.018,0.34,20.24,42100,4
+Florida,Statistical Assistants,70,15.1,0.008,0.13,25.26,52550,5
+Florida,"Office and Administrative Support Workers, All Other",9960,5.7,1.133,0.88,19.14,39810,1.5
+Florida,"Farming, Fishing, and Forestry Occupations",17370,7,1.975,0.6,14.87,30930,5
+Florida,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",910,10.2,0.103,0.67,26.38,54870,6.8
+Florida,Agricultural Inspectors,500,2.5,0.057,0.61,16.44,34200,2.9
+Florida,"Graders and Sorters, Agricultural Products",1440,11.2,0.164,0.7,*,*,*
+Florida,Agricultural Equipment Operators,1320,27.8,0.15,0.82,15.33,31880,3.6
+Florida,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",10070,10.5,1.145,0.57,11.99,24930,3.7
+Florida,"Farmworkers, Farm, Ranch, and Aquacultural Animals",850,27.1,0.097,0.39,14.97,31130,11.3
+Florida,"Agricultural Workers, All Other",300,18.2,0.034,0.76,13.22,27500,4.3
+Florida,Forest and Conservation Workers,**,**,**,**,17.06,35480,4.3
+Florida,Fallers,300,23.7,0.034,1.02,17.71,36840,8.4
+Florida,Logging Equipment Operators,1170,24.5,0.133,0.75,17.25,35870,9.8
+Florida,Log Graders and Scalers,150,22.3,0.018,0.78,15.67,32580,4.2
+Florida,"Logging Workers, All Other",60,43.6,0.007,0.27,23.06,47970,13
+Florida,Construction and Extraction Occupations,413620,1,47.034,1.12,20.16,41930,0.4
+Florida,First-Line Supervisors of Construction Trades and Extraction Workers,46760,2.2,5.317,1.25,30.1,62600,0.7
+Florida,Boilermakers,410,27.2,0.047,0.43,24.7,51380,4.4
+Florida,Brickmasons and Blockmasons,4270,8.9,0.485,1.18,19.49,40540,2.1
+Florida,Stonemasons,640,21.6,0.073,0.86,19.12,39770,3.2
+Florida,Carpenters,45550,3,5.179,1.04,19.71,40990,0.9
+Florida,Carpet Installers,920,22.8,0.105,0.59,16.42,34150,6.7
+Florida,"Floor Layers, Except Carpet, Wood, and Hard Tiles",820,27.9,0.094,0.84,16.84,35030,5
+Florida,Floor Sanders and Finishers,170,48.7,0.019,0.58,17.3,35980,6.6
+Florida,Tile and Stone Setters,4850,12.7,0.552,2,18.77,39030,2.3
+Florida,Cement Masons and Concrete Finishers,15340,6.9,1.744,1.31,18.51,38510,1.7
+Florida,Terrazzo Workers and Finishers,80,45.9,0.01,0.47,20.87,43420,10.6
+Florida,Construction Laborers,73030,2.9,8.305,1.2,15.82,32910,0.7
+Florida,"Paving, Surfacing, and Tamping Equipment Operators",2770,12,0.315,1.01,17.16,35690,2.7
+Florida,Pile Driver Operators,340,22.7,0.038,1.59,22.97,47780,3.5
+Florida,Operating Engineers and Other Construction Equipment Operators,21050,3.5,2.394,0.87,20.28,42190,1.3
+Florida,Drywall and Ceiling Tile Installers,6550,8.7,0.744,1.06,17.46,36310,2.3
+Florida,Tapers,220,40.1,0.025,0.2,22.44,46680,8.5
+Florida,Electricians,41410,3.9,4.709,1,21.98,45720,1.4
+Florida,Glaziers,5930,13.8,0.674,1.89,19.36,40270,2.2
+Florida,"Insulation Workers, Floor, Ceiling, and Wall",1880,18,0.214,0.94,18.55,38580,2.3
+Florida,"Insulation Workers, Mechanical",1210,17,0.137,0.76,18.56,38610,2.5
+Florida,"Painters, Construction and Maintenance",18950,3.9,2.154,1.36,17.52,36440,1.6
+Florida,Paperhangers,210,40.4,0.024,1.06,21.04,43760,11.9
+Florida,Pipelayers,3670,8.7,0.418,1.69,18.33,38120,1.2
+Florida,"Plumbers, Pipefitters, and Steamfitters",26280,4.7,2.988,0.99,21.68,45080,1.4
+Florida,Plasterers and Stucco Masons,2270,15.4,0.258,1.38,18.5,38470,2.8
+Florida,Reinforcing Iron and Rebar Workers,2220,17.2,0.252,1.96,20.88,43440,2.8
+Florida,Roofers,22800,5.3,2.592,2.94,17.85,37140,2.1
+Florida,Sheet Metal Workers,8240,10,0.937,1.05,19.97,41540,1.7
+Florida,Structural Iron and Steel Workers,2840,12.7,0.323,0.62,20.69,43040,2.5
+Florida,Solar Photovoltaic Installers,**,**,**,**,16.99,35330,7.3
+Florida,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",1830,9.6,0.208,1.3,13.96,29050,2
+Florida,Helpers--Carpenters,2940,13.1,0.334,1.49,14.1,29330,2.5
+Florida,Helpers--Electricians,9180,8.5,1.044,1.93,15.18,31570,1.9
+Florida,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",990,23.5,0.113,1.52,13.5,28090,4.1
+Florida,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",6400,11.7,0.728,1.83,14.41,29970,1.6
+Florida,Helpers--Roofers,1840,25.7,0.209,3.43,15.9,33080,2.2
+Florida,"Helpers, Construction Trades, All Other",2620,10.3,0.298,1.54,15.09,31380,2
+Florida,Construction and Building Inspectors,8740,5.1,0.994,1.32,27.79,57790,1.6
+Florida,Elevator and Escalator Installers and Repairers,1910,8.8,0.217,1.13,33.73,70150,2.9
+Florida,Fence Erectors,1740,17.8,0.198,1.12,18.03,37510,5.2
+Florida,Hazardous Materials Removal Workers,1400,16.9,0.159,0.53,18.2,37860,2.5
+Florida,Highway Maintenance Workers,2000,6.5,0.227,0.22,17.23,35840,1.1
+Florida,Rail-Track Laying and Maintenance Equipment Operators,**,**,**,**,22.39,46560,2.5
+Florida,Septic Tank Servicers and Sewer Pipe Cleaners,1420,14.3,0.161,0.8,19.13,39790,3.9
+Florida,Miscellaneous Construction and Related Workers,3160,14.4,0.36,1.65,20.09,41800,3.9
+Florida,"Rotary Drill Operators, Oil and Gas",**,**,**,**,20.91,43500,6.1
+Florida,"Service Unit Operators, Oil and Gas",110,48.9,0.013,0.04,23.05,47950,9.9
+Florida,"Excavating and Loading Machine and Dragline Operators, Surface Mining",2170,9.6,0.246,0.82,19.66,40880,3.1
+Florida,Continuous Mining Machine Operators,90,21.5,0.01,0.1,25.32,52660,2.7
+Florida,"Rock Splitters, Quarry",90,21,0.01,0.28,17.18,35730,5.2
+Florida,Helpers--Extraction Workers,220,19.7,0.025,0.22,15.45,32130,5.1
+Florida,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",1220,18.2,0.139,0.82,19.75,41070,5.9
+Florida,"Underground Mining Machine Operators and Extraction Workers, All Other",440,48.9,0.05,0.53,25.53,53100,7.4
+Florida,"Installation, Maintenance, and Repair Occupations",368910,1.1,41.95,1.08,21.42,44550,0.5
+Florida,"First-Line Supervisors of Mechanics, Installers, and Repairers",30630,2.1,3.484,1.05,29.48,61320,0.7
+Florida,"Computer, Automated Teller, and Office Machine Repairers",5150,8.6,0.585,0.87,17.62,36650,2.2
+Florida,"Radio, Cellular, and Tower Equipment Installers and Repairers",690,24.1,0.078,0.8,26.84,55820,4.9
+Florida,"Telecommunications Equipment Installers and Repairers, Except Line Installers",19780,6.8,2.249,1.58,26.07,54230,2
+Florida,Avionics Technicians,2260,10.3,0.257,1.74,27.88,58000,2.8
+Florida,"Electric Motor, Power Tool, and Related Repairers",860,17.4,0.098,0.91,19.65,40870,4.2
+Florida,"Electrical and Electronics Installers and Repairers, Transportation Equipment",300,33.7,0.035,0.52,28.05,58350,8.1
+Florida,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",2510,8.3,0.286,0.71,25.47,52970,1.5
+Florida,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1060,13.2,0.121,0.78,37.12,77210,3.6
+Florida,"Electronic Equipment Installers and Repairers, Motor Vehicles",480,25.7,0.054,0.77,18.12,37700,3.6
+Florida,Audiovisual Equipment Installers and Repairers,1660,20.7,0.189,1.09,20.6,42850,4.9
+Florida,Security and Fire Alarm Systems Installers,5850,6.2,0.665,1.36,20.87,43410,2
+Florida,Aircraft Mechanics and Service Technicians,13490,5.7,1.534,1.69,31.42,65350,2.5
+Florida,Automotive Body and Related Repairers,9110,5.3,1.036,1.06,20.71,43080,2.1
+Florida,Automotive Glass Installers and Repairers,870,23.4,0.099,0.75,17.28,35950,5.6
+Florida,Automotive Service Technicians and Mechanics,45130,2.8,5.132,1.15,20.03,41660,1.1
+Florida,Bus and Truck Mechanics and Diesel Engine Specialists,12580,4.5,1.43,0.79,22.77,47360,1
+Florida,Farm Equipment Mechanics and Service Technicians,720,17.8,0.082,0.33,19.13,39790,2.9
+Florida,"Mobile Heavy Equipment Mechanics, Except Engines",7300,7.3,0.83,0.83,23.23,48310,0.9
+Florida,Rail Car Repairers,620,27.9,0.07,0.4,26.02,54120,4.2
+Florida,Motorboat Mechanics and Service Technicians,3370,12.9,0.384,2.46,22.93,47690,3.3
+Florida,Motorcycle Mechanics,900,18.7,0.103,0.97,18.41,38300,5.6
+Florida,Outdoor Power Equipment and Other Small Engine Mechanics,2250,9.5,0.256,1.17,17.12,35620,2.9
+Florida,Bicycle Repairers,**,**,**,**,14.02,29160,4.5
+Florida,Recreational Vehicle Service Technicians,810,19.8,0.093,0.87,21.25,44200,3.4
+Florida,Tire Repairers and Changers,4760,10.5,0.542,0.72,14.17,29470,2.6
+Florida,Mechanical Door Repairers,1910,16,0.217,1.39,19.49,40530,4.1
+Florida,"Control and Valve Installers and Repairers, Except Mechanical Door",1720,14.1,0.195,0.55,23.38,48630,5
+Florida,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",31710,4.6,3.606,1.55,21.5,44720,1
+Florida,Home Appliance Repairers,2150,10.6,0.244,1.15,18.77,39030,3
+Florida,Industrial Machinery Mechanics,13750,4,1.563,0.59,23.53,48950,1.5
+Florida,"Maintenance Workers, Machinery",1610,10.4,0.183,0.37,18.72,38940,2.7
+Florida,Millwrights,650,16.2,0.074,0.23,24.19,50310,3.3
+Florida,Electrical Power-Line Installers and Repairers,5620,7.1,0.639,0.84,27.41,57010,2.1
+Florida,Telecommunications Line Installers and Repairers,5730,8.9,0.652,0.79,20.93,43540,1.7
+Florida,Camera and Photographic Equipment Repairers,160,39.5,0.018,0.75,19.73,41040,19.4
+Florida,Medical Equipment Repairers,3460,9.5,0.393,1.25,23.23,48320,3.1
+Florida,Musical Instrument Repairers and Tuners,290,22,0.032,0.59,16.2,33700,3.5
+Florida,Watch and Clock Repairers,210,17.5,0.024,1.27,24.22,50370,9.4
+Florida,"Precision Instrument and Equipment Repairers, All Other",180,16.3,0.02,0.28,25.66,53370,3.4
+Florida,"Maintenance and Repair Workers, General",98990,2,11.257,1.17,17.78,36980,0.5
+Florida,"Coin, Vending, and Amusement Machine Servicers and Repairers",1200,9.5,0.137,0.64,14.07,29270,4.2
+Florida,Commercial Divers,390,21.1,0.044,1.9,25.79,53630,10.1
+Florida,Locksmiths and Safe Repairers,1540,16.5,0.175,1.51,18.87,39250,4.9
+Florida,Manufactured Building and Mobile Home Installers,310,29.4,0.035,1.83,13,27050,3.3
+Florida,Riggers,1040,15.1,0.119,0.76,23.59,49060,2.6
+Florida,Signal and Track Switch Repairers,280,44.7,0.032,0.69,31.77,66090,3.6
+Florida,"Helpers--Installation, Maintenance, and Repair Workers",6520,6.9,0.742,1.1,14.11,29360,1.3
+Florida,"Installation, Maintenance, and Repair Workers, All Other",15900,7.8,1.807,1.65,18.15,37750,1.9
+Florida,Production Occupations,309510,1.3,35.195,0.56,17.46,36320,0.4
+Florida,First-Line Supervisors of Production and Operating Workers,24870,1.8,2.828,0.66,28.6,59480,0.6
+Florida,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",1560,17.3,0.177,0.61,23.27,48400,7
+Florida,"Coil Winders, Tapers, and Finishers",300,20.9,0.034,0.4,14.66,30500,10.8
+Florida,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",11260,7.6,1.28,0.66,15.86,32980,2.4
+Florida,Engine and Other Machine Assemblers,160,32,0.018,0.06,15.71,32670,5.4
+Florida,Structural Metal Fabricators and Fitters,3010,8.8,0.343,0.65,17.46,36320,1.7
+Florida,Fiberglass Laminators and Fabricators,2780,10,0.316,2.32,16.28,33860,1.4
+Florida,Timing Device Assemblers and Adjusters,40,30.7,0.004,0.52,16.63,34580,6.3
+Florida,Miscellaneous Assemblers and Fabricators,46450,3.2,5.282,0.57,15.04,31280,0.8
+Florida,Bakers,10170,5.8,1.157,0.92,13.83,28780,1.3
+Florida,Butchers and Meat Cutters,8780,6.6,0.998,1.07,15.86,32980,1.5
+Florida,"Meat, Poultry, and Fish Cutters and Trimmers",3470,11.8,0.395,0.38,14.33,29800,2.3
+Florida,Slaughterers and Meat Packers,220,26.1,0.025,0.05,12.75,26530,4.9
+Florida,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",400,12.3,0.045,0.32,19.71,40990,11.6
+Florida,Food Batchmakers,4740,10.2,0.539,0.5,13.51,28090,3.2
+Florida,Food Cooking Machine Operators and Tenders,470,18.8,0.054,0.26,12.68,26370,3.4
+Florida,"Food Processing Workers, All Other",790,12.2,0.09,0.31,13.07,27180,1.1
+Florida,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",990,13.5,0.113,0.22,15.17,31560,3.6
+Florida,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",200,23.4,0.023,0.21,16.17,33630,4.7
+Florida,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",340,20.4,0.039,0.18,17.06,35480,3.4
+Florida,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",3250,8.9,0.37,0.28,15.53,32310,2.4
+Florida,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",220,49.2,0.025,0.34,23.65,49190,8.3
+Florida,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1580,9.2,0.179,0.34,15.53,32300,1.3
+Florida,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",330,19.3,0.037,0.19,17.54,36480,4.9
+Florida,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",670,42.3,0.076,0.59,20.36,42350,3.7
+Florida,Machinists,9190,5.1,1.045,0.4,20.58,42800,1.3
+Florida,Metal-Refining Furnace Operators and Tenders,**,**,**,**,17.81,37030,3.6
+Florida,"Pourers and Casters, Metal",**,**,**,**,19.99,41580,2.7
+Florida,"Model Makers, Metal and Plastic",90,6.9,0.01,0.33,29.92,62230,2
+Florida,"Patternmakers, Metal and Plastic",**,**,**,**,19.71,40990,2.8
+Florida,Foundry Mold and Coremakers,40,27,0.005,0.04,20.15,41920,4.4
+Florida,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",2930,8.2,0.333,0.28,15.78,32820,2
+Florida,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2110,8.1,0.239,0.24,16.98,35310,3.3
+Florida,Tool and Die Makers,820,14.1,0.093,0.19,23.15,48160,2.5
+Florida,"Welders, Cutters, Solderers, and Brazers",13730,4.5,1.561,0.56,20.03,41650,1.3
+Florida,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",530,16.3,0.06,0.25,19.26,40060,2.2
+Florida,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",190,29.7,0.022,0.16,16.97,35300,3.5
+Florida,"Layout Workers, Metal and Plastic",190,19.7,0.021,0.38,21.14,43980,5.5
+Florida,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",590,21.4,0.067,0.24,17.91,37240,1.8
+Florida,"Tool Grinders, Filers, and Sharpeners",90,17,0.01,0.22,16.12,33520,2.7
+Florida,"Metal Workers and Plastic Workers, All Other",430,18.8,0.049,0.29,16.23,33760,4.9
+Florida,Prepress Technicians and Workers,880,11.9,0.1,0.48,18.87,39250,2.2
+Florida,Printing Press Operators,7570,6.5,0.861,0.73,16.61,34540,1.7
+Florida,Print Binding and Finishing Workers,1320,9.9,0.15,0.48,15.16,31530,2.1
+Florida,Laundry and Dry-Cleaning Workers,15770,5.1,1.793,1.26,11.26,23420,0.8
+Florida,"Pressers, Textile, Garment, and Related Materials",3110,14.5,0.354,1.37,10.98,22830,1.7
+Florida,Sewing Machine Operators,5690,8.1,0.647,0.71,13.2,27460,1.8
+Florida,Shoe Machine Operators and Tenders,100,32.2,0.011,0.32,14.95,31100,5.4
+Florida,"Sewers, Hand",160,37.3,0.019,0.57,13.53,28150,4
+Florida,"Tailors, Dressmakers, and Custom Sewers",2140,25.7,0.244,1.49,14.21,29560,4.8
+Florida,Textile Bleaching and Dyeing Machine Operators and Tenders,**,**,**,**,14.12,29380,2.7
+Florida,"Textile Cutting Machine Setters, Operators, and Tenders",310,13.9,0.035,0.39,13.91,28930,3.5
+Florida,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",160,30.3,0.018,0.13,13.02,27090,4.3
+Florida,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",370,24.8,0.042,0.2,24.7,51390,8.7
+Florida,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",120,11.9,0.013,0.11,20.63,42910,3.6
+Florida,Fabric and Apparel Patternmakers,280,35.8,0.032,0.79,15.81,32870,12.2
+Florida,Upholsterers,1580,13.2,0.179,0.89,17.69,36790,4.3
+Florida,"Textile, Apparel, and Furnishings Workers, All Other",**,**,**,**,13.26,27580,13
+Florida,Cabinetmakers and Bench Carpenters,4790,9.7,0.545,0.81,18.23,37920,2
+Florida,Furniture Finishers,770,19.8,0.088,0.8,16.48,34290,4.1
+Florida,"Sawing Machine Setters, Operators, and Tenders, Wood",1190,7.6,0.135,0.39,14.47,30090,2
+Florida,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2190,14.2,0.249,0.46,15.01,31220,2.9
+Florida,"Woodworkers, All Other",260,16.7,0.029,0.64,18.48,38450,6
+Florida,Power Distributors and Dispatchers,280,20.2,0.032,0.44,35.29,73410,5.3
+Florida,Power Plant Operators,1310,10.7,0.149,0.65,35.8,74470,2.1
+Florida,Stationary Engineers and Boiler Operators,430,20.5,0.049,0.22,27.74,57690,1.9
+Florida,Water and Wastewater Treatment Plant and System Operators,7610,2.6,0.865,1.03,22.79,47400,2.2
+Florida,Chemical Plant and System Operators,1030,11.8,0.117,0.59,28.21,58680,6
+Florida,Gas Plant Operators,160,22.7,0.018,0.18,25.74,53540,4.6
+Florida,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",220,28.6,0.025,0.09,23.04,47920,4.8
+Florida,"Plant and System Operators, All Other",580,14.2,0.066,0.74,27.86,57950,4.8
+Florida,Chemical Equipment Operators and Tenders,930,8.1,0.106,0.18,20.44,42510,3.7
+Florida,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1040,11.2,0.118,0.34,19.87,41330,4.1
+Florida,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",910,19.2,0.104,0.46,17.95,37330,3.6
+Florida,"Grinding and Polishing Workers, Hand",540,14.6,0.061,0.31,15.51,32260,1.9
+Florida,"Mixing and Blending Machine Setters, Operators, and Tenders",5250,6.8,0.597,0.7,16.85,35060,1.2
+Florida,"Cutters and Trimmers, Hand",180,45.3,0.02,0.31,16.27,33840,8.1
+Florida,"Cutting and Slicing Machine Setters, Operators, and Tenders",1240,13,0.141,0.36,16.28,33870,3.4
+Florida,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1620,11.6,0.185,0.38,16.15,33590,2.8
+Florida,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",370,13.4,0.042,0.33,16.21,33720,2.9
+Florida,"Inspectors, Testers, Sorters, Samplers, and Weighers",18420,3,2.095,0.53,20.42,42470,1.2
+Florida,Jewelers and Precious Stone and Metal Workers,1370,17.7,0.155,0.97,21.48,44670,4.4
+Florida,Dental Laboratory Technicians,2410,8.4,0.274,1.17,19.86,41310,4.1
+Florida,Medical Appliance Technicians,590,12.9,0.067,0.7,22.17,46110,5.1
+Florida,Ophthalmic Laboratory Technicians,2930,13.8,0.333,1.68,15.91,33100,1.9
+Florida,Packaging and Filling Machine Operators and Tenders,18110,5.8,2.059,0.77,14.14,29420,1.5
+Florida,"Painting, Coating, and Decorating Workers",560,16.5,0.063,0.75,16.24,33770,3.4
+Florida,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",5270,7.5,0.599,0.6,18.8,39110,1.9
+Florida,Semiconductor Processing Technicians,120,27.8,0.014,0.08,19.3,40140,8
+Florida,Photographic Process Workers and Processing Machine Operators,650,37.7,0.074,0.9,18.74,38980,5.5
+Florida,Computer Numerically Controlled Tool Operators,3210,8.1,0.365,0.35,19.18,39890,1.7
+Florida,Computer Numerically Controlled Tool Programmers,480,11.2,0.055,0.31,26.15,54390,2.2
+Florida,Adhesive Bonding Machine Operators and Tenders,110,17.4,0.012,0.13,17.72,36860,4.5
+Florida,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",170,22.8,0.02,0.18,16.15,33580,3.5
+Florida,Cooling and Freezing Equipment Operators and Tenders,210,27,0.024,0.4,17.46,36310,2.8
+Florida,Etchers and Engravers,300,36.9,0.034,0.49,12.13,25230,8.5
+Florida,"Molders, Shapers, and Casters, Except Metal and Plastic",2150,16.9,0.244,0.8,16.19,33670,1.6
+Florida,"Paper Goods Machine Setters, Operators, and Tenders",1480,17.1,0.168,0.25,18.56,38600,5.3
+Florida,Tire Builders,130,28.2,0.015,0.1,14.49,30140,6.1
+Florida,Helpers--Production Workers,8860,7.3,1.008,0.49,13.79,28680,2.1
+Florida,"Production Workers, All Other",8740,7,0.993,0.66,13.85,28810,2.2
+Florida,Transportation and Material Moving Occupations,708190,1.2,80.531,0.94,17.19,35760,2.2
+Florida,Aircraft Cargo Handling Supervisors,800,8.4,0.091,1.41,31.36,65220,3.5
+Florida,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",24120,3.2,2.743,0.88,26.4,54900,1.2
+Florida,"Airline Pilots, Copilots, and Flight Engineers",5290,9,0.601,1.04,*,226930,11
+Florida,Commercial Pilots,3940,6.9,0.448,1.74,*,118740,17.5
+Florida,Airfield Operations Specialists,790,5.9,0.09,1.23,24.42,50800,4.6
+Florida,Flight Attendants,10670,9.8,1.213,1.47,*,55180,4.6
+Florida,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",700,11.9,0.08,0.79,14.01,29150,4.8
+Florida,Driver/Sales Workers,30130,7.2,3.426,1.13,12.68,26370,1.7
+Florida,Heavy and Tractor-Trailer Truck Drivers,92530,2.5,10.522,0.83,20.53,42700,1.1
+Florida,Light Truck Drivers,54840,2.9,6.236,0.99,17.48,36350,1.2
+Florida,"Bus Drivers, Transit and Intercity",10900,6.7,1.24,1.01,16.98,35330,2.1
+Florida,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",29820,4.2,3.391,0.71,13.56,28210,1.6
+Florida,"Motor Vehicle Operators, All Other",2380,14.1,0.271,0.7,15.36,31950,2.6
+Florida,Locomotive Engineers,**,**,**,**,31.25,65010,2.7
+Florida,"Rail Yard Engineers, Dinkey Operators, and Hostlers",**,**,**,**,22.86,47550,6
+Florida,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",110,26.7,0.013,0.17,26.19,54470,8
+Florida,Railroad Conductors and Yardmasters,**,**,**,**,31.33,65170,2.6
+Florida,"Rail Transportation Workers, All Other",**,**,**,**,23.6,49080,12.3
+Florida,Sailors and Marine Oilers,3130,23.1,0.356,1.67,17.36,36100,5.4
+Florida,"Captains, Mates, and Pilots of Water Vessels",4850,32.9,0.551,2.43,35.44,73710,6.8
+Florida,Motorboat Operators,310,19.7,0.035,2.42,22.03,45820,7
+Florida,Ship Engineers,1520,10.5,0.173,3.02,32.34,67270,1.6
+Florida,Bridge and Lock Tenders,180,8.3,0.02,0.94,17.86,37150,2
+Florida,Parking Attendants,16320,12.2,1.855,1.85,11.24,23370,1.5
+Florida,Automotive and Watercraft Service Attendants,5770,11.6,0.656,0.82,13.07,27190,1.7
+Florida,Traffic Technicians,800,3,0.091,1.79,22.38,46550,2.7
+Florida,Transportation Inspectors,1610,18.7,0.183,0.9,40.62,84490,4.3
+Florida,Passenger Attendants,4310,41.8,0.49,2.55,11.23,23350,5.6
+Florida,"Aircraft Service Attendants and Transportation Workers, All Other",2080,8.2,0.236,0.99,17.48,36350,4.5
+Florida,Conveyor Operators and Tenders,520,23.9,0.059,0.36,15.8,32860,3
+Florida,Crane and Tower Operators,2810,13,0.32,1.03,27.45,57090,2.2
+Florida,Dredge Operators,100,28.7,0.012,1.11,21.87,45480,5.2
+Florida,Hoist and Winch Operators,70,21.6,0.008,0.25,19.35,40250,6.2
+Florida,Industrial Truck and Tractor Operators,23480,3.5,2.67,0.62,18.21,37880,1.5
+Florida,Cleaners of Vehicles and Equipment,26980,4.6,3.068,1.18,12.49,25990,1.1
+Florida,"Laborers and Freight, Stock, and Material Movers, Hand",156120,2.8,17.753,0.88,14.59,30350,1.7
+Florida,Machine Feeders and Offbearers,1280,8.1,0.146,0.34,15.48,32200,5.3
+Florida,"Packers and Packagers, Hand",33630,3.1,3.825,0.89,11.8,24550,1.6
+Florida,Stockers and Order Fillers,140540,2.5,15.981,1.1,13.36,27790,0.6
+Florida,"Pump Operators, Except Wellhead Pumpers",250,21.3,0.028,0.42,19.33,40210,3.4
+Florida,Refuse and Recyclable Material Collectors,7420,6.9,0.844,1.02,18.4,38270,1.5
+Florida,"Tank Car, Truck, and Ship Loaders",320,29.4,0.036,0.46,*,*,*
+Florida,"Material Moving Workers, All Other",1240,25.8,0.141,0.74,18.33,38140,7.7

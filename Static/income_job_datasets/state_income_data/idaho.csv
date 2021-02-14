@@ -1,0 +1,641 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Idaho,All Occupations,727160,0.7,1000,1,21.58,44890,1.1
+Idaho,Management Occupations,41680,1.5,57.312,1.05,41.03,85350,1.2
+Idaho,General and Operations Managers,14600,2.2,20.079,1.23,38.98,81080,1.3
+Idaho,Legislators,360,12.4,0.489,1.37,*,25160,6.7
+Idaho,Advertising and Promotions Managers,110,17.6,0.149,0.87,33.53,69740,2.1
+Idaho,Marketing Managers,990,11.1,1.365,0.76,56.2,116900,4.6
+Idaho,Sales Managers,1470,6.5,2.019,0.74,50.52,105080,3
+Idaho,Public Relations and Fundraising Managers,270,7,0.377,0.7,42.59,88580,3.3
+Idaho,Administrative Services and Facilities Managers,830,5.9,1.139,0.54,37.55,78100,3
+Idaho,Computer and Information Systems Managers,1440,5.1,1.983,0.67,51.64,107410,2.2
+Idaho,Financial Managers,2970,3.8,4.085,0.92,46.28,96260,1.8
+Idaho,Industrial Production Managers,660,4.9,0.902,0.71,48.69,101280,2.3
+Idaho,Purchasing Managers,270,5.8,0.372,0.76,47.89,99610,4.3
+Idaho,"Transportation, Storage, and Distribution Managers",650,15.8,0.89,0.99,38.57,80230,3.4
+Idaho,Compensation and Benefits Managers,80,7,0.103,0.9,42.94,89320,3.4
+Idaho,Human Resources Managers,610,4.2,0.834,0.79,44.92,93430,1.9
+Idaho,Training and Development Managers,140,17.5,0.188,0.72,41.36,86040,3
+Idaho,"Farmers, Ranchers, and Other Agricultural Managers",230,22.1,0.317,9.22,29.34,61020,2.4
+Idaho,Construction Managers,1410,8.8,1.938,0.97,38.36,79800,2.6
+Idaho,"Education and Childcare Administrators, Preschool and Daycare",110,13.9,0.153,0.43,22.27,46330,6
+Idaho,"Education Administrators, Kindergarten through Secondary",1500,8.7,2.064,1.12,*,79160,1.9
+Idaho,"Education Administrators, Postsecondary",1390,6.2,1.917,1.94,44.79,93160,2.7
+Idaho,"Education Administrators, All Other",90,22,0.118,0.39,28.06,58370,4.3
+Idaho,Architectural and Engineering Managers,1290,4.7,1.771,1.34,70.13,145860,3.8
+Idaho,Food Service Managers,1040,12.2,1.426,0.89,24.22,50390,3.4
+Idaho,Lodging Managers,190,20.1,0.26,0.99,28.57,59430,10.4
+Idaho,Medical and Health Services Managers,2170,5.9,2.979,1.11,45.65,94960,2.5
+Idaho,Natural Sciences Managers,370,2.6,0.505,1.1,46.39,96480,2.4
+Idaho,Postmasters and Mail Superintendents,130,0,0.179,1.9,35.27,73370,0.8
+Idaho,"Property, Real Estate, and Community Association Managers",1620,8.8,2.222,1.48,18.07,37580,5
+Idaho,Social and Community Service Managers,890,5.5,1.22,1.15,27.51,57230,3.8
+Idaho,Emergency Management Directors,100,7.3,0.138,2.01,44.43,92400,6.8
+Idaho,Funeral Home Managers,40,43.8,0.059,0.93,31.57,65670,3.5
+Idaho,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",1210,8.8,1.666,0.52,45.27,94160,2.5
+Idaho,Business and Financial Operations Occupations,28910,1.9,39.762,0.71,31.59,65720,1.3
+Idaho,Buyers and Purchasing Agents,1770,4.8,2.439,0.85,28.99,60290,2.2
+Idaho,"Claims Adjusters, Examiners, and Investigators",1210,10.3,1.661,0.85,29.61,61600,3.6
+Idaho,Compliance Officers,1270,5,1.751,0.81,29.04,60410,2.3
+Idaho,Cost Estimators,1140,12,1.57,1.1,29.11,60540,2.5
+Idaho,Human Resources Specialists,2290,4.1,3.148,0.73,30.68,63810,3.1
+Idaho,Labor Relations Specialists,160,25.3,0.214,0.42,30.74,63940,4.1
+Idaho,Logisticians,560,8.5,0.772,0.62,34.97,72740,4.1
+Idaho,Management Analysts,2850,4.8,3.924,0.81,37.88,78800,3.4
+Idaho,"Meeting, Convention, and Event Planners",420,10.2,0.579,0.72,19.22,39990,3.5
+Idaho,Fundraisers,260,14.7,0.361,0.65,26.41,54940,5.7
+Idaho,"Compensation, Benefits, and Job Analysis Specialists",210,10.9,0.287,0.47,31.85,66250,4.9
+Idaho,Training and Development Specialists,1550,5.2,2.126,1,28.66,59610,4
+Idaho,Market Research Analysts and Marketing Specialists,1880,6.3,2.589,0.56,29.12,60560,3.3
+Idaho,"Project Management Specialists and Business Operations Specialists, All Other",3600,2.9,4.957,0.57,34.35,71440,2
+Idaho,Accountants and Auditors,3940,4.4,5.42,0.62,31.46,65440,2.4
+Idaho,Property Appraisers and Assessors,470,12.3,0.652,1.7,26.89,55930,4.8
+Idaho,Budget Analysts,170,4.9,0.228,0.65,33.11,68870,1.5
+Idaho,Credit Analysts,150,20.4,0.2,0.4,29.65,61670,4
+Idaho,Personal Financial Advisors,920,13.7,1.26,0.88,47.7,99220,8.9
+Idaho,Insurance Underwriters,100,34.7,0.138,0.2,29.29,60920,8.4
+Idaho,Financial Examiners,90,20.2,0.128,0.29,36.65,76230,2.9
+Idaho,Credit Counselors,60,24.5,0.084,0.39,18.62,38720,7.4
+Idaho,Loan Officers,1980,7.7,2.719,1.29,29.29,60930,2.9
+Idaho,"Tax Examiners and Collectors, and Revenue Agents",280,3.5,0.379,1.04,26.58,55280,3.8
+Idaho,Tax Preparers,610,31.1,0.833,1.83,18.35,38170,7.7
+Idaho,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",920,8.3,1.26,0.4,35.27,73360,3
+Idaho,Computer and Mathematical Occupations,16060,4,22.082,0.71,36.34,75580,3.1
+Idaho,Computer Systems Analysts,1560,8.3,2.145,0.53,39.14,81410,1.8
+Idaho,Information Security Analysts,470,6.6,0.64,0.75,43.56,90610,4.2
+Idaho,Computer and Information Research Scientists,230,5.5,0.315,1.51,66.41,138120,2.7
+Idaho,Computer Network Support Specialists,570,23.6,0.779,0.62,25.36,52760,2.3
+Idaho,Computer User Support Specialists,3320,10.5,4.566,1.04,24.1,50130,4.2
+Idaho,Computer Network Architects,660,23.5,0.903,0.87,*,*,*
+Idaho,Network and Computer Systems Administrators,1380,7,1.902,0.79,34.41,71580,3
+Idaho,Database Administrators and Architects,460,7,0.627,0.73,34.02,70770,8.6
+Idaho,Computer Programmers,520,12.2,0.716,0.53,34.72,72210,4.6
+Idaho,Software Developers and Software Quality Assurance Analysts and Testers,4690,8.1,6.455,0.67,45.74,95140,2.6
+Idaho,Web Developers and Digital Interface Designers,590,11.6,0.807,0.8,24.9,51780,3.5
+Idaho,"Computer Occupations, All Other",900,9.2,1.243,0.46,37.03,77020,2.6
+Idaho,Actuaries,40,14.8,0.057,0.38,55.41,115260,13.7
+Idaho,Operations Research Analysts,570,20,0.787,1.16,33.39,69450,9.9
+Idaho,Statisticians,90,8.8,0.13,0.49,53.36,111000,10
+Idaho,Architecture and Engineering Occupations,14410,2.3,19.815,1.12,41.64,86620,3.1
+Idaho,"Architects, Except Landscape and Naval",450,23.4,0.615,0.85,31.32,65140,11
+Idaho,Landscape Architects,70,32.8,0.1,0.73,30.93,64330,10.5
+Idaho,Cartographers and Photogrammetrists,150,11,0.211,2.74,28.33,58940,1.5
+Idaho,Surveyors,360,11.1,0.494,1.61,31.59,65710,4.8
+Idaho,Bioengineers and Biomedical Engineers,30,29.9,0.043,0.32,31.42,65360,5.4
+Idaho,Chemical Engineers,320,1.7,0.44,2.15,58.36,121390,3
+Idaho,Civil Engineers,2090,6.3,2.87,1.36,40.5,84230,3.3
+Idaho,Computer Hardware Engineers,270,10.8,0.368,0.8,49.61,103190,1.8
+Idaho,Electrical Engineers,1090,18,1.504,1.19,46.7,97130,3.7
+Idaho,"Electronics Engineers, Except Computer",2320,4.4,3.192,3.64,51.32,106750,3
+Idaho,Environmental Engineers,340,7.7,0.465,1.29,51.14,106360,4.7
+Idaho,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",180,5.2,0.241,1.37,49.64,103250,3.7
+Idaho,Industrial Engineers,990,6.3,1.357,0.68,44.92,93430,2.1
+Idaho,Materials Engineers,190,15.6,0.262,1.43,52.45,109090,7.7
+Idaho,Mechanical Engineers,1110,4.5,1.525,0.73,44.49,92540,3.2
+Idaho,"Mining and Geological Engineers, Including Mining Safety Engineers",100,23.1,0.131,3.06,42.02,87400,5.3
+Idaho,Nuclear Engineers,530,9.3,0.73,6.76,63.41,131900,2.6
+Idaho,"Engineers, All Other",400,13,0.547,0.53,56.91,118370,5.2
+Idaho,Architectural and Civil Drafters,860,8.5,1.177,1.75,24.51,50980,3.5
+Idaho,Electrical and Electronics Drafters,60,26,0.086,0.52,22.62,47050,10.4
+Idaho,Mechanical Drafters,260,15.6,0.358,0.95,22.7,47220,2.9
+Idaho,"Drafters, All Other",40,12.5,0.053,0.54,23.91,49740,3
+Idaho,Civil Engineering Technologists and Technicians,250,21.9,0.343,0.73,24.71,51390,2.3
+Idaho,Electrical and Electronic Engineering Technologists and Technicians,1060,3.1,1.454,1.74,28.3,58870,1.7
+Idaho,Electro-Mechanical and Mechatronics Technologists and Technicians,90,6.6,0.118,1.21,30.19,62790,6.5
+Idaho,Industrial Engineering Technologists and Technicians,200,4.5,0.281,0.61,24.55,51070,4
+Idaho,Mechanical Engineering Technologists and Technicians,60,21.1,0.086,0.29,29.68,61740,4.2
+Idaho,Surveying and Mapping Technicians,270,9.1,0.376,1.04,22.15,46080,4.2
+Idaho,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",**,**,**,**,28.87,60050,3
+Idaho,"Life, Physical, and Social Science Occupations",8530,2.7,11.731,1.34,29.86,62110,2.8
+Idaho,Food Scientists and Technologists,90,36,0.126,1.37,32.4,67400,11.5
+Idaho,Soil and Plant Scientists,150,21.2,0.207,2.15,37.15,77260,10.4
+Idaho,Microbiologists,**,**,**,**,33.31,69280,16.1
+Idaho,Zoologists and Wildlife Biologists,440,15.7,0.602,4.6,32.53,67670,1
+Idaho,"Biological Scientists, All Other",320,1.4,0.445,1.63,34.77,72330,1.1
+Idaho,Conservation Scientists,290,12.6,0.397,2.64,31.32,65150,1.8
+Idaho,Foresters,280,4.4,0.387,5.98,27.71,57630,1.2
+Idaho,"Medical Scientists, Except Epidemiologists",460,10.5,0.632,0.73,33.96,70640,2.4
+Idaho,Physicists,140,23.4,0.196,1.72,51.14,106380,3.9
+Idaho,Atmospheric and Space Scientists,60,16,0.081,1.28,48.28,100410,2.8
+Idaho,Chemists,230,6.4,0.315,0.55,40.74,84730,6.2
+Idaho,"Environmental Scientists and Specialists, Including Health",520,5.9,0.711,1.24,30.34,63110,2.1
+Idaho,"Geoscientists, Except Hydrologists and Geographers",100,12.2,0.14,0.7,41.37,86050,2.8
+Idaho,Hydrologists,130,5.2,0.181,4.14,32.13,66830,1.6
+Idaho,"Physical Scientists, All Other",270,0,0.364,3.05,30.87,64210,2
+Idaho,Economists,40,42.2,0.057,0.44,31.14,64770,5.6
+Idaho,"Clinical, Counseling, and School Psychologists",400,22.7,0.556,0.72,29.27,60880,5.2
+Idaho,"Psychologists, All Other",50,5.7,0.072,0.74,44.43,92410,5.8
+Idaho,Urban and Regional Planners,230,7.5,0.317,1.21,29.27,60880,2.3
+Idaho,Anthropologists and Archeologists,80,40.5,0.113,2.48,34.77,72330,2.2
+Idaho,"Social Scientists and Related Workers, All Other",70,1.8,0.09,0.39,30.5,63440,4.1
+Idaho,Agricultural and Food Science Technicians,280,12.5,0.379,2.54,18.89,39300,2.6
+Idaho,Biological Technicians,690,18.2,0.953,1.76,17.4,36190,2.6
+Idaho,Chemical Technicians,520,10.4,0.721,1.61,21.97,45690,7.3
+Idaho,"Environmental Science and Protection Technicians, Including Health",280,7.6,0.391,1.76,27.82,57870,6.7
+Idaho,Geological and Hydrologic Technicians,110,22.9,0.146,1.26,24.6,51170,8.5
+Idaho,Nuclear Technicians,330,0,0.459,10.51,36.32,75550,2.7
+Idaho,Social Science Research Assistants,**,**,**,**,22.73,47270,5.8
+Idaho,Forest and Conservation Technicians,740,0.2,1.024,7.89,23.2,48260,0.8
+Idaho,"Life, Physical, and Social Science Technicians, All Other",210,25,0.293,0.67,22.93,47700,5.4
+Idaho,Occupational Health and Safety Specialists,490,4,0.672,1.06,36.94,76830,4.4
+Idaho,Occupational Health and Safety Technicians,40,10.7,0.049,0.35,*,*,*
+Idaho,Community and Social Service Occupations,11480,3.9,15.782,1.03,21.44,44590,1.3
+Idaho,"Educational, Guidance, and Career Counselors and Advisors",1660,5.6,2.281,1.13,23.16,48170,3.2
+Idaho,Marriage and Family Therapists,120,40.8,0.17,0.42,24.2,50340,5.5
+Idaho,Rehabilitation Counselors,1570,8.2,2.158,2.91,19.43,40420,2.7
+Idaho,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1750,16.2,2.409,1.25,23.15,48160,3.2
+Idaho,"Child, Family, and School Social Workers",1160,9.2,1.593,0.71,23.16,48170,3.1
+Idaho,Healthcare Social Workers,570,7.9,0.78,0.66,27.61,57440,1.9
+Idaho,Mental Health and Substance Abuse Social Workers,640,13.2,0.874,1.09,24.16,50260,3.1
+Idaho,"Social Workers, All Other",110,21.2,0.149,0.37,31.33,65170,6.7
+Idaho,Health Education Specialists,300,9.3,0.415,1.04,26.57,55270,2.9
+Idaho,Probation Officers and Correctional Treatment Specialists,590,7.4,0.81,1.35,20.92,43510,1.2
+Idaho,Social and Human Service Assistants,2280,8.4,3.134,1.14,16.15,33600,2.2
+Idaho,Community Health Workers,300,22.3,0.419,1.04,20.86,43380,2.8
+Idaho,"Community and Social Service Specialists, All Other",230,9.7,0.313,0.47,17.94,37320,5
+Idaho,Clergy,160,13.2,0.216,0.6,22.36,46500,4.8
+Idaho,Legal Occupations,4190,5.3,5.768,0.74,40.1,83410,3.2
+Idaho,Lawyers,2110,6.5,2.901,0.65,50.7,105450,5
+Idaho,Judicial Law Clerks,90,9.5,0.128,1.13,24.41,50770,3.7
+Idaho,"Administrative Law Judges, Adjudicators, and Hearing Officers",80,7.4,0.112,1.14,35.16,73140,1.4
+Idaho,"Judges, Magistrate Judges, and Magistrates",150,1.8,0.212,1.08,59.9,124600,1
+Idaho,Paralegals and Legal Assistants,1230,10.7,1.694,0.75,23.13,48110,2.9
+Idaho,"Title Examiners, Abstractors, and Searchers",440,9.6,0.607,1.69,36.54,76010,5.7
+Idaho,"Legal Support Workers, All Other",70,7.2,0.1,0.33,27.98,58200,2.3
+Idaho,Educational Instruction and Library Occupations,43420,2.1,59.708,0.99,20.96,43600,4
+Idaho,"Business Teachers, Postsecondary",360,11,0.497,0.87,*,88040,10.2
+Idaho,"Computer Science Teachers, Postsecondary",60,12.9,0.087,0.4,*,98050,12.2
+Idaho,"Mathematical Science Teachers, Postsecondary",210,18.6,0.291,0.83,*,92920,8.1
+Idaho,"Architecture Teachers, Postsecondary",100,26,0.136,2.95,*,101110,5.5
+Idaho,"Engineering Teachers, Postsecondary",170,4.1,0.229,0.93,*,121160,6.5
+Idaho,"Agricultural Sciences Teachers, Postsecondary",260,6.1,0.353,5.48,*,82410,3.9
+Idaho,"Biological Science Teachers, Postsecondary",170,6.9,0.228,0.63,*,103280,5.6
+Idaho,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",30,12.7,0.045,0.6,*,106620,5.3
+Idaho,"Chemistry Teachers, Postsecondary",80,10.5,0.108,0.74,*,82840,13
+Idaho,"Physics Teachers, Postsecondary",60,22.3,0.086,0.92,*,98170,3
+Idaho,"Psychology Teachers, Postsecondary",90,4.6,0.12,0.47,*,93210,5.8
+Idaho,"Sociology Teachers, Postsecondary",40,6.5,0.061,0.65,*,95530,5.6
+Idaho,"Social Sciences Teachers, Postsecondary, All Other",50,40.7,0.073,0.63,*,93980,4.7
+Idaho,"Health Specialties Teachers, Postsecondary",320,6.8,0.439,0.32,*,106800,6.6
+Idaho,"Nursing Instructors and Teachers, Postsecondary",310,7.6,0.428,1.05,*,76690,2.9
+Idaho,"Education Teachers, Postsecondary",220,7.2,0.298,0.71,*,57150,9.7
+Idaho,"Library Science Teachers, Postsecondary",30,19.5,0.042,1.39,*,66620,3
+Idaho,"Criminal Justice and Law Enforcement Teachers, Postsecondary",90,18.5,0.123,1.28,*,68160,12
+Idaho,"Law Teachers, Postsecondary",80,25.3,0.108,0.98,*,*,*
+Idaho,"Art, Drama, and Music Teachers, Postsecondary",240,11.6,0.333,0.52,*,74930,12.2
+Idaho,"Communications Teachers, Postsecondary",80,9.1,0.103,0.52,*,80010,12.5
+Idaho,"English Language and Literature Teachers, Postsecondary",250,12.2,0.339,0.73,*,91900,8
+Idaho,"Foreign Language and Literature Teachers, Postsecondary",60,14.8,0.084,0.5,*,90960,8
+Idaho,"History Teachers, Postsecondary",60,2.8,0.08,0.56,*,100620,4
+Idaho,"Philosophy and Religion Teachers, Postsecondary",80,4.8,0.104,0.65,*,106860,4.8
+Idaho,"Family and Consumer Sciences Teachers, Postsecondary",50,8.2,0.069,4.72,*,107340,8.4
+Idaho,"Recreation and Fitness Studies Teachers, Postsecondary",60,9.8,0.082,0.76,*,87320,10.3
+Idaho,"Career/Technical Education Teachers, Postsecondary",680,14.5,0.933,1.22,25.32,52670,5.9
+Idaho,"Postsecondary Teachers, All Other",260,26.1,0.358,0.26,*,67200,8.1
+Idaho,"Preschool Teachers, Except Special Education",1370,14,1.88,0.64,12.57,26150,2.2
+Idaho,"Kindergarten Teachers, Except Special Education",300,42.6,0.418,0.49,*,47800,4.8
+Idaho,"Elementary School Teachers, Except Special Education",8380,12.4,11.521,1.18,*,48880,2.7
+Idaho,"Middle School Teachers, Except Special and Career/Technical Education",1820,29.4,2.509,0.59,*,53970,4.2
+Idaho,"Secondary School Teachers, Except Special and Career/Technical Education",6210,13.7,8.534,1.21,*,50640,2.5
+Idaho,"Career/Technical Education Teachers, Secondary School",**,**,**,**,*,66300,6
+Idaho,"Special Education Teachers, Preschool",90,10.8,0.126,0.83,*,26970,20.2
+Idaho,"Special Education Teachers, Kindergarten and Elementary School",780,18.5,1.078,0.82,*,48560,5.8
+Idaho,"Special Education Teachers, Middle School",**,**,**,**,*,51980,7.5
+Idaho,"Special Education Teachers, Secondary School",390,39.1,0.541,0.55,*,52050,3.2
+Idaho,"Special Education Teachers, All Other",**,**,**,**,*,48920,3.9
+Idaho,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",60,11.4,0.081,0.23,28.21,58670,3.1
+Idaho,Self-Enrichment Teachers,710,13.6,0.97,0.56,17.18,35730,7.5
+Idaho,"Substitute Teachers, Short-Term",5570,16.8,7.664,1.92,11.32,23550,2.5
+Idaho,"Tutors and Teachers and Instructors, All Other",2390,8.7,3.29,1.51,*,38780,7.4
+Idaho,Curators,60,17.2,0.083,0.94,17.52,36450,5.8
+Idaho,Museum Technicians and Conservators,30,33.5,0.048,0.53,16.19,33680,4.8
+Idaho,Librarians and Media Collections Specialists,540,7.8,0.743,0.8,22.34,46470,4.1
+Idaho,Library Technicians,400,9.4,0.555,0.92,13.71,28510,3.8
+Idaho,Farm and Home Management Educators,90,16.7,0.12,2.02,27.84,57900,4.4
+Idaho,Instructional Coordinators,560,12.6,0.765,0.64,29.47,61300,6.4
+Idaho,"Teaching Assistants, Postsecondary",440,10.6,0.606,0.65,*,28820,11.3
+Idaho,"Teaching Assistants, Except Postsecondary",7830,8.6,10.773,1.17,*,24390,2
+Idaho,"Educational Instruction and Library Workers, All Other",410,12.3,0.559,0.64,14.27,29680,13.5
+Idaho,"Arts, Design, Entertainment, Sports, and Media Occupations",8400,4,11.558,0.84,21.04,43750,2.8
+Idaho,Art Directors,90,40.4,0.126,0.43,*,*,*
+Idaho,Craft Artists,40,41.7,0.05,1.58,16.5,34310,6.7
+Idaho,Commercial and Industrial Designers,160,10.4,0.223,1,36.98,76920,6.7
+Idaho,Floral Designers,310,14.6,0.423,1.49,13.04,27120,4.6
+Idaho,Graphic Designers,1130,9.3,1.554,1.06,21.82,45380,3.2
+Idaho,Interior Designers,160,23.4,0.215,0.52,25.92,53910,9
+Idaho,Merchandise Displayers and Window Trimmers,840,18,1.153,1.2,13.61,28310,3.7
+Idaho,"Designers, All Other",**,**,**,**,11.4,23700,14.9
+Idaho,Producers and Directors,320,9.3,0.442,0.5,27.51,57220,5.1
+Idaho,Coaches and Scouts,1710,12.5,2.352,1.43,*,28850,4.3
+Idaho,"Umpires, Referees, and Other Sports Officials",200,19.3,0.278,2.03,*,23320,6.5
+Idaho,Music Directors and Composers,140,6.2,0.187,2.6,38.36,79780,8
+Idaho,Broadcast Announcers and Radio Disc Jockeys,150,27.9,0.208,1.04,*,*,*
+Idaho,"News Analysts, Reporters, and Journalists",300,8.9,0.414,1.38,18.72,38940,9.8
+Idaho,Public Relations Specialists,700,5.8,0.968,0.58,30.7,63860,3.6
+Idaho,Editors,330,14.7,0.452,0.69,24.14,50210,6.7
+Idaho,Technical Writers,260,7.9,0.362,1.05,31.03,64540,3.1
+Idaho,Writers and Authors,180,16.4,0.25,0.8,25.16,52330,5.7
+Idaho,Interpreters and Translators,280,21.9,0.379,0.95,20.13,41860,3.9
+Idaho,Court Reporters and Simultaneous Captioners,50,7.1,0.073,0.74,26.37,54840,1.9
+Idaho,"Media and Communication Workers, All Other",40,32.4,0.053,0.31,22.3,46370,10.1
+Idaho,Audio and Video Technicians,280,19.7,0.384,0.76,20.9,43480,5.5
+Idaho,Broadcast Technicians,90,16.2,0.119,0.61,20.47,42580,5.9
+Idaho,Photographers,190,24,0.258,0.75,17.02,35390,5.6
+Idaho,"Camera Operators, Television, Video, and Film",60,24,0.085,0.58,17.98,37390,6.7
+Idaho,Film and Video Editors,80,16.9,0.112,0.6,21.88,45510,5.3
+Idaho,"Lighting Technicians and Media and Communication Equipment Workers, All Other",50,23.1,0.074,0.47,36.6,76120,5.4
+Idaho,Healthcare Practitioners and Technical Occupations,42100,3.2,57.899,0.98,37.64,78290,2.1
+Idaho,Chiropractors,220,9.8,0.307,1.29,41.45,86210,16.6
+Idaho,"Dentists, General",420,15.9,0.579,0.77,98.1,204060,9.7
+Idaho,Dietitians and Nutritionists,450,14.5,0.625,1.36,24.54,51050,3.4
+Idaho,Optometrists,240,25.7,0.326,1.21,49.02,101960,4.4
+Idaho,Pharmacists,1600,8,2.2,1.04,58.35,121360,0.9
+Idaho,Physician Assistants,770,8.5,1.064,1.3,53.85,112000,2.8
+Idaho,Occupational Therapists,670,11.3,0.923,1.02,40.37,83980,2.3
+Idaho,Physical Therapists,1390,8.8,1.913,1.2,38.64,80360,2.3
+Idaho,Radiation Therapists,70,23.4,0.094,0.77,38.5,80070,4.7
+Idaho,Recreational Therapists,70,23.7,0.099,0.76,18.23,37920,5.5
+Idaho,Respiratory Therapists,660,8.6,0.908,1.01,28.46,59210,1.2
+Idaho,Speech-Language Pathologists,820,14.4,1.121,1.07,34.84,72470,4.7
+Idaho,Veterinarians,420,11,0.577,1.14,49.56,103080,8.5
+Idaho,Registered Nurses,14110,4.9,19.408,0.96,33.4,69480,1.3
+Idaho,Nurse Anesthetists,**,**,**,**,72.44,150670,3.1
+Idaho,Nurse Practitioners,820,8.4,1.122,0.82,53.3,110860,2.7
+Idaho,Audiologists,100,29.6,0.136,1.47,35.67,74190,2.5
+Idaho,Anesthesiologists,**,**,**,**,128.7,267700,17.7
+Idaho,Family Medicine Physicians,830,12.1,1.136,1.53,109.21,227160,7.2
+Idaho,General Internal Medicine Physicians,120,34.6,0.168,0.55,83.26,173190,18.1
+Idaho,"Pediatricians, General",80,44.6,0.105,0.52,87.12,181210,13.3
+Idaho,Psychiatrists,**,**,**,**,102.37,212930,7.9
+Idaho,"Physicians, All Other; and Ophthalmologists, Except Pediatric",**,**,**,**,112.69,234390,8.4
+Idaho,"Surgeons, Except Ophthalmologists",190,30.8,0.256,1.04,120.52,250670,10.1
+Idaho,Dental Hygienists,1880,7.7,2.592,1.72,36.5,75910,1.9
+Idaho,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",120,33,0.165,0.66,62.99,131010,16.8
+Idaho,Clinical Laboratory Technologists and Technicians,1280,8.1,1.756,0.79,23.2,48250,2.1
+Idaho,Cardiovascular Technologists and Technicians,230,21.8,0.311,0.82,29.3,60940,2.6
+Idaho,Diagnostic Medical Sonographers,220,13.9,0.301,0.61,36.98,76920,1.9
+Idaho,Nuclear Medicine Technologists,50,16.4,0.075,0.6,40.03,83260,2.2
+Idaho,Radiologic Technologists and Technicians,980,7.8,1.344,0.95,29.17,60680,1.5
+Idaho,Magnetic Resonance Imaging Technologists,100,8.8,0.139,0.54,35.6,74040,2.3
+Idaho,Emergency Medical Technicians and Paramedics,1170,9.8,1.607,0.91,18.91,39330,4.2
+Idaho,Dietetic Technicians,80,9.7,0.116,0.58,16.41,34130,6.8
+Idaho,Pharmacy Technicians,2190,6.8,3.013,1.06,17.6,36600,1.3
+Idaho,Psychiatric Technicians,**,**,**,**,13.87,28850,3.7
+Idaho,Surgical Technologists,720,8.9,0.996,1.34,23.32,48500,1.5
+Idaho,Veterinary Technologists and Technicians,620,20,0.854,1.13,15.4,32030,2.5
+Idaho,Ophthalmic Medical Technicians,200,40,0.27,0.68,14.86,30910,4.8
+Idaho,Licensed Practical and Licensed Vocational Nurses,2650,7,3.639,0.77,22.32,46430,1.4
+Idaho,"Opticians, Dispensing",460,16.1,0.634,1.29,16.13,33550,3.3
+Idaho,Orthotists and Prosthetists,70,41.6,0.093,1.39,34.03,70790,8.2
+Idaho,Hearing Aid Specialists,40,17.4,0.051,0.91,*,*,*
+Idaho,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",1710,10.4,2.355,1.04,20.36,42350,3
+Idaho,Athletic Trainers,100,8.3,0.136,0.7,*,51480,3.9
+Idaho,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",110,17.6,0.155,0.42,27.71,57640,6.5
+Idaho,Healthcare Support Occupations,32950,3.1,45.316,1.02,13.79,28680,1
+Idaho,Home Health and Personal Care Aides,16270,4.1,22.372,1.04,11.72,24380,1.4
+Idaho,Nursing Assistants,7210,8.2,9.914,1.03,13.92,28950,1.5
+Idaho,Orderlies,250,24.1,0.342,1.07,15.77,32810,3.2
+Idaho,Occupational Therapy Assistants,180,12.7,0.253,0.82,25.58,53200,3.6
+Idaho,Physical Therapist Assistants,590,13.4,0.805,1.22,24.6,51170,4
+Idaho,Physical Therapist Aides,220,14.1,0.296,0.88,16.73,34810,6.7
+Idaho,Massage Therapists,310,19.9,0.42,0.58,24.82,51630,8.4
+Idaho,Dental Assistants,2260,5.7,3.111,1.3,16.62,34580,1.8
+Idaho,Medical Assistants,3350,10.9,4.612,0.95,16.69,34710,1.2
+Idaho,Medical Equipment Preparers,370,12.6,0.512,1.32,15.13,31470,2.1
+Idaho,Medical Transcriptionists,400,29.6,0.551,1.45,15.57,32390,6.6
+Idaho,Pharmacy Aides,70,37.7,0.102,0.4,14.89,30970,4.8
+Idaho,Veterinary Assistants and Laboratory Animal Caretakers,510,31.8,0.708,1.07,13.26,27580,4.1
+Idaho,Phlebotomists,620,12.3,0.847,0.97,15.92,33110,1.8
+Idaho,"Healthcare Support Workers, All Other",310,17.3,0.428,0.67,17.6,36600,3.7
+Idaho,Protective Service Occupations,13500,3.9,18.564,0.78,20.85,43360,2.6
+Idaho,First-Line Supervisors of Correctional Officers,370,2.3,0.504,1.59,26.42,54950,2.1
+Idaho,First-Line Supervisors of Police and Detectives,650,6,0.892,1.08,37.92,78870,1.5
+Idaho,First-Line Supervisors of Firefighting and Prevention Workers,420,12.3,0.575,1.21,26.88,55910,5.4
+Idaho,"Miscellaneous First-Line Supervisors, Protective Service Workers",240,11.3,0.33,0.59,24.24,50420,3.6
+Idaho,Firefighters,1950,9,2.681,1.21,18.88,39260,4.3
+Idaho,Bailiffs,60,6.6,0.088,0.66,18.67,38840,2.7
+Idaho,Correctional Officers and Jailers,1900,4.9,2.619,0.91,20.04,41690,1.8
+Idaho,Detectives and Criminal Investigators,380,4.4,0.526,0.73,35.9,74680,1.8
+Idaho,Police and Sheriff's Patrol Officers,2600,5.9,3.582,0.79,26.02,54120,1.7
+Idaho,Animal Control Workers,30,12,0.047,0.58,17.29,35950,2.5
+Idaho,Private Detectives and Investigators,60,44.2,0.083,0.35,28.91,60130,6.6
+Idaho,Gambling Surveillance Officers and Gambling Investigators,90,28.5,0.126,1.81,17.16,35690,7.4
+Idaho,Security Guards,2780,10.7,3.825,0.5,14.83,30840,6.8
+Idaho,Crossing Guards and Flaggers,600,32.6,0.831,1.44,13.21,27480,8.7
+Idaho,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",820,18,1.122,1.14,10.09,20980,2.4
+Idaho,Transportation Security Screeners,220,4.7,0.307,0.97,19.14,39820,1.9
+Idaho,"School Bus Monitors and Protective Service Workers, All Other",190,12.6,0.255,0.26,17.57,36550,3.1
+Idaho,Food Preparation and Serving Related Occupations,65890,1.6,90.611,0.99,11.13,23160,1.2
+Idaho,Chefs and Head Cooks,500,26.3,0.686,0.79,19.64,40850,7.9
+Idaho,First-Line Supervisors of Food Preparation and Serving Workers,4000,5,5.497,0.8,15.99,33250,1.8
+Idaho,"Cooks, Fast Food",6500,12.6,8.941,2.49,9.9,20590,1.9
+Idaho,"Cooks, Institution and Cafeteria",4140,9.9,5.688,2.08,12.56,26130,2.8
+Idaho,"Cooks, Restaurant",6620,6.6,9.098,0.95,12.26,25500,1.7
+Idaho,"Cooks, Short Order",600,38.5,0.824,0.79,10.08,20960,4.1
+Idaho,"Cooks, All Other",40,48.6,0.051,0.38,13.33,27730,3.7
+Idaho,Food Preparation Workers,3870,13.1,5.315,0.9,11.11,23100,3.3
+Idaho,Bartenders,2670,7.6,3.669,0.83,11.99,24940,5.7
+Idaho,Fast Food and Counter Workers,16060,7.6,22.092,0.81,9.78,20340,1.9
+Idaho,Waiters and Waitresses,12940,4.9,17.798,1.01,10.84,22550,3.4
+Idaho,"Food Servers, Nonrestaurant",670,23.8,0.919,0.49,11.73,24400,1.8
+Idaho,Dining Room and Cafeteria Attendants and Bartender Helpers,1720,17.9,2.372,0.73,10.47,21770,3
+Idaho,Dishwashers,3280,10.4,4.512,1.29,10.35,21530,2
+Idaho,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",2230,10.8,3.069,1.06,10.31,21440,2.7
+Idaho,"Food Preparation and Serving Related Workers, All Other",60,45.9,0.08,0.16,12.29,25570,2.6
+Idaho,Building and Grounds Cleaning and Maintenance Occupations,24580,3.5,33.806,1.12,13.92,28950,2
+Idaho,First-Line Supervisors of Housekeeping and Janitorial Workers,680,7.8,0.93,0.88,19.09,39700,3
+Idaho,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",670,20.8,0.927,1.31,19.67,40920,6.9
+Idaho,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",10400,8.4,14.304,0.98,12.57,26140,1.3
+Idaho,Maids and Housekeeping Cleaners,5100,9.4,7.013,1.11,11.25,23410,1.6
+Idaho,Pest Control Workers,300,24.5,0.417,0.77,15.09,31380,3.7
+Idaho,Landscaping and Groundskeeping Workers,6360,8,8.746,1.41,15.18,31570,2.3
+Idaho,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",660,34.5,0.91,5.18,*,*,*
+Idaho,Tree Trimmers and Pruners,**,**,**,**,19.19,39920,14.5
+Idaho,"Grounds Maintenance Workers, All Other",110,45,0.15,1.54,12.78,26570,5.2
+Idaho,Personal Care and Service Occupations,12440,5.3,17.105,0.76,13.89,28890,2
+Idaho,First-Line Supervisors of Gambling Services Workers,40,32,0.056,0.28,23.01,47870,12.3
+Idaho,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",690,10.7,0.955,0.64,17.56,36530,2.5
+Idaho,Animal Trainers,50,40.1,0.07,0.62,11.54,24000,3.6
+Idaho,Animal Caretakers,1370,10.5,1.884,1.3,10.8,22470,2.7
+Idaho,Gambling Dealers,120,30.2,0.16,0.24,12.27,25520,9.5
+Idaho,Motion Picture Projectionists,40,47.4,0.049,1.58,15.37,31970,11.2
+Idaho,"Ushers, Lobby Attendants, and Ticket Takers",630,19.4,0.869,0.92,9.3,19350,2.6
+Idaho,Amusement and Recreation Attendants,1100,10,1.512,0.66,10.64,22120,2.8
+Idaho,"Entertainment Attendants and Related Workers, All Other",**,**,**,**,13.15,27360,6.6
+Idaho,Funeral Attendants,60,28.7,0.089,0.38,14.61,30380,11.6
+Idaho,"Morticians, Undertakers, and Funeral Arrangers",80,25.9,0.111,0.64,30.55,63530,6.9
+Idaho,"Hairdressers, Hairstylists, and Cosmetologists",1660,8.9,2.286,0.87,16.24,33780,6.7
+Idaho,Manicurists and Pedicurists,270,37.4,0.375,0.49,17.12,35620,16.7
+Idaho,Skincare Specialists,190,16.1,0.264,0.69,20.03,41650,9.4
+Idaho,Baggage Porters and Bellhops,50,42.1,0.064,0.24,11.68,24300,2.3
+Idaho,Tour and Travel Guides,340,29.7,0.472,1.42,12.05,25070,6.4
+Idaho,Childcare Workers,1890,12.9,2.602,0.68,10.53,21910,2.6
+Idaho,Exercise Trainers and Group Fitness Instructors,2130,17,2.925,1.32,17.5,36390,4.7
+Idaho,Recreation Workers,1300,11.2,1.791,0.73,13.49,28050,3.7
+Idaho,Residential Advisors,220,29.7,0.297,0.4,14.59,30350,2.9
+Idaho,"Crematory Operators and Personal Care and Service Workers, All Other",40,28.3,0.051,0.12,21.71,45170,17.9
+Idaho,Sales and Related Occupations,70350,2.3,96.743,0.99,17.72,36860,1.5
+Idaho,First-Line Supervisors of Retail Sales Workers,5910,4.2,8.123,1.02,21.87,45500,2.3
+Idaho,First-Line Supervisors of Non-Retail Sales Workers,950,9.3,1.313,0.77,34.59,71940,2.6
+Idaho,Cashiers,17620,5.8,24.232,0.99,11.2,23300,0.9
+Idaho,Gambling Change Persons and Booth Cashiers,130,32.5,0.179,1.23,14.16,29450,2.5
+Idaho,Counter and Rental Clerks,1360,11.5,1.863,0.67,15.04,31270,2.8
+Idaho,Parts Salespersons,1810,7.2,2.492,1.43,15.94,33160,2.9
+Idaho,Retail Salespersons,23490,4.3,32.305,1.1,14,29120,1.7
+Idaho,Advertising Sales Agents,630,8.9,0.865,0.98,24.48,50930,3.9
+Idaho,Insurance Sales Agents,1820,11.5,2.506,0.9,28.75,59790,6.8
+Idaho,"Securities, Commodities, and Financial Services Sales Agents",1350,10.7,1.86,0.62,25.99,54070,4.2
+Idaho,Travel Agents,160,19.9,0.219,0.48,18.68,38860,3.3
+Idaho,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",3680,7.5,5.06,0.71,25.24,52490,2.6
+Idaho,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",830,15,1.143,0.55,37.92,78870,8.1
+Idaho,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",6850,5,9.422,1.03,30.67,63800,3.9
+Idaho,Demonstrators and Product Promoters,170,39.7,0.239,0.45,12.23,25430,7
+Idaho,Real Estate Brokers,100,37.5,0.134,0.46,29.83,62050,12.6
+Idaho,Real Estate Sales Agents,740,15.4,1.012,0.92,22.76,47350,8.1
+Idaho,Sales Engineers,220,30,0.302,0.7,61.95,128850,14.3
+Idaho,Telemarketers,2010,14.7,2.767,3.01,12.16,25300,4
+Idaho,"Sales and Related Workers, All Other",**,**,**,**,13.06,27160,3.2
+Idaho,Office and Administrative Support Occupations,100410,1.7,138.084,1.04,17.59,36590,0.6
+Idaho,First-Line Supervisors of Office and Administrative Support Workers,8180,3.2,11.254,1.11,25.23,52480,1.1
+Idaho,"Switchboard Operators, Including Answering Service",210,26.3,0.293,0.63,14.17,29470,2.6
+Idaho,Bill and Account Collectors,1480,3.8,2.034,1.27,18.23,37920,3.3
+Idaho,Billing and Posting Clerks,2070,8.5,2.845,0.9,18.05,37530,1.2
+Idaho,"Bookkeeping, Accounting, and Auditing Clerks",9700,3.6,13.334,1.29,18.72,38930,1.1
+Idaho,Gambling Cage Workers,110,33.3,0.147,1.5,13.96,29040,2.6
+Idaho,Payroll and Timekeeping Clerks,810,10.4,1.115,1.15,19.73,41030,2.4
+Idaho,Procurement Clerks,180,11.9,0.248,0.55,20.66,42970,2.6
+Idaho,Tellers,2880,4.4,3.962,1.32,14.88,30950,1.3
+Idaho,"Financial Clerks, All Other",**,**,**,**,22.39,46570,4.2
+Idaho,Brokerage Clerks,140,37,0.189,0.58,22.87,47560,6
+Idaho,"Court, Municipal, and License Clerks",990,8.7,1.356,1.29,19,39510,1.3
+Idaho,"Credit Authorizers, Checkers, and Clerks",70,26.6,0.094,0.52,19.14,39800,6.2
+Idaho,Customer Service Representatives,18340,6.2,25.226,1.27,16.12,33520,1.2
+Idaho,"Eligibility Interviewers, Government Programs",380,2.9,0.518,0.54,19.34,40220,1.4
+Idaho,File Clerks,550,11,0.757,1.09,14.69,30560,4.5
+Idaho,"Hotel, Motel, and Resort Desk Clerks",1640,9.7,2.257,1.24,10.96,22790,3.3
+Idaho,"Interviewers, Except Eligibility and Loan",730,17.4,1.005,0.78,16,33280,4.3
+Idaho,"Library Assistants, Clerical",570,11.9,0.79,1.35,12.17,25320,3
+Idaho,Loan Interviewers and Clerks,890,11.7,1.223,0.86,18.18,37810,1.8
+Idaho,New Accounts Clerks,390,17.8,0.542,1.83,16.91,35180,2.6
+Idaho,Order Clerks,690,21.6,0.944,1.01,17.71,36830,6.1
+Idaho,"Human Resources Assistants, Except Payroll and Timekeeping",400,7.1,0.55,0.69,18.83,39160,1.3
+Idaho,Receptionists and Information Clerks,7500,4.8,10.309,1.43,14.11,29350,1.3
+Idaho,Reservation and Transportation Ticket Agents and Travel Clerks,450,26.6,0.615,0.73,19.25,40040,10.9
+Idaho,"Information and Record Clerks, All Other",590,5.1,0.809,0.77,19.65,40870,2.2
+Idaho,Cargo and Freight Agents,200,33.2,0.27,0.41,22.45,46700,5.7
+Idaho,Couriers and Messengers,360,15.3,0.5,0.98,12.61,26230,3.4
+Idaho,Public Safety Telecommunicators,500,12.4,0.688,1.06,20.25,42110,2.7
+Idaho,"Dispatchers, Except Police, Fire, and Ambulance",810,8.3,1.115,0.82,18.15,37760,2.5
+Idaho,"Meter Readers, Utilities",110,10.6,0.151,0.73,31.27,65050,3
+Idaho,Postal Service Clerks,490,0,0.671,1.21,23.63,49150,0.7
+Idaho,Postal Service Mail Carriers,1610,0,2.215,0.96,24.6,51170,1.2
+Idaho,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",220,0,0.3,0.43,25.16,52330,2.5
+Idaho,"Production, Planning, and Expediting Clerks",1030,10,1.417,0.56,24.69,51350,4.7
+Idaho,"Shipping, Receiving, and Inventory Clerks",2480,7.1,3.405,0.71,16.54,34400,2.7
+Idaho,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",90,18.4,0.119,0.29,14.35,29840,3.7
+Idaho,Executive Secretaries and Executive Administrative Assistants,1430,6.6,1.967,0.53,23.81,49530,1.9
+Idaho,Legal Secretaries and Administrative Assistants,520,14,0.714,0.62,18.01,37460,4.7
+Idaho,Medical Secretaries and Administrative Assistants,1180,15.1,1.627,0.4,19.16,39860,4.6
+Idaho,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",10550,3.2,14.508,1.05,16.31,33920,1.2
+Idaho,Data Entry Keyers,380,13.9,0.528,0.48,15.11,31430,3.1
+Idaho,Word Processors and Typists,150,28.7,0.2,0.62,12.87,26770,3.3
+Idaho,Insurance Claims and Policy Processing Clerks,500,10.2,0.689,0.39,20.69,43040,6.5
+Idaho,"Mail Clerks and Mail Machine Operators, Except Postal Service",230,23.9,0.314,0.55,15.6,32440,2.9
+Idaho,"Office Clerks, General",16740,3.2,23.015,1.14,16.08,33440,0.9
+Idaho,"Office Machine Operators, Except Computer",170,24.7,0.235,0.75,13.75,28600,5.3
+Idaho,"Office and Administrative Support Workers, All Other",590,10.4,0.817,0.64,19.93,41460,6.4
+Idaho,"Farming, Fishing, and Forestry Occupations",5600,5.8,7.697,2.33,16.07,33430,4.6
+Idaho,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",120,17.2,0.164,1.07,21.73,45190,6.8
+Idaho,Agricultural Inspectors,260,5.2,0.363,3.87,17.89,37200,1.4
+Idaho,Animal Breeders,30,17.1,0.045,4.08,25.44,52910,9.8
+Idaho,"Graders and Sorters, Agricultural Products",750,22,1.031,4.41,10.88,22620,3.9
+Idaho,Agricultural Equipment Operators,250,27.4,0.339,1.84,16.48,34270,3.1
+Idaho,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2180,9.8,2.996,1.49,12.49,25970,2.5
+Idaho,"Farmworkers, Farm, Ranch, and Aquacultural Animals",870,14.5,1.199,4.81,14.6,30360,4.5
+Idaho,"Agricultural Workers, All Other",40,21.6,0.059,1.33,15.03,31260,5.1
+Idaho,Fallers,70,34.8,0.091,2.73,*,*,*
+Idaho,Logging Equipment Operators,720,14.2,0.991,5.59,26.76,55650,5
+Idaho,Log Graders and Scalers,110,22.6,0.145,6.46,20.03,41660,3.4
+Idaho,"Logging Workers, All Other",200,30.6,0.274,10.76,25.67,53390,3.7
+Idaho,Construction and Extraction Occupations,42890,1.9,58.987,1.4,20.69,43040,1.2
+Idaho,First-Line Supervisors of Construction Trades and Extraction Workers,3840,7.4,5.278,1.24,30.24,62900,1.9
+Idaho,Brickmasons and Blockmasons,200,22.3,0.279,0.68,23.89,49680,5.1
+Idaho,Stonemasons,130,32,0.184,2.18,19.79,41160,8.6
+Idaho,Carpenters,7930,5.1,10.902,2.18,18.97,39450,2
+Idaho,Carpet Installers,310,45.8,0.421,2.38,18.2,37860,5
+Idaho,"Floor Layers, Except Carpet, Wood, and Hard Tiles",180,38.4,0.242,2.18,19.37,40300,6.3
+Idaho,Tile and Stone Setters,140,31.3,0.192,0.7,17.93,37280,4.7
+Idaho,Cement Masons and Concrete Finishers,2150,11.5,2.958,2.22,19.58,40720,3.3
+Idaho,Construction Laborers,7510,5.6,10.334,1.49,16.34,33990,2.7
+Idaho,"Paving, Surfacing, and Tamping Equipment Operators",320,49.5,0.44,1.41,15.3,31820,5
+Idaho,Operating Engineers and Other Construction Equipment Operators,3120,8,4.295,1.55,22.86,47540,2.1
+Idaho,Drywall and Ceiling Tile Installers,1240,22.7,1.707,2.44,17.21,35800,3.6
+Idaho,Tapers,**,**,**,**,15.66,32570,4.5
+Idaho,Electricians,4580,6.4,6.303,1.34,24.7,51380,2.8
+Idaho,Glaziers,630,31.1,0.867,2.43,18.1,37660,5.8
+Idaho,"Insulation Workers, Floor, Ceiling, and Wall",270,39.2,0.377,1.65,14.34,29820,7.4
+Idaho,"Insulation Workers, Mechanical",50,40.1,0.072,0.4,16.96,35280,7.8
+Idaho,"Painters, Construction and Maintenance",2270,9,3.127,1.97,16.41,34130,3.3
+Idaho,Pipelayers,130,22.2,0.174,0.71,23.08,48000,7.2
+Idaho,"Plumbers, Pipefitters, and Steamfitters",1980,8.7,2.727,0.9,22.9,47620,4.9
+Idaho,Plasterers and Stucco Masons,150,42.1,0.211,1.13,18.16,37770,3.4
+Idaho,Reinforcing Iron and Rebar Workers,**,**,**,**,20.55,42740,5.7
+Idaho,Roofers,650,14.3,0.896,1.01,17.62,36650,4.6
+Idaho,Sheet Metal Workers,280,18.4,0.378,0.42,21.51,44740,3.1
+Idaho,Structural Iron and Steel Workers,290,30.9,0.397,0.76,18.64,38780,4.2
+Idaho,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",**,**,**,**,17.4,36190,15.1
+Idaho,Helpers--Carpenters,110,42.5,0.15,0.67,13.84,28780,6.5
+Idaho,Helpers--Electricians,**,**,**,**,20.63,42910,13.2
+Idaho,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",90,39.3,0.127,1.72,15.51,32260,6.3
+Idaho,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",70,46.2,0.095,0.24,12.07,25110,13.5
+Idaho,Helpers--Roofers,**,**,**,**,14.38,29910,11.1
+Idaho,Construction and Building Inspectors,350,3.9,0.48,0.64,26.97,56090,1.7
+Idaho,Elevator and Escalator Installers and Repairers,**,**,**,**,40.95,85180,5.1
+Idaho,Fence Erectors,**,**,**,**,13.15,27350,4.1
+Idaho,Hazardous Materials Removal Workers,480,15.3,0.664,2.2,29.84,62060,8.6
+Idaho,Highway Maintenance Workers,1100,9.2,1.514,1.47,20.56,42770,1.4
+Idaho,Rail-Track Laying and Maintenance Equipment Operators,**,**,**,**,23.87,49640,7.5
+Idaho,Septic Tank Servicers and Sewer Pipe Cleaners,210,22.2,0.288,1.42,15.53,32310,3.8
+Idaho,"Excavating and Loading Machine and Dragline Operators, Surface Mining",140,27.5,0.191,0.64,22.64,47080,2.9
+Idaho,Continuous Mining Machine Operators,450,26,0.623,6.25,28.98,60290,8.3
+Idaho,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",210,23.5,0.291,1.71,26.75,55640,7.4
+Idaho,"Installation, Maintenance, and Repair Occupations",31740,2.1,43.647,1.12,21.97,45690,0.9
+Idaho,"First-Line Supervisors of Mechanics, Installers, and Repairers",2430,4,3.344,1.01,29.65,61680,1.7
+Idaho,"Computer, Automated Teller, and Office Machine Repairers",390,17.5,0.533,0.8,21.51,44750,4.8
+Idaho,"Radio, Cellular, and Tower Equipment Installers and Repairers",**,**,**,**,19.74,41050,13.8
+Idaho,"Telecommunications Equipment Installers and Repairers, Except Line Installers",700,16.7,0.956,0.67,25.92,53900,5.3
+Idaho,Avionics Technicians,**,**,**,**,23.49,48850,5.3
+Idaho,"Electric Motor, Power Tool, and Related Repairers",170,49,0.239,2.21,22.6,47000,7.3
+Idaho,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",450,8.9,0.616,1.53,31.3,65110,2.6
+Idaho,"Electronic Equipment Installers and Repairers, Motor Vehicles",40,49.2,0.051,0.73,21.17,44020,14.1
+Idaho,Audiovisual Equipment Installers and Repairers,280,33.1,0.38,2.18,22.14,46050,7.2
+Idaho,Security and Fire Alarm Systems Installers,160,9.8,0.214,0.44,19.79,41160,3.2
+Idaho,Aircraft Mechanics and Service Technicians,770,14.9,1.06,1.17,26.3,54690,2.9
+Idaho,Automotive Body and Related Repairers,750,10.7,1.028,1.05,23.04,47930,5.4
+Idaho,Automotive Glass Installers and Repairers,150,29.1,0.208,1.57,18.94,39390,6.1
+Idaho,Automotive Service Technicians and Mechanics,3880,5.7,5.342,1.2,20.86,43390,1.9
+Idaho,Bus and Truck Mechanics and Diesel Engine Specialists,1850,8.6,2.542,1.4,21.32,44350,1.6
+Idaho,Farm Equipment Mechanics and Service Technicians,610,11.5,0.832,3.37,21.88,45520,2
+Idaho,"Mobile Heavy Equipment Mechanics, Except Engines",1040,15.5,1.434,1.42,23.82,49550,1.4
+Idaho,Rail Car Repairers,100,21.7,0.14,0.79,25.13,52280,2.3
+Idaho,Motorboat Mechanics and Service Technicians,90,48.9,0.129,0.83,15.23,31680,6.4
+Idaho,Motorcycle Mechanics,150,27.1,0.21,1.98,19.07,39670,4.8
+Idaho,Outdoor Power Equipment and Other Small Engine Mechanics,390,19,0.537,2.45,17.7,36820,4.2
+Idaho,Bicycle Repairers,230,38.3,0.322,3.58,12.78,26590,5.2
+Idaho,Recreational Vehicle Service Technicians,320,26.7,0.437,4.12,18.42,38310,3.2
+Idaho,Tire Repairers and Changers,1200,14.8,1.654,2.19,14.92,31040,3.2
+Idaho,Mechanical Door Repairers,**,**,**,**,18.7,38890,4.2
+Idaho,"Control and Valve Installers and Repairers, Except Mechanical Door",260,33.8,0.357,1,23.78,49470,11.2
+Idaho,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",2670,8.5,3.667,1.57,21.35,44410,3.1
+Idaho,Home Appliance Repairers,370,24,0.506,2.39,18.15,37740,8.2
+Idaho,Industrial Machinery Mechanics,1640,7.4,2.252,0.85,24.79,51570,2.8
+Idaho,"Maintenance Workers, Machinery",340,13.8,0.465,0.94,25.9,53860,5.1
+Idaho,Millwrights,340,13,0.469,1.46,26.47,55060,5.3
+Idaho,Electrical Power-Line Installers and Repairers,810,12.2,1.113,1.46,37.47,77930,5.5
+Idaho,Telecommunications Line Installers and Repairers,410,33.3,0.558,0.68,22.37,46520,4.9
+Idaho,Medical Equipment Repairers,90,22.9,0.13,0.41,21.64,45020,6.2
+Idaho,"Maintenance and Repair Workers, General",6690,3.6,9.203,0.95,18.46,38400,1.4
+Idaho,"Coin, Vending, and Amusement Machine Servicers and Repairers",280,17,0.384,1.8,17.78,36980,10
+Idaho,Locksmiths and Safe Repairers,40,19.6,0.05,0.43,16.59,34500,3.9
+Idaho,Manufactured Building and Mobile Home Installers,**,**,**,**,16.51,34330,2.7
+Idaho,"Helpers--Installation, Maintenance, and Repair Workers",540,13.4,0.74,1.09,15.09,31390,4
+Idaho,"Installation, Maintenance, and Repair Workers, All Other",670,21.7,0.919,0.84,19.64,40840,6.1
+Idaho,Production Occupations,50960,3.4,70.085,1.12,17.88,37190,1.2
+Idaho,First-Line Supervisors of Production and Operating Workers,3700,4.3,5.083,1.18,28.88,60080,1.3
+Idaho,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",160,7.3,0.22,0.75,17.24,35860,2.9
+Idaho,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",990,6.3,1.361,0.7,14.96,31110,2.2
+Idaho,Structural Metal Fabricators and Fitters,570,26.3,0.786,1.5,19.93,41440,4
+Idaho,Fiberglass Laminators and Fabricators,70,44.5,0.09,0.66,18.01,37460,5.6
+Idaho,Miscellaneous Assemblers and Fabricators,9540,8.5,13.117,1.4,14.77,30710,2.7
+Idaho,Bakers,1020,20,1.4,1.11,13.26,27570,2.6
+Idaho,Butchers and Meat Cutters,670,10.1,0.922,0.99,16.02,33320,1.8
+Idaho,"Meat, Poultry, and Fish Cutters and Trimmers",200,34.2,0.28,0.27,13.19,27440,3.5
+Idaho,Slaughterers and Meat Packers,350,7.5,0.486,0.97,10.99,22860,6.3
+Idaho,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",310,44.4,0.426,3.01,16.38,34080,3.7
+Idaho,Food Batchmakers,2370,18.9,3.257,3,15.86,32980,4
+Idaho,Food Cooking Machine Operators and Tenders,580,15,0.794,3.88,17.29,35970,7.8
+Idaho,"Food Processing Workers, All Other",160,19.9,0.216,0.74,17.84,37120,6.1
+Idaho,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",190,45.7,0.265,0.51,15.64,32540,7.1
+Idaho,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",40,10.2,0.051,0.23,14.28,29700,6.6
+Idaho,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",200,27.5,0.277,0.21,17.44,36280,4.2
+Idaho,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",240,28,0.325,0.62,14.13,29380,5.4
+Idaho,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",30,2.7,0.046,0.36,14.95,31100,5.7
+Idaho,Machinists,1470,12.2,2.023,0.77,21.69,45120,2.4
+Idaho,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",360,18.2,0.501,0.43,13.87,28850,3.7
+Idaho,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",70,40.4,0.102,0.1,18.11,37670,4.5
+Idaho,Tool and Die Makers,60,8.6,0.087,0.18,25.02,52030,3.9
+Idaho,"Welders, Cutters, Solderers, and Brazers",3270,7.6,4.5,1.61,18.71,38910,1.7
+Idaho,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",220,26.7,0.309,1.09,16.13,33560,6.5
+Idaho,"Tool Grinders, Filers, and Sharpeners",50,37.6,0.072,1.65,21.26,44220,2.5
+Idaho,Prepress Technicians and Workers,110,29.6,0.15,0.73,18.85,39210,3
+Idaho,Printing Press Operators,650,13.7,0.888,0.75,16.54,34410,3.8
+Idaho,Print Binding and Finishing Workers,130,22.4,0.185,0.59,16.74,34810,4.8
+Idaho,Laundry and Dry-Cleaning Workers,1090,14,1.504,1.06,11.22,23330,2.9
+Idaho,"Pressers, Textile, Garment, and Related Materials",150,30.4,0.202,0.78,11.38,23670,5.8
+Idaho,Sewing Machine Operators,320,14.2,0.44,0.48,12.73,26470,2.3
+Idaho,Shoe and Leather Workers and Repairers,50,42.2,0.064,1.08,13.11,27270,9.5
+Idaho,"Tailors, Dressmakers, and Custom Sewers",90,31.9,0.122,0.75,13.91,28940,5
+Idaho,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",60,12,0.089,0.42,16.79,34910,5.3
+Idaho,Upholsterers,120,43.5,0.171,0.85,17.85,37130,11.5
+Idaho,Cabinetmakers and Bench Carpenters,1290,12.3,1.768,2.61,17.42,36240,3
+Idaho,Furniture Finishers,40,10.1,0.061,0.55,16.25,33790,4.8
+Idaho,"Sawing Machine Setters, Operators, and Tenders, Wood",710,15.2,0.983,2.85,16.61,34540,3.4
+Idaho,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",560,29.5,0.772,1.44,16.03,33350,2.3
+Idaho,Power Distributors and Dispatchers,90,3.5,0.127,1.74,46.1,95890,4.1
+Idaho,Power Plant Operators,380,13.2,0.521,2.28,32.63,67870,7
+Idaho,Stationary Engineers and Boiler Operators,170,16.4,0.235,1.06,23.65,49200,4.9
+Idaho,Water and Wastewater Treatment Plant and System Operators,1450,5.8,1.988,2.36,22.09,45940,4.7
+Idaho,"Plant and System Operators, All Other",60,11.1,0.085,0.96,26.44,54990,8.9
+Idaho,Chemical Equipment Operators and Tenders,700,18,0.959,1.62,26.32,54740,7.2
+Idaho,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",560,19.3,0.775,2.22,17.97,37380,5.1
+Idaho,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",320,29.4,0.445,1.96,20.9,43470,5.2
+Idaho,"Mixing and Blending Machine Setters, Operators, and Tenders",760,14.4,1.04,1.22,15.82,32910,3.7
+Idaho,"Cutting and Slicing Machine Setters, Operators, and Tenders",230,20.9,0.318,0.8,19.83,41250,4.7
+Idaho,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",80,5.4,0.116,0.24,22.95,47740,5.1
+Idaho,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",100,24.1,0.132,1.02,20.4,42430,3.2
+Idaho,"Inspectors, Testers, Sorters, Samplers, and Weighers",2130,6.1,2.933,0.75,18.8,39100,2.9
+Idaho,Jewelers and Precious Stone and Metal Workers,**,**,**,**,19.38,40300,6.6
+Idaho,Dental Laboratory Technicians,310,17.9,0.424,1.81,22.72,47260,7.2
+Idaho,Ophthalmic Laboratory Technicians,**,**,**,**,17.31,36010,10.4
+Idaho,Packaging and Filling Machine Operators and Tenders,4210,11.5,5.793,2.18,16.44,34200,2.5
+Idaho,"Painting, Coating, and Decorating Workers",40,24.9,0.058,0.68,16.39,34090,4.4
+Idaho,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",560,15.8,0.773,0.78,17.85,37120,4.9
+Idaho,Photographic Process Workers and Processing Machine Operators,**,**,**,**,17.68,36780,7
+Idaho,Computer Numerically Controlled Tool Operators,390,14.4,0.53,0.51,18.84,39190,4.1
+Idaho,Computer Numerically Controlled Tool Programmers,70,13.6,0.1,0.58,34.59,71940,22.2
+Idaho,Cooling and Freezing Equipment Operators and Tenders,80,44.3,0.114,1.91,13.84,28790,10.4
+Idaho,Etchers and Engravers,**,**,**,**,11.55,24020,6.9
+Idaho,"Molders, Shapers, and Casters, Except Metal and Plastic",110,33.4,0.148,0.48,14.31,29770,5.6
+Idaho,"Paper Goods Machine Setters, Operators, and Tenders",300,28.5,0.411,0.6,22.93,47700,11.3
+Idaho,Helpers--Production Workers,2890,14.7,3.968,1.92,16.23,33760,2.8
+Idaho,"Production Workers, All Other",1000,24.8,1.381,0.91,14.78,30730,4.9
+Idaho,Transportation and Material Moving Occupations,56670,2.7,77.938,0.91,16.93,35220,1.3
+Idaho,Aircraft Cargo Handling Supervisors,50,48.9,0.069,1.06,29.92,62230,4.4
+Idaho,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",1520,8.4,2.096,0.68,26.17,54440,1.9
+Idaho,"Airline Pilots, Copilots, and Flight Engineers",60,25.2,0.086,0.15,*,104260,6.6
+Idaho,Commercial Pilots,240,22.3,0.33,1.28,*,80440,3.5
+Idaho,Air Traffic Controllers,60,0,0.083,0.55,45.82,95300,2.1
+Idaho,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",30,17.4,0.046,0.46,11.67,24280,3.6
+Idaho,Driver/Sales Workers,2940,16.6,4.047,1.34,14.1,29330,5.9
+Idaho,Heavy and Tractor-Trailer Truck Drivers,12750,4.9,17.529,1.39,21,43680,2.4
+Idaho,Light Truck Drivers,4870,6.5,6.697,1.07,17.5,36400,2.7
+Idaho,"Bus Drivers, Transit and Intercity",410,17,0.568,0.46,16.8,34940,4.4
+Idaho,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",3240,14.9,4.46,0.94,13.97,29060,1.9
+Idaho,"Motor Vehicle Operators, All Other",50,19.8,0.062,0.16,15.12,31450,8
+Idaho,Locomotive Engineers,160,15.9,0.217,0.9,32.48,67550,3
+Idaho,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",50,21.3,0.072,0.95,27.02,56200,5.3
+Idaho,Railroad Conductors and Yardmasters,240,18.1,0.33,1.06,27.39,56980,4.3
+Idaho,Parking Attendants,80,31.9,0.116,0.12,10.9,22670,4.6
+Idaho,Automotive and Watercraft Service Attendants,650,10.4,0.894,1.12,12.37,25720,3.1
+Idaho,Transportation Inspectors,110,17,0.153,0.75,38.36,79780,4.4
+Idaho,Passenger Attendants,**,**,**,**,13.96,29040,3.8
+Idaho,"Aircraft Service Attendants and Transportation Workers, All Other",380,13.2,0.524,2.2,20.57,42780,2.1
+Idaho,Conveyor Operators and Tenders,90,24.8,0.12,0.73,18.75,39010,5.6
+Idaho,Crane and Tower Operators,160,41.3,0.226,0.73,27.87,57960,2
+Idaho,Industrial Truck and Tractor Operators,2070,7.3,2.849,0.67,17.78,36970,1.9
+Idaho,Cleaners of Vehicles and Equipment,2520,5.2,3.467,1.33,13.11,27260,2.1
+Idaho,"Laborers and Freight, Stock, and Material Movers, Hand",10190,4.8,14.011,0.7,15.29,31810,2.6
+Idaho,Machine Feeders and Offbearers,210,21.7,0.284,0.66,16.81,34970,4.4
+Idaho,"Packers and Packagers, Hand",2620,26.5,3.609,0.84,12.27,25530,2.6
+Idaho,Stockers and Order Fillers,10110,6.5,13.91,0.96,13.84,28790,1.1
+Idaho,Refuse and Recyclable Material Collectors,500,10.5,0.69,0.84,17.85,37120,3

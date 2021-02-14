@@ -1,0 +1,724 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Oklahoma,All Occupations,1617390,0.5,1000,1,21.93,45620,0.5
+Oklahoma,Management Occupations,83760,1.2,51.784,0.94,48.85,101600,0.7
+Oklahoma,Chief Executives,3070,4.5,1.899,1.35,75.77,157590,3
+Oklahoma,General and Operations Managers,23950,2,14.807,0.91,50.8,105670,1.1
+Oklahoma,Legislators,870,13.4,0.537,1.51,*,56530,12.7
+Oklahoma,Advertising and Promotions Managers,120,15.3,0.076,0.45,45.16,93920,3.7
+Oklahoma,Marketing Managers,1260,4.5,0.779,0.43,59.53,123820,2.2
+Oklahoma,Sales Managers,2670,5.8,1.652,0.6,54.28,112890,2.7
+Oklahoma,Public Relations and Fundraising Managers,420,5.1,0.258,0.48,51.68,107490,3.6
+Oklahoma,Administrative Services and Facilities Managers,6860,4.2,4.243,2.03,45.83,95320,1.5
+Oklahoma,Computer and Information Systems Managers,3630,3.2,2.246,0.76,56.49,117490,1.7
+Oklahoma,Financial Managers,6130,3.1,3.788,0.85,56.74,118020,1.7
+Oklahoma,Industrial Production Managers,1820,4.5,1.126,0.89,53.28,110830,1.5
+Oklahoma,Purchasing Managers,530,4.4,0.326,0.67,51.46,107040,2.1
+Oklahoma,"Transportation, Storage, and Distribution Managers",1440,17,0.89,0.99,41.71,86750,1.7
+Oklahoma,Compensation and Benefits Managers,140,11.1,0.089,0.77,51.95,108050,3.8
+Oklahoma,Human Resources Managers,1360,3,0.839,0.8,49.37,102690,1.6
+Oklahoma,Training and Development Managers,390,7.5,0.241,0.92,44.27,92080,2.5
+Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",130,10.8,0.08,2.33,28.42,59120,3.3
+Oklahoma,Construction Managers,2710,8.7,1.676,0.84,43.11,89670,4.5
+Oklahoma,"Education and Childcare Administrators, Preschool and Daycare",730,9.9,0.449,1.26,20.73,43130,3
+Oklahoma,"Education Administrators, Kindergarten through Secondary",3290,2.3,2.035,1.1,*,74850,1.3
+Oklahoma,"Education Administrators, Postsecondary",1650,6.2,1.02,1.03,50.58,105200,4.6
+Oklahoma,"Education Administrators, All Other",310,12.3,0.19,0.63,36.98,76910,4.9
+Oklahoma,Architectural and Engineering Managers,2390,4.7,1.475,1.12,70.01,145630,2.4
+Oklahoma,Food Service Managers,3430,7.3,2.121,1.32,25.71,53480,2.3
+Oklahoma,Gambling Managers,350,12.2,0.218,7.21,32.24,67070,3.1
+Oklahoma,Lodging Managers,450,15,0.28,1.07,26.06,54210,5.6
+Oklahoma,Medical and Health Services Managers,6540,2.8,4.041,1.5,45.41,94460,2.7
+Oklahoma,Natural Sciences Managers,310,9.7,0.189,0.41,62.78,130590,3.7
+Oklahoma,Postmasters and Mail Superintendents,240,0,0.15,1.59,38.44,79960,0.6
+Oklahoma,"Property, Real Estate, and Community Association Managers",**,**,**,**,42.32,88030,5.4
+Oklahoma,Social and Community Service Managers,1120,5.4,0.69,0.65,30.51,63460,2.1
+Oklahoma,Emergency Management Directors,230,15.7,0.144,2.1,26.29,54680,2.7
+Oklahoma,Funeral Home Managers,160,22.6,0.098,1.54,33.11,68860,7.7
+Oklahoma,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",2210,5.2,1.368,0.43,49.22,102370,2.6
+Oklahoma,Business and Financial Operations Occupations,76500,1.5,47.301,0.85,31.96,66470,0.9
+Oklahoma,Buyers and Purchasing Agents,5170,4,3.195,1.11,30.08,62570,1.3
+Oklahoma,"Claims Adjusters, Examiners, and Investigators",3710,4.9,2.294,1.17,30.47,63380,2.1
+Oklahoma,"Insurance Appraisers, Auto Damage",100,42.9,0.061,0.65,31.36,65230,3.1
+Oklahoma,Compliance Officers,4130,4.3,2.552,1.18,28.22,58690,1.9
+Oklahoma,Cost Estimators,2270,8.5,1.403,0.98,31.18,64850,4.4
+Oklahoma,Human Resources Specialists,7130,2,4.41,1.02,27.2,56570,1.6
+Oklahoma,Labor Relations Specialists,320,12.9,0.197,0.38,20.77,43210,13.4
+Oklahoma,Logisticians,3290,4.9,2.032,1.64,35.52,73880,2.1
+Oklahoma,Management Analysts,4610,4.9,2.852,0.59,38.52,80130,1.9
+Oklahoma,"Meeting, Convention, and Event Planners",980,13.3,0.607,0.76,21.31,44330,5.1
+Oklahoma,Fundraisers,570,8,0.354,0.64,27.67,57560,2.5
+Oklahoma,"Compensation, Benefits, and Job Analysis Specialists",910,4.8,0.563,0.93,26.26,54610,2.6
+Oklahoma,Training and Development Specialists,4850,10.4,2.998,1.41,26.17,54430,2
+Oklahoma,Market Research Analysts and Marketing Specialists,5250,3.7,3.244,0.7,28.27,58800,1.8
+Oklahoma,"Project Management Specialists and Business Operations Specialists, All Other",6270,3.6,3.879,0.45,36.61,76150,1.8
+Oklahoma,Accountants and Auditors,14020,3,8.666,0.99,35.64,74130,2.9
+Oklahoma,Property Appraisers and Assessors,700,11.3,0.433,1.13,25.08,52160,6.9
+Oklahoma,Budget Analysts,760,2.9,0.472,1.35,35.36,73550,1.8
+Oklahoma,Credit Analysts,680,14.7,0.42,0.83,28.69,59680,4.3
+Oklahoma,Personal Financial Advisors,1270,12.5,0.783,0.55,41.89,87130,12.3
+Oklahoma,Insurance Underwriters,740,13.1,0.458,0.67,30.09,62580,4.1
+Oklahoma,Financial Examiners,450,10.3,0.28,0.64,36.07,75020,4.4
+Oklahoma,Credit Counselors,530,14.1,0.327,1.5,22.61,47030,3.6
+Oklahoma,Loan Officers,3940,5,2.437,1.16,35.96,74810,2.8
+Oklahoma,"Tax Examiners and Collectors, and Revenue Agents",400,9.2,0.246,0.67,23.93,49770,2.2
+Oklahoma,Tax Preparers,980,18.9,0.603,1.33,20.38,42380,6.1
+Oklahoma,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",2460,4.3,1.519,0.49,35.12,73050,1.9
+Oklahoma,Computer and Mathematical Occupations,31950,2.8,19.754,0.64,34.83,72450,0.9
+Oklahoma,Computer Systems Analysts,3190,8.3,1.973,0.49,37.34,77660,2.4
+Oklahoma,Information Security Analysts,950,5.8,0.586,0.69,39.37,81900,1.6
+Oklahoma,Computer and Information Research Scientists,270,0.2,0.168,0.8,39.78,82740,2.1
+Oklahoma,Computer Network Support Specialists,2240,12.1,1.388,1.1,30.32,63060,2.3
+Oklahoma,Computer User Support Specialists,6550,3.5,4.049,0.92,22.7,47220,1.1
+Oklahoma,Computer Network Architects,950,10,0.59,0.57,42.2,87770,3.1
+Oklahoma,Network and Computer Systems Administrators,2720,4.2,1.68,0.7,36.57,76060,1.8
+Oklahoma,Database Administrators and Architects,1930,9.4,1.193,1.4,35.31,73450,2.1
+Oklahoma,Computer Programmers,1360,9.5,0.843,0.62,39.49,82150,2.3
+Oklahoma,Software Developers and Software Quality Assurance Analysts and Testers,7370,5.8,4.558,0.48,42.18,87740,1.7
+Oklahoma,Web Developers and Digital Interface Designers,630,10,0.389,0.39,30.21,62840,3.5
+Oklahoma,"Computer Occupations, All Other",2500,3.8,1.547,0.58,36.08,75050,3.1
+Oklahoma,Operations Research Analysts,660,12.1,0.41,0.6,36.74,76420,2
+Oklahoma,Statisticians,260,8.8,0.162,0.61,34.85,72480,3.4
+Oklahoma,"Data Scientists and Mathematical Science Occupations, All Other",300,17.5,0.185,0.88,35.19,73190,2.2
+Oklahoma,Architecture and Engineering Occupations,30580,4.6,18.91,1.07,40.48,84200,1.2
+Oklahoma,"Architects, Except Landscape and Naval",850,18.2,0.523,0.73,35.41,73660,4.6
+Oklahoma,Landscape Architects,**,**,**,**,24.45,50860,5.2
+Oklahoma,Cartographers and Photogrammetrists,110,19.1,0.065,0.85,28.26,58770,4.9
+Oklahoma,Surveyors,750,23.1,0.464,1.51,28.85,60010,4.5
+Oklahoma,Aerospace Engineers,1660,17.3,1.026,2.38,47.33,98450,1.6
+Oklahoma,Bioengineers and Biomedical Engineers,40,22.7,0.027,0.2,33.92,70560,3.7
+Oklahoma,Chemical Engineers,310,7.7,0.194,0.95,55.37,115180,4.9
+Oklahoma,Civil Engineers,2250,5.6,1.39,0.66,48.05,99950,3
+Oklahoma,Computer Hardware Engineers,300,12.5,0.183,0.4,55.34,115100,9
+Oklahoma,Electrical Engineers,1750,11.7,1.082,0.86,47.22,98230,1.4
+Oklahoma,"Electronics Engineers, Except Computer",1880,6,1.164,1.33,43.65,90800,1.6
+Oklahoma,Environmental Engineers,970,5.1,0.599,1.66,39.42,81990,3.7
+Oklahoma,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",770,11.2,0.475,2.7,43.88,91270,2.7
+Oklahoma,Industrial Engineers,1950,8.1,1.207,0.61,41.53,86380,1.8
+Oklahoma,Materials Engineers,310,9.4,0.194,1.06,44.95,93490,2.1
+Oklahoma,Mechanical Engineers,2590,8.3,1.599,0.76,43.71,90920,2
+Oklahoma,"Mining and Geological Engineers, Including Mining Safety Engineers",250,47.7,0.152,3.56,*,*,*
+Oklahoma,Petroleum Engineers,1910,7.9,1.18,5.31,68.82,143140,4.3
+Oklahoma,"Engineers, All Other",2400,23.2,1.482,1.43,40.33,83890,3.9
+Oklahoma,Architectural and Civil Drafters,1530,9.9,0.949,1.41,26.35,54800,2.3
+Oklahoma,Electrical and Electronics Drafters,370,11.2,0.226,1.38,31.45,65420,4.3
+Oklahoma,Mechanical Drafters,910,8.7,0.561,1.49,29.68,61740,1.6
+Oklahoma,Aerospace Engineering and Operations Technologists and Technicians,90,10.6,0.054,0.68,33.96,70630,2.9
+Oklahoma,Civil Engineering Technologists and Technicians,680,6.9,0.421,0.9,25.2,52420,2.4
+Oklahoma,Electrical and Electronic Engineering Technologists and Technicians,1510,11.6,0.934,1.12,31.71,65960,2.2
+Oklahoma,Electro-Mechanical and Mechatronics Technologists and Technicians,90,11.8,0.058,0.59,31.83,66200,3.6
+Oklahoma,Environmental Engineering Technologists and Technicians,370,19.8,0.228,1.86,25.14,52300,2.3
+Oklahoma,Industrial Engineering Technologists and Technicians,830,15.4,0.516,1.13,32.07,66700,2
+Oklahoma,Mechanical Engineering Technologists and Technicians,410,9.7,0.253,0.87,28.27,58800,3
+Oklahoma,Surveying and Mapping Technicians,930,11.9,0.576,1.6,21.43,44580,3.7
+Oklahoma,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1600,7.7,0.988,1.64,30.44,63320,2.3
+Oklahoma,"Life, Physical, and Social Science Occupations",12260,4.1,7.582,0.86,34.53,71830,3.4
+Oklahoma,Animal Scientists,50,4,0.031,1.68,20.46,42560,10.6
+Oklahoma,Food Scientists and Technologists,100,13.9,0.06,0.65,26.6,55330,5.8
+Oklahoma,Soil and Plant Scientists,210,11.6,0.13,1.35,22.72,47250,6.3
+Oklahoma,Biochemists and Biophysicists,140,27.2,0.089,0.42,*,*,*
+Oklahoma,Microbiologists,160,39.2,0.1,0.81,23.94,49790,3.8
+Oklahoma,Zoologists and Wildlife Biologists,90,5.4,0.056,0.43,26.89,55920,2
+Oklahoma,"Biological Scientists, All Other",350,8.2,0.214,0.78,32.05,66670,1.1
+Oklahoma,Conservation Scientists,200,11.3,0.124,0.82,30.57,63580,1.7
+Oklahoma,Foresters,40,0,0.023,0.35,22.84,47500,1.6
+Oklahoma,Epidemiologists,70,3.3,0.043,0.85,33.33,69330,2.1
+Oklahoma,"Medical Scientists, Except Epidemiologists",490,28.8,0.303,0.35,*,*,*
+Oklahoma,"Life Scientists, All Other",30,4.9,0.019,0.43,22.22,46210,18.5
+Oklahoma,Physicists,40,20.8,0.023,0.2,83.36,173400,6.9
+Oklahoma,Atmospheric and Space Scientists,350,3.6,0.219,3.46,39.66,82490,4.7
+Oklahoma,Chemists,400,5.7,0.248,0.44,40.92,85120,5.2
+Oklahoma,Materials Scientists,40,16.2,0.028,0.61,35.41,73650,8.5
+Oklahoma,"Environmental Scientists and Specialists, Including Health",490,8.3,0.3,0.52,33.69,70080,2.8
+Oklahoma,"Geoscientists, Except Hydrologists and Geographers",930,11.8,0.574,2.89,69.6,144770,7.8
+Oklahoma,Hydrologists,50,12.5,0.028,0.64,40.56,84370,5.6
+Oklahoma,"Physical Scientists, All Other",110,29.9,0.069,0.57,43.47,90420,4.1
+Oklahoma,Economists,**,**,**,**,38.91,80940,4.9
+Oklahoma,"Clinical, Counseling, and School Psychologists",990,22.3,0.614,0.8,31.92,66400,5.5
+Oklahoma,Industrial-Organizational Psychologists,**,**,**,**,30.05,62490,7.4
+Oklahoma,"Psychologists, All Other",120,3.3,0.072,0.74,40.34,83920,1.5
+Oklahoma,Urban and Regional Planners,220,8.8,0.133,0.51,30.19,62790,2.4
+Oklahoma,Anthropologists and Archeologists,120,47.6,0.076,1.66,27.52,57230,5.2
+Oklahoma,Historians,50,12.2,0.03,1.43,29.55,61460,4.2
+Oklahoma,"Social Scientists and Related Workers, All Other",160,3.8,0.099,0.43,36.88,76700,2.3
+Oklahoma,Agricultural and Food Science Technicians,210,17.6,0.129,0.87,15.76,32790,3
+Oklahoma,Biological Technicians,520,2.9,0.323,0.6,20.44,42520,1.8
+Oklahoma,Chemical Technicians,800,6,0.492,1.1,27.46,57110,3.4
+Oklahoma,"Environmental Science and Protection Technicians, Including Health",300,16.3,0.185,0.83,22.08,45920,2.7
+Oklahoma,Geological and Hydrologic Technicians,1030,12.4,0.636,5.46,31.25,64990,6.2
+Oklahoma,Social Science Research Assistants,150,7.2,0.093,0.38,19.13,39790,5.2
+Oklahoma,Forest and Conservation Technicians,110,7.2,0.065,0.5,22.44,46670,1.1
+Oklahoma,Forensic Science Technicians,210,1.3,0.127,1.13,26.86,55880,1.9
+Oklahoma,"Life, Physical, and Social Science Technicians, All Other",1160,9.2,0.718,1.64,27.62,57440,9.1
+Oklahoma,Occupational Health and Safety Specialists,1350,7,0.833,1.32,33.51,69700,2.1
+Oklahoma,Occupational Health and Safety Technicians,190,41.5,0.119,0.85,22.1,45960,5.3
+Oklahoma,Community and Social Service Occupations,23650,2.2,14.62,0.96,20.66,42980,1.7
+Oklahoma,"Educational, Guidance, and Career Counselors and Advisors",3580,4.8,2.213,1.1,22.34,46480,2
+Oklahoma,Marriage and Family Therapists,570,23.2,0.352,0.88,30.79,64040,5.3
+Oklahoma,Rehabilitation Counselors,1860,9.1,1.149,1.55,14.85,30880,8.9
+Oklahoma,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",3530,5.4,2.182,1.13,22.84,47510,3.3
+Oklahoma,"Counselors, All Other",130,47.9,0.079,0.46,19.33,40200,18.9
+Oklahoma,"Child, Family, and School Social Workers",5930,3,3.666,1.64,18.08,37610,1.3
+Oklahoma,Healthcare Social Workers,1860,5.2,1.151,0.97,24.63,51220,2.7
+Oklahoma,Mental Health and Substance Abuse Social Workers,1280,7,0.789,0.98,19.44,40430,3.3
+Oklahoma,"Social Workers, All Other",510,1.7,0.317,0.8,26.15,54390,3.6
+Oklahoma,Health Education Specialists,770,7.1,0.477,1.19,28.36,58980,2.7
+Oklahoma,Probation Officers and Correctional Treatment Specialists,1020,3.4,0.629,1.05,18.73,38960,1.7
+Oklahoma,Social and Human Service Assistants,1190,6.4,0.735,0.27,14.89,30970,1.9
+Oklahoma,Community Health Workers,710,19.6,0.441,1.1,21.71,45150,4.6
+Oklahoma,"Community and Social Service Specialists, All Other",170,20.7,0.105,0.16,16.36,34030,9.2
+Oklahoma,Clergy,410,10.2,0.256,0.71,23.28,48420,1.8
+Oklahoma,"Directors, Religious Activities and Education",50,16.5,0.032,0.22,34.34,71420,8.8
+Oklahoma,"Religious Workers, All Other",80,35.7,0.047,0.73,11.32,23540,6
+Oklahoma,Legal Occupations,12310,5.2,7.614,0.97,42.35,88080,5.5
+Oklahoma,Lawyers,6640,10.7,4.104,0.92,55.9,116270,6.3
+Oklahoma,Judicial Law Clerks,40,22.7,0.027,0.23,28,58240,3.5
+Oklahoma,"Administrative Law Judges, Adjudicators, and Hearing Officers",140,0,0.087,0.89,48.1,100050,1.3
+Oklahoma,"Arbitrators, Mediators, and Conciliators",70,29.7,0.042,1.01,26.7,55540,3.4
+Oklahoma,"Judges, Magistrate Judges, and Magistrates",880,1.7,0.545,2.79,35.77,74400,1.6
+Oklahoma,Paralegals and Legal Assistants,2510,9.7,1.555,0.69,22.57,46950,2.4
+Oklahoma,"Title Examiners, Abstractors, and Searchers",1880,14.2,1.161,3.23,25.96,54000,4.4
+Oklahoma,"Legal Support Workers, All Other",150,0.7,0.094,0.3,23.98,49880,1.9
+Oklahoma,Educational Instruction and Library Occupations,97300,2.1,60.159,0.99,20.61,42860,1.9
+Oklahoma,"Business Teachers, Postsecondary",980,12.6,0.605,1.06,*,77280,2.7
+Oklahoma,"Computer Science Teachers, Postsecondary",320,9.2,0.201,0.93,*,67990,2.9
+Oklahoma,"Mathematical Science Teachers, Postsecondary",530,7,0.331,0.95,*,61100,2
+Oklahoma,"Architecture Teachers, Postsecondary",120,1.6,0.073,1.58,*,74100,1.6
+Oklahoma,"Engineering Teachers, Postsecondary",500,4.5,0.31,1.26,*,94100,3
+Oklahoma,"Agricultural Sciences Teachers, Postsecondary",110,0,0.066,1.03,*,86360,1.9
+Oklahoma,"Biological Science Teachers, Postsecondary",550,2.7,0.339,0.94,*,77510,2.1
+Oklahoma,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",80,7.3,0.052,0.69,*,83960,2.8
+Oklahoma,"Chemistry Teachers, Postsecondary",190,7.6,0.12,0.82,*,65230,2.8
+Oklahoma,"Environmental Science Teachers, Postsecondary",70,16.4,0.043,1.04,*,72300,7
+Oklahoma,"Physics Teachers, Postsecondary",100,8.5,0.059,0.63,*,83790,3.3
+Oklahoma,"Economics Teachers, Postsecondary",120,0.1,0.076,0.85,*,*,*
+Oklahoma,"Geography Teachers, Postsecondary",50,21.2,0.034,1.24,*,62080,5.7
+Oklahoma,"Political Science Teachers, Postsecondary",140,8.3,0.086,0.8,*,67000,3.1
+Oklahoma,"Psychology Teachers, Postsecondary",390,3.8,0.244,0.96,*,59230,1.7
+Oklahoma,"Sociology Teachers, Postsecondary",130,18.8,0.081,0.85,*,61150,2.8
+Oklahoma,"Social Sciences Teachers, Postsecondary, All Other",250,41.1,0.154,1.34,*,43820,2.1
+Oklahoma,"Health Specialties Teachers, Postsecondary",1210,10.9,0.75,0.55,*,72040,2.7
+Oklahoma,"Nursing Instructors and Teachers, Postsecondary",520,6.6,0.321,0.79,*,58440,2.1
+Oklahoma,"Education Teachers, Postsecondary",560,0.9,0.347,0.83,*,54110,1.2
+Oklahoma,"Library Science Teachers, Postsecondary",110,4.1,0.068,2.26,*,65300,2.7
+Oklahoma,"Criminal Justice and Law Enforcement Teachers, Postsecondary",70,5.4,0.044,0.46,*,51550,2.7
+Oklahoma,"Law Teachers, Postsecondary",190,5.9,0.118,1.07,*,83240,6
+Oklahoma,"Social Work Teachers, Postsecondary",90,0,0.056,0.6,*,48930,1.7
+Oklahoma,"Art, Drama, and Music Teachers, Postsecondary",860,1.1,0.529,0.83,*,52320,1.5
+Oklahoma,"Communications Teachers, Postsecondary",320,6,0.2,1.01,*,52350,3.4
+Oklahoma,"English Language and Literature Teachers, Postsecondary",640,10.5,0.396,0.86,*,51240,2.1
+Oklahoma,"Foreign Language and Literature Teachers, Postsecondary",150,3.2,0.094,0.55,*,54050,1.9
+Oklahoma,"History Teachers, Postsecondary",200,1.1,0.126,0.88,*,62100,2.6
+Oklahoma,"Philosophy and Religion Teachers, Postsecondary",310,21.2,0.191,1.19,*,59310,2.4
+Oklahoma,"Family and Consumer Sciences Teachers, Postsecondary",70,3.4,0.042,2.9,*,65850,2.2
+Oklahoma,"Recreation and Fitness Studies Teachers, Postsecondary",150,7.8,0.093,0.86,*,46270,2.2
+Oklahoma,"Career/Technical Education Teachers, Postsecondary",2400,6.1,1.481,1.94,26.7,55530,2.9
+Oklahoma,"Postsecondary Teachers, All Other",1640,2.1,1.011,0.74,*,70690,1.7
+Oklahoma,"Preschool Teachers, Except Special Education",7210,6.5,4.458,1.52,14.57,30300,3.3
+Oklahoma,"Kindergarten Teachers, Except Special Education",2060,3.3,1.272,1.5,*,45360,2.7
+Oklahoma,"Elementary School Teachers, Except Special Education",17980,3.4,11.114,1.14,*,45970,2.7
+Oklahoma,"Middle School Teachers, Except Special and Career/Technical Education",8320,5.4,5.142,1.21,*,46360,2
+Oklahoma,"Career/Technical Education Teachers, Middle School",190,23.6,0.115,1.43,*,48870,7.2
+Oklahoma,"Secondary School Teachers, Except Special and Career/Technical Education",11680,2.8,7.22,1.02,*,47320,1.9
+Oklahoma,"Career/Technical Education Teachers, Secondary School",760,7.1,0.47,0.93,*,50200,1.6
+Oklahoma,"Special Education Teachers, Preschool",110,15.5,0.065,0.43,*,39640,3.1
+Oklahoma,"Special Education Teachers, Kindergarten and Elementary School",2270,4.3,1.402,1.06,*,49970,3.3
+Oklahoma,"Special Education Teachers, Middle School",1080,6.2,0.667,1.14,*,50180,3.2
+Oklahoma,"Special Education Teachers, Secondary School",1400,4.4,0.867,0.89,*,49850,2.4
+Oklahoma,"Special Education Teachers, All Other",100,28.4,0.06,0.25,*,41100,4.5
+Oklahoma,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",620,18.1,0.384,1.08,20.9,43480,2.2
+Oklahoma,Self-Enrichment Teachers,1530,12.9,0.947,0.55,19.84,41270,7.2
+Oklahoma,"Substitute Teachers, Short-Term",6330,3.5,3.916,0.98,11.23,23350,7.2
+Oklahoma,"Tutors and Teachers and Instructors, All Other",2400,11.8,1.482,0.68,*,43670,5.3
+Oklahoma,Archivists,80,18.4,0.047,1.05,19.93,41450,3.6
+Oklahoma,Curators,150,12.6,0.094,1.07,24.59,51160,2.7
+Oklahoma,Museum Technicians and Conservators,140,19.6,0.087,0.97,16.76,34860,3.3
+Oklahoma,Librarians and Media Collections Specialists,1700,7.2,1.053,1.14,23.34,48550,2.5
+Oklahoma,Library Technicians,890,9.8,0.547,0.91,14.35,29850,3.6
+Oklahoma,Farm and Home Management Educators,190,19.4,0.117,1.97,21.59,44920,5.6
+Oklahoma,Instructional Coordinators,1400,3.5,0.864,0.72,28.36,59000,1.8
+Oklahoma,"Teaching Assistants, Postsecondary",1550,3.1,0.958,1.02,*,27370,5.1
+Oklahoma,"Teaching Assistants, Except Postsecondary",12610,3.9,7.797,0.85,*,21420,2
+Oklahoma,"Educational Instruction and Library Workers, All Other",330,3.7,0.205,0.23,18.88,39270,2.6
+Oklahoma,"Arts, Design, Entertainment, Sports, and Media Occupations",15250,4.2,9.428,0.69,22.06,45880,1.6
+Oklahoma,Art Directors,190,23.9,0.115,0.4,36.22,75350,3.9
+Oklahoma,Craft Artists,**,**,**,**,17.57,36550,4.8
+Oklahoma,Special Effects Artists and Animators,100,29.1,0.059,0.29,28.62,59530,8.5
+Oklahoma,"Artists and Related Workers, All Other",**,**,**,**,15.31,31840,4.1
+Oklahoma,Commercial and Industrial Designers,180,20.7,0.109,0.49,33.08,68800,4.5
+Oklahoma,Floral Designers,500,27.4,0.307,1.08,12.12,25200,2.7
+Oklahoma,Graphic Designers,1610,10.6,0.997,0.68,20.1,41800,3.3
+Oklahoma,Interior Designers,520,13.9,0.319,0.77,22.06,45890,5.9
+Oklahoma,Merchandise Displayers and Window Trimmers,1430,18.9,0.887,0.92,15.12,31440,2.4
+Oklahoma,Set and Exhibit Designers,40,15.1,0.024,0.3,19,39520,3.4
+Oklahoma,Actors,50,27.5,0.033,0.09,15.03,*,16.3
+Oklahoma,Producers and Directors,580,9.6,0.357,0.41,28.38,59020,3.2
+Oklahoma,Athletes and Sports Competitors,270,36.1,0.167,2.17,*,*,*
+Oklahoma,Coaches and Scouts,2200,10.1,1.362,0.83,*,43770,6.7
+Oklahoma,"Umpires, Referees, and Other Sports Officials",110,22.4,0.067,0.49,*,33290,16.1
+Oklahoma,Music Directors and Composers,150,28.8,0.09,1.25,18.69,38870,9.4
+Oklahoma,Musicians and Singers,210,16.5,0.128,0.46,30.11,*,27.1
+Oklahoma,Broadcast Announcers and Radio Disc Jockeys,370,16.3,0.231,1.16,17.53,36470,9
+Oklahoma,"News Analysts, Reporters, and Journalists",530,10,0.33,1.1,21.33,44370,4.9
+Oklahoma,Public Relations Specialists,1630,4.7,1.006,0.6,27.93,58100,1.9
+Oklahoma,Editors,820,25.4,0.506,0.78,24.79,51570,2.7
+Oklahoma,Technical Writers,630,9.4,0.39,1.13,29.58,61520,2.1
+Oklahoma,Writers and Authors,360,22.7,0.221,0.71,22.53,46860,4.1
+Oklahoma,Interpreters and Translators,500,4,0.311,0.78,17.73,36880,6.1
+Oklahoma,"Media and Communication Workers, All Other",50,40.1,0.03,0.18,15.58,32400,5.5
+Oklahoma,Audio and Video Technicians,600,23.8,0.373,0.74,21.71,45160,5.4
+Oklahoma,Broadcast Technicians,240,17.3,0.147,0.75,16.43,34180,4.3
+Oklahoma,Sound Engineering Technicians,110,24.6,0.069,0.79,27.11,56390,8.6
+Oklahoma,Photographers,390,17.7,0.243,0.71,15.27,31760,4.8
+Oklahoma,"Camera Operators, Television, Video, and Film",320,20.6,0.201,1.37,24.37,50690,7.9
+Oklahoma,Film and Video Editors,120,12.1,0.075,0.4,19.59,40750,4.4
+Oklahoma,"Lighting Technicians and Media and Communication Equipment Workers, All Other",60,0,0.035,0.22,33.35,69360,1.6
+Oklahoma,Healthcare Practitioners and Technical Occupations,99790,2,61.695,1.04,35.04,72880,1.9
+Oklahoma,Chiropractors,420,12.5,0.26,1.09,51.54,107210,26.1
+Oklahoma,"Dentists, General",1090,16.1,0.675,0.89,83.59,173860,8.7
+Oklahoma,Orthodontists,130,40.6,0.083,2.04,123.52,256930,19.9
+Oklahoma,"Dentists, All Other Specialists",60,0,0.04,1.1,56.8,118150,2.3
+Oklahoma,Dietitians and Nutritionists,690,7.3,0.425,0.92,28.83,59970,1.7
+Oklahoma,Optometrists,730,30.1,0.452,1.69,49.34,102620,12.3
+Oklahoma,Pharmacists,3710,4.6,2.293,1.08,55.85,116170,1.9
+Oklahoma,Physician Assistants,1460,6.5,0.903,1.1,53.21,110670,2.1
+Oklahoma,Podiatrists,60,29,0.039,0.58,76.85,159850,12.9
+Oklahoma,Occupational Therapists,860,9.6,0.533,0.59,41.28,85860,1.9
+Oklahoma,Physical Therapists,2300,7.1,1.425,0.9,43.98,91480,1.7
+Oklahoma,Recreational Therapists,200,11.9,0.127,0.97,18.72,38930,4
+Oklahoma,Respiratory Therapists,1610,5.3,0.993,1.1,26.9,55960,0.9
+Oklahoma,Speech-Language Pathologists,1700,8.5,1.05,1,34.92,72640,2.9
+Oklahoma,Exercise Physiologists,80,7.4,0.052,1.04,20.22,42060,2.9
+Oklahoma,Veterinarians,1200,8.8,0.74,1.46,35.83,74530,6.8
+Oklahoma,Registered Nurses,31350,3,19.383,0.95,31.15,64800,0.8
+Oklahoma,Nurse Anesthetists,360,36.6,0.224,0.75,84.18,175090,5.4
+Oklahoma,Nurse Practitioners,1750,6.8,1.085,0.79,54.42,113200,1.2
+Oklahoma,Audiologists,110,47.5,0.066,0.71,45.62,94900,9.4
+Oklahoma,Anesthesiologists,390,35.1,0.238,1.13,133.91,278540,11.9
+Oklahoma,Family Medicine Physicians,2340,8.8,1.449,1.95,104.58,217520,5.9
+Oklahoma,General Internal Medicine Physicians,370,33.1,0.229,0.76,91.36,190030,16.1
+Oklahoma,Obstetricians and Gynecologists,100,21.3,0.063,0.5,104.98,218360,8.4
+Oklahoma,"Pediatricians, General",150,45.9,0.091,0.45,53.24,110740,22.9
+Oklahoma,Psychiatrists,210,7.6,0.127,0.73,102.25,212680,6
+Oklahoma,"Physicians, All Other; and Ophthalmologists, Except Pediatric",**,**,**,**,85.3,177420,9.7
+Oklahoma,"Surgeons, Except Ophthalmologists",310,19.1,0.189,0.76,137.65,286320,7
+Oklahoma,Dental Hygienists,2600,9.9,1.607,1.07,36.53,75990,4
+Oklahoma,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",140,6.2,0.088,0.35,*,*,*
+Oklahoma,Clinical Laboratory Technologists and Technicians,3980,7.1,2.462,1.11,22.87,47580,1.1
+Oklahoma,Cardiovascular Technologists and Technicians,570,5.3,0.353,0.92,22.2,46170,2.5
+Oklahoma,Diagnostic Medical Sonographers,860,8.2,0.529,1.07,34.02,70770,1.2
+Oklahoma,Nuclear Medicine Technologists,230,12.2,0.14,1.13,35.5,73840,1.3
+Oklahoma,Radiologic Technologists and Technicians,2590,4.6,1.604,1.14,26.74,55610,0.7
+Oklahoma,Magnetic Resonance Imaging Technologists,440,7.2,0.27,1.04,31.96,66490,1.1
+Oklahoma,Emergency Medical Technicians and Paramedics,3190,5.6,1.975,1.11,17.39,36170,2.6
+Oklahoma,Dietetic Technicians,470,28.9,0.291,1.46,12.68,26380,3
+Oklahoma,Pharmacy Technicians,4940,3.6,3.057,1.07,15.36,31940,1.5
+Oklahoma,Psychiatric Technicians,**,**,**,**,13.23,27520,3.1
+Oklahoma,Surgical Technologists,1700,5.8,1.054,1.42,20.66,42980,1.3
+Oklahoma,Veterinary Technologists and Technicians,920,19.9,0.567,0.75,15.51,32250,7.6
+Oklahoma,Ophthalmic Medical Technicians,480,20,0.296,0.74,17.49,36370,3.4
+Oklahoma,Licensed Practical and Licensed Vocational Nurses,12460,3.1,7.707,1.62,20.24,42090,0.7
+Oklahoma,"Opticians, Dispensing",730,27.7,0.452,0.92,15.08,31370,3.7
+Oklahoma,Orthotists and Prosthetists,60,33.5,0.039,0.58,28.66,59610,5.9
+Oklahoma,Hearing Aid Specialists,100,49.1,0.061,1.09,25.06,52130,23.8
+Oklahoma,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",3750,5.6,2.318,1.03,19.51,40580,1.5
+Oklahoma,Athletic Trainers,240,17.2,0.146,0.75,*,49420,4
+Oklahoma,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,24.16,50250,4
+Oklahoma,Healthcare Support Occupations,59450,2.1,36.758,0.83,13.58,28250,1
+Oklahoma,Home Health and Personal Care Aides,18200,4.9,11.251,0.52,10.58,22020,1.5
+Oklahoma,Nursing Assistants,18250,2.9,11.285,1.17,12.51,26030,1
+Oklahoma,Orderlies,480,5.7,0.298,0.93,12.12,25210,1.5
+Oklahoma,Occupational Therapy Assistants,770,16,0.476,1.55,31.05,64570,2
+Oklahoma,Occupational Therapy Aides,70,21.8,0.04,0.78,15.3,31830,6.4
+Oklahoma,Physical Therapist Assistants,1550,10.3,0.957,1.45,28.45,59180,3.6
+Oklahoma,Physical Therapist Aides,660,24.2,0.41,1.22,10.97,22810,3
+Oklahoma,Massage Therapists,330,23.7,0.201,0.28,20.41,42450,8.2
+Oklahoma,Dental Assistants,4030,5.6,2.491,1.04,17.77,36970,2
+Oklahoma,Medical Assistants,8740,5.9,5.406,1.11,15.2,31610,1.1
+Oklahoma,Medical Equipment Preparers,830,16.4,0.516,1.33,15.56,32360,1.3
+Oklahoma,Medical Transcriptionists,530,23.6,0.326,0.86,19,39520,7.1
+Oklahoma,Pharmacy Aides,790,22,0.489,1.93,12.32,25620,4
+Oklahoma,Veterinary Assistants and Laboratory Animal Caretakers,1710,17.3,1.056,1.6,12.72,26470,3.9
+Oklahoma,Phlebotomists,1540,10.5,0.952,1.09,15.27,31770,1.4
+Oklahoma,"Healthcare Support Workers, All Other",**,**,**,**,18.35,38160,3.7
+Oklahoma,Protective Service Occupations,35360,2.4,21.862,0.92,20.37,42370,2.1
+Oklahoma,First-Line Supervisors of Correctional Officers,450,2.6,0.279,0.88,22.85,47530,1.4
+Oklahoma,First-Line Supervisors of Police and Detectives,2340,3.1,1.45,1.75,36.28,75450,4
+Oklahoma,First-Line Supervisors of Firefighting and Prevention Workers,1010,3.7,0.626,1.32,37.85,78730,3.6
+Oklahoma,"Miscellaneous First-Line Supervisors, Protective Service Workers",1060,5.5,0.658,1.17,21,43680,3
+Oklahoma,Firefighters,3510,5.9,2.17,0.98,21.57,44860,3
+Oklahoma,Fire Inspectors and Investigators,80,11.2,0.048,0.52,35.83,74530,5.6
+Oklahoma,Bailiffs,60,10.3,0.037,0.27,19.35,40240,4
+Oklahoma,Correctional Officers and Jailers,4060,4.5,2.512,0.87,16.24,33770,1.2
+Oklahoma,Detectives and Criminal Investigators,880,3.4,0.546,0.76,31.7,65930,3.8
+Oklahoma,Fish and Game Wardens,210,0.2,0.127,2.74,21.29,44290,1.7
+Oklahoma,Parking Enforcement Workers,40,8.3,0.024,0.47,21.41,44530,9.3
+Oklahoma,Police and Sheriff's Patrol Officers,7090,3.1,4.384,0.97,23.11,48060,2.3
+Oklahoma,Animal Control Workers,230,6.9,0.14,1.72,15.65,32540,2.2
+Oklahoma,Private Detectives and Investigators,260,35.4,0.158,0.66,21.24,44180,3.8
+Oklahoma,Gambling Surveillance Officers and Gambling Investigators,1510,15,0.932,13.32,14.65,30470,1.4
+Oklahoma,Security Guards,10360,6.1,6.406,0.84,15.49,32220,2.9
+Oklahoma,Crossing Guards and Flaggers,270,8.1,0.167,0.29,12.03,25010,4.2
+Oklahoma,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",760,9.5,0.469,0.48,9.4,19560,1.8
+Oklahoma,"School Bus Monitors and Protective Service Workers, All Other",780,6.1,0.481,0.48,15.92,33110,4.2
+Oklahoma,Food Preparation and Serving Related Occupations,160640,1.3,99.321,1.08,10.66,22180,0.7
+Oklahoma,Chefs and Head Cooks,900,13.6,0.557,0.64,22.97,47770,3.7
+Oklahoma,First-Line Supervisors of Food Preparation and Serving Workers,14850,3.6,9.178,1.33,14.88,30960,1.7
+Oklahoma,"Cooks, Fast Food",12910,9.8,7.98,2.22,9.71,20190,1.7
+Oklahoma,"Cooks, Institution and Cafeteria",10290,4.7,6.363,2.32,10.79,22450,1
+Oklahoma,"Cooks, Restaurant",18030,4.8,11.144,1.17,11.9,24750,1.2
+Oklahoma,"Cooks, Short Order",4980,17.7,3.078,2.96,9.97,20740,2.7
+Oklahoma,Food Preparation Workers,8760,13.3,5.417,0.92,10.11,21030,1.9
+Oklahoma,Bartenders,6760,11.8,4.183,0.95,10.85,22570,4.2
+Oklahoma,Fast Food and Counter Workers,39330,5.5,24.317,0.89,9.59,19940,1
+Oklahoma,Waiters and Waitresses,29020,3.7,17.942,1.02,9.82,20430,2.1
+Oklahoma,"Food Servers, Nonrestaurant",1470,20.4,0.909,0.48,10.3,21430,2.8
+Oklahoma,Dining Room and Cafeteria Attendants and Bartender Helpers,4170,13.4,2.577,0.79,9.51,19770,1.6
+Oklahoma,Dishwashers,4120,9.9,2.544,0.73,10.48,21800,1.6
+Oklahoma,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",4900,12.6,3.027,1.05,9.55,19850,1.5
+Oklahoma,"Food Preparation and Serving Related Workers, All Other",150,12.3,0.095,0.19,10.41,21650,2.9
+Oklahoma,Building and Grounds Cleaning and Maintenance Occupations,43440,2.1,26.859,0.89,12.55,26110,0.9
+Oklahoma,First-Line Supervisors of Housekeeping and Janitorial Workers,1720,8.9,1.064,1,18.9,39300,2.7
+Oklahoma,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1190,11.5,0.738,1.05,22.45,46700,3.1
+Oklahoma,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",18130,2.9,11.209,0.77,11.81,24560,1
+Oklahoma,Maids and Housekeeping Cleaners,12360,4.2,7.644,1.21,10.42,21670,1.2
+Oklahoma,"Building Cleaning Workers, All Other",140,31,0.087,0.71,15.47,32170,4
+Oklahoma,Pest Control Workers,950,18,0.59,1.09,15.58,32400,3.1
+Oklahoma,Landscaping and Groundskeeping Workers,7710,4.5,4.766,0.77,13.66,28400,1.2
+Oklahoma,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",190,49.9,0.117,0.67,20.15,41920,4.4
+Oklahoma,Tree Trimmers and Pruners,920,22.2,0.567,1.76,16.16,33620,2.1
+Oklahoma,"Grounds Maintenance Workers, All Other",120,11.6,0.077,0.79,17.53,36470,7.9
+Oklahoma,Personal Care and Service Occupations,28150,3.6,17.405,0.77,12.99,27020,1.5
+Oklahoma,First-Line Supervisors of Gambling Services Workers,1050,9.3,0.646,3.23,19.41,40370,1.4
+Oklahoma,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",1680,19.6,1.04,0.7,17.78,36990,4.3
+Oklahoma,Animal Trainers,180,40.3,0.113,1,14.13,29390,3.3
+Oklahoma,Animal Caretakers,1890,13.3,1.17,0.81,12.12,25200,2
+Oklahoma,Gambling Dealers,2160,14.7,1.335,1.98,10.83,22530,3.6
+Oklahoma,Gambling and Sports Book Writers and Runners,**,**,**,**,11.56,24050,4.1
+Oklahoma,Motion Picture Projectionists,**,**,**,**,10.42,21680,6.3
+Oklahoma,"Ushers, Lobby Attendants, and Ticket Takers",1360,8.9,0.839,0.89,9.03,18790,2.1
+Oklahoma,Amusement and Recreation Attendants,1540,13.8,0.954,0.41,9.85,20480,1.8
+Oklahoma,Costume Attendants,30,34,0.019,0.37,17.02,35410,8.7
+Oklahoma,"Locker Room, Coatroom, and Dressing Room Attendants",240,22.8,0.148,1.36,10.33,21490,3.6
+Oklahoma,Embalmers,130,19.2,0.078,2.94,21.39,44500,9.1
+Oklahoma,Funeral Attendants,550,15.2,0.342,1.46,11.84,24620,2.3
+Oklahoma,"Morticians, Undertakers, and Funeral Arrangers",300,14.9,0.183,1.06,25.96,53990,6.5
+Oklahoma,"Hairdressers, Hairstylists, and Cosmetologists",3430,10.6,2.119,0.81,12.55,26100,3.8
+Oklahoma,Manicurists and Pedicurists,**,**,**,**,11.92,24790,5.2
+Oklahoma,Skincare Specialists,270,34.5,0.166,0.43,23.15,48140,8.7
+Oklahoma,Baggage Porters and Bellhops,340,21.6,0.208,0.77,10.6,22050,3.9
+Oklahoma,Concierges,420,22.3,0.259,0.91,12.4,25800,2.7
+Oklahoma,Tour and Travel Guides,250,20.9,0.157,0.47,13.52,28120,3.7
+Oklahoma,Childcare Workers,5590,9.9,3.457,0.9,9.82,20430,1.6
+Oklahoma,Exercise Trainers and Group Fitness Instructors,2920,10.2,1.803,0.81,18.74,38980,4.7
+Oklahoma,Recreation Workers,1760,7.5,1.085,0.44,12.92,26870,1.4
+Oklahoma,Residential Advisors,1160,11.3,0.718,0.98,12.67,26350,1.5
+Oklahoma,"Crematory Operators and Personal Care and Service Workers, All Other",**,**,**,**,16.26,33820,4.6
+Oklahoma,Sales and Related Occupations,162660,1.5,100.568,1.03,17.95,37330,1.1
+Oklahoma,First-Line Supervisors of Retail Sales Workers,16560,3.5,10.24,1.28,20.41,42460,2.3
+Oklahoma,First-Line Supervisors of Non-Retail Sales Workers,3600,4.9,2.224,1.31,38.34,79750,3.8
+Oklahoma,Cashiers,42810,3.8,26.471,1.08,10.28,21390,0.9
+Oklahoma,Gambling Change Persons and Booth Cashiers,1730,13,1.072,7.4,10.97,22830,1.1
+Oklahoma,Counter and Rental Clerks,3090,12.3,1.91,0.68,13.85,28810,3.5
+Oklahoma,Parts Salespersons,3320,9.1,2.05,1.18,16.3,33900,3.2
+Oklahoma,Retail Salespersons,49560,4,30.64,1.04,13.44,27950,1.9
+Oklahoma,Advertising Sales Agents,900,11.1,0.558,0.63,31.49,65490,9.5
+Oklahoma,Insurance Sales Agents,4940,6.7,3.056,1.09,26.8,55740,5.3
+Oklahoma,"Securities, Commodities, and Financial Services Sales Agents",1660,11.3,1.025,0.34,38.29,79640,7.6
+Oklahoma,Travel Agents,250,16.2,0.156,0.34,17.78,36990,3.5
+Oklahoma,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",9120,6,5.637,0.8,28.29,58850,3.8
+Oklahoma,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",6930,6.3,4.286,2.05,39.77,82710,4.4
+Oklahoma,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",9560,5.5,5.911,0.65,28.68,59660,4.4
+Oklahoma,Demonstrators and Product Promoters,280,35.3,0.173,0.33,16.61,34550,10.1
+Oklahoma,Real Estate Brokers,650,36.3,0.403,1.39,22.77,47350,15.1
+Oklahoma,Real Estate Sales Agents,3960,9.6,2.448,2.21,26.85,55850,4.7
+Oklahoma,Sales Engineers,360,17,0.222,0.51,46.87,97490,2.9
+Oklahoma,Telemarketers,2010,11.4,1.245,1.36,11.96,24870,3
+Oklahoma,"Sales and Related Workers, All Other",**,**,**,**,13.23,27510,3.3
+Oklahoma,Office and Administrative Support Occupations,228520,1,141.287,1.06,17.56,36520,0.4
+Oklahoma,First-Line Supervisors of Office and Administrative Support Workers,20470,2,12.654,1.25,25.29,52600,0.7
+Oklahoma,"Switchboard Operators, Including Answering Service",720,15.8,0.448,0.97,12.65,26320,2.5
+Oklahoma,Telephone Operators,30,20.7,0.021,0.66,14.12,29370,3.3
+Oklahoma,Bill and Account Collectors,3710,6.9,2.292,1.43,17.01,35380,1.8
+Oklahoma,Billing and Posting Clerks,5860,8.1,3.623,1.14,17.68,36780,1.4
+Oklahoma,"Bookkeeping, Accounting, and Auditing Clerks",21730,2.5,13.436,1.3,18.93,39360,0.9
+Oklahoma,Gambling Cage Workers,1300,9.3,0.802,8.22,12.02,25010,2.2
+Oklahoma,Payroll and Timekeeping Clerks,2450,4,1.512,1.56,21.52,44750,2
+Oklahoma,Procurement Clerks,1140,4.2,0.702,1.56,20.39,42420,1.7
+Oklahoma,Tellers,7040,3.2,4.352,1.45,12.66,26330,1.6
+Oklahoma,"Financial Clerks, All Other",70,23.1,0.043,0.21,17.09,35540,5
+Oklahoma,Brokerage Clerks,190,40.7,0.118,0.36,26.33,54770,2
+Oklahoma,Correspondence Clerks,120,26.2,0.071,1.68,18.49,38460,6.2
+Oklahoma,"Court, Municipal, and License Clerks",3180,8.7,1.967,1.88,15.33,31880,2.3
+Oklahoma,"Credit Authorizers, Checkers, and Clerks",420,16.5,0.257,1.41,17.45,36290,3.9
+Oklahoma,Customer Service Representatives,29930,2.8,18.504,0.93,16.12,33520,1
+Oklahoma,"Eligibility Interviewers, Government Programs",790,4.4,0.486,0.51,21.29,44290,1.4
+Oklahoma,File Clerks,1510,8.3,0.935,1.34,15.21,31630,1.4
+Oklahoma,"Hotel, Motel, and Resort Desk Clerks",3040,5.7,1.879,1.03,10.04,20880,2.3
+Oklahoma,"Interviewers, Except Eligibility and Loan",2160,6.8,1.334,1.04,15.68,32610,1.7
+Oklahoma,"Library Assistants, Clerical",1500,15.1,0.93,1.59,11.69,24310,2.7
+Oklahoma,Loan Interviewers and Clerks,4160,9.1,2.572,1.81,16.95,35260,3
+Oklahoma,New Accounts Clerks,1600,10.8,0.987,3.34,15.5,32230,3.2
+Oklahoma,Order Clerks,1300,13.3,0.804,0.86,13.94,28990,3.8
+Oklahoma,"Human Resources Assistants, Except Payroll and Timekeeping",1070,6,0.661,0.83,18.97,39450,1.6
+Oklahoma,Receptionists and Information Clerks,8310,4.7,5.135,0.71,13.81,28720,0.9
+Oklahoma,"Information and Record Clerks, All Other",1770,5.3,1.094,1.04,18.72,38930,1.9
+Oklahoma,Cargo and Freight Agents,510,20.4,0.317,0.49,20.25,42110,7.6
+Oklahoma,Couriers and Messengers,990,12.4,0.615,1.21,14.41,29970,4.6
+Oklahoma,Public Safety Telecommunicators,1660,5.3,1.027,1.58,15.6,32450,2
+Oklahoma,"Dispatchers, Except Police, Fire, and Ambulance",2250,7.6,1.388,1.02,19.57,40700,2.5
+Oklahoma,"Meter Readers, Utilities",420,13.1,0.259,1.25,16.79,34910,2.6
+Oklahoma,Postal Service Clerks,1040,0,0.644,1.16,23.43,48730,0.6
+Oklahoma,Postal Service Mail Carriers,4210,0,2.605,1.13,24.58,51120,1
+Oklahoma,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",780,0,0.48,0.69,24.05,50020,2
+Oklahoma,"Production, Planning, and Expediting Clerks",6550,3.1,4.048,1.61,24.62,51200,1.7
+Oklahoma,"Shipping, Receiving, and Inventory Clerks",7970,4.5,4.931,1.03,16.4,34100,1.4
+Oklahoma,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",590,8.5,0.365,0.88,19.31,40160,2.6
+Oklahoma,Executive Secretaries and Executive Administrative Assistants,8230,3.3,5.088,1.38,21.19,44080,0.9
+Oklahoma,Legal Secretaries and Administrative Assistants,1370,17.3,0.846,0.74,17.9,37240,4.3
+Oklahoma,Medical Secretaries and Administrative Assistants,10500,4.5,6.491,1.58,15.77,32800,1.1
+Oklahoma,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",25170,2.7,15.564,1.12,15.7,32650,0.8
+Oklahoma,Data Entry Keyers,2130,7.9,1.316,1.21,15.4,32030,1.8
+Oklahoma,Word Processors and Typists,70,5,0.04,0.13,17.86,37150,1.7
+Oklahoma,Desktop Publishers,150,23.6,0.093,1.57,18.67,38830,4.5
+Oklahoma,Insurance Claims and Policy Processing Clerks,1970,12.9,1.22,0.7,19.96,41510,2.5
+Oklahoma,"Mail Clerks and Mail Machine Operators, Except Postal Service",1080,18.5,0.668,1.17,14.03,29180,2.4
+Oklahoma,"Office Clerks, General",22630,3,13.99,0.7,14.24,29630,0.8
+Oklahoma,"Office Machine Operators, Except Computer",520,16.7,0.32,1.02,15.08,31370,3
+Oklahoma,Proofreaders and Copy Markers,80,44.5,0.048,0.91,20.66,42960,7.3
+Oklahoma,Statistical Assistants,80,14,0.051,0.76,21.72,45180,5.6
+Oklahoma,"Office and Administrative Support Workers, All Other",1420,7.5,0.879,0.69,20.59,42820,4.9
+Oklahoma,"Farming, Fishing, and Forestry Occupations",2990,6.7,1.85,0.56,15.42,32060,2.8
+Oklahoma,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",200,14.1,0.125,0.81,25.59,53220,2.4
+Oklahoma,Agricultural Inspectors,330,7.4,0.206,2.2,20.11,41820,3.6
+Oklahoma,"Graders and Sorters, Agricultural Products",210,9.1,0.129,0.55,12.28,25540,5.9
+Oklahoma,Agricultural Equipment Operators,300,17.9,0.184,1,13.88,28880,4.6
+Oklahoma,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",490,22.8,0.301,0.15,13.95,29030,5.9
+Oklahoma,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1160,12.9,0.718,2.88,12.49,25980,3.9
+Oklahoma,Fallers,**,**,**,**,17.67,36740,15.8
+Oklahoma,Logging Equipment Operators,210,23,0.131,0.74,21.51,44740,9.4
+Oklahoma,Construction and Extraction Occupations,91290,1.8,56.444,1.34,22.03,45820,0.9
+Oklahoma,First-Line Supervisors of Construction Trades and Extraction Workers,11090,3.6,6.856,1.61,32.5,67600,1.6
+Oklahoma,Boilermakers,100,22.1,0.063,0.59,24.8,51580,4
+Oklahoma,Brickmasons and Blockmasons,360,26,0.224,0.54,22.06,45890,4.7
+Oklahoma,Stonemasons,180,42.9,0.111,1.32,17.69,36790,5.8
+Oklahoma,Carpenters,5060,7.7,3.13,0.63,20.33,42290,2.1
+Oklahoma,Carpet Installers,180,37.5,0.111,0.63,15.38,31990,17
+Oklahoma,"Floor Layers, Except Carpet, Wood, and Hard Tiles",**,**,**,**,23.51,48890,18
+Oklahoma,Tile and Stone Setters,290,28.3,0.178,0.65,17.8,37020,3.9
+Oklahoma,Cement Masons and Concrete Finishers,2690,7.9,1.664,1.25,19.27,40090,2.9
+Oklahoma,Construction Laborers,9140,5.2,5.651,0.81,15.63,32520,1.2
+Oklahoma,"Paving, Surfacing, and Tamping Equipment Operators",1180,16.8,0.728,2.34,17.87,37170,2.1
+Oklahoma,Operating Engineers and Other Construction Equipment Operators,6930,5.3,4.287,1.55,20.02,41630,1.7
+Oklahoma,Drywall and Ceiling Tile Installers,600,34.1,0.373,0.53,21.74,45220,9.2
+Oklahoma,Electricians,6970,7.2,4.309,0.92,24.98,51950,4
+Oklahoma,Glaziers,410,22.1,0.253,0.71,17.76,36930,5.1
+Oklahoma,"Insulation Workers, Floor, Ceiling, and Wall",410,28.8,0.251,1.1,18.29,38040,10.8
+Oklahoma,"Insulation Workers, Mechanical",300,21.5,0.189,1.04,24.99,51980,5.2
+Oklahoma,"Painters, Construction and Maintenance",2040,8.2,1.263,0.8,18.97,39460,3.6
+Oklahoma,Paperhangers,100,38.2,0.063,2.75,16.59,34510,8.3
+Oklahoma,Pipelayers,1020,18.2,0.633,2.56,17.43,36260,2
+Oklahoma,"Plumbers, Pipefitters, and Steamfitters",6410,8.2,3.961,1.31,24.07,50070,2.4
+Oklahoma,Plasterers and Stucco Masons,**,**,**,**,18.45,38380,14.2
+Oklahoma,Reinforcing Iron and Rebar Workers,**,**,**,**,19.18,39900,3.1
+Oklahoma,Roofers,840,28.4,0.517,0.59,17.69,36790,5
+Oklahoma,Sheet Metal Workers,3410,6.7,2.109,2.36,24.33,50600,3.5
+Oklahoma,Structural Iron and Steel Workers,1150,18.9,0.714,1.37,20.93,43530,5.6
+Oklahoma,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",280,24,0.172,1.08,14.28,29700,3.9
+Oklahoma,Helpers--Electricians,1690,18.8,1.044,1.93,17.37,36120,2.6
+Oklahoma,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",990,20.1,0.61,1.53,16.82,34980,3.6
+Oklahoma,"Helpers, Construction Trades, All Other",290,30.6,0.177,0.91,13.94,28990,5.6
+Oklahoma,Construction and Building Inspectors,2250,15.5,1.392,1.85,30.64,63730,5.3
+Oklahoma,Elevator and Escalator Installers and Repairers,240,48.8,0.148,0.77,38.09,79230,2.5
+Oklahoma,Fence Erectors,330,24.3,0.202,1.15,15.22,31650,3.3
+Oklahoma,Hazardous Materials Removal Workers,390,33.4,0.241,0.8,23.92,49760,3.6
+Oklahoma,Highway Maintenance Workers,3050,7.9,1.888,1.84,16.45,34220,0.9
+Oklahoma,Rail-Track Laying and Maintenance Equipment Operators,270,16.7,0.164,1.49,18.94,39400,5.1
+Oklahoma,Septic Tank Servicers and Sewer Pipe Cleaners,800,19.7,0.493,2.43,15.64,32530,2.9
+Oklahoma,Miscellaneous Construction and Related Workers,1050,25.7,0.648,2.97,16.34,34000,2.8
+Oklahoma,"Derrick Operators, Oil and Gas",1040,13.1,0.644,7.81,24.59,51140,2.4
+Oklahoma,"Rotary Drill Operators, Oil and Gas",3480,16.1,2.152,15.04,27.07,56300,3.9
+Oklahoma,"Service Unit Operators, Oil and Gas",3490,12.7,2.155,6.12,20.41,42450,2.5
+Oklahoma,"Excavating and Loading Machine and Dragline Operators, Surface Mining",530,14.7,0.329,1.1,21.7,45130,4.3
+Oklahoma,Continuous Mining Machine Operators,190,36.2,0.116,1.16,17.9,37230,9.7
+Oklahoma,"Rock Splitters, Quarry",330,25.9,0.202,5.85,12.99,27020,3.1
+Oklahoma,"Roustabouts, Oil and Gas",6380,10.6,3.946,9.83,19.1,39720,1.9
+Oklahoma,Helpers--Extraction Workers,600,46.6,0.371,3.27,20.68,43010,5.8
+Oklahoma,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",980,13.7,0.608,3.58,20.92,43510,2.2
+Oklahoma,"Underground Mining Machine Operators and Extraction Workers, All Other",210,40.9,0.131,1.39,20.36,42340,7.5
+Oklahoma,"Installation, Maintenance, and Repair Occupations",77790,1.6,48.093,1.24,22.52,46850,0.6
+Oklahoma,"First-Line Supervisors of Mechanics, Installers, and Repairers",7440,3.3,4.602,1.39,32.49,67580,1.2
+Oklahoma,"Computer, Automated Teller, and Office Machine Repairers",1200,14.2,0.742,1.11,17.85,37120,2.9
+Oklahoma,"Radio, Cellular, and Tower Equipment Installers and Repairers",330,22.1,0.203,2.07,24.58,51120,6.4
+Oklahoma,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1880,13.5,1.164,0.82,24,49930,3.1
+Oklahoma,Avionics Technicians,540,2.7,0.332,2.24,*,*,*
+Oklahoma,"Electric Motor, Power Tool, and Related Repairers",330,32.7,0.204,1.89,18.29,38050,7.7
+Oklahoma,"Electrical and Electronics Installers and Repairers, Transportation Equipment",30,31.9,0.02,0.31,25.42,52880,7.5
+Oklahoma,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1230,9,0.76,1.89,27.97,58180,2.6
+Oklahoma,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",370,17.3,0.228,1.48,34.67,72120,3.7
+Oklahoma,"Electronic Equipment Installers and Repairers, Motor Vehicles",80,32.5,0.05,0.71,15.08,31360,4.7
+Oklahoma,Audiovisual Equipment Installers and Repairers,130,23.5,0.079,0.45,17.74,36900,3.3
+Oklahoma,Security and Fire Alarm Systems Installers,1310,13.7,0.812,1.67,22.76,47350,3
+Oklahoma,Aircraft Mechanics and Service Technicians,**,**,**,**,27.17,56520,3.9
+Oklahoma,Automotive Body and Related Repairers,1530,10.8,0.946,0.96,19.74,41060,3.1
+Oklahoma,Automotive Glass Installers and Repairers,160,35.7,0.099,0.75,14.94,31080,4.9
+Oklahoma,Automotive Service Technicians and Mechanics,7210,6.4,4.46,1,20.45,42530,1.9
+Oklahoma,Bus and Truck Mechanics and Diesel Engine Specialists,3910,6.5,2.419,1.33,21.63,44990,1.6
+Oklahoma,Farm Equipment Mechanics and Service Technicians,450,12.7,0.28,1.13,21.2,44090,3.3
+Oklahoma,"Mobile Heavy Equipment Mechanics, Except Engines",2200,10.3,1.36,1.35,23.55,48990,2.1
+Oklahoma,Rail Car Repairers,**,**,**,**,24.34,50630,4.2
+Oklahoma,Motorboat Mechanics and Service Technicians,210,34.4,0.129,0.83,17.24,35850,5.8
+Oklahoma,Motorcycle Mechanics,170,26,0.106,1,16.17,33620,4.6
+Oklahoma,Outdoor Power Equipment and Other Small Engine Mechanics,400,27.8,0.249,1.14,15.75,32760,6.8
+Oklahoma,Recreational Vehicle Service Technicians,430,18.2,0.266,2.51,19.78,41150,4.3
+Oklahoma,Tire Repairers and Changers,1650,15.9,1.018,1.35,14.38,29910,2.3
+Oklahoma,Mechanical Door Repairers,510,44.9,0.314,2,20.05,41700,10.8
+Oklahoma,"Control and Valve Installers and Repairers, Except Mechanical Door",1390,10.4,0.862,2.42,28.04,58330,4.7
+Oklahoma,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4080,8.5,2.523,1.08,21.87,45490,2.7
+Oklahoma,Home Appliance Repairers,270,33.5,0.167,0.79,18.61,38710,4.8
+Oklahoma,Industrial Machinery Mechanics,4550,4.6,2.815,1.07,26.13,54360,1.6
+Oklahoma,"Maintenance Workers, Machinery",4600,4.1,2.842,5.73,24.14,50210,2.4
+Oklahoma,Millwrights,260,29.1,0.16,0.5,25.42,52870,4.1
+Oklahoma,Electrical Power-Line Installers and Repairers,1840,9.5,1.138,1.5,29.35,61040,1.6
+Oklahoma,Telecommunications Line Installers and Repairers,1270,22.4,0.788,0.96,25.33,52700,4.4
+Oklahoma,Medical Equipment Repairers,560,16.2,0.343,1.09,22.23,46240,4.8
+Oklahoma,Musical Instrument Repairers and Tuners,160,43.2,0.102,1.86,18.63,38750,3.8
+Oklahoma,"Precision Instrument and Equipment Repairers, All Other",140,0,0.085,1.17,28.21,58680,3.2
+Oklahoma,"Maintenance and Repair Workers, General",15510,2.8,9.59,0.99,17.14,35650,0.9
+Oklahoma,Wind Turbine Service Technicians,380,26.2,0.234,5.76,25.05,52090,3.6
+Oklahoma,"Coin, Vending, and Amusement Machine Servicers and Repairers",1010,8.8,0.622,2.91,15.26,31750,5.5
+Oklahoma,Locksmiths and Safe Repairers,110,37.4,0.071,0.61,18.36,38190,6.4
+Oklahoma,Manufactured Building and Mobile Home Installers,60,46.8,0.036,1.86,16.61,34540,18
+Oklahoma,Riggers,480,16.8,0.297,1.9,22.1,45960,2.9
+Oklahoma,"Helpers--Installation, Maintenance, and Repair Workers",1660,9.5,1.026,1.51,15.15,31510,2.4
+Oklahoma,"Installation, Maintenance, and Repair Workers, All Other",880,13.8,0.547,0.5,19.94,41480,2.8
+Oklahoma,Production Occupations,110110,2,68.077,1.09,19.17,39870,0.7
+Oklahoma,First-Line Supervisors of Production and Operating Workers,9540,3,5.896,1.37,30.31,63050,1.2
+Oklahoma,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",1150,2.2,0.712,2.44,20.14,41890,2.3
+Oklahoma,"Coil Winders, Tapers, and Finishers",210,22.7,0.129,1.5,17.62,36650,4.9
+Oklahoma,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",3320,15.1,2.052,1.06,16.88,35120,2.8
+Oklahoma,Engine and Other Machine Assemblers,690,21.3,0.427,1.36,17.58,36570,4.1
+Oklahoma,Structural Metal Fabricators and Fitters,1090,14.3,0.673,1.29,18.43,38340,2.2
+Oklahoma,Fiberglass Laminators and Fabricators,290,16.4,0.18,1.32,16.56,34450,4.1
+Oklahoma,Miscellaneous Assemblers and Fabricators,12750,5.8,7.883,0.84,15.7,32650,2.5
+Oklahoma,Bakers,1370,12.6,0.848,0.67,11.66,24240,1.6
+Oklahoma,Butchers and Meat Cutters,1120,14.1,0.692,0.74,13.7,28490,3.5
+Oklahoma,"Meat, Poultry, and Fish Cutters and Trimmers",1400,7.5,0.865,0.83,11.51,23940,2
+Oklahoma,Slaughterers and Meat Packers,640,8.3,0.396,0.79,11.61,24160,2.4
+Oklahoma,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",440,9,0.27,1.9,20.41,42440,13.1
+Oklahoma,Food Batchmakers,1320,30.7,0.815,0.75,15.86,32990,5.9
+Oklahoma,Food Cooking Machine Operators and Tenders,1010,5.9,0.627,3.07,14.31,29770,3.5
+Oklahoma,"Food Processing Workers, All Other",400,2.5,0.247,0.84,11.48,23870,1.7
+Oklahoma,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",590,11.3,0.366,0.7,18.85,39200,3.1
+Oklahoma,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",310,38.2,0.19,1.71,15.95,33190,4.7
+Oklahoma,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",410,25.9,0.253,1.14,17.83,37080,4.8
+Oklahoma,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2320,8.5,1.432,1.08,16.42,34160,2
+Oklahoma,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",180,41.5,0.11,1.49,18.88,39270,2.3
+Oklahoma,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1120,15.3,0.692,1.32,15.93,33130,3.3
+Oklahoma,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",380,20.5,0.238,1.25,19.27,40080,3.6
+Oklahoma,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",270,25,0.164,1.29,16.32,33940,4.4
+Oklahoma,Machinists,4510,9.1,2.789,1.07,21.08,43840,2
+Oklahoma,Metal-Refining Furnace Operators and Tenders,90,9,0.058,0.5,24.46,50880,7.4
+Oklahoma,"Pourers and Casters, Metal",60,23.1,0.035,0.65,18.45,38380,3
+Oklahoma,Foundry Mold and Coremakers,360,22.6,0.223,1.87,12.53,26060,5.8
+Oklahoma,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1330,9.2,0.821,0.7,15.93,33120,4.3
+Oklahoma,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2620,15.8,1.617,1.62,16.88,35110,2.3
+Oklahoma,Tool and Die Makers,380,11.5,0.237,0.49,25.92,53920,2.7
+Oklahoma,"Welders, Cutters, Solderers, and Brazers",11390,5.2,7.04,2.52,20.96,43600,1.2
+Oklahoma,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",310,20.8,0.191,0.8,17.6,36610,3.3
+Oklahoma,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",420,13.6,0.262,1.97,19.11,39750,2.6
+Oklahoma,"Layout Workers, Metal and Plastic",**,**,**,**,17.66,36740,7.5
+Oklahoma,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",530,29.8,0.326,1.14,19.56,40690,5.2
+Oklahoma,"Tool Grinders, Filers, and Sharpeners",200,45.8,0.124,2.82,18.86,39230,4.7
+Oklahoma,"Metal Workers and Plastic Workers, All Other",140,2.9,0.088,0.53,24.64,51250,3.8
+Oklahoma,Prepress Technicians and Workers,170,20.8,0.104,0.51,17.05,35460,4.8
+Oklahoma,Printing Press Operators,1540,8.8,0.949,0.8,14.83,30840,2.3
+Oklahoma,Print Binding and Finishing Workers,210,23.7,0.129,0.42,16.02,33330,2.7
+Oklahoma,Laundry and Dry-Cleaning Workers,2920,8.2,1.806,1.27,10.24,21300,1.5
+Oklahoma,"Pressers, Textile, Garment, and Related Materials",450,27.7,0.276,1.07,10.35,21520,4.1
+Oklahoma,Sewing Machine Operators,660,10.8,0.407,0.45,11.88,24700,3
+Oklahoma,Shoe and Leather Workers and Repairers,70,28.2,0.043,0.73,14.36,29880,13.8
+Oklahoma,"Tailors, Dressmakers, and Custom Sewers",80,44.1,0.047,0.29,13.89,28900,11.1
+Oklahoma,"Textile Cutting Machine Setters, Operators, and Tenders",50,4,0.03,0.34,12.67,26360,2.9
+Oklahoma,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",230,26.4,0.144,1.16,18.89,39290,11.6
+Oklahoma,Upholsterers,260,34.5,0.162,0.81,14.94,31080,6.1
+Oklahoma,"Textile, Apparel, and Furnishings Workers, All Other",330,49,0.203,1.65,22.26,46290,6.2
+Oklahoma,Cabinetmakers and Bench Carpenters,1270,8.8,0.788,1.16,16.08,33450,3.8
+Oklahoma,Furniture Finishers,70,22.2,0.043,0.39,15.99,33250,6.1
+Oklahoma,"Sawing Machine Setters, Operators, and Tenders, Wood",340,20.5,0.208,0.6,18.11,37670,7.4
+Oklahoma,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",300,17.8,0.188,0.35,14.57,30310,2.8
+Oklahoma,Power Distributors and Dispatchers,60,22.1,0.037,0.5,40.08,83370,10.6
+Oklahoma,Power Plant Operators,370,16.3,0.229,1,34.89,72570,3
+Oklahoma,Stationary Engineers and Boiler Operators,320,14.6,0.199,0.9,27.86,57950,2.5
+Oklahoma,Water and Wastewater Treatment Plant and System Operators,2170,8.1,1.34,1.59,16.7,34730,2.9
+Oklahoma,Chemical Plant and System Operators,250,16.2,0.157,0.8,30.89,64250,3.3
+Oklahoma,Gas Plant Operators,560,11.3,0.349,3.55,31.15,64800,1.7
+Oklahoma,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",1980,12,1.225,4.46,33.25,69150,4
+Oklahoma,"Plant and System Operators, All Other",140,21.7,0.085,0.96,21.98,45730,4
+Oklahoma,Chemical Equipment Operators and Tenders,670,13,0.417,0.7,23.71,49320,3
+Oklahoma,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",**,**,**,**,16.19,33660,6.2
+Oklahoma,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",560,12.9,0.346,1.52,16.61,34540,3.1
+Oklahoma,"Grinding and Polishing Workers, Hand",420,14.7,0.261,1.31,14.82,30830,1.6
+Oklahoma,"Mixing and Blending Machine Setters, Operators, and Tenders",1210,9.4,0.751,0.88,19.87,41340,3.3
+Oklahoma,"Cutters and Trimmers, Hand",120,24.2,0.074,1.12,12.54,26080,4.8
+Oklahoma,"Cutting and Slicing Machine Setters, Operators, and Tenders",290,11.7,0.182,0.46,15.02,31240,3
+Oklahoma,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",920,9.2,0.568,1.16,15.69,32640,3.2
+Oklahoma,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",300,12.7,0.187,1.45,17.42,36240,2.6
+Oklahoma,"Inspectors, Testers, Sorters, Samplers, and Weighers",6830,3.5,4.225,1.08,21.74,45230,1.7
+Oklahoma,Jewelers and Precious Stone and Metal Workers,270,33.4,0.169,1.05,20.49,42620,6.4
+Oklahoma,Dental Laboratory Technicians,220,20.1,0.134,0.57,21.31,44320,6
+Oklahoma,Medical Appliance Technicians,60,21.1,0.037,0.39,18.16,37780,5.8
+Oklahoma,Ophthalmic Laboratory Technicians,160,24.3,0.097,0.49,17.15,35670,4.6
+Oklahoma,Packaging and Filling Machine Operators and Tenders,2590,10.5,1.604,0.6,14.96,31130,2.8
+Oklahoma,"Painting, Coating, and Decorating Workers",100,21.2,0.063,0.75,18.2,37850,4.7
+Oklahoma,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",3160,9.8,1.952,1.96,17.93,37280,1.5
+Oklahoma,Photographic Process Workers and Processing Machine Operators,160,6,0.098,1.21,12.66,26330,4
+Oklahoma,Computer Numerically Controlled Tool Operators,3590,9.1,2.218,2.15,19.84,41270,1.9
+Oklahoma,Computer Numerically Controlled Tool Programmers,310,17,0.194,1.12,26.1,54290,4.6
+Oklahoma,Adhesive Bonding Machine Operators and Tenders,160,10.9,0.098,1.03,23.57,49030,5
+Oklahoma,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",420,12.6,0.258,2.3,12.46,25920,2.8
+Oklahoma,Cooling and Freezing Equipment Operators and Tenders,**,**,**,**,18.41,38290,4.6
+Oklahoma,Etchers and Engravers,60,24,0.035,0.49,14.55,30260,6.5
+Oklahoma,"Molders, Shapers, and Casters, Except Metal and Plastic",480,19.7,0.3,0.98,15.52,32280,4.3
+Oklahoma,"Paper Goods Machine Setters, Operators, and Tenders",1140,9,0.707,1.04,23.42,48710,5.2
+Oklahoma,Tire Builders,1930,3.8,1.196,8.45,24.25,50450,2.7
+Oklahoma,Helpers--Production Workers,2580,8.9,1.594,0.77,14.12,29370,1.2
+Oklahoma,"Production Workers, All Other",1250,15.8,0.773,0.51,13.64,28380,5.2
+Oklahoma,Transportation and Material Moving Occupations,133640,1.6,82.628,0.97,17.32,36030,1.2
+Oklahoma,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",6010,3.8,3.717,1.2,27.08,56330,1.4
+Oklahoma,"Airline Pilots, Copilots, and Flight Engineers",220,6.2,0.137,0.24,*,105660,4.1
+Oklahoma,Commercial Pilots,460,22,0.286,1.11,*,83480,2.8
+Oklahoma,Air Traffic Controllers,340,13.5,0.207,1.38,48.42,100710,2.8
+Oklahoma,Airfield Operations Specialists,50,21.6,0.029,0.4,22.07,45910,2.4
+Oklahoma,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",110,28.4,0.07,0.69,11.82,24580,5.2
+Oklahoma,Driver/Sales Workers,6110,16.1,3.779,1.25,14.38,29920,4.9
+Oklahoma,Heavy and Tractor-Trailer Truck Drivers,27470,3.7,16.983,1.34,23.09,48030,2.2
+Oklahoma,Light Truck Drivers,8420,5.5,5.205,0.83,16.78,34900,3.3
+Oklahoma,"Bus Drivers, Transit and Intercity",760,11.6,0.467,0.38,14.18,29490,6.1
+Oklahoma,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",5590,4.9,3.454,0.72,12.14,25240,1.8
+Oklahoma,"Motor Vehicle Operators, All Other",360,21.8,0.223,0.58,18.91,39320,4.1
+Oklahoma,Locomotive Engineers,400,35.1,0.25,1.03,31.36,65230,5
+Oklahoma,"Rail Yard Engineers, Dinkey Operators, and Hostlers",170,29.5,0.106,2.87,30.72,63900,16.5
+Oklahoma,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",60,38.4,0.036,0.48,32.3,67190,6
+Oklahoma,Railroad Conductors and Yardmasters,**,**,**,**,31.15,64800,3
+Oklahoma,Bridge and Lock Tenders,40,32.3,0.027,1.26,25.36,52760,2.2
+Oklahoma,Parking Attendants,830,11.9,0.51,0.51,10.89,22660,2.8
+Oklahoma,Automotive and Watercraft Service Attendants,1430,15.2,0.883,1.1,12.17,25310,1.5
+Oklahoma,Traffic Technicians,50,9.8,0.029,0.56,19.98,41560,3
+Oklahoma,Transportation Inspectors,660,25.2,0.411,2.01,32.67,67960,7.6
+Oklahoma,"Aircraft Service Attendants and Transportation Workers, All Other",200,28.5,0.125,0.53,17.08,35520,9.9
+Oklahoma,Conveyor Operators and Tenders,690,17.6,0.425,2.6,17.02,35400,4.1
+Oklahoma,Crane and Tower Operators,630,10.5,0.386,1.25,26.99,56140,2.9
+Oklahoma,Dredge Operators,**,**,**,**,21.77,45290,4.7
+Oklahoma,Hoist and Winch Operators,80,22.4,0.049,1.5,19.13,39780,15.2
+Oklahoma,Industrial Truck and Tractor Operators,7000,5.1,4.328,1.01,17.8,37010,1.9
+Oklahoma,Cleaners of Vehicles and Equipment,4770,6.9,2.952,1.13,12.99,27020,3.3
+Oklahoma,"Laborers and Freight, Stock, and Material Movers, Hand",29980,3.2,18.539,0.92,14.16,29450,2
+Oklahoma,Machine Feeders and Offbearers,730,6.1,0.452,1.05,13.43,27930,3.5
+Oklahoma,"Packers and Packagers, Hand",3450,11,2.135,0.49,12.34,25660,2
+Oklahoma,Stockers and Order Fillers,22080,3,13.649,0.94,13.16,27370,1.3
+Oklahoma,Gas Compressor and Gas Pumping Station Operators,230,22.7,0.14,5.96,31.9,66350,3
+Oklahoma,"Pump Operators, Except Wellhead Pumpers",550,37.5,0.339,4.99,18.76,39020,8.1
+Oklahoma,Wellhead Pumpers,1500,18,0.927,10.5,25.3,52630,3.8
+Oklahoma,Refuse and Recyclable Material Collectors,1540,9.7,0.951,1.15,16.44,34200,2.7
+Oklahoma,"Tank Car, Truck, and Ship Loaders",190,20.3,0.117,1.48,18.31,38090,3.7
+Oklahoma,"Material Moving Workers, All Other",50,44.5,0.031,0.16,17.67,36750,4

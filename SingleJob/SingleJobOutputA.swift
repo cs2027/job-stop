@@ -43,13 +43,18 @@ class SingleJobOutputA: UIViewController {
             component?.backgroundColor = defaultColor
         }
         
-        // Format annual incomes nicely with commas, correct # of decimals
-        let numberFormatter = NumberFormatter()
-        numberFormatter.numberStyle = .decimal
-        numberFormatter.maximumFractionDigits = 2
-        annualIncomeParsed = numberFormatter.string(from: NSNumber(value: selectedJob.annualSalary))
-        adjustedAnnualParsed = numberFormatter.string(from: NSNumber(value: Int(Double(selectedJob.annualSalary) / stateCostOfLiving)))
-        adjustedHourlyParsed = numberFormatter.string(from: NSNumber(value: Double(selectedJob.hourlySalary) / stateCostOfLiving))
+        // Format annual & hourly incomes nicely with commas, correct # of decimals
+        let NFAnnual = NumberFormatter()
+        NFAnnual.numberStyle = .decimal
+        
+        let NFHourly = NumberFormatter()
+        NFHourly.numberStyle = .decimal
+        NFHourly.minimumFractionDigits = 2
+        NFHourly.maximumFractionDigits = 2
+        
+        annualIncomeParsed = NFAnnual.string(from: NSNumber(value: selectedJob.annualSalary))
+        adjustedAnnualParsed = NFAnnual.string(from: NSNumber(value: Int(Double(selectedJob.annualSalary) / stateCostOfLiving)))
+        adjustedHourlyParsed = NFHourly.string(from: NSNumber(value: Double(selectedJob.hourlySalary) / stateCostOfLiving))
         
         // Display relevant data in the storyboard view, adjusting font sizes where necessary
         stateTextView.text = "State: \(stateName!)"

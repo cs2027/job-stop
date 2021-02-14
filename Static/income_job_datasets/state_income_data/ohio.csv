@@ -1,0 +1,779 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Ohio,All Occupations,5447780,0.5,1000,1,23.76,49430,0.5
+Ohio,Management Occupations,245030,0.9,44.978,0.82,54.18,112690,0.5
+Ohio,Chief Executives,4650,3.4,0.854,0.61,94.44,196440,2.9
+Ohio,General and Operations Managers,62150,1.3,11.408,0.7,56.86,118280,0.8
+Ohio,Legislators,2300,5.4,0.422,1.19,*,48280,4.5
+Ohio,Advertising and Promotions Managers,320,12.2,0.059,0.34,62.47,129940,7.3
+Ohio,Marketing Managers,6830,3.8,1.254,0.7,65.32,135870,1.3
+Ohio,Sales Managers,10930,2.8,2.006,0.73,65.19,135590,1
+Ohio,Public Relations and Fundraising Managers,2000,4.4,0.368,0.68,54.86,114110,1.6
+Ohio,Administrative Services and Facilities Managers,11560,2.1,2.122,1.01,45.82,95300,1.1
+Ohio,Computer and Information Systems Managers,12900,2.8,2.367,0.8,65.42,136080,0.9
+Ohio,Financial Managers,22110,2.4,4.059,0.91,66.29,137890,1.2
+Ohio,Industrial Production Managers,11930,2,2.19,1.73,53.63,111550,0.9
+Ohio,Purchasing Managers,2230,3.5,0.41,0.84,58.07,120790,1.3
+Ohio,"Transportation, Storage, and Distribution Managers",5350,4.4,0.982,1.09,47.39,98560,1.4
+Ohio,Compensation and Benefits Managers,470,9.2,0.086,0.75,62.99,131020,2.9
+Ohio,Human Resources Managers,4330,2.4,0.794,0.75,60.74,126330,1
+Ohio,Training and Development Managers,890,5,0.164,0.62,54.85,114090,1.7
+Ohio,"Farmers, Ranchers, and Other Agricultural Managers",100,17.9,0.018,0.53,34.54,71850,6.6
+Ohio,Construction Managers,8110,4.2,1.489,0.75,50.17,104350,1.7
+Ohio,"Education and Childcare Administrators, Preschool and Daycare",1920,10.3,0.353,0.99,23.13,48110,3
+Ohio,"Education Administrators, Kindergarten through Secondary",9500,3.2,1.744,0.95,*,88630,0.9
+Ohio,"Education Administrators, Postsecondary",4610,10.3,0.847,0.86,51.49,107090,2.6
+Ohio,"Education Administrators, All Other",950,5,0.174,0.57,43.17,89800,2.6
+Ohio,Architectural and Engineering Managers,6100,3.7,1.119,0.85,65.93,137140,0.8
+Ohio,Food Service Managers,8150,6.2,1.496,0.93,26.42,54940,2.7
+Ohio,Gambling Managers,30,13.8,0.006,0.2,43.86,91220,4.8
+Ohio,Lodging Managers,1380,22.7,0.254,0.97,23.98,49880,13.1
+Ohio,Medical and Health Services Managers,14490,3,2.66,0.99,49.45,102860,1.3
+Ohio,Natural Sciences Managers,960,8.3,0.176,0.38,64.63,134440,2.3
+Ohio,Postmasters and Mail Superintendents,490,0,0.091,0.96,38.27,79600,0.5
+Ohio,"Property, Real Estate, and Community Association Managers",7370,6.3,1.352,0.9,30.27,62970,4.5
+Ohio,Social and Community Service Managers,5060,4.4,0.928,0.87,34.36,71470,1.1
+Ohio,Emergency Management Directors,350,15.4,0.064,0.94,38.25,79570,2.8
+Ohio,Funeral Home Managers,450,19.1,0.083,1.3,56.08,116640,10.3
+Ohio,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",14050,2.5,2.579,0.8,52.24,108650,0.9
+Ohio,Business and Financial Operations Occupations,298800,1.4,54.848,0.98,34.92,72640,0.5
+Ohio,"Agents and Business Managers of Artists, Performers, and Athletes",80,38.9,0.015,0.13,47.03,97830,18.9
+Ohio,Buyers and Purchasing Agents,18020,2.7,3.307,1.15,32.6,67810,1.6
+Ohio,"Claims Adjusters, Examiners, and Investigators",12560,11.7,2.306,1.18,31.66,65850,1.6
+Ohio,"Insurance Appraisers, Auto Damage",570,32.2,0.104,1.12,28.58,59450,3.4
+Ohio,Compliance Officers,8500,2.9,1.561,0.72,33.04,68710,0.9
+Ohio,Cost Estimators,8980,3.5,1.648,1.15,32.22,67030,1.1
+Ohio,Human Resources Specialists,26680,2.4,4.898,1.14,30.51,63460,1
+Ohio,Labor Relations Specialists,4720,3.8,0.866,1.68,26.39,54900,4.8
+Ohio,Logisticians,6890,3.1,1.265,1.02,36.53,75990,1.9
+Ohio,Management Analysts,22010,2.9,4.04,0.84,45.32,94260,2.3
+Ohio,"Meeting, Convention, and Event Planners",3190,8.2,0.586,0.73,24.07,50070,2.3
+Ohio,Fundraisers,3860,6.8,0.708,1.27,27.16,56490,2.1
+Ohio,"Compensation, Benefits, and Job Analysis Specialists",2870,5.6,0.527,0.87,31.24,64980,2.4
+Ohio,Training and Development Specialists,12290,3.8,2.256,1.06,28.88,60070,1.2
+Ohio,Market Research Analysts and Marketing Specialists,26410,3.3,4.848,1.05,31.97,66500,1
+Ohio,"Project Management Specialists and Business Operations Specialists, All Other",43740,3.4,8.029,0.92,36.26,75420,0.7
+Ohio,Accountants and Auditors,47240,2.5,8.672,0.99,35.28,73380,0.8
+Ohio,Property Appraisers and Assessors,1380,18.8,0.253,0.66,35.97,74810,9.5
+Ohio,Budget Analysts,1140,5.3,0.208,0.59,36.91,76770,1.3
+Ohio,Credit Analysts,2520,8.8,0.463,0.92,37.62,78250,2.2
+Ohio,Personal Financial Advisors,7040,6.7,1.291,0.9,51.35,106800,4.9
+Ohio,Insurance Underwriters,4670,15.8,0.858,1.26,37.09,77150,3.5
+Ohio,Financial Examiners,3140,5.8,0.577,1.31,35.45,73730,3.6
+Ohio,Credit Counselors,940,6.4,0.173,0.79,24.61,51180,2.1
+Ohio,Loan Officers,10630,4.9,1.952,0.93,37.65,78300,2.8
+Ohio,"Tax Examiners and Collectors, and Revenue Agents",1250,2.3,0.23,0.63,32.43,67440,1.3
+Ohio,Tax Preparers,1780,14.6,0.327,0.72,22.86,47560,8.9
+Ohio,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",15670,3,2.877,0.92,39,81110,1.2
+Ohio,Computer and Mathematical Occupations,155290,2.1,28.506,0.92,39.79,82760,1.1
+Ohio,Computer Systems Analysts,26690,4.4,4.899,1.22,42.57,88550,1.4
+Ohio,Information Security Analysts,3910,9.4,0.719,0.84,46.42,96550,2.3
+Ohio,Computer and Information Research Scientists,580,33.1,0.107,0.51,54.66,113690,2.2
+Ohio,Computer Network Support Specialists,7580,4.4,1.392,1.1,30.32,63070,2.7
+Ohio,Computer User Support Specialists,22090,3.1,4.055,0.92,24.77,51520,1.2
+Ohio,Computer Network Architects,4610,12.8,0.846,0.82,48.57,101020,1.2
+Ohio,Network and Computer Systems Administrators,11620,3.7,2.132,0.88,39.92,83030,1.2
+Ohio,Database Administrators and Architects,3630,4,0.667,0.78,42.92,89270,1.1
+Ohio,Computer Programmers,5630,9.9,1.033,0.76,38.4,79880,2.5
+Ohio,Software Developers and Software Quality Assurance Analysts and Testers,43210,3.8,7.932,0.83,46.11,95920,2.4
+Ohio,Web Developers and Digital Interface Designers,4720,7.3,0.867,0.86,33.43,69530,2.4
+Ohio,"Computer Occupations, All Other",12680,3.8,2.327,0.87,38.67,80440,1.7
+Ohio,Actuaries,1580,16.3,0.289,1.91,49.79,103570,4
+Ohio,Mathematicians,30,19.4,0.006,0.34,42.26,87900,6
+Ohio,Operations Research Analysts,4310,4.2,0.79,1.16,40.36,83950,1.3
+Ohio,Statisticians,1030,13,0.189,0.71,41.02,85320,3.8
+Ohio,"Data Scientists and Mathematical Science Occupations, All Other",1390,12.2,0.256,1.22,40.05,83310,2.2
+Ohio,Architecture and Engineering Occupations,97690,1.8,17.932,1.02,39.02,81160,1.2
+Ohio,"Architects, Except Landscape and Naval",2840,6.9,0.522,0.72,41.99,87340,2.2
+Ohio,Landscape Architects,720,31.8,0.132,0.96,32.42,67420,7
+Ohio,Cartographers and Photogrammetrists,100,9.5,0.018,0.24,33.94,70590,2.7
+Ohio,Surveyors,1240,9.2,0.228,0.74,30.39,63220,3.2
+Ohio,Aerospace Engineers,3810,6.8,0.7,1.63,56.03,116540,1.6
+Ohio,Agricultural Engineers,80,10.1,0.014,1.31,43.15,89740,1.9
+Ohio,Bioengineers and Biomedical Engineers,670,12.5,0.124,0.92,40.59,84420,2.2
+Ohio,Chemical Engineers,1330,12.6,0.245,1.19,47.88,99600,1.7
+Ohio,Civil Engineers,7570,5,1.39,0.66,40.54,84320,1.2
+Ohio,Computer Hardware Engineers,880,17.1,0.162,0.35,49.75,103480,2.2
+Ohio,Electrical Engineers,6970,5.7,1.279,1.01,41.65,86620,2.1
+Ohio,"Electronics Engineers, Except Computer",3860,7.4,0.709,0.81,47.22,98220,2.6
+Ohio,Environmental Engineers,1060,10.2,0.194,0.54,41.54,86400,2.2
+Ohio,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",510,7,0.093,0.53,46.63,96980,2
+Ohio,Industrial Engineers,15450,4.4,2.836,1.43,40.49,84220,0.9
+Ohio,Materials Engineers,2110,5.1,0.388,2.12,41.98,87320,3
+Ohio,Mechanical Engineers,15300,3.7,2.809,1.34,39.8,82780,1
+Ohio,"Mining and Geological Engineers, Including Mining Safety Engineers",140,10.7,0.025,0.59,40.96,85190,3.2
+Ohio,Petroleum Engineers,800,27,0.147,0.66,58.34,121350,5.7
+Ohio,"Engineers, All Other",7670,4.9,1.408,1.36,45.87,95420,2.8
+Ohio,Architectural and Civil Drafters,3220,7.9,0.591,0.88,27.29,56760,2.1
+Ohio,Electrical and Electronics Drafters,790,10.5,0.145,0.88,29.19,60720,2.9
+Ohio,Mechanical Drafters,2080,6,0.382,1.02,27.54,57290,1.5
+Ohio,"Drafters, All Other",810,12.4,0.149,1.5,27.48,57160,2.4
+Ohio,Aerospace Engineering and Operations Technologists and Technicians,960,6.4,0.176,2.24,32.41,67420,3.9
+Ohio,Civil Engineering Technologists and Technicians,1830,5.8,0.337,0.72,28.22,58690,2
+Ohio,Electrical and Electronic Engineering Technologists and Technicians,3000,8.8,0.551,0.66,29.35,61060,1.3
+Ohio,Electro-Mechanical and Mechatronics Technologists and Technicians,520,16,0.095,0.98,28.76,59820,5.5
+Ohio,Environmental Engineering Technologists and Technicians,580,13.6,0.107,0.87,28.36,58980,6.7
+Ohio,Industrial Engineering Technologists and Technicians,3370,6.4,0.618,1.35,27.05,56250,1.6
+Ohio,Mechanical Engineering Technologists and Technicians,2760,5.4,0.506,1.73,26.77,55670,1.3
+Ohio,Surveying and Mapping Technicians,1460,11.6,0.267,0.74,22.11,45990,1.9
+Ohio,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",2590,9.5,0.476,0.79,29.92,62230,2.2
+Ohio,"Life, Physical, and Social Science Occupations",42150,4.3,7.737,0.88,33.23,69110,1
+Ohio,Animal Scientists,60,25.4,0.011,0.6,42.2,87770,7.8
+Ohio,Food Scientists and Technologists,600,14.2,0.11,1.2,42.21,87800,5.4
+Ohio,Soil and Plant Scientists,310,32.5,0.058,0.6,26.23,54560,5.1
+Ohio,Biochemists and Biophysicists,250,36.4,0.046,0.22,27.79,57800,10.1
+Ohio,Microbiologists,470,22.6,0.086,0.69,32.97,68570,4.4
+Ohio,Zoologists and Wildlife Biologists,160,3.5,0.029,0.22,28.59,59460,1.2
+Ohio,"Biological Scientists, All Other",440,13.7,0.081,0.3,37.87,78770,4.2
+Ohio,Conservation Scientists,820,3.5,0.151,1.01,27.44,57070,3.2
+Ohio,Foresters,170,7,0.032,0.5,29.68,61740,4.2
+Ohio,Epidemiologists,280,21.4,0.051,1.01,34.81,72410,2.7
+Ohio,"Medical Scientists, Except Epidemiologists",4240,12.6,0.779,0.9,40.41,84050,5
+Ohio,"Life Scientists, All Other",290,23.1,0.053,1.21,32.92,68480,10.8
+Ohio,Physicists,330,15,0.061,0.54,57.26,119100,3.6
+Ohio,Atmospheric and Space Scientists,130,14.5,0.024,0.38,44.51,92590,6
+Ohio,Chemists,3530,7.8,0.648,1.14,35.9,74670,1.7
+Ohio,Materials Scientists,400,7.5,0.074,1.63,52.28,108740,4.9
+Ohio,"Environmental Scientists and Specialists, Including Health",2080,7.4,0.381,0.66,37.95,78930,2.6
+Ohio,"Geoscientists, Except Hydrologists and Geographers",350,16,0.064,0.32,37.9,78830,4.1
+Ohio,Hydrologists,290,14.4,0.053,1.22,39.68,82530,4.4
+Ohio,"Physical Scientists, All Other",520,12,0.095,0.79,51.71,107550,6
+Ohio,Economists,180,32.1,0.033,0.26,51.31,106730,6
+Ohio,Survey Researchers,200,16.7,0.036,0.53,31.09,64660,3.7
+Ohio,"Clinical, Counseling, and School Psychologists",4090,5,0.751,0.97,37.23,77440,2.8
+Ohio,"Psychologists, All Other",390,2.9,0.071,0.73,44.96,93510,2.4
+Ohio,Sociologists,100,8.1,0.018,0.99,33.13,68920,2.9
+Ohio,Urban and Regional Planners,940,8,0.173,0.66,35.38,73590,1.7
+Ohio,Anthropologists and Archeologists,90,37.9,0.016,0.36,28.13,58510,4
+Ohio,"Social Scientists and Related Workers, All Other",1630,6.7,0.3,1.31,38.05,79140,3.4
+Ohio,Agricultural and Food Science Technicians,470,12.6,0.087,0.58,21.58,44890,4.6
+Ohio,Biological Technicians,5010,14.8,0.919,1.7,22.35,46480,1.8
+Ohio,Chemical Technicians,2770,9.7,0.508,1.13,23.8,49510,2
+Ohio,"Environmental Science and Protection Technicians, Including Health",1470,8.5,0.27,1.22,21.82,45390,2
+Ohio,Geological and Hydrologic Technicians,180,19.8,0.033,0.28,25.31,52650,3.9
+Ohio,Nuclear Technicians,460,22.9,0.084,1.92,36.83,76600,2.8
+Ohio,Social Science Research Assistants,530,10.2,0.098,0.4,22.75,47310,3.8
+Ohio,Forest and Conservation Technicians,320,6.2,0.059,0.45,19.66,40900,1.9
+Ohio,Forensic Science Technicians,460,10.7,0.084,0.75,33.13,68910,1.7
+Ohio,"Life, Physical, and Social Science Technicians, All Other",1470,10.6,0.269,0.62,25.42,52880,1.8
+Ohio,Occupational Health and Safety Specialists,4640,2.9,0.851,1.35,36.96,76880,1.7
+Ohio,Occupational Health and Safety Technicians,910,5.6,0.166,1.19,26.05,54170,2.1
+Ohio,Community and Social Service Occupations,82590,2.4,15.16,0.99,22.64,47090,0.9
+Ohio,"Educational, Guidance, and Career Counselors and Advisors",10940,3.8,2.009,1,27.48,57160,1.7
+Ohio,Marriage and Family Therapists,420,24,0.077,0.19,22.37,46530,4.7
+Ohio,Rehabilitation Counselors,5410,5.2,0.994,1.34,19.41,40360,5.1
+Ohio,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",7790,4.6,1.429,0.74,24.05,50020,2.7
+Ohio,"Counselors, All Other",580,26.4,0.106,0.61,24.49,50940,2.5
+Ohio,"Child, Family, and School Social Workers",11560,7,2.122,0.95,22.72,47260,1.9
+Ohio,Healthcare Social Workers,7230,8,1.328,1.11,26.81,55760,1.3
+Ohio,Mental Health and Substance Abuse Social Workers,6650,5.5,1.221,1.52,22.57,46950,1.3
+Ohio,"Social Workers, All Other",2870,4.5,0.527,1.32,25.79,53650,2.4
+Ohio,Health Education Specialists,2240,5.7,0.412,1.03,26.69,55500,1.5
+Ohio,Probation Officers and Correctional Treatment Specialists,3120,2.6,0.573,0.96,24.69,51350,0.8
+Ohio,Social and Human Service Assistants,16370,5.5,3.006,1.09,17.1,35560,1.8
+Ohio,Community Health Workers,2200,7.7,0.404,1.01,18.8,39090,2.6
+Ohio,"Community and Social Service Specialists, All Other",2560,5.2,0.471,0.71,21.54,44810,2.6
+Ohio,Clergy,1780,9.7,0.327,0.9,23,47850,1.6
+Ohio,"Directors, Religious Activities and Education",680,14.1,0.124,0.84,22.59,46990,2.7
+Ohio,"Religious Workers, All Other",160,35.8,0.03,0.47,16.1,33480,5.3
+Ohio,Legal Occupations,34910,2.2,6.409,0.82,44.36,92270,2.4
+Ohio,Lawyers,18020,3.5,3.308,0.74,59.69,124160,3.2
+Ohio,Judicial Law Clerks,220,7.3,0.04,0.35,27.59,57380,4
+Ohio,"Administrative Law Judges, Adjudicators, and Hearing Officers",770,2.7,0.142,1.45,40.69,84640,6.9
+Ohio,"Arbitrators, Mediators, and Conciliators",300,6.2,0.054,1.31,28.98,60270,3.5
+Ohio,"Judges, Magistrate Judges, and Magistrates",2500,2,0.459,2.35,46.82,97370,3.2
+Ohio,Paralegals and Legal Assistants,10280,5.9,1.888,0.84,23.18,48210,2
+Ohio,"Title Examiners, Abstractors, and Searchers",2100,21.2,0.386,1.07,24.38,50710,4
+Ohio,"Legal Support Workers, All Other",720,14.9,0.132,0.43,28.24,58730,7
+Ohio,Educational Instruction and Library Occupations,323560,2.4,59.393,0.98,28.27,58810,2.5
+Ohio,"Business Teachers, Postsecondary",4010,6.7,0.735,1.29,*,110070,3.9
+Ohio,"Computer Science Teachers, Postsecondary",1140,8.2,0.209,0.97,*,96040,2.2
+Ohio,"Mathematical Science Teachers, Postsecondary",1960,6.9,0.36,1.03,*,85000,1.8
+Ohio,"Architecture Teachers, Postsecondary",190,11.4,0.036,0.77,*,88850,3.8
+Ohio,"Engineering Teachers, Postsecondary",1810,15,0.331,1.35,*,112140,4.1
+Ohio,"Agricultural Sciences Teachers, Postsecondary",**,**,**,**,*,102620,5.6
+Ohio,"Biological Science Teachers, Postsecondary",2080,16.8,0.381,1.05,*,90030,3.5
+Ohio,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",240,11.4,0.044,0.59,*,97430,3.8
+Ohio,"Chemistry Teachers, Postsecondary",870,9.2,0.159,1.09,*,94080,2.7
+Ohio,"Environmental Science Teachers, Postsecondary",110,32.8,0.02,0.49,*,106900,4.7
+Ohio,"Physics Teachers, Postsecondary",560,10,0.102,1.09,*,98540,6.3
+Ohio,"Anthropology and Archeology Teachers, Postsecondary",180,8.9,0.034,0.85,*,87910,2.9
+Ohio,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",290,10.7,0.053,0.74,*,79770,2.6
+Ohio,"Economics Teachers, Postsecondary",470,7.1,0.087,0.96,*,114830,4.3
+Ohio,"Geography Teachers, Postsecondary",200,32.2,0.036,1.33,*,91450,2.8
+Ohio,"Political Science Teachers, Postsecondary",510,6.1,0.093,0.86,*,92340,3.8
+Ohio,"Psychology Teachers, Postsecondary",1540,8.2,0.282,1.11,*,86250,2.8
+Ohio,"Sociology Teachers, Postsecondary",540,7.5,0.099,1.05,*,84640,1.8
+Ohio,"Social Sciences Teachers, Postsecondary, All Other",310,11.3,0.057,0.5,*,80210,6.8
+Ohio,"Health Specialties Teachers, Postsecondary",10560,27.9,1.938,1.41,*,128960,7.7
+Ohio,"Nursing Instructors and Teachers, Postsecondary",3410,10.4,0.627,1.54,*,79360,2.3
+Ohio,"Education Teachers, Postsecondary",2850,7.1,0.523,1.25,*,75600,3.4
+Ohio,"Library Science Teachers, Postsecondary",130,14.5,0.023,0.78,*,69590,4
+Ohio,"Criminal Justice and Law Enforcement Teachers, Postsecondary",820,5,0.151,1.58,*,64640,2.5
+Ohio,"Law Teachers, Postsecondary",520,22,0.095,0.87,*,123050,5.3
+Ohio,"Social Work Teachers, Postsecondary",680,14.7,0.126,1.35,*,75210,3.4
+Ohio,"Art, Drama, and Music Teachers, Postsecondary",3870,5.1,0.71,1.11,*,82400,3.1
+Ohio,"Communications Teachers, Postsecondary",1230,6.1,0.226,1.14,*,75610,2.4
+Ohio,"English Language and Literature Teachers, Postsecondary",2550,4.5,0.468,1.01,*,75250,2.4
+Ohio,"Foreign Language and Literature Teachers, Postsecondary",1130,6.4,0.207,1.22,*,75480,2.1
+Ohio,"History Teachers, Postsecondary",950,4.5,0.174,1.22,*,79340,2.1
+Ohio,"Philosophy and Religion Teachers, Postsecondary",1120,12.2,0.205,1.28,*,83490,2.1
+Ohio,"Family and Consumer Sciences Teachers, Postsecondary",170,38.1,0.031,2.14,*,*,*
+Ohio,"Recreation and Fitness Studies Teachers, Postsecondary",610,9.4,0.111,1.03,*,66750,1.9
+Ohio,"Career/Technical Education Teachers, Postsecondary",2390,9.4,0.439,0.58,28.52,59320,4
+Ohio,"Postsecondary Teachers, All Other",2640,12.1,0.484,0.35,*,67660,2.8
+Ohio,"Preschool Teachers, Except Special Education",15430,7.9,2.833,0.96,14.54,30240,2.6
+Ohio,"Kindergarten Teachers, Except Special Education",2700,12.5,0.496,0.59,*,58960,3.9
+Ohio,"Elementary School Teachers, Except Special Education",57220,4.8,10.503,1.08,*,64090,1.1
+Ohio,"Middle School Teachers, Except Special and Career/Technical Education",30880,9.7,5.669,1.34,*,63510,2.1
+Ohio,"Career/Technical Education Teachers, Middle School",**,**,**,**,*,61380,4.3
+Ohio,"Secondary School Teachers, Except Special and Career/Technical Education",47510,6.2,8.722,1.24,*,64410,1.1
+Ohio,"Career/Technical Education Teachers, Secondary School",4060,20.8,0.745,1.47,*,70650,1.5
+Ohio,"Special Education Teachers, Preschool",960,13.5,0.176,1.16,*,61130,4.9
+Ohio,"Special Education Teachers, Kindergarten and Elementary School",7700,6.6,1.414,1.07,*,57590,1.7
+Ohio,"Special Education Teachers, Middle School",3850,12.6,0.708,1.21,*,62200,2.6
+Ohio,"Special Education Teachers, Secondary School",7770,7.5,1.425,1.46,*,57700,2.1
+Ohio,"Special Education Teachers, All Other",1240,23.7,0.228,0.94,*,43510,5.1
+Ohio,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",930,12.4,0.17,0.48,24.03,49980,2.5
+Ohio,Self-Enrichment Teachers,8330,7.6,1.529,0.89,18.2,37860,4.3
+Ohio,"Substitute Teachers, Short-Term",12290,11.2,2.257,0.56,15.05,31290,6.5
+Ohio,"Tutors and Teachers and Instructors, All Other",7700,8.4,1.413,0.65,*,45010,3.8
+Ohio,Archivists,190,14.3,0.034,0.76,24.44,50840,2
+Ohio,Curators,360,13.1,0.065,0.75,27.31,56810,3.6
+Ohio,Museum Technicians and Conservators,310,19.6,0.058,0.64,22.23,46230,2.8
+Ohio,Librarians and Media Collections Specialists,4810,3.5,0.882,0.95,25.79,53640,1.6
+Ohio,Library Technicians,4150,5.9,0.761,1.26,15.4,32040,1.7
+Ohio,Instructional Coordinators,4170,4.5,0.765,0.64,32.19,66950,1.5
+Ohio,"Teaching Assistants, Postsecondary",**,**,**,**,*,42660,2.8
+Ohio,"Teaching Assistants, Except Postsecondary",42860,3.2,7.868,0.86,*,28040,1
+Ohio,"Educational Instruction and Library Workers, All Other",2260,9.3,0.414,0.47,20.2,42010,5.3
+Ohio,"Arts, Design, Entertainment, Sports, and Media Occupations",65480,3.1,12.019,0.87,24.25,50440,1.4
+Ohio,Art Directors,1040,8.4,0.192,0.66,41.65,86630,1.8
+Ohio,Craft Artists,190,33.3,0.036,1.13,17.36,36100,4.5
+Ohio,"Fine Artists, Including Painters, Sculptors, and Illustrators",500,30,0.092,1.09,24.72,51410,4.5
+Ohio,Special Effects Artists and Animators,410,17.9,0.075,0.38,26.28,54670,5.2
+Ohio,"Artists and Related Workers, All Other",**,**,**,**,31.75,66040,6.9
+Ohio,Commercial and Industrial Designers,1040,12.6,0.19,0.85,33.85,70410,2.3
+Ohio,Fashion Designers,250,31.6,0.047,0.31,*,*,*
+Ohio,Floral Designers,1650,7.6,0.303,1.07,12.39,25770,2.4
+Ohio,Graphic Designers,7600,4.5,1.396,0.95,25.01,52020,1.3
+Ohio,Interior Designers,2330,12.6,0.427,1.03,27.56,57330,3.8
+Ohio,Merchandise Displayers and Window Trimmers,4920,10.5,0.902,0.94,16.52,34350,2.8
+Ohio,Set and Exhibit Designers,420,33.4,0.077,0.93,24.66,51300,4.4
+Ohio,"Designers, All Other",120,20.5,0.022,0.3,23.91,49730,6.4
+Ohio,Actors,530,33.7,0.097,0.27,17.52,*,11
+Ohio,Producers and Directors,1950,16.1,0.357,0.41,26.86,55860,3.5
+Ohio,Athletes and Sports Competitors,180,28.6,0.032,0.42,*,142090,15.8
+Ohio,Coaches and Scouts,13880,11,2.547,1.55,*,37910,4.4
+Ohio,"Umpires, Referees, and Other Sports Officials",550,37.4,0.101,0.73,*,33090,6.4
+Ohio,Choreographers,50,35.4,0.01,0.3,20.27,42160,6.9
+Ohio,Music Directors and Composers,410,17.8,0.076,1.06,26.12,54340,7.2
+Ohio,Musicians and Singers,1440,16.5,0.264,0.94,33.97,*,10.5
+Ohio,"Miscellaneous Entertainers and Performers, Sports and Related Workers",350,27.7,0.065,0.6,22.02,*,6
+Ohio,Broadcast Announcers and Radio Disc Jockeys,1060,10.9,0.194,0.98,27.84,57910,10.6
+Ohio,"News Analysts, Reporters, and Journalists",1610,12.2,0.296,0.99,27.85,57940,6.1
+Ohio,Public Relations Specialists,7630,3.8,1.401,0.84,30.87,64210,1.8
+Ohio,Editors,2530,13.7,0.464,0.71,28.93,60170,2.9
+Ohio,Technical Writers,1500,6.5,0.276,0.8,30.95,64380,1.7
+Ohio,Writers and Authors,1190,8.2,0.219,0.7,25.86,53790,2.1
+Ohio,Interpreters and Translators,2310,4.8,0.424,1.06,27.36,56900,6.1
+Ohio,Court Reporters and Simultaneous Captioners,360,17.4,0.067,0.68,24.82,51630,5.9
+Ohio,"Media and Communication Workers, All Other",1460,7.9,0.268,1.56,21.48,44690,4.6
+Ohio,Audio and Video Technicians,1900,10,0.348,0.69,21.14,43980,3.3
+Ohio,Broadcast Technicians,660,14.7,0.12,0.62,22.2,46180,5.3
+Ohio,Sound Engineering Technicians,190,21.5,0.034,0.39,26.1,54300,6.4
+Ohio,Photographers,1670,13.9,0.307,0.89,18.4,38280,4.1
+Ohio,"Camera Operators, Television, Video, and Film",380,10.9,0.07,0.48,27.17,56510,10.1
+Ohio,Film and Video Editors,340,10.4,0.062,0.33,27.74,57690,6.5
+Ohio,"Lighting Technicians and Media and Communication Equipment Workers, All Other",280,11.6,0.051,0.32,30.62,63680,4.8
+Ohio,Healthcare Practitioners and Technical Occupations,363390,1.9,66.705,1.13,37.4,77800,1.8
+Ohio,Chiropractors,1420,7.8,0.26,1.09,53.83,111960,6.4
+Ohio,"Dentists, General",3370,8.3,0.619,0.82,93.97,195460,4.8
+Ohio,Oral and Maxillofacial Surgeons,**,**,**,**,129.23,268800,20.1
+Ohio,Orthodontists,180,40.2,0.032,0.79,100.7,209450,23.5
+Ohio,"Dentists, All Other Specialists",130,24.9,0.024,0.65,72.26,150310,9.5
+Ohio,Dietitians and Nutritionists,2450,4,0.449,0.98,28.22,58700,1.3
+Ohio,Optometrists,1440,12,0.264,0.98,60.49,125820,7.2
+Ohio,Pharmacists,12510,4.3,2.297,1.08,56.26,117020,1.1
+Ohio,Physician Assistants,4580,4.8,0.84,1.03,51.65,107430,1.6
+Ohio,Podiatrists,380,11.6,0.07,1.05,76.61,159350,7.3
+Ohio,Occupational Therapists,5580,5.3,1.024,1.13,40.64,84520,1
+Ohio,Physical Therapists,8220,5.1,1.509,0.95,42.12,87600,0.8
+Ohio,Radiation Therapists,570,19.5,0.106,0.87,42.2,87770,1.9
+Ohio,Recreational Therapists,690,7.3,0.127,0.98,22.63,47070,2.1
+Ohio,Respiratory Therapists,6190,5.4,1.136,1.26,27.93,58090,0.7
+Ohio,Speech-Language Pathologists,6200,4.3,1.138,1.08,36.89,76740,1.3
+Ohio,Exercise Physiologists,270,14,0.049,0.99,24.41,50760,1.6
+Ohio,"Therapists, All Other",450,6.8,0.082,0.99,34.37,71490,2.7
+Ohio,Veterinarians,2600,10.6,0.477,0.94,52.94,110110,3.9
+Ohio,Registered Nurses,125470,3.3,23.031,1.13,32.8,68220,0.6
+Ohio,Nurse Anesthetists,2450,14.6,0.45,1.52,88.64,184380,5.6
+Ohio,Nurse Midwives,330,29.5,0.06,1.28,49.97,103930,3.1
+Ohio,Nurse Practitioners,8950,6.3,1.643,1.2,49.89,103780,1.2
+Ohio,Audiologists,**,**,**,**,33.93,70570,1.4
+Ohio,Anesthesiologists,1150,14.2,0.211,1,#,#,7.7
+Ohio,Family Medicine Physicians,2940,8.9,0.539,0.72,87.47,181940,8.9
+Ohio,General Internal Medicine Physicians,1860,16.1,0.341,1.12,94.64,196860,6.8
+Ohio,Obstetricians and Gynecologists,860,13.9,0.157,1.24,124.27,258480,6
+Ohio,"Pediatricians, General",1850,17.7,0.34,1.68,78.39,163050,6.7
+Ohio,Psychiatrists,800,13.6,0.147,0.84,103.12,214490,7.5
+Ohio,"Physicians, All Other; and Ophthalmologists, Except Pediatric",16910,4.2,3.103,1.17,102.85,213930,4.6
+Ohio,"Surgeons, Except Ophthalmologists",1580,13.1,0.29,1.18,134.63,280030,5.9
+Ohio,Dental Hygienists,9670,5.9,1.775,1.18,32.65,67900,1.6
+Ohio,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",610,10.5,0.112,0.45,41.39,86100,3.8
+Ohio,Clinical Laboratory Technologists and Technicians,11120,5.4,2.042,0.92,25.34,52700,1.3
+Ohio,Cardiovascular Technologists and Technicians,1820,7.6,0.333,0.87,26.09,54260,1.4
+Ohio,Diagnostic Medical Sonographers,2940,6.3,0.539,1.09,32.28,67150,1.1
+Ohio,Nuclear Medicine Technologists,860,10.7,0.158,1.28,34.96,72720,0.8
+Ohio,Radiologic Technologists and Technicians,8280,4.2,1.52,1.08,29.28,60890,3.7
+Ohio,Magnetic Resonance Imaging Technologists,1350,8,0.248,0.96,31.81,66160,1.1
+Ohio,Emergency Medical Technicians and Paramedics,9340,4.2,1.714,0.97,16.36,34020,1.4
+Ohio,Dietetic Technicians,1400,12.1,0.257,1.29,14.08,29280,2.7
+Ohio,Pharmacy Technicians,16470,3.6,3.024,1.06,15.08,31360,1.2
+Ohio,Psychiatric Technicians,1550,16.7,0.285,0.53,15.84,32940,2.9
+Ohio,Surgical Technologists,3700,5.7,0.679,0.91,23.31,48470,0.9
+Ohio,Veterinary Technologists and Technicians,3590,11.1,0.658,0.87,16.67,34660,3
+Ohio,Ophthalmic Medical Technicians,2550,13.4,0.468,1.17,18.59,38670,2
+Ohio,Licensed Practical and Licensed Vocational Nurses,41150,2.1,7.554,1.59,21.64,45020,0.5
+Ohio,"Opticians, Dispensing",3240,10.3,0.594,1.21,20.43,42490,2.4
+Ohio,Orthotists and Prosthetists,**,**,**,**,33.96,70650,3.8
+Ohio,Hearing Aid Specialists,170,23.7,0.031,0.55,22.49,46790,2.7
+Ohio,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",16500,4.5,3.028,1.34,21.79,45330,2.5
+Ohio,Athletic Trainers,1250,13.2,0.23,1.18,*,48330,1
+Ohio,Genetic Counselors,130,23.6,0.023,1.43,38.23,79510,1.9
+Ohio,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,32.99,68620,4.9
+Ohio,Healthcare Support Occupations,229320,1.3,42.095,0.95,14.29,29720,0.6
+Ohio,Home Health and Personal Care Aides,94870,2.6,17.415,0.81,11.45,23810,0.6
+Ohio,Nursing Assistants,64360,2.3,11.813,1.22,13.79,28690,0.5
+Ohio,Orderlies,2370,9.5,0.435,1.36,13.88,28880,1
+Ohio,Psychiatric Aides,1020,9.8,0.188,0.5,16.98,35320,2.1
+Ohio,Occupational Therapy Assistants,3990,6.8,0.732,2.39,29.24,60810,1
+Ohio,Occupational Therapy Aides,200,19.7,0.037,0.73,16.75,34840,4
+Ohio,Physical Therapist Assistants,6040,5.3,1.109,1.68,28.57,59410,0.8
+Ohio,Physical Therapist Aides,630,11.3,0.115,0.34,13.82,28740,3.3
+Ohio,Massage Therapists,2280,9.4,0.418,0.57,20.34,42300,4.2
+Ohio,Dental Assistants,10910,4.2,2.002,0.84,19.69,40950,1.8
+Ohio,Medical Assistants,25640,3.2,4.706,0.97,15.89,33060,0.8
+Ohio,Medical Equipment Preparers,2050,6.9,0.377,0.97,17.83,37090,1.1
+Ohio,Medical Transcriptionists,1380,16.5,0.253,0.67,18.42,38310,1.6
+Ohio,Pharmacy Aides,710,15.4,0.131,0.52,13.02,27070,2.6
+Ohio,Veterinary Assistants and Laboratory Animal Caretakers,3790,13.5,0.697,1.05,13.05,27150,2.3
+Ohio,Phlebotomists,5990,7.7,1.1,1.26,16.71,34760,1.1
+Ohio,"Healthcare Support Workers, All Other",3080,16.5,0.566,0.89,19.91,41410,2.3
+Ohio,Protective Service Occupations,117130,1.8,21.501,0.9,22.37,46530,1.6
+Ohio,First-Line Supervisors of Correctional Officers,590,3.9,0.108,0.34,32.45,67490,1.5
+Ohio,First-Line Supervisors of Police and Detectives,2650,2.5,0.486,0.59,40.91,85100,1
+Ohio,First-Line Supervisors of Firefighting and Prevention Workers,2300,3.2,0.423,0.89,36.96,76870,2
+Ohio,"Miscellaneous First-Line Supervisors, Protective Service Workers",2480,5.1,0.455,0.81,21.52,44760,3.1
+Ohio,Firefighters,19200,3,3.525,1.59,22.99,47820,2.2
+Ohio,Fire Inspectors and Investigators,300,9.4,0.055,0.59,30.84,64160,9.6
+Ohio,Forest Fire Inspectors and Prevention Specialists,30,28.9,0.006,0.41,32.91,68440,4.4
+Ohio,Bailiffs,1400,2.7,0.257,1.92,23.81,49520,1.9
+Ohio,Correctional Officers and Jailers,13780,4.8,2.53,0.88,22.26,46300,0.8
+Ohio,Detectives and Criminal Investigators,1940,2,0.356,0.5,37.39,77770,2.9
+Ohio,Fish and Game Wardens,140,0.7,0.025,0.54,32.37,67320,0.7
+Ohio,Parking Enforcement Workers,120,5.1,0.023,0.44,19.22,39980,3.5
+Ohio,Police and Sheriff's Patrol Officers,24790,2.3,4.551,1,30.23,62880,1.9
+Ohio,Transit and Railroad Police,160,2.7,0.029,0.92,37.29,77550,6.6
+Ohio,Animal Control Workers,330,5.1,0.061,0.75,18,37450,1.6
+Ohio,Private Detectives and Investigators,1510,24,0.277,1.16,23.78,49470,5.3
+Ohio,Gambling Surveillance Officers and Gambling Investigators,280,15.2,0.051,0.73,26.8,55740,3.1
+Ohio,Security Guards,30360,4.3,5.574,0.73,16.1,33490,2.4
+Ohio,Crossing Guards and Flaggers,2810,14.6,0.516,0.89,14.13,29380,4.7
+Ohio,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",6600,6.2,1.212,1.24,9.98,20760,1
+Ohio,Transportation Security Screeners,820,1.9,0.151,0.48,20.51,42670,2.1
+Ohio,"School Bus Monitors and Protective Service Workers, All Other",4520,7.7,0.83,0.83,14.81,30800,2.1
+Ohio,Food Preparation and Serving Related Occupations,501990,0.7,92.146,1,11.47,23850,0.5
+Ohio,Chefs and Head Cooks,3390,11.3,0.623,0.71,22.16,46100,2.1
+Ohio,First-Line Supervisors of Food Preparation and Serving Workers,41690,2.7,7.653,1.11,16.17,33640,1.1
+Ohio,"Cooks, Fast Food",18190,11.4,3.34,0.93,10.68,22220,1.7
+Ohio,"Cooks, Institution and Cafeteria",20630,4.2,3.787,1.38,13.41,27900,0.8
+Ohio,"Cooks, Restaurant",42530,4.3,7.806,0.82,12.55,26100,1
+Ohio,"Cooks, Short Order",6520,15.8,1.197,1.15,10.81,22480,2.3
+Ohio,"Cooks, All Other",120,46.2,0.022,0.16,11.59,24100,6.4
+Ohio,Food Preparation Workers,24550,8.2,4.506,0.77,11.66,24260,1.1
+Ohio,Bartenders,25180,4.7,4.621,1.05,10.86,22590,1.8
+Ohio,Fast Food and Counter Workers,175500,2.4,32.215,1.18,10.22,21270,0.6
+Ohio,Waiters and Waitresses,87960,3,16.146,0.92,11.28,23460,1.3
+Ohio,"Food Servers, Nonrestaurant",13500,5.5,2.477,1.31,11.08,23050,1
+Ohio,Dining Room and Cafeteria Attendants and Bartender Helpers,10080,8.8,1.851,0.57,10.18,21170,1
+Ohio,Dishwashers,14460,6.4,2.654,0.76,10.55,21940,1.1
+Ohio,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",15860,6.9,2.911,1.01,10.06,20920,1
+Ohio,"Food Preparation and Serving Related Workers, All Other",1820,20.4,0.334,0.68,10.92,22700,3.4
+Ohio,Building and Grounds Cleaning and Maintenance Occupations,155470,1.4,28.538,0.95,14.2,29540,0.6
+Ohio,First-Line Supervisors of Housekeeping and Janitorial Workers,4370,5.4,0.803,0.76,21.63,45000,1.7
+Ohio,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3330,8.8,0.612,0.87,23.86,49620,2.4
+Ohio,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",79690,2.2,14.627,1,13.81,28720,0.8
+Ohio,Maids and Housekeeping Cleaners,26600,4,4.882,0.77,11.25,23400,0.6
+Ohio,"Building Cleaning Workers, All Other",**,**,**,**,17.44,36270,7.3
+Ohio,Pest Control Workers,1590,9.2,0.291,0.54,21.61,44960,10.1
+Ohio,Landscaping and Groundskeeping Workers,37830,2.6,6.945,1.12,14.84,30870,1.4
+Ohio,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",610,32.5,0.112,0.64,17.62,36650,8.2
+Ohio,Tree Trimmers and Pruners,970,33.2,0.177,0.55,20.08,41770,2.2
+Ohio,"Grounds Maintenance Workers, All Other",140,8.2,0.026,0.27,18.58,38640,7
+Ohio,Personal Care and Service Occupations,105700,2.3,19.403,0.86,13.34,27740,0.8
+Ohio,First-Line Supervisors of Gambling Services Workers,400,15.4,0.073,0.37,25,52000,3
+Ohio,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",6500,4.3,1.193,0.8,18.77,39040,1.7
+Ohio,Animal Trainers,510,26.7,0.094,0.84,16.08,33450,9
+Ohio,Animal Caretakers,7640,6.1,1.403,0.97,11.99,24940,1.6
+Ohio,Gambling Dealers,1130,19.4,0.208,0.31,11.28,23470,6.5
+Ohio,Gambling and Sports Book Writers and Runners,**,**,**,**,12.3,25580,4.2
+Ohio,"Gambling Service Workers, All Other",120,35.8,0.022,0.31,13.47,28010,7.8
+Ohio,Motion Picture Projectionists,**,**,**,**,13.64,28370,7.3
+Ohio,"Ushers, Lobby Attendants, and Ticket Takers",3760,11.3,0.691,0.73,10.12,21040,1.4
+Ohio,Amusement and Recreation Attendants,11010,9.9,2.022,0.88,10.31,21440,0.9
+Ohio,Costume Attendants,70,13.2,0.013,0.26,16.63,34600,3.3
+Ohio,"Locker Room, Coatroom, and Dressing Room Attendants",550,13.8,0.1,0.92,11.27,23440,3
+Ohio,"Entertainment Attendants and Related Workers, All Other",160,44.8,0.029,0.96,15.83,32930,10.9
+Ohio,Embalmers,230,30,0.041,1.56,26.18,54440,9.7
+Ohio,Funeral Attendants,2400,9.3,0.441,1.89,13.46,28000,3.1
+Ohio,"Morticians, Undertakers, and Funeral Arrangers",1520,12.9,0.28,1.62,28.33,58930,3.5
+Ohio,Barbers,**,**,**,**,18.45,38380,11.7
+Ohio,"Hairdressers, Hairstylists, and Cosmetologists",16970,5.2,3.115,1.19,13.25,27560,2.3
+Ohio,Manicurists and Pedicurists,2200,19.9,0.404,0.53,12.51,26030,5
+Ohio,Shampooers,160,40.5,0.03,0.36,10.13,21070,4.2
+Ohio,Skincare Specialists,1040,15,0.192,0.5,18.97,39460,7.2
+Ohio,Baggage Porters and Bellhops,610,31.4,0.112,0.41,10.77,22410,2.8
+Ohio,Concierges,730,14.2,0.134,0.47,14.16,29460,2.8
+Ohio,Tour and Travel Guides,780,13.2,0.143,0.43,11.86,24670,2.8
+Ohio,Childcare Workers,18710,8.1,3.434,0.9,11.43,23780,1.2
+Ohio,Exercise Trainers and Group Fitness Instructors,9920,5.7,1.82,0.82,16.58,34490,2.4
+Ohio,Recreation Workers,13960,4.1,2.562,1.05,12.68,26380,1.4
+Ohio,Residential Advisors,3250,8,0.597,0.81,14.39,29930,1.6
+Ohio,"Crematory Operators and Personal Care and Service Workers, All Other",730,18.5,0.134,0.32,11.93,24820,3
+Ohio,Sales and Related Occupations,500900,1,91.945,0.94,19.82,41220,0.8
+Ohio,First-Line Supervisors of Retail Sales Workers,38470,2.3,7.061,0.89,20.99,43650,1.2
+Ohio,First-Line Supervisors of Non-Retail Sales Workers,8300,4.4,1.524,0.9,40.55,84340,2
+Ohio,Cashiers,117440,2.8,21.558,0.88,11.05,22980,0.6
+Ohio,Gambling Change Persons and Booth Cashiers,**,**,**,**,11.6,24120,2.1
+Ohio,Counter and Rental Clerks,12800,5.1,2.349,0.84,14.25,29650,1.7
+Ohio,Parts Salespersons,10070,7.4,1.848,1.06,15.93,33130,2.3
+Ohio,Retail Salespersons,148470,2.3,27.254,0.93,13.43,27940,1.1
+Ohio,Advertising Sales Agents,3410,7.3,0.625,0.71,25.43,52900,3.6
+Ohio,Insurance Sales Agents,16330,3.5,2.998,1.07,30.93,64330,3.2
+Ohio,"Securities, Commodities, and Financial Services Sales Agents",15120,7.7,2.775,0.93,34.74,72250,2.8
+Ohio,Travel Agents,1450,10.3,0.266,0.59,18.81,39130,3
+Ohio,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",33920,3.1,6.227,0.88,30.98,64430,2
+Ohio,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",12710,5.6,2.332,1.12,43.24,89940,2.3
+Ohio,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",56990,2.3,10.461,1.14,33.55,69790,1.4
+Ohio,Demonstrators and Product Promoters,1600,15.8,0.293,0.55,16.61,34550,4.6
+Ohio,Real Estate Brokers,760,19.7,0.14,0.48,35.48,73800,13.7
+Ohio,Real Estate Sales Agents,6130,6.3,1.125,1.02,22.8,47420,5.6
+Ohio,Sales Engineers,2050,9.9,0.376,0.87,46.18,96060,2.5
+Ohio,Telemarketers,11130,12.7,2.043,2.23,12.59,26190,2.4
+Ohio,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",220,26,0.041,0.67,18.82,39140,18.7
+Ohio,"Sales and Related Workers, All Other",2780,5.8,0.51,0.63,18.12,37690,3.3
+Ohio,Office and Administrative Support Occupations,721700,0.7,132.477,1,18.91,39320,0.2
+Ohio,First-Line Supervisors of Office and Administrative Support Workers,46740,1.3,8.58,0.85,28.13,58510,0.6
+Ohio,"Switchboard Operators, Including Answering Service",2770,13.3,0.508,1.1,13.97,29050,3.1
+Ohio,Telephone Operators,420,17.2,0.076,2.36,15.2,31620,4.8
+Ohio,"Communications Equipment Operators, All Other",100,6.4,0.019,0.85,21.18,44060,2
+Ohio,Bill and Account Collectors,9890,6,1.815,1.13,17.77,36960,1.6
+Ohio,Billing and Posting Clerks,19220,3.7,3.528,1.11,18.5,38470,0.7
+Ohio,"Bookkeeping, Accounting, and Auditing Clerks",53120,1.7,9.751,0.95,19.49,40530,0.5
+Ohio,Gambling Cage Workers,330,29.5,0.06,0.61,13.99,29090,2.7
+Ohio,Payroll and Timekeeping Clerks,5170,4.3,0.95,0.98,21.69,45120,0.9
+Ohio,Procurement Clerks,3190,18.8,0.586,1.3,20.5,42630,1.7
+Ohio,Tellers,17250,4.3,3.166,1.05,14.71,30600,1
+Ohio,"Financial Clerks, All Other",1320,12.1,0.241,1.16,20.55,42740,2.5
+Ohio,Brokerage Clerks,1830,7.9,0.336,1.03,24.68,51340,1.3
+Ohio,Correspondence Clerks,250,12.5,0.046,1.07,17.39,36170,1.8
+Ohio,"Court, Municipal, and License Clerks",9920,2.6,1.82,1.74,18.61,38700,1
+Ohio,"Credit Authorizers, Checkers, and Clerks",1040,17.5,0.19,1.05,18.66,38820,2.8
+Ohio,Customer Service Representatives,110020,2.1,20.195,1.02,17.72,36850,0.7
+Ohio,"Eligibility Interviewers, Government Programs",4600,3.9,0.845,0.89,21.57,44870,1.7
+Ohio,File Clerks,3070,5.5,0.564,0.81,17.11,35580,1.6
+Ohio,"Hotel, Motel, and Resort Desk Clerks",6600,6.4,1.211,0.66,10.92,22720,1.2
+Ohio,"Interviewers, Except Eligibility and Loan",6890,7.3,1.265,0.99,15.96,33190,1.8
+Ohio,"Library Assistants, Clerical",5070,6.1,0.93,1.59,13.41,27900,3.4
+Ohio,Loan Interviewers and Clerks,8110,4.8,1.489,1.05,19.49,40540,1.2
+Ohio,New Accounts Clerks,980,21.8,0.18,0.61,16.76,34860,2.3
+Ohio,Order Clerks,5920,7.9,1.087,1.16,16.54,34410,2.2
+Ohio,"Human Resources Assistants, Except Payroll and Timekeeping",4590,6.8,0.842,1.05,19.2,39930,1
+Ohio,Receptionists and Information Clerks,36340,2.8,6.671,0.93,13.89,28880,0.7
+Ohio,Reservation and Transportation Ticket Agents and Travel Clerks,1740,17.6,0.319,0.38,22.46,46710,5.2
+Ohio,"Information and Record Clerks, All Other",3140,4.5,0.576,0.55,20.83,43320,1.1
+Ohio,Cargo and Freight Agents,3130,13.9,0.575,0.88,20.65,42960,2
+Ohio,Couriers and Messengers,2180,12.1,0.401,0.79,14.41,29970,3.1
+Ohio,Public Safety Telecommunicators,4530,6,0.832,1.28,22.03,45820,1.2
+Ohio,"Dispatchers, Except Police, Fire, and Ambulance",7270,6.5,1.334,0.98,20.34,42310,1.6
+Ohio,"Meter Readers, Utilities",2070,19.4,0.38,1.83,20.94,43550,3.9
+Ohio,Postal Service Clerks,2760,0,0.507,0.92,24.12,50180,0.6
+Ohio,Postal Service Mail Carriers,13680,0,2.51,1.09,24.82,51620,0.8
+Ohio,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",3920,0,0.719,1.03,23.92,49750,1.4
+Ohio,"Production, Planning, and Expediting Clerks",20090,3.7,3.687,1.46,24.16,50250,1.1
+Ohio,"Shipping, Receiving, and Inventory Clerks",39460,3.7,7.244,1.51,16.87,35090,0.5
+Ohio,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",1680,7.9,0.308,0.74,17.51,36410,1.8
+Ohio,Executive Secretaries and Executive Administrative Assistants,14550,2.5,2.671,0.72,28.42,59110,1.3
+Ohio,Legal Secretaries and Administrative Assistants,4620,7,0.848,0.74,22.06,45880,2.5
+Ohio,Medical Secretaries and Administrative Assistants,31110,4.1,5.71,1.39,17.14,35650,1.1
+Ohio,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",57340,1.8,10.525,0.76,17.8,37030,0.5
+Ohio,Data Entry Keyers,5160,6.6,0.948,0.87,16.1,33480,1.3
+Ohio,Word Processors and Typists,1120,10.8,0.206,0.64,18.9,39320,2.1
+Ohio,Desktop Publishers,200,17,0.036,0.61,24.2,50340,3.3
+Ohio,Insurance Claims and Policy Processing Clerks,10450,7.3,1.918,1.1,19.08,39690,1.3
+Ohio,"Mail Clerks and Mail Machine Operators, Except Postal Service",3340,8.2,0.614,1.08,15.67,32590,1.4
+Ohio,"Office Clerks, General",116010,1.7,21.294,1.06,17.63,36660,0.6
+Ohio,"Office Machine Operators, Except Computer",2650,10.8,0.486,1.55,15.8,32870,2.2
+Ohio,Proofreaders and Copy Markers,**,**,**,**,22.66,47130,3
+Ohio,Statistical Assistants,500,18.6,0.093,1.38,21.79,45320,3.2
+Ohio,"Office and Administrative Support Workers, All Other",3890,6.9,0.713,0.56,19.33,40210,1.7
+Ohio,"Farming, Fishing, and Forestry Occupations",5500,8.5,1.009,0.31,16.43,34160,2.9
+Ohio,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",360,18.1,0.065,0.42,27.08,56330,6.3
+Ohio,Agricultural Inspectors,430,13.8,0.08,0.85,23.71,49320,6.4
+Ohio,Animal Breeders,70,2.7,0.013,1.22,37.15,77260,2.2
+Ohio,"Graders and Sorters, Agricultural Products",360,29.6,0.066,0.28,12.88,26800,3.3
+Ohio,Agricultural Equipment Operators,490,23.8,0.09,0.49,19.07,39660,2.1
+Ohio,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2290,16.6,0.42,0.21,13.34,27740,5.7
+Ohio,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1020,14.6,0.186,0.75,14.16,29450,3.6
+Ohio,Forest and Conservation Workers,40,24.6,0.007,0.14,19.82,41230,2.5
+Ohio,Fallers,30,19.7,0.006,0.19,22.09,45960,4.6
+Ohio,Logging Equipment Operators,250,16.7,0.046,0.26,18.59,38670,5.5
+Ohio,Log Graders and Scalers,110,21.1,0.021,0.93,17.03,35420,3.9
+Ohio,"Logging Workers, All Other",**,**,**,**,15.06,31310,15
+Ohio,Construction and Extraction Occupations,187600,1.3,34.435,0.82,24.81,51610,0.5
+Ohio,First-Line Supervisors of Construction Trades and Extraction Workers,15180,3.3,2.787,0.65,33.17,69000,1
+Ohio,Boilermakers,820,19.2,0.151,1.41,34.97,72730,3.1
+Ohio,Brickmasons and Blockmasons,2990,9.9,0.549,1.33,26.58,55280,2.5
+Ohio,Stonemasons,230,34.4,0.043,0.51,19.41,40360,6.6
+Ohio,Carpenters,18950,4.7,3.479,0.7,24.05,50030,1.4
+Ohio,Carpet Installers,610,16.7,0.112,0.63,18.01,37460,4.7
+Ohio,"Floor Layers, Except Carpet, Wood, and Hard Tiles",930,33.2,0.172,1.55,21.79,45330,2.5
+Ohio,Floor Sanders and Finishers,50,36.3,0.009,0.26,20.49,42610,8.6
+Ohio,Tile and Stone Setters,680,19.9,0.126,0.46,20.45,42540,8.3
+Ohio,Cement Masons and Concrete Finishers,6390,8,1.173,0.88,23.8,49500,2.3
+Ohio,Construction Laborers,35900,3.4,6.59,0.95,22.21,46190,1.1
+Ohio,"Paving, Surfacing, and Tamping Equipment Operators",1560,14.7,0.287,0.92,23.55,48980,5.1
+Ohio,Pile Driver Operators,30,49.8,0.006,0.23,*,*,*
+Ohio,Operating Engineers and Other Construction Equipment Operators,15440,4.2,2.833,1.03,26.99,56140,1.2
+Ohio,Drywall and Ceiling Tile Installers,1230,33.3,0.226,0.32,21.03,43740,7.3
+Ohio,Tapers,130,28.3,0.025,0.2,29.61,61590,4.6
+Ohio,Electricians,25180,3.6,4.621,0.99,25.74,53540,1.3
+Ohio,Glaziers,1300,15.9,0.239,0.67,23.35,48560,4.8
+Ohio,"Insulation Workers, Floor, Ceiling, and Wall",950,16.6,0.174,0.76,22.86,47560,5.6
+Ohio,"Insulation Workers, Mechanical",610,20.8,0.112,0.62,25.55,53130,3.6
+Ohio,"Painters, Construction and Maintenance",5870,6.1,1.078,0.68,21.31,44320,2.3
+Ohio,Paperhangers,150,27.7,0.028,1.21,20.09,41790,3
+Ohio,Pipelayers,860,12.9,0.159,0.64,24.66,51280,5.6
+Ohio,"Plumbers, Pipefitters, and Steamfitters",13330,7.1,2.447,0.81,27.02,56210,1.5
+Ohio,Plasterers and Stucco Masons,180,33.7,0.033,0.18,23.9,49720,3.6
+Ohio,Reinforcing Iron and Rebar Workers,**,**,**,**,31.5,65510,4.7
+Ohio,Roofers,5070,6.9,0.93,1.05,20.36,42340,2.3
+Ohio,Sheet Metal Workers,4140,12.1,0.76,0.85,26.08,54250,2.2
+Ohio,Structural Iron and Steel Workers,3460,10,0.634,1.22,28.91,60140,1.3
+Ohio,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",500,21.5,0.091,0.57,20.45,42530,4
+Ohio,Helpers--Carpenters,320,27.4,0.058,0.26,15.03,31260,3.7
+Ohio,Helpers--Electricians,790,18.6,0.146,0.27,15.26,31730,3.9
+Ohio,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",130,46.7,0.024,0.32,14.37,29880,5.6
+Ohio,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",900,21.7,0.165,0.41,15.47,32170,6.4
+Ohio,Helpers--Roofers,330,30,0.06,0.99,15.98,33240,3.6
+Ohio,"Helpers, Construction Trades, All Other",530,17.7,0.097,0.5,15.75,32750,2.9
+Ohio,Construction and Building Inspectors,2720,5.6,0.5,0.66,29.51,61380,1.7
+Ohio,Elevator and Escalator Installers and Repairers,590,22.1,0.108,0.56,41.78,86910,2.9
+Ohio,Fence Erectors,700,21.2,0.128,0.73,21.02,43720,7.6
+Ohio,Hazardous Materials Removal Workers,2280,13.4,0.418,1.39,23.8,49500,7.2
+Ohio,Highway Maintenance Workers,7760,4.4,1.424,1.39,20.59,42820,1.2
+Ohio,Rail-Track Laying and Maintenance Equipment Operators,**,**,**,**,23.11,48060,4.4
+Ohio,Septic Tank Servicers and Sewer Pipe Cleaners,1640,10.4,0.301,1.48,21.64,45020,1.5
+Ohio,Miscellaneous Construction and Related Workers,820,17,0.15,0.69,18.29,38040,2.7
+Ohio,"Rotary Drill Operators, Oil and Gas",200,13.7,0.037,0.26,22.7,47210,4.4
+Ohio,"Service Unit Operators, Oil and Gas",790,15.3,0.145,0.41,26.72,55570,4
+Ohio,"Excavating and Loading Machine and Dragline Operators, Surface Mining",850,14.6,0.156,0.52,21.96,45670,5
+Ohio,Continuous Mining Machine Operators,320,39.6,0.059,0.59,27.03,56230,2.3
+Ohio,"Loading and Moving Machine Operators, Underground Mining",150,39.4,0.027,0.94,21.22,44130,5.8
+Ohio,"Rock Splitters, Quarry",240,47.1,0.044,1.27,17.4,36190,5.3
+Ohio,"Roustabouts, Oil and Gas",730,13.8,0.134,0.33,18.98,39480,2.4
+Ohio,Helpers--Extraction Workers,500,21.7,0.093,0.81,19.05,39630,5.8
+Ohio,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",520,21.6,0.095,0.56,22.83,47480,3.4
+Ohio,"Underground Mining Machine Operators and Extraction Workers, All Other",220,49.6,0.04,0.43,20.74,43140,4.8
+Ohio,"Installation, Maintenance, and Repair Occupations",214930,1.3,39.453,1.01,22.88,47600,0.5
+Ohio,"First-Line Supervisors of Mechanics, Installers, and Repairers",16360,2.4,3.003,0.91,32.37,67330,0.7
+Ohio,"Computer, Automated Teller, and Office Machine Repairers",3360,10.1,0.616,0.92,18.78,39070,2.3
+Ohio,"Radio, Cellular, and Tower Equipment Installers and Repairers",370,24.8,0.068,0.7,30.15,62710,7.6
+Ohio,"Telecommunications Equipment Installers and Repairers, Except Line Installers",7510,10.2,1.378,0.97,27.14,56440,3.7
+Ohio,Avionics Technicians,180,6.4,0.033,0.22,26.78,55700,6.9
+Ohio,"Electric Motor, Power Tool, and Related Repairers",740,19.6,0.136,1.26,21.74,45220,3.7
+Ohio,"Electrical and Electronics Installers and Repairers, Transportation Equipment",260,28.8,0.047,0.71,29.03,60380,2.8
+Ohio,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1700,11.8,0.312,0.78,27.69,57600,1.8
+Ohio,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",480,33.3,0.088,0.57,32.4,67400,2.7
+Ohio,"Electronic Equipment Installers and Repairers, Motor Vehicles",240,21.6,0.043,0.62,17.77,36960,3
+Ohio,Audiovisual Equipment Installers and Repairers,940,35.6,0.172,0.99,14.84,30870,6.8
+Ohio,Security and Fire Alarm Systems Installers,2260,10.6,0.414,0.85,21.94,45630,2.6
+Ohio,Aircraft Mechanics and Service Technicians,4150,21,0.761,0.84,30.57,63580,3.2
+Ohio,Automotive Body and Related Repairers,5110,8.1,0.938,0.96,20.39,42410,3
+Ohio,Automotive Glass Installers and Repairers,860,28.8,0.158,1.19,18.36,38180,2.6
+Ohio,Automotive Service Technicians and Mechanics,25310,3.2,4.647,1.04,19.73,41030,1.4
+Ohio,Bus and Truck Mechanics and Diesel Engine Specialists,9330,6.2,1.713,0.94,22.76,47350,1
+Ohio,Farm Equipment Mechanics and Service Technicians,1460,15.2,0.268,1.09,21.37,44440,3.3
+Ohio,"Mobile Heavy Equipment Mechanics, Except Engines",4380,9.8,0.804,0.8,25.93,53940,1.5
+Ohio,Rail Car Repairers,**,**,**,**,24.61,51180,3.4
+Ohio,Motorboat Mechanics and Service Technicians,400,23.2,0.074,0.47,18.32,38100,3.9
+Ohio,Motorcycle Mechanics,700,18.8,0.128,1.21,17.21,35790,3
+Ohio,Outdoor Power Equipment and Other Small Engine Mechanics,1260,14.5,0.231,1.06,16.33,33970,3.2
+Ohio,Bicycle Repairers,200,44.9,0.038,0.42,12.89,26810,7.4
+Ohio,Recreational Vehicle Service Technicians,510,26.5,0.093,0.88,17.54,36480,3.7
+Ohio,Tire Repairers and Changers,3660,12.6,0.671,0.89,14.58,30340,3.2
+Ohio,Mechanical Door Repairers,1270,19.6,0.233,1.48,20.71,43070,2.9
+Ohio,"Control and Valve Installers and Repairers, Except Mechanical Door",1390,9,0.256,0.72,31.58,65690,2.7
+Ohio,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",12100,5.9,2.22,0.95,23.24,48350,1.5
+Ohio,Home Appliance Repairers,1320,23.2,0.242,1.14,20.28,42180,4.5
+Ohio,Industrial Machinery Mechanics,20980,6.3,3.852,1.46,26.22,54530,0.9
+Ohio,"Maintenance Workers, Machinery",3270,7.7,0.601,1.21,23.08,48010,1.4
+Ohio,Millwrights,2870,7.7,0.528,1.64,28.07,58380,2
+Ohio,"Refractory Materials Repairers, Except Brickmasons",**,**,**,**,20.65,42940,3.9
+Ohio,Electrical Power-Line Installers and Repairers,3230,7.1,0.593,0.78,33.84,70390,1.5
+Ohio,Telecommunications Line Installers and Repairers,5230,14,0.96,1.17,21.51,44740,1.7
+Ohio,Camera and Photographic Equipment Repairers,100,46.2,0.018,0.72,16.71,34760,9
+Ohio,Medical Equipment Repairers,1880,10.6,0.344,1.09,24.87,51720,2.8
+Ohio,Musical Instrument Repairers and Tuners,320,34.6,0.059,1.08,17.18,35720,7.4
+Ohio,"Precision Instrument and Equipment Repairers, All Other",360,17.6,0.066,0.92,26.31,54730,2.1
+Ohio,"Maintenance and Repair Workers, General",57150,1.8,10.491,1.09,20.16,41930,0.6
+Ohio,Wind Turbine Service Technicians,30,47.9,0.006,0.14,27.14,56440,5
+Ohio,"Coin, Vending, and Amusement Machine Servicers and Repairers",1370,17.2,0.252,1.18,17.6,36600,2.2
+Ohio,Locksmiths and Safe Repairers,420,20.1,0.077,0.67,20.22,42060,4.1
+Ohio,Riggers,220,25.4,0.04,0.26,23.07,48000,6
+Ohio,Signal and Track Switch Repairers,**,**,**,**,27.82,57870,5.6
+Ohio,"Helpers--Installation, Maintenance, and Repair Workers",2260,9.9,0.415,0.61,15.28,31790,3.6
+Ohio,"Installation, Maintenance, and Repair Workers, All Other",6540,8.7,1.201,1.09,20.03,41670,2.5
+Ohio,Production Occupations,509690,1.2,93.558,1.5,19.12,39780,0.5
+Ohio,First-Line Supervisors of Production and Operating Workers,32460,1.4,5.958,1.39,30.95,64370,0.5
+Ohio,"Coil Winders, Tapers, and Finishers",600,12.5,0.11,1.28,19.56,40680,2.9
+Ohio,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",11760,8.1,2.158,1.11,17.27,35910,2.1
+Ohio,Engine and Other Machine Assemblers,7830,22.3,1.438,4.59,23.56,49000,4.1
+Ohio,Structural Metal Fabricators and Fitters,3370,7.2,0.619,1.18,18.07,37590,2.3
+Ohio,Fiberglass Laminators and Fabricators,690,14.2,0.128,0.94,16.55,34420,2.5
+Ohio,Miscellaneous Assemblers and Fabricators,83850,3.8,15.392,1.65,17.32,36020,2
+Ohio,Bakers,7010,5.5,1.287,1.02,13.67,28420,1.7
+Ohio,Butchers and Meat Cutters,4180,6.8,0.768,0.82,15.98,33230,1.6
+Ohio,"Meat, Poultry, and Fish Cutters and Trimmers",2380,18.1,0.437,0.42,14.42,29990,2.4
+Ohio,Slaughterers and Meat Packers,4110,13,0.755,1.51,13.34,27760,1.9
+Ohio,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",490,33.7,0.09,0.64,15.01,31220,3.1
+Ohio,Food Batchmakers,7510,6.8,1.379,1.27,15.44,32120,2.2
+Ohio,Food Cooking Machine Operators and Tenders,2120,7.2,0.39,1.91,15.28,31780,2.8
+Ohio,"Food Processing Workers, All Other",1840,24.3,0.338,1.16,12.74,26500,2.1
+Ohio,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",7480,7.6,1.373,2.62,17.42,36230,1.1
+Ohio,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1480,20.4,0.272,2.45,20.32,42270,2.5
+Ohio,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",4540,24.9,0.833,3.77,21.28,44270,2
+Ohio,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",17480,4.5,3.209,2.42,17.7,36820,2.8
+Ohio,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",680,16.3,0.124,1.68,20.6,42840,2.4
+Ohio,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",6480,5.6,1.19,2.27,17.86,37160,1.4
+Ohio,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2290,15.8,0.421,2.2,20.29,42210,2.1
+Ohio,Machinists,26290,4.8,4.826,1.85,21.33,44370,1.6
+Ohio,Metal-Refining Furnace Operators and Tenders,1550,11.9,0.285,2.44,17.66,36740,1.9
+Ohio,"Pourers and Casters, Metal",750,12.6,0.137,2.52,18.86,39230,5.4
+Ohio,"Model Makers, Metal and Plastic",240,37.3,0.045,1.53,19.34,40230,5.2
+Ohio,"Patternmakers, Metal and Plastic",240,19.7,0.043,2.12,23.03,47900,7.8
+Ohio,Foundry Mold and Coremakers,3000,20.6,0.551,4.6,15.19,31600,3.7
+Ohio,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",16390,5.2,3.008,2.56,15.62,32490,1.2
+Ohio,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",16800,5.7,3.083,3.08,18.65,38790,3.4
+Ohio,Tool and Die Makers,6670,5.6,1.224,2.54,24.94,51880,1.5
+Ohio,"Welders, Cutters, Solderers, and Brazers",18500,4.4,3.395,1.21,20.22,42060,1.1
+Ohio,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1810,12.8,0.332,1.39,19.88,41350,3.7
+Ohio,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1810,12.5,0.333,2.5,18.64,38760,2.9
+Ohio,"Layout Workers, Metal and Plastic",90,20.8,0.017,0.31,20.9,43470,2.6
+Ohio,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",3540,9.6,0.65,2.28,16.45,34220,2.2
+Ohio,"Tool Grinders, Filers, and Sharpeners",370,19.6,0.067,1.54,19.73,41030,5.3
+Ohio,"Metal Workers and Plastic Workers, All Other",1430,26.4,0.263,1.59,17.55,36500,2
+Ohio,Prepress Technicians and Workers,1760,8.2,0.324,1.57,20.22,42060,1.5
+Ohio,Printing Press Operators,9090,5.2,1.668,1.41,18.35,38180,1.2
+Ohio,Print Binding and Finishing Workers,2390,11,0.438,1.41,15.61,32470,1.5
+Ohio,Laundry and Dry-Cleaning Workers,8090,5.9,1.484,1.04,11.55,24010,1
+Ohio,"Pressers, Textile, Garment, and Related Materials",1090,14,0.201,0.77,12.17,25320,2
+Ohio,Sewing Machine Operators,4030,8.5,0.74,0.81,13.31,27690,1.9
+Ohio,Shoe and Leather Workers and Repairers,360,14.7,0.066,1.11,13.18,27410,3.4
+Ohio,Shoe Machine Operators and Tenders,80,41.6,0.015,0.45,12.81,26650,2.3
+Ohio,"Sewers, Hand",140,48.2,0.026,0.79,13.61,28300,3
+Ohio,"Tailors, Dressmakers, and Custom Sewers",950,36.1,0.174,1.06,16.51,34340,4.6
+Ohio,"Textile Cutting Machine Setters, Operators, and Tenders",260,14.4,0.047,0.53,15.36,31940,3.3
+Ohio,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",160,6,0.03,0.21,14.01,29140,4.2
+Ohio,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",**,**,**,**,17.38,36160,7.6
+Ohio,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",890,24.5,0.163,1.31,18.35,38170,6.8
+Ohio,Fabric and Apparel Patternmakers,100,24.2,0.018,0.46,14.71,30600,7.5
+Ohio,Upholsterers,620,13.6,0.114,0.57,16.33,33970,4
+Ohio,"Textile, Apparel, and Furnishings Workers, All Other",270,33.2,0.05,0.41,17.29,35970,3.5
+Ohio,Cabinetmakers and Bench Carpenters,4400,9.5,0.807,1.19,17.92,37270,2.1
+Ohio,Furniture Finishers,810,22.7,0.15,1.35,15.38,31980,1.6
+Ohio,"Sawing Machine Setters, Operators, and Tenders, Wood",1190,13.2,0.219,0.63,15.45,32130,1.9
+Ohio,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",3800,10,0.697,1.3,14.98,31160,2.1
+Ohio,"Woodworkers, All Other",260,33.4,0.047,1.03,17.1,35570,6.8
+Ohio,Power Distributors and Dispatchers,830,26.2,0.153,2.09,40.8,84870,2.6
+Ohio,Power Plant Operators,1010,15.8,0.186,0.81,39.34,81840,1.9
+Ohio,Stationary Engineers and Boiler Operators,1020,9.6,0.187,0.84,28.4,59070,1.4
+Ohio,Water and Wastewater Treatment Plant and System Operators,4660,3.5,0.855,1.02,23.69,49280,0.9
+Ohio,Chemical Plant and System Operators,1110,14.8,0.204,1.04,31.42,65350,3.5
+Ohio,Gas Plant Operators,410,30.8,0.075,0.76,35.71,74270,6.5
+Ohio,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",1070,16.3,0.196,0.71,35.34,73520,4.2
+Ohio,"Plant and System Operators, All Other",260,26.3,0.047,0.53,25.86,53800,5.1
+Ohio,Chemical Equipment Operators and Tenders,5970,11.5,1.095,1.85,22.91,47640,2.5
+Ohio,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1610,8.9,0.296,0.85,26.61,55340,6.6
+Ohio,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1800,11.4,0.33,1.45,19.47,40500,4
+Ohio,"Grinding and Polishing Workers, Hand",1840,15.2,0.338,1.7,15.38,32000,3.2
+Ohio,"Mixing and Blending Machine Setters, Operators, and Tenders",7660,5.6,1.406,1.65,19.22,39980,1.4
+Ohio,"Cutters and Trimmers, Hand",330,21.5,0.06,0.92,14.36,29860,3.3
+Ohio,"Cutting and Slicing Machine Setters, Operators, and Tenders",2740,9.1,0.503,1.28,17.84,37100,2.1
+Ohio,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",6900,7.4,1.266,2.59,16.52,34370,1.8
+Ohio,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",1510,8.5,0.277,2.14,18.32,38100,3
+Ohio,"Inspectors, Testers, Sorters, Samplers, and Weighers",32450,2.7,5.956,1.52,20.6,42840,1.3
+Ohio,Jewelers and Precious Stone and Metal Workers,510,23.6,0.094,0.59,18.07,37590,6.8
+Ohio,Dental Laboratory Technicians,1170,12.8,0.214,0.91,21.39,44480,2.3
+Ohio,Medical Appliance Technicians,810,21.4,0.149,1.55,19.7,40970,3.5
+Ohio,Ophthalmic Laboratory Technicians,1510,29.4,0.277,1.4,16.4,34120,3.6
+Ohio,Packaging and Filling Machine Operators and Tenders,18350,5.7,3.368,1.27,16.31,33920,1.4
+Ohio,"Painting, Coating, and Decorating Workers",370,18.7,0.068,0.81,15.36,31960,3
+Ohio,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",7630,6.3,1.4,1.41,18.48,38440,1.6
+Ohio,Semiconductor Processing Technicians,830,43.2,0.153,0.81,21.51,44750,8.6
+Ohio,Photographic Process Workers and Processing Machine Operators,390,16.6,0.071,0.87,16.15,33590,6.2
+Ohio,Computer Numerically Controlled Tool Operators,13150,5.8,2.414,2.34,19.81,41200,1.1
+Ohio,Computer Numerically Controlled Tool Programmers,1930,11.1,0.354,2.03,26.72,55570,2.2
+Ohio,Adhesive Bonding Machine Operators and Tenders,960,16.1,0.177,1.87,16.99,35330,2.4
+Ohio,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",1040,20,0.191,1.71,17.15,35670,4.4
+Ohio,Cooling and Freezing Equipment Operators and Tenders,360,17.3,0.067,1.12,17.88,37190,5.1
+Ohio,Etchers and Engravers,530,25,0.097,1.39,16.14,33570,3.9
+Ohio,"Molders, Shapers, and Casters, Except Metal and Plastic",3260,10.7,0.599,1.96,16.21,33710,2.1
+Ohio,"Paper Goods Machine Setters, Operators, and Tenders",5610,7.6,1.03,1.51,19.11,39740,1.5
+Ohio,Tire Builders,780,16.2,0.143,1.01,17.83,37090,4
+Ohio,Helpers--Production Workers,13670,11.2,2.51,1.22,15.58,32420,1.5
+Ohio,"Production Workers, All Other",11070,6.2,2.031,1.34,17.24,35860,2.4
+Ohio,Transportation and Material Moving Occupations,488950,1.2,89.752,1.05,17.02,35400,0.8
+Ohio,Aircraft Cargo Handling Supervisors,200,22.6,0.036,0.56,28.74,59780,7.8
+Ohio,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",16800,3,3.083,0.99,26.88,55910,0.8
+Ohio,"Airline Pilots, Copilots, and Flight Engineers",1060,34.3,0.194,0.34,*,121310,12.1
+Ohio,Commercial Pilots,1170,13.1,0.214,0.83,*,99030,3.5
+Ohio,Air Traffic Controllers,720,2.4,0.132,0.88,60.6,126050,5.6
+Ohio,Airfield Operations Specialists,150,44.2,0.028,0.38,25.52,53080,3.6
+Ohio,Flight Attendants,600,23.1,0.11,0.13,*,58190,10
+Ohio,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",560,20.3,0.102,1.02,14.27,29680,7.3
+Ohio,Driver/Sales Workers,30370,6.8,5.574,1.84,12.83,26680,2.3
+Ohio,Heavy and Tractor-Trailer Truck Drivers,77150,2.5,14.163,1.12,22.48,46760,1.1
+Ohio,Light Truck Drivers,34720,4,6.373,1.01,17.23,35840,1.9
+Ohio,"Bus Drivers, Transit and Intercity",4960,7.7,0.91,0.74,21.04,43770,3.4
+Ohio,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",17560,7.7,3.224,0.68,15.29,31790,5.5
+Ohio,"Motor Vehicle Operators, All Other",2860,16.9,0.525,1.36,15,31200,4.3
+Ohio,Locomotive Engineers,**,**,**,**,34.81,72400,2.8
+Ohio,"Rail Yard Engineers, Dinkey Operators, and Hostlers",**,**,**,**,28.14,58520,8.5
+Ohio,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",230,28,0.042,0.55,26,54090,7.9
+Ohio,Railroad Conductors and Yardmasters,1570,10.1,0.288,0.93,32.49,67570,9.8
+Ohio,Sailors and Marine Oilers,430,32.7,0.078,0.37,20.15,41910,5.9
+Ohio,"Captains, Mates, and Pilots of Water Vessels",270,27.1,0.05,0.22,24.08,50080,6.2
+Ohio,Bridge and Lock Tenders,120,14.2,0.022,1.01,23.53,48950,2.8
+Ohio,Parking Attendants,5010,10.5,0.919,0.92,11,22870,1.2
+Ohio,Automotive and Watercraft Service Attendants,3730,9,0.685,0.85,12.11,25190,1.5
+Ohio,Traffic Technicians,130,10.4,0.024,0.47,25.55,53150,1.9
+Ohio,Transportation Inspectors,880,27,0.162,0.79,28.02,58270,6.1
+Ohio,Passenger Attendants,260,27.2,0.047,0.24,13.11,27260,5.2
+Ohio,"Aircraft Service Attendants and Transportation Workers, All Other",710,13.8,0.13,0.55,21.26,44230,11
+Ohio,Conveyor Operators and Tenders,1120,7,0.205,1.26,18.69,38880,5
+Ohio,Crane and Tower Operators,1770,13.2,0.326,1.05,24.12,50160,2.9
+Ohio,Dredge Operators,60,18.6,0.012,1.13,20.96,43590,2.1
+Ohio,Hoist and Winch Operators,140,34.3,0.025,0.77,18.96,39440,3.7
+Ohio,Industrial Truck and Tractor Operators,32510,5.5,5.967,1.39,17.94,37320,1.2
+Ohio,Cleaners of Vehicles and Equipment,11910,4.9,2.187,0.84,12.89,26800,1.4
+Ohio,"Laborers and Freight, Stock, and Material Movers, Hand",118130,3.2,21.684,1.08,15.12,31460,0.5
+Ohio,Machine Feeders and Offbearers,1610,10.3,0.296,0.69,17.09,35550,2.7
+Ohio,"Packers and Packagers, Hand",25310,4.9,4.646,1.08,13.11,27280,1.3
+Ohio,Stockers and Order Fillers,86150,2.8,15.814,1.09,13.69,28470,0.6
+Ohio,Gas Compressor and Gas Pumping Station Operators,190,16.8,0.035,1.51,35.51,73860,2
+Ohio,"Pump Operators, Except Wellhead Pumpers",170,22.7,0.031,0.46,21.61,44940,8.1
+Ohio,Wellhead Pumpers,290,23.9,0.053,0.6,19.2,39940,4.3
+Ohio,Refuse and Recyclable Material Collectors,4190,8.4,0.77,0.93,18.42,38320,1.8
+Ohio,"Tank Car, Truck, and Ship Loaders",600,17.9,0.11,1.4,19.88,41340,4.4
+Ohio,"Material Moving Workers, All Other",360,15.7,0.066,0.34,17.4,36200,4.4

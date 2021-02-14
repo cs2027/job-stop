@@ -50,15 +50,20 @@ class _1State2JobOutputA: UIViewController {
         }
         
         // Format annual incomes nicely with commas, correct # of decimals
-        let numberFormatter = NumberFormatter()
-        numberFormatter.numberStyle = .decimal
-        numberFormatter.maximumFractionDigits = 2
-        annualIncomeParsed1 = numberFormatter.string(from: NSNumber(value: selectedJob1.annualSalary))
-        annualIncomeParsed2 = numberFormatter.string(from: NSNumber(value: selectedJob2.annualSalary))
-        adjustedAnnualParsed1 = numberFormatter.string(from: NSNumber(value: Int(Double(selectedJob1.annualSalary) / stateCostOfLiving)))
-        adjustedAnnualParsed2 = numberFormatter.string(from: NSNumber(value: Int(Double(selectedJob2.annualSalary) / stateCostOfLiving)))
-        adjustedHourlyParsed1 = numberFormatter.string(from: NSNumber(value: Double(selectedJob1.hourlySalary) / stateCostOfLiving))
-        adjustedHourlyParsed2 = numberFormatter.string(from: NSNumber(value: Double(selectedJob2.hourlySalary) / stateCostOfLiving))
+        let NFAnnual = NumberFormatter()
+        NFAnnual.numberStyle = .decimal
+        
+        let NFHourly = NumberFormatter()
+        NFHourly.numberStyle = .decimal
+        NFHourly.minimumFractionDigits = 2
+        NFHourly.maximumFractionDigits = 2
+        
+        annualIncomeParsed1 = NFAnnual.string(from: NSNumber(value: selectedJob1.annualSalary))
+        annualIncomeParsed2 = NFAnnual.string(from: NSNumber(value: selectedJob2.annualSalary))
+        adjustedAnnualParsed1 = NFAnnual.string(from: NSNumber(value: Int(Double(selectedJob1.annualSalary) / stateCostOfLiving)))
+        adjustedAnnualParsed2 = NFAnnual.string(from: NSNumber(value: Int(Double(selectedJob2.annualSalary) / stateCostOfLiving)))
+        adjustedHourlyParsed1 = NFHourly.string(from: NSNumber(value: Double(selectedJob1.hourlySalary) / stateCostOfLiving))
+        adjustedHourlyParsed2 = NFHourly.string(from: NSNumber(value: Double(selectedJob2.hourlySalary) / stateCostOfLiving))
         
         // Display the appropriate data in our view, adjusting the font size as needed
         stateTextView.text = "State: \(stateName!)"

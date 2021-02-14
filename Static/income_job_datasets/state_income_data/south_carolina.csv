@@ -1,0 +1,701 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+South Carolina,All Occupations,2107760,0.4,1000,1,21.34,44380,0.5
+South Carolina,Management Occupations,93530,1.1,44.372,0.81,50.5,105040,0.6
+South Carolina,Chief Executives,3210,3.3,1.521,1.08,86.31,179530,1.8
+South Carolina,General and Operations Managers,33130,1.8,15.718,0.96,49.15,102240,0.9
+South Carolina,Legislators,740,6.1,0.351,0.99,*,21440,3.9
+South Carolina,Advertising and Promotions Managers,150,12.8,0.073,0.42,49.99,103980,6.1
+South Carolina,Marketing Managers,1980,5.5,0.941,0.52,54.64,113660,1.3
+South Carolina,Sales Managers,3550,4.8,1.685,0.61,57.28,119130,2.6
+South Carolina,Public Relations and Fundraising Managers,600,6.6,0.286,0.53,41.94,87240,3.6
+South Carolina,Administrative Services and Facilities Managers,4620,2.9,2.192,1.05,49.11,102140,2.2
+South Carolina,Computer and Information Systems Managers,3460,3.3,1.64,0.56,60.15,125110,1.2
+South Carolina,Financial Managers,5860,2.8,2.781,0.62,60.12,125060,1.3
+South Carolina,Industrial Production Managers,2940,3.5,1.394,1.1,55.55,115550,1.2
+South Carolina,Purchasing Managers,830,3.7,0.395,0.81,50.44,104920,1.6
+South Carolina,"Transportation, Storage, and Distribution Managers",1250,5.1,0.591,0.66,45.8,95260,1.7
+South Carolina,Compensation and Benefits Managers,160,6.3,0.074,0.64,53.1,110440,2.9
+South Carolina,Human Resources Managers,1890,2.5,0.899,0.85,53.44,111160,1.4
+South Carolina,Training and Development Managers,750,3.2,0.355,1.35,50.97,106030,2.4
+South Carolina,Construction Managers,3430,4.7,1.629,0.82,48.57,101030,2.1
+South Carolina,"Education and Childcare Administrators, Preschool and Daycare",510,11.9,0.242,0.68,21.53,44780,3.9
+South Carolina,"Education Administrators, Kindergarten through Secondary",4150,3,1.967,1.07,*,89620,1.3
+South Carolina,"Education Administrators, Postsecondary",2440,8.5,1.16,1.18,51.41,106940,5
+South Carolina,"Education Administrators, All Other",210,5,0.097,0.32,38.59,80280,2.3
+South Carolina,Architectural and Engineering Managers,2890,3.1,1.371,1.04,63.71,132510,1.3
+South Carolina,Food Service Managers,3250,7.3,1.54,0.96,29.49,61340,4.6
+South Carolina,Lodging Managers,690,29.7,0.326,1.25,28.6,59480,3.2
+South Carolina,Medical and Health Services Managers,5770,2.5,2.736,1.02,49.03,101990,1.5
+South Carolina,Natural Sciences Managers,560,10.8,0.265,0.57,48.53,100940,4
+South Carolina,Postmasters and Mail Superintendents,210,0,0.1,1.06,39.13,81380,0.7
+South Carolina,"Property, Real Estate, and Community Association Managers",1800,10.6,0.856,0.57,32.21,67000,5.9
+South Carolina,Social and Community Service Managers,950,8.7,0.451,0.42,32.59,67790,4
+South Carolina,Emergency Management Directors,240,10.7,0.115,1.68,32.2,66970,2.2
+South Carolina,Funeral Home Managers,190,20,0.092,1.44,33.95,70610,8.3
+South Carolina,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",1100,7,0.522,0.16,51.86,107860,1.8
+South Carolina,Business and Financial Operations Occupations,82210,1.2,39.005,0.7,32.09,66740,0.9
+South Carolina,"Agents and Business Managers of Artists, Performers, and Athletes",130,28.8,0.059,0.51,36.15,75180,6.1
+South Carolina,Buyers and Purchasing Agents,4300,2.5,2.038,0.71,31.62,65760,1.4
+South Carolina,"Claims Adjusters, Examiners, and Investigators",2260,10.7,1.072,0.55,31.13,64740,2
+South Carolina,Compliance Officers,3830,3.3,1.818,0.84,30.11,62630,2.1
+South Carolina,Cost Estimators,2350,6.6,1.114,0.78,30.04,62490,2.1
+South Carolina,Human Resources Specialists,7770,2.3,3.688,0.86,29.5,61350,1.5
+South Carolina,Labor Relations Specialists,330,11,0.158,0.31,41.18,85660,4.9
+South Carolina,Logisticians,2910,4,1.381,1.11,34.33,71400,2.1
+South Carolina,Management Analysts,10170,3.5,4.824,1,37.87,78770,1.9
+South Carolina,"Meeting, Convention, and Event Planners",1310,13.8,0.623,0.78,21.24,44180,2.5
+South Carolina,Fundraisers,510,9.4,0.243,0.44,27.5,57190,3
+South Carolina,"Compensation, Benefits, and Job Analysis Specialists",1000,4.6,0.472,0.78,24.92,51830,3.1
+South Carolina,Training and Development Specialists,4740,3.7,2.248,1.06,28.43,59140,1.5
+South Carolina,Market Research Analysts and Marketing Specialists,6770,3.2,3.21,0.69,28.55,59390,1.3
+South Carolina,"Project Management Specialists and Business Operations Specialists, All Other",3700,2.1,1.753,0.2,35.03,72870,3.3
+South Carolina,Accountants and Auditors,15980,2,7.58,0.87,32.57,67740,1.4
+South Carolina,Property Appraisers and Assessors,690,17.8,0.325,0.85,25.74,53540,6.5
+South Carolina,Budget Analysts,390,11.2,0.183,0.52,34.4,71540,1.8
+South Carolina,Credit Analysts,990,5.5,0.468,0.93,32.89,68420,3.2
+South Carolina,Personal Financial Advisors,1930,10.8,0.915,0.64,41.91,87170,6.3
+South Carolina,Insurance Underwriters,850,13.8,0.403,0.59,26.91,55970,3.4
+South Carolina,Financial Examiners,490,23,0.231,0.53,32.29,67160,2.9
+South Carolina,Credit Counselors,370,7.3,0.177,0.81,21.47,44650,3
+South Carolina,Loan Officers,4190,7.6,1.987,0.95,34.04,70810,2.2
+South Carolina,"Tax Examiners and Collectors, and Revenue Agents",280,3.3,0.131,0.36,26.56,55250,1.7
+South Carolina,Tax Preparers,1100,15.7,0.524,1.15,20.18,41970,8.6
+South Carolina,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",2870,4.5,1.36,0.44,36.57,76070,2.1
+South Carolina,Computer and Mathematical Occupations,43570,2.2,20.672,0.67,36.56,76040,1.2
+South Carolina,Computer Systems Analysts,7650,4.3,3.629,0.9,39.72,82620,2.1
+South Carolina,Information Security Analysts,1630,9.4,0.772,0.9,39.51,82180,2.4
+South Carolina,Computer and Information Research Scientists,400,2.4,0.188,0.9,47.09,97940,2.3
+South Carolina,Computer Network Support Specialists,2250,4.5,1.068,0.85,28.12,58500,2.1
+South Carolina,Computer User Support Specialists,8240,4.9,3.91,0.89,24.04,50000,1.4
+South Carolina,Computer Network Architects,1010,6.3,0.479,0.46,43.24,89930,2.2
+South Carolina,Network and Computer Systems Administrators,6100,3.2,2.892,1.2,37.21,77390,1.3
+South Carolina,Database Administrators and Architects,920,4.9,0.438,0.51,41.35,86020,2.4
+South Carolina,Computer Programmers,2850,5.6,1.351,0.99,37.54,78080,2.5
+South Carolina,Software Developers and Software Quality Assurance Analysts and Testers,7790,5.3,3.694,0.39,44.44,92440,2.7
+South Carolina,Web Developers and Digital Interface Designers,1540,5.4,0.732,0.72,36.34,75590,2.5
+South Carolina,"Computer Occupations, All Other",1960,6.1,0.928,0.35,40.66,84570,4.4
+South Carolina,Actuaries,60,24.7,0.03,0.2,39.12,81370,3.1
+South Carolina,Operations Research Analysts,880,5.4,0.417,0.61,39,81130,2.6
+South Carolina,Statisticians,260,12,0.123,0.46,33.14,68940,2.1
+South Carolina,"Data Scientists and Mathematical Science Occupations, All Other",40,27.4,0.017,0.08,51.13,106340,4.2
+South Carolina,Architecture and Engineering Occupations,42300,1.8,20.067,1.14,38.56,80210,1.2
+South Carolina,"Architects, Except Landscape and Naval",840,13.6,0.4,0.55,41.11,85510,3
+South Carolina,Landscape Architects,380,20.6,0.18,1.3,30.91,64300,6.5
+South Carolina,Cartographers and Photogrammetrists,380,13,0.182,2.36,26.57,55270,2.4
+South Carolina,Surveyors,870,9.7,0.413,1.34,23.84,49590,2.5
+South Carolina,Bioengineers and Biomedical Engineers,170,8.7,0.08,0.6,32.09,66740,2.3
+South Carolina,Chemical Engineers,550,14.1,0.259,1.26,46.85,97450,3.2
+South Carolina,Civil Engineers,5750,4.4,2.728,1.29,41.46,86230,2.1
+South Carolina,Computer Hardware Engineers,490,12.9,0.232,0.5,46.36,96420,5.7
+South Carolina,Electrical Engineers,2250,4.2,1.067,0.84,42.89,89200,1.8
+South Carolina,"Electronics Engineers, Except Computer",1490,12.4,0.705,0.8,44.3,92150,5
+South Carolina,Environmental Engineers,1060,6.9,0.502,1.39,43.46,90400,4.5
+South Carolina,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",530,5.1,0.252,1.43,38,79040,2.1
+South Carolina,Industrial Engineers,7490,3.1,3.556,1.79,42.83,89090,1.1
+South Carolina,Materials Engineers,780,7,0.37,2.02,41.52,86350,2.3
+South Carolina,Mechanical Engineers,5890,4,2.796,1.34,42.57,88540,2.1
+South Carolina,Nuclear Engineers,1580,1.1,0.747,6.92,50.65,105340,1.7
+South Carolina,"Engineers, All Other",630,6.2,0.301,0.29,48.89,101690,3.2
+South Carolina,Architectural and Civil Drafters,1300,9.2,0.617,0.92,26.92,56000,3.6
+South Carolina,Electrical and Electronics Drafters,330,13.3,0.157,0.95,29.87,62130,4.2
+South Carolina,Mechanical Drafters,750,7.6,0.356,0.95,28.54,59370,2.3
+South Carolina,Aerospace Engineering and Operations Technologists and Technicians,50,27.1,0.025,0.32,27.82,57870,4.7
+South Carolina,Civil Engineering Technologists and Technicians,990,11.3,0.468,1,23.92,49760,3.1
+South Carolina,Electrical and Electronic Engineering Technologists and Technicians,1400,5.6,0.663,0.79,31.5,65520,1.5
+South Carolina,Electro-Mechanical and Mechatronics Technologists and Technicians,200,35.7,0.093,0.96,28.75,59790,3
+South Carolina,Environmental Engineering Technologists and Technicians,140,5.4,0.067,0.54,28.17,58600,2.4
+South Carolina,Industrial Engineering Technologists and Technicians,2040,4,0.966,2.11,27.8,57820,2.4
+South Carolina,Mechanical Engineering Technologists and Technicians,890,10.6,0.421,1.45,27.88,58000,2.4
+South Carolina,Surveying and Mapping Technicians,1260,6,0.599,1.66,19.09,39700,2
+South Carolina,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1380,17.4,0.653,1.09,31.54,65600,3.1
+South Carolina,"Life, Physical, and Social Science Occupations",11440,2.4,5.428,0.62,32.29,67170,1.5
+South Carolina,Food Scientists and Technologists,40,9.5,0.02,0.22,32.29,67160,12.5
+South Carolina,Biochemists and Biophysicists,**,**,**,**,42.6,88620,8.2
+South Carolina,Microbiologists,140,8.3,0.066,0.53,32.41,67420,5.1
+South Carolina,Zoologists and Wildlife Biologists,200,0.5,0.096,0.74,24.86,51700,2.1
+South Carolina,"Biological Scientists, All Other",200,15.1,0.094,0.35,38.32,79710,2.1
+South Carolina,Conservation Scientists,160,13.8,0.076,0.51,33.22,69100,1.4
+South Carolina,Foresters,210,40,0.098,1.52,33.62,69940,3.2
+South Carolina,"Medical Scientists, Except Epidemiologists",440,11.9,0.209,0.24,38.74,80580,10.3
+South Carolina,Physicists,80,15.7,0.037,0.32,73.64,153170,5.2
+South Carolina,Atmospheric and Space Scientists,50,7,0.026,0.41,45.39,94410,3.4
+South Carolina,Chemists,2010,6.5,0.954,1.68,36.53,75980,2.4
+South Carolina,Materials Scientists,80,4.8,0.036,0.79,37.37,77730,3.6
+South Carolina,"Environmental Scientists and Specialists, Including Health",250,14.2,0.12,0.21,29.39,61120,6.2
+South Carolina,"Geoscientists, Except Hydrologists and Geographers",170,30.2,0.079,0.4,34.46,71670,6.4
+South Carolina,Hydrologists,110,13.8,0.051,1.16,25.12,52240,3.3
+South Carolina,"Physical Scientists, All Other",50,1,0.025,0.21,57.56,119730,3.3
+South Carolina,Economists,120,7.1,0.058,0.45,33.08,68810,3
+South Carolina,"Clinical, Counseling, and School Psychologists",1140,6.1,0.539,0.7,32.71,68040,2.7
+South Carolina,Urban and Regional Planners,370,5.7,0.175,0.67,29.64,61640,1.4
+South Carolina,Anthropologists and Archeologists,40,14.9,0.018,0.38,30.67,63790,5
+South Carolina,"Social Scientists and Related Workers, All Other",190,0,0.089,0.39,36.17,75230,1.2
+South Carolina,Agricultural and Food Science Technicians,40,21.2,0.019,0.13,27,56160,3.2
+South Carolina,Biological Technicians,240,7.3,0.115,0.21,21.82,45380,2.8
+South Carolina,Chemical Technicians,1150,5.1,0.548,1.22,21.71,45150,1.7
+South Carolina,"Environmental Science and Protection Technicians, Including Health",90,19.2,0.044,0.2,19.69,40960,4.3
+South Carolina,Geological and Hydrologic Technicians,110,21.8,0.054,0.47,22.12,46020,5.5
+South Carolina,Social Science Research Assistants,100,15.7,0.045,0.19,28.77,59830,6.1
+South Carolina,Forest and Conservation Technicians,220,6.4,0.103,0.79,20.43,42500,1.2
+South Carolina,Forensic Science Technicians,150,13.2,0.072,0.64,20.93,43530,2.1
+South Carolina,"Life, Physical, and Social Science Technicians, All Other",190,21.4,0.088,0.2,26.54,55210,2.5
+South Carolina,Occupational Health and Safety Specialists,1630,2.8,0.775,1.23,29.76,61910,2.9
+South Carolina,Occupational Health and Safety Technicians,790,2.6,0.374,2.67,*,*,*
+South Carolina,Community and Social Service Occupations,26890,2.3,12.756,0.83,20.91,43500,1.8
+South Carolina,"Educational, Guidance, and Career Counselors and Advisors",5120,2.9,2.428,1.2,26.1,54280,2.6
+South Carolina,Marriage and Family Therapists,200,38.4,0.096,0.24,*,*,*
+South Carolina,Rehabilitation Counselors,780,43.1,0.372,0.5,17.73,36870,3.7
+South Carolina,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1710,8.1,0.813,0.42,20.01,41620,3.1
+South Carolina,"Child, Family, and School Social Workers",3220,6.2,1.53,0.69,18.45,38380,2.3
+South Carolina,Healthcare Social Workers,2130,4.7,1.011,0.85,27.63,57470,1.6
+South Carolina,Mental Health and Substance Abuse Social Workers,1440,3.5,0.683,0.85,16.69,34710,1.6
+South Carolina,"Social Workers, All Other",2770,0.1,1.316,3.31,21.97,45700,1.1
+South Carolina,Health Education Specialists,660,7.3,0.315,0.79,29.11,60560,1.9
+South Carolina,Probation Officers and Correctional Treatment Specialists,400,3,0.192,0.32,21.27,44250,0.8
+South Carolina,Social and Human Service Assistants,7270,3.4,3.448,1.25,15.24,31700,1.4
+South Carolina,Community Health Workers,330,11.5,0.155,0.39,20.65,42940,2.3
+South Carolina,"Community and Social Service Specialists, All Other",30,24.6,0.015,0.02,17.69,36800,4.2
+South Carolina,Clergy,730,10.4,0.347,0.96,26.59,55310,5.4
+South Carolina,"Directors, Religious Activities and Education",60,21.6,0.027,0.18,34.82,72420,4.5
+South Carolina,Legal Occupations,13750,3.7,6.524,0.83,37.51,78030,4.1
+South Carolina,Lawyers,6350,7.2,3.011,0.67,53.41,111090,6.3
+South Carolina,Judicial Law Clerks,100,9.7,0.046,0.4,19.71,40990,2.5
+South Carolina,"Administrative Law Judges, Adjudicators, and Hearing Officers",120,2.9,0.059,0.61,45.39,94410,1.5
+South Carolina,"Arbitrators, Mediators, and Conciliators",40,15.9,0.02,0.48,22.86,47550,2.6
+South Carolina,"Judges, Magistrate Judges, and Magistrates",590,3.8,0.278,1.42,29.12,60560,2.1
+South Carolina,Paralegals and Legal Assistants,5960,5.3,2.828,1.26,22.37,46540,2.4
+South Carolina,"Title Examiners, Abstractors, and Searchers",440,23,0.211,0.59,28.53,59350,24.7
+South Carolina,"Legal Support Workers, All Other",150,0.7,0.071,0.23,35.03,72860,2.4
+South Carolina,Educational Instruction and Library Occupations,111850,1.8,53.067,0.88,23.6,49080,2.2
+South Carolina,"Business Teachers, Postsecondary",890,3.3,0.424,0.74,*,101250,9.7
+South Carolina,"Computer Science Teachers, Postsecondary",370,4,0.174,0.81,*,73380,3.4
+South Carolina,"Mathematical Science Teachers, Postsecondary",480,5.7,0.229,0.66,*,71490,4.7
+South Carolina,"Engineering Teachers, Postsecondary",240,2.2,0.115,0.47,*,101320,6
+South Carolina,"Agricultural Sciences Teachers, Postsecondary",70,3.5,0.032,0.5,*,66860,4.9
+South Carolina,"Biological Science Teachers, Postsecondary",450,8.3,0.212,0.59,*,67950,3.1
+South Carolina,"Chemistry Teachers, Postsecondary",240,11.1,0.112,0.77,*,78350,4.2
+South Carolina,"Physics Teachers, Postsecondary",120,1.8,0.057,0.6,*,97770,8.4
+South Carolina,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",40,16.6,0.019,0.27,*,63270,2.8
+South Carolina,"Economics Teachers, Postsecondary",60,9.8,0.027,0.3,*,73710,7.7
+South Carolina,"Political Science Teachers, Postsecondary",120,4.9,0.057,0.53,*,85180,4.9
+South Carolina,"Psychology Teachers, Postsecondary",310,4.7,0.148,0.58,*,87320,4.4
+South Carolina,"Sociology Teachers, Postsecondary",180,12.2,0.083,0.88,*,72350,5.8
+South Carolina,"Social Sciences Teachers, Postsecondary, All Other",50,5.5,0.023,0.2,*,64910,9.1
+South Carolina,"Health Specialties Teachers, Postsecondary",1170,5.4,0.556,0.4,*,74310,10.5
+South Carolina,"Nursing Instructors and Teachers, Postsecondary",910,6.9,0.431,1.06,*,74020,3.8
+South Carolina,"Education Teachers, Postsecondary",1130,2.5,0.538,1.29,*,63480,4.9
+South Carolina,"Library Science Teachers, Postsecondary",60,8.9,0.028,0.94,*,78130,2.6
+South Carolina,"Criminal Justice and Law Enforcement Teachers, Postsecondary",120,9.6,0.057,0.6,*,80820,11.4
+South Carolina,"Art, Drama, and Music Teachers, Postsecondary",680,7.2,0.323,0.5,*,67380,6.8
+South Carolina,"Communications Teachers, Postsecondary",180,10.4,0.084,0.43,*,71380,4.5
+South Carolina,"English Language and Literature Teachers, Postsecondary",670,4.3,0.32,0.69,*,72090,4.4
+South Carolina,"Foreign Language and Literature Teachers, Postsecondary",80,7.8,0.038,0.23,*,73450,13.9
+South Carolina,"History Teachers, Postsecondary",260,5.8,0.124,0.86,*,75030,5.3
+South Carolina,"Philosophy and Religion Teachers, Postsecondary",180,10,0.084,0.53,*,74580,4.3
+South Carolina,"Recreation and Fitness Studies Teachers, Postsecondary",210,4.8,0.1,0.92,*,68850,10.4
+South Carolina,"Career/Technical Education Teachers, Postsecondary",900,7.6,0.429,0.56,23.73,49360,2.1
+South Carolina,"Postsecondary Teachers, All Other",6420,5.5,3.045,2.22,*,59710,6.6
+South Carolina,"Preschool Teachers, Except Special Education",5560,9.5,2.64,0.9,13.65,28380,4.8
+South Carolina,"Kindergarten Teachers, Except Special Education",2090,9.9,0.993,1.17,*,54710,2.8
+South Carolina,"Elementary School Teachers, Except Special Education",22550,6.6,10.697,1.1,*,53450,2.5
+South Carolina,"Middle School Teachers, Except Special and Career/Technical Education",9790,8.2,4.647,1.1,*,55180,2.5
+South Carolina,"Career/Technical Education Teachers, Middle School",40,26.6,0.019,0.23,*,57120,7.7
+South Carolina,"Secondary School Teachers, Except Special and Career/Technical Education",14050,6.9,6.668,0.95,*,56730,2.2
+South Carolina,"Career/Technical Education Teachers, Secondary School",760,12.4,0.362,0.71,*,53360,2.3
+South Carolina,"Special Education Teachers, Preschool",120,35.1,0.056,0.37,*,47140,4.7
+South Carolina,"Special Education Teachers, Kindergarten and Elementary School",2820,7.5,1.336,1.01,*,59830,6.1
+South Carolina,"Special Education Teachers, Middle School",1010,12.1,0.479,0.82,*,56690,3.4
+South Carolina,"Special Education Teachers, Secondary School",1300,10.1,0.617,0.63,*,57680,3.4
+South Carolina,"Special Education Teachers, All Other",540,2.8,0.256,1.05,*,*,*
+South Carolina,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",580,12.3,0.276,0.78,23.91,49730,7.5
+South Carolina,Self-Enrichment Teachers,3350,6.1,1.59,0.92,21.49,44690,3.6
+South Carolina,"Substitute Teachers, Short-Term",6240,13.4,2.96,0.74,12.43,25850,5.4
+South Carolina,"Tutors and Teachers and Instructors, All Other",2410,8.5,1.144,0.52,*,46010,3.3
+South Carolina,Archivists,90,11,0.045,1.01,20.25,42110,3.7
+South Carolina,Curators,150,8.5,0.07,0.8,24.3,50540,1.7
+South Carolina,Museum Technicians and Conservators,120,10,0.056,0.63,17.54,36480,3.7
+South Carolina,Librarians and Media Collections Specialists,1870,4.2,0.886,0.96,28.24,58740,2.1
+South Carolina,Library Technicians,1430,10.1,0.68,1.13,16.05,33380,2.1
+South Carolina,Instructional Coordinators,1820,6.3,0.862,0.72,31.05,64580,2.9
+South Carolina,"Teaching Assistants, Postsecondary",480,16.4,0.228,0.24,*,25610,5.3
+South Carolina,"Teaching Assistants, Except Postsecondary",15640,3.6,7.418,0.81,*,24300,1.9
+South Carolina,"Educational Instruction and Library Workers, All Other",160,4.2,0.076,0.09,18.74,38980,1.9
+South Carolina,"Arts, Design, Entertainment, Sports, and Media Occupations",19520,3,9.26,0.67,24.13,50200,2.3
+South Carolina,Art Directors,120,11.7,0.058,0.2,38.78,80670,8.1
+South Carolina,"Fine Artists, Including Painters, Sculptors, and Illustrators",90,37.6,0.044,0.52,11.54,24010,12.6
+South Carolina,Special Effects Artists and Animators,320,37.7,0.151,0.76,17.86,37150,5.1
+South Carolina,"Artists and Related Workers, All Other",**,**,**,**,29.89,62180,3.5
+South Carolina,Commercial and Industrial Designers,210,17.2,0.101,0.45,32.64,67880,3.8
+South Carolina,Fashion Designers,50,39.7,0.026,0.17,*,*,*
+South Carolina,Floral Designers,530,8.6,0.253,0.89,14.99,31170,4.3
+South Carolina,Graphic Designers,2200,5.3,1.043,0.71,23.6,49080,2.8
+South Carolina,Interior Designers,620,13.2,0.293,0.71,21.42,44540,5.4
+South Carolina,Merchandise Displayers and Window Trimmers,2040,12.5,0.966,1.01,14.46,30080,3.7
+South Carolina,Actors,210,24.9,0.1,0.28,32.32,*,25
+South Carolina,Producers and Directors,1030,9.1,0.487,0.55,31.91,66370,4.3
+South Carolina,Athletes and Sports Competitors,310,15,0.147,1.9,*,35600,6.4
+South Carolina,Coaches and Scouts,3470,9,1.645,1,*,52430,7.6
+South Carolina,Choreographers,100,35.4,0.045,1.43,24.61,51190,8.5
+South Carolina,Music Directors and Composers,110,23.3,0.051,0.71,24.62,51210,10.6
+South Carolina,Musicians and Singers,480,31,0.227,0.81,34.91,*,15
+South Carolina,Broadcast Announcers and Radio Disc Jockeys,320,18.4,0.152,0.77,25.05,52100,14.7
+South Carolina,"News Analysts, Reporters, and Journalists",560,10.7,0.264,0.88,25.11,52230,8.1
+South Carolina,Public Relations Specialists,2120,6.2,1.005,0.6,29.16,60650,4.1
+South Carolina,Editors,590,11.9,0.278,0.43,25.39,52820,3.6
+South Carolina,Technical Writers,470,6.4,0.225,0.65,32.79,68210,1.7
+South Carolina,Writers and Authors,270,12.1,0.128,0.41,25.69,53430,5.8
+South Carolina,Interpreters and Translators,560,6.2,0.266,0.66,22.19,46150,4.7
+South Carolina,Court Reporters and Simultaneous Captioners,130,43.2,0.063,0.64,*,*,*
+South Carolina,"Media and Communication Workers, All Other",50,27,0.023,0.14,16.41,34140,7.1
+South Carolina,Audio and Video Technicians,620,17.3,0.295,0.59,24.26,50460,13.7
+South Carolina,Broadcast Technicians,730,5.8,0.345,1.77,17.63,36660,3.6
+South Carolina,Sound Engineering Technicians,60,27.3,0.029,0.34,*,*,*
+South Carolina,Photographers,570,11.8,0.268,0.78,20.21,42040,8.7
+South Carolina,"Camera Operators, Television, Video, and Film",160,13.8,0.076,0.52,26.15,54400,23.4
+South Carolina,Film and Video Editors,130,21.8,0.063,0.34,23.39,48640,13.5
+South Carolina,"Lighting Technicians and Media and Communication Equipment Workers, All Other",30,0,0.015,0.1,39.55,82260,1.8
+South Carolina,Healthcare Practitioners and Technical Occupations,128110,1.2,60.78,1.03,35.1,73000,1.2
+South Carolina,Chiropractors,590,9.9,0.282,1.18,39.7,82570,10
+South Carolina,"Dentists, General",1560,10.7,0.741,0.98,85.33,177480,5.7
+South Carolina,Orthodontists,70,38,0.032,0.78,129.41,269180,12.6
+South Carolina,"Dentists, All Other Specialists",40,0,0.017,0.46,66.09,137460,2.7
+South Carolina,Dietitians and Nutritionists,870,7.5,0.412,0.89,27.24,56650,3
+South Carolina,Optometrists,480,19.4,0.226,0.84,60.05,124910,8
+South Carolina,Pharmacists,5190,5.9,2.461,1.16,58.89,122500,1.5
+South Carolina,Physician Assistants,1330,8.3,0.629,0.77,51.36,106840,6.5
+South Carolina,Podiatrists,80,16.4,0.04,0.6,82.84,172300,11.9
+South Carolina,Occupational Therapists,**,**,**,**,36.39,75700,3.1
+South Carolina,Physical Therapists,3170,8.4,1.506,0.95,41.18,85650,1.2
+South Carolina,Radiation Therapists,320,25.9,0.152,1.25,46.67,97070,5.3
+South Carolina,Recreational Therapists,200,6.4,0.096,0.74,20.65,42960,2.1
+South Carolina,Respiratory Therapists,1980,2.7,0.941,1.05,27.28,56740,1
+South Carolina,Speech-Language Pathologists,1830,8.5,0.867,0.83,34.69,72160,1.9
+South Carolina,Exercise Physiologists,80,3.2,0.038,0.77,21.91,45580,2.1
+South Carolina,Veterinarians,850,10.7,0.405,0.8,54.13,112580,7.8
+South Carolina,Registered Nurses,46860,1.4,22.231,1.09,31.17,64840,0.9
+South Carolina,Nurse Anesthetists,1020,13.6,0.485,1.64,79.78,165940,4.4
+South Carolina,Nurse Midwives,30,22.8,0.016,0.34,47.88,99590,2.8
+South Carolina,Nurse Practitioners,2450,7.3,1.163,0.85,48.41,100680,1.4
+South Carolina,Audiologists,260,22.8,0.121,1.31,43.62,90730,7.2
+South Carolina,Anesthesiologists,710,29.2,0.336,1.59,124.19,258320,9.6
+South Carolina,Family Medicine Physicians,2340,8.4,1.112,1.49,110.44,229710,3.6
+South Carolina,General Internal Medicine Physicians,690,8.2,0.33,1.09,119.6,248760,12.5
+South Carolina,Obstetricians and Gynecologists,120,48.8,0.058,0.45,128.29,266840,8.7
+South Carolina,"Pediatricians, General",110,14,0.052,0.25,82.74,172110,7.5
+South Carolina,Psychiatrists,220,36.1,0.106,0.61,82.27,171110,10.2
+South Carolina,"Physicians, All Other; and Ophthalmologists, Except Pediatric",3040,6.4,1.442,0.54,96.78,201290,5.6
+South Carolina,"Surgeons, Except Ophthalmologists",170,25.9,0.08,0.32,#,#,9.8
+South Carolina,Dental Hygienists,3240,8.8,1.537,1.02,30.63,63710,2.4
+South Carolina,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",180,8.7,0.084,0.34,33.9,70510,2
+South Carolina,Clinical Laboratory Technologists and Technicians,4380,3.6,2.077,0.94,24.05,50020,1.2
+South Carolina,Cardiovascular Technologists and Technicians,1150,2.9,0.548,1.43,28.31,58880,1.6
+South Carolina,Diagnostic Medical Sonographers,760,5.2,0.36,0.73,33.08,68800,1
+South Carolina,Nuclear Medicine Technologists,290,8.9,0.138,1.12,35.04,72870,1.2
+South Carolina,Radiologic Technologists and Technicians,3830,4.5,1.819,1.29,26.36,54840,1.2
+South Carolina,Magnetic Resonance Imaging Technologists,520,12.8,0.247,0.96,29.34,61020,1.9
+South Carolina,Emergency Medical Technicians and Paramedics,5280,5.5,2.506,1.41,16.67,34670,1.8
+South Carolina,Dietetic Technicians,600,15.1,0.283,1.42,12.03,25030,3.1
+South Carolina,Pharmacy Technicians,7110,5.8,3.372,1.19,15.7,32660,1.3
+South Carolina,Psychiatric Technicians,230,22.6,0.11,0.21,16.17,33640,4.6
+South Carolina,Surgical Technologists,2190,5,1.037,1.4,19.73,41030,0.7
+South Carolina,Veterinary Technologists and Technicians,1970,13.8,0.937,1.24,16.06,33410,2.4
+South Carolina,Ophthalmic Medical Technicians,850,21.3,0.405,1.01,18.2,37850,2.7
+South Carolina,Licensed Practical and Licensed Vocational Nurses,9930,3.9,4.709,0.99,20.29,42190,1
+South Carolina,"Opticians, Dispensing",1100,11.4,0.523,1.06,18.75,38990,3.5
+South Carolina,Orthotists and Prosthetists,250,24.5,0.119,1.78,33.07,68780,8.5
+South Carolina,Hearing Aid Specialists,100,47.2,0.046,0.82,26.91,55960,17.3
+South Carolina,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",4770,5.6,2.265,1,20.21,42030,1.2
+South Carolina,Athletic Trainers,540,26.7,0.257,1.32,*,44340,3.2
+South Carolina,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",130,12.3,0.061,0.16,21.3,44310,3.9
+South Carolina,Healthcare Support Occupations,76040,1.7,36.076,0.81,13.49,28060,0.8
+South Carolina,Home Health and Personal Care Aides,29510,3.6,14.001,0.65,10.8,22470,1
+South Carolina,Nursing Assistants,19380,4,9.195,0.95,12.77,26560,0.8
+South Carolina,Orderlies,1130,1.9,0.537,1.68,11.95,24860,1.5
+South Carolina,Occupational Therapy Assistants,390,9,0.185,0.6,29.48,61310,1.9
+South Carolina,Occupational Therapy Aides,40,12.1,0.017,0.32,12.54,26080,4
+South Carolina,Physical Therapist Assistants,1580,13.9,0.749,1.14,27.13,56430,2.5
+South Carolina,Physical Therapist Aides,620,9.6,0.293,0.87,13.13,27310,4.9
+South Carolina,Massage Therapists,1600,13.3,0.76,1.04,18.2,37860,3
+South Carolina,Dental Assistants,5020,6.3,2.383,1,18.85,39200,1.7
+South Carolina,Medical Assistants,10890,3.4,5.167,1.07,15.61,32470,1.2
+South Carolina,Medical Equipment Preparers,460,5.1,0.22,0.57,17.28,35940,1.1
+South Carolina,Medical Transcriptionists,660,12.9,0.313,0.82,16.92,35180,5.5
+South Carolina,Pharmacy Aides,280,22.7,0.134,0.53,12.52,26050,3.3
+South Carolina,Veterinary Assistants and Laboratory Animal Caretakers,1520,18.4,0.719,1.09,13.27,27600,4.1
+South Carolina,Phlebotomists,2130,5.7,1.011,1.16,15.66,32570,1.1
+South Carolina,"Healthcare Support Workers, All Other",**,**,**,**,20.41,42440,1.7
+South Carolina,Protective Service Occupations,48290,3.9,22.911,0.96,18.77,39030,1.5
+South Carolina,First-Line Supervisors of Correctional Officers,400,5.8,0.189,0.6,27.41,57020,1.5
+South Carolina,First-Line Supervisors of Police and Detectives,1860,3.5,0.882,1.07,29.25,60840,1.1
+South Carolina,First-Line Supervisors of Firefighting and Prevention Workers,1240,3.6,0.588,1.24,27.95,58140,1.3
+South Carolina,"Miscellaneous First-Line Supervisors, Protective Service Workers",800,9.6,0.381,0.68,23.18,48220,5.1
+South Carolina,Firefighters,5760,5.2,2.734,1.24,17.48,36360,1.3
+South Carolina,Fire Inspectors and Investigators,140,22.8,0.068,0.72,27.34,56870,2.1
+South Carolina,Bailiffs,240,4.1,0.113,0.85,14.93,31050,4.1
+South Carolina,Correctional Officers and Jailers,6120,2.4,2.906,1.01,18.19,37830,0.9
+South Carolina,Detectives and Criminal Investigators,1350,2.7,0.642,0.89,28.56,59410,1.5
+South Carolina,Fish and Game Wardens,30,4,0.016,0.35,23.53,48930,2.7
+South Carolina,Parking Enforcement Workers,70,1.4,0.035,0.68,15.74,32740,2.2
+South Carolina,Police and Sheriff's Patrol Officers,10950,2.7,5.196,1.15,20.92,43520,0.8
+South Carolina,Animal Control Workers,180,5.2,0.087,1.07,15.31,31850,1
+South Carolina,Private Detectives and Investigators,200,9.2,0.095,0.4,26.16,54410,1.8
+South Carolina,Security Guards,15430,11.1,7.323,0.95,15.68,32620,3.9
+South Carolina,Crossing Guards and Flaggers,520,28.1,0.247,0.43,*,*,*
+South Carolina,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1620,4.1,0.769,0.79,10.59,22030,2.1
+South Carolina,Transportation Security Screeners,470,9.8,0.223,0.7,18.75,39010,1.5
+South Carolina,"School Bus Monitors and Protective Service Workers, All Other",880,12.1,0.416,0.42,15.23,31680,2.7
+South Carolina,Food Preparation and Serving Related Occupations,216890,0.9,102.903,1.12,10.87,22610,0.6
+South Carolina,Chefs and Head Cooks,3020,13.9,1.431,1.64,22.29,46360,5.5
+South Carolina,First-Line Supervisors of Food Preparation and Serving Workers,17850,2.7,8.47,1.23,16.28,33870,1.4
+South Carolina,"Cooks, Fast Food",9540,9.7,4.524,1.26,9.94,20670,2.2
+South Carolina,"Cooks, Institution and Cafeteria",8860,4.1,4.203,1.53,11.41,23740,1.4
+South Carolina,"Cooks, Restaurant",25190,4.6,11.951,1.25,12.37,25730,1.3
+South Carolina,"Cooks, Short Order",1170,26.6,0.554,0.53,11.86,24670,2.4
+South Carolina,Food Preparation Workers,9700,7.5,4.601,0.78,11.69,24310,1.5
+South Carolina,Bartenders,6780,6.4,3.219,0.73,10.8,22460,3.8
+South Carolina,Fast Food and Counter Workers,73730,3.2,34.982,1.29,9.37,19500,0.7
+South Carolina,Waiters and Waitresses,40370,4.5,19.155,1.09,9.71,20200,1.5
+South Carolina,"Food Servers, Nonrestaurant",2240,11.9,1.065,0.56,11.4,23710,2.4
+South Carolina,Dining Room and Cafeteria Attendants and Bartender Helpers,4340,10.5,2.059,0.63,10,20810,1.9
+South Carolina,Dishwashers,6340,9.4,3.009,0.86,10.03,20870,1.3
+South Carolina,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",7700,10.9,3.654,1.27,9.78,20340,2.1
+South Carolina,"Food Preparation and Serving Related Workers, All Other",50,36.1,0.024,0.05,9.99,20780,5.7
+South Carolina,Building and Grounds Cleaning and Maintenance Occupations,70280,2.4,33.343,1.11,12.59,26190,1
+South Carolina,First-Line Supervisors of Housekeeping and Janitorial Workers,2910,5.5,1.381,1.3,17.38,36160,1.9
+South Carolina,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1980,10.6,0.941,1.33,23.64,49170,3.5
+South Carolina,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",30420,4.3,14.433,0.99,11.57,24060,1.1
+South Carolina,Maids and Housekeeping Cleaners,16010,4.1,7.597,1.2,10.23,21270,0.9
+South Carolina,"Building Cleaning Workers, All Other",490,41.8,0.232,1.87,13.35,27770,8.2
+South Carolina,Pest Control Workers,2240,7.6,1.064,1.97,15.87,33000,3.5
+South Carolina,Landscaping and Groundskeeping Workers,15300,3.2,7.261,1.17,13.95,29030,1.9
+South Carolina,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",250,16.9,0.118,0.67,18.67,38830,5.2
+South Carolina,Tree Trimmers and Pruners,590,12.1,0.278,0.86,16.47,34260,3.5
+South Carolina,"Grounds Maintenance Workers, All Other",80,25.2,0.039,0.4,22.59,47000,6.5
+South Carolina,Personal Care and Service Occupations,43620,2.3,20.694,0.92,12.86,26760,1.2
+South Carolina,First-Line Supervisors of Gambling Services Workers,60,21,0.027,0.14,13.42,27920,5.6
+South Carolina,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",3360,4,1.596,1.08,19.83,41250,2.2
+South Carolina,Animal Trainers,370,31,0.175,1.56,17.74,36900,6.8
+South Carolina,Animal Caretakers,3540,6.2,1.681,1.16,11.63,24190,1.8
+South Carolina,Gambling Dealers,190,32.4,0.092,0.14,10.57,21990,4.7
+South Carolina,Gambling and Sports Book Writers and Runners,270,11.4,0.128,1.88,9.52,19800,6.1
+South Carolina,"Ushers, Lobby Attendants, and Ticket Takers",2600,5.4,1.235,1.31,9.62,20010,2.2
+South Carolina,Amusement and Recreation Attendants,7200,5.5,3.415,1.48,10.15,21110,2.1
+South Carolina,Costume Attendants,30,21.4,0.016,0.32,15.04,31290,5.6
+South Carolina,"Locker Room, Coatroom, and Dressing Room Attendants",90,11.6,0.04,0.37,12.8,26630,3.3
+South Carolina,Embalmers,130,29,0.062,2.34,21.41,44540,6.8
+South Carolina,Funeral Attendants,1070,8.9,0.509,2.18,12.43,25850,2.6
+South Carolina,"Morticians, Undertakers, and Funeral Arrangers",370,16.1,0.174,1,23.1,48040,5.2
+South Carolina,"Hairdressers, Hairstylists, and Cosmetologists",4650,7.8,2.205,0.84,12.84,26700,4.1
+South Carolina,Manicurists and Pedicurists,450,42.1,0.211,0.28,15.85,32970,10.6
+South Carolina,Skincare Specialists,470,17.9,0.221,0.57,16.53,34390,9
+South Carolina,Baggage Porters and Bellhops,600,15.8,0.283,1.04,9.96,20710,3.6
+South Carolina,Concierges,510,18.7,0.242,0.85,13.08,27200,2.5
+South Carolina,Tour and Travel Guides,830,13.1,0.396,1.19,15.48,32190,6.4
+South Carolina,Childcare Workers,6160,9.4,2.923,0.76,10.1,21000,1.9
+South Carolina,Exercise Trainers and Group Fitness Instructors,3340,8.4,1.584,0.71,18.08,37600,5.8
+South Carolina,Recreation Workers,5590,4.3,2.651,1.09,12.53,26060,1.8
+South Carolina,Residential Advisors,1580,8.6,0.749,1.02,14.17,29480,4.4
+South Carolina,"Crematory Operators and Personal Care and Service Workers, All Other",110,18.9,0.051,0.12,12.71,26440,14.6
+South Carolina,Sales and Related Occupations,228040,1.7,108.191,1.11,17.36,36110,1
+South Carolina,First-Line Supervisors of Retail Sales Workers,22400,4.8,10.626,1.33,19.78,41140,1.9
+South Carolina,First-Line Supervisors of Non-Retail Sales Workers,3190,4.3,1.515,0.89,35.29,73410,2.5
+South Carolina,Cashiers,64700,3.6,30.697,1.25,10.2,21220,0.7
+South Carolina,Counter and Rental Clerks,4240,6.3,2.01,0.72,12.87,26770,1.7
+South Carolina,Parts Salespersons,3890,6.8,1.844,1.06,15.02,31250,2.2
+South Carolina,Retail Salespersons,71670,3.4,34,1.16,13.07,27180,1.3
+South Carolina,Advertising Sales Agents,1730,8,0.821,0.93,25.82,53700,4
+South Carolina,Insurance Sales Agents,7180,5.6,3.406,1.22,30.47,63390,5
+South Carolina,"Securities, Commodities, and Financial Services Sales Agents",3460,8.9,1.644,0.55,33.41,69490,4.5
+South Carolina,Travel Agents,1250,38.3,0.592,1.3,16.52,34360,4.9
+South Carolina,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",10450,4.3,4.96,0.7,25.93,53930,4.2
+South Carolina,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",2880,6.9,1.364,0.65,36.77,76480,3.5
+South Carolina,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",21360,3,10.133,1.11,32.25,67070,1.9
+South Carolina,Demonstrators and Product Promoters,370,27.9,0.176,0.33,16.32,33940,3.9
+South Carolina,Real Estate Brokers,1160,15.7,0.549,1.89,34.42,71600,12.5
+South Carolina,Real Estate Sales Agents,5860,6.1,2.778,2.51,23.34,48560,6.4
+South Carolina,Sales Engineers,380,9.3,0.18,0.42,55.77,115990,10
+South Carolina,Telemarketers,980,8.5,0.466,0.51,13.8,28710,6.5
+South Carolina,Office and Administrative Support Occupations,276980,0.9,131.41,0.99,17.67,36750,0.3
+South Carolina,First-Line Supervisors of Office and Administrative Support Workers,26270,1.4,12.465,1.23,25.61,53280,0.9
+South Carolina,"Switchboard Operators, Including Answering Service",1550,11.5,0.734,1.58,14.15,29430,2
+South Carolina,Telephone Operators,**,**,**,**,12.78,26590,2.2
+South Carolina,Bill and Account Collectors,6530,9.8,3.1,1.93,16.85,35040,1.7
+South Carolina,Billing and Posting Clerks,5900,4.3,2.801,0.88,17.33,36040,1.1
+South Carolina,"Bookkeeping, Accounting, and Auditing Clerks",18780,2.3,8.91,0.87,18.02,37490,0.8
+South Carolina,Payroll and Timekeeping Clerks,2840,4.6,1.346,1.39,17.16,35700,8
+South Carolina,Procurement Clerks,1130,3.3,0.538,1.2,19.99,41580,1.7
+South Carolina,Tellers,6100,5.6,2.894,0.96,15.35,31940,0.9
+South Carolina,"Financial Clerks, All Other",220,14.1,0.106,0.51,20.63,42900,3.3
+South Carolina,Brokerage Clerks,320,19.7,0.151,0.46,23.02,47880,2.3
+South Carolina,Correspondence Clerks,40,23.3,0.019,0.45,17.59,36590,5.1
+South Carolina,"Court, Municipal, and License Clerks",1830,2.2,0.869,0.83,16.99,35330,0.9
+South Carolina,"Credit Authorizers, Checkers, and Clerks",220,10.5,0.106,0.58,19.5,40560,4.5
+South Carolina,Customer Service Representatives,51510,2.1,24.438,1.23,16.51,34340,0.9
+South Carolina,"Eligibility Interviewers, Government Programs",660,2.2,0.315,0.33,21.02,43710,1.6
+South Carolina,File Clerks,690,6.9,0.328,0.47,15,31200,2
+South Carolina,"Hotel, Motel, and Resort Desk Clerks",5850,5.6,2.776,1.52,10.98,22850,1.3
+South Carolina,"Interviewers, Except Eligibility and Loan",2130,3.8,1.011,0.79,15.59,32430,1.7
+South Carolina,"Library Assistants, Clerical",670,7.2,0.318,0.54,12.68,26370,2.3
+South Carolina,Loan Interviewers and Clerks,2970,9.7,1.409,0.99,17.62,36650,2.8
+South Carolina,New Accounts Clerks,420,10.2,0.199,0.67,19.6,40770,3.7
+South Carolina,Order Clerks,710,11.5,0.339,0.36,16.55,34420,1.9
+South Carolina,"Human Resources Assistants, Except Payroll and Timekeeping",1620,3.7,0.771,0.96,18.24,37940,1.3
+South Carolina,Receptionists and Information Clerks,12730,3.6,6.04,0.84,13.6,28290,0.9
+South Carolina,Reservation and Transportation Ticket Agents and Travel Clerks,720,20.2,0.342,0.41,19.45,40450,4.8
+South Carolina,"Information and Record Clerks, All Other",790,1.5,0.377,0.36,20.36,42340,1.6
+South Carolina,Cargo and Freight Agents,1660,21.8,0.787,1.21,22.06,45880,5.9
+South Carolina,Couriers and Messengers,1690,13.6,0.801,1.57,12.89,26810,2.1
+South Carolina,Public Safety Telecommunicators,1180,5.6,0.562,0.87,16.09,33460,1
+South Carolina,"Dispatchers, Except Police, Fire, and Ambulance",2270,7.9,1.078,0.79,19.68,40940,2.7
+South Carolina,"Meter Readers, Utilities",570,9.3,0.268,1.29,18.83,39170,1.8
+South Carolina,Postal Service Clerks,950,0,0.451,0.82,24.92,51830,0.6
+South Carolina,Postal Service Mail Carriers,5360,0,2.545,1.1,24.44,50840,0.7
+South Carolina,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1140,0,0.54,0.78,23.55,48980,1.6
+South Carolina,"Production, Planning, and Expediting Clerks",5500,2.8,2.608,1.03,22.38,46550,2.6
+South Carolina,"Shipping, Receiving, and Inventory Clerks",10740,2.8,5.094,1.06,17.25,35870,1.4
+South Carolina,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",1360,4.1,0.644,1.55,16.72,34770,5.2
+South Carolina,Executive Secretaries and Executive Administrative Assistants,4370,3.5,2.071,0.56,28.05,58350,1
+South Carolina,Legal Secretaries and Administrative Assistants,2290,13.6,1.085,0.95,19.99,41580,3.2
+South Carolina,Medical Secretaries and Administrative Assistants,8560,3.9,4.062,0.99,17.13,35640,1.1
+South Carolina,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",34170,1.8,16.213,1.17,17.68,36770,0.8
+South Carolina,Data Entry Keyers,1250,5.5,0.595,0.55,14.83,30840,1.7
+South Carolina,Word Processors and Typists,70,4.2,0.035,0.11,16.54,34410,2.2
+South Carolina,Desktop Publishers,30,30.2,0.015,0.25,19.88,41360,7.8
+South Carolina,Insurance Claims and Policy Processing Clerks,2820,8.3,1.336,0.76,17.97,37370,3.5
+South Carolina,"Mail Clerks and Mail Machine Operators, Except Postal Service",800,7,0.377,0.66,14.12,29370,3.2
+South Carolina,"Office Clerks, General",34230,2.2,16.241,0.81,13.7,28500,0.8
+South Carolina,"Office Machine Operators, Except Computer",50,19.2,0.025,0.08,16.19,33680,5
+South Carolina,Statistical Assistants,100,5.2,0.047,0.7,19.39,40320,3.1
+South Carolina,"Office and Administrative Support Workers, All Other",2480,1.4,1.174,0.92,*,*,*
+South Carolina,"Farming, Fishing, and Forestry Occupations",3990,6.1,1.895,0.57,17.24,35870,2.9
+South Carolina,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",450,12.1,0.211,1.38,28.48,59240,5.6
+South Carolina,Agricultural Inspectors,120,4,0.055,0.59,20.11,41820,1.6
+South Carolina,"Graders and Sorters, Agricultural Products",130,48.5,0.06,0.26,12.8,26620,4.6
+South Carolina,Agricultural Equipment Operators,100,41.2,0.047,0.26,16.02,33320,8.5
+South Carolina,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1400,13.1,0.663,0.33,12.92,26860,2.7
+South Carolina,"Farmworkers, Farm, Ranch, and Aquacultural Animals",180,16.7,0.083,0.33,13.93,28970,4
+South Carolina,Forest and Conservation Workers,250,13,0.12,2.6,14.25,29650,4.6
+South Carolina,Fallers,70,19.9,0.032,0.95,20.69,43030,12.4
+South Carolina,Logging Equipment Operators,1190,12.3,0.565,3.19,19.22,39980,7.2
+South Carolina,Log Graders and Scalers,60,20.3,0.028,1.27,18.8,39100,2.1
+South Carolina,"Logging Workers, All Other",**,**,**,**,20.59,42820,14.7
+South Carolina,Construction and Extraction Occupations,84910,1.8,40.286,0.96,20.94,43550,0.9
+South Carolina,First-Line Supervisors of Construction Trades and Extraction Workers,11390,3.2,5.404,1.27,30.78,64020,1.4
+South Carolina,Boilermakers,**,**,**,**,28.64,59580,2.5
+South Carolina,Brickmasons and Blockmasons,650,10.1,0.307,0.74,18.56,38600,3.8
+South Carolina,Stonemasons,90,36.2,0.045,0.53,16.06,33400,4.7
+South Carolina,Carpenters,8840,4.9,4.192,0.84,22.49,46780,3.8
+South Carolina,Carpet Installers,220,25,0.106,0.6,18.64,38760,7.9
+South Carolina,"Floor Layers, Except Carpet, Wood, and Hard Tiles",40,43.9,0.019,0.17,20.16,41940,9.1
+South Carolina,Floor Sanders and Finishers,70,47.6,0.031,0.93,17.13,35620,11.9
+South Carolina,Tile and Stone Setters,240,24.8,0.115,0.42,18.27,38000,4.7
+South Carolina,Cement Masons and Concrete Finishers,2120,10.1,1.005,0.75,18.93,39370,2
+South Carolina,Construction Laborers,17620,3.9,8.361,1.2,16.18,33650,1.6
+South Carolina,"Paving, Surfacing, and Tamping Equipment Operators",770,13.2,0.363,1.17,16.88,35110,2.9
+South Carolina,Operating Engineers and Other Construction Equipment Operators,6890,4.2,3.269,1.18,19.56,40680,1.6
+South Carolina,Drywall and Ceiling Tile Installers,1290,12.2,0.614,0.88,18.27,38010,2.7
+South Carolina,Electricians,10510,3.9,4.986,1.06,22.56,46920,1.7
+South Carolina,Glaziers,370,24.2,0.174,0.49,19.01,39530,3.9
+South Carolina,"Insulation Workers, Floor, Ceiling, and Wall",360,35.1,0.17,0.75,16.28,33860,5.7
+South Carolina,"Insulation Workers, Mechanical",220,18.9,0.106,0.58,22.52,46830,3.9
+South Carolina,"Painters, Construction and Maintenance",2300,9.1,1.092,0.69,18.06,37570,4.6
+South Carolina,Pipelayers,880,9.8,0.417,1.69,18.85,39210,3.1
+South Carolina,"Plumbers, Pipefitters, and Steamfitters",5540,10.2,2.631,0.87,22.53,46870,1.9
+South Carolina,Plasterers and Stucco Masons,100,39.1,0.047,0.25,16.39,34080,15.3
+South Carolina,Reinforcing Iron and Rebar Workers,120,35.2,0.056,0.43,22.47,46740,9.7
+South Carolina,Roofers,1300,13.4,0.618,0.7,18.51,38510,3
+South Carolina,Sheet Metal Workers,1870,11.5,0.887,0.99,18.6,38700,2.9
+South Carolina,Structural Iron and Steel Workers,710,13.2,0.339,0.65,20.69,43030,3
+South Carolina,Solar Photovoltaic Installers,50,0,0.024,0.32,19,39530,2.6
+South Carolina,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",230,28.3,0.109,0.68,15.3,31830,7.7
+South Carolina,Helpers--Carpenters,680,13.9,0.322,1.44,14.65,30480,3.3
+South Carolina,Helpers--Electricians,1860,12.9,0.884,1.64,14.71,30610,1.6
+South Carolina,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,13.8,28700,3.3
+South Carolina,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",1290,13.1,0.612,1.54,14.11,29340,3.5
+South Carolina,Helpers--Roofers,80,49.3,0.04,0.66,11.02,22920,5.7
+South Carolina,"Helpers, Construction Trades, All Other",410,25.3,0.194,1,15.21,31640,2.1
+South Carolina,Construction and Building Inspectors,1400,10.9,0.664,0.88,23.08,48020,2.5
+South Carolina,Elevator and Escalator Installers and Repairers,580,29,0.274,1.42,32.58,67780,4
+South Carolina,Fence Erectors,**,**,**,**,17.65,36720,3.7
+South Carolina,Hazardous Materials Removal Workers,**,**,**,**,18.21,37880,2.1
+South Carolina,Highway Maintenance Workers,520,10.7,0.246,0.24,14.74,30660,2.7
+South Carolina,Rail-Track Laying and Maintenance Equipment Operators,**,**,**,**,29.31,60970,19.8
+South Carolina,Septic Tank Servicers and Sewer Pipe Cleaners,450,18.6,0.212,1.04,17.04,35450,3.2
+South Carolina,"Excavating and Loading Machine and Dragline Operators, Surface Mining",300,20.4,0.141,0.47,21.2,44090,3.3
+South Carolina,Continuous Mining Machine Operators,70,9.9,0.034,0.34,23.81,49530,3.2
+South Carolina,"Rock Splitters, Quarry",**,**,**,**,18.32,38110,5.8
+South Carolina,Helpers--Extraction Workers,60,22.5,0.028,0.25,17.39,36160,5.7
+South Carolina,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",150,18.6,0.069,0.41,20.59,42820,2.8
+South Carolina,"Underground Mining Machine Operators and Extraction Workers, All Other",30,39,0.016,0.17,23.8,49510,8.7
+South Carolina,"Installation, Maintenance, and Repair Occupations",95290,1.6,45.207,1.16,21.9,45540,0.5
+South Carolina,"First-Line Supervisors of Mechanics, Installers, and Repairers",8560,2.6,4.063,1.23,30.19,62800,1.2
+South Carolina,"Computer, Automated Teller, and Office Machine Repairers",1410,12.6,0.667,1,21.97,45710,5.8
+South Carolina,"Radio, Cellular, and Tower Equipment Installers and Repairers",180,46.1,0.083,0.85,21.67,45070,7.4
+South Carolina,"Telecommunications Equipment Installers and Repairers, Except Line Installers",3800,10.1,1.803,1.27,26.64,55400,2.2
+South Carolina,Avionics Technicians,210,17.6,0.098,0.66,28.51,59310,2.6
+South Carolina,"Electric Motor, Power Tool, and Related Repairers",210,34.2,0.099,0.92,17.17,35700,9.5
+South Carolina,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",930,7.1,0.442,1.1,24.05,50030,7.3
+South Carolina,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",250,10.8,0.12,0.78,34.4,71550,2.1
+South Carolina,"Electronic Equipment Installers and Repairers, Motor Vehicles",110,29.6,0.052,0.74,20.74,43140,4.6
+South Carolina,Security and Fire Alarm Systems Installers,700,14,0.332,0.68,20.38,42380,2.8
+South Carolina,Aircraft Mechanics and Service Technicians,1370,16.7,0.65,0.72,27.84,57900,2.6
+South Carolina,Automotive Body and Related Repairers,1760,10.7,0.835,0.85,20.72,43110,3.7
+South Carolina,Automotive Glass Installers and Repairers,370,49.8,0.175,1.32,19.03,39580,2.8
+South Carolina,Automotive Service Technicians and Mechanics,12110,5.7,5.746,1.29,19.94,41480,1.5
+South Carolina,Bus and Truck Mechanics and Diesel Engine Specialists,3280,6.2,1.555,0.86,21.37,44450,1.9
+South Carolina,Farm Equipment Mechanics and Service Technicians,140,24.7,0.068,0.28,20,41590,4.9
+South Carolina,"Mobile Heavy Equipment Mechanics, Except Engines",2290,6.9,1.089,1.08,23.32,48500,1.5
+South Carolina,Rail Car Repairers,130,42.9,0.061,0.35,23.05,47950,4.8
+South Carolina,Motorboat Mechanics and Service Technicians,450,14.1,0.214,1.37,16.63,34590,3.7
+South Carolina,Motorcycle Mechanics,240,21.8,0.112,1.06,16.72,34780,3.1
+South Carolina,Outdoor Power Equipment and Other Small Engine Mechanics,630,20.2,0.297,1.35,16.92,35190,3.9
+South Carolina,Bicycle Repairers,100,36.6,0.049,0.55,14.12,29370,3
+South Carolina,Recreational Vehicle Service Technicians,200,27.2,0.094,0.89,20.5,42640,9.4
+South Carolina,Tire Repairers and Changers,1800,13.7,0.852,1.13,14.32,29780,4.5
+South Carolina,Mechanical Door Repairers,370,38.4,0.178,1.13,20.51,42650,2.1
+South Carolina,"Control and Valve Installers and Repairers, Except Mechanical Door",500,13.8,0.239,0.67,26.64,55410,4.3
+South Carolina,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",5530,7.4,2.624,1.13,21.71,45160,1.6
+South Carolina,Home Appliance Repairers,410,15.2,0.196,0.93,17.45,36300,3.6
+South Carolina,Industrial Machinery Mechanics,9300,7.4,4.413,1.67,25.68,53400,1.2
+South Carolina,"Maintenance Workers, Machinery",1370,11.7,0.651,1.31,27.05,56270,3.2
+South Carolina,Millwrights,1330,13.6,0.63,1.95,22.65,47110,1.1
+South Carolina,Electrical Power-Line Installers and Repairers,2690,4,1.274,1.68,29.76,61900,1.1
+South Carolina,Telecommunications Line Installers and Repairers,830,12.1,0.394,0.48,24.18,50300,2.6
+South Carolina,Medical Equipment Repairers,720,20.5,0.34,1.08,20.89,43450,9.8
+South Carolina,Musical Instrument Repairers and Tuners,**,**,**,**,18.21,37880,6.5
+South Carolina,"Precision Instrument and Equipment Repairers, All Other",30,7.6,0.015,0.21,22.88,47590,3.3
+South Carolina,"Maintenance and Repair Workers, General",27430,2,13.016,1.35,18.09,37630,0.8
+South Carolina,"Coin, Vending, and Amusement Machine Servicers and Repairers",350,27,0.168,0.79,18.98,39470,4.7
+South Carolina,Commercial Divers,30,7.4,0.017,0.71,14.55,30270,4.2
+South Carolina,Locksmiths and Safe Repairers,270,32.9,0.127,1.1,19.87,41330,7.5
+South Carolina,Manufactured Building and Mobile Home Installers,70,28,0.031,1.64,16.42,34160,7.6
+South Carolina,Riggers,270,15.4,0.127,0.81,20.86,43380,4.2
+South Carolina,"Helpers--Installation, Maintenance, and Repair Workers",1580,10,0.748,1.11,14.72,30610,2.8
+South Carolina,"Installation, Maintenance, and Repair Workers, All Other",730,14.6,0.344,0.31,20.39,42410,3.2
+South Carolina,Production Occupations,198450,1.6,94.15,1.51,19.02,39570,1
+South Carolina,First-Line Supervisors of Production and Operating Workers,13020,2.1,6.176,1.44,32.67,67960,1
+South Carolina,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",3750,4.8,1.778,0.92,18.25,37950,2.1
+South Carolina,Engine and Other Machine Assemblers,480,18.5,0.23,0.73,21.73,45200,3.9
+South Carolina,Structural Metal Fabricators and Fitters,1110,11.5,0.527,1.01,18.69,38870,2.1
+South Carolina,Fiberglass Laminators and Fabricators,490,17.1,0.233,1.71,17.11,35590,2.6
+South Carolina,Miscellaneous Assemblers and Fabricators,47820,2.9,22.686,2.43,16.77,34890,1.2
+South Carolina,Bakers,1940,9.9,0.919,0.73,12.33,25640,1.6
+South Carolina,Butchers and Meat Cutters,1620,12.4,0.768,0.83,16.59,34500,1.9
+South Carolina,"Meat, Poultry, and Fish Cutters and Trimmers",4490,25.8,2.13,2.03,11.76,24460,5.4
+South Carolina,Slaughterers and Meat Packers,560,22.8,0.266,0.53,11.46,23840,5.6
+South Carolina,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",170,34.1,0.08,0.57,15.34,31920,8.1
+South Carolina,Food Batchmakers,1330,12.9,0.629,0.58,12.39,25780,2.3
+South Carolina,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",2540,8.6,1.206,2.3,22.11,45980,2.2
+South Carolina,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1210,5.2,0.573,5.16,22.82,47460,3.8
+South Carolina,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",930,11.8,0.443,2.01,28,58250,3.9
+South Carolina,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",3740,4.5,1.776,1.34,19.56,40680,4.6
+South Carolina,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",40,16.8,0.021,0.28,21.16,44010,4.9
+South Carolina,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1320,4.9,0.625,1.2,19.76,41110,2.2
+South Carolina,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",200,24.7,0.094,0.49,24.08,50090,5.3
+South Carolina,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",110,10.2,0.054,0.42,27.04,56230,16
+South Carolina,Machinists,11380,3.8,5.399,2.07,19.16,39860,2.5
+South Carolina,Metal-Refining Furnace Operators and Tenders,340,10.4,0.163,1.39,25.29,52610,10.3
+South Carolina,"Pourers and Casters, Metal",150,8.3,0.07,1.28,27.12,56400,3.9
+South Carolina,"Model Makers, Metal and Plastic",50,15.4,0.022,0.76,26.72,55570,6.1
+South Carolina,Foundry Mold and Coremakers,290,20.7,0.14,1.17,17.46,36310,4.5
+South Carolina,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",3570,9.7,1.694,1.44,16.3,33900,1.9
+South Carolina,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",4290,5.2,2.034,2.03,23.75,49400,4.2
+South Carolina,Tool and Die Makers,1160,8.6,0.551,1.14,26.08,54260,1.6
+South Carolina,"Welders, Cutters, Solderers, and Brazers",6950,4.6,3.295,1.18,20.8,43260,1.2
+South Carolina,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",330,26,0.158,0.66,18.68,38850,2.9
+South Carolina,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",430,14.7,0.202,1.52,20.28,42180,3.5
+South Carolina,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",330,13.2,0.156,0.55,16.58,34480,2.6
+South Carolina,"Tool Grinders, Filers, and Sharpeners",70,16.9,0.033,0.76,20.71,43080,6.6
+South Carolina,"Metal Workers and Plastic Workers, All Other",130,42.8,0.063,0.38,16.11,33520,6.2
+South Carolina,Prepress Technicians and Workers,270,17.3,0.126,0.61,19.1,39740,3.5
+South Carolina,Printing Press Operators,2540,5.8,1.204,1.02,16.62,34560,2.6
+South Carolina,Print Binding and Finishing Workers,530,16.1,0.252,0.81,17.45,36290,4.9
+South Carolina,Laundry and Dry-Cleaning Workers,3480,6.8,1.65,1.16,11.16,23220,2.2
+South Carolina,"Pressers, Textile, Garment, and Related Materials",900,14.2,0.427,1.65,11.38,23670,2.2
+South Carolina,Sewing Machine Operators,2570,6.4,1.221,1.34,12.76,26540,1.8
+South Carolina,Shoe and Leather Workers and Repairers,90,34,0.042,0.71,11.15,23190,8.9
+South Carolina,"Tailors, Dressmakers, and Custom Sewers",160,40.8,0.075,0.45,14.96,31110,3
+South Carolina,Textile Bleaching and Dyeing Machine Operators and Tenders,1160,10.9,0.552,9.33,13.77,28650,1.6
+South Carolina,"Textile Cutting Machine Setters, Operators, and Tenders",530,25.1,0.25,2.78,12.85,26730,1.8
+South Carolina,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",2930,7.3,1.392,9.67,16.14,33560,3
+South Carolina,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",2660,13.6,1.261,5.94,15.17,31540,1.5
+South Carolina,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",2860,10,1.356,10.92,17.58,36580,2.2
+South Carolina,Fabric and Apparel Patternmakers,60,44.1,0.027,0.66,14.06,29240,12.3
+South Carolina,Upholsterers,210,24.5,0.101,0.5,13.89,28890,5
+South Carolina,"Textile, Apparel, and Furnishings Workers, All Other",160,12.3,0.078,0.64,16.68,34700,3.5
+South Carolina,Cabinetmakers and Bench Carpenters,1120,12,0.529,0.78,18.07,37580,2.6
+South Carolina,Furniture Finishers,80,23.9,0.038,0.34,15.77,32800,2.7
+South Carolina,"Sawing Machine Setters, Operators, and Tenders, Wood",1230,9.2,0.586,1.7,15.24,31700,1.6
+South Carolina,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1170,10.9,0.554,1.03,14.39,29940,2.6
+South Carolina,Power Distributors and Dispatchers,60,8.3,0.027,0.36,32.65,67920,2.5
+South Carolina,Power Plant Operators,400,6.6,0.189,0.83,31.2,64890,3.3
+South Carolina,Stationary Engineers and Boiler Operators,260,4.5,0.121,0.55,24.24,50420,5.1
+South Carolina,Water and Wastewater Treatment Plant and System Operators,2400,4.4,1.139,1.35,20.31,42240,1.6
+South Carolina,Chemical Plant and System Operators,1270,13.9,0.603,3.07,25.08,52160,4.7
+South Carolina,Gas Plant Operators,330,9.2,0.156,1.59,26.74,55620,1.4
+South Carolina,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",50,37.1,0.024,0.09,38.07,79180,6.3
+South Carolina,"Plant and System Operators, All Other",60,38.6,0.026,0.3,28.33,58930,3.4
+South Carolina,Chemical Equipment Operators and Tenders,2080,11.3,0.989,1.67,23.04,47920,2.6
+South Carolina,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",420,13.1,0.2,0.57,19.96,41520,5.7
+South Carolina,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",**,**,**,**,14.23,29600,4.5
+South Carolina,"Grinding and Polishing Workers, Hand",380,12.9,0.182,0.92,13.89,28890,6.8
+South Carolina,"Mixing and Blending Machine Setters, Operators, and Tenders",2910,12.7,1.378,1.62,20.31,42250,2.7
+South Carolina,"Cutters and Trimmers, Hand",70,39.5,0.034,0.52,13.78,28650,6.6
+South Carolina,"Cutting and Slicing Machine Setters, Operators, and Tenders",1270,13.3,0.603,1.53,16.73,34790,3
+South Carolina,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1770,7.4,0.839,1.72,18.18,37820,3.6
+South Carolina,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",330,7.8,0.159,1.23,19.74,41050,2.8
+South Carolina,"Inspectors, Testers, Sorters, Samplers, and Weighers",14060,4.1,6.67,1.7,19.12,39770,1.3
+South Carolina,Jewelers and Precious Stone and Metal Workers,280,29.5,0.133,0.83,20.79,43250,6.3
+South Carolina,Dental Laboratory Technicians,330,22.3,0.157,0.67,20.68,43020,4.1
+South Carolina,Medical Appliance Technicians,130,30.3,0.061,0.63,17.01,35390,12.4
+South Carolina,Ophthalmic Laboratory Technicians,280,22.5,0.135,0.68,16.53,34380,3.3
+South Carolina,Packaging and Filling Machine Operators and Tenders,4680,18.5,2.221,0.84,16.94,35240,2.2
+South Carolina,"Painting, Coating, and Decorating Workers",160,18.9,0.074,0.87,17.95,37340,2.7
+South Carolina,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2150,8,1.018,1.02,18.84,39200,2.1
+South Carolina,Photographic Process Workers and Processing Machine Operators,120,18.2,0.055,0.68,13.55,28180,4.2
+South Carolina,Computer Numerically Controlled Tool Operators,2050,5.3,0.974,0.94,21.38,44470,2.8
+South Carolina,Computer Numerically Controlled Tool Programmers,180,18.3,0.085,0.49,27.87,57980,9.5
+South Carolina,Adhesive Bonding Machine Operators and Tenders,80,13.7,0.04,0.42,16.37,34040,7
+South Carolina,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",450,9.8,0.213,1.91,15.74,32730,3.9
+South Carolina,Etchers and Engravers,60,28.2,0.029,0.41,16.04,33370,4.4
+South Carolina,"Molders, Shapers, and Casters, Except Metal and Plastic",1050,9.6,0.5,1.64,17.81,37050,3.2
+South Carolina,"Paper Goods Machine Setters, Operators, and Tenders",3300,8.6,1.567,2.29,23.52,48910,3.4
+South Carolina,Tire Builders,3970,0,1.884,13.31,24.34,50630,1.8
+South Carolina,Helpers--Production Workers,5340,9.4,2.533,1.23,14.25,29640,2
+South Carolina,"Production Workers, All Other",1100,10.6,0.524,0.35,16.76,34860,7.9
+South Carolina,Transportation and Material Moving Occupations,191820,2,91.004,1.07,15.91,33080,0.9
+South Carolina,Aircraft Cargo Handling Supervisors,70,15.8,0.035,0.55,27.53,57270,7.2
+South Carolina,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",6860,3.3,3.255,1.05,26.74,55620,1
+South Carolina,"Airline Pilots, Copilots, and Flight Engineers",**,**,**,**,*,96310,3
+South Carolina,Commercial Pilots,490,46.3,0.231,0.9,*,104730,6.6
+South Carolina,Air Traffic Controllers,190,0,0.089,0.59,44.04,91600,1.1
+South Carolina,Airfield Operations Specialists,190,18.5,0.092,1.26,20.27,42150,1.9
+South Carolina,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",770,20.9,0.367,3.65,11.28,23450,5.2
+South Carolina,Driver/Sales Workers,6020,13.4,2.854,0.94,12.32,25630,4
+South Carolina,Heavy and Tractor-Trailer Truck Drivers,29350,3.4,13.924,1.1,20.9,43480,1.2
+South Carolina,Light Truck Drivers,12430,4.6,5.897,0.94,16.64,34600,2.6
+South Carolina,"Bus Drivers, Transit and Intercity",690,12.6,0.327,0.27,15.85,32970,3
+South Carolina,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",9310,10.6,4.417,0.93,12.19,25350,2.5
+South Carolina,"Motor Vehicle Operators, All Other",130,6.6,0.06,0.16,20.21,42040,3
+South Carolina,Locomotive Engineers,**,**,**,**,27.58,57360,3.9
+South Carolina,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",80,15.2,0.037,0.49,33.97,70660,6.2
+South Carolina,Railroad Conductors and Yardmasters,**,**,**,**,31.37,65240,3.5
+South Carolina,Sailors and Marine Oilers,180,13.7,0.086,0.4,18.64,38760,4.1
+South Carolina,"Captains, Mates, and Pilots of Water Vessels",390,13,0.184,0.81,33.95,70620,6.9
+South Carolina,Ship Engineers,70,16.6,0.032,0.56,42.13,87640,7.8
+South Carolina,Parking Attendants,1010,24,0.477,0.48,11.21,23310,6.4
+South Carolina,Automotive and Watercraft Service Attendants,710,19.2,0.336,0.42,11.54,23990,2.5
+South Carolina,Traffic Technicians,50,2.1,0.025,0.5,20.26,42140,2.4
+South Carolina,Transportation Inspectors,120,27.2,0.057,0.28,37.79,78610,3.9
+South Carolina,Passenger Attendants,**,**,**,**,11.56,24040,6.4
+South Carolina,"Aircraft Service Attendants and Transportation Workers, All Other",130,39.4,0.061,0.26,20.12,41840,5.4
+South Carolina,Conveyor Operators and Tenders,310,27.5,0.147,0.9,16.56,34450,3.9
+South Carolina,Crane and Tower Operators,760,13,0.358,1.16,25.05,52100,3
+South Carolina,Industrial Truck and Tractor Operators,10030,7.7,4.761,1.11,17.37,36130,2.4
+South Carolina,Cleaners of Vehicles and Equipment,4620,10.1,2.19,0.84,11.38,23670,1.5
+South Carolina,"Laborers and Freight, Stock, and Material Movers, Hand",64150,4.1,30.437,1.51,14.37,29890,1.3
+South Carolina,Machine Feeders and Offbearers,1260,8.3,0.597,1.39,13.58,28250,3.6
+South Carolina,"Packers and Packagers, Hand",8420,5.9,3.996,0.93,12.24,25450,1.7
+South Carolina,Stockers and Order Fillers,28940,3.8,13.73,0.94,12.92,26870,1.3
+South Carolina,Refuse and Recyclable Material Collectors,2380,5.9,1.13,1.37,11.76,24460,2
+South Carolina,"Material Moving Workers, All Other",**,**,**,**,17.43,36260,3.1

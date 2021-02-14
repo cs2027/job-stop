@@ -1,0 +1,532 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Wyoming,All Occupations,273340,0.8,1000,1,23.92,49760,0.6
+Wyoming,Management Occupations,12560,1.6,45.94,0.84,47.03,97820,0.9
+Wyoming,Chief Executives,120,6,0.432,0.31,62.7,130410,6.1
+Wyoming,General and Operations Managers,4990,3,18.244,1.12,49.06,102040,1.3
+Wyoming,Legislators,60,24.1,0.223,0.63,*,28850,7.6
+Wyoming,Marketing Managers,60,14.5,0.201,0.11,52.74,109700,5.6
+Wyoming,Sales Managers,220,13,0.822,0.3,58.84,122390,8.9
+Wyoming,Administrative Services and Facilities Managers,170,4.2,0.633,0.3,44.84,93280,1.5
+Wyoming,Computer and Information Systems Managers,200,5.8,0.725,0.25,51.01,106110,2.2
+Wyoming,Financial Managers,710,5.1,2.598,0.58,57.16,118900,4.3
+Wyoming,Industrial Production Managers,440,3.7,1.616,1.28,62.56,130130,1.6
+Wyoming,Purchasing Managers,30,8.5,0.124,0.25,50.23,104480,2.2
+Wyoming,"Transportation, Storage, and Distribution Managers",220,16,0.813,0.9,44.48,92520,1.9
+Wyoming,Human Resources Managers,160,8,0.568,0.54,48.49,100860,4
+Wyoming,Construction Managers,680,8.7,2.473,1.24,45.93,95530,3.3
+Wyoming,"Education and Childcare Administrators, Preschool and Daycare",130,20.5,0.474,1.33,22.91,47660,6.3
+Wyoming,"Education Administrators, Kindergarten through Secondary",400,4.5,1.476,0.8,*,98580,1.5
+Wyoming,"Education Administrators, Postsecondary",130,8.4,0.49,0.5,59.69,124160,7.2
+Wyoming,"Education Administrators, All Other",80,6.4,0.305,1.01,44.24,92010,2.3
+Wyoming,Architectural and Engineering Managers,180,6.4,0.664,0.5,65.5,136240,2.8
+Wyoming,Food Service Managers,480,9.9,1.774,1.11,27.67,57550,3.4
+Wyoming,Lodging Managers,400,8.4,1.46,5.59,32.9,68430,9.5
+Wyoming,Medical and Health Services Managers,850,2.9,3.115,1.16,48.62,101120,2.1
+Wyoming,Natural Sciences Managers,150,4.4,0.563,1.22,46.69,97110,3.6
+Wyoming,Postmasters and Mail Superintendents,80,0,0.293,3.1,29.79,61960,1
+Wyoming,"Property, Real Estate, and Community Association Managers",390,8.4,1.444,0.96,29.6,61560,6
+Wyoming,Social and Community Service Managers,340,8.4,1.227,1.15,29.28,60890,2.9
+Wyoming,Emergency Management Directors,40,12,0.152,2.22,28.48,59240,2.6
+Wyoming,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",750,3,2.738,0.85,47.79,99400,2.4
+Wyoming,Business and Financial Operations Occupations,9170,1.8,33.541,0.6,33.69,70070,1.7
+Wyoming,Buyers and Purchasing Agents,550,9.5,1.998,0.7,31.35,65210,2.2
+Wyoming,"Claims Adjusters, Examiners, and Investigators",180,6.9,0.656,0.33,30.56,63560,3.5
+Wyoming,Compliance Officers,440,6,1.596,0.74,31.97,66510,2.2
+Wyoming,Cost Estimators,280,12.4,1.033,0.72,35.05,72910,2.8
+Wyoming,Human Resources Specialists,840,2.9,3.088,0.72,27.69,57600,1.3
+Wyoming,Labor Relations Specialists,90,28,0.331,0.64,33.92,70560,6.4
+Wyoming,Logisticians,80,6.8,0.3,0.24,37.01,76980,2.9
+Wyoming,Management Analysts,380,10.9,1.372,0.28,46.39,96500,9.6
+Wyoming,"Meeting, Convention, and Event Planners",110,13.6,0.41,0.51,22.91,47660,2.4
+Wyoming,Fundraisers,120,16.2,0.421,0.76,29.44,61240,4.3
+Wyoming,"Compensation, Benefits, and Job Analysis Specialists",50,17,0.173,0.28,33.3,69270,2
+Wyoming,Training and Development Specialists,450,3.5,1.657,0.78,32.8,68230,1.7
+Wyoming,Market Research Analysts and Marketing Specialists,390,9.2,1.426,0.31,26.58,55280,2.6
+Wyoming,"Project Management Specialists and Business Operations Specialists, All Other",1490,4.2,5.438,0.62,37.05,77060,3.3
+Wyoming,Accountants and Auditors,1860,4.2,6.787,0.78,31.9,66360,2.6
+Wyoming,Property Appraisers and Assessors,190,18.7,0.695,1.81,27.03,56230,13.5
+Wyoming,Budget Analysts,110,2.6,0.392,1.12,32.5,67600,1.3
+Wyoming,Credit Analysts,50,24.8,0.19,0.38,28.68,59660,5.5
+Wyoming,Personal Financial Advisors,320,13.1,1.166,0.81,56.04,116560,14
+Wyoming,Credit Counselors,40,39.4,0.14,0.64,25.61,53270,14.4
+Wyoming,Loan Officers,810,6,2.965,1.41,33.73,70160,3.3
+Wyoming,Tax Preparers,60,35.5,0.211,0.47,15.24,31690,13.9
+Wyoming,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",180,15.2,0.643,0.21,42.59,88590,14.5
+Wyoming,Computer and Mathematical Occupations,3170,3.8,11.613,0.37,32.56,67720,3.1
+Wyoming,Computer Systems Analysts,250,32.6,0.924,0.23,32.98,68610,11.9
+Wyoming,Information Security Analysts,50,35.5,0.174,0.2,37.99,79010,5.1
+Wyoming,Computer Network Support Specialists,380,17.5,1.376,1.09,28.86,60020,3.2
+Wyoming,Computer User Support Specialists,720,7,2.622,0.59,24.68,51330,2.4
+Wyoming,Computer Network Architects,100,36,0.349,0.34,54.95,114300,16.5
+Wyoming,Network and Computer Systems Administrators,530,5.7,1.939,0.8,33.97,70650,3.2
+Wyoming,Database Administrators and Architects,210,5.8,0.767,0.9,28.06,58370,2.5
+Wyoming,Computer Programmers,190,26,0.692,0.51,38.64,80380,12.5
+Wyoming,Software Developers and Software Quality Assurance Analysts and Testers,350,12.4,1.266,0.13,42.07,87510,11.2
+Wyoming,Web Developers and Digital Interface Designers,160,16.9,0.58,0.57,23.52,48920,6.6
+Wyoming,"Computer Occupations, All Other",190,5.2,0.694,0.26,32.78,68190,2.8
+Wyoming,Statisticians,40,21.3,0.151,0.57,*,*,*
+Wyoming,Architecture and Engineering Occupations,4490,2.2,16.414,0.93,39.94,83070,2
+Wyoming,"Architects, Except Landscape and Naval",120,22,0.427,0.59,40.71,84680,6.9
+Wyoming,Landscape Architects,30,38.9,0.128,0.92,39,81120,2.2
+Wyoming,Cartographers and Photogrammetrists,90,6,0.347,4.51,27.08,56320,1.5
+Wyoming,Surveyors,280,9.3,1.035,3.36,31.89,66330,2.8
+Wyoming,Chemical Engineers,90,15.3,0.312,1.52,50.44,104920,4.6
+Wyoming,Civil Engineers,900,6.7,3.299,1.56,43.54,90570,6.1
+Wyoming,Electrical Engineers,250,7.4,0.904,0.72,43.34,90140,1.7
+Wyoming,"Electronics Engineers, Except Computer",70,26.1,0.26,0.3,42.15,87660,5.2
+Wyoming,Environmental Engineers,160,13.4,0.592,1.63,44.89,93370,5.8
+Wyoming,Industrial Engineers,140,2.4,0.501,0.25,52.35,108890,1.2
+Wyoming,Mechanical Engineers,290,22.2,1.046,0.5,41.54,86410,3
+Wyoming,"Mining and Geological Engineers, Including Mining Safety Engineers",160,4.1,0.573,13.42,45.2,94020,1.4
+Wyoming,Petroleum Engineers,530,6.8,1.957,8.81,54.15,112640,3.6
+Wyoming,"Engineers, All Other",100,5.1,0.367,0.35,47.18,98120,1.5
+Wyoming,Architectural and Civil Drafters,250,14.3,0.897,1.33,26.85,55840,2.8
+Wyoming,Mechanical Drafters,40,12.7,0.143,0.38,31.15,64790,2.8
+Wyoming,Civil Engineering Technologists and Technicians,270,4.4,0.987,2.11,22.99,47810,1.2
+Wyoming,Electrical and Electronic Engineering Technologists and Technicians,180,9.9,0.643,0.77,37.09,77150,2
+Wyoming,Electro-Mechanical and Mechatronics Technologists and Technicians,70,4.5,0.262,2.69,31.56,65650,4.3
+Wyoming,Surveying and Mapping Technicians,170,13,0.608,1.68,24.34,50630,3.6
+Wyoming,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",140,2.4,0.509,0.85,32.67,67950,1.1
+Wyoming,"Life, Physical, and Social Science Occupations",4150,3.5,15.199,1.73,32.04,66630,1.5
+Wyoming,Zoologists and Wildlife Biologists,300,4,1.101,8.4,30.26,62950,1.6
+Wyoming,"Biological Scientists, All Other",150,0,0.538,1.97,34.6,71960,1.1
+Wyoming,Conservation Scientists,190,9.9,0.708,4.71,35.79,74440,3.1
+Wyoming,Foresters,60,1.7,0.224,3.46,29.69,61760,1.2
+Wyoming,Atmospheric and Space Scientists,80,49.3,0.306,4.84,41.96,87280,3.8
+Wyoming,Chemists,110,12.5,0.404,0.71,33.83,70370,5.1
+Wyoming,"Environmental Scientists and Specialists, Including Health",550,10.4,2.021,3.52,32.97,68580,5.5
+Wyoming,"Geoscientists, Except Hydrologists and Geographers",200,26.1,0.741,3.73,36.75,76440,5.3
+Wyoming,Hydrologists,50,13.6,0.169,3.87,32.79,68210,4
+Wyoming,"Physical Scientists, All Other",30,0,0.112,0.94,30.51,63460,1.7
+Wyoming,"Clinical, Counseling, and School Psychologists",290,27.4,1.075,1.39,37.8,78620,5.7
+Wyoming,Urban and Regional Planners,60,2.8,0.21,0.8,32.3,67180,1.3
+Wyoming,Anthropologists and Archeologists,90,7.7,0.332,7.25,32.27,67130,3.1
+Wyoming,"Social Scientists and Related Workers, All Other",90,20.3,0.323,1.41,40.06,83320,3.2
+Wyoming,Biological Technicians,110,0,0.385,0.71,21.36,44430,1.1
+Wyoming,Chemical Technicians,310,16.5,1.148,2.56,25.09,52180,6.9
+Wyoming,"Environmental Science and Protection Technicians, Including Health",130,10.6,0.464,2.09,21.72,45180,2.7
+Wyoming,Geological and Hydrologic Technicians,160,5.4,0.588,5.05,29.18,60700,1.6
+Wyoming,Forest and Conservation Technicians,250,7.2,0.926,7.14,21.41,44530,1
+Wyoming,Forensic Science Technicians,50,1.4,0.179,1.59,26.59,55300,2.3
+Wyoming,"Life, Physical, and Social Science Technicians, All Other",140,20.7,0.507,1.16,27.1,56370,1.6
+Wyoming,Occupational Health and Safety Specialists,470,5.3,1.723,2.73,37.81,78650,1.6
+Wyoming,Occupational Health and Safety Technicians,50,7.5,0.185,1.32,32.2,66980,2.7
+Wyoming,Community and Social Service Occupations,3970,4.2,14.508,0.95,23.46,48790,1.7
+Wyoming,"Educational, Guidance, and Career Counselors and Advisors",690,3.5,2.525,1.25,26.88,55910,2.1
+Wyoming,Marriage and Family Therapists,40,37.9,0.148,0.37,29.91,62210,6
+Wyoming,Rehabilitation Counselors,100,11.5,0.382,0.51,19.5,40560,4.5
+Wyoming,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",540,10.8,1.974,1.02,25.96,53990,2.4
+Wyoming,"Child, Family, and School Social Workers",680,12.1,2.474,1.11,23.81,49530,4.6
+Wyoming,Healthcare Social Workers,210,10.4,0.768,0.64,28.93,60170,5.2
+Wyoming,Mental Health and Substance Abuse Social Workers,250,17.5,0.903,1.13,24.12,50160,5.1
+Wyoming,"Social Workers, All Other",140,1.8,0.504,1.27,27.65,57520,1.4
+Wyoming,Health Education Specialists,120,8.3,0.452,1.13,25.39,52820,1.6
+Wyoming,Probation Officers and Correctional Treatment Specialists,160,1.7,0.603,1,23.54,48970,1.4
+Wyoming,Social and Human Service Assistants,790,9.4,2.882,1.05,15.88,33020,2.2
+Wyoming,Community Health Workers,60,6.9,0.227,0.57,24.07,50060,2.7
+Wyoming,"Community and Social Service Specialists, All Other",110,49.8,0.386,0.58,22.86,47550,4.6
+Wyoming,Clergy,50,18,0.18,0.5,28.18,58620,2.1
+Wyoming,Legal Occupations,1740,4.3,6.384,0.81,34.96,72710,6.3
+Wyoming,Lawyers,860,5.8,3.154,0.7,48.12,100090,8.3
+Wyoming,Paralegals and Legal Assistants,500,8.4,1.818,0.81,21.75,45250,5.6
+Wyoming,"Title Examiners, Abstractors, and Searchers",280,12,1.012,2.81,22.61,47030,3.3
+Wyoming,"Legal Support Workers, All Other",70,44.3,0.267,0.87,15.99,33260,2.9
+Wyoming,Educational Instruction and Library Occupations,19580,2,71.617,1.18,23.73,49350,2.3
+Wyoming,"Business Teachers, Postsecondary",140,7.1,0.494,0.86,*,84480,4
+Wyoming,"Computer Science Teachers, Postsecondary",50,22.6,0.195,0.9,*,69870,4.6
+Wyoming,"Mathematical Science Teachers, Postsecondary",140,2.9,0.497,1.43,*,64790,3.7
+Wyoming,"Engineering Teachers, Postsecondary",120,4,0.438,1.78,*,97620,3.5
+Wyoming,"Agricultural Sciences Teachers, Postsecondary",60,1.4,0.209,3.23,*,86030,5
+Wyoming,"Biological Science Teachers, Postsecondary",130,3.2,0.483,1.34,*,77610,5.8
+Wyoming,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",40,1.9,0.153,2.03,*,95980,3.1
+Wyoming,"Chemistry Teachers, Postsecondary",40,1.9,0.153,1.05,*,79840,3.2
+Wyoming,"Physics Teachers, Postsecondary",30,2.6,0.112,1.2,*,86700,3.5
+Wyoming,"Economics Teachers, Postsecondary",30,11.3,0.117,1.3,*,117370,15.3
+Wyoming,"Political Science Teachers, Postsecondary",50,4,0.169,1.58,*,60450,2.5
+Wyoming,"Psychology Teachers, Postsecondary",50,5.1,0.184,0.72,*,62650,6.6
+Wyoming,"Health Specialties Teachers, Postsecondary",170,6,0.632,0.46,*,84340,1.8
+Wyoming,"Nursing Instructors and Teachers, Postsecondary",130,6.4,0.479,1.18,*,66880,2.2
+Wyoming,"Education Teachers, Postsecondary",90,6,0.337,0.81,*,71580,5.5
+Wyoming,"Criminal Justice and Law Enforcement Teachers, Postsecondary",50,10.5,0.169,1.77,*,59640,5.1
+Wyoming,"Art, Drama, and Music Teachers, Postsecondary",200,1.4,0.745,1.16,*,57760,1.3
+Wyoming,"Communications Teachers, Postsecondary",50,2.7,0.165,0.83,*,68230,3.3
+Wyoming,"English Language and Literature Teachers, Postsecondary",120,3.5,0.453,0.98,*,57990,2.2
+Wyoming,"Recreation and Fitness Studies Teachers, Postsecondary",50,3.2,0.185,1.71,*,51510,6.3
+Wyoming,"Career/Technical Education Teachers, Postsecondary",180,12.5,0.67,0.88,27.59,57380,2.7
+Wyoming,"Postsecondary Teachers, All Other",360,4.3,1.313,0.96,*,46730,2.5
+Wyoming,"Preschool Teachers, Except Special Education",860,20.7,3.153,1.07,16.04,33360,7.4
+Wyoming,"Kindergarten Teachers, Except Special Education",430,2.7,1.561,1.85,*,57420,1.5
+Wyoming,"Elementary School Teachers, Except Special Education",2550,1.9,9.339,0.96,*,58940,1.4
+Wyoming,"Middle School Teachers, Except Special and Career/Technical Education",1090,14.9,3.983,0.94,*,61340,1.2
+Wyoming,"Career/Technical Education Teachers, Middle School",50,24.9,0.194,2.4,*,59650,1.5
+Wyoming,"Secondary School Teachers, Except Special and Career/Technical Education",1690,2.4,6.19,0.88,*,61400,1.1
+Wyoming,"Career/Technical Education Teachers, Secondary School",270,3.3,0.993,1.96,*,61980,1.6
+Wyoming,"Special Education Teachers, Preschool",80,14.5,0.309,2.03,*,65990,5.3
+Wyoming,"Special Education Teachers, Kindergarten and Elementary School",600,6.6,2.179,1.65,*,61070,1.4
+Wyoming,"Special Education Teachers, Middle School",270,18.6,0.991,1.7,*,60360,1.4
+Wyoming,"Special Education Teachers, Secondary School",350,4.2,1.272,1.3,*,62160,1.2
+Wyoming,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",80,12.4,0.281,0.8,24.27,50480,2.3
+Wyoming,Self-Enrichment Teachers,550,9.2,2.003,1.16,21.15,43980,4.2
+Wyoming,"Substitute Teachers, Short-Term",2470,2.4,9.039,2.26,16.01,33300,2.7
+Wyoming,"Tutors and Teachers and Instructors, All Other",410,3.5,1.508,0.69,*,44370,8.1
+Wyoming,Curators,90,27.4,0.319,3.64,23.3,48470,3.9
+Wyoming,Museum Technicians and Conservators,60,20.7,0.202,2.25,18.63,38750,3.2
+Wyoming,Librarians and Media Collections Specialists,390,10.8,1.411,1.53,25.13,52270,3.8
+Wyoming,Library Technicians,450,26.2,1.655,2.74,15.58,32420,4.6
+Wyoming,Farm and Home Management Educators,90,17.6,0.336,5.66,27.67,57550,3.4
+Wyoming,Instructional Coordinators,210,7.6,0.78,0.65,32.15,66870,2.4
+Wyoming,"Teaching Assistants, Except Postsecondary",3740,2.9,13.693,1.49,*,31580,1.7
+Wyoming,"Educational Instruction and Library Workers, All Other",240,6.1,0.86,0.98,20.67,42990,1.7
+Wyoming,"Arts, Design, Entertainment, Sports, and Media Occupations",2780,4,10.167,0.74,21.04,43770,2.7
+Wyoming,Craft Artists,40,16.5,0.14,4.43,15.43,32090,8
+Wyoming,Floral Designers,150,16.3,0.536,1.88,12.73,26470,2.3
+Wyoming,Graphic Designers,260,9.4,0.967,0.66,19.13,39790,2.3
+Wyoming,Interior Designers,40,47.5,0.147,0.36,30.18,62770,4.3
+Wyoming,Merchandise Displayers and Window Trimmers,190,19.4,0.693,0.72,14.27,29680,2.8
+Wyoming,Producers and Directors,90,23.7,0.345,0.39,24.45,50870,5
+Wyoming,Coaches and Scouts,530,6.6,1.924,1.17,*,44180,6.2
+Wyoming,Choreographers,90,33.2,0.33,10.47,17.54,36470,5.6
+Wyoming,Broadcast Announcers and Radio Disc Jockeys,90,15.3,0.312,1.57,18.36,38190,5.3
+Wyoming,"News Analysts, Reporters, and Journalists",190,18.4,0.692,2.31,14.46,30070,3.7
+Wyoming,Public Relations Specialists,430,8.6,1.587,0.95,29.3,60940,3.8
+Wyoming,Editors,100,18.2,0.362,0.55,24.33,50610,4.7
+Wyoming,Technical Writers,30,32.7,0.12,0.35,30.84,64150,4.7
+Wyoming,Writers and Authors,60,25.4,0.207,0.66,22.92,47670,17.3
+Wyoming,Interpreters and Translators,40,7.8,0.145,0.36,26.54,55200,8.3
+Wyoming,Audio and Video Technicians,80,18.1,0.302,0.6,20.4,42430,5.3
+Wyoming,Photographers,80,20.1,0.285,0.83,18.31,38080,8.2
+Wyoming,Healthcare Practitioners and Technical Occupations,14390,1.7,52.654,0.89,39.85,82880,1.9
+Wyoming,Chiropractors,100,25.5,0.368,1.55,37.88,78780,12.2
+Wyoming,"Dentists, General",300,12.8,1.095,1.45,61.53,127990,11
+Wyoming,Dietitians and Nutritionists,90,15.8,0.336,0.73,28.39,59040,5.9
+Wyoming,Optometrists,80,12.7,0.279,1.04,60.22,125260,19.4
+Wyoming,Pharmacists,560,7.9,2.045,0.97,59,122720,1.5
+Wyoming,Physician Assistants,230,6.3,0.84,1.03,56.16,116820,2.1
+Wyoming,Occupational Therapists,330,21,1.217,1.34,40.33,83890,1.9
+Wyoming,Physical Therapists,480,9,1.749,1.1,43.76,91030,1.9
+Wyoming,Recreational Therapists,40,7.8,0.13,1,24.89,51770,2.4
+Wyoming,Respiratory Therapists,210,7.1,0.75,0.83,27.88,57990,1
+Wyoming,Speech-Language Pathologists,300,10.6,1.103,1.05,39.01,81140,3.6
+Wyoming,Veterinarians,220,13.7,0.82,1.62,42.33,88040,7.4
+Wyoming,Registered Nurses,5120,2.2,18.736,0.92,33.03,68690,1.1
+Wyoming,Nurse Anesthetists,50,0,0.168,0.57,116.98,243310,8.1
+Wyoming,Nurse Practitioners,310,9.9,1.148,0.84,56.78,118110,2.7
+Wyoming,Audiologists,**,**,**,**,36.49,75900,3.1
+Wyoming,Anesthesiologists,50,43,0.196,0.93,135.13,281070,14.1
+Wyoming,Family Medicine Physicians,250,20.3,0.912,1.22,112.14,233260,7.5
+Wyoming,General Internal Medicine Physicians,60,17.5,0.215,0.71,131.52,273570,8.8
+Wyoming,Obstetricians and Gynecologists,50,19.3,0.177,1.4,#,#,9.7
+Wyoming,"Pediatricians, General",50,23,0.186,0.92,103.49,215250,8.4
+Wyoming,"Physicians, All Other; and Ophthalmologists, Except Pediatric",480,7.7,1.739,0.65,108.26,225190,7.2
+Wyoming,"Surgeons, Except Ophthalmologists",120,17.8,0.435,1.76,129.72,269830,9.2
+Wyoming,Dental Hygienists,490,7.5,1.793,1.19,33.47,69610,2.5
+Wyoming,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",60,22.9,0.222,0.9,46.73,97200,26.7
+Wyoming,Clinical Laboratory Technologists and Technicians,490,4.7,1.81,0.82,25.98,54050,1.7
+Wyoming,Cardiovascular Technologists and Technicians,50,0,0.187,0.49,27.09,56350,1.6
+Wyoming,Diagnostic Medical Sonographers,80,8.6,0.274,0.55,34.27,71290,3.1
+Wyoming,Nuclear Medicine Technologists,40,4.3,0.132,1.07,36.44,75800,2
+Wyoming,Radiologic Technologists and Technicians,390,8.4,1.429,1.01,27.86,57950,0.9
+Wyoming,Magnetic Resonance Imaging Technologists,50,0,0.178,0.69,30.68,63810,1.5
+Wyoming,Emergency Medical Technicians and Paramedics,700,5.4,2.546,1.43,17.03,35430,3.2
+Wyoming,Pharmacy Technicians,570,6.5,2.093,0.74,18.26,37980,1.4
+Wyoming,Surgical Technologists,190,14.2,0.701,0.94,21.26,44210,2.5
+Wyoming,Veterinary Technologists and Technicians,230,33,0.84,1.11,15,31200,3.7
+Wyoming,Licensed Practical and Licensed Vocational Nurses,540,8.7,1.965,0.41,22.59,46980,1.1
+Wyoming,"Opticians, Dispensing",220,14.4,0.822,1.67,14.94,31060,3.7
+Wyoming,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",420,3.5,1.538,0.68,21.76,45260,1.3
+Wyoming,Athletic Trainers,50,22,0.192,0.99,*,47310,2.9
+Wyoming,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",50,0,0.176,0.48,30.06,62520,1.6
+Wyoming,Healthcare Support Occupations,9430,2.6,34.49,0.78,15.52,32290,0.9
+Wyoming,Home Health and Personal Care Aides,3440,4.5,12.579,0.58,13.57,28220,1.8
+Wyoming,Nursing Assistants,3200,6,11.701,1.21,15.35,31930,0.8
+Wyoming,Occupational Therapy Assistants,170,28.7,0.611,1.99,26.23,54560,2.5
+Wyoming,Physical Therapist Assistants,170,9.5,0.605,0.92,28.26,58770,2.1
+Wyoming,Physical Therapist Aides,130,16,0.467,1.39,12.66,26320,2.7
+Wyoming,Massage Therapists,110,8.8,0.409,0.56,21.2,44090,7.1
+Wyoming,Dental Assistants,580,14.2,2.13,0.89,17.82,37070,4.3
+Wyoming,Medical Assistants,860,7.3,3.145,0.65,16.44,34190,2.3
+Wyoming,Medical Equipment Preparers,90,3.5,0.322,0.83,18.96,39440,1.7
+Wyoming,Medical Transcriptionists,60,6.2,0.233,0.61,19.38,40310,1.6
+Wyoming,Pharmacy Aides,30,38.4,0.125,0.49,10.85,22570,6.8
+Wyoming,Veterinary Assistants and Laboratory Animal Caretakers,180,20.7,0.667,1.01,15.1,31400,6.1
+Wyoming,Phlebotomists,250,9.1,0.903,1.03,15.7,32660,2.7
+Wyoming,"Healthcare Support Workers, All Other",120,8.6,0.447,0.7,20.53,42700,2
+Wyoming,Protective Service Occupations,5970,2.2,21.839,0.92,22.6,47010,1.1
+Wyoming,First-Line Supervisors of Correctional Officers,70,0.4,0.261,0.83,30.5,63440,2.2
+Wyoming,First-Line Supervisors of Police and Detectives,320,2.7,1.166,1.41,38.14,79330,1.1
+Wyoming,First-Line Supervisors of Firefighting and Prevention Workers,80,6.8,0.31,0.65,37.57,78150,1.5
+Wyoming,"Miscellaneous First-Line Supervisors, Protective Service Workers",160,8.8,0.585,1.04,25.62,53290,2.6
+Wyoming,Firefighters,610,4.3,2.228,1.01,22.2,46180,3.3
+Wyoming,Correctional Officers and Jailers,830,1.8,3.053,1.06,21.84,45430,1.5
+Wyoming,Detectives and Criminal Investigators,150,3.1,0.53,0.74,39.37,81890,1.2
+Wyoming,Fish and Game Wardens,90,1.4,0.319,6.88,*,*,*
+Wyoming,Police and Sheriff's Patrol Officers,1150,3.8,4.201,0.93,26.98,56120,1.1
+Wyoming,Animal Control Workers,50,10.7,0.193,2.37,18.66,38810,1.9
+Wyoming,Security Guards,820,11.6,2.992,0.39,16.65,34640,3.7
+Wyoming,Crossing Guards and Flaggers,270,12.2,0.984,1.7,16.81,34970,2.7
+Wyoming,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",450,6.9,1.642,1.68,12.78,26590,4.8
+Wyoming,Transportation Security Screeners,60,0,0.22,0.69,19.66,40900,1.5
+Wyoming,"School Bus Monitors and Protective Service Workers, All Other",710,4.3,2.58,2.59,18.62,38730,1.8
+Wyoming,Food Preparation and Serving Related Occupations,25320,2.8,92.63,1.01,12.18,25340,1.4
+Wyoming,Chefs and Head Cooks,140,12.2,0.521,0.6,29.38,61120,4.7
+Wyoming,First-Line Supervisors of Food Preparation and Serving Workers,2250,6.2,8.224,1.19,17.55,36500,3.3
+Wyoming,"Cooks, Fast Food",820,24.2,2.993,0.83,9.4,19550,2.3
+Wyoming,"Cooks, Institution and Cafeteria",1510,5.4,5.528,2.02,14.56,30280,1.1
+Wyoming,"Cooks, Restaurant",2860,7.5,10.446,1.09,14.69,30560,3.4
+Wyoming,"Cooks, Short Order",**,**,**,**,11.16,23220,5.5
+Wyoming,Food Preparation Workers,1500,9.6,5.505,0.94,12.35,25680,2.1
+Wyoming,Bartenders,2310,7.2,8.469,1.92,11.6,24120,3
+Wyoming,Fast Food and Counter Workers,6000,8.2,21.947,0.81,10.23,21290,1.5
+Wyoming,Waiters and Waitresses,4740,6.1,17.352,0.99,11.07,23030,3.7
+Wyoming,"Food Servers, Nonrestaurant",170,19.5,0.605,0.32,11.22,23330,2.3
+Wyoming,Dining Room and Cafeteria Attendants and Bartender Helpers,850,16,3.125,0.96,10.15,21120,3.5
+Wyoming,Dishwashers,1220,10.3,4.446,1.27,11.1,23100,3.1
+Wyoming,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",690,14.1,2.516,0.87,9.95,20690,4
+Wyoming,Building and Grounds Cleaning and Maintenance Occupations,10950,2.7,40.05,1.33,14.93,31050,1.5
+Wyoming,First-Line Supervisors of Housekeeping and Janitorial Workers,440,8.1,1.614,1.52,20.14,41900,1.9
+Wyoming,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",300,18,1.108,1.57,24.33,50600,8.7
+Wyoming,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",4530,3.7,16.566,1.13,14.7,30570,1.8
+Wyoming,Maids and Housekeeping Cleaners,3190,6,11.662,1.85,12.59,26180,2
+Wyoming,Pest Control Workers,50,24.2,0.177,0.33,19.63,40820,4.1
+Wyoming,Landscaping and Groundskeeping Workers,2040,5.6,7.463,1.2,15.8,32860,4.1
+Wyoming,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",300,18.3,1.104,6.29,19.04,39600,6.9
+Wyoming,Tree Trimmers and Pruners,**,**,**,**,21.34,44380,4.9
+Wyoming,"Grounds Maintenance Workers, All Other",60,4.6,0.221,2.27,13.39,27860,1.6
+Wyoming,Personal Care and Service Occupations,5350,6.2,19.577,0.87,14.84,30860,2
+Wyoming,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",390,6.9,1.431,0.97,19.23,39990,2
+Wyoming,Animal Caretakers,440,8.5,1.591,1.1,11.54,24000,3.3
+Wyoming,Amusement and Recreation Attendants,630,14.4,2.29,0.99,11.25,23410,2.7
+Wyoming,Funeral Attendants,40,25,0.133,0.57,15.29,31810,4.7
+Wyoming,"Morticians, Undertakers, and Funeral Arrangers",50,20.2,0.168,0.97,29.29,60920,6.7
+Wyoming,"Hairdressers, Hairstylists, and Cosmetologists",430,12,1.56,0.59,16.33,33970,6.4
+Wyoming,Skincare Specialists,80,36.1,0.281,0.73,25.23,52490,5.1
+Wyoming,Baggage Porters and Bellhops,70,38.4,0.26,0.96,14.8,30780,4.2
+Wyoming,Concierges,50,26.9,0.166,0.59,22.16,46090,13.4
+Wyoming,Tour and Travel Guides,210,20.2,0.758,2.28,17.82,37060,3.9
+Wyoming,Childcare Workers,1310,21.4,4.808,1.26,11.94,24840,3.5
+Wyoming,Exercise Trainers and Group Fitness Instructors,640,8.6,2.342,1.06,18.3,38070,5.3
+Wyoming,Recreation Workers,500,6.3,1.832,0.75,14.6,30360,2.6
+Wyoming,Residential Advisors,200,5.2,0.745,1.01,14.63,30430,2.8
+Wyoming,"Crematory Operators and Personal Care and Service Workers, All Other",**,**,**,**,14.28,29690,7
+Wyoming,Sales and Related Occupations,23270,4,85.143,0.87,17.69,36800,2
+Wyoming,First-Line Supervisors of Retail Sales Workers,2620,5.2,9.568,1.2,20.04,41680,2.1
+Wyoming,First-Line Supervisors of Non-Retail Sales Workers,210,14,0.774,0.46,30.28,62990,2.9
+Wyoming,Cashiers,6350,7.3,23.237,0.95,11.57,24070,1.5
+Wyoming,Gambling Change Persons and Booth Cashiers,100,45.7,0.378,2.61,9.73,20240,8.9
+Wyoming,Counter and Rental Clerks,960,7.8,3.496,1.25,15.9,33070,3.4
+Wyoming,Parts Salespersons,880,14.2,3.211,1.84,18.77,39040,2.6
+Wyoming,Retail Salespersons,7900,8.3,28.884,0.98,13.98,29070,2.6
+Wyoming,Advertising Sales Agents,240,12.6,0.862,0.98,22.93,47700,7.7
+Wyoming,Insurance Sales Agents,470,16.2,1.73,0.62,28.8,59910,10.5
+Wyoming,"Securities, Commodities, and Financial Services Sales Agents",230,33.9,0.839,0.28,30.48,63390,12.6
+Wyoming,Travel Agents,80,6.7,0.291,0.64,19.63,40820,10.7
+Wyoming,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",680,13,2.48,0.35,27.9,58030,5.9
+Wyoming,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",250,21.8,0.93,0.45,59.48,123710,6.3
+Wyoming,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",1890,8.8,6.925,0.76,33.5,69680,4.3
+Wyoming,Demonstrators and Product Promoters,**,**,**,**,16.85,35040,14
+Wyoming,Real Estate Brokers,50,34.6,0.178,0.61,*,*,*
+Wyoming,Real Estate Sales Agents,160,24.7,0.57,0.52,34.36,71460,12.1
+Wyoming,Office and Administrative Support Occupations,30650,1.3,112.114,0.84,18.46,38400,0.5
+Wyoming,First-Line Supervisors of Office and Administrative Support Workers,1520,4,5.562,0.55,25.89,53850,1.5
+Wyoming,"Switchboard Operators, Including Answering Service",50,15.4,0.2,0.43,14.93,31040,2.3
+Wyoming,Bill and Account Collectors,210,9.3,0.784,0.49,18.25,37970,1.9
+Wyoming,Billing and Posting Clerks,540,6.9,1.992,0.63,19.17,39870,2.4
+Wyoming,"Bookkeeping, Accounting, and Auditing Clerks",3070,4.7,11.226,1.09,18.98,39470,2
+Wyoming,Payroll and Timekeeping Clerks,130,8.3,0.477,0.49,20.93,43540,2
+Wyoming,Procurement Clerks,150,12.5,0.551,1.22,22.61,47020,3.4
+Wyoming,Tellers,940,4.4,3.43,1.14,14.27,29680,1.7
+Wyoming,Brokerage Clerks,50,48.2,0.177,0.54,19.45,40450,7.6
+Wyoming,Correspondence Clerks,40,25.9,0.132,3.1,16.87,35090,4
+Wyoming,"Court, Municipal, and License Clerks",760,10.3,2.769,2.64,19.15,39840,1.7
+Wyoming,Customer Service Representatives,1540,7.5,5.648,0.28,17.64,36680,2.4
+Wyoming,"Eligibility Interviewers, Government Programs",270,0.3,0.981,1.03,21.54,44810,1.6
+Wyoming,File Clerks,140,43.7,0.501,0.72,12.63,26280,4.7
+Wyoming,"Hotel, Motel, and Resort Desk Clerks",1670,7.4,6.103,3.35,12.71,26450,2.8
+Wyoming,"Interviewers, Except Eligibility and Loan",460,0.5,1.692,1.32,15.41,32060,1.3
+Wyoming,"Library Assistants, Clerical",290,10.7,1.053,1.8,15.27,31750,2.9
+Wyoming,Loan Interviewers and Clerks,510,7.4,1.883,1.33,19.33,40200,3.2
+Wyoming,New Accounts Clerks,220,14.1,0.81,2.74,17.77,36970,3.5
+Wyoming,Order Clerks,40,14.7,0.146,0.16,18.66,38810,3.5
+Wyoming,"Human Resources Assistants, Except Payroll and Timekeeping",160,11,0.584,0.73,18.16,37780,2.9
+Wyoming,Receptionists and Information Clerks,1130,6,4.118,0.57,13.97,29070,1.5
+Wyoming,Reservation and Transportation Ticket Agents and Travel Clerks,120,2.6,0.44,0.52,12.12,25210,3.9
+Wyoming,"Information and Record Clerks, All Other",270,1.6,0.984,0.94,19.63,40840,1.2
+Wyoming,Cargo and Freight Agents,50,34,0.194,0.3,24.65,51270,9.6
+Wyoming,Public Safety Telecommunicators,280,8.1,1.027,1.58,20.43,42500,1.3
+Wyoming,"Dispatchers, Except Police, Fire, and Ambulance",250,16.2,0.901,0.66,22.41,46610,3.8
+Wyoming,Postal Service Clerks,280,0,1.028,1.86,22.87,47560,0.7
+Wyoming,Postal Service Mail Carriers,450,0,1.654,0.72,24.12,50170,1.1
+Wyoming,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",140,0,0.501,0.72,23.92,49760,1.7
+Wyoming,"Production, Planning, and Expediting Clerks",260,12.9,0.963,0.38,26.56,55250,2.1
+Wyoming,"Shipping, Receiving, and Inventory Clerks",580,8.9,2.132,0.44,18.65,38780,3.1
+Wyoming,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",60,10.5,0.214,0.52,22.37,46520,3.4
+Wyoming,Executive Secretaries and Executive Administrative Assistants,550,4.2,1.998,0.54,23.38,48640,2.2
+Wyoming,Legal Secretaries and Administrative Assistants,220,15.1,0.789,0.69,19.02,39570,2.2
+Wyoming,Medical Secretaries and Administrative Assistants,1370,5.8,5.02,1.22,16.73,34790,1.3
+Wyoming,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",2650,3.6,9.708,0.7,19.07,39660,1.1
+Wyoming,Data Entry Keyers,90,10,0.342,0.31,14.51,30170,3.5
+Wyoming,Insurance Claims and Policy Processing Clerks,740,10.8,2.703,1.54,17.51,36430,4.2
+Wyoming,"Mail Clerks and Mail Machine Operators, Except Postal Service",180,20.7,0.653,1.15,12.48,25960,2.7
+Wyoming,"Office Clerks, General",7960,3,29.114,1.45,18.37,38210,1
+Wyoming,"Office Machine Operators, Except Computer",50,25.8,0.173,0.55,12.83,26700,7.9
+Wyoming,"Office and Administrative Support Workers, All Other",80,19.7,0.283,0.22,18.22,37900,9.8
+Wyoming,"Farming, Fishing, and Forestry Occupations",660,9.5,2.411,0.73,15.39,32010,3.2
+Wyoming,Agricultural Inspectors,110,6.3,0.405,4.32,14.86,30910,1.2
+Wyoming,Agricultural Equipment Operators,**,**,**,**,17.28,35930,7.3
+Wyoming,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",70,22.2,0.242,0.12,17.15,35680,9.1
+Wyoming,"Farmworkers, Farm, Ranch, and Aquacultural Animals",340,16.1,1.26,5.05,13.32,27700,4.5
+Wyoming,Logging Equipment Operators,60,17.6,0.233,1.31,20.66,42970,6.3
+Wyoming,Construction and Extraction Occupations,28600,2,104.644,2.48,25.71,53470,1.1
+Wyoming,First-Line Supervisors of Construction Trades and Extraction Workers,2850,4.3,10.43,2.45,35.83,74520,1.6
+Wyoming,Boilermakers,220,29,0.807,7.5,32.96,68560,3.9
+Wyoming,Brickmasons and Blockmasons,180,15.2,0.65,1.57,26.49,55100,4.3
+Wyoming,Stonemasons,**,**,**,**,26.74,55610,4.8
+Wyoming,Carpenters,2550,4.6,9.338,1.87,24.45,50860,2
+Wyoming,Cement Masons and Concrete Finishers,460,11.5,1.692,1.27,21.64,45010,2.7
+Wyoming,Construction Laborers,3760,8.7,13.758,1.98,17.91,37260,1.9
+Wyoming,"Paving, Surfacing, and Tamping Equipment Operators",50,15.4,0.17,0.55,24.83,51650,8.3
+Wyoming,Operating Engineers and Other Construction Equipment Operators,4060,5,14.847,5.37,28.16,58570,2.6
+Wyoming,Drywall and Ceiling Tile Installers,200,25.5,0.719,1.03,19.67,40920,6.8
+Wyoming,Electricians,2490,6.7,9.104,1.94,28.88,60070,1.5
+Wyoming,Glaziers,180,30.3,0.651,1.82,20.08,41770,5.7
+Wyoming,"Insulation Workers, Floor, Ceiling, and Wall",110,30.6,0.42,1.84,17.22,35820,4.3
+Wyoming,"Insulation Workers, Mechanical",260,18.9,0.945,5.2,22.44,46680,3.1
+Wyoming,"Painters, Construction and Maintenance",510,13.1,1.848,1.17,20.26,42140,5.1
+Wyoming,Pipelayers,90,19.1,0.317,1.28,19.34,40220,10.9
+Wyoming,"Plumbers, Pipefitters, and Steamfitters",870,15.6,3.197,1.06,27.02,56210,3.7
+Wyoming,Roofers,330,7.9,1.19,1.35,19.25,40030,4.7
+Wyoming,Sheet Metal Workers,260,33.1,0.945,1.06,21.74,45210,6.2
+Wyoming,Structural Iron and Steel Workers,150,28.5,0.555,1.06,27.31,56800,2.7
+Wyoming,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",160,13.3,0.576,3.6,17.93,37300,4.5
+Wyoming,Helpers--Carpenters,140,31.2,0.496,2.21,18.07,37590,3.7
+Wyoming,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,14.17,29470,10.9
+Wyoming,"Helpers, Construction Trades, All Other",50,21.9,0.2,1.03,15.03,31260,6.7
+Wyoming,Construction and Building Inspectors,210,14.7,0.761,1.01,28.88,60070,3.7
+Wyoming,Fence Erectors,320,28.6,1.187,6.73,19,39510,6.8
+Wyoming,Hazardous Materials Removal Workers,90,24,0.34,1.13,24.19,50310,3.2
+Wyoming,Highway Maintenance Workers,840,7.2,3.076,2.99,20.43,42500,1
+Wyoming,Rail-Track Laying and Maintenance Equipment Operators,90,42.4,0.32,2.91,32.57,67750,4.4
+Wyoming,Septic Tank Servicers and Sewer Pipe Cleaners,80,23,0.294,1.45,21.97,45700,5
+Wyoming,"Derrick Operators, Oil and Gas",190,19.5,0.691,8.38,28.31,58890,2.5
+Wyoming,"Rotary Drill Operators, Oil and Gas",220,12.4,0.819,5.73,33.75,70200,2.7
+Wyoming,"Service Unit Operators, Oil and Gas",1950,10,7.124,20.21,25.88,53840,2.3
+Wyoming,"Excavating and Loading Machine and Dragline Operators, Surface Mining",680,10.7,2.499,8.32,33.81,70330,2.2
+Wyoming,Continuous Mining Machine Operators,200,10.5,0.747,7.5,38.8,80700,2.4
+Wyoming,"Roof Bolters, Mining",80,4.5,0.302,14.13,43.74,90990,3.9
+Wyoming,"Loading and Moving Machine Operators, Underground Mining",130,33.6,0.49,17.1,35.19,73190,9.2
+Wyoming,"Roustabouts, Oil and Gas",2130,10.1,7.799,19.44,22.5,46810,4
+Wyoming,Helpers--Extraction Workers,530,20.4,1.932,16.99,19.03,39590,6.7
+Wyoming,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",350,29.3,1.281,7.54,28.39,59060,2.1
+Wyoming,"Underground Mining Machine Operators and Extraction Workers, All Other",290,4.6,1.055,11.24,27.98,58200,3.8
+Wyoming,"Installation, Maintenance, and Repair Occupations",18110,2.7,66.265,1.7,27.71,57650,1
+Wyoming,"First-Line Supervisors of Mechanics, Installers, and Repairers",1880,4.5,6.876,2.08,38.62,80330,1.3
+Wyoming,"Computer, Automated Teller, and Office Machine Repairers",90,24.8,0.342,0.51,19.91,41410,3.8
+Wyoming,"Radio, Cellular, and Tower Equipment Installers and Repairers",**,**,**,**,30.51,63460,9.5
+Wyoming,"Telecommunications Equipment Installers and Repairers, Except Line Installers",330,15.6,1.202,0.85,28.27,58800,3.3
+Wyoming,Avionics Technicians,30,29.3,0.125,0.84,18.26,37980,3.8
+Wyoming,"Electric Motor, Power Tool, and Related Repairers",**,**,**,**,20.92,43510,5.5
+Wyoming,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",200,40.7,0.739,1.84,35.07,72950,3.2
+Wyoming,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",30,25.7,0.112,0.72,44.24,92020,3.4
+Wyoming,Security and Fire Alarm Systems Installers,50,27.9,0.199,0.41,22.88,47590,3.8
+Wyoming,Aircraft Mechanics and Service Technicians,190,12.4,0.697,0.77,29.58,61530,2.9
+Wyoming,Automotive Body and Related Repairers,330,11.9,1.197,1.22,21.84,45430,3.6
+Wyoming,Automotive Glass Installers and Repairers,110,24.4,0.397,3,18.05,37540,4.5
+Wyoming,Automotive Service Technicians and Mechanics,1400,6.9,5.13,1.15,22.93,47680,2.9
+Wyoming,Bus and Truck Mechanics and Diesel Engine Specialists,970,10.7,3.562,1.96,24.76,51510,1.7
+Wyoming,Farm Equipment Mechanics and Service Technicians,90,16.1,0.332,1.34,25.65,53350,4.8
+Wyoming,"Mobile Heavy Equipment Mechanics, Except Engines",1560,3.4,5.706,5.67,31.54,65610,1.5
+Wyoming,Rail Car Repairers,320,22.3,1.158,6.56,27.18,56540,7.9
+Wyoming,Motorcycle Mechanics,90,21.1,0.337,3.17,18.07,37600,5.5
+Wyoming,Outdoor Power Equipment and Other Small Engine Mechanics,40,38.7,0.161,0.74,19.53,40630,3.7
+Wyoming,Bicycle Repairers,70,34.3,0.244,2.72,17.53,36460,11.5
+Wyoming,Recreational Vehicle Service Technicians,80,27.1,0.289,2.73,15.9,33070,3.6
+Wyoming,Tire Repairers and Changers,300,17.6,1.087,1.44,17.41,36200,6.6
+Wyoming,Mechanical Door Repairers,**,**,**,**,20.69,43040,5.1
+Wyoming,"Control and Valve Installers and Repairers, Except Mechanical Door",590,7.1,2.173,6.1,33.97,70660,3.4
+Wyoming,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",690,22.8,2.509,1.08,23.04,47920,2.9
+Wyoming,Home Appliance Repairers,80,22.3,0.284,1.34,19.12,39760,6.7
+Wyoming,Industrial Machinery Mechanics,2520,4.9,9.223,3.49,33.09,68830,1.9
+Wyoming,"Maintenance Workers, Machinery",500,7.5,1.823,3.67,31.85,66250,4
+Wyoming,Millwrights,110,18.6,0.385,1.2,31.26,65020,5.4
+Wyoming,Electrical Power-Line Installers and Repairers,640,24.7,2.356,3.1,38,79030,3.3
+Wyoming,Telecommunications Line Installers and Repairers,180,27.9,0.644,0.78,25.33,52680,4.4
+Wyoming,Medical Equipment Repairers,100,43.6,0.368,1.17,18.85,39210,4.3
+Wyoming,"Precision Instrument and Equipment Repairers, All Other",70,30.2,0.261,3.63,32.06,66690,6.3
+Wyoming,"Maintenance and Repair Workers, General",3480,5.1,12.72,1.32,20.22,42060,2.7
+Wyoming,Wind Turbine Service Technicians,170,30.1,0.632,15.58,24.31,50570,4.5
+Wyoming,Riggers,70,36,0.238,1.52,18.87,39240,2.5
+Wyoming,"Helpers--Installation, Maintenance, and Repair Workers",160,20.1,0.587,0.87,15.25,31710,5.2
+Wyoming,"Installation, Maintenance, and Repair Workers, All Other",150,17.2,0.565,0.51,22.82,47460,4
+Wyoming,Production Occupations,13300,2.9,48.656,0.78,27.13,56430,1.8
+Wyoming,First-Line Supervisors of Production and Operating Workers,1310,4.3,4.774,1.11,40.41,84040,1.6
+Wyoming,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",70,9.2,0.253,0.13,16.92,35180,4
+Wyoming,Structural Metal Fabricators and Fitters,70,34.3,0.256,0.49,14.59,30350,5.4
+Wyoming,Fiberglass Laminators and Fabricators,40,42.3,0.144,1.06,16.09,33470,3.7
+Wyoming,Miscellaneous Assemblers and Fabricators,780,8.2,2.866,0.31,16.34,33980,3
+Wyoming,Bakers,250,10.7,0.899,0.71,15.77,32810,4.2
+Wyoming,Butchers and Meat Cutters,190,9.7,0.682,0.73,18.27,37990,2.8
+Wyoming,"Meat, Poultry, and Fish Cutters and Trimmers",80,29.1,0.307,0.29,13.69,28480,5.1
+Wyoming,Food Batchmakers,80,12.3,0.286,0.26,14.81,30800,5.5
+Wyoming,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",90,5.9,0.315,0.24,20.09,41790,3
+Wyoming,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",40,25.8,0.154,0.29,22.27,46330,15.8
+Wyoming,Machinists,640,16.9,2.338,0.9,26.51,55140,2.8
+Wyoming,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",70,34.7,0.26,0.22,18.88,39270,5.8
+Wyoming,"Welders, Cutters, Solderers, and Brazers",2040,7.8,7.48,2.67,29.64,61650,3.1
+Wyoming,Printing Press Operators,140,16.3,0.508,0.43,17.27,35930,3.5
+Wyoming,Laundry and Dry-Cleaning Workers,560,11.9,2.032,1.43,12.12,25220,2.2
+Wyoming,"Pressers, Textile, Garment, and Related Materials",**,**,**,**,10.34,21500,3.1
+Wyoming,Sewing Machine Operators,100,9.9,0.36,0.4,14.73,30650,3.5
+Wyoming,Cabinetmakers and Bench Carpenters,130,20.8,0.457,0.68,19.39,40320,6.5
+Wyoming,"Sawing Machine Setters, Operators, and Tenders, Wood",100,24.3,0.359,1.04,16.9,35150,4.2
+Wyoming,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",50,19.9,0.198,0.37,18.58,38640,3.1
+Wyoming,Power Distributors and Dispatchers,70,22.9,0.269,3.67,45.26,94140,2.5
+Wyoming,Power Plant Operators,260,12.3,0.945,4.13,39.11,81350,3
+Wyoming,Stationary Engineers and Boiler Operators,90,0,0.327,1.48,36.04,74970,2
+Wyoming,Water and Wastewater Treatment Plant and System Operators,530,12.1,1.936,2.3,24.79,51560,2.7
+Wyoming,Chemical Plant and System Operators,170,22.3,0.63,3.21,36.43,75770,10
+Wyoming,Gas Plant Operators,410,15.6,1.485,15.14,36.82,76590,1.6
+Wyoming,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",730,7.3,2.684,9.77,38.27,79610,2.3
+Wyoming,"Plant and System Operators, All Other",200,45,0.719,8.16,27.58,57370,10.8
+Wyoming,Chemical Equipment Operators and Tenders,260,27.1,0.947,1.6,36.57,76060,11.1
+Wyoming,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",320,7.8,1.187,3.41,37.99,79030,3.3
+Wyoming,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",230,12.3,0.857,3.77,30.37,63170,3.7
+Wyoming,"Mixing and Blending Machine Setters, Operators, and Tenders",370,15.3,1.336,1.57,21.15,43990,2.5
+Wyoming,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",60,25.3,0.21,1.63,21.63,44990,3.6
+Wyoming,"Inspectors, Testers, Sorters, Samplers, and Weighers",1150,8.7,4.217,1.07,26.56,55240,3.3
+Wyoming,Jewelers and Precious Stone and Metal Workers,30,27.6,0.124,0.77,27.77,57750,9
+Wyoming,Packaging and Filling Machine Operators and Tenders,420,14.3,1.54,0.58,22.39,46560,5.2
+Wyoming,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",150,15,0.551,0.55,21.69,45110,5.9
+Wyoming,Computer Numerically Controlled Tool Operators,30,7.2,0.118,0.11,20.94,43560,4
+Wyoming,"Molders, Shapers, and Casters, Except Metal and Plastic",70,37.6,0.25,0.82,15.02,31250,12
+Wyoming,Helpers--Production Workers,270,20.1,0.97,0.47,17.71,36830,3.2
+Wyoming,"Production Workers, All Other",130,9.8,0.487,0.32,22.73,47280,4.7
+Wyoming,Transportation and Material Moving Occupations,25730,4,94.143,1.1,21.62,44960,2.2
+Wyoming,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",1190,8.9,4.341,1.4,31.7,65950,2.4
+Wyoming,Commercial Pilots,80,24.1,0.296,1.15,*,77080,5.3
+Wyoming,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",80,36,0.301,3,10.87,22610,7.4
+Wyoming,Driver/Sales Workers,1680,20.6,6.138,2.03,13.76,28620,7.2
+Wyoming,Heavy and Tractor-Trailer Truck Drivers,7130,5.9,26.098,2.07,25.29,52600,2.5
+Wyoming,Light Truck Drivers,1600,7.9,5.863,0.93,19.8,41190,3.4
+Wyoming,"Bus Drivers, Transit and Intercity",450,31.3,1.655,1.35,18.71,38930,5.4
+Wyoming,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",1910,5.8,6.973,1.46,17.02,35410,3
+Wyoming,"Motor Vehicle Operators, All Other",70,12.1,0.252,0.65,18.6,38680,5.1
+Wyoming,Locomotive Engineers,560,47.2,2.055,8.5,40.23,83670,6.7
+Wyoming,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",220,35.8,0.789,10.46,29.64,61640,5.5
+Wyoming,Railroad Conductors and Yardmasters,640,47.3,2.339,7.51,37.06,77080,2.1
+Wyoming,Parking Attendants,50,18.9,0.201,0.2,14.73,30640,2
+Wyoming,Automotive and Watercraft Service Attendants,320,11.6,1.153,1.44,14.77,30720,4
+Wyoming,Traffic Technicians,40,2.9,0.137,2.7,22.37,46520,2.5
+Wyoming,Transportation Inspectors,170,24.5,0.623,3.05,34.14,71020,10
+Wyoming,"Aircraft Service Attendants and Transportation Workers, All Other",50,28.3,0.179,0.75,19.56,40680,6.8
+Wyoming,Conveyor Operators and Tenders,110,27.5,0.404,2.47,*,*,*
+Wyoming,Crane and Tower Operators,80,25,0.297,0.96,30.54,63520,2.1
+Wyoming,Industrial Truck and Tractor Operators,1140,6.4,4.172,0.97,21.32,44340,5.5
+Wyoming,Cleaners of Vehicles and Equipment,600,6.9,2.2,0.84,13.46,28000,2.2
+Wyoming,"Laborers and Freight, Stock, and Material Movers, Hand",2410,4.8,8.807,0.44,17.33,36040,2
+Wyoming,"Packers and Packagers, Hand",510,8.1,1.878,0.44,10.62,22090,3
+Wyoming,Stockers and Order Fillers,3300,10.4,12.056,0.83,15.78,32820,2.9
+Wyoming,Gas Compressor and Gas Pumping Station Operators,100,27.1,0.372,15.89,29.33,61000,2.1
+Wyoming,"Pump Operators, Except Wellhead Pumpers",70,29.7,0.259,3.8,22.8,47430,5.9
+Wyoming,Wellhead Pumpers,410,28.6,1.517,17.17,29.77,61920,2.8
+Wyoming,Refuse and Recyclable Material Collectors,420,11.7,1.551,1.88,18.44,38360,1.8
+Wyoming,"Tank Car, Truck, and Ship Loaders",40,33.8,0.149,1.88,23.63,49140,9

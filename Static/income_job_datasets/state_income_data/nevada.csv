@@ -1,0 +1,675 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Nevada,All Occupations,1392680,0.5,1000,1,22.7,47210,0.7
+Nevada,Management Occupations,69500,1.9,49.902,0.91,54.23,112810,1
+Nevada,Chief Executives,1170,11.4,0.838,0.6,104.32,216980,4.1
+Nevada,General and Operations Managers,20030,4.1,14.385,0.88,60.39,125610,1.9
+Nevada,Legislators,150,8.1,0.107,0.3,*,83350,11.3
+Nevada,Advertising and Promotions Managers,220,16.5,0.16,0.94,54.3,112950,5.7
+Nevada,Marketing Managers,1830,10.1,1.317,0.73,68.11,141660,5.6
+Nevada,Sales Managers,3740,7,2.684,0.98,*,*,*
+Nevada,Public Relations and Fundraising Managers,470,14.5,0.34,0.63,57.45,119500,5.9
+Nevada,Administrative Services and Facilities Managers,1600,4.7,1.147,0.55,45.57,94790,1.3
+Nevada,Computer and Information Systems Managers,2140,9.4,1.536,0.52,64.89,134970,2.6
+Nevada,Financial Managers,6060,4.3,4.348,0.98,58.42,121520,2
+Nevada,Industrial Production Managers,840,7.1,0.602,0.48,50.53,105090,2.2
+Nevada,Purchasing Managers,480,10.1,0.343,0.7,55.02,114440,1.6
+Nevada,"Transportation, Storage, and Distribution Managers",1120,6.4,0.802,0.89,44.58,92720,2.4
+Nevada,Compensation and Benefits Managers,120,10.5,0.087,0.76,58.8,122300,4.5
+Nevada,Human Resources Managers,1030,4.6,0.738,0.7,56.53,117580,1.7
+Nevada,Training and Development Managers,280,10.8,0.2,0.76,45.64,94920,3.5
+Nevada,"Farmers, Ranchers, and Other Agricultural Managers",60,33.8,0.042,1.23,41.1,85490,7.5
+Nevada,Construction Managers,4080,6.5,2.932,1.47,45.25,94130,2.3
+Nevada,"Education and Childcare Administrators, Preschool and Daycare",160,23.9,0.114,0.32,31.14,64760,6.6
+Nevada,"Education Administrators, Kindergarten through Secondary",1650,1.9,1.185,0.64,*,92430,2.3
+Nevada,"Education Administrators, Postsecondary",700,6.3,0.503,0.51,56.61,117760,4.8
+Nevada,"Education Administrators, All Other",230,20,0.162,0.53,37.78,78590,5.6
+Nevada,Architectural and Engineering Managers,990,9.3,0.713,0.54,65.6,136450,2
+Nevada,Food Service Managers,3230,7.8,2.316,1.44,32.48,67560,3.1
+Nevada,Gambling Managers,580,5.8,0.418,13.8,48.65,101190,2.5
+Nevada,Lodging Managers,600,15.6,0.43,1.65,43.2,89860,3.1
+Nevada,Medical and Health Services Managers,2600,6.3,1.868,0.69,57.23,119030,3.1
+Nevada,Natural Sciences Managers,250,15.1,0.183,0.4,55.25,114930,2.8
+Nevada,Postmasters and Mail Superintendents,70,0,0.048,0.51,33.07,68790,1.1
+Nevada,"Property, Real Estate, and Community Association Managers",3150,13,2.265,1.51,25.62,53290,3.4
+Nevada,Social and Community Service Managers,780,6.6,0.559,0.52,37.33,77640,2.7
+Nevada,Emergency Management Directors,30,13.2,0.024,0.34,42.07,87500,4.3
+Nevada,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",9040,3.8,6.488,2.02,49.04,102000,1.9
+Nevada,Business and Financial Operations Occupations,53780,2,38.613,0.69,33.22,69100,1.2
+Nevada,"Agents and Business Managers of Artists, Performers, and Athletes",220,38.1,0.156,1.34,29.23,60800,11.6
+Nevada,Buyers and Purchasing Agents,3110,10.4,2.235,0.78,29.27,60890,1.5
+Nevada,"Claims Adjusters, Examiners, and Investigators",1640,15.7,1.18,0.6,33.32,69300,2.1
+Nevada,"Insurance Appraisers, Auto Damage",580,14.2,0.415,4.43,30.87,64210,2
+Nevada,Compliance Officers,2340,3.7,1.68,0.78,33.56,69800,2
+Nevada,Cost Estimators,1970,7.5,1.414,0.99,32.1,66770,2.3
+Nevada,Human Resources Specialists,3950,4.2,2.838,0.66,28.93,60180,1
+Nevada,Labor Relations Specialists,900,9.4,0.647,1.26,30.71,63890,11.2
+Nevada,Logisticians,530,15.8,0.38,0.31,32.53,67660,3.3
+Nevada,Management Analysts,4680,5.4,3.363,0.7,44.92,93440,6.4
+Nevada,"Meeting, Convention, and Event Planners",1060,8,0.762,0.95,22.91,47650,2.5
+Nevada,Fundraisers,280,17.9,0.201,0.36,29.46,61270,3.7
+Nevada,"Compensation, Benefits, and Job Analysis Specialists",530,19.9,0.378,0.62,29.26,60860,2.5
+Nevada,Training and Development Specialists,2480,6.7,1.783,0.84,29.39,61140,4.3
+Nevada,Market Research Analysts and Marketing Specialists,3360,9.2,2.41,0.52,29.06,60440,2.6
+Nevada,"Project Management Specialists and Business Operations Specialists, All Other",9500,3.4,6.818,0.78,32.7,68010,1.4
+Nevada,Accountants and Auditors,8140,4.4,5.842,0.67,32.7,68030,1.4
+Nevada,Property Appraisers and Assessors,370,27.4,0.266,0.69,*,*,*
+Nevada,Budget Analysts,270,3.5,0.194,0.55,34.81,72400,1.4
+Nevada,Credit Analysts,420,26.8,0.304,0.6,34.57,71900,4.5
+Nevada,Personal Financial Advisors,990,12.5,0.711,0.5,42.6,88600,6.9
+Nevada,Insurance Underwriters,260,42.2,0.189,0.28,40.33,83890,13.4
+Nevada,Financial Examiners,**,**,**,**,32.67,67960,4.7
+Nevada,Credit Counselors,100,27.8,0.074,0.34,25.8,53670,9.3
+Nevada,Loan Officers,3240,14.1,2.328,1.11,37.35,77680,8.1
+Nevada,Tax Preparers,870,25,0.624,1.38,24.68,51320,6.8
+Nevada,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",1630,9.8,1.17,0.37,36.64,76220,2.8
+Nevada,Computer and Mathematical Occupations,21770,3.9,15.635,0.5,37.65,78310,1.8
+Nevada,Computer Systems Analysts,1740,6.7,1.25,0.31,39.73,82640,1.7
+Nevada,Information Security Analysts,500,12.3,0.36,0.42,49.41,102770,7.5
+Nevada,Computer and Information Research Scientists,40,22.3,0.03,0.14,53.8,111900,5.8
+Nevada,Computer Network Support Specialists,1450,19.5,1.041,0.82,29.96,62320,3.4
+Nevada,Computer User Support Specialists,5120,6.8,3.676,0.83,25.02,52030,1.9
+Nevada,Computer Network Architects,740,9.2,0.529,0.51,53.88,112060,4.2
+Nevada,Network and Computer Systems Administrators,1500,11.6,1.079,0.45,41.7,86740,2.1
+Nevada,Database Administrators and Architects,700,20.6,0.503,0.59,43.64,90780,1.7
+Nevada,Computer Programmers,1030,9.1,0.736,0.54,39.39,81920,3.4
+Nevada,Software Developers and Software Quality Assurance Analysts and Testers,5390,8.3,3.872,0.4,47.17,98120,3.6
+Nevada,Web Developers and Digital Interface Designers,810,14.5,0.585,0.58,30.18,62760,4.1
+Nevada,"Computer Occupations, All Other",2360,10.5,1.694,0.63,35.55,73940,2.2
+Nevada,Mathematicians,40,20.4,0.032,1.78,40.68,84610,12.1
+Nevada,Operations Research Analysts,170,17.4,0.121,0.18,36.73,76400,5.7
+Nevada,Statisticians,90,17.1,0.065,0.24,*,*,*
+Nevada,"Data Scientists and Mathematical Science Occupations, All Other",**,**,**,**,51.87,107880,5.1
+Nevada,Architecture and Engineering Occupations,14550,5.3,10.446,0.59,38.88,80860,1.6
+Nevada,"Architects, Except Landscape and Naval",360,14.8,0.258,0.36,37.65,78320,7.8
+Nevada,Landscape Architects,50,31.1,0.036,0.26,31.16,64810,5.5
+Nevada,Cartographers and Photogrammetrists,210,7.2,0.148,1.93,37.15,77280,2.3
+Nevada,Surveyors,450,16.7,0.322,1.05,40.01,83220,3.4
+Nevada,Aerospace Engineers,**,**,**,**,46.62,96960,2.5
+Nevada,Bioengineers and Biomedical Engineers,50,22.3,0.036,0.27,48.35,100570,4.7
+Nevada,Chemical Engineers,60,18.1,0.045,0.22,51.66,107460,15.7
+Nevada,Civil Engineers,2690,6.8,1.932,0.91,47.57,98960,3.9
+Nevada,Computer Hardware Engineers,80,13.3,0.056,0.12,40.07,83340,5.2
+Nevada,Electrical Engineers,640,16.2,0.463,0.37,42.05,87470,2.5
+Nevada,"Electronics Engineers, Except Computer",560,12,0.401,0.46,48.07,99980,2.5
+Nevada,Environmental Engineers,550,14.7,0.395,1.09,46.04,95750,3.1
+Nevada,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",170,28.7,0.119,0.68,41.4,86110,6.4
+Nevada,Industrial Engineers,910,29.1,0.651,0.33,43.86,91220,2
+Nevada,Materials Engineers,140,31.6,0.099,0.54,45.32,94260,3
+Nevada,Mechanical Engineers,1210,28.3,0.868,0.42,43.78,91070,2.4
+Nevada,"Mining and Geological Engineers, Including Mining Safety Engineers",390,18.7,0.282,6.6,45.09,93790,2.7
+Nevada,"Engineers, All Other",660,13.6,0.475,0.46,38.65,80400,5.8
+Nevada,Architectural and Civil Drafters,1110,11.8,0.796,1.18,24.68,51340,2.4
+Nevada,Electrical and Electronics Drafters,260,24,0.19,1.16,28.73,59750,5.4
+Nevada,Mechanical Drafters,260,15.2,0.188,0.5,25.61,53260,3.7
+Nevada,"Drafters, All Other",200,21.2,0.141,1.42,26.06,54210,2.4
+Nevada,Civil Engineering Technologists and Technicians,810,10.3,0.579,1.23,27.88,58000,2.2
+Nevada,Electrical and Electronic Engineering Technologists and Technicians,930,12,0.67,0.8,33.24,69130,3.3
+Nevada,Electro-Mechanical and Mechatronics Technologists and Technicians,60,34.6,0.044,0.46,27.55,57310,3.7
+Nevada,Environmental Engineering Technologists and Technicians,210,19.9,0.147,1.2,28.52,59320,3.5
+Nevada,Industrial Engineering Technologists and Technicians,200,10.8,0.143,0.31,23.41,48700,4.5
+Nevada,Mechanical Engineering Technologists and Technicians,410,23.2,0.293,1,30.78,64010,6.2
+Nevada,Surveying and Mapping Technicians,430,9.9,0.309,0.86,25.22,52450,3.3
+Nevada,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",310,14.9,0.22,0.37,35.27,73370,2.1
+Nevada,"Life, Physical, and Social Science Occupations",9330,6.9,6.7,0.76,32.1,66780,1.9
+Nevada,Soil and Plant Scientists,40,48.2,0.026,0.27,35.34,73500,3.7
+Nevada,Microbiologists,40,21.5,0.031,0.25,34.54,71840,4.6
+Nevada,Zoologists and Wildlife Biologists,170,7.4,0.124,0.95,31.78,66100,3.7
+Nevada,"Biological Scientists, All Other",220,4.5,0.158,0.58,35.49,73830,1.4
+Nevada,Conservation Scientists,200,15.5,0.145,0.96,29.48,61310,4.7
+Nevada,"Medical Scientists, Except Epidemiologists",230,16.9,0.162,0.19,50.08,104180,7.2
+Nevada,"Life Scientists, All Other",90,1,0.068,1.54,28.54,59370,2.1
+Nevada,Atmospheric and Space Scientists,80,5.9,0.059,0.93,43.99,91500,1.9
+Nevada,Chemists,250,10.6,0.181,0.32,35.65,74160,5
+Nevada,Materials Scientists,40,18.3,0.029,0.63,60.93,126720,11.9
+Nevada,"Environmental Scientists and Specialists, Including Health",480,12.1,0.344,0.6,30.98,64440,3.8
+Nevada,"Geoscientists, Except Hydrologists and Geographers",540,22.1,0.388,1.95,43.18,89820,5.5
+Nevada,Hydrologists,140,11.2,0.102,2.34,44.12,91760,2.2
+Nevada,Economists,60,11.2,0.046,0.35,39.85,82890,2.9
+Nevada,"Clinical, Counseling, and School Psychologists",430,11.1,0.307,0.4,40.04,83280,3.1
+Nevada,"Psychologists, All Other",90,5.4,0.063,0.65,41.95,87250,2.5
+Nevada,Urban and Regional Planners,210,3.9,0.148,0.56,40.08,83370,1.5
+Nevada,Anthropologists and Archeologists,320,25.8,0.227,4.96,31.16,64820,6.7
+Nevada,"Social Scientists and Related Workers, All Other",130,2.2,0.091,0.4,38.62,80330,1.9
+Nevada,Agricultural and Food Science Technicians,40,17.7,0.03,0.2,18.59,38660,3.9
+Nevada,Biological Technicians,330,5.3,0.24,0.44,21.29,44290,4.4
+Nevada,Chemical Technicians,1150,12.3,0.828,1.85,26.33,54770,3.5
+Nevada,"Environmental Science and Protection Technicians, Including Health",**,**,**,**,28.23,58730,12
+Nevada,Geological and Hydrologic Technicians,150,10.2,0.108,0.92,27.11,56390,4.7
+Nevada,Social Science Research Assistants,80,9.2,0.058,0.24,*,*,*
+Nevada,Forest and Conservation Technicians,280,4.2,0.203,1.56,22.46,46720,2.1
+Nevada,Forensic Science Technicians,380,0.3,0.273,2.43,30.8,64070,1.9
+Nevada,"Life, Physical, and Social Science Technicians, All Other",820,5.9,0.588,1.34,22.69,47200,4.3
+Nevada,Occupational Health and Safety Specialists,1050,11.5,0.751,1.19,35.11,73030,2
+Nevada,Occupational Health and Safety Technicians,290,34.6,0.211,1.51,22.84,47510,4.1
+Nevada,Community and Social Service Occupations,13270,2,9.525,0.62,26.09,54270,2
+Nevada,"Educational, Guidance, and Career Counselors and Advisors",1720,3,1.237,0.61,27.84,57900,5.4
+Nevada,Marriage and Family Therapists,400,18.3,0.284,0.71,27.41,57020,4.5
+Nevada,Rehabilitation Counselors,560,21.6,0.401,0.54,20.17,41960,8.1
+Nevada,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",1180,10.5,0.849,0.44,30.73,63910,7.8
+Nevada,"Counselors, All Other",80,13.3,0.057,0.33,25.67,53380,3.7
+Nevada,"Child, Family, and School Social Workers",3010,0.9,2.161,0.97,25.95,53980,2.7
+Nevada,Healthcare Social Workers,800,7.9,0.573,0.48,34.93,72640,4.5
+Nevada,Mental Health and Substance Abuse Social Workers,850,17.1,0.607,0.76,28.27,58790,3
+Nevada,"Social Workers, All Other",280,0.5,0.204,0.51,34.83,72450,2
+Nevada,Health Education Specialists,420,10,0.3,0.75,24.76,51500,5.1
+Nevada,Probation Officers and Correctional Treatment Specialists,920,0.5,0.659,1.1,30.58,63610,1.5
+Nevada,Social and Human Service Assistants,2100,9.1,1.506,0.55,18.08,37610,2.4
+Nevada,Community Health Workers,240,12.1,0.174,0.43,22.98,47790,3.9
+Nevada,"Community and Social Service Specialists, All Other",540,13.7,0.387,0.58,21.49,44700,3.4
+Nevada,Clergy,150,16,0.105,0.29,25.6,53250,4.7
+Nevada,Legal Occupations,8220,4.2,5.9,0.75,49.32,102590,3
+Nevada,Lawyers,4630,6.6,3.324,0.74,63.07,131190,3.7
+Nevada,Judicial Law Clerks,110,0.2,0.08,0.71,33.88,70470,2.3
+Nevada,"Administrative Law Judges, Adjudicators, and Hearing Officers",140,0.1,0.097,0.99,39.98,83150,1.4
+Nevada,"Judges, Magistrate Judges, and Magistrates",230,1.2,0.166,0.85,75.12,156250,2
+Nevada,Paralegals and Legal Assistants,2130,9.6,1.528,0.68,27.94,58110,3.1
+Nevada,"Title Examiners, Abstractors, and Searchers",570,38.4,0.412,1.14,27.11,56380,5.4
+Nevada,"Legal Support Workers, All Other",380,22.9,0.274,0.89,27.79,57800,7.9
+Nevada,Educational Instruction and Library Occupations,54780,1,39.337,0.65,24.47,50890,3
+Nevada,"Business Teachers, Postsecondary",**,**,**,**,*,75270,9
+Nevada,"Computer Science Teachers, Postsecondary",120,7,0.087,0.4,*,70300,9.2
+Nevada,"Mathematical Science Teachers, Postsecondary",270,3.9,0.192,0.55,*,66910,5.7
+Nevada,"Biological Science Teachers, Postsecondary",270,4.5,0.193,0.53,*,73230,8.9
+Nevada,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",50,1.9,0.037,0.49,*,97510,3.5
+Nevada,"Chemistry Teachers, Postsecondary",100,6.6,0.072,0.49,*,74800,9.9
+Nevada,"Environmental Science Teachers, Postsecondary",50,12,0.039,0.94,*,82660,8.1
+Nevada,"Physics Teachers, Postsecondary",70,2.8,0.051,0.54,*,76910,6.7
+Nevada,"Anthropology and Archeology Teachers, Postsecondary",50,5.5,0.039,0.98,*,72210,5.6
+Nevada,"Economics Teachers, Postsecondary",80,3.4,0.061,0.67,*,82160,10.3
+Nevada,"Psychology Teachers, Postsecondary",250,7.5,0.181,0.71,*,63760,10.4
+Nevada,"Sociology Teachers, Postsecondary",40,9.7,0.031,0.33,*,72950,5.9
+Nevada,"Health Specialties Teachers, Postsecondary",1250,10.6,0.895,0.65,*,110300,12.1
+Nevada,"Nursing Instructors and Teachers, Postsecondary",560,12.2,0.401,0.99,*,72580,4.5
+Nevada,"Education Teachers, Postsecondary",560,11.2,0.404,0.97,*,67180,10.3
+Nevada,"Criminal Justice and Law Enforcement Teachers, Postsecondary",150,8.5,0.111,1.16,*,51300,6.3
+Nevada,"Law Teachers, Postsecondary",60,3.5,0.042,0.38,*,106310,5
+Nevada,"Art, Drama, and Music Teachers, Postsecondary",620,1.7,0.449,0.7,*,50330,4.6
+Nevada,"Communications Teachers, Postsecondary",140,4.1,0.1,0.51,*,60410,7.6
+Nevada,"English Language and Literature Teachers, Postsecondary",390,3.4,0.277,0.6,*,57070,2.9
+Nevada,"Foreign Language and Literature Teachers, Postsecondary",160,2.7,0.112,0.66,*,57690,3.4
+Nevada,"History Teachers, Postsecondary",110,7,0.082,0.58,*,61720,8.9
+Nevada,"Philosophy and Religion Teachers, Postsecondary",**,**,**,**,*,58620,2.9
+Nevada,"Recreation and Fitness Studies Teachers, Postsecondary",60,11.9,0.044,0.4,*,49710,8.3
+Nevada,"Career/Technical Education Teachers, Postsecondary",810,16.4,0.581,0.76,22.98,47800,5.2
+Nevada,"Postsecondary Teachers, All Other",840,9.6,0.603,0.44,*,50970,2.7
+Nevada,"Preschool Teachers, Except Special Education",1790,29.2,1.287,0.44,15.39,32000,4.6
+Nevada,"Kindergarten Teachers, Except Special Education",1360,1.7,0.975,1.15,*,56070,2.3
+Nevada,"Elementary School Teachers, Except Special Education",10480,2.6,7.524,0.77,*,56980,2.6
+Nevada,"Middle School Teachers, Except Special and Career/Technical Education",4000,2.6,2.874,0.68,*,59150,2.5
+Nevada,"Career/Technical Education Teachers, Middle School",120,0,0.084,1.04,*,58260,1.8
+Nevada,"Secondary School Teachers, Except Special and Career/Technical Education",5760,2.3,4.133,0.59,*,58090,2.5
+Nevada,"Career/Technical Education Teachers, Secondary School",220,1,0.16,0.32,*,60280,2.2
+Nevada,"Special Education Teachers, Preschool",480,3.8,0.341,2.24,*,59560,2.3
+Nevada,"Special Education Teachers, Kindergarten and Elementary School",750,1.7,0.535,0.41,*,53670,4
+Nevada,"Special Education Teachers, Middle School",330,1.7,0.234,0.4,*,54730,2.6
+Nevada,"Special Education Teachers, Secondary School",460,4.7,0.33,0.34,*,57200,2.9
+Nevada,"Special Education Teachers, All Other",480,11.5,0.344,1.42,*,56930,5.8
+Nevada,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",160,33,0.117,0.33,23.44,48750,5.9
+Nevada,Self-Enrichment Teachers,1210,10,0.869,0.51,24.17,50270,6.3
+Nevada,"Substitute Teachers, Short-Term",5790,1,4.157,1.04,13.7,28500,4.5
+Nevada,"Tutors and Teachers and Instructors, All Other",1640,8.9,1.178,0.54,*,51050,4.2
+Nevada,Archivists,30,5.3,0.023,0.52,*,*,*
+Nevada,Curators,90,7.4,0.067,0.76,27.79,57790,2.4
+Nevada,Museum Technicians and Conservators,30,17,0.024,0.27,17.06,35480,6
+Nevada,Librarians and Media Collections Specialists,580,1.4,0.415,0.45,33.98,70690,2.3
+Nevada,Library Technicians,610,1,0.438,0.73,17.63,36680,2
+Nevada,Instructional Coordinators,310,8.8,0.221,0.18,30.5,63430,1.8
+Nevada,"Teaching Assistants, Postsecondary",1050,0,0.751,0.8,*,44110,2.2
+Nevada,"Teaching Assistants, Except Postsecondary",5890,2.2,4.233,0.46,*,30820,5.7
+Nevada,"Educational Instruction and Library Workers, All Other",3110,1.5,2.23,2.54,19.63,40840,10.3
+Nevada,"Arts, Design, Entertainment, Sports, and Media Occupations",20360,4.5,14.616,1.06,27.43,57060,3.5
+Nevada,Art Directors,170,25.4,0.119,0.41,39.36,81860,3
+Nevada,Special Effects Artists and Animators,260,21.4,0.189,0.95,32.51,67630,2.5
+Nevada,"Artists and Related Workers, All Other",**,**,**,**,15.26,31740,16.1
+Nevada,Commercial and Industrial Designers,70,34.2,0.052,0.23,33.18,69010,7.4
+Nevada,Floral Designers,340,10.8,0.245,0.86,16.44,34190,5
+Nevada,Graphic Designers,1620,10.4,1.166,0.79,23.58,49050,2.8
+Nevada,Interior Designers,520,14.4,0.377,0.91,27.83,57880,8.6
+Nevada,Merchandise Displayers and Window Trimmers,1060,12.7,0.758,0.79,15.49,32210,2.4
+Nevada,Set and Exhibit Designers,330,47.2,0.238,2.9,*,*,*
+Nevada,"Designers, All Other",80,37.5,0.055,0.76,28.14,58520,16.7
+Nevada,Actors,**,**,**,**,29.21,*,7.9
+Nevada,Producers and Directors,760,11.7,0.545,0.62,38.18,79410,4.3
+Nevada,Coaches and Scouts,1730,14.3,1.245,0.76,*,51850,11.6
+Nevada,Dancers,570,20.9,0.407,6.17,36.19,*,9.4
+Nevada,Choreographers,**,**,**,**,26.25,54590,10.9
+Nevada,Musicians and Singers,460,13.9,0.329,1.17,46.9,*,7.8
+Nevada,"Miscellaneous Entertainers and Performers, Sports and Related Workers",840,12.3,0.602,5.59,56.05,*,11.9
+Nevada,Broadcast Announcers and Radio Disc Jockeys,**,**,**,**,26.94,56030,9.5
+Nevada,"News Analysts, Reporters, and Journalists",340,20.3,0.241,0.8,25.97,54010,12.5
+Nevada,Public Relations Specialists,1360,18.1,0.977,0.59,30.41,63250,3.6
+Nevada,Editors,390,19.1,0.282,0.43,24.55,51060,5.4
+Nevada,Technical Writers,220,11.6,0.155,0.45,33.88,70480,2.7
+Nevada,Writers and Authors,330,14.8,0.24,0.77,25.87,53800,5.5
+Nevada,Interpreters and Translators,1220,4.4,0.875,2.18,19.8,41180,12.6
+Nevada,Court Reporters and Simultaneous Captioners,180,33.7,0.132,1.33,*,*,*
+Nevada,"Media and Communication Workers, All Other",1050,20.5,0.755,4.41,28.25,58760,4.4
+Nevada,Audio and Video Technicians,2110,11.9,1.513,3,27.06,56280,2.9
+Nevada,Broadcast Technicians,160,18.1,0.114,0.58,15.01,31230,6.6
+Nevada,Sound Engineering Technicians,150,18.5,0.109,1.24,28.92,60150,5.9
+Nevada,Photographers,1100,8.8,0.791,2.29,14.34,29820,8.5
+Nevada,"Camera Operators, Television, Video, and Film",300,22.4,0.216,1.48,28.66,59610,10.1
+Nevada,Film and Video Editors,160,14.8,0.117,0.62,29.41,61180,9.3
+Nevada,"Lighting Technicians and Media and Communication Equipment Workers, All Other",340,14.6,0.242,1.51,34.1,70920,3.5
+Nevada,Healthcare Practitioners and Technical Occupations,64510,4,46.324,0.78,44.03,91590,2
+Nevada,Chiropractors,300,27.5,0.218,0.91,43.63,90740,12.7
+Nevada,"Dentists, General",1010,25.6,0.728,0.97,98.19,204240,8.4
+Nevada,"Dentists, All Other Specialists",**,**,**,**,67.23,139830,5.1
+Nevada,Dietitians and Nutritionists,420,12.1,0.3,0.65,30.26,62940,3
+Nevada,Optometrists,**,**,**,**,56.76,118060,10.6
+Nevada,Pharmacists,2470,10.3,1.775,0.84,60.03,124860,1.9
+Nevada,Physician Assistants,700,15.8,0.505,0.62,58.43,121540,4.3
+Nevada,Occupational Therapists,830,13.3,0.597,0.66,50.7,105450,3.3
+Nevada,Physical Therapists,1570,8.9,1.127,0.71,52.19,108550,4.9
+Nevada,Radiation Therapists,**,**,**,**,47.01,97780,4.5
+Nevada,Recreational Therapists,120,3.7,0.087,0.67,22.84,47500,4.2
+Nevada,Respiratory Therapists,1410,9.6,1.016,1.13,37.38,77760,2.1
+Nevada,Speech-Language Pathologists,1070,8.2,0.769,0.73,37.26,77500,6.8
+Nevada,"Therapists, All Other",80,11.5,0.054,0.66,40.47,84180,3.3
+Nevada,Veterinarians,530,15,0.382,0.75,46.41,96540,3.3
+Nevada,Registered Nurses,22940,6.7,16.472,0.81,42.49,88380,1.7
+Nevada,Nurse Anesthetists,60,43.4,0.045,0.15,*,*,*
+Nevada,Nurse Practitioners,**,**,**,**,55.75,115970,2.9
+Nevada,Anesthesiologists,460,46.5,0.334,1.58,121.28,252250,16.1
+Nevada,Family Medicine Physicians,710,20,0.511,0.69,91.09,189470,11.4
+Nevada,General Internal Medicine Physicians,390,34.4,0.283,0.93,122.08,253920,16.1
+Nevada,"Pediatricians, General",90,35.1,0.062,0.31,118.92,247360,12.9
+Nevada,Psychiatrists,40,27.7,0.031,0.18,119.83,249250,10.9
+Nevada,"Physicians, All Other; and Ophthalmologists, Except Pediatric",2850,14.5,2.047,0.77,105.49,219430,8.4
+Nevada,"Surgeons, Except Ophthalmologists",150,29.1,0.11,0.45,124.47,258890,14.2
+Nevada,Dental Hygienists,2540,13.3,1.822,1.21,41.13,85560,2.4
+Nevada,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",**,**,**,**,36.19,75270,27.2
+Nevada,Clinical Laboratory Technologists and Technicians,1910,14.6,1.37,0.62,29.68,61740,1.8
+Nevada,Cardiovascular Technologists and Technicians,320,7.7,0.229,0.6,30.97,64430,5.5
+Nevada,Diagnostic Medical Sonographers,380,15.9,0.27,0.54,39.93,83050,1.2
+Nevada,Nuclear Medicine Technologists,100,13.3,0.07,0.56,40.1,83400,2.2
+Nevada,Radiologic Technologists and Technicians,1210,7.9,0.87,0.62,34.35,71460,1.6
+Nevada,Magnetic Resonance Imaging Technologists,560,21.2,0.401,1.55,44.51,92580,3.8
+Nevada,Emergency Medical Technicians and Paramedics,1720,22.9,1.238,0.7,17.94,37320,2.5
+Nevada,Dietetic Technicians,140,19.7,0.099,0.5,17.96,37360,4.1
+Nevada,Pharmacy Technicians,3750,10.1,2.694,0.95,18.34,38150,1.9
+Nevada,Psychiatric Technicians,**,**,**,**,16.14,33580,1.8
+Nevada,Surgical Technologists,1100,13.6,0.791,1.07,30.79,64050,4.1
+Nevada,Veterinary Technologists and Technicians,640,15.5,0.463,0.61,23.71,49320,4.2
+Nevada,Ophthalmic Medical Technicians,**,**,**,**,16.87,35080,2.5
+Nevada,Licensed Practical and Licensed Vocational Nurses,2920,8.1,2.096,0.44,28.11,58470,1.6
+Nevada,"Opticians, Dispensing",**,**,**,**,19.94,41470,3.4
+Nevada,Orthotists and Prosthetists,70,36.1,0.051,0.76,38.52,80120,8.8
+Nevada,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",3000,7.5,2.153,0.95,21.92,45600,2.4
+Nevada,Athletic Trainers,**,**,**,**,*,32140,13.1
+Nevada,Genetic Counselors,**,**,**,**,46.65,97030,18.7
+Nevada,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",490,20.2,0.351,0.95,27.86,57940,12.9
+Nevada,Healthcare Support Occupations,41110,2.7,29.52,0.66,15.52,32280,1.3
+Nevada,Home Health and Personal Care Aides,14760,4.8,10.601,0.49,12.04,25050,1.5
+Nevada,Nursing Assistants,7220,5.7,5.188,0.54,16.77,34890,1.8
+Nevada,Orderlies,240,5.5,0.171,0.53,15.03,31250,2.7
+Nevada,Psychiatric Aides,380,1.7,0.271,0.72,18.3,38060,1.5
+Nevada,Occupational Therapy Assistants,310,35.1,0.225,0.73,34.81,72400,3.6
+Nevada,Occupational Therapy Aides,30,38,0.025,0.48,*,*,*
+Nevada,Physical Therapist Assistants,470,15.3,0.336,0.51,29.86,62100,8.2
+Nevada,Physical Therapist Aides,500,21.6,0.361,1.08,13.1,27240,3.3
+Nevada,Massage Therapists,1800,14.5,1.293,1.77,17.57,36540,12.1
+Nevada,Dental Assistants,2770,6.7,1.99,0.83,18.61,38710,3.6
+Nevada,Medical Assistants,6800,5.7,4.885,1.01,16.76,34860,1.4
+Nevada,Medical Equipment Preparers,350,14.9,0.255,0.66,21.73,45200,5.7
+Nevada,Medical Transcriptionists,1040,29.5,0.748,1.97,16.43,34170,7.9
+Nevada,Pharmacy Aides,390,13.9,0.28,1.1,13.31,27670,4.7
+Nevada,Veterinary Assistants and Laboratory Animal Caretakers,1380,20.6,0.989,1.5,12.96,26970,3.6
+Nevada,Phlebotomists,990,26.1,0.713,0.82,18.95,39410,3.4
+Nevada,"Healthcare Support Workers, All Other",1660,9.3,1.19,1.87,19.55,40670,3.2
+Nevada,Protective Service Occupations,43660,1.7,31.351,1.32,22.58,46980,3.2
+Nevada,First-Line Supervisors of Correctional Officers,310,2.9,0.224,0.71,42.37,88130,1.4
+Nevada,First-Line Supervisors of Police and Detectives,970,0.8,0.7,0.85,50.72,105500,1.7
+Nevada,First-Line Supervisors of Firefighting and Prevention Workers,720,3.5,0.515,1.09,45.71,95080,2
+Nevada,"Miscellaneous First-Line Supervisors, Protective Service Workers",1850,7.2,1.331,2.37,24.45,50850,1.9
+Nevada,Firefighters,2020,1.8,1.448,0.66,33.32,69310,3
+Nevada,Fire Inspectors and Investigators,130,1,0.095,1.02,42.49,88380,3.3
+Nevada,Bailiffs,180,1.3,0.131,0.98,27.81,57850,2.8
+Nevada,Correctional Officers and Jailers,2940,4.4,2.109,0.73,30.33,63090,2.2
+Nevada,Detectives and Criminal Investigators,510,0.6,0.368,0.51,41.83,87010,1.9
+Nevada,Fish and Game Wardens,40,5.6,0.028,0.6,30.17,62750,1.9
+Nevada,Parking Enforcement Workers,80,1.2,0.057,1.09,21.56,44850,1.8
+Nevada,Police and Sheriff's Patrol Officers,5250,0.6,3.768,0.83,35.41,73660,2.6
+Nevada,Transit and Railroad Police,**,**,**,**,36.04,74970,2.7
+Nevada,Animal Control Workers,80,5.4,0.054,0.66,24.65,51280,1.8
+Nevada,Private Detectives and Investigators,340,38.4,0.245,1.03,30.87,64200,4.2
+Nevada,Gambling Surveillance Officers and Gambling Investigators,870,4.5,0.625,8.92,19.31,40160,1.5
+Nevada,Security Guards,22310,3,16.023,2.09,15.89,33050,2.9
+Nevada,Crossing Guards and Flaggers,510,35.6,0.369,0.64,15.89,33050,7
+Nevada,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1810,7.5,1.299,1.33,10.58,22010,1.6
+Nevada,Transportation Security Screeners,1180,0,0.85,2.67,18.97,39450,2.8
+Nevada,"School Bus Monitors and Protective Service Workers, All Other",1390,8.6,0.995,1,20.95,43580,4.3
+Nevada,Food Preparation and Serving Related Occupations,189200,1.3,135.85,1.48,12.95,26940,1.5
+Nevada,Chefs and Head Cooks,3350,6.1,2.406,2.76,27.33,56850,2.3
+Nevada,First-Line Supervisors of Food Preparation and Serving Workers,11260,6.4,8.088,1.17,18.08,37620,2
+Nevada,"Cooks, Fast Food",10700,13,7.682,2.14,10.61,22060,2.4
+Nevada,"Cooks, Institution and Cafeteria",1660,5.6,1.19,0.43,16,33270,1.8
+Nevada,"Cooks, Restaurant",22510,3.6,16.163,1.69,16.11,33500,2.2
+Nevada,"Cooks, Short Order",1730,22.5,1.243,1.2,13.62,28330,4
+Nevada,"Cooks, All Other",240,27.8,0.169,1.28,18.99,39500,4.1
+Nevada,Food Preparation Workers,9280,7.4,6.667,1.13,14.27,29680,2.8
+Nevada,Bartenders,14440,7.2,10.372,2.36,13.35,27770,3.1
+Nevada,Fast Food and Counter Workers,43310,5.1,31.101,1.14,10.6,22050,1.5
+Nevada,Waiters and Waitresses,37300,4.2,26.781,1.53,11.43,23770,2.2
+Nevada,"Food Servers, Nonrestaurant",1420,10.9,1.016,0.54,12.44,25880,1.8
+Nevada,Dining Room and Cafeteria Attendants and Bartender Helpers,14980,5.9,10.754,3.31,11.44,23790,2.3
+Nevada,Dishwashers,8310,4.6,5.964,1.7,13.42,27910,2.6
+Nevada,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",5930,10.1,4.255,1.48,12.91,26850,2.3
+Nevada,"Food Preparation and Serving Related Workers, All Other",2780,7.2,1.996,4.05,13.34,27740,1.9
+Nevada,Building and Grounds Cleaning and Maintenance Occupations,70720,2.4,50.779,1.68,15.71,32670,1.3
+Nevada,First-Line Supervisors of Housekeeping and Janitorial Workers,3130,6.5,2.247,2.12,20.64,42930,3.5
+Nevada,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",940,13.5,0.672,0.95,27.03,56230,2.2
+Nevada,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",29360,2.5,21.084,1.44,15.32,31860,1.8
+Nevada,Maids and Housekeeping Cleaners,25140,5.9,18.055,2.86,15.24,31710,1.7
+Nevada,"Building Cleaning Workers, All Other",**,**,**,**,14.53,30230,3.4
+Nevada,Pest Control Workers,640,15.3,0.456,0.84,21.64,45020,5.1
+Nevada,Landscaping and Groundskeeping Workers,10940,5.4,7.858,1.26,15.05,31310,1.5
+Nevada,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",**,**,**,**,15.69,32630,3.3
+Nevada,Tree Trimmers and Pruners,**,**,**,**,18.05,37540,4.4
+Nevada,"Grounds Maintenance Workers, All Other",40,30,0.028,0.29,25.21,52430,6.2
+Nevada,Personal Care and Service Occupations,70630,2.1,50.717,2.26,13.73,28560,1.2
+Nevada,First-Line Supervisors of Gambling Services Workers,6790,4.4,4.873,24.33,26.43,54970,2.5
+Nevada,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",2680,5.5,1.924,1.3,20.81,43280,2.6
+Nevada,Animal Trainers,50,26.2,0.033,0.3,15.24,31700,6
+Nevada,Animal Caretakers,1570,19.7,1.131,0.78,11.83,24600,1.9
+Nevada,Gambling Dealers,22580,3.1,16.21,24.08,9.01,18750,1.4
+Nevada,Gambling and Sports Book Writers and Runners,1400,25.6,1.007,14.82,12.37,25720,1.5
+Nevada,"Gambling Service Workers, All Other",3310,7.6,2.376,33.33,14.41,29980,2.7
+Nevada,Motion Picture Projectionists,**,**,**,**,13.13,27310,8.8
+Nevada,"Ushers, Lobby Attendants, and Ticket Takers",3500,8.6,2.511,2.67,10.95,22780,4.1
+Nevada,Amusement and Recreation Attendants,5100,6.5,3.661,1.59,11.33,23570,2
+Nevada,Costume Attendants,340,20.1,0.242,4.77,26.57,55260,5
+Nevada,"Locker Room, Coatroom, and Dressing Room Attendants",190,14.7,0.139,1.27,14.66,30500,6.9
+Nevada,"Entertainment Attendants and Related Workers, All Other",380,7.3,0.273,8.91,19.58,40730,4.5
+Nevada,Embalmers,**,**,**,**,14.7,30570,4.1
+Nevada,Funeral Attendants,40,17.3,0.03,0.13,15.19,31600,3.8
+Nevada,"Morticians, Undertakers, and Funeral Arrangers",220,20.8,0.154,0.89,21.01,43710,11.3
+Nevada,Barbers,**,**,**,**,11.93,24810,13.2
+Nevada,"Hairdressers, Hairstylists, and Cosmetologists",3200,15.6,2.301,0.88,10.98,22850,5.2
+Nevada,"Makeup Artists, Theatrical and Performance",40,12,0.03,1.31,20.99,43670,15.5
+Nevada,Manicurists and Pedicurists,360,33.7,0.256,0.34,11.64,24210,3.5
+Nevada,Skincare Specialists,690,18.2,0.498,1.29,15.43,32090,5.3
+Nevada,Baggage Porters and Bellhops,2120,6,1.52,5.61,13.72,28540,1.4
+Nevada,Concierges,1080,9,0.776,2.73,15.26,31740,2.2
+Nevada,Tour and Travel Guides,830,16.6,0.593,1.79,14.41,29960,4.4
+Nevada,Childcare Workers,4070,9,2.921,0.76,11.15,23190,4.4
+Nevada,Exercise Trainers and Group Fitness Instructors,3500,6.9,2.515,1.14,22.2,46170,3.2
+Nevada,Recreation Workers,3160,5.3,2.271,0.93,12.05,25070,10.5
+Nevada,Residential Advisors,320,17.7,0.23,0.31,15.16,31540,2.9
+Nevada,"Crematory Operators and Personal Care and Service Workers, All Other",2760,10.8,1.983,4.73,17.18,35740,2.2
+Nevada,Sales and Related Occupations,144680,2.1,103.883,1.06,17.85,37130,1.5
+Nevada,First-Line Supervisors of Retail Sales Workers,12060,3.4,8.662,1.09,22.14,46040,2
+Nevada,First-Line Supervisors of Non-Retail Sales Workers,1750,11.2,1.254,0.74,30.74,63940,3.4
+Nevada,Cashiers,37060,7.1,26.609,1.09,11.64,24210,1.1
+Nevada,Gambling Change Persons and Booth Cashiers,2350,31.1,1.691,11.66,12.42,25840,3.5
+Nevada,Counter and Rental Clerks,5180,8.4,3.719,1.33,14.6,30370,2.6
+Nevada,Parts Salespersons,2480,18.5,1.778,1.02,16.67,34670,3.7
+Nevada,Retail Salespersons,46920,5,33.689,1.15,13.79,28670,2
+Nevada,Advertising Sales Agents,640,13.1,0.458,0.52,36.63,76190,21.5
+Nevada,Insurance Sales Agents,3320,9,2.381,0.85,30.36,63160,16.6
+Nevada,"Securities, Commodities, and Financial Services Sales Agents",2520,10.3,1.81,0.61,31.91,66380,7
+Nevada,Travel Agents,880,24.6,0.633,1.39,18.87,39240,3.6
+Nevada,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",11130,7,7.989,1.13,28.67,59630,2.9
+Nevada,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",1300,15.4,0.937,0.45,44.78,93140,8.2
+Nevada,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",7710,5.1,5.537,0.6,31.44,65390,2.9
+Nevada,Demonstrators and Product Promoters,1560,20.5,1.12,2.12,16.16,33610,6.4
+Nevada,Real Estate Brokers,460,32.4,0.332,1.14,45.12,93850,10.2
+Nevada,Real Estate Sales Agents,2230,17.1,1.601,1.45,30.9,64280,7.1
+Nevada,Sales Engineers,**,**,**,**,50.97,106010,5.4
+Nevada,Telemarketers,3190,27.6,2.289,2.49,12.96,26960,3.5
+Nevada,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",**,**,**,**,13.37,27810,15.3
+Nevada,"Sales and Related Workers, All Other",1280,19.8,0.919,1.13,17.61,36630,5.6
+Nevada,Office and Administrative Support Occupations,185580,1.4,133.25,1,18.28,38030,0.6
+Nevada,First-Line Supervisors of Office and Administrative Support Workers,12420,2.7,8.921,0.88,25.32,52660,0.7
+Nevada,"Switchboard Operators, Including Answering Service",1550,18.7,1.111,2.4,15.6,32450,2.6
+Nevada,"Communications Equipment Operators, All Other",260,3.1,0.189,8.59,25.45,52930,5
+Nevada,Bill and Account Collectors,2220,15.7,1.598,0.99,18.33,38130,3.8
+Nevada,Billing and Posting Clerks,3610,11.3,2.591,0.82,18.92,39350,1.8
+Nevada,"Bookkeeping, Accounting, and Auditing Clerks",11320,3.6,8.13,0.79,19.29,40110,0.8
+Nevada,Gambling Cage Workers,2410,5.1,1.728,17.71,15.47,32180,1.8
+Nevada,Payroll and Timekeeping Clerks,1370,9.1,0.983,1.01,22.91,47640,1.3
+Nevada,Procurement Clerks,500,10.6,0.355,0.79,18.99,39490,2.1
+Nevada,Tellers,3440,5.9,2.471,0.82,15.3,31830,1.4
+Nevada,"Financial Clerks, All Other",1100,33.8,0.788,3.8,18.29,38030,3.6
+Nevada,Brokerage Clerks,290,30.1,0.211,0.65,21.55,44830,3.9
+Nevada,"Court, Municipal, and License Clerks",1470,1.4,1.054,1,22.76,47340,1.7
+Nevada,"Credit Authorizers, Checkers, and Clerks",380,12.3,0.273,1.5,17.97,37380,2
+Nevada,Customer Service Representatives,28200,6.4,20.247,1.02,16,33280,1.6
+Nevada,"Eligibility Interviewers, Government Programs",400,8,0.285,0.3,22.95,47740,2.9
+Nevada,File Clerks,1510,20.7,1.084,1.56,16.03,33340,1.9
+Nevada,"Hotel, Motel, and Resort Desk Clerks",5270,6.3,3.781,2.07,14.59,30350,1.9
+Nevada,"Interviewers, Except Eligibility and Loan",3390,8.6,2.434,1.9,15.32,31860,7.5
+Nevada,"Library Assistants, Clerical",560,1.7,0.404,0.69,17.65,36720,3.4
+Nevada,Loan Interviewers and Clerks,2850,16.1,2.046,1.44,18.97,39450,2.6
+Nevada,New Accounts Clerks,100,41.1,0.073,0.25,17.87,37170,8.2
+Nevada,Order Clerks,1760,13.3,1.263,1.35,17.56,36530,3.7
+Nevada,"Human Resources Assistants, Except Payroll and Timekeeping",1360,9.9,0.976,1.22,18.39,38250,1.9
+Nevada,Receptionists and Information Clerks,9740,6.1,6.993,0.97,14.26,29660,1
+Nevada,Reservation and Transportation Ticket Agents and Travel Clerks,3160,7.4,2.267,2.69,17.39,36170,3.8
+Nevada,"Information and Record Clerks, All Other",2220,8,1.591,1.52,17.5,36400,3.1
+Nevada,Cargo and Freight Agents,1090,20.6,0.781,1.2,18.76,39020,6.1
+Nevada,Couriers and Messengers,1220,14.9,0.877,1.72,14.84,30870,3.4
+Nevada,Public Safety Telecommunicators,510,4.8,0.368,0.57,26.1,54280,2.4
+Nevada,"Dispatchers, Except Police, Fire, and Ambulance",2390,7.7,1.718,1.27,18.26,37980,2.5
+Nevada,"Meter Readers, Utilities",80,4.2,0.056,0.27,27.95,58130,2.6
+Nevada,Postal Service Clerks,490,0,0.355,0.64,23.78,49450,1.7
+Nevada,Postal Service Mail Carriers,2530,0,1.818,0.79,25.4,52830,2.8
+Nevada,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",790,0,0.57,0.82,23.95,49810,2.3
+Nevada,"Production, Planning, and Expediting Clerks",2140,6.2,1.538,0.61,22.15,46080,1.9
+Nevada,"Shipping, Receiving, and Inventory Clerks",6930,5,4.974,1.04,16.88,35120,1.5
+Nevada,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",610,20.7,0.435,1.05,15.58,32410,3.3
+Nevada,Executive Secretaries and Executive Administrative Assistants,2190,6.2,1.571,0.43,31.58,65680,1.4
+Nevada,Legal Secretaries and Administrative Assistants,2170,9.2,1.559,1.36,22.24,46260,4.2
+Nevada,Medical Secretaries and Administrative Assistants,3310,8,2.379,0.58,18.72,38930,2
+Nevada,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",16530,2.5,11.872,0.86,19.46,40480,0.9
+Nevada,Data Entry Keyers,1360,15.2,0.974,0.89,15.28,31780,1.6
+Nevada,Word Processors and Typists,110,5.3,0.081,0.25,14.51,30180,3.8
+Nevada,Insurance Claims and Policy Processing Clerks,1530,14.2,1.099,0.63,19.88,41350,2.8
+Nevada,"Mail Clerks and Mail Machine Operators, Except Postal Service",610,18.4,0.438,0.77,16.12,33530,2.8
+Nevada,"Office Clerks, General",28800,2.7,20.679,1.03,17.78,36980,0.9
+Nevada,"Office Machine Operators, Except Computer",370,25.2,0.265,0.85,15.39,32000,3.2
+Nevada,Proofreaders and Copy Markers,90,24.8,0.061,1.17,20.63,42920,7.9
+Nevada,"Office and Administrative Support Workers, All Other",6360,4.9,4.565,3.56,14.54,30240,1.6
+Nevada,"Farming, Fishing, and Forestry Occupations",1050,17.9,0.751,0.23,17.48,36350,6.6
+Nevada,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",150,14.8,0.109,0.71,24.62,51200,5.2
+Nevada,Agricultural Inspectors,30,28.9,0.023,0.24,15.82,32900,3
+Nevada,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",560,28.1,0.403,0.2,14.12,29380,6.2
+Nevada,"Farmworkers, Farm, Ranch, and Aquacultural Animals",150,27.3,0.11,0.44,17.72,36850,10.7
+Nevada,"Agricultural Workers, All Other",100,29.5,0.07,1.58,*,*,*
+Nevada,Construction and Extraction Occupations,80540,2.5,57.832,1.37,25.11,52220,1.3
+Nevada,First-Line Supervisors of Construction Trades and Extraction Workers,6480,5.2,4.65,1.09,34.2,71130,1.6
+Nevada,Boilermakers,80,41.3,0.057,0.53,22.02,45790,5.9
+Nevada,Brickmasons and Blockmasons,900,24.9,0.644,1.56,24.59,51150,4.5
+Nevada,Stonemasons,430,30.3,0.306,3.63,28.41,59090,7.4
+Nevada,Carpenters,12400,6.1,8.904,1.78,25.57,53180,2
+Nevada,Carpet Installers,1150,17.9,0.828,4.68,24.61,51190,5
+Nevada,"Floor Layers, Except Carpet, Wood, and Hard Tiles",330,43.2,0.239,2.16,23.68,49260,3.4
+Nevada,Floor Sanders and Finishers,**,**,**,**,18.16,37770,6.2
+Nevada,Tile and Stone Setters,1490,26,1.069,3.88,22.3,46380,3
+Nevada,Cement Masons and Concrete Finishers,2640,12.4,1.894,1.42,26.35,54810,5.1
+Nevada,Construction Laborers,11220,6,8.057,1.16,18.18,37810,1.9
+Nevada,"Paving, Surfacing, and Tamping Equipment Operators",450,19.2,0.321,1.03,26.76,55660,7
+Nevada,Operating Engineers and Other Construction Equipment Operators,4060,11.2,2.918,1.06,27.04,56250,2.2
+Nevada,Drywall and Ceiling Tile Installers,2930,12.8,2.105,3.01,19.97,41540,7.5
+Nevada,Tapers,740,16.8,0.529,4.32,23.92,49760,11.6
+Nevada,Electricians,7200,5.6,5.169,1.1,31.2,64890,3.1
+Nevada,Glaziers,650,15.5,0.464,1.3,21.97,45690,9.2
+Nevada,"Insulation Workers, Mechanical",130,44,0.095,0.52,37.57,78150,4.3
+Nevada,"Painters, Construction and Maintenance",3890,13.9,2.793,1.76,22.2,46180,2.7
+Nevada,Paperhangers,110,43.2,0.078,3.39,16.03,33330,11.2
+Nevada,Pipelayers,600,43.7,0.429,1.74,23.27,48410,4.9
+Nevada,"Plumbers, Pipefitters, and Steamfitters",4690,13.4,3.367,1.12,29.68,61730,5.4
+Nevada,Plasterers and Stucco Masons,2010,11,1.445,7.76,20.01,41620,6.4
+Nevada,Reinforcing Iron and Rebar Workers,380,42.7,0.276,2.15,24.31,50560,5.1
+Nevada,Roofers,1940,9.6,1.393,1.58,20.58,42810,3.9
+Nevada,Sheet Metal Workers,1210,17.8,0.869,0.97,27.43,57060,7.8
+Nevada,Structural Iron and Steel Workers,670,24.6,0.482,0.92,19.88,41350,9.3
+Nevada,Solar Photovoltaic Installers,210,41.3,0.15,1.99,21.99,45740,2.2
+Nevada,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",430,17.1,0.305,1.91,18.02,37470,6.8
+Nevada,Helpers--Carpenters,360,28.1,0.261,1.16,14.85,30880,4.9
+Nevada,Helpers--Electricians,580,34.2,0.415,0.77,15.76,32770,3.6
+Nevada,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",470,15.4,0.337,4.56,15.09,31390,6.5
+Nevada,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",470,23.5,0.334,0.84,13.76,28620,3.4
+Nevada,Helpers--Roofers,**,**,**,**,17.32,36020,18.3
+Nevada,"Helpers, Construction Trades, All Other",100,25.5,0.069,0.36,17.31,35990,6.1
+Nevada,Construction and Building Inspectors,850,11.4,0.611,0.81,36.82,76580,4.6
+Nevada,Fence Erectors,440,35,0.315,1.79,18.49,38460,1.9
+Nevada,Hazardous Materials Removal Workers,260,33.7,0.189,0.63,20.61,42870,4.3
+Nevada,Highway Maintenance Workers,640,0.8,0.456,0.44,21.57,44870,1.2
+Nevada,Rail-Track Laying and Maintenance Equipment Operators,70,19.6,0.048,0.43,27.08,56340,2.6
+Nevada,Septic Tank Servicers and Sewer Pipe Cleaners,170,33.3,0.122,0.6,19.35,40250,7.2
+Nevada,Miscellaneous Construction and Related Workers,530,23.4,0.379,1.74,20.42,42470,3.2
+Nevada,"Excavating and Loading Machine and Dragline Operators, Surface Mining",230,24.2,0.167,0.56,29.22,60770,12.1
+Nevada,Continuous Mining Machine Operators,2530,9.9,1.818,18.25,31.12,64730,2.2
+Nevada,Helpers--Extraction Workers,560,22.2,0.404,3.55,19.62,40810,4.3
+Nevada,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",1320,20.3,0.948,5.58,24.38,50710,2.2
+Nevada,"Underground Mining Machine Operators and Extraction Workers, All Other",880,49.9,0.63,6.71,27.36,56910,2.2
+Nevada,"Installation, Maintenance, and Repair Occupations",53020,2.4,38.07,0.98,25.38,52790,1.1
+Nevada,"First-Line Supervisors of Mechanics, Installers, and Repairers",4090,4.4,2.935,0.89,35.71,74270,2.7
+Nevada,"Computer, Automated Teller, and Office Machine Repairers",1100,24.8,0.791,1.18,21.13,43960,12.2
+Nevada,"Radio, Cellular, and Tower Equipment Installers and Repairers",140,41.3,0.101,1.03,26.39,54880,11.4
+Nevada,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1230,22.4,0.88,0.62,26.74,55620,5.3
+Nevada,Avionics Technicians,310,19.9,0.219,1.48,31.15,64790,3.2
+Nevada,"Electric Motor, Power Tool, and Related Repairers",190,47.2,0.138,1.28,17.79,37010,9.4
+Nevada,"Electrical and Electronics Installers and Repairers, Transportation Equipment",40,7.6,0.028,0.42,39.23,81600,4.9
+Nevada,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",420,17.3,0.302,0.75,36.39,75700,8.5
+Nevada,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",140,31.1,0.102,0.66,44.29,92130,4
+Nevada,Audiovisual Equipment Installers and Repairers,**,**,**,**,18.67,38840,3.6
+Nevada,Security and Fire Alarm Systems Installers,510,21.7,0.367,0.75,26.86,55870,3.3
+Nevada,Aircraft Mechanics and Service Technicians,2010,13.5,1.443,1.59,37.98,79010,3.2
+Nevada,Automotive Body and Related Repairers,1070,12.8,0.767,0.78,21.63,44980,3.4
+Nevada,Automotive Glass Installers and Repairers,290,36.5,0.209,1.58,17.36,36110,4.6
+Nevada,Automotive Service Technicians and Mechanics,4890,6,3.511,0.79,22.62,47040,3.2
+Nevada,Bus and Truck Mechanics and Diesel Engine Specialists,1890,14.8,1.354,0.75,27.01,56190,3.4
+Nevada,Farm Equipment Mechanics and Service Technicians,70,24.2,0.051,0.21,22.98,47800,7.1
+Nevada,"Mobile Heavy Equipment Mechanics, Except Engines",2180,9.2,1.562,1.55,31.87,66290,2
+Nevada,Motorboat Mechanics and Service Technicians,80,38,0.056,0.36,20.52,42670,6.4
+Nevada,Motorcycle Mechanics,180,24.5,0.127,1.2,24.46,50880,5.9
+Nevada,Outdoor Power Equipment and Other Small Engine Mechanics,**,**,**,**,16.92,35190,5.1
+Nevada,Bicycle Repairers,50,39.2,0.038,0.42,15.55,32350,5.6
+Nevada,Recreational Vehicle Service Technicians,290,25.7,0.209,1.97,23.63,49160,3.2
+Nevada,Tire Repairers and Changers,1230,13,0.882,1.17,14.18,29500,4.3
+Nevada,Mechanical Door Repairers,270,39.4,0.192,1.23,22.95,47730,6.2
+Nevada,"Control and Valve Installers and Repairers, Except Mechanical Door",230,16.8,0.162,0.46,27.48,57150,4.8
+Nevada,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",2600,17.8,1.869,0.8,25.97,54010,3.9
+Nevada,Home Appliance Repairers,**,**,**,**,21.02,43730,4.5
+Nevada,Industrial Machinery Mechanics,2190,10.2,1.573,0.6,27.14,56450,2.9
+Nevada,"Maintenance Workers, Machinery",390,15.7,0.28,0.56,27.14,56450,3.9
+Nevada,Millwrights,**,**,**,**,29.79,61960,3.7
+Nevada,Electrical Power-Line Installers and Repairers,710,15.4,0.508,0.67,34.98,72770,5.9
+Nevada,Telecommunications Line Installers and Repairers,1120,22.1,0.804,0.98,19.63,40820,8.7
+Nevada,Medical Equipment Repairers,460,19.1,0.333,1.05,28.1,58460,5.2
+Nevada,"Precision Instrument and Equipment Repairers, All Other",100,36.8,0.071,0.99,37.88,78790,6
+Nevada,"Maintenance and Repair Workers, General",15780,3.2,11.332,1.17,22.76,47340,1.9
+Nevada,"Coin, Vending, and Amusement Machine Servicers and Repairers",1510,12.3,1.086,5.08,20.91,43480,1.8
+Nevada,Locksmiths and Safe Repairers,310,27.9,0.221,1.91,23.4,48660,6.1
+Nevada,Riggers,350,37.6,0.248,1.58,24.91,51810,11.2
+Nevada,"Helpers--Installation, Maintenance, and Repair Workers",910,14.9,0.65,0.96,15.57,32390,4.8
+Nevada,"Installation, Maintenance, and Repair Workers, All Other",2260,13.6,1.621,1.48,24.38,50720,2.5
+Nevada,Production Occupations,55000,2.5,39.49,0.63,18.28,38020,1.1
+Nevada,First-Line Supervisors of Production and Operating Workers,3620,4.8,2.6,0.61,30.04,62470,1.7
+Nevada,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",5790,2.3,4.16,2.14,16.24,33790,4.1
+Nevada,Engine and Other Machine Assemblers,**,**,**,**,25.12,52240,4.2
+Nevada,Structural Metal Fabricators and Fitters,330,35.4,0.238,0.45,21.03,43750,5.4
+Nevada,Fiberglass Laminators and Fabricators,70,45.9,0.052,0.38,14.03,29190,7.7
+Nevada,Miscellaneous Assemblers and Fabricators,5100,10.3,3.665,0.39,15.28,31780,1.4
+Nevada,Bakers,2200,8.6,1.578,1.25,15.46,32160,3.2
+Nevada,Butchers and Meat Cutters,900,8.2,0.647,0.69,19.06,39640,3.5
+Nevada,"Meat, Poultry, and Fish Cutters and Trimmers",590,38.9,0.427,0.41,14.07,29270,3.5
+Nevada,Slaughterers and Meat Packers,**,**,**,**,15.66,32560,11.2
+Nevada,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",**,**,**,**,13.27,27600,10.9
+Nevada,Food Batchmakers,1440,14.7,1.036,0.95,13.64,28360,3.8
+Nevada,Food Cooking Machine Operators and Tenders,**,**,**,**,14.12,29370,10.3
+Nevada,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",510,33.3,0.367,0.7,16.8,34950,3.1
+Nevada,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",120,45.7,0.089,0.4,23.84,49600,12
+Nevada,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",580,10.9,0.416,0.31,17.26,35900,2.3
+Nevada,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",260,17.8,0.186,0.36,15.59,32420,2.7
+Nevada,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",40,28.3,0.031,0.16,17.24,35860,7.4
+Nevada,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,23.73,49370,4.9
+Nevada,Machinists,1170,12.7,0.843,0.32,20.35,42330,2.3
+Nevada,Metal-Refining Furnace Operators and Tenders,160,43.4,0.114,0.98,25.39,52820,12.7
+Nevada,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",500,30.4,0.362,0.31,16.88,35110,3.9
+Nevada,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2710,8.6,1.945,1.94,16.84,35030,4.7
+Nevada,Tool and Die Makers,180,15.8,0.128,0.27,27.95,58140,2.5
+Nevada,"Welders, Cutters, Solderers, and Brazers",1650,9.1,1.184,0.42,23.22,48290,2.8
+Nevada,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",110,27.8,0.083,0.35,17.79,37010,7.7
+Nevada,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,17.64,36700,11.6
+Nevada,"Metal Workers and Plastic Workers, All Other",80,22.1,0.054,0.33,16.45,34220,4.7
+Nevada,Prepress Technicians and Workers,220,16.3,0.157,0.76,21.77,45270,3.4
+Nevada,Printing Press Operators,1910,12.7,1.374,1.16,17.12,35600,3.4
+Nevada,Print Binding and Finishing Workers,120,34.6,0.089,0.29,14.81,30810,8.5
+Nevada,Laundry and Dry-Cleaning Workers,4090,9.5,2.939,2.06,12.19,25360,1.6
+Nevada,"Pressers, Textile, Garment, and Related Materials",620,5,0.447,1.72,11.74,24420,2
+Nevada,Sewing Machine Operators,910,14.1,0.654,0.72,14.53,30230,3.3
+Nevada,Shoe and Leather Workers and Repairers,**,**,**,**,17.48,36360,16.3
+Nevada,"Tailors, Dressmakers, and Custom Sewers",220,19.1,0.156,0.95,19.62,40810,9.8
+Nevada,"Textile Cutting Machine Setters, Operators, and Tenders",60,41.9,0.041,0.46,12.17,25300,4.1
+Nevada,Upholsterers,290,27.1,0.205,1.02,18.1,37640,2.9
+Nevada,"Textile, Apparel, and Furnishings Workers, All Other",**,**,**,**,12.84,26700,9.6
+Nevada,Cabinetmakers and Bench Carpenters,960,20.5,0.686,1.01,18.76,39020,3.4
+Nevada,Furniture Finishers,70,34.5,0.05,0.45,17.16,35700,7.1
+Nevada,"Sawing Machine Setters, Operators, and Tenders, Wood",**,**,**,**,14.71,30610,6.5
+Nevada,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",410,13.1,0.294,0.55,17.6,36610,12.3
+Nevada,Power Distributors and Dispatchers,140,19.1,0.097,1.33,50.77,105610,2.1
+Nevada,Power Plant Operators,410,18.1,0.297,1.3,41.03,85330,6.1
+Nevada,Stationary Engineers and Boiler Operators,50,13.7,0.037,0.17,32.31,67190,2.3
+Nevada,Water and Wastewater Treatment Plant and System Operators,**,**,**,**,32.68,67970,4.1
+Nevada,Chemical Plant and System Operators,60,32.6,0.043,0.22,26.62,55370,3.2
+Nevada,"Plant and System Operators, All Other",100,28.8,0.073,0.83,28.87,60060,3.5
+Nevada,Chemical Equipment Operators and Tenders,50,42.7,0.036,0.06,22.97,47780,11.1
+Nevada,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",350,19,0.254,0.73,29.79,61960,5.1
+Nevada,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",230,32.3,0.168,0.74,27.63,57480,6
+Nevada,"Grinding and Polishing Workers, Hand",190,20.8,0.134,0.68,14.1,29320,5.7
+Nevada,"Mixing and Blending Machine Setters, Operators, and Tenders",1060,15.8,0.76,0.89,21.75,45240,4
+Nevada,"Cutting and Slicing Machine Setters, Operators, and Tenders",330,26.6,0.238,0.6,17.95,37330,4.2
+Nevada,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",230,38.7,0.168,0.34,18.28,38020,5
+Nevada,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",40,27.8,0.026,0.2,22.04,45850,3
+Nevada,"Inspectors, Testers, Sorters, Samplers, and Weighers",3540,9.2,2.544,0.65,19.62,40800,3.4
+Nevada,Jewelers and Precious Stone and Metal Workers,230,35.4,0.162,1.01,24.2,50330,4.3
+Nevada,Dental Laboratory Technicians,210,29.4,0.153,0.65,20.49,42620,5.8
+Nevada,Medical Appliance Technicians,110,27,0.078,0.81,21.1,43890,6.5
+Nevada,Ophthalmic Laboratory Technicians,240,38.5,0.172,0.87,14.66,30500,4.2
+Nevada,Packaging and Filling Machine Operators and Tenders,2150,15.5,1.541,0.58,14.01,29140,1.8
+Nevada,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",720,9.9,0.519,0.52,17.95,37340,3.8
+Nevada,Photographic Process Workers and Processing Machine Operators,250,48.6,0.178,2.19,18.53,38550,4.5
+Nevada,Computer Numerically Controlled Tool Operators,580,14.2,0.417,0.4,20.71,43070,3.6
+Nevada,Computer Numerically Controlled Tool Programmers,180,7.4,0.127,0.73,21.82,45380,9.6
+Nevada,Adhesive Bonding Machine Operators and Tenders,40,16.5,0.028,0.3,15.1,31400,9.2
+Nevada,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",70,36.2,0.048,0.43,15.84,32950,5
+Nevada,Etchers and Engravers,40,16.8,0.03,0.42,14.12,29380,14.9
+Nevada,"Molders, Shapers, and Casters, Except Metal and Plastic",650,24.1,0.463,1.52,15.91,33080,4
+Nevada,"Paper Goods Machine Setters, Operators, and Tenders",330,26.6,0.24,0.35,19.88,41360,4.8
+Nevada,Helpers--Production Workers,680,17.2,0.488,0.24,13.75,28590,3.5
+Nevada,"Production Workers, All Other",**,**,**,**,16.77,34890,4.7
+Nevada,Transportation and Material Moving Occupations,127440,2.1,91.508,1.07,18.81,39130,3.6
+Nevada,Aircraft Cargo Handling Supervisors,110,35.5,0.077,1.19,26.86,55860,10.9
+Nevada,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",4070,6.1,2.919,0.94,26.97,56090,1.3
+Nevada,"Airline Pilots, Copilots, and Flight Engineers",1680,21.3,1.208,2.1,*,234750,11.5
+Nevada,Commercial Pilots,670,22.5,0.48,1.86,*,97250,5.3
+Nevada,Air Traffic Controllers,230,15.5,0.162,1.08,58.47,121630,4.5
+Nevada,Airfield Operations Specialists,70,32,0.052,0.72,40.66,84570,2.3
+Nevada,Flight Attendants,3180,20.3,2.285,2.78,*,56650,3.3
+Nevada,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",60,42,0.04,0.4,21.28,44270,22.1
+Nevada,Driver/Sales Workers,3100,18.8,2.229,0.74,15.17,31540,7.4
+Nevada,Heavy and Tractor-Trailer Truck Drivers,12320,5.5,8.843,0.7,24.58,51140,1.9
+Nevada,Light Truck Drivers,5870,6.4,4.215,0.67,18.52,38510,3.9
+Nevada,"Bus Drivers, Transit and Intercity",2620,12.5,1.882,1.54,18.38,38230,3.7
+Nevada,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",10370,4.8,7.445,1.56,13.64,28380,5.8
+Nevada,"Motor Vehicle Operators, All Other",770,26.7,0.552,1.43,15.61,32460,6.1
+Nevada,Locomotive Engineers,190,3.1,0.139,0.57,47.85,99520,2.4
+Nevada,Railroad Conductors and Yardmasters,180,2,0.131,0.42,33.83,70360,3.6
+Nevada,Parking Attendants,3220,11.1,2.314,2.31,12.5,25990,1.5
+Nevada,Automotive and Watercraft Service Attendants,1340,16.3,0.966,1.21,12.67,26360,3.8
+Nevada,Transportation Inspectors,**,**,**,**,22.15,46070,18.8
+Nevada,Passenger Attendants,300,10.3,0.213,1.11,15.83,32920,4.2
+Nevada,"Aircraft Service Attendants and Transportation Workers, All Other",1330,23.9,0.952,4,20.87,43400,6.1
+Nevada,Conveyor Operators and Tenders,**,**,**,**,17.37,36120,5.4
+Nevada,Crane and Tower Operators,240,39.3,0.175,0.56,32.53,67660,7.1
+Nevada,Industrial Truck and Tractor Operators,4850,15.8,3.483,0.81,19.08,39680,1.7
+Nevada,Cleaners of Vehicles and Equipment,4390,12.2,3.152,1.21,12.12,25210,2.7
+Nevada,"Laborers and Freight, Stock, and Material Movers, Hand",37000,5.6,26.565,1.32,16.69,34720,1.9
+Nevada,Machine Feeders and Offbearers,220,42.4,0.157,0.37,14.71,30600,4.1
+Nevada,"Packers and Packagers, Hand",5500,9.5,3.95,0.92,12.29,25570,1.7
+Nevada,Stockers and Order Fillers,21630,9.7,15.534,1.07,14.42,30000,1.8
+Nevada,Refuse and Recyclable Material Collectors,980,39.9,0.703,0.85,19.48,40510,4.7
+Nevada,"Material Moving Workers, All Other",170,24.2,0.124,0.65,18.15,37750,10.6

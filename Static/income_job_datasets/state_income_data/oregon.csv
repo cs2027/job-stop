@@ -1,0 +1,747 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Oregon,All Occupations,1905860,0.5,1000,1,25.91,53890,0.7
+Oregon,Management Occupations,116150,1.2,60.942,1.11,51.1,106290,0.8
+Oregon,Chief Executives,1210,6.8,0.634,0.45,101.93,212010,3
+Oregon,General and Operations Managers,34050,2,17.865,1.09,52.55,109300,1.2
+Oregon,Legislators,180,4.5,0.096,0.27,*,40080,8.5
+Oregon,Advertising and Promotions Managers,260,13.2,0.137,0.8,49.96,103930,8.9
+Oregon,Marketing Managers,4670,4.9,2.448,1.36,58.48,121630,2.1
+Oregon,Sales Managers,5810,4.8,3.049,1.11,61.07,127030,1.7
+Oregon,Public Relations and Fundraising Managers,1480,7.9,0.778,1.44,45.74,95140,2.6
+Oregon,Administrative Services and Facilities Managers,4510,2.4,2.369,1.13,45.29,94210,0.8
+Oregon,Computer and Information Systems Managers,5630,5.1,2.953,1,63.18,131410,1.2
+Oregon,Financial Managers,8050,3.3,4.225,0.95,58.84,122380,1.3
+Oregon,Industrial Production Managers,2930,5,1.535,1.21,47.66,99120,1.3
+Oregon,Purchasing Managers,1340,3.5,0.703,1.43,51.99,108150,2
+Oregon,"Transportation, Storage, and Distribution Managers",2090,5.1,1.098,1.22,44.52,92600,2
+Oregon,Compensation and Benefits Managers,150,8,0.079,0.69,52.38,108940,2.5
+Oregon,Human Resources Managers,2390,2.8,1.257,1.19,50.51,105070,1.1
+Oregon,Training and Development Managers,380,7.2,0.198,0.76,48.98,101880,2.5
+Oregon,"Farmers, Ranchers, and Other Agricultural Managers",100,22.8,0.054,1.56,33.77,70250,4.8
+Oregon,Construction Managers,5020,4.4,2.632,1.32,48.19,100240,2.4
+Oregon,"Education and Childcare Administrators, Preschool and Daycare",**,**,**,**,22.39,46580,3.5
+Oregon,"Education Administrators, Kindergarten through Secondary",3540,4.1,1.856,1.01,*,106360,1.6
+Oregon,"Education Administrators, Postsecondary",1590,5,0.833,0.84,51.92,107990,3.6
+Oregon,"Education Administrators, All Other",440,8.6,0.231,0.76,28.73,59770,2.9
+Oregon,Architectural and Engineering Managers,3720,8.3,1.953,1.48,65.28,135790,1.1
+Oregon,Food Service Managers,3260,6.8,1.711,1.07,25.82,53710,2.1
+Oregon,Gambling Managers,40,25.4,0.022,0.74,35.45,73740,4
+Oregon,Lodging Managers,1120,14.8,0.586,2.25,25.4,52820,6
+Oregon,Medical and Health Services Managers,4670,4,2.449,0.91,58.51,121690,1.9
+Oregon,Natural Sciences Managers,1100,5,0.575,1.25,54.46,113270,1.4
+Oregon,Postmasters and Mail Superintendents,220,0,0.115,1.22,35.43,73690,0.7
+Oregon,"Property, Real Estate, and Community Association Managers",3230,11.5,1.693,1.13,27.73,57680,4.1
+Oregon,Social and Community Service Managers,3710,4.5,1.946,1.83,31.44,65390,2.2
+Oregon,Emergency Management Directors,110,9.3,0.056,0.82,39.17,81470,2.3
+Oregon,Funeral Home Managers,50,17.9,0.027,0.43,39.74,82650,10.9
+Oregon,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",7840,3.5,4.115,1.28,46.9,97560,1.9
+Oregon,Business and Financial Operations Occupations,99080,1.3,51.987,0.93,35.37,73570,1
+Oregon,"Agents and Business Managers of Artists, Performers, and Athletes",110,22.6,0.06,0.52,36.95,76860,17
+Oregon,Buyers and Purchasing Agents,5790,3.3,3.039,1.06,30.26,62950,1.7
+Oregon,"Claims Adjusters, Examiners, and Investigators",3410,7,1.788,0.91,33.44,69550,1.4
+Oregon,"Insurance Appraisers, Auto Damage",250,44.1,0.129,1.38,33.72,70150,2.7
+Oregon,Compliance Officers,3480,4.7,1.827,0.84,33.81,70320,2.7
+Oregon,Cost Estimators,3160,4.8,1.657,1.16,34.27,71270,1.5
+Oregon,Human Resources Specialists,7490,3.3,3.93,0.91,29.99,62380,1.3
+Oregon,Labor Relations Specialists,990,5.4,0.521,1.01,40.4,84030,5.4
+Oregon,Logisticians,2510,7.9,1.317,1.06,36.44,75800,3.1
+Oregon,Management Analysts,7650,4.3,4.014,0.83,43.55,90580,2.7
+Oregon,"Meeting, Convention, and Event Planners",1450,6.7,0.763,0.95,25.31,52650,2.1
+Oregon,Fundraisers,1080,11.9,0.567,1.02,26.01,54090,4.1
+Oregon,"Compensation, Benefits, and Job Analysis Specialists",920,5.2,0.482,0.79,33.82,70340,2.8
+Oregon,Training and Development Specialists,4260,5,2.235,1.05,31.34,65190,1.8
+Oregon,Market Research Analysts and Marketing Specialists,7650,4.5,4.016,0.87,35.93,74730,4.1
+Oregon,"Project Management Specialists and Business Operations Specialists, All Other",20030,2.4,10.511,1.21,35.27,73350,1.3
+Oregon,Accountants and Auditors,12420,2.9,6.516,0.75,35.18,73180,1.1
+Oregon,Property Appraisers and Assessors,810,17.3,0.423,1.1,35.43,73690,4.1
+Oregon,Budget Analysts,740,3.3,0.388,1.11,36.41,75740,1.4
+Oregon,Credit Analysts,740,16.2,0.39,0.78,36.18,75240,3.3
+Oregon,Personal Financial Advisors,2090,8.3,1.095,0.77,57.13,118840,7.6
+Oregon,Insurance Underwriters,750,24,0.395,0.58,36.35,75610,2.1
+Oregon,Financial Examiners,850,7.4,0.447,1.02,35.97,74810,5.4
+Oregon,Credit Counselors,410,9.1,0.216,0.99,23.94,49800,2.8
+Oregon,Loan Officers,4300,4.9,2.258,1.08,36.79,76510,3
+Oregon,"Tax Examiners and Collectors, and Revenue Agents",310,0.1,0.163,0.45,28.38,59030,2.1
+Oregon,Tax Preparers,1020,14.3,0.533,1.17,24.4,50750,5
+Oregon,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",4400,7.5,2.31,0.74,40.55,84340,2.2
+Oregon,Computer and Mathematical Occupations,54320,2.5,28.504,0.92,42.54,88490,1.3
+Oregon,Computer Systems Analysts,6300,4.9,3.304,0.82,45.52,94690,1.7
+Oregon,Information Security Analysts,1020,13.3,0.534,0.62,47.38,98550,1.7
+Oregon,Computer and Information Research Scientists,220,26.4,0.113,0.54,64.67,134510,8
+Oregon,Computer Network Support Specialists,1680,10.8,0.879,0.7,28.71,59710,2.3
+Oregon,Computer User Support Specialists,8410,5.3,4.411,1,27.34,56870,1.6
+Oregon,Computer Network Architects,1080,6.2,0.568,0.55,53.9,112110,1.7
+Oregon,Network and Computer Systems Administrators,4630,6.6,2.427,1.01,41.04,85370,1.1
+Oregon,Database Administrators and Architects,1380,16.1,0.723,0.85,45.1,93810,1.6
+Oregon,Computer Programmers,1920,7.6,1.007,0.74,38.83,80760,2.8
+Oregon,Software Developers and Software Quality Assurance Analysts and Testers,18200,4.1,9.548,1,50.13,104260,1.2
+Oregon,Web Developers and Digital Interface Designers,2410,10.3,1.266,1.25,*,*,*
+Oregon,"Computer Occupations, All Other",4760,5.7,2.495,0.93,38.73,80570,1.9
+Oregon,Actuaries,210,8.4,0.109,0.72,52.74,109690,6.2
+Oregon,Operations Research Analysts,1200,4.3,0.629,0.93,43.43,90340,2.3
+Oregon,Statisticians,620,7.6,0.324,1.22,39.09,81310,2.3
+Oregon,"Data Scientists and Mathematical Science Occupations, All Other",320,25.9,0.165,0.79,38.82,80750,6.8
+Oregon,Architecture and Engineering Occupations,43180,3.6,22.657,1.28,40.02,83250,0.8
+Oregon,"Architects, Except Landscape and Naval",2080,10.8,1.092,1.51,40.67,84590,2.4
+Oregon,Landscape Architects,270,24.1,0.141,1.02,31.58,65680,2.5
+Oregon,Cartographers and Photogrammetrists,360,10.1,0.188,2.44,33.41,69500,2.1
+Oregon,Surveyors,780,10.1,0.407,1.32,33.18,69010,1.8
+Oregon,Aerospace Engineers,170,14.7,0.09,0.21,56.05,116580,9.7
+Oregon,Bioengineers and Biomedical Engineers,290,23.8,0.154,1.14,45.39,94410,2
+Oregon,Chemical Engineers,340,17.5,0.178,0.87,48.9,101710,2.9
+Oregon,Civil Engineers,4550,8,2.385,1.13,43.67,90830,1.5
+Oregon,Computer Hardware Engineers,1400,30.7,0.737,1.59,55.11,114630,3.8
+Oregon,Electrical Engineers,2870,7.3,1.505,1.19,43.52,90510,2
+Oregon,"Electronics Engineers, Except Computer",5000,19.6,2.625,2.99,46.21,96120,2.6
+Oregon,Environmental Engineers,640,8.2,0.338,0.93,49.65,103260,2
+Oregon,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",150,6.6,0.079,0.45,44.27,92080,3.3
+Oregon,Industrial Engineers,4450,5.7,2.333,1.17,44.57,92700,1.7
+Oregon,Marine Engineers and Naval Architects,40,18.9,0.019,0.24,*,*,*
+Oregon,Materials Engineers,540,18.2,0.285,1.56,44.66,92900,1.9
+Oregon,Mechanical Engineers,3790,6.9,1.986,0.95,43.55,90580,1.5
+Oregon,"Mining and Geological Engineers, Including Mining Safety Engineers",150,37.3,0.078,1.83,42.4,88180,6.4
+Oregon,"Engineers, All Other",2700,7.5,1.418,1.37,44.26,92060,1.7
+Oregon,Architectural and Civil Drafters,1560,12,0.82,1.22,29.05,60420,2.3
+Oregon,Electrical and Electronics Drafters,350,16.9,0.182,1.11,36.23,75370,3.6
+Oregon,Mechanical Drafters,520,11,0.275,0.73,29.52,61410,3.1
+Oregon,"Drafters, All Other",890,12.1,0.468,4.71,28.16,58570,2.5
+Oregon,Civil Engineering Technologists and Technicians,1190,9.9,0.624,1.33,31.4,65320,1.3
+Oregon,Electrical and Electronic Engineering Technologists and Technicians,3160,13.1,1.656,1.98,30.76,63990,1.4
+Oregon,Electro-Mechanical and Mechatronics Technologists and Technicians,100,14.4,0.055,0.57,27.52,57230,6.3
+Oregon,Environmental Engineering Technologists and Technicians,270,9.8,0.14,1.14,28.89,60090,4.5
+Oregon,Industrial Engineering Technologists and Technicians,**,**,**,**,28.99,60290,2
+Oregon,Mechanical Engineering Technologists and Technicians,510,16.2,0.265,0.91,25.61,53260,2.2
+Oregon,Surveying and Mapping Technicians,920,11.9,0.484,1.34,27.13,56440,1.7
+Oregon,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",1380,4.7,0.724,1.2,27.93,58100,1.9
+Oregon,"Life, Physical, and Social Science Occupations",21310,2.1,11.179,1.27,34.35,71440,2.3
+Oregon,Food Scientists and Technologists,310,7.2,0.164,1.79,34.52,71810,3
+Oregon,Soil and Plant Scientists,510,10.4,0.265,2.75,38.77,80630,5
+Oregon,Biochemists and Biophysicists,80,18.9,0.041,0.19,37.44,77870,6.4
+Oregon,Microbiologists,150,28.2,0.08,0.64,28.61,59520,5.1
+Oregon,Zoologists and Wildlife Biologists,950,4.8,0.498,3.8,35.8,74460,1
+Oregon,"Biological Scientists, All Other",760,5.8,0.397,1.45,34.88,72560,1.9
+Oregon,Conservation Scientists,740,8.1,0.386,2.57,36.6,76120,2.4
+Oregon,Foresters,600,12.6,0.316,4.88,33.88,70470,1.2
+Oregon,Epidemiologists,40,3.7,0.022,0.43,35.54,73920,3.1
+Oregon,"Medical Scientists, Except Epidemiologists",1810,7.5,0.952,1.1,43.6,90690,11.3
+Oregon,"Life Scientists, All Other",320,34.9,0.165,3.77,35.73,74310,4.5
+Oregon,Physicists,50,18.9,0.025,0.22,55.53,115500,7.3
+Oregon,Atmospheric and Space Scientists,140,26.3,0.071,1.12,49.92,103830,4
+Oregon,Chemists,500,16.2,0.265,0.47,35.49,73810,2.8
+Oregon,Materials Scientists,100,12.1,0.051,1.11,52.07,108310,4.4
+Oregon,"Environmental Scientists and Specialists, Including Health",1000,6.7,0.527,0.92,38.79,80680,2.1
+Oregon,"Geoscientists, Except Hydrologists and Geographers",380,15,0.202,1.01,38.37,79810,5.1
+Oregon,Hydrologists,290,5.2,0.152,3.46,41.83,87000,3.3
+Oregon,"Physical Scientists, All Other",240,12.3,0.128,1.08,39.36,81870,4.2
+Oregon,Economists,200,10.4,0.106,0.82,43.91,91330,1.8
+Oregon,Survey Researchers,160,42.9,0.086,1.27,*,*,*
+Oregon,"Clinical, Counseling, and School Psychologists",1220,11.1,0.641,0.83,53.85,112010,10
+Oregon,Sociologists,30,7,0.016,0.9,59.68,124140,10.5
+Oregon,Urban and Regional Planners,1060,5.6,0.556,2.12,40.59,84420,1.8
+Oregon,Anthropologists and Archeologists,420,24.6,0.221,4.82,30.75,63970,2.9
+Oregon,"Social Scientists and Related Workers, All Other",410,11.8,0.215,0.94,37.91,78850,2.4
+Oregon,Agricultural and Food Science Technicians,860,15.2,0.45,3.02,20.37,42370,2.3
+Oregon,Biological Technicians,2470,5.4,1.296,2.39,21.42,44560,1.3
+Oregon,Chemical Technicians,370,21.2,0.192,0.43,22.23,46230,2.8
+Oregon,"Environmental Science and Protection Technicians, Including Health",280,12.2,0.147,0.66,29.14,60610,2.5
+Oregon,Geological and Hydrologic Technicians,180,10.6,0.093,0.8,26.99,56130,2.6
+Oregon,Social Science Research Assistants,200,6.4,0.107,0.44,24.65,51260,2.6
+Oregon,Forest and Conservation Technicians,1120,2.5,0.586,4.52,24.61,51180,0.8
+Oregon,Forensic Science Technicians,250,1.5,0.13,1.16,32.38,67360,1.5
+Oregon,"Life, Physical, and Social Science Technicians, All Other",1190,15.5,0.625,1.43,24.91,51810,3.7
+Oregon,Occupational Health and Safety Specialists,1430,4.4,0.751,1.19,38.32,79710,2.6
+Oregon,Occupational Health and Safety Technicians,220,9.8,0.118,0.84,30.84,64140,2.5
+Oregon,Community and Social Service Occupations,38390,2.6,20.142,1.32,25.34,52710,1.1
+Oregon,"Educational, Guidance, and Career Counselors and Advisors",2890,4.2,1.516,0.75,30.29,63000,2.6
+Oregon,Marriage and Family Therapists,370,21.5,0.197,0.49,28.92,60160,8.5
+Oregon,Rehabilitation Counselors,1580,6.7,0.829,1.12,21.44,44600,3.5
+Oregon,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",5550,6,2.911,1.51,29.31,60960,2.7
+Oregon,"Counselors, All Other",190,16.5,0.099,0.57,26.56,55240,5.6
+Oregon,"Child, Family, and School Social Workers",3860,4.8,2.025,0.91,25.66,53360,2.2
+Oregon,Healthcare Social Workers,1810,7.9,0.951,0.8,35.6,74050,1.4
+Oregon,Mental Health and Substance Abuse Social Workers,2140,7.6,1.124,1.4,24.59,51150,3.2
+Oregon,"Social Workers, All Other",2170,2.9,1.141,2.87,26.44,55000,1.6
+Oregon,Health Education Specialists,1080,35.8,0.566,1.42,27.38,56950,6.2
+Oregon,Probation Officers and Correctional Treatment Specialists,1800,2.4,0.942,1.57,29.69,61750,1.1
+Oregon,Social and Human Service Assistants,5950,4.1,3.122,1.13,18.93,39370,1.4
+Oregon,Community Health Workers,**,**,**,**,20.85,43370,4.4
+Oregon,"Community and Social Service Specialists, All Other",1600,6.4,0.837,1.26,21.77,45280,2.3
+Oregon,Clergy,4180,7.7,2.194,6.06,25.59,53220,3.4
+Oregon,"Directors, Religious Activities and Education",1520,10.2,0.796,5.36,20.24,42090,5.7
+Oregon,"Religious Workers, All Other",630,14.3,0.332,5.17,14.39,29940,4
+Oregon,Legal Occupations,13110,3.5,6.877,0.88,43.94,91390,2.4
+Oregon,Lawyers,6480,8,3.398,0.76,56.19,116860,2.8
+Oregon,Judicial Law Clerks,50,2.2,0.025,0.22,25.63,53300,4.5
+Oregon,"Administrative Law Judges, Adjudicators, and Hearing Officers",440,0.7,0.229,2.34,41.29,85880,2.5
+Oregon,"Arbitrators, Mediators, and Conciliators",120,25.8,0.062,1.49,35.99,74860,9.2
+Oregon,"Judges, Magistrate Judges, and Magistrates",360,2.5,0.191,0.98,68.05,141550,2
+Oregon,Paralegals and Legal Assistants,4370,5.5,2.291,1.02,27.87,57970,4.9
+Oregon,"Title Examiners, Abstractors, and Searchers",740,17.9,0.386,1.07,32.77,68170,3.7
+Oregon,"Legal Support Workers, All Other",560,8.5,0.296,0.96,31.85,66250,3.6
+Oregon,Educational Instruction and Library Occupations,109520,1.7,57.464,0.95,29.32,60990,4
+Oregon,"Business Teachers, Postsecondary",790,6.2,0.415,0.73,*,102960,4.8
+Oregon,"Computer Science Teachers, Postsecondary",360,7.7,0.191,0.88,*,107500,3
+Oregon,"Mathematical Science Teachers, Postsecondary",760,6.5,0.4,1.15,*,93540,4.4
+Oregon,"Architecture Teachers, Postsecondary",100,0,0.053,1.14,*,84420,1.7
+Oregon,"Engineering Teachers, Postsecondary",430,5.8,0.223,0.91,*,105900,3
+Oregon,"Agricultural Sciences Teachers, Postsecondary",210,3.1,0.111,1.73,*,88620,2.7
+Oregon,"Biological Science Teachers, Postsecondary",480,6.3,0.252,0.7,*,101060,3.4
+Oregon,"Forestry and Conservation Science Teachers, Postsecondary",80,0.7,0.043,3.58,*,101650,5.3
+Oregon,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",150,3.1,0.081,1.07,*,*,*
+Oregon,"Chemistry Teachers, Postsecondary",300,4.5,0.155,1.07,*,99460,2.3
+Oregon,"Environmental Science Teachers, Postsecondary",80,4.2,0.043,1.03,*,90490,2.3
+Oregon,"Physics Teachers, Postsecondary",150,2.4,0.078,0.83,*,96450,1.9
+Oregon,"Anthropology and Archeology Teachers, Postsecondary",120,5.1,0.064,1.61,*,99570,2.9
+Oregon,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",100,2.8,0.052,0.72,*,81900,3.6
+Oregon,"Economics Teachers, Postsecondary",160,13,0.085,0.94,*,102050,9.2
+Oregon,"Geography Teachers, Postsecondary",60,4.4,0.032,1.19,*,89510,4.3
+Oregon,"Political Science Teachers, Postsecondary",250,1.3,0.133,1.24,*,84210,1.9
+Oregon,"Psychology Teachers, Postsecondary",460,6,0.244,0.96,*,82270,5
+Oregon,"Sociology Teachers, Postsecondary",180,12.2,0.096,1.02,*,79360,5.7
+Oregon,"Social Sciences Teachers, Postsecondary, All Other",310,14.9,0.161,1.4,*,84400,6.4
+Oregon,"Health Specialties Teachers, Postsecondary",3640,4,1.912,1.39,*,147880,13.4
+Oregon,"Nursing Instructors and Teachers, Postsecondary",500,12.4,0.262,0.65,*,83900,4.9
+Oregon,"Education Teachers, Postsecondary",820,9.6,0.429,1.03,*,64130,3.1
+Oregon,"Library Science Teachers, Postsecondary",50,18.6,0.028,0.92,*,81460,4.1
+Oregon,"Criminal Justice and Law Enforcement Teachers, Postsecondary",80,15.4,0.04,0.42,*,80970,12.6
+Oregon,"Law Teachers, Postsecondary",**,**,**,**,*,85290,6.6
+Oregon,"Social Work Teachers, Postsecondary",240,10.6,0.125,1.35,*,76510,5.7
+Oregon,"Art, Drama, and Music Teachers, Postsecondary",1330,6.7,0.7,1.09,*,76680,3.4
+Oregon,"Communications Teachers, Postsecondary",480,13.8,0.25,1.26,*,77100,3.7
+Oregon,"English Language and Literature Teachers, Postsecondary",740,6.2,0.389,0.84,*,71580,4.2
+Oregon,"Foreign Language and Literature Teachers, Postsecondary",500,4.1,0.262,1.55,*,78000,5.6
+Oregon,"History Teachers, Postsecondary",250,4.1,0.133,0.93,*,88870,3.2
+Oregon,"Philosophy and Religion Teachers, Postsecondary",310,9.9,0.162,1.02,*,74280,4.4
+Oregon,"Recreation and Fitness Studies Teachers, Postsecondary",380,6.6,0.201,1.86,*,67730,6.8
+Oregon,"Career/Technical Education Teachers, Postsecondary",1180,14.5,0.622,0.81,32.27,67120,6.8
+Oregon,"Postsecondary Teachers, All Other",2990,6,1.57,1.15,*,95400,5.4
+Oregon,"Preschool Teachers, Except Special Education",6540,8.5,3.434,1.17,15.59,32430,2.6
+Oregon,"Kindergarten Teachers, Except Special Education",1120,11.6,0.589,0.7,*,74700,4.2
+Oregon,"Elementary School Teachers, Except Special Education",15950,9.2,8.371,0.86,*,69980,2.7
+Oregon,"Middle School Teachers, Except Special and Career/Technical Education",6250,15.6,3.281,0.77,*,70660,3.9
+Oregon,"Secondary School Teachers, Except Special and Career/Technical Education",8840,13.7,4.638,0.66,*,71780,2.6
+Oregon,"Career/Technical Education Teachers, Secondary School",90,29.4,0.048,0.09,*,53530,4.6
+Oregon,"Special Education Teachers, Preschool",**,**,**,**,*,77320,9.8
+Oregon,"Special Education Teachers, Kindergarten and Elementary School",1830,15.6,0.959,0.73,*,78910,3.3
+Oregon,"Special Education Teachers, Middle School",500,23.3,0.264,0.45,*,77650,6
+Oregon,"Special Education Teachers, Secondary School",590,15.9,0.308,0.32,*,79460,3.5
+Oregon,"Special Education Teachers, All Other",1310,14.1,0.685,2.83,*,82300,2.4
+Oregon,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",1000,18,0.525,1.48,31.18,64850,7.5
+Oregon,Self-Enrichment Teachers,2620,9.4,1.374,0.8,22.08,45920,3.2
+Oregon,"Substitute Teachers, Short-Term",5820,8,3.056,0.76,21.5,44710,2.3
+Oregon,"Tutors and Teachers and Instructors, All Other",3990,10.6,2.093,0.96,*,50750,4.6
+Oregon,Archivists,60,21.1,0.03,0.68,24.04,50010,3.8
+Oregon,Curators,110,14.4,0.059,0.67,24.78,51540,3.6
+Oregon,Museum Technicians and Conservators,80,10.9,0.041,0.45,22.48,46760,4.4
+Oregon,Librarians and Media Collections Specialists,1380,5.2,0.723,0.78,31.04,64560,3
+Oregon,Library Technicians,1770,4.5,0.927,1.54,19.76,41090,2.4
+Oregon,Farm and Home Management Educators,230,6.1,0.121,2.05,35.13,73060,2.6
+Oregon,Instructional Coordinators,1510,12.1,0.792,0.66,39.96,83110,5
+Oregon,"Teaching Assistants, Postsecondary",350,8.2,0.184,0.2,*,35340,6.9
+Oregon,"Teaching Assistants, Except Postsecondary",22840,4.6,11.986,1.31,*,32670,1
+Oregon,"Educational Instruction and Library Workers, All Other",5110,4.8,2.681,3.05,20.51,42670,4.8
+Oregon,"Arts, Design, Entertainment, Sports, and Media Occupations",31330,3.1,16.437,1.2,28,58240,2.4
+Oregon,Art Directors,990,7.1,0.517,1.77,58.79,122280,5.6
+Oregon,Craft Artists,80,49.7,0.044,1.38,23.42,48720,4.1
+Oregon,"Fine Artists, Including Painters, Sculptors, and Illustrators",340,14.3,0.176,2.09,25.77,53600,7.5
+Oregon,Special Effects Artists and Animators,590,16.6,0.308,1.54,39.93,83050,8
+Oregon,"Artists and Related Workers, All Other",120,8.7,0.064,1.24,20.83,43320,3.5
+Oregon,Commercial and Industrial Designers,630,11.9,0.333,1.49,42.36,88100,4.9
+Oregon,Fashion Designers,570,10.1,0.298,1.98,38.57,80220,3.7
+Oregon,Floral Designers,930,7.7,0.486,1.71,13.73,28570,2.7
+Oregon,Graphic Designers,3290,5.5,1.725,1.17,27.08,56320,3.8
+Oregon,Interior Designers,720,11,0.376,0.91,28.49,59260,3.3
+Oregon,Merchandise Displayers and Window Trimmers,1460,15.9,0.764,0.8,20.65,42950,8.9
+Oregon,Set and Exhibit Designers,130,15.6,0.07,0.85,32.22,67010,8
+Oregon,"Designers, All Other",150,13.5,0.078,1.08,31.08,64650,9.5
+Oregon,Actors,260,17,0.138,0.39,*,*,*
+Oregon,Producers and Directors,1430,9.5,0.75,0.85,33.13,68910,5.5
+Oregon,Coaches and Scouts,5280,11.3,2.77,1.69,*,45930,4.3
+Oregon,"Umpires, Referees, and Other Sports Officials",320,12.4,0.17,1.24,*,28660,2.3
+Oregon,Dancers,120,43.8,0.064,0.97,15.14,*,11.5
+Oregon,Choreographers,160,45.5,0.083,2.62,17.64,36690,13.9
+Oregon,Music Directors and Composers,830,12.9,0.434,6.02,21.83,45410,3.9
+Oregon,Musicians and Singers,1100,10.5,0.577,2.06,31.1,*,11.3
+Oregon,"Miscellaneous Entertainers and Performers, Sports and Related Workers",**,**,**,**,23.28,*,6.3
+Oregon,Broadcast Announcers and Radio Disc Jockeys,270,12.9,0.143,0.72,28.61,59510,11.9
+Oregon,"News Analysts, Reporters, and Journalists",540,13.2,0.286,0.95,20.2,42020,8.2
+Oregon,Public Relations Specialists,3410,6.9,1.788,1.07,32.27,67130,2.3
+Oregon,Editors,1130,10.4,0.595,0.91,26,54090,3.5
+Oregon,Technical Writers,810,29.5,0.422,1.22,34.27,71270,4.2
+Oregon,Writers and Authors,710,10.1,0.375,1.2,33.21,69070,5.2
+Oregon,Interpreters and Translators,1210,24.7,0.634,1.58,24.49,50940,3.4
+Oregon,Court Reporters and Simultaneous Captioners,**,**,**,**,24.37,50690,13.6
+Oregon,"Media and Communication Workers, All Other",570,10.2,0.3,1.75,22.15,46080,5
+Oregon,Audio and Video Technicians,780,17.9,0.407,0.81,24.77,51520,5.2
+Oregon,Broadcast Technicians,260,19.2,0.138,0.71,21.15,44000,3.7
+Oregon,Sound Engineering Technicians,300,18.4,0.156,1.77,21.2,44090,5.3
+Oregon,Photographers,590,20.4,0.308,0.89,18.43,38340,3.7
+Oregon,"Camera Operators, Television, Video, and Film",410,24.9,0.217,1.48,30.87,64210,7.5
+Oregon,Film and Video Editors,210,14.7,0.111,0.59,28.77,59840,7.4
+Oregon,"Lighting Technicians and Media and Communication Equipment Workers, All Other",280,8.5,0.145,0.91,24.49,50940,5.4
+Oregon,Healthcare Practitioners and Technical Occupations,100720,3.6,52.845,0.89,46.4,96510,1.2
+Oregon,Chiropractors,860,20.6,0.453,1.9,33.76,70220,5.6
+Oregon,"Dentists, General",1620,19.7,0.847,1.12,96.96,201680,5.2
+Oregon,Oral and Maxillofacial Surgeons,**,**,**,**,#,#,19.1
+Oregon,Orthodontists,**,**,**,**,#,#,23.3
+Oregon,"Dentists, All Other Specialists",50,4.2,0.026,0.71,63.36,131790,5.8
+Oregon,Dietitians and Nutritionists,680,7,0.356,0.77,33.74,70170,1.3
+Oregon,Optometrists,370,24.2,0.193,0.72,53.45,111180,6.8
+Oregon,Pharmacists,4100,3.8,2.149,1.01,64.98,135150,1.2
+Oregon,Physician Assistants,1570,8.2,0.822,1.01,54.96,114320,2
+Oregon,Podiatrists,60,28.4,0.032,0.47,48.37,100610,11.1
+Oregon,Occupational Therapists,1350,9.4,0.709,0.78,44.58,92730,2.3
+Oregon,Physical Therapists,2890,4.5,1.514,0.95,41.92,87200,1.3
+Oregon,Radiation Therapists,170,14.3,0.09,0.74,50.87,105810,1.8
+Oregon,Recreational Therapists,150,8.8,0.079,0.61,26.63,55390,3.2
+Oregon,Respiratory Therapists,1340,9.3,0.701,0.78,33.88,70480,1.1
+Oregon,Speech-Language Pathologists,1650,8.9,0.868,0.83,41.73,86800,3.9
+Oregon,Exercise Physiologists,60,9.6,0.032,0.65,28.58,59450,2.2
+Oregon,"Therapists, All Other",240,34.8,0.128,1.54,24.88,51740,14.3
+Oregon,Veterinarians,1550,8.7,0.811,1.6,53.31,110880,11.1
+Oregon,Registered Nurses,36660,6.3,19.235,0.95,44.69,92960,1
+Oregon,Nurse Anesthetists,270,27.2,0.144,0.48,112.86,234750,9.7
+Oregon,Nurse Midwives,180,18,0.097,2.05,54.61,113580,5.1
+Oregon,Nurse Practitioners,2190,8.5,1.147,0.84,54.53,113430,1.5
+Oregon,Audiologists,170,20.9,0.091,0.99,41.78,86900,5.2
+Oregon,Anesthesiologists,710,29.7,0.371,1.75,#,#,9.9
+Oregon,Family Medicine Physicians,880,20.1,0.462,0.62,112.25,233490,8.8
+Oregon,General Internal Medicine Physicians,270,19.3,0.14,0.46,114.38,237910,11.7
+Oregon,Obstetricians and Gynecologists,180,35.4,0.094,0.74,113.2,235450,7.8
+Oregon,"Pediatricians, General",410,25.7,0.213,1.05,95.49,198630,8.8
+Oregon,Psychiatrists,330,25.5,0.171,0.98,114.2,237540,8.7
+Oregon,"Physicians, All Other; and Ophthalmologists, Except Pediatric",5580,6.7,2.926,1.1,94.2,195930,7.1
+Oregon,"Surgeons, Except Ophthalmologists",240,18.7,0.127,0.51,#,#,6.7
+Oregon,Dental Hygienists,3810,7.3,1.998,1.32,41.96,87270,1.8
+Oregon,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",690,14.7,0.364,1.46,42.23,87830,7.9
+Oregon,Clinical Laboratory Technologists and Technicians,3130,3.7,1.644,0.74,31.19,64880,1.8
+Oregon,Cardiovascular Technologists and Technicians,750,11.5,0.395,1.03,39.14,81410,1.8
+Oregon,Diagnostic Medical Sonographers,1050,10.8,0.551,1.11,43.08,89600,1.5
+Oregon,Nuclear Medicine Technologists,160,8.5,0.086,0.69,42.79,89010,1.3
+Oregon,Radiologic Technologists and Technicians,2020,6.4,1.062,0.75,36.14,75170,1
+Oregon,Magnetic Resonance Imaging Technologists,340,9.6,0.18,0.7,41.76,86860,1.2
+Oregon,Emergency Medical Technicians and Paramedics,2140,8.1,1.123,0.63,20.51,42660,3.3
+Oregon,Dietetic Technicians,100,5.8,0.053,0.27,22.25,46280,2.3
+Oregon,Pharmacy Technicians,4900,4.8,2.573,0.9,20.27,42160,1.2
+Oregon,Psychiatric Technicians,640,6.9,0.334,0.62,*,*,*
+Oregon,Surgical Technologists,1300,10.9,0.681,0.92,28.13,58510,2.6
+Oregon,Veterinary Technologists and Technicians,1480,11.4,0.777,1.03,17.61,36620,3
+Oregon,Ophthalmic Medical Technicians,640,15.7,0.338,0.85,20.56,42770,3.5
+Oregon,Licensed Practical and Licensed Vocational Nurses,3750,6.5,1.968,0.41,26.32,54740,0.9
+Oregon,"Opticians, Dispensing",1040,10.5,0.544,1.11,21.05,43790,6.6
+Oregon,Orthotists and Prosthetists,160,19.6,0.084,1.25,32.83,68290,3
+Oregon,Hearing Aid Specialists,160,29,0.085,1.51,26.88,55900,5.6
+Oregon,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",4110,4.8,2.158,0.96,24.8,51590,1.6
+Oregon,Athletic Trainers,230,14.5,0.123,0.63,*,51460,2
+Oregon,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,26.77,55680,4.1
+Oregon,Healthcare Support Occupations,76340,2.3,40.055,0.9,17.17,35720,1
+Oregon,Home Health and Personal Care Aides,30580,4.6,16.043,0.75,13.82,28740,0.9
+Oregon,Nursing Assistants,12260,4.8,6.432,0.67,16.72,34780,1.5
+Oregon,Orderlies,260,19.8,0.137,0.43,16.31,33920,2.2
+Oregon,Psychiatric Aides,**,**,**,**,19.52,40600,1.7
+Oregon,Occupational Therapy Assistants,350,8.5,0.181,0.59,30.42,63270,2
+Oregon,Physical Therapist Assistants,810,8.9,0.427,0.65,28.8,59910,3.5
+Oregon,Physical Therapist Aides,530,15.9,0.276,0.82,14.4,29950,3.4
+Oregon,Massage Therapists,2150,11.9,1.126,1.54,29.87,62130,5.1
+Oregon,Dental Assistants,4890,8.2,2.566,1.07,22.57,46940,1.8
+Oregon,Medical Assistants,13340,4.5,6.998,1.44,19.13,39790,0.9
+Oregon,Medical Equipment Preparers,1150,7.8,0.602,1.55,20.35,42320,1.8
+Oregon,Medical Transcriptionists,1470,19.1,0.772,2.03,18.03,37500,3.7
+Oregon,Pharmacy Aides,620,15.1,0.324,1.28,15.85,32970,4
+Oregon,Veterinary Assistants and Laboratory Animal Caretakers,2180,7,1.144,1.73,15.77,32810,1.9
+Oregon,Phlebotomists,2160,6.9,1.135,1.3,19.47,40500,1.5
+Oregon,"Healthcare Support Workers, All Other",1810,5.8,0.951,1.5,20.56,42770,1.7
+Oregon,Protective Service Occupations,33590,3.3,17.626,0.74,25.93,53940,3.5
+Oregon,First-Line Supervisors of Correctional Officers,410,3.2,0.214,0.68,42.6,88610,1.8
+Oregon,First-Line Supervisors of Police and Detectives,1090,2.2,0.571,0.69,50.41,104860,1
+Oregon,First-Line Supervisors of Firefighting and Prevention Workers,950,9,0.498,1.05,42.29,87950,2.9
+Oregon,"Miscellaneous First-Line Supervisors, Protective Service Workers",1060,14.6,0.556,0.99,23.57,49020,3.7
+Oregon,Firefighters,3650,6.4,1.914,0.87,32.95,68540,3.4
+Oregon,Fire Inspectors and Investigators,140,6.9,0.073,0.79,44.75,93080,2.3
+Oregon,Forest Fire Inspectors and Prevention Specialists,30,3.6,0.018,1.24,31.89,66330,1.9
+Oregon,Bailiffs,70,4.1,0.035,0.26,25.01,52030,3.4
+Oregon,Correctional Officers and Jailers,4400,1.2,2.309,0.8,28.89,60100,1.6
+Oregon,Detectives and Criminal Investigators,580,2.1,0.303,0.42,45.48,94590,2.8
+Oregon,Parking Enforcement Workers,120,1.5,0.063,1.21,23.69,49270,3.9
+Oregon,Police and Sheriff's Patrol Officers,5510,1.8,2.893,0.64,35.24,73300,1.6
+Oregon,Animal Control Workers,50,6.8,0.026,0.32,24.95,51900,1.7
+Oregon,Private Detectives and Investigators,390,24.1,0.202,0.85,27.58,57380,2.8
+Oregon,Gambling Surveillance Officers and Gambling Investigators,170,27.2,0.09,1.28,19.21,39950,3.8
+Oregon,Security Guards,9220,9.4,4.84,0.63,15.16,31530,1.6
+Oregon,Crossing Guards and Flaggers,1880,13.4,0.989,1.71,18.27,38010,5.6
+Oregon,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1770,10.1,0.927,0.95,12.34,25670,1
+Oregon,"School Bus Monitors and Protective Service Workers, All Other",1480,9.1,0.779,0.78,20.57,42780,2.5
+Oregon,Food Preparation and Serving Related Occupations,188460,0.9,98.886,1.08,14.08,29290,0.7
+Oregon,Chefs and Head Cooks,2090,13.3,1.099,1.26,24.58,51130,3
+Oregon,First-Line Supervisors of Food Preparation and Serving Workers,14100,4.2,7.397,1.07,17.32,36030,1.4
+Oregon,"Cooks, Fast Food",3780,19,1.984,0.55,13.77,28630,2.4
+Oregon,"Cooks, Institution and Cafeteria",6140,4.2,3.22,1.17,15.94,33150,1.1
+Oregon,"Cooks, Restaurant",22890,3.6,12.011,1.26,14.86,30900,1.2
+Oregon,"Cooks, Short Order",2490,28,1.308,1.26,14.16,29450,3.4
+Oregon,"Cooks, All Other",480,20.6,0.253,1.92,15.36,31950,2.5
+Oregon,Food Preparation Workers,12400,7,6.506,1.11,13.82,28740,0.8
+Oregon,Bartenders,9020,8.3,4.731,1.07,14.24,29630,4.3
+Oregon,Fast Food and Counter Workers,58640,3.5,30.767,1.13,12.81,26640,0.8
+Oregon,Waiters and Waitresses,31810,3.2,16.693,0.95,14.2,29550,2.3
+Oregon,"Food Servers, Nonrestaurant",5220,10.4,2.737,1.45,13.92,28950,1.5
+Oregon,Dining Room and Cafeteria Attendants and Bartender Helpers,5730,8.8,3.005,0.92,12.71,26430,1.2
+Oregon,Dishwashers,7820,7.6,4.104,1.17,12.84,26710,1
+Oregon,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",4650,8.4,2.44,0.85,12.91,26860,1.5
+Oregon,"Food Preparation and Serving Related Workers, All Other",1210,15.5,0.634,1.29,14.29,29720,3.4
+Oregon,Building and Grounds Cleaning and Maintenance Occupations,55200,2.4,28.961,0.96,15.79,32850,0.8
+Oregon,First-Line Supervisors of Housekeeping and Janitorial Workers,1550,7.5,0.812,0.77,21.69,45120,1.7
+Oregon,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1200,8.3,0.629,0.89,25.45,52930,3.1
+Oregon,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",23390,4.5,12.271,0.84,15.07,31340,1
+Oregon,Maids and Housekeeping Cleaners,14120,3.9,7.406,1.17,13.83,28770,1.1
+Oregon,"Building Cleaning Workers, All Other",790,43.4,0.414,3.35,16.98,35320,5.5
+Oregon,Pest Control Workers,500,21.4,0.265,0.49,20.15,41910,4.7
+Oregon,Landscaping and Groundskeeping Workers,12370,5.8,6.492,1.04,16.99,35330,1.4
+Oregon,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",270,20.8,0.143,0.81,22.14,46040,10.8
+Oregon,Tree Trimmers and Pruners,700,34.7,0.367,1.14,22.17,46110,7.1
+Oregon,"Grounds Maintenance Workers, All Other",310,21.3,0.162,1.66,15.08,31360,2.1
+Oregon,Personal Care and Service Occupations,49910,2.2,26.19,1.16,15.89,33060,1.1
+Oregon,First-Line Supervisors of Gambling Services Workers,160,20.4,0.085,0.43,25.91,53900,3.2
+Oregon,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",2120,6.6,1.111,0.75,20.14,41890,2.1
+Oregon,Animal Trainers,180,16.3,0.093,0.83,14.12,29370,3
+Oregon,Animal Caretakers,2620,11.1,1.376,0.95,14.36,29880,2.1
+Oregon,Gambling Dealers,400,20.9,0.209,0.31,12.46,25910,4
+Oregon,"Gambling Service Workers, All Other",110,7.4,0.056,0.78,14.32,29790,3.4
+Oregon,"Ushers, Lobby Attendants, and Ticket Takers",770,13.5,0.402,0.43,12.57,26140,2.2
+Oregon,Amusement and Recreation Attendants,3140,10.3,1.645,0.71,13.4,27860,1.5
+Oregon,Costume Attendants,30,7.7,0.017,0.34,27.93,58100,9.6
+Oregon,"Locker Room, Coatroom, and Dressing Room Attendants",120,26.7,0.064,0.59,13.24,27550,2
+Oregon,"Entertainment Attendants and Related Workers, All Other",210,16.8,0.108,3.53,13.39,27850,7.1
+Oregon,Embalmers,**,**,**,**,25.76,53590,4.7
+Oregon,Funeral Attendants,130,35.8,0.066,0.28,17.24,35860,13.9
+Oregon,"Morticians, Undertakers, and Funeral Arrangers",250,16,0.13,0.75,25.66,53380,7.1
+Oregon,Barbers,**,**,**,**,20.72,43100,7.9
+Oregon,"Hairdressers, Hairstylists, and Cosmetologists",2960,10.5,1.554,0.59,13.98,29070,4.1
+Oregon,Manicurists and Pedicurists,1910,19,1.003,1.32,15.33,31880,5.9
+Oregon,Skincare Specialists,1240,19.9,0.653,1.69,21.04,43760,9.8
+Oregon,Baggage Porters and Bellhops,230,21.5,0.123,0.45,12.94,26920,2
+Oregon,Concierges,290,14.6,0.154,0.54,15.53,32310,3.1
+Oregon,Tour and Travel Guides,580,19.2,0.303,0.91,16.86,35070,4.5
+Oregon,Childcare Workers,5680,13.6,2.983,0.78,13.46,27990,1.4
+Oregon,Exercise Trainers and Group Fitness Instructors,4960,6.2,2.601,1.17,21.97,45710,2.7
+Oregon,Recreation Workers,4920,5.8,2.584,1.06,15.59,32440,1.6
+Oregon,Residential Advisors,1090,9.7,0.571,0.78,16.67,34680,2.4
+Oregon,"Crematory Operators and Personal Care and Service Workers, All Other",15310,1.1,8.032,19.18,14.96,31120,1.9
+Oregon,Sales and Related Occupations,177040,1.4,92.895,0.95,20.67,43000,1
+Oregon,First-Line Supervisors of Retail Sales Workers,16900,3.8,8.865,1.11,21.48,44670,2
+Oregon,First-Line Supervisors of Non-Retail Sales Workers,3040,7.1,1.594,0.94,35.62,74090,2.9
+Oregon,Cashiers,40680,3.4,21.346,0.87,13.25,27560,0.6
+Oregon,Gambling Change Persons and Booth Cashiers,260,28.6,0.136,0.94,15.08,31360,6.4
+Oregon,Counter and Rental Clerks,5290,8.1,2.774,0.99,18.09,37620,2.8
+Oregon,Parts Salespersons,4600,5.6,2.412,1.38,17.93,37290,1.6
+Oregon,Retail Salespersons,55610,2.8,29.178,0.99,15.07,31350,0.9
+Oregon,Advertising Sales Agents,1250,10.3,0.654,0.74,23.88,49670,4.8
+Oregon,Insurance Sales Agents,4430,7.5,2.322,0.83,35.62,74080,7
+Oregon,"Securities, Commodities, and Financial Services Sales Agents",3990,9.9,2.092,0.7,31.82,66180,4.7
+Oregon,Travel Agents,1000,8.7,0.522,1.15,18.78,39070,4.8
+Oregon,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",9500,6,4.986,0.7,30.77,64010,2.6
+Oregon,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",3100,8.9,1.625,0.78,50.69,105440,5.1
+Oregon,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",17160,4.2,9.002,0.98,34.5,71760,2.8
+Oregon,Demonstrators and Product Promoters,2330,12.5,1.22,2.3,15.54,32320,2.4
+Oregon,Real Estate Brokers,1230,18.3,0.647,2.22,38.95,81020,19.9
+Oregon,Real Estate Sales Agents,1760,18.9,0.922,0.83,25.06,52120,7.7
+Oregon,Sales Engineers,930,28.6,0.486,1.12,55.23,114870,2.9
+Oregon,Telemarketers,1430,6.6,0.752,0.82,16.43,34160,3.7
+Oregon,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",80,49.3,0.042,0.69,15.62,32490,12.7
+Oregon,"Sales and Related Workers, All Other",**,**,**,**,20.47,42580,5.9
+Oregon,Office and Administrative Support Occupations,247470,0.9,129.845,0.98,20.03,41650,0.3
+Oregon,First-Line Supervisors of Office and Administrative Support Workers,14380,2.4,7.545,0.74,28.01,58250,0.6
+Oregon,"Switchboard Operators, Including Answering Service",810,18.3,0.425,0.92,18.37,38210,2.3
+Oregon,Bill and Account Collectors,1830,8.7,0.961,0.6,19.45,40460,2
+Oregon,Billing and Posting Clerks,4790,5.5,2.513,0.79,20.35,42320,1
+Oregon,"Bookkeeping, Accounting, and Auditing Clerks",23000,2.4,12.07,1.17,20.79,43240,0.6
+Oregon,Gambling Cage Workers,130,12.5,0.067,0.69,14.26,29670,1.9
+Oregon,Payroll and Timekeeping Clerks,2130,5,1.118,1.15,22.87,47570,1.3
+Oregon,Procurement Clerks,680,6,0.357,0.79,21.04,43760,1.4
+Oregon,Tellers,4580,6.1,2.405,0.8,15.35,31940,1.5
+Oregon,"Financial Clerks, All Other",380,18.4,0.198,0.95,20.65,42940,4.1
+Oregon,Brokerage Clerks,420,16.6,0.22,0.67,27.11,56400,3.2
+Oregon,Correspondence Clerks,80,16.7,0.042,0.99,18.3,38060,3.3
+Oregon,"Court, Municipal, and License Clerks",2360,6.5,1.238,1.18,22.03,45820,1
+Oregon,"Credit Authorizers, Checkers, and Clerks",320,15.9,0.169,0.93,22.16,46100,2
+Oregon,Customer Service Representatives,29470,4.1,15.461,0.78,18.47,38420,1.2
+Oregon,"Eligibility Interviewers, Government Programs",1480,3.4,0.778,0.82,20.44,42520,1.9
+Oregon,File Clerks,1280,7.2,0.673,0.97,18.59,38660,2.1
+Oregon,"Hotel, Motel, and Resort Desk Clerks",4070,6.6,2.136,1.17,13.26,27580,1.2
+Oregon,"Interviewers, Except Eligibility and Loan",3930,9.3,2.062,1.61,18.16,37770,2.6
+Oregon,"Library Assistants, Clerical",1030,4.2,0.541,0.92,17.92,37280,2.3
+Oregon,Loan Interviewers and Clerks,2690,6.4,1.411,0.99,22.41,46620,2.2
+Oregon,New Accounts Clerks,1190,14,0.626,2.12,18.61,38700,2
+Oregon,Order Clerks,1750,8.4,0.916,0.98,16.92,35190,4
+Oregon,"Human Resources Assistants, Except Payroll and Timekeeping",1400,6,0.732,0.92,20.93,43530,1.2
+Oregon,Receptionists and Information Clerks,13570,3.9,7.118,0.99,15.62,32490,0.6
+Oregon,Reservation and Transportation Ticket Agents and Travel Clerks,1080,11.2,0.569,0.68,21.82,45380,3.7
+Oregon,"Information and Record Clerks, All Other",6040,8.4,3.17,3.03,18.12,37690,1.8
+Oregon,Cargo and Freight Agents,1420,15.6,0.743,1.14,26.01,54110,2.8
+Oregon,Couriers and Messengers,920,17,0.483,0.95,16.77,34890,2.4
+Oregon,Public Safety Telecommunicators,970,8.5,0.508,0.78,27.63,57470,1.6
+Oregon,"Dispatchers, Except Police, Fire, and Ambulance",3010,7.6,1.581,1.16,21.86,45470,2
+Oregon,"Meter Readers, Utilities",340,15.2,0.177,0.85,24.67,51320,2.7
+Oregon,Postal Service Clerks,1000,0,0.526,0.95,24.1,50140,0.8
+Oregon,Postal Service Mail Carriers,3790,0,1.991,0.86,24.31,50570,1.2
+Oregon,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1260,0,0.66,0.95,23.16,48160,2.3
+Oregon,"Production, Planning, and Expediting Clerks",3770,4.8,1.976,0.78,25.25,52520,1.3
+Oregon,"Shipping, Receiving, and Inventory Clerks",8640,3.7,4.531,0.94,18.46,38400,0.8
+Oregon,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",550,27.2,0.291,0.7,18.45,38380,2.1
+Oregon,Executive Secretaries and Executive Administrative Assistants,5250,3.6,2.757,0.75,29,60320,1.5
+Oregon,Legal Secretaries and Administrative Assistants,1400,13.2,0.734,0.64,24.79,51570,2.8
+Oregon,Medical Secretaries and Administrative Assistants,14660,3.7,7.695,1.87,20.1,41810,1.2
+Oregon,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",29650,2.5,15.557,1.12,19.83,41240,0.5
+Oregon,Data Entry Keyers,1640,12.3,0.861,0.79,17.18,35740,1.8
+Oregon,Word Processors and Typists,120,14.5,0.065,0.2,20.88,43440,2.7
+Oregon,Desktop Publishers,260,13.3,0.136,2.28,22.21,46190,3.2
+Oregon,Insurance Claims and Policy Processing Clerks,2690,11.9,1.413,0.81,21.51,44730,2
+Oregon,"Mail Clerks and Mail Machine Operators, Except Postal Service",780,12.7,0.407,0.72,17.05,35460,1.4
+Oregon,"Office Clerks, General",34100,2.3,17.894,0.89,18.12,37690,0.7
+Oregon,"Office Machine Operators, Except Computer",500,12.2,0.261,0.83,18.99,39500,2.7
+Oregon,Proofreaders and Copy Markers,60,20.3,0.029,0.56,20.2,42020,5.1
+Oregon,Statistical Assistants,50,9.2,0.025,0.38,22.22,46220,1.8
+Oregon,"Office and Administrative Support Workers, All Other",5740,5.7,3.01,2.35,19.54,40650,1.4
+Oregon,"Farming, Fishing, and Forestry Occupations",13510,5.4,7.087,2.15,17.26,35890,1.9
+Oregon,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",860,8.4,0.453,2.95,24.6,51170,2.7
+Oregon,Agricultural Inspectors,140,6.9,0.074,0.79,21.77,45290,3.3
+Oregon,"Graders and Sorters, Agricultural Products",1700,16.6,0.893,3.82,12.9,26820,1.8
+Oregon,Agricultural Equipment Operators,490,45.3,0.255,1.39,15.15,31500,3.2
+Oregon,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",6040,10.2,3.167,1.57,13.52,28130,1.4
+Oregon,"Farmworkers, Farm, Ranch, and Aquacultural Animals",320,13.1,0.168,0.67,13.43,27930,2.3
+Oregon,"Agricultural Workers, All Other",40,43,0.021,0.48,15.94,33150,8.1
+Oregon,Forest and Conservation Workers,160,20.1,0.083,1.81,17.62,36650,4.4
+Oregon,Fallers,470,38.8,0.248,7.47,33.5,69670,7.4
+Oregon,Logging Equipment Operators,1920,8.5,1.008,5.69,23.78,49450,2.4
+Oregon,Log Graders and Scalers,150,27.7,0.077,3.42,21.54,44800,4.1
+Oregon,"Logging Workers, All Other",1210,13.3,0.635,24.91,20.85,43370,2.1
+Oregon,Construction and Extraction Occupations,87280,1.5,45.794,1.09,27.37,56930,1
+Oregon,First-Line Supervisors of Construction Trades and Extraction Workers,6300,4.2,3.308,0.78,36.43,75780,1.1
+Oregon,Boilermakers,40,2.7,0.021,0.19,34.07,70870,3.9
+Oregon,Brickmasons and Blockmasons,330,19.6,0.174,0.42,29.45,61250,5.4
+Oregon,Stonemasons,**,**,**,**,20.02,41650,5.1
+Oregon,Carpenters,16360,5.3,8.581,1.72,25.96,54010,2
+Oregon,Carpet Installers,670,26.8,0.353,2,22.08,45930,5.3
+Oregon,"Floor Layers, Except Carpet, Wood, and Hard Tiles",150,48.3,0.078,0.71,18.75,38990,10.2
+Oregon,Floor Sanders and Finishers,**,**,**,**,20.49,42620,8.2
+Oregon,Tile and Stone Setters,750,17.8,0.395,1.44,23.21,48270,4.6
+Oregon,Cement Masons and Concrete Finishers,2540,8.8,1.331,1,25.21,52430,2.4
+Oregon,Terrazzo Workers and Finishers,**,**,**,**,18.54,38570,4.5
+Oregon,Construction Laborers,13270,4.7,6.963,1,20.94,43550,1.6
+Oregon,"Paving, Surfacing, and Tamping Equipment Operators",260,36.3,0.138,0.44,24.28,50490,5.2
+Oregon,Pile Driver Operators,100,27.7,0.053,2.19,35.99,74860,7.2
+Oregon,Operating Engineers and Other Construction Equipment Operators,4960,6.2,2.602,0.94,28.18,58610,1.6
+Oregon,Drywall and Ceiling Tile Installers,1180,16.3,0.621,0.89,28.42,59110,6.3
+Oregon,Tapers,470,14.9,0.249,2.03,32.49,67570,5.5
+Oregon,Electricians,9920,4.4,5.205,1.11,36.02,74920,1.9
+Oregon,Glaziers,780,20.3,0.407,1.14,28.74,59780,6.3
+Oregon,"Insulation Workers, Floor, Ceiling, and Wall",780,23,0.407,1.78,21.12,43920,3.4
+Oregon,"Insulation Workers, Mechanical",**,**,**,**,37.88,78780,9.3
+Oregon,"Painters, Construction and Maintenance",4750,4.3,2.492,1.57,19.65,40870,2.7
+Oregon,Pipelayers,550,19.7,0.289,1.17,26.78,55710,8.8
+Oregon,"Plumbers, Pipefitters, and Steamfitters",5530,7,2.901,0.96,35.3,73420,3.2
+Oregon,Plasterers and Stucco Masons,240,28.7,0.128,0.69,25.82,53710,2.5
+Oregon,Reinforcing Iron and Rebar Workers,80,16.5,0.042,0.33,41.67,86670,7.9
+Oregon,Roofers,3430,6.9,1.802,2.04,21.73,45200,4.5
+Oregon,Sheet Metal Workers,3090,11.7,1.621,1.81,28.45,59180,3.7
+Oregon,Structural Iron and Steel Workers,950,18.6,0.498,0.96,35.97,74820,7
+Oregon,Solar Photovoltaic Installers,**,**,**,**,27.97,58180,5.2
+Oregon,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",290,16.5,0.154,0.97,19.73,41050,6.6
+Oregon,Helpers--Carpenters,600,27.4,0.315,1.41,19.15,39840,5.3
+Oregon,Helpers--Electricians,390,13.1,0.205,0.38,18.48,38430,3.5
+Oregon,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",**,**,**,**,16.86,35060,2.9
+Oregon,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",390,19.6,0.203,0.51,16.5,34320,4.3
+Oregon,Helpers--Roofers,40,30.5,0.02,0.32,15.55,32330,7.2
+Oregon,"Helpers, Construction Trades, All Other",260,16.3,0.138,0.71,17.58,36570,2.7
+Oregon,Construction and Building Inspectors,1520,18.4,0.799,1.06,35.29,73400,4.1
+Oregon,Elevator and Escalator Installers and Repairers,230,49.2,0.119,0.61,47.74,99300,3.9
+Oregon,Fence Erectors,660,20,0.347,1.97,16.94,35230,4.6
+Oregon,Hazardous Materials Removal Workers,450,22,0.237,0.79,22.38,46560,4.7
+Oregon,Highway Maintenance Workers,1940,3.9,1.016,0.99,25.2,52430,1.3
+Oregon,Rail-Track Laying and Maintenance Equipment Operators,190,36.6,0.101,0.92,30.1,62610,6.9
+Oregon,Septic Tank Servicers and Sewer Pipe Cleaners,430,21.5,0.225,1.11,23.45,48790,3.5
+Oregon,Miscellaneous Construction and Related Workers,400,22.9,0.209,0.96,20.39,42420,4.1
+Oregon,"Excavating and Loading Machine and Dragline Operators, Surface Mining",790,18.4,0.413,1.37,22.92,47670,2.3
+Oregon,Helpers--Extraction Workers,**,**,**,**,16.74,34820,6
+Oregon,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",280,24.7,0.146,0.86,26.15,54390,5.7
+Oregon,"Installation, Maintenance, and Repair Occupations",67990,1.8,35.673,0.92,24.33,50610,0.6
+Oregon,"First-Line Supervisors of Mechanics, Installers, and Repairers",4720,4.2,2.474,0.75,34.5,71760,1
+Oregon,"Computer, Automated Teller, and Office Machine Repairers",1190,12.9,0.624,0.93,19.64,40840,3.3
+Oregon,"Radio, Cellular, and Tower Equipment Installers and Repairers",260,25.6,0.135,1.38,26.82,55790,4.9
+Oregon,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1860,11.6,0.978,0.69,28.96,60230,2.6
+Oregon,Avionics Technicians,220,10.3,0.114,0.77,34.01,70740,3.1
+Oregon,"Electric Motor, Power Tool, and Related Repairers",180,24.8,0.097,0.9,22.24,46270,6.1
+Oregon,"Electrical and Electronics Installers and Repairers, Transportation Equipment",200,18.9,0.103,1.55,33.62,69930,6.1
+Oregon,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",970,23.4,0.511,1.27,29.37,61080,3.6
+Oregon,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",160,25,0.082,0.53,45.57,94790,2.6
+Oregon,"Electronic Equipment Installers and Repairers, Motor Vehicles",130,41.7,0.069,0.99,21.08,43840,8.8
+Oregon,Audiovisual Equipment Installers and Repairers,100,34.8,0.05,0.29,18.5,38480,9.4
+Oregon,Security and Fire Alarm Systems Installers,650,15,0.34,0.7,27.83,57880,1.8
+Oregon,Aircraft Mechanics and Service Technicians,1310,6.3,0.688,0.76,31.41,65340,2.2
+Oregon,Automotive Body and Related Repairers,1580,11.3,0.828,0.84,21.34,44390,3.7
+Oregon,Automotive Glass Installers and Repairers,280,38.7,0.145,1.1,18.04,37530,7.1
+Oregon,Automotive Service Technicians and Mechanics,7310,4,3.833,0.86,21.76,45260,1.8
+Oregon,Bus and Truck Mechanics and Diesel Engine Specialists,3670,6.5,1.925,1.06,24.95,51900,1.6
+Oregon,Farm Equipment Mechanics and Service Technicians,790,13.3,0.413,1.67,23.19,48240,3
+Oregon,"Mobile Heavy Equipment Mechanics, Except Engines",2280,6.7,1.195,1.19,26.58,55280,1.3
+Oregon,Rail Car Repairers,320,23.7,0.165,0.94,31.5,65520,4.2
+Oregon,Motorboat Mechanics and Service Technicians,290,25.8,0.152,0.98,20.2,42010,2.3
+Oregon,Motorcycle Mechanics,320,27.9,0.169,1.59,18.69,38870,5.6
+Oregon,Outdoor Power Equipment and Other Small Engine Mechanics,420,18.5,0.223,1.02,19.87,41330,3.7
+Oregon,Bicycle Repairers,320,34.1,0.167,1.85,14.93,31050,4
+Oregon,Recreational Vehicle Service Technicians,390,19.4,0.202,1.91,20.3,42210,2.8
+Oregon,Tire Repairers and Changers,1940,17.6,1.02,1.35,17.72,36860,4
+Oregon,Mechanical Door Repairers,240,44.7,0.125,0.79,20.14,41880,8.4
+Oregon,"Control and Valve Installers and Repairers, Except Mechanical Door",760,20.9,0.4,1.12,29.57,61500,3.9
+Oregon,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",3260,11.6,1.712,0.74,25,52010,3.6
+Oregon,Home Appliance Repairers,700,23.9,0.368,1.74,21.37,44450,3.4
+Oregon,Industrial Machinery Mechanics,5460,6.2,2.867,1.09,27.83,57880,1.1
+Oregon,"Maintenance Workers, Machinery",350,14.1,0.183,0.37,21.35,44410,2.9
+Oregon,Millwrights,680,10.8,0.354,1.1,31.04,64570,4.3
+Oregon,Electrical Power-Line Installers and Repairers,1230,10.1,0.645,0.85,45.88,95430,1.4
+Oregon,Telecommunications Line Installers and Repairers,710,13.4,0.37,0.45,26.03,54130,4.6
+Oregon,Camera and Photographic Equipment Repairers,**,**,**,**,17.75,36920,7.4
+Oregon,Medical Equipment Repairers,360,20.6,0.19,0.6,29.54,61440,3.8
+Oregon,Musical Instrument Repairers and Tuners,40,38.4,0.021,0.39,16.62,34560,13.3
+Oregon,Watch and Clock Repairers,**,**,**,**,23.87,49660,13.1
+Oregon,"Precision Instrument and Equipment Repairers, All Other",330,18,0.174,2.42,27.8,57830,4.1
+Oregon,"Maintenance and Repair Workers, General",16510,4,8.663,0.9,19.84,41270,0.9
+Oregon,Wind Turbine Service Technicians,190,39.2,0.102,2.52,28.85,60000,2.7
+Oregon,"Coin, Vending, and Amusement Machine Servicers and Repairers",230,16.1,0.123,0.58,20.03,41670,3.3
+Oregon,Locksmiths and Safe Repairers,250,25.6,0.132,1.14,19.7,40970,6.1
+Oregon,Manufactured Building and Mobile Home Installers,**,**,**,**,19.58,40730,7.6
+Oregon,Riggers,220,10.5,0.113,0.72,29.13,60600,3.7
+Oregon,Signal and Track Switch Repairers,**,**,**,**,35.69,74230,4.6
+Oregon,"Helpers--Installation, Maintenance, and Repair Workers",1270,8.1,0.665,0.98,15.99,33260,3.2
+Oregon,"Installation, Maintenance, and Repair Workers, All Other",2900,8.4,1.523,1.39,21.72,45170,2.9
+Oregon,Production Occupations,122160,1.7,64.095,1.03,19.87,41320,0.7
+Oregon,First-Line Supervisors of Production and Operating Workers,7550,2.9,3.962,0.92,29.1,60520,1
+Oregon,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",270,7.1,0.139,0.48,*,*,*
+Oregon,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",5040,20.6,2.644,1.36,17.49,36380,1.3
+Oregon,Engine and Other Machine Assemblers,100,40.6,0.054,0.17,19.58,40730,4.2
+Oregon,Structural Metal Fabricators and Fitters,1830,9.5,0.961,1.84,23.21,48280,2.6
+Oregon,Fiberglass Laminators and Fabricators,300,43,0.157,1.15,16.37,34050,4.8
+Oregon,Miscellaneous Assemblers and Fabricators,12270,5.4,6.438,0.69,17.37,36130,1.7
+Oregon,Bakers,2530,12,1.33,1.06,15.48,32200,2
+Oregon,Butchers and Meat Cutters,1740,5.5,0.915,0.98,17.91,37260,1.4
+Oregon,"Meat, Poultry, and Fish Cutters and Trimmers",820,24,0.43,0.41,13.12,27290,1.9
+Oregon,Slaughterers and Meat Packers,360,24.5,0.186,0.37,14.32,29780,2.2
+Oregon,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",460,23.5,0.243,1.71,18.66,38810,2.6
+Oregon,Food Batchmakers,3700,7.8,1.941,1.79,15.18,31580,1.7
+Oregon,Food Cooking Machine Operators and Tenders,250,9.7,0.131,0.64,17.65,36710,2.7
+Oregon,"Food Processing Workers, All Other",560,12.5,0.296,1.01,15.93,33140,2.7
+Oregon,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",470,28.5,0.247,0.47,19.88,41360,3.1
+Oregon,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",160,29.5,0.086,0.78,20.38,42400,5.1
+Oregon,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",360,27.8,0.188,0.85,22.18,46130,4.1
+Oregon,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",1070,9.2,0.562,0.42,19.24,40020,1.8
+Oregon,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",160,12.7,0.085,1.14,23.52,48920,16.3
+Oregon,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1740,8.4,0.913,1.74,21.42,44560,3.6
+Oregon,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",150,22.1,0.078,0.41,24.99,51990,7.1
+Oregon,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",370,4.9,0.193,1.51,34.85,72480,6.8
+Oregon,Machinists,3500,7.4,1.838,0.7,24.63,51240,2.2
+Oregon,Metal-Refining Furnace Operators and Tenders,410,13.5,0.213,1.82,26.43,54970,2.1
+Oregon,"Pourers and Casters, Metal",130,17.4,0.067,1.23,21.33,44370,3.3
+Oregon,"Patternmakers, Metal and Plastic",50,28.1,0.024,1.18,35.43,73690,3.7
+Oregon,Foundry Mold and Coremakers,410,5.5,0.213,1.78,22.18,46120,1.8
+Oregon,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1560,7.5,0.821,0.7,18.83,39160,2.9
+Oregon,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1880,6.3,0.985,0.98,16.19,33670,4
+Oregon,Tool and Die Makers,450,11.6,0.234,0.48,31.78,66110,4.8
+Oregon,"Welders, Cutters, Solderers, and Brazers",5120,6.8,2.684,0.96,22.95,47730,1.5
+Oregon,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",200,15.6,0.103,0.43,22.72,47260,4.4
+Oregon,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",240,22.7,0.124,0.93,23.55,48990,3.5
+Oregon,"Layout Workers, Metal and Plastic",50,46.7,0.028,0.51,30.53,63490,2.9
+Oregon,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",540,7.9,0.286,1,18.1,37650,2.8
+Oregon,"Tool Grinders, Filers, and Sharpeners",400,10,0.209,4.76,22.3,46380,3.8
+Oregon,"Metal Workers and Plastic Workers, All Other",760,20,0.399,2.41,18.58,38640,4.1
+Oregon,Prepress Technicians and Workers,310,20.6,0.165,0.8,21.15,44000,3.8
+Oregon,Printing Press Operators,1920,6.9,1.008,0.85,19.09,39710,1.9
+Oregon,Print Binding and Finishing Workers,340,23.6,0.179,0.58,16.79,34920,2.1
+Oregon,Laundry and Dry-Cleaning Workers,1800,8.2,0.945,0.66,13.79,28670,1.4
+Oregon,"Pressers, Textile, Garment, and Related Materials",270,24.4,0.141,0.55,13.18,27410,2.3
+Oregon,Sewing Machine Operators,1510,16.6,0.794,0.87,14.51,30190,2
+Oregon,Shoe and Leather Workers and Repairers,110,22.7,0.059,0.99,14.68,30540,4.5
+Oregon,"Sewers, Hand",70,7.7,0.037,1.14,19.01,39540,4.9
+Oregon,"Tailors, Dressmakers, and Custom Sewers",320,48.5,0.166,1.01,16.53,34390,4
+Oregon,"Textile Cutting Machine Setters, Operators, and Tenders",140,14.1,0.074,0.82,13.45,27970,2.2
+Oregon,Fabric and Apparel Patternmakers,**,**,**,**,19.81,41210,10.9
+Oregon,Upholsterers,470,17.8,0.246,1.23,16.53,34390,4.8
+Oregon,"Textile, Apparel, and Furnishings Workers, All Other",**,**,**,**,14.71,30590,3.1
+Oregon,Cabinetmakers and Bench Carpenters,2640,9.9,1.387,2.05,19.06,39650,3.4
+Oregon,Furniture Finishers,90,21.5,0.047,0.43,16.35,34010,3.4
+Oregon,"Sawing Machine Setters, Operators, and Tenders, Wood",2990,8.3,1.57,4.55,17.65,36710,1.8
+Oregon,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2270,7,1.192,2.22,18.26,37990,1.7
+Oregon,"Woodworkers, All Other",840,13.9,0.441,9.66,16.11,33500,2.2
+Oregon,Power Distributors and Dispatchers,280,8.5,0.148,2.01,48.48,100830,1.4
+Oregon,Power Plant Operators,**,**,**,**,40.69,84640,3.3
+Oregon,Stationary Engineers and Boiler Operators,410,7.7,0.214,0.97,28.56,59400,1.6
+Oregon,Water and Wastewater Treatment Plant and System Operators,1200,5.4,0.63,0.75,27.4,57000,1.7
+Oregon,Chemical Plant and System Operators,350,17.2,0.186,0.95,27.41,57000,4.2
+Oregon,Gas Plant Operators,60,25.4,0.03,0.31,37.87,78770,3.8
+Oregon,"Plant and System Operators, All Other",180,13.7,0.097,1.1,27.37,56920,4.2
+Oregon,Chemical Equipment Operators and Tenders,350,10,0.184,0.31,21.89,45540,2.8
+Oregon,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1600,11.5,0.839,2.41,20.45,42540,1.9
+Oregon,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",840,12,0.441,1.94,19.39,40330,2.1
+Oregon,"Grinding and Polishing Workers, Hand",220,15.8,0.113,0.57,16.5,34320,2.9
+Oregon,"Mixing and Blending Machine Setters, Operators, and Tenders",1080,10.6,0.565,0.66,18.25,37970,2.1
+Oregon,"Cutters and Trimmers, Hand",180,33.8,0.094,1.42,15.4,32040,4.5
+Oregon,"Cutting and Slicing Machine Setters, Operators, and Tenders",1020,14.9,0.536,1.36,17.24,35860,4
+Oregon,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1180,12.8,0.619,1.27,20.77,43210,2.4
+Oregon,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",550,12,0.287,2.22,20.68,43020,2
+Oregon,"Inspectors, Testers, Sorters, Samplers, and Weighers",6860,4.8,3.598,0.92,21.91,45570,1.8
+Oregon,Jewelers and Precious Stone and Metal Workers,300,27.7,0.157,0.98,*,*,*
+Oregon,Dental Laboratory Technicians,690,16.7,0.36,1.53,19.39,40320,3.5
+Oregon,Medical Appliance Technicians,120,24.4,0.065,0.67,19.88,41350,6.9
+Oregon,Ophthalmic Laboratory Technicians,390,14.4,0.202,1.02,17.8,37030,2
+Oregon,Packaging and Filling Machine Operators and Tenders,6000,5.8,3.149,1.18,16.11,33520,1.4
+Oregon,"Painting, Coating, and Decorating Workers",100,21.2,0.051,0.6,18.29,38040,4.9
+Oregon,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2100,5.2,1.102,1.11,21.1,43890,1.8
+Oregon,Semiconductor Processing Technicians,4060,32.1,2.128,11.29,19.51,40580,2.2
+Oregon,Photographic Process Workers and Processing Machine Operators,180,14,0.092,1.13,20.83,43320,5.2
+Oregon,Computer Numerically Controlled Tool Operators,2340,7.9,1.226,1.19,21.69,45120,2.1
+Oregon,Computer Numerically Controlled Tool Programmers,690,8.9,0.36,2.07,27.74,57700,3.5
+Oregon,Adhesive Bonding Machine Operators and Tenders,740,10.6,0.387,4.1,19.18,39900,1.9
+Oregon,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",130,25,0.066,0.59,17.98,37410,7.5
+Oregon,Cooling and Freezing Equipment Operators and Tenders,80,9.4,0.042,0.71,20.92,43510,3.1
+Oregon,Etchers and Engravers,60,25.8,0.03,0.42,22.19,46160,8.9
+Oregon,"Molders, Shapers, and Casters, Except Metal and Plastic",530,25.7,0.28,0.92,18.06,37560,3
+Oregon,"Paper Goods Machine Setters, Operators, and Tenders",1080,14.4,0.567,0.83,27.3,56780,3.6
+Oregon,Helpers--Production Workers,3990,6.8,2.091,1.01,16.3,33910,0.9
+Oregon,"Production Workers, All Other",6540,7.4,3.434,2.27,17.85,37130,2
+Oregon,Transportation and Material Moving Occupations,159820,1.6,83.858,0.98,18.82,39150,1.6
+Oregon,Aircraft Cargo Handling Supervisors,130,13.3,0.066,1.02,23.82,49540,5.3
+Oregon,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",5060,4.4,2.655,0.86,27.31,56800,1.6
+Oregon,"Airline Pilots, Copilots, and Flight Engineers",710,9,0.371,0.65,*,214100,16.5
+Oregon,Commercial Pilots,630,8,0.332,1.29,*,74840,6.4
+Oregon,Air Traffic Controllers,180,14,0.095,0.63,46.86,97460,8.4
+Oregon,Airfield Operations Specialists,100,37.2,0.051,0.7,25.28,52570,4.2
+Oregon,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",110,32.7,0.056,0.56,15.59,32430,12.8
+Oregon,Driver/Sales Workers,7510,10.1,3.943,1.3,17.7,36810,3.4
+Oregon,Heavy and Tractor-Trailer Truck Drivers,22990,3.7,12.064,0.95,23.04,47930,1.1
+Oregon,Light Truck Drivers,10880,4.8,5.711,0.91,18.92,39360,2.1
+Oregon,"Bus Drivers, Transit and Intercity",3050,5.8,1.599,1.31,23.61,49120,3.9
+Oregon,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",9410,7.1,4.938,1.04,16.15,33590,1.6
+Oregon,"Motor Vehicle Operators, All Other",1300,9.6,0.682,1.77,15.94,33140,2.5
+Oregon,Locomotive Engineers,730,38.5,0.383,1.58,29.02,60370,3.5
+Oregon,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",**,**,**,**,33.56,69800,2.5
+Oregon,Railroad Conductors and Yardmasters,**,**,**,**,34.57,71910,2.8
+Oregon,Sailors and Marine Oilers,250,15.9,0.13,0.61,24.58,51120,5.8
+Oregon,"Captains, Mates, and Pilots of Water Vessels",290,13,0.151,0.67,41.87,87080,5.1
+Oregon,Motorboat Operators,90,39.9,0.046,3.19,30.01,62410,10
+Oregon,Ship Engineers,**,**,**,**,35.81,74490,3.9
+Oregon,Parking Attendants,1130,17.3,0.595,0.59,13.58,28240,1.7
+Oregon,Automotive and Watercraft Service Attendants,6580,8,3.454,4.31,13,27050,1
+Oregon,Traffic Technicians,130,45.8,0.066,1.3,*,*,*
+Oregon,Transportation Inspectors,260,11.2,0.138,0.68,36.95,76860,2.4
+Oregon,"Aircraft Service Attendants and Transportation Workers, All Other",410,24.7,0.214,0.9,20.41,42450,5.5
+Oregon,Conveyor Operators and Tenders,140,16.4,0.073,0.44,19.71,40990,2.1
+Oregon,Crane and Tower Operators,650,24.9,0.339,1.1,33.22,69090,2.5
+Oregon,Hoist and Winch Operators,110,19.1,0.059,1.8,24.18,50300,4.8
+Oregon,Industrial Truck and Tractor Operators,9820,15.6,5.154,1.2,19.35,40240,1.3
+Oregon,Cleaners of Vehicles and Equipment,5760,6.3,3.023,1.16,14.2,29530,1
+Oregon,"Laborers and Freight, Stock, and Material Movers, Hand",27350,5.2,14.353,0.71,16.44,34190,1.1
+Oregon,Machine Feeders and Offbearers,3250,6.5,1.704,3.96,16.52,34370,2
+Oregon,"Packers and Packagers, Hand",6200,7.2,3.253,0.75,14.16,29450,1.2
+Oregon,Stockers and Order Fillers,29990,3.2,15.736,1.08,15.57,32380,0.7
+Oregon,"Pump Operators, Except Wellhead Pumpers",100,43.6,0.053,0.77,23.99,49900,19.4
+Oregon,Refuse and Recyclable Material Collectors,1920,8.4,1.009,1.22,21.21,44110,3.3
+Oregon,"Tank Car, Truck, and Ship Loaders",**,**,**,**,19.74,41050,6.4
+Oregon,"Material Moving Workers, All Other",530,12.9,0.28,1.46,18.77,39030,2

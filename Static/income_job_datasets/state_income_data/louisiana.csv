@@ -1,0 +1,728 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Louisiana,All Occupations,1921950,0.5,1000,1,21.24,44170,0.6
+Louisiana,Management Occupations,90880,1.3,47.283,0.86,48.52,100920,0.8
+Louisiana,Chief Executives,790,5.1,0.409,0.29,100.75,209560,3.1
+Louisiana,General and Operations Managers,29260,1.9,15.223,0.93,56.36,117220,1.1
+Louisiana,Legislators,590,14,0.309,0.87,*,27180,5.7
+Louisiana,Advertising and Promotions Managers,130,16.6,0.07,0.41,40.4,84030,7.1
+Louisiana,Marketing Managers,940,6.2,0.488,0.27,47.28,98330,2
+Louisiana,Sales Managers,3170,5.3,1.649,0.6,49.93,103860,1.7
+Louisiana,Public Relations and Fundraising Managers,290,10.9,0.152,0.28,44.42,92390,4.6
+Louisiana,Administrative Services and Facilities Managers,2650,4.3,1.379,0.66,41.58,86480,3.2
+Louisiana,Computer and Information Systems Managers,1980,4.8,1.029,0.35,53.48,111250,1.8
+Louisiana,Financial Managers,5970,3,3.104,0.7,52.35,108890,1.6
+Louisiana,Industrial Production Managers,2100,4.9,1.093,0.86,59.08,122890,3.4
+Louisiana,Purchasing Managers,560,7.9,0.291,0.59,45.35,94330,2.2
+Louisiana,"Transportation, Storage, and Distribution Managers",1560,6.7,0.813,0.9,43.64,90780,2.1
+Louisiana,Compensation and Benefits Managers,200,13.2,0.105,0.91,41.53,86380,2.3
+Louisiana,Human Resources Managers,1570,3.8,0.818,0.78,44.96,93510,1.4
+Louisiana,Training and Development Managers,350,6.5,0.18,0.69,43.44,90350,2.9
+Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",70,17.7,0.034,1,36.78,76490,4.4
+Louisiana,Construction Managers,3870,7.6,2.014,1.01,49.47,102900,3.8
+Louisiana,"Education and Childcare Administrators, Preschool and Daycare",220,16.8,0.116,0.32,21.53,44790,5.6
+Louisiana,"Education Administrators, Kindergarten through Secondary",5270,4.6,2.741,1.49,*,66670,1.2
+Louisiana,"Education Administrators, Postsecondary",2180,6.6,1.133,1.15,47.05,97860,4.4
+Louisiana,"Education Administrators, All Other",220,8,0.114,0.38,34.19,71120,3.5
+Louisiana,Architectural and Engineering Managers,1390,6.7,0.722,0.55,73.11,152070,2
+Louisiana,Food Service Managers,1810,14.1,0.944,0.59,31.64,65810,3.9
+Louisiana,Gambling Managers,170,7.2,0.087,2.86,41.88,87110,8.9
+Louisiana,Lodging Managers,340,15,0.175,0.67,36.14,75170,10.8
+Louisiana,Medical and Health Services Managers,4990,2.8,2.594,0.96,49.14,102210,1.4
+Louisiana,Natural Sciences Managers,330,10.2,0.174,0.38,50.19,104390,5.6
+Louisiana,Postmasters and Mail Superintendents,250,0,0.132,1.4,38.12,79280,0.6
+Louisiana,"Property, Real Estate, and Community Association Managers",3310,6.8,1.722,1.15,26.36,54820,9
+Louisiana,Social and Community Service Managers,1540,3.3,0.803,0.75,34.88,72550,2.2
+Louisiana,Emergency Management Directors,90,7.9,0.048,0.7,38,79030,4
+Louisiana,Funeral Home Managers,180,19.9,0.095,1.49,37.92,78870,8.3
+Louisiana,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",12530,3.5,6.521,2.03,42.59,88590,1.3
+Louisiana,Business and Financial Operations Occupations,73590,2,38.29,0.69,30.38,63180,0.8
+Louisiana,"Agents and Business Managers of Artists, Performers, and Athletes",70,18.9,0.035,0.3,20.65,42950,15.3
+Louisiana,Buyers and Purchasing Agents,3010,5,1.564,0.55,26.53,55190,1.4
+Louisiana,"Claims Adjusters, Examiners, and Investigators",2450,8.2,1.275,0.65,33.34,69340,3.1
+Louisiana,"Insurance Appraisers, Auto Damage",190,31.2,0.1,1.06,29.88,62150,2.7
+Louisiana,Compliance Officers,4440,3.7,2.311,1.07,29.97,62330,1
+Louisiana,Cost Estimators,2220,8.5,1.156,0.81,32.9,68440,1.4
+Louisiana,Human Resources Specialists,4030,3,2.096,0.49,26.7,55530,1
+Louisiana,Labor Relations Specialists,140,31.7,0.075,0.14,24.4,50760,12.7
+Louisiana,Logisticians,1230,9.5,0.641,0.52,38.06,79170,4
+Louisiana,Management Analysts,3400,5.8,1.766,0.37,40.82,84900,2.9
+Louisiana,"Meeting, Convention, and Event Planners",350,13.1,0.182,0.23,21.03,43730,2.7
+Louisiana,Fundraisers,300,20.6,0.156,0.28,27.49,57170,18
+Louisiana,"Compensation, Benefits, and Job Analysis Specialists",1320,9,0.689,1.13,24.03,49990,2.5
+Louisiana,Training and Development Specialists,2520,11.6,1.31,0.62,27.37,56930,4.4
+Louisiana,Market Research Analysts and Marketing Specialists,3200,7.6,1.666,0.36,24.37,50680,2.9
+Louisiana,"Project Management Specialists and Business Operations Specialists, All Other",20300,4.4,10.562,1.21,29.84,62060,1.5
+Louisiana,Accountants and Auditors,11980,3.9,6.231,0.71,31.84,66230,1.3
+Louisiana,Property Appraisers and Assessors,550,19.8,0.284,0.74,27.9,58020,3.7
+Louisiana,Budget Analysts,370,6.3,0.193,0.55,32.12,66820,1.7
+Louisiana,Credit Analysts,290,18.3,0.149,0.3,29.7,61770,5.5
+Louisiana,Personal Financial Advisors,1270,12.2,0.659,0.46,49.11,102150,8.8
+Louisiana,Insurance Underwriters,1170,16.1,0.606,0.89,31.99,66540,7
+Louisiana,Financial Examiners,120,7.3,0.06,0.14,46.1,95880,3.9
+Louisiana,Credit Counselors,250,33.8,0.131,0.6,17.22,35810,3
+Louisiana,Loan Officers,4000,6.8,2.08,0.99,27.23,56630,3.7
+Louisiana,"Tax Examiners and Collectors, and Revenue Agents",610,4.4,0.316,0.86,25.03,52070,1.4
+Louisiana,Tax Preparers,820,20.3,0.425,0.94,22.33,46450,8.1
+Louisiana,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",3020,7.3,1.569,0.5,31.68,65900,2.4
+Louisiana,Computer and Mathematical Occupations,20230,2.8,10.527,0.34,33.02,68690,1.4
+Louisiana,Computer Systems Analysts,2180,8.2,1.132,0.28,39.24,81620,2.9
+Louisiana,Information Security Analysts,600,8.5,0.314,0.37,36.18,75250,2.6
+Louisiana,Computer and Information Research Scientists,100,0.7,0.05,0.24,40.99,85270,1.8
+Louisiana,Computer Network Support Specialists,1280,7.1,0.667,0.53,27.17,56520,2.4
+Louisiana,Computer User Support Specialists,3590,6.3,1.868,0.42,23.16,48170,2.3
+Louisiana,Computer Network Architects,450,14,0.234,0.23,39.24,81630,5.5
+Louisiana,Network and Computer Systems Administrators,2190,5.8,1.14,0.47,33.47,69620,1.5
+Louisiana,Database Administrators and Architects,460,10.6,0.24,0.28,37.28,77540,2
+Louisiana,Computer Programmers,2040,10.2,1.063,0.78,38.98,81070,7.4
+Louisiana,Software Developers and Software Quality Assurance Analysts and Testers,2310,8.8,1.204,0.13,40.43,84100,2
+Louisiana,Web Developers and Digital Interface Designers,490,15.9,0.256,0.25,25.27,52550,6.9
+Louisiana,"Computer Occupations, All Other",4140,3.7,2.155,0.81,31.63,65780,2.2
+Louisiana,Operations Research Analysts,210,10.9,0.112,0.16,34.87,72540,5.6
+Louisiana,Statisticians,70,13,0.038,0.14,36.18,75240,3.6
+Louisiana,"Data Scientists and Mathematical Science Occupations, All Other",80,35.7,0.044,0.21,34.92,72630,6.2
+Louisiana,Architecture and Engineering Occupations,31220,2.7,16.245,0.92,40.39,84000,1.5
+Louisiana,"Architects, Except Landscape and Naval",1220,13.1,0.634,0.88,37.85,78720,3.3
+Louisiana,Landscape Architects,180,30.2,0.095,0.69,26.88,55910,10.7
+Louisiana,Cartographers and Photogrammetrists,140,28.7,0.071,0.93,28.32,58910,6.6
+Louisiana,Surveyors,990,11.8,0.514,1.67,30.96,64390,3.2
+Louisiana,Aerospace Engineers,90,32.6,0.047,0.11,52.2,108570,7.4
+Louisiana,Chemical Engineers,1610,9.9,0.836,4.08,55.5,115430,4.5
+Louisiana,Civil Engineers,2850,14.6,1.485,0.7,50.48,104990,4.3
+Louisiana,Computer Hardware Engineers,150,12.9,0.08,0.17,43.44,90360,4
+Louisiana,Electrical Engineers,1000,13.4,0.522,0.41,49.27,102470,2
+Louisiana,"Electronics Engineers, Except Computer",730,21.4,0.38,0.43,41.47,86250,2.3
+Louisiana,Environmental Engineers,430,12.1,0.224,0.62,48.85,101620,4.2
+Louisiana,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",450,9.1,0.233,1.33,41.84,87030,7
+Louisiana,Industrial Engineers,1530,10.3,0.796,0.4,45.75,95150,2
+Louisiana,Marine Engineers and Naval Architects,170,18.1,0.091,1.17,45.52,94680,9.9
+Louisiana,Materials Engineers,350,17.9,0.18,0.98,51.98,108110,2.7
+Louisiana,Mechanical Engineers,1800,7.5,0.938,0.45,47.48,98760,2.9
+Louisiana,Nuclear Engineers,**,**,**,**,44.73,93040,8.9
+Louisiana,Petroleum Engineers,1330,22.4,0.693,3.12,63.46,132000,6.7
+Louisiana,"Engineers, All Other",5590,5.9,2.91,2.81,44.75,93080,2.2
+Louisiana,Architectural and Civil Drafters,710,12.8,0.369,0.55,24.85,51680,2.4
+Louisiana,Electrical and Electronics Drafters,150,14.5,0.076,0.46,30.96,64390,5.2
+Louisiana,Mechanical Drafters,430,14.2,0.226,0.6,30.52,63470,3.4
+Louisiana,"Drafters, All Other",1620,11.3,0.841,8.46,26.25,54590,3.3
+Louisiana,Civil Engineering Technologists and Technicians,710,19.3,0.37,0.79,25.72,53500,3
+Louisiana,Electrical and Electronic Engineering Technologists and Technicians,1380,9.7,0.72,0.86,28.54,59360,3.4
+Louisiana,Electro-Mechanical and Mechatronics Technologists and Technicians,370,10.2,0.191,1.97,30.34,63120,4.6
+Louisiana,Environmental Engineering Technologists and Technicians,390,25.3,0.201,1.64,22.29,46350,4.6
+Louisiana,Industrial Engineering Technologists and Technicians,480,9.1,0.249,0.55,37.02,76990,6.4
+Louisiana,Mechanical Engineering Technologists and Technicians,170,13.8,0.09,0.31,36.92,76790,6.5
+Louisiana,Surveying and Mapping Technicians,1200,8.1,0.627,1.74,20.22,42050,3
+Louisiana,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",2760,4.8,1.438,2.39,28.53,59350,5.9
+Louisiana,"Life, Physical, and Social Science Occupations",14380,3.8,7.481,0.85,32.47,67530,1.2
+Louisiana,Soil and Plant Scientists,90,25.3,0.047,0.49,36.15,75200,2.3
+Louisiana,Zoologists and Wildlife Biologists,60,8.5,0.031,0.24,33.01,68660,2.7
+Louisiana,"Biological Scientists, All Other",600,10.5,0.312,1.14,32.62,67840,1.5
+Louisiana,Conservation Scientists,630,1.5,0.33,2.2,30.54,63530,1.3
+Louisiana,Foresters,100,26.6,0.05,0.77,30.73,63930,1.8
+Louisiana,Epidemiologists,110,9.8,0.056,1.1,27.29,56760,2.5
+Louisiana,"Medical Scientists, Except Epidemiologists",190,9.5,0.098,0.11,35.39,73610,7.7
+Louisiana,"Life Scientists, All Other",160,28.1,0.086,1.95,30.75,63960,3.1
+Louisiana,Physicists,40,20.5,0.023,0.2,76,158090,5.8
+Louisiana,Atmospheric and Space Scientists,100,17.8,0.05,0.79,41.3,85910,5.8
+Louisiana,Chemists,640,8.8,0.333,0.59,42.68,88770,2.7
+Louisiana,Materials Scientists,70,47.3,0.038,0.83,49.65,103270,5.2
+Louisiana,"Environmental Scientists and Specialists, Including Health",1080,10.2,0.562,0.98,34.43,71610,4.6
+Louisiana,"Geoscientists, Except Hydrologists and Geographers",620,13.2,0.321,1.61,44.21,91960,5.3
+Louisiana,Hydrologists,130,33,0.068,1.56,31.72,65970,1.9
+Louisiana,"Physical Scientists, All Other",90,14.8,0.046,0.38,44.89,93370,12
+Louisiana,Economists,50,17.2,0.026,0.2,52.24,108660,3.4
+Louisiana,Survey Researchers,**,**,**,**,20.06,41730,9
+Louisiana,"Clinical, Counseling, and School Psychologists",290,25.6,0.152,0.2,46.17,96040,15.4
+Louisiana,"Psychologists, All Other",210,9.2,0.11,1.14,43.36,90190,4.2
+Louisiana,Urban and Regional Planners,270,7.7,0.139,0.53,35.53,73910,2.1
+Louisiana,Anthropologists and Archeologists,100,28,0.05,1.1,34.14,71010,4.2
+Louisiana,Geographers,40,29.1,0.019,1.95,38.92,80960,2.4
+Louisiana,"Social Scientists and Related Workers, All Other",250,9.2,0.131,0.57,36.89,76730,2.9
+Louisiana,Agricultural and Food Science Technicians,250,36.1,0.132,0.89,15.81,32890,4.4
+Louisiana,Biological Technicians,160,9.5,0.082,0.15,21.77,45290,3.5
+Louisiana,Chemical Technicians,2540,12.6,1.322,2.95,31.53,65590,3.5
+Louisiana,"Environmental Science and Protection Technicians, Including Health",270,24.7,0.141,0.63,27.49,57180,4.4
+Louisiana,Geological and Hydrologic Technicians,450,18.7,0.236,2.03,28.39,59060,5.2
+Louisiana,Social Science Research Assistants,240,48.3,0.123,0.51,*,*,*
+Louisiana,Forest and Conservation Technicians,150,14.4,0.079,0.61,21.18,44060,1.3
+Louisiana,Forensic Science Technicians,230,3.8,0.121,1.08,23.53,48950,3.2
+Louisiana,"Life, Physical, and Social Science Technicians, All Other",1700,10,0.882,2.02,23.25,48370,1.7
+Louisiana,Occupational Health and Safety Specialists,1540,7.1,0.803,1.27,35.17,73150,2.3
+Louisiana,Occupational Health and Safety Technicians,570,9.9,0.299,2.13,28.62,59540,5.1
+Louisiana,Community and Social Service Occupations,27220,2.1,14.161,0.93,21.92,45580,1.1
+Louisiana,"Educational, Guidance, and Career Counselors and Advisors",6160,4.6,3.203,1.59,26.68,55500,1.2
+Louisiana,Marriage and Family Therapists,70,46.5,0.038,0.09,21.76,45260,13.5
+Louisiana,Rehabilitation Counselors,450,11.1,0.234,0.31,23.3,48460,4.4
+Louisiana,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",3910,6.9,2.033,1.05,19.43,40410,2.3
+Louisiana,"Counselors, All Other",2040,5.9,1.061,6.13,18.41,38300,1.7
+Louisiana,"Child, Family, and School Social Workers",450,13.9,0.233,0.1,21.66,45060,2.3
+Louisiana,Healthcare Social Workers,1770,6.8,0.922,0.77,25.66,53360,1.6
+Louisiana,Mental Health and Substance Abuse Social Workers,1270,10.2,0.663,0.83,19.88,41350,2.3
+Louisiana,"Social Workers, All Other",920,7.8,0.48,1.21,28.05,58330,3.1
+Louisiana,Health Education Specialists,580,8.9,0.304,0.76,30.18,62780,3.7
+Louisiana,Probation Officers and Correctional Treatment Specialists,1070,1.1,0.557,0.93,24.79,51560,1.3
+Louisiana,Social and Human Service Assistants,2950,7.4,1.532,0.56,14.96,31130,2.2
+Louisiana,Community Health Workers,600,14.5,0.312,0.78,20.13,41860,2.4
+Louisiana,"Community and Social Service Specialists, All Other",4570,4.7,2.38,3.59,19.72,41030,2.8
+Louisiana,Clergy,360,15.2,0.187,0.52,24.83,51640,5.1
+Louisiana,"Directors, Religious Activities and Education",**,**,**,**,20.16,41940,14.4
+Louisiana,Legal Occupations,15000,3.3,7.804,1,39.11,81350,4.3
+Louisiana,Lawyers,8070,5,4.197,0.94,51.96,108070,5.2
+Louisiana,Judicial Law Clerks,230,14.5,0.119,1.05,23.4,48670,4.8
+Louisiana,"Administrative Law Judges, Adjudicators, and Hearing Officers",210,14.5,0.112,1.14,37.65,78310,7
+Louisiana,"Arbitrators, Mediators, and Conciliators",30,26.9,0.017,0.4,30.44,63310,9.1
+Louisiana,Paralegals and Legal Assistants,4770,8.9,2.483,1.11,24.1,50140,5.1
+Louisiana,"Title Examiners, Abstractors, and Searchers",900,20.6,0.469,1.3,19.2,39940,8
+Louisiana,"Legal Support Workers, All Other",670,20,0.35,1.14,23.47,48820,3.4
+Louisiana,Educational Instruction and Library Occupations,129790,3.8,67.53,1.12,21.16,44010,1.4
+Louisiana,"Business Teachers, Postsecondary",640,36.7,0.334,0.58,*,77480,4.4
+Louisiana,"Computer Science Teachers, Postsecondary",170,13.5,0.091,0.42,*,90020,2.4
+Louisiana,"Mathematical Science Teachers, Postsecondary",350,14.6,0.183,0.53,*,67750,5.3
+Louisiana,"Architecture Teachers, Postsecondary",90,7.1,0.049,1.05,*,85980,3.9
+Louisiana,"Engineering Teachers, Postsecondary",320,12.9,0.167,0.68,*,80970,1.4
+Louisiana,"Agricultural Sciences Teachers, Postsecondary",250,1.6,0.131,2.03,*,78690,3.8
+Louisiana,"Biological Science Teachers, Postsecondary",300,8.8,0.157,0.44,*,79010,4.2
+Louisiana,"Forestry and Conservation Science Teachers, Postsecondary",40,36,0.021,1.71,*,79800,5.3
+Louisiana,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",40,0.2,0.02,0.27,*,102050,3.1
+Louisiana,"Chemistry Teachers, Postsecondary",160,14.4,0.081,0.56,*,88570,4.4
+Louisiana,"Environmental Science Teachers, Postsecondary",50,0,0.024,0.58,*,86660,3
+Louisiana,"Physics Teachers, Postsecondary",110,19.2,0.059,0.63,*,111170,5.8
+Louisiana,"Economics Teachers, Postsecondary",130,25.1,0.067,0.75,*,117960,6.6
+Louisiana,"Geography Teachers, Postsecondary",40,30.7,0.019,0.72,*,83670,3.8
+Louisiana,"Political Science Teachers, Postsecondary",110,23.2,0.057,0.53,*,78550,5.4
+Louisiana,"Psychology Teachers, Postsecondary",170,9,0.089,0.35,*,70000,4.4
+Louisiana,"Sociology Teachers, Postsecondary",80,17.9,0.044,0.46,*,66910,3.4
+Louisiana,"Social Sciences Teachers, Postsecondary, All Other",150,2.2,0.076,0.66,*,*,*
+Louisiana,"Health Specialties Teachers, Postsecondary",1020,11,0.53,0.39,*,95930,7.6
+Louisiana,"Nursing Instructors and Teachers, Postsecondary",550,34.8,0.286,0.71,*,67080,2.4
+Louisiana,"Education Teachers, Postsecondary",360,21.5,0.186,0.45,*,57460,3
+Louisiana,"Library Science Teachers, Postsecondary",60,20.8,0.031,1.04,*,62800,2
+Louisiana,"Criminal Justice and Law Enforcement Teachers, Postsecondary",60,24.2,0.031,0.32,*,48070,3.6
+Louisiana,"Social Work Teachers, Postsecondary",80,24.4,0.041,0.44,*,78050,4.7
+Louisiana,"Art, Drama, and Music Teachers, Postsecondary",450,11,0.234,0.36,*,61430,3.7
+Louisiana,"Communications Teachers, Postsecondary",150,6.8,0.077,0.39,*,58520,4.1
+Louisiana,"English Language and Literature Teachers, Postsecondary",340,6.7,0.177,0.38,*,*,*
+Louisiana,"Foreign Language and Literature Teachers, Postsecondary",160,8.1,0.085,0.5,*,83920,4.6
+Louisiana,"History Teachers, Postsecondary",120,7,0.065,0.45,*,72230,6.4
+Louisiana,"Family and Consumer Sciences Teachers, Postsecondary",40,12,0.023,1.58,*,48190,8.6
+Louisiana,"Recreation and Fitness Studies Teachers, Postsecondary",120,16.1,0.06,0.56,*,48800,8.1
+Louisiana,"Career/Technical Education Teachers, Postsecondary",820,12,0.425,0.56,24.91,51820,4.8
+Louisiana,"Postsecondary Teachers, All Other",5550,3.8,2.888,2.11,*,76980,3.8
+Louisiana,"Preschool Teachers, Except Special Education",1520,24.5,0.789,0.27,13.99,29100,3.2
+Louisiana,"Kindergarten Teachers, Except Special Education",190,27.7,0.098,0.12,*,45200,3.2
+Louisiana,"Elementary School Teachers, Except Special Education",23670,4.2,12.316,1.26,*,48630,1
+Louisiana,"Middle School Teachers, Except Special and Career/Technical Education",7600,6.9,3.954,0.93,*,49790,0.9
+Louisiana,"Career/Technical Education Teachers, Middle School",80,5.6,0.041,0.51,*,51510,2.3
+Louisiana,"Secondary School Teachers, Except Special and Career/Technical Education",14810,4.2,7.706,1.09,*,52090,1
+Louisiana,"Career/Technical Education Teachers, Secondary School",1380,3.5,0.716,1.41,*,54130,0.7
+Louisiana,"Special Education Teachers, Kindergarten and Elementary School",4480,5.3,2.329,1.76,*,50120,0.8
+Louisiana,"Special Education Teachers, Middle School",1290,9,0.673,1.15,*,51320,1
+Louisiana,"Special Education Teachers, Secondary School",2410,5.8,1.255,1.29,*,52590,1
+Louisiana,"Special Education Teachers, All Other",470,6.6,0.247,1.02,*,53590,1.5
+Louisiana,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",280,13.4,0.147,0.42,21.15,43990,5.1
+Louisiana,Self-Enrichment Teachers,1930,13.6,1.006,0.58,18.97,39460,4.3
+Louisiana,"Substitute Teachers, Short-Term",210,19.2,0.109,0.03,14.26,29660,3.7
+Louisiana,"Tutors and Teachers and Instructors, All Other",4060,8.2,2.111,0.97,*,43220,4.4
+Louisiana,Archivists,50,15.6,0.028,0.62,21.85,45460,4.1
+Louisiana,Curators,140,14.8,0.075,0.85,20.91,43500,5.6
+Louisiana,Museum Technicians and Conservators,100,30.8,0.051,0.57,12.88,26790,7.6
+Louisiana,Librarians and Media Collections Specialists,2650,3.9,1.379,1.49,25.57,53190,1
+Louisiana,Library Technicians,1840,5.7,0.956,1.58,16.43,34180,2.2
+Louisiana,Instructional Coordinators,4360,3.8,2.267,1.88,25.1,52210,1.6
+Louisiana,"Teaching Assistants, Postsecondary",2020,5.1,1.049,1.12,*,37240,4
+Louisiana,"Teaching Assistants, Except Postsecondary",17730,4.2,9.227,1.01,*,21590,1.8
+Louisiana,"Arts, Design, Entertainment, Sports, and Media Occupations",18630,4.4,9.695,0.71,23.26,48380,3.4
+Louisiana,Art Directors,110,26,0.056,0.19,37.78,78590,9.8
+Louisiana,"Fine Artists, Including Painters, Sculptors, and Illustrators",80,48,0.043,0.52,23.29,48440,10.8
+Louisiana,Special Effects Artists and Animators,140,26.8,0.071,0.36,34.54,71840,16.3
+Louisiana,"Artists and Related Workers, All Other",30,18.3,0.018,0.35,23.18,48210,3.5
+Louisiana,Commercial and Industrial Designers,210,18.8,0.108,0.48,40.75,84770,5.5
+Louisiana,Fashion Designers,60,35.9,0.03,0.2,32.17,66920,7.9
+Louisiana,Floral Designers,730,8.4,0.38,1.34,13.2,27460,4.9
+Louisiana,Graphic Designers,1590,7.7,0.828,0.56,22.79,47400,3.9
+Louisiana,Interior Designers,260,11.4,0.134,0.32,21.13,43940,6.9
+Louisiana,Merchandise Displayers and Window Trimmers,1070,17.6,0.558,0.58,14.04,29210,9.7
+Louisiana,Set and Exhibit Designers,110,30,0.058,0.71,24.09,50110,8.2
+Louisiana,"Designers, All Other",1000,32.6,0.52,7.2,42.24,87850,4.1
+Louisiana,Actors,2240,9.6,1.163,3.25,13.79,*,11.9
+Louisiana,Producers and Directors,1300,22.3,0.676,0.77,27.77,57750,5
+Louisiana,Athletes and Sports Competitors,150,11.2,0.076,0.99,*,*,*
+Louisiana,Coaches and Scouts,1610,9.8,0.837,0.51,*,54470,8.8
+Louisiana,"Umpires, Referees, and Other Sports Officials",420,40,0.221,1.61,*,46920,10.5
+Louisiana,Dancers,190,39.4,0.099,1.5,*,*,*
+Louisiana,Choreographers,310,31.8,0.163,5.19,22.49,46770,15.7
+Louisiana,Music Directors and Composers,60,37.1,0.031,0.43,*,*,*
+Louisiana,Musicians and Singers,280,40.2,0.143,0.51,*,*,*
+Louisiana,Broadcast Announcers and Radio Disc Jockeys,330,19.7,0.17,0.85,*,*,*
+Louisiana,"News Analysts, Reporters, and Journalists",660,13,0.345,1.15,27.36,56910,4.6
+Louisiana,Public Relations Specialists,1010,11.2,0.523,0.31,27.64,57490,7.3
+Louisiana,Editors,430,9.3,0.221,0.34,21.15,43980,4.1
+Louisiana,Technical Writers,190,9.7,0.098,0.28,34.03,70790,3.9
+Louisiana,Writers and Authors,330,19.9,0.169,0.54,20.23,42080,6.3
+Louisiana,Interpreters and Translators,160,28.1,0.083,0.21,16.84,35030,6.9
+Louisiana,Court Reporters and Simultaneous Captioners,290,13.9,0.151,1.53,23.16,48170,2.9
+Louisiana,"Media and Communication Workers, All Other",610,19.4,0.317,1.85,18.19,37830,4.2
+Louisiana,Audio and Video Technicians,600,20.1,0.311,0.62,18.83,39160,4.4
+Louisiana,Broadcast Technicians,180,20.6,0.092,0.47,20.07,41750,7.3
+Louisiana,Sound Engineering Technicians,90,32.7,0.046,0.53,26.2,54500,10.4
+Louisiana,Photographers,570,9.2,0.294,0.85,15.78,32820,4.5
+Louisiana,"Camera Operators, Television, Video, and Film",260,16.4,0.136,0.93,19.01,39530,7.1
+Louisiana,"Lighting Technicians and Media and Communication Equipment Workers, All Other",430,10.2,0.223,1.4,21.61,44950,12.1
+Louisiana,Healthcare Practitioners and Technical Occupations,129270,1.3,67.259,1.14,32.59,67780,1.2
+Louisiana,Chiropractors,270,26.4,0.141,0.59,41.04,85360,10.6
+Louisiana,"Dentists, General",920,13.6,0.476,0.63,74.69,155350,8.8
+Louisiana,"Dentists, All Other Specialists",110,30.9,0.056,1.55,110.43,229690,13.8
+Louisiana,Dietitians and Nutritionists,770,5,0.401,0.87,27.28,56740,1.9
+Louisiana,Optometrists,260,32.1,0.135,0.5,52.33,108850,8.1
+Louisiana,Pharmacists,5060,6.2,2.633,1.24,59.2,123140,1.8
+Louisiana,Physician Assistants,1180,10.5,0.614,0.75,41.58,86490,4.2
+Louisiana,Podiatrists,50,18.7,0.025,0.37,71.11,147900,9.9
+Louisiana,Occupational Therapists,1730,7.4,0.901,0.99,42.02,87410,2.2
+Louisiana,Physical Therapists,2960,6.7,1.539,0.97,43.06,89560,1.9
+Louisiana,Radiation Therapists,210,5.7,0.107,0.88,36.44,75800,2.2
+Louisiana,Recreational Therapists,360,6.2,0.187,1.44,20.16,41920,1.9
+Louisiana,Respiratory Therapists,2470,4.1,1.283,1.43,26.2,54490,0.7
+Louisiana,Speech-Language Pathologists,1260,14.2,0.658,0.63,40.62,84480,2.5
+Louisiana,Exercise Physiologists,50,7.1,0.025,0.5,23.91,49730,2
+Louisiana,"Therapists, All Other",**,**,**,**,19.84,41260,5.7
+Louisiana,Veterinarians,910,11,0.471,0.93,43.37,90210,5.1
+Louisiana,Registered Nurses,40870,2.1,21.266,1.05,31.66,65850,0.8
+Louisiana,Nurse Anesthetists,810,9.7,0.421,1.42,76.2,158500,2
+Louisiana,Nurse Practitioners,3170,5.2,1.647,1.21,51.08,106240,2.1
+Louisiana,Audiologists,260,30.5,0.135,1.46,33.78,70260,3.6
+Louisiana,Anesthesiologists,200,30.5,0.105,0.5,129.58,269520,12.1
+Louisiana,Family Medicine Physicians,590,19.7,0.307,0.41,99.52,207000,7.4
+Louisiana,General Internal Medicine Physicians,140,19.3,0.075,0.25,90.7,188650,8.5
+Louisiana,Obstetricians and Gynecologists,70,48.1,0.037,0.29,123.61,257110,21.4
+Louisiana,"Pediatricians, General",230,38.7,0.12,0.59,70.34,146300,15.5
+Louisiana,Psychiatrists,80,33.7,0.041,0.23,50.13,104270,12.8
+Louisiana,"Physicians, All Other; and Ophthalmologists, Except Pediatric",4960,10,2.581,0.97,93.11,193670,5.5
+Louisiana,"Surgeons, Except Ophthalmologists",180,30.7,0.091,0.37,121.4,252510,11.1
+Louisiana,Dental Hygienists,2300,10.3,1.197,0.79,31.71,65960,4
+Louisiana,Clinical Laboratory Technologists and Technicians,4470,2.9,2.328,1.05,23.19,48230,1.5
+Louisiana,Cardiovascular Technologists and Technicians,740,3.4,0.384,1.01,20.28,42170,1.4
+Louisiana,Diagnostic Medical Sonographers,1110,7,0.58,1.17,30.53,63500,1.9
+Louisiana,Nuclear Medicine Technologists,420,18.1,0.217,1.76,32.77,68160,1.3
+Louisiana,Radiologic Technologists and Technicians,3030,4.2,1.574,1.11,25.05,52090,0.9
+Louisiana,Magnetic Resonance Imaging Technologists,710,9.5,0.368,1.42,29.99,62370,0.9
+Louisiana,Emergency Medical Technicians and Paramedics,4340,9.3,2.257,1.27,20.34,42310,3.4
+Louisiana,Dietetic Technicians,310,9.2,0.161,0.81,12.91,26850,3.3
+Louisiana,Pharmacy Technicians,6150,3.8,3.198,1.12,16.38,34070,1.4
+Louisiana,Psychiatric Technicians,1260,7.2,0.655,1.23,13.33,27730,2
+Louisiana,Surgical Technologists,1780,4,0.926,1.25,19.82,41230,1
+Louisiana,Veterinary Technologists and Technicians,1550,11,0.807,1.07,12.97,26980,2.1
+Louisiana,Ophthalmic Medical Technicians,250,29.7,0.129,0.32,17.61,36620,3
+Louisiana,Licensed Practical and Licensed Vocational Nurses,19270,2.4,10.028,2.11,19.37,40300,0.6
+Louisiana,"Opticians, Dispensing",1150,14.9,0.599,1.22,15.79,32850,2.3
+Louisiana,Orthotists and Prosthetists,220,36.9,0.116,1.74,33.62,69930,5.4
+Louisiana,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",5810,3.8,3.021,1.34,18.38,38220,1.6
+Louisiana,Athletic Trainers,300,18.6,0.157,0.8,*,45790,7.9
+Louisiana,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",2440,12.6,1.272,3.44,24.87,51720,3.3
+Louisiana,Healthcare Support Occupations,89940,1.6,46.794,1.05,11.82,24590,0.9
+Louisiana,Home Health and Personal Care Aides,38580,2.9,20.072,0.93,9.46,19680,0.7
+Louisiana,Nursing Assistants,21500,2.7,11.188,1.16,11.22,23340,0.9
+Louisiana,Orderlies,1000,2.5,0.519,1.62,11.39,23690,3.2
+Louisiana,Psychiatric Aides,810,8.5,0.424,1.13,12.01,24980,2.8
+Louisiana,Occupational Therapy Assistants,700,12.4,0.363,1.18,30.21,62840,2.9
+Louisiana,Occupational Therapy Aides,360,20.6,0.186,3.61,18.61,38700,17.7
+Louisiana,Physical Therapist Assistants,1490,7.4,0.777,1.18,26.73,55600,4.2
+Louisiana,Physical Therapist Aides,1750,12.3,0.912,2.72,12.5,26010,12.5
+Louisiana,Massage Therapists,670,21.6,0.348,0.48,13.84,28790,10.4
+Louisiana,Dental Assistants,5070,5.7,2.64,1.1,16.01,33300,2.4
+Louisiana,Medical Assistants,8570,4.1,4.461,0.92,14.45,30070,1
+Louisiana,Medical Equipment Preparers,510,8.7,0.267,0.69,14.87,30930,1.3
+Louisiana,Medical Transcriptionists,650,17.7,0.338,0.89,16.63,34580,3.6
+Louisiana,Pharmacy Aides,1160,27.2,0.602,2.37,11.84,24640,2.6
+Louisiana,Veterinary Assistants and Laboratory Animal Caretakers,1730,15.5,0.898,1.36,12.18,25340,2.6
+Louisiana,Phlebotomists,2320,7,1.209,1.38,14.76,30710,1.6
+Louisiana,"Healthcare Support Workers, All Other",3060,8.8,1.591,2.51,14.49,30140,2
+Louisiana,Protective Service Occupations,58160,1.9,30.26,1.27,18.25,37960,1.6
+Louisiana,First-Line Supervisors of Correctional Officers,1270,4.2,0.659,2.08,26.33,54770,2.1
+Louisiana,First-Line Supervisors of Police and Detectives,2280,2.7,1.188,1.44,30.65,63740,1.8
+Louisiana,First-Line Supervisors of Firefighting and Prevention Workers,1710,5.3,0.89,1.88,28.6,59490,2.6
+Louisiana,"Miscellaneous First-Line Supervisors, Protective Service Workers",1220,4.3,0.632,1.12,24.47,50900,6.2
+Louisiana,Firefighters,6750,5.8,3.51,1.59,14.98,31150,2.5
+Louisiana,Fire Inspectors and Investigators,150,10.7,0.078,0.83,25.5,53050,4.5
+Louisiana,Bailiffs,380,8,0.197,1.47,19.07,39670,5.3
+Louisiana,Correctional Officers and Jailers,7950,2.7,4.139,1.44,17.31,36010,1.7
+Louisiana,Detectives and Criminal Investigators,1680,3.7,0.873,1.21,30.82,64100,2
+Louisiana,Parking Enforcement Workers,90,4.2,0.047,0.9,16.44,34200,2.9
+Louisiana,Police and Sheriff's Patrol Officers,11420,2.6,5.944,1.31,20.42,42470,1.9
+Louisiana,Animal Control Workers,190,5.4,0.098,1.2,14.43,30010,1.7
+Louisiana,Private Detectives and Investigators,480,21.1,0.25,1.05,23.69,49270,3.8
+Louisiana,Gambling Surveillance Officers and Gambling Investigators,220,6.2,0.117,1.67,16.09,33460,1.7
+Louisiana,Security Guards,18460,4.4,9.607,1.25,14.31,29750,3.4
+Louisiana,Crossing Guards and Flaggers,600,3.4,0.314,0.54,11.48,23890,4.1
+Louisiana,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1160,19.8,0.602,0.61,9.91,20600,3.2
+Louisiana,Transportation Security Screeners,520,0.6,0.27,0.85,18.58,38650,2.2
+Louisiana,"School Bus Monitors and Protective Service Workers, All Other",1390,5.3,0.724,0.73,19.57,40710,1.5
+Louisiana,Food Preparation and Serving Related Occupations,187820,1,97.724,1.06,10.4,21620,0.7
+Louisiana,Chefs and Head Cooks,1610,12.7,0.836,0.96,26.52,55160,6.6
+Louisiana,First-Line Supervisors of Food Preparation and Serving Workers,16190,3.9,8.424,1.22,16.03,33340,1.5
+Louisiana,"Cooks, Fast Food",7120,14.3,3.707,1.03,9.42,19590,2.3
+Louisiana,"Cooks, Institution and Cafeteria",3480,8.7,1.812,0.66,11.73,24390,1.8
+Louisiana,"Cooks, Restaurant",16660,5.3,8.67,0.91,11.77,24490,1.6
+Louisiana,"Cooks, Short Order",4300,15.5,2.237,2.15,10.47,21770,2.5
+Louisiana,"Cooks, All Other",960,12.8,0.5,3.79,12.45,25890,3.1
+Louisiana,Food Preparation Workers,36620,5.1,19.055,3.24,9.18,19080,0.7
+Louisiana,Bartenders,8480,7.7,4.412,1,9.51,19780,1.6
+Louisiana,Fast Food and Counter Workers,32280,6.6,16.797,0.62,9.47,19700,1.4
+Louisiana,Waiters and Waitresses,36420,3.6,18.95,1.08,9.27,19280,1.5
+Louisiana,"Food Servers, Nonrestaurant",3870,12.3,2.016,1.07,10.26,21350,2.5
+Louisiana,Dining Room and Cafeteria Attendants and Bartender Helpers,4760,13.5,2.475,0.76,9.19,19120,1.8
+Louisiana,Dishwashers,6130,7.7,3.191,0.91,9.56,19880,1.6
+Louisiana,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",5870,8.1,3.056,1.06,9.88,20550,2.6
+Louisiana,"Food Preparation and Serving Related Workers, All Other",3050,21.4,1.587,3.22,9.62,20010,3.8
+Louisiana,Building and Grounds Cleaning and Maintenance Occupations,53610,2.5,27.894,0.93,11.8,24550,1
+Louisiana,First-Line Supervisors of Housekeeping and Janitorial Workers,2340,16.5,1.217,1.15,17.16,35690,2.5
+Louisiana,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",970,7.7,0.507,0.72,21.5,44710,2.9
+Louisiana,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",24580,3.9,12.789,0.88,10.88,22640,1.3
+Louisiana,Maids and Housekeeping Cleaners,14180,4.1,7.376,1.17,10.11,21030,1.1
+Louisiana,"Building Cleaning Workers, All Other",390,4.7,0.201,1.62,11.86,24660,3.6
+Louisiana,Pest Control Workers,1700,13,0.887,1.64,16.14,33570,2.9
+Louisiana,Landscaping and Groundskeeping Workers,8130,4.5,4.231,0.68,13.41,27890,1.9
+Louisiana,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",370,24.2,0.194,1.11,14.99,31190,6.8
+Louisiana,Tree Trimmers and Pruners,310,31,0.159,0.5,16.97,35300,7.5
+Louisiana,"Grounds Maintenance Workers, All Other",640,16.7,0.333,3.41,13.85,28810,5.5
+Louisiana,Personal Care and Service Occupations,40980,2.2,21.323,0.95,12.44,25880,1.3
+Louisiana,First-Line Supervisors of Gambling Services Workers,870,6.4,0.454,2.27,24,49920,3
+Louisiana,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",3000,4.5,1.56,1.05,18.03,37500,1.6
+Louisiana,Animal Trainers,260,19.7,0.133,1.18,13.36,27780,4.3
+Louisiana,Animal Caretakers,1720,12,0.895,0.62,10.98,22840,2.6
+Louisiana,Gambling Dealers,2940,1.9,1.529,2.27,10.54,21920,5.8
+Louisiana,Gambling and Sports Book Writers and Runners,270,41.4,0.141,2.07,10.03,20870,4.7
+Louisiana,"Gambling Service Workers, All Other",620,19.1,0.322,4.51,13.91,28940,5.9
+Louisiana,Motion Picture Projectionists,**,**,**,**,13.25,27570,2.6
+Louisiana,"Ushers, Lobby Attendants, and Ticket Takers",1700,12.6,0.887,0.94,9.73,20240,3.3
+Louisiana,Amusement and Recreation Attendants,1850,11,0.961,0.42,10.58,22000,2.1
+Louisiana,Costume Attendants,90,22.4,0.048,0.94,16.74,34820,20.9
+Louisiana,"Locker Room, Coatroom, and Dressing Room Attendants",170,12.8,0.088,0.8,10.24,21300,3.2
+Louisiana,"Entertainment Attendants and Related Workers, All Other",500,29.3,0.259,8.46,11.1,23090,7.8
+Louisiana,Embalmers,150,19.8,0.08,3.02,24.47,50900,4.2
+Louisiana,Funeral Attendants,610,14.6,0.316,1.35,11.67,24270,2.8
+Louisiana,"Morticians, Undertakers, and Funeral Arrangers",390,10.4,0.204,1.18,22.63,47060,4.8
+Louisiana,Barbers,110,41.1,0.057,0.42,15.05,31310,12.6
+Louisiana,"Hairdressers, Hairstylists, and Cosmetologists",2800,15.5,1.456,0.55,11.17,23240,4.1
+Louisiana,"Makeup Artists, Theatrical and Performance",80,45.9,0.04,1.72,22.27,46320,20.6
+Louisiana,Manicurists and Pedicurists,1310,15.1,0.681,0.89,11.07,23030,5.2
+Louisiana,Shampooers,90,30.2,0.049,0.6,8.98,18670,7.5
+Louisiana,Skincare Specialists,650,28.9,0.337,0.87,16.04,33370,3.9
+Louisiana,Baggage Porters and Bellhops,670,11.8,0.35,1.29,11.25,23400,4.7
+Louisiana,Concierges,340,9.4,0.179,0.63,13.44,27950,2.2
+Louisiana,Tour and Travel Guides,890,15.3,0.465,1.4,13.43,27930,6.2
+Louisiana,Childcare Workers,8690,4.9,4.522,1.18,9.77,20320,1.7
+Louisiana,Exercise Trainers and Group Fitness Instructors,2340,9.6,1.215,0.55,18.92,39350,3.5
+Louisiana,Recreation Workers,3340,5,1.74,0.71,11.68,24300,2.3
+Louisiana,Residential Advisors,1360,2.2,0.707,0.96,15.33,31890,3.1
+Louisiana,"Crematory Operators and Personal Care and Service Workers, All Other",3120,12.4,1.621,3.87,10.1,21000,2.5
+Louisiana,Sales and Related Occupations,198770,1.5,103.422,1.06,16.21,33720,1
+Louisiana,First-Line Supervisors of Retail Sales Workers,19080,2.7,9.927,1.24,19.38,40310,1.6
+Louisiana,First-Line Supervisors of Non-Retail Sales Workers,1810,7.5,0.94,0.55,32.76,68140,3
+Louisiana,Cashiers,64340,5.8,33.476,1.37,9.84,20470,0.6
+Louisiana,Gambling Change Persons and Booth Cashiers,1130,13.1,0.588,4.05,11.41,23730,2.4
+Louisiana,Counter and Rental Clerks,4360,6.6,2.27,0.81,13.41,27880,3.5
+Louisiana,Parts Salespersons,4760,6.8,2.477,1.42,15.34,31900,2.7
+Louisiana,Retail Salespersons,57350,4.5,29.838,1.01,12.41,25820,1.5
+Louisiana,Advertising Sales Agents,1130,11,0.589,0.67,19.24,40030,5.1
+Louisiana,Insurance Sales Agents,5840,7,3.037,1.09,25.13,52260,4.4
+Louisiana,"Securities, Commodities, and Financial Services Sales Agents",2750,9.3,1.432,0.48,41.37,86040,9.3
+Louisiana,Travel Agents,220,18.9,0.114,0.25,18.45,38370,4
+Louisiana,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",7090,5,3.69,0.52,24.83,51650,4
+Louisiana,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",3010,11.5,1.564,0.75,33.81,70320,5.8
+Louisiana,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",21160,3.3,11.011,1.2,30.53,63510,1.6
+Louisiana,Demonstrators and Product Promoters,650,16.4,0.339,0.64,14.23,29600,7.2
+Louisiana,Real Estate Brokers,100,41,0.05,0.17,24.32,50590,7.3
+Louisiana,Real Estate Sales Agents,1620,10.8,0.843,0.76,25.21,52440,20.8
+Louisiana,Sales Engineers,140,28.5,0.071,0.16,43.49,90450,7
+Louisiana,Telemarketers,390,31.8,0.203,0.22,14.52,30200,7.2
+Louisiana,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",**,**,**,**,10.65,22150,7
+Louisiana,"Sales and Related Workers, All Other",1810,8,0.942,1.16,16.2,33690,5.2
+Louisiana,Office and Administrative Support Occupations,245350,0.9,127.658,0.96,16.91,35180,0.4
+Louisiana,First-Line Supervisors of Office and Administrative Support Workers,22590,1.9,11.756,1.16,24.01,49940,0.7
+Louisiana,"Switchboard Operators, Including Answering Service",1860,5.2,0.967,2.09,12.55,26110,1.5
+Louisiana,Telephone Operators,140,9.2,0.072,2.23,15.48,32200,3.3
+Louisiana,"Communications Equipment Operators, All Other",80,15.2,0.04,1.83,17.75,36910,3.4
+Louisiana,Bill and Account Collectors,1960,7.4,1.017,0.63,16.2,33690,1.6
+Louisiana,Billing and Posting Clerks,5600,5.7,2.912,0.92,17,35350,1
+Louisiana,"Bookkeeping, Accounting, and Auditing Clerks",20640,2.3,10.737,1.04,18.3,38060,0.7
+Louisiana,Gambling Cage Workers,690,18.9,0.36,3.69,12.13,25230,5.2
+Louisiana,Payroll and Timekeeping Clerks,2410,7.4,1.256,1.29,19.42,40390,1.8
+Louisiana,Procurement Clerks,1050,10.5,0.546,1.21,19.79,41160,1.3
+Louisiana,Tellers,6830,3.8,3.553,1.18,13.41,27890,1.4
+Louisiana,"Financial Clerks, All Other",390,15.9,0.205,0.99,19.13,39790,2.1
+Louisiana,Brokerage Clerks,270,28.4,0.141,0.43,24.56,51080,3.1
+Louisiana,Correspondence Clerks,40,29.7,0.022,0.52,17.8,37020,7.3
+Louisiana,"Court, Municipal, and License Clerks",2760,7.4,1.436,1.37,16.69,34720,1.9
+Louisiana,"Credit Authorizers, Checkers, and Clerks",840,13.6,0.438,2.41,14.84,30870,3.7
+Louisiana,Customer Service Representatives,24210,3.6,12.594,0.63,16.02,33320,2
+Louisiana,"Eligibility Interviewers, Government Programs",480,6.2,0.249,0.26,18.27,37990,2.3
+Louisiana,File Clerks,1210,11.3,0.632,0.91,13.65,28380,2.2
+Louisiana,"Hotel, Motel, and Resort Desk Clerks",4380,12.9,2.277,1.25,11.33,23560,4.4
+Louisiana,"Interviewers, Except Eligibility and Loan",1300,6.4,0.676,0.53,14.59,30340,1.7
+Louisiana,"Library Assistants, Clerical",370,12.1,0.192,0.33,13.02,27080,2.1
+Louisiana,Loan Interviewers and Clerks,2680,13.8,1.394,0.98,16.8,34950,2.6
+Louisiana,New Accounts Clerks,280,20.9,0.147,0.5,17.67,36750,4.6
+Louisiana,Order Clerks,660,12.4,0.345,0.37,16.51,34350,4.1
+Louisiana,"Human Resources Assistants, Except Payroll and Timekeeping",1150,4,0.599,0.75,18.9,39320,1.1
+Louisiana,Receptionists and Information Clerks,15940,3.1,8.293,1.15,12.58,26170,0.8
+Louisiana,Reservation and Transportation Ticket Agents and Travel Clerks,780,12.9,0.404,0.48,21,43670,4.8
+Louisiana,"Information and Record Clerks, All Other",2800,3.4,1.459,1.39,18.66,38810,3.7
+Louisiana,Cargo and Freight Agents,600,23.4,0.311,0.48,22.42,46640,3
+Louisiana,Couriers and Messengers,1880,10.2,0.98,1.93,12.93,26890,3.6
+Louisiana,Public Safety Telecommunicators,1810,6.5,0.94,1.45,16.12,33530,2
+Louisiana,"Dispatchers, Except Police, Fire, and Ambulance",3420,7.3,1.782,1.31,20.7,43050,2.5
+Louisiana,"Meter Readers, Utilities",1140,21.1,0.596,2.87,14.18,29480,2.4
+Louisiana,Postal Service Clerks,1200,0,0.623,1.13,24.61,51180,0.6
+Louisiana,Postal Service Mail Carriers,5000,0,2.6,1.12,24.62,51200,0.7
+Louisiana,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1000,0,0.522,0.75,24.36,50680,1.6
+Louisiana,"Production, Planning, and Expediting Clerks",2980,7.7,1.549,0.61,25.18,52370,1.7
+Louisiana,"Shipping, Receiving, and Inventory Clerks",6450,5.9,3.354,0.7,16.49,34300,1.3
+Louisiana,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",1070,13.6,0.557,1.34,16.39,34100,3.5
+Louisiana,Executive Secretaries and Executive Administrative Assistants,14010,2.8,7.292,1.97,21.01,43690,0.9
+Louisiana,Legal Secretaries and Administrative Assistants,3080,8.8,1.604,1.4,20.33,42290,3.1
+Louisiana,Medical Secretaries and Administrative Assistants,2290,7.3,1.19,0.29,14.87,30930,1.4
+Louisiana,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",29250,2.2,15.218,1.1,15.71,32670,0.8
+Louisiana,Data Entry Keyers,2130,15.3,1.109,1.02,14.66,30500,1.8
+Louisiana,Word Processors and Typists,360,7.3,0.188,0.58,15.86,32990,4.4
+Louisiana,Desktop Publishers,180,8.2,0.094,1.58,14.02,29160,11.3
+Louisiana,Insurance Claims and Policy Processing Clerks,1620,11.3,0.843,0.48,17.2,35770,2.5
+Louisiana,"Mail Clerks and Mail Machine Operators, Except Postal Service",470,21.7,0.245,0.43,13.41,27890,3.3
+Louisiana,"Office Clerks, General",36910,2.1,19.203,0.95,12.57,26140,0.8
+Louisiana,"Office Machine Operators, Except Computer",200,14.7,0.102,0.33,15.86,33000,2.7
+Louisiana,Statistical Assistants,140,31.9,0.072,1.08,26.55,55230,5.5
+Louisiana,"Office and Administrative Support Workers, All Other",3750,6.8,1.952,1.52,19.16,39850,1.8
+Louisiana,"Farming, Fishing, and Forestry Occupations",4820,7.9,2.51,0.76,17.86,37150,3.4
+Louisiana,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",450,16.3,0.233,1.52,29.01,60350,6.6
+Louisiana,Agricultural Inspectors,230,1.7,0.119,1.27,25.51,53060,1.4
+Louisiana,"Graders and Sorters, Agricultural Products",310,20.7,0.162,0.69,15.48,32200,4.2
+Louisiana,Agricultural Equipment Operators,210,27.9,0.108,0.59,14.01,29130,5.2
+Louisiana,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1290,19.7,0.674,0.33,12.16,25290,3.2
+Louisiana,"Farmworkers, Farm, Ranch, and Aquacultural Animals",**,**,**,**,15.3,31830,10.3
+Louisiana,"Agricultural Workers, All Other",330,21.8,0.171,3.84,14.54,30240,8.1
+Louisiana,Forest and Conservation Workers,210,3.3,0.107,2.33,18.06,37570,1.5
+Louisiana,Logging Equipment Operators,1150,22.6,0.598,3.37,21.51,44740,5.1
+Louisiana,Log Graders and Scalers,100,19.8,0.051,2.26,17.44,36270,6.6
+Louisiana,"Logging Workers, All Other",210,37.3,0.107,4.19,16.43,34170,8.3
+Louisiana,Construction and Extraction Occupations,125700,2.7,65.4,1.55,22.54,46870,1.1
+Louisiana,First-Line Supervisors of Construction Trades and Extraction Workers,13590,4.4,7.071,1.66,31.11,64710,1
+Louisiana,Boilermakers,1320,13.5,0.687,6.38,29.35,61050,1.7
+Louisiana,Brickmasons and Blockmasons,470,34,0.244,0.59,21.19,44070,3.4
+Louisiana,Stonemasons,100,34,0.05,0.59,15.98,33240,10.2
+Louisiana,Carpenters,13800,7,7.181,1.44,22.68,47160,2.1
+Louisiana,Carpet Installers,**,**,**,**,17.27,35920,10.2
+Louisiana,"Floor Layers, Except Carpet, Wood, and Hard Tiles",40,41.8,0.018,0.17,21.84,45420,8
+Louisiana,Tile and Stone Setters,250,21.9,0.132,0.48,18.6,38690,4.4
+Louisiana,Cement Masons and Concrete Finishers,2440,12.4,1.269,0.95,21.5,44710,8.5
+Louisiana,Construction Laborers,19580,5.9,10.19,1.47,17.14,35660,2.3
+Louisiana,"Paving, Surfacing, and Tamping Equipment Operators",390,20.7,0.204,0.65,18.3,38070,2.9
+Louisiana,Pile Driver Operators,210,24.2,0.111,4.61,27.28,56740,6
+Louisiana,Operating Engineers and Other Construction Equipment Operators,8430,5.1,4.386,1.59,23.02,47880,2
+Louisiana,Drywall and Ceiling Tile Installers,310,24.1,0.162,0.23,18.61,38710,4.4
+Louisiana,Electricians,12570,6.9,6.539,1.39,25.07,52140,1.2
+Louisiana,Glaziers,430,31.9,0.225,0.63,18.78,39070,4.4
+Louisiana,"Insulation Workers, Floor, Ceiling, and Wall",1640,13.3,0.853,3.73,21.34,44390,3.4
+Louisiana,"Insulation Workers, Mechanical",1660,26.7,0.866,4.77,23.37,48610,4.5
+Louisiana,"Painters, Construction and Maintenance",5820,9.1,3.028,1.91,21.82,45380,3.4
+Louisiana,Pipelayers,540,22.7,0.28,1.13,16.5,34310,2.9
+Louisiana,"Plumbers, Pipefitters, and Steamfitters",9830,4.7,5.116,1.7,26.75,55650,2.1
+Louisiana,Plasterers and Stucco Masons,160,25.9,0.084,0.45,17.4,36190,3.9
+Louisiana,Reinforcing Iron and Rebar Workers,400,7.9,0.21,1.63,30.16,62720,3.8
+Louisiana,Roofers,420,12.8,0.216,0.25,17.97,37370,3.8
+Louisiana,Sheet Metal Workers,1790,13.6,0.932,1.04,22.29,46360,2.5
+Louisiana,Structural Iron and Steel Workers,1580,9.2,0.821,1.57,*,*,*
+Louisiana,Solar Photovoltaic Installers,40,44.5,0.018,0.24,24.39,50740,8.3
+Louisiana,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",**,**,**,**,17.52,36440,7
+Louisiana,Helpers--Carpenters,1380,6.8,0.718,3.2,16.68,34700,3.2
+Louisiana,Helpers--Electricians,3470,8,1.803,3.34,16.19,33680,2.8
+Louisiana,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",1050,10.7,0.545,7.38,15.55,32340,2.6
+Louisiana,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",3240,9.6,1.685,4.24,*,*,*
+Louisiana,Helpers--Roofers,240,28.1,0.127,2.08,12.72,26460,3.4
+Louisiana,"Helpers, Construction Trades, All Other",3220,7,1.677,8.64,16.13,33550,3.6
+Louisiana,Construction and Building Inspectors,1240,24.7,0.644,0.86,25.85,53760,2.3
+Louisiana,Elevator and Escalator Installers and Repairers,70,38.8,0.037,0.19,37.4,77800,8.1
+Louisiana,Fence Erectors,410,39.9,0.215,1.22,16.04,33370,6.1
+Louisiana,Hazardous Materials Removal Workers,1200,25.5,0.623,2.07,19.95,41490,3.3
+Louisiana,Highway Maintenance Workers,1080,12.3,0.56,0.54,15.88,33020,2.2
+Louisiana,Septic Tank Servicers and Sewer Pipe Cleaners,430,44.3,0.222,1.1,18.46,38390,4.7
+Louisiana,Miscellaneous Construction and Related Workers,3200,6,1.664,7.63,21.73,45210,2.4
+Louisiana,"Derrick Operators, Oil and Gas",320,21.7,0.165,2,24.04,49990,4
+Louisiana,"Rotary Drill Operators, Oil and Gas",840,17.6,0.439,3.07,25.19,52390,3
+Louisiana,"Service Unit Operators, Oil and Gas",2280,13.3,1.186,3.36,24.91,51810,3.1
+Louisiana,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1000,22.7,0.519,1.73,21.23,44160,3.8
+Louisiana,"Roustabouts, Oil and Gas",1750,13.5,0.908,2.26,20.72,43100,2.8
+Louisiana,Helpers--Extraction Workers,320,26.4,0.164,1.44,16.81,34960,5.2
+Louisiana,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",90,32.4,0.046,0.27,28.9,60110,18.5
+Louisiana,"Underground Mining Machine Operators and Extraction Workers, All Other",250,33.2,0.13,1.38,23.44,48760,5.3
+Louisiana,"Installation, Maintenance, and Repair Occupations",91990,1.5,47.862,1.23,22.79,47400,0.7
+Louisiana,"First-Line Supervisors of Mechanics, Installers, and Repairers",8770,2.3,4.561,1.38,33.18,69000,1.3
+Louisiana,"Computer, Automated Teller, and Office Machine Repairers",1050,13.1,0.544,0.81,18.97,39460,4.1
+Louisiana,"Radio, Cellular, and Tower Equipment Installers and Repairers",**,**,**,**,24.34,50640,4.5
+Louisiana,"Telecommunications Equipment Installers and Repairers, Except Line Installers",3790,7.5,1.972,1.39,28.13,58500,3.3
+Louisiana,Avionics Technicians,290,26.1,0.15,1.02,31.43,65370,4.8
+Louisiana,"Electric Motor, Power Tool, and Related Repairers",210,26.3,0.107,0.99,20.78,43220,6.6
+Louisiana,"Electrical and Electronics Installers and Repairers, Transportation Equipment",240,45,0.123,1.85,23.71,49320,9.2
+Louisiana,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1160,13.6,0.602,1.5,29.82,62030,2.5
+Louisiana,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",340,31.1,0.179,1.16,35.19,73190,2.9
+Louisiana,"Electronic Equipment Installers and Repairers, Motor Vehicles",30,39.2,0.018,0.26,16.69,34710,3.4
+Louisiana,Audiovisual Equipment Installers and Repairers,**,**,**,**,16.35,34000,7.3
+Louisiana,Security and Fire Alarm Systems Installers,760,14.9,0.396,0.81,21.15,44000,2.8
+Louisiana,Aircraft Mechanics and Service Technicians,1570,10,0.819,0.9,30.82,64110,2.5
+Louisiana,Automotive Body and Related Repairers,1920,11.8,0.999,1.02,20.6,42850,3.1
+Louisiana,Automotive Glass Installers and Repairers,560,22.1,0.29,2.19,15.05,31300,3.8
+Louisiana,Automotive Service Technicians and Mechanics,7750,5.4,4.035,0.9,19.74,41050,2.2
+Louisiana,Bus and Truck Mechanics and Diesel Engine Specialists,2710,11.3,1.412,0.78,24,49930,1.8
+Louisiana,Farm Equipment Mechanics and Service Technicians,320,18.1,0.164,0.67,20.14,41900,2.1
+Louisiana,"Mobile Heavy Equipment Mechanics, Except Engines",3310,7.8,1.724,1.71,23.6,49090,2.4
+Louisiana,Rail Car Repairers,490,18.9,0.253,1.43,24.72,51410,8.4
+Louisiana,Motorboat Mechanics and Service Technicians,260,29.6,0.138,0.88,19.63,40830,7.5
+Louisiana,Motorcycle Mechanics,140,29.8,0.071,0.67,17.15,35670,5.9
+Louisiana,Outdoor Power Equipment and Other Small Engine Mechanics,470,18.5,0.243,1.11,18.49,38460,4.7
+Louisiana,Recreational Vehicle Service Technicians,150,31.5,0.08,0.75,19.09,39700,9
+Louisiana,Tire Repairers and Changers,1490,11,0.773,1.02,11.91,24770,2.4
+Louisiana,Mechanical Door Repairers,80,33.3,0.042,0.27,20.63,42910,5.8
+Louisiana,"Control and Valve Installers and Repairers, Except Mechanical Door",780,15.9,0.405,1.14,22.69,47180,2.9
+Louisiana,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4400,10.8,2.287,0.98,21.47,44660,3.9
+Louisiana,Home Appliance Repairers,210,25.4,0.109,0.51,16.94,35240,4.9
+Louisiana,Industrial Machinery Mechanics,7180,4.4,3.738,1.42,28.01,58270,1.7
+Louisiana,"Maintenance Workers, Machinery",2530,9.7,1.315,2.65,22.52,46850,2.1
+Louisiana,Millwrights,1820,9.9,0.946,2.94,28.09,58440,2.2
+Louisiana,Electrical Power-Line Installers and Repairers,1140,14.2,0.595,0.78,28.86,60020,4.3
+Louisiana,Telecommunications Line Installers and Repairers,860,21.2,0.446,0.54,22.29,46360,5.4
+Louisiana,Camera and Photographic Equipment Repairers,140,37.7,0.072,2.93,20.25,42110,2.6
+Louisiana,Medical Equipment Repairers,440,10.9,0.229,0.72,21.29,44280,2.9
+Louisiana,Musical Instrument Repairers and Tuners,**,**,**,**,15.53,32310,19.4
+Louisiana,"Precision Instrument and Equipment Repairers, All Other",320,11.7,0.165,2.29,29.08,60480,3.1
+Louisiana,"Maintenance and Repair Workers, General",21520,2.7,11.199,1.16,17.95,37330,0.8
+Louisiana,"Coin, Vending, and Amusement Machine Servicers and Repairers",690,15.7,0.357,1.67,16.27,33840,2.7
+Louisiana,Commercial Divers,210,23.8,0.108,4.65,24.79,51560,12.6
+Louisiana,Locksmiths and Safe Repairers,390,19.9,0.201,1.74,20.94,43540,10.4
+Louisiana,Riggers,3540,8.7,1.84,11.75,23.31,48490,2.9
+Louisiana,"Helpers--Installation, Maintenance, and Repair Workers",2760,7.8,1.438,2.12,15.16,31530,3
+Louisiana,"Installation, Maintenance, and Repair Workers, All Other",4750,6.5,2.472,2.25,21.73,45190,2
+Louisiana,Production Occupations,105470,2.3,54.875,0.88,22.87,47570,1.2
+Louisiana,First-Line Supervisors of Production and Operating Workers,9760,4,5.078,1.18,35.75,74360,1.9
+Louisiana,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",520,49.8,0.272,0.93,28.32,58910,4.3
+Louisiana,"Coil Winders, Tapers, and Finishers",70,6,0.034,0.4,15.43,32090,2
+Louisiana,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",100,17.4,0.052,0.03,21.18,44060,7.2
+Louisiana,Engine and Other Machine Assemblers,130,20.8,0.069,0.22,22.7,47210,2.9
+Louisiana,Structural Metal Fabricators and Fitters,1670,14.8,0.867,1.66,21.89,45520,3.5
+Louisiana,Fiberglass Laminators and Fabricators,**,**,**,**,16.23,33760,2.8
+Louisiana,Miscellaneous Assemblers and Fabricators,3470,5.2,1.807,0.19,17.8,37020,2.2
+Louisiana,Bakers,1310,21.9,0.684,0.54,12.22,25420,2.5
+Louisiana,Butchers and Meat Cutters,1670,13.3,0.867,0.93,12.93,26890,2.8
+Louisiana,"Meat, Poultry, and Fish Cutters and Trimmers",2720,18,1.415,1.35,11.11,23100,3.1
+Louisiana,Slaughterers and Meat Packers,1010,20.5,0.525,1.05,11.2,23300,3.5
+Louisiana,Food Batchmakers,840,13.1,0.436,0.4,12.14,25240,4.7
+Louisiana,Food Cooking Machine Operators and Tenders,**,**,**,**,15.65,32540,9.8
+Louisiana,"Food Processing Workers, All Other",1760,18.1,0.916,3.14,11.48,23870,1.7
+Louisiana,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",270,21.9,0.142,0.27,16.99,35340,3.6
+Louisiana,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",370,31.2,0.19,0.86,22.17,46120,4.2
+Louisiana,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",370,25.1,0.19,0.14,19.01,39530,3.2
+Louisiana,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",300,35.9,0.158,2.13,23.41,48700,4.2
+Louisiana,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",200,38.1,0.105,0.2,22.48,46750,16.7
+Louisiana,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",100,43.5,0.051,0.27,20.64,42940,2.8
+Louisiana,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",250,34.3,0.133,1.04,*,*,*
+Louisiana,Machinists,4700,6.1,2.445,0.94,23.63,49150,1.4
+Louisiana,Metal-Refining Furnace Operators and Tenders,180,23.8,0.093,0.8,22.78,47390,2.6
+Louisiana,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",510,17.1,0.265,0.23,14.14,29420,2.7
+Louisiana,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",150,36.2,0.079,0.08,17.19,35750,4.9
+Louisiana,Tool and Die Makers,130,24.2,0.067,0.14,21.63,44990,2.3
+Louisiana,"Welders, Cutters, Solderers, and Brazers",12820,4.5,6.668,2.38,25.72,53490,1.6
+Louisiana,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",220,25.1,0.114,0.48,24.84,51660,4.5
+Louisiana,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",190,24.8,0.1,0.75,20.41,42440,7
+Louisiana,"Layout Workers, Metal and Plastic",130,19,0.069,1.24,29.03,60370,6.8
+Louisiana,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,16.45,34210,2.2
+Louisiana,"Tool Grinders, Filers, and Sharpeners",150,38.1,0.08,1.81,17.46,36310,3.6
+Louisiana,"Metal Workers and Plastic Workers, All Other",**,**,**,**,15.69,32630,7.5
+Louisiana,Prepress Technicians and Workers,180,30.2,0.096,0.47,14.75,30690,4.8
+Louisiana,Printing Press Operators,860,13.5,0.447,0.38,15.52,32290,4.2
+Louisiana,Print Binding and Finishing Workers,370,16.4,0.193,0.62,16.07,33420,2.7
+Louisiana,Laundry and Dry-Cleaning Workers,4770,14.4,2.482,1.74,11.53,23970,2.2
+Louisiana,"Pressers, Textile, Garment, and Related Materials",180,34.7,0.093,0.36,11.67,24280,3.4
+Louisiana,Sewing Machine Operators,560,25.9,0.291,0.32,12.7,26420,2.8
+Louisiana,"Sewers, Hand",80,28.9,0.041,1.26,10.36,21550,8.3
+Louisiana,"Tailors, Dressmakers, and Custom Sewers",150,17.1,0.078,0.48,14.21,29550,5.2
+Louisiana,"Textile Cutting Machine Setters, Operators, and Tenders",**,**,**,**,14.52,30200,12.2
+Louisiana,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",**,**,**,**,13.7,28490,7.4
+Louisiana,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",**,**,**,**,19.07,39670,16.7
+Louisiana,Upholsterers,100,24.4,0.051,0.25,16.03,33340,5.4
+Louisiana,Cabinetmakers and Bench Carpenters,530,26.4,0.278,0.41,14.76,30710,7.3
+Louisiana,Furniture Finishers,80,32.6,0.04,0.37,18.3,38060,11.4
+Louisiana,"Sawing Machine Setters, Operators, and Tenders, Wood",720,21.3,0.373,1.08,17.58,36580,2.4
+Louisiana,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",430,16.8,0.222,0.41,15.94,33150,6.2
+Louisiana,"Woodworkers, All Other",160,37.5,0.083,1.82,16.76,34860,6.8
+Louisiana,Nuclear Power Reactor Operators,180,27.5,0.094,2.74,48.11,100080,6.5
+Louisiana,Power Plant Operators,290,40.6,0.151,0.66,34.83,72460,4.8
+Louisiana,Stationary Engineers and Boiler Operators,200,14.8,0.102,0.46,24.07,50060,2.6
+Louisiana,Water and Wastewater Treatment Plant and System Operators,1950,8.1,1.015,1.21,18.03,37500,1.8
+Louisiana,Chemical Plant and System Operators,5040,12.1,2.621,13.35,32.87,68380,3.2
+Louisiana,Gas Plant Operators,470,19.5,0.246,2.51,31.79,66130,4.9
+Louisiana,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",5710,17.8,2.973,10.82,35.25,73320,3.2
+Louisiana,"Plant and System Operators, All Other",1300,19.7,0.675,7.66,27.86,57940,3.1
+Louisiana,Chemical Equipment Operators and Tenders,2190,17.7,1.14,1.92,31.21,64930,3.8
+Louisiana,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",380,14.7,0.197,0.87,20.49,42610,5.4
+Louisiana,"Grinding and Polishing Workers, Hand",130,20.7,0.065,0.33,14.94,31070,4.9
+Louisiana,"Mixing and Blending Machine Setters, Operators, and Tenders",1440,15,0.747,0.88,24.65,51260,4.8
+Louisiana,"Cutters and Trimmers, Hand",**,**,**,**,14.69,30550,4.7
+Louisiana,"Cutting and Slicing Machine Setters, Operators, and Tenders",370,26.1,0.194,0.49,18.73,38950,5.3
+Louisiana,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",500,13.8,0.26,0.53,21.43,44570,7.4
+Louisiana,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",130,26.9,0.069,0.54,19.9,41390,6.5
+Louisiana,"Inspectors, Testers, Sorters, Samplers, and Weighers",7960,5,4.142,1.05,24.57,51110,1.8
+Louisiana,Jewelers and Precious Stone and Metal Workers,540,20.8,0.28,1.74,20.64,42930,14.4
+Louisiana,Dental Laboratory Technicians,330,15.4,0.174,0.74,19.49,40550,4.5
+Louisiana,Medical Appliance Technicians,100,34.2,0.052,0.54,17.15,35680,11
+Louisiana,Ophthalmic Laboratory Technicians,460,22.5,0.242,1.22,13.69,28470,4.6
+Louisiana,Packaging and Filling Machine Operators and Tenders,1470,13.9,0.763,0.29,14.57,30300,3.1
+Louisiana,"Painting, Coating, and Decorating Workers",90,41.4,0.048,0.57,20.25,42130,20.5
+Louisiana,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",960,16.1,0.502,0.5,19.55,40650,4
+Louisiana,Photographic Process Workers and Processing Machine Operators,110,38,0.056,0.69,16.38,34070,10.9
+Louisiana,Computer Numerically Controlled Tool Operators,390,28.6,0.201,0.19,21.29,44290,7.4
+Louisiana,Computer Numerically Controlled Tool Programmers,200,35.7,0.102,0.59,23.88,49680,11.9
+Louisiana,Adhesive Bonding Machine Operators and Tenders,30,32.8,0.016,0.17,21.33,44360,4.8
+Louisiana,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",190,36,0.1,0.89,15.78,32820,4.1
+Louisiana,Etchers and Engravers,150,35.1,0.08,1.14,14.43,30020,8.7
+Louisiana,"Molders, Shapers, and Casters, Except Metal and Plastic",100,33.4,0.054,0.18,16.21,33710,11.6
+Louisiana,"Paper Goods Machine Setters, Operators, and Tenders",510,40.1,0.265,0.39,21.42,44550,12.1
+Louisiana,Helpers--Production Workers,4200,8.1,2.186,1.06,16.19,33670,1.8
+Louisiana,"Production Workers, All Other",9390,6.3,4.885,3.23,18.84,39190,3.1
+Louisiana,Transportation and Material Moving Occupations,169140,1.8,88.004,1.03,18.85,39210,4.2
+Louisiana,Aircraft Cargo Handling Supervisors,140,27.8,0.073,1.13,27.95,58140,4.4
+Louisiana,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",7660,4.1,3.987,1.29,26.3,54700,1.4
+Louisiana,"Airline Pilots, Copilots, and Flight Engineers",**,**,**,**,*,107560,2.8
+Louisiana,Commercial Pilots,640,10.5,0.335,1.3,*,107140,7.2
+Louisiana,Air Traffic Controllers,290,8.9,0.149,0.99,41.14,85580,4.4
+Louisiana,Airfield Operations Specialists,110,20.4,0.057,0.79,29.51,61390,13.7
+Louisiana,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",280,21.5,0.147,1.47,14.46,30090,6.7
+Louisiana,Driver/Sales Workers,6050,19,3.15,1.04,15.48,32200,5.8
+Louisiana,Heavy and Tractor-Trailer Truck Drivers,20620,4.5,10.728,0.85,20.3,42220,1.5
+Louisiana,Light Truck Drivers,15200,4.5,7.909,1.26,15.87,33010,2
+Louisiana,"Bus Drivers, Transit and Intercity",1650,33,0.858,0.7,15.36,31950,6.4
+Louisiana,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",4100,10.2,2.135,0.45,12.99,27010,2.6
+Louisiana,"Motor Vehicle Operators, All Other",560,26.2,0.29,0.75,14.04,29210,6
+Louisiana,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",300,25.1,0.159,2.1,27.16,56500,5.8
+Louisiana,Sailors and Marine Oilers,7340,8.1,3.819,17.93,*,*,*
+Louisiana,"Captains, Mates, and Pilots of Water Vessels",5770,9.6,3.005,13.23,59.05,122830,9.5
+Louisiana,Motorboat Operators,50,24.2,0.028,1.95,33.18,69010,10
+Louisiana,Ship Engineers,730,29.5,0.377,6.59,39.83,82840,5
+Louisiana,Bridge and Lock Tenders,440,5.6,0.227,10.6,16.99,35330,2.3
+Louisiana,Parking Attendants,1470,7.8,0.763,0.76,10,20800,2.1
+Louisiana,Automotive and Watercraft Service Attendants,1500,15.9,0.781,0.98,12.63,26270,1.6
+Louisiana,Traffic Technicians,80,16.5,0.043,0.84,20.75,43160,5.1
+Louisiana,Transportation Inspectors,170,35.1,0.091,0.44,34.98,72770,5.8
+Louisiana,Passenger Attendants,610,27.6,0.32,1.66,11.68,24300,5.2
+Louisiana,"Aircraft Service Attendants and Transportation Workers, All Other",1400,10.2,0.73,3.07,15.56,32350,6
+Louisiana,Conveyor Operators and Tenders,260,38.2,0.137,0.84,15.38,31990,3.4
+Louisiana,Crane and Tower Operators,2600,13.5,1.352,4.36,27.86,57950,2.9
+Louisiana,Dredge Operators,190,36.5,0.098,9.27,17.01,35380,8.2
+Louisiana,Hoist and Winch Operators,50,48.8,0.024,0.73,23.52,48920,25.2
+Louisiana,Industrial Truck and Tractor Operators,7510,5.2,3.905,0.91,18.34,38160,1.5
+Louisiana,Cleaners of Vehicles and Equipment,4630,6.8,2.41,0.92,10.96,22800,1.7
+Louisiana,"Laborers and Freight, Stock, and Material Movers, Hand",44980,3,23.401,1.16,13.77,28630,0.8
+Louisiana,Machine Feeders and Offbearers,690,24.6,0.358,0.83,18.2,37850,7
+Louisiana,"Packers and Packagers, Hand",2640,11.2,1.375,0.32,11.29,23480,2.3
+Louisiana,Stockers and Order Fillers,22170,5.3,11.535,0.79,12.32,25630,1.4
+Louisiana,Gas Compressor and Gas Pumping Station Operators,40,29.3,0.023,0.99,31.3,65110,5.7
+Louisiana,"Pump Operators, Except Wellhead Pumpers",1100,9.7,0.575,8.44,24.83,51650,2.5
+Louisiana,Wellhead Pumpers,130,35.1,0.068,0.77,27.01,56180,7
+Louisiana,Refuse and Recyclable Material Collectors,1500,13.3,0.782,0.95,15.91,33100,3
+Louisiana,"Tank Car, Truck, and Ship Loaders",940,33.8,0.491,6.21,21.97,45710,7
+Louisiana,"Material Moving Workers, All Other",750,19.3,0.391,2.03,18.7,38900,2.7

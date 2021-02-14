@@ -1,0 +1,764 @@
+area_title,occ_title,tot_emp,emp_prse,jobs_1000,loc_quotient,h_mean,a_mean,mean_prse
+Michigan,All Occupations,4344230,0.5,1000,1,24.42,50780,0.5
+Michigan,Management Occupations,211170,1.2,48.61,0.89,55.21,114840,0.5
+Michigan,Chief Executives,2640,5.3,0.607,0.43,105.71,219870,1.9
+Michigan,General and Operations Managers,65180,1.7,15.003,0.92,56.94,118440,0.8
+Michigan,Legislators,2500,8,0.576,1.62,*,39690,4.7
+Michigan,Advertising and Promotions Managers,500,7.3,0.116,0.68,63.04,131120,6.3
+Michigan,Marketing Managers,4510,4.4,1.037,0.58,64.66,134500,1.4
+Michigan,Sales Managers,9440,3.6,2.172,0.79,67.32,140030,1
+Michigan,Public Relations and Fundraising Managers,1420,4.1,0.328,0.61,58.21,121070,2.2
+Michigan,Administrative Services and Facilities Managers,8440,2.4,1.942,0.93,46.58,96900,1
+Michigan,Computer and Information Systems Managers,10220,3.6,2.352,0.8,62.44,129880,0.9
+Michigan,Financial Managers,15040,3.7,3.463,0.78,62.2,129380,1.1
+Michigan,Industrial Production Managers,12820,9.5,2.951,2.33,56.86,118260,1.2
+Michigan,Purchasing Managers,2060,4.3,0.473,0.96,58.92,122560,1.4
+Michigan,"Transportation, Storage, and Distribution Managers",3860,7,0.889,0.99,50.5,105040,2
+Michigan,Compensation and Benefits Managers,340,7.4,0.078,0.68,61.76,128460,2
+Michigan,Human Resources Managers,3850,2.9,0.885,0.84,56.87,118290,1.1
+Michigan,Training and Development Managers,570,10.7,0.132,0.5,49.16,102250,1.8
+Michigan,"Farmers, Ranchers, and Other Agricultural Managers",90,23.9,0.021,0.6,31.68,65890,6.1
+Michigan,Construction Managers,5090,5.2,1.171,0.59,50.4,104830,1.6
+Michigan,"Education and Childcare Administrators, Preschool and Daycare",880,10,0.204,0.57,23.07,47980,2.8
+Michigan,"Education Administrators, Kindergarten through Secondary",6650,3.2,1.53,0.83,*,94020,1
+Michigan,"Education Administrators, Postsecondary",5180,4.4,1.193,1.21,57.38,119350,5.3
+Michigan,"Education Administrators, All Other",750,7.9,0.173,0.57,39.36,81860,3.1
+Michigan,Architectural and Engineering Managers,11410,5,2.627,1.99,65.13,135460,0.9
+Michigan,Food Service Managers,5030,6.3,1.158,0.72,30.66,63770,2.4
+Michigan,Gambling Managers,170,20.4,0.04,1.32,38.83,80760,2.8
+Michigan,Lodging Managers,910,12.9,0.211,0.81,28.74,59780,6.4
+Michigan,Medical and Health Services Managers,12310,2.7,2.833,1.05,52.28,108740,2.1
+Michigan,Natural Sciences Managers,1630,10.2,0.374,0.81,57.02,118600,2.6
+Michigan,Postmasters and Mail Superintendents,450,0,0.103,1.09,38.31,79690,0.6
+Michigan,"Property, Real Estate, and Community Association Managers",5640,6.4,1.299,0.86,34.75,72280,7.5
+Michigan,Social and Community Service Managers,4570,2.6,1.051,0.99,35.71,74280,1.2
+Michigan,Emergency Management Directors,160,9.5,0.037,0.55,34.35,71450,2.1
+Michigan,Funeral Home Managers,210,28.6,0.049,0.77,66.27,137840,11.3
+Michigan,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",6660,3.7,1.532,0.48,49.66,103300,2
+Michigan,Business and Financial Operations Occupations,222190,1.6,51.146,0.92,34.97,72740,0.6
+Michigan,"Agents and Business Managers of Artists, Performers, and Athletes",210,45.9,0.048,0.41,*,*,*
+Michigan,Buyers and Purchasing Agents,14560,3,3.351,1.17,33.44,69560,1.6
+Michigan,"Claims Adjusters, Examiners, and Investigators",**,**,**,**,32.71,68030,1.3
+Michigan,"Insurance Appraisers, Auto Damage",180,26.3,0.041,0.43,31.68,65900,1.9
+Michigan,Compliance Officers,5990,3.9,1.378,0.64,34.22,71180,2.8
+Michigan,Cost Estimators,6910,5.4,1.591,1.11,31.3,65110,1.4
+Michigan,Human Resources Specialists,17900,2.4,4.121,0.96,29.95,62290,0.9
+Michigan,Labor Relations Specialists,3630,13.7,0.836,1.62,35.6,74040,4.9
+Michigan,Logisticians,8280,6,1.905,1.54,38.53,80130,1.5
+Michigan,Management Analysts,13540,4.8,3.116,0.64,45.37,94360,2
+Michigan,"Meeting, Convention, and Event Planners",3310,8.7,0.763,0.95,23.83,49560,3.5
+Michigan,Fundraisers,2630,8.4,0.605,1.09,28.38,59020,2.6
+Michigan,"Compensation, Benefits, and Job Analysis Specialists",2290,6.5,0.528,0.87,32.77,68160,3.9
+Michigan,Training and Development Specialists,7000,4.3,1.611,0.76,28.74,59770,1.3
+Michigan,Market Research Analysts and Marketing Specialists,18840,3.8,4.336,0.94,32.73,68080,1.7
+Michigan,"Project Management Specialists and Business Operations Specialists, All Other",37230,3.5,8.571,0.98,35.47,73770,1.3
+Michigan,Accountants and Auditors,35180,2.4,8.099,0.93,36.14,75170,1.1
+Michigan,Property Appraisers and Assessors,2350,13.1,0.54,1.41,26.11,54300,2.8
+Michigan,Budget Analysts,630,6.8,0.144,0.41,36.95,76860,1.6
+Michigan,Credit Analysts,1540,5.7,0.355,0.71,31.64,65800,2.7
+Michigan,Personal Financial Advisors,5320,8.2,1.224,0.86,48.26,100380,4.9
+Michigan,Insurance Underwriters,**,**,**,**,35.27,73350,2.8
+Michigan,Financial Examiners,450,5.6,0.104,0.24,38.25,79550,3
+Michigan,Credit Counselors,970,12.2,0.222,1.02,23.92,49750,2
+Michigan,Loan Officers,11990,9.9,2.761,1.31,35.47,73790,3.1
+Michigan,"Tax Examiners and Collectors, and Revenue Agents",620,12.1,0.143,0.39,34.97,72750,4.3
+Michigan,Tax Preparers,1070,19.7,0.247,0.54,20.53,42700,10
+Michigan,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",9580,5.6,2.204,0.71,39.18,81500,1.9
+Michigan,Computer and Mathematical Occupations,111930,2.4,25.765,0.83,38.47,80020,0.8
+Michigan,Computer Systems Analysts,14350,8.3,3.304,0.82,41.5,86320,1.1
+Michigan,Information Security Analysts,1970,8.1,0.453,0.53,44.11,91750,1.7
+Michigan,Computer and Information Research Scientists,140,10.6,0.033,0.16,47.15,98070,2.4
+Michigan,Computer Network Support Specialists,2260,7.2,0.52,0.41,30.24,62900,2.4
+Michigan,Computer User Support Specialists,19220,2.8,4.425,1,24.19,50320,1.7
+Michigan,Computer Network Architects,3550,9.3,0.817,0.79,49.42,102780,2.5
+Michigan,Network and Computer Systems Administrators,6680,3.5,1.537,0.64,37.91,78840,1
+Michigan,Database Administrators and Architects,2830,5.6,0.651,0.76,41.01,85300,1.9
+Michigan,Computer Programmers,3780,14.5,0.87,0.64,35.51,73860,2.4
+Michigan,Software Developers and Software Quality Assurance Analysts and Testers,40190,5.2,9.252,0.97,44.26,92070,1.2
+Michigan,Web Developers and Digital Interface Designers,2340,7.2,0.539,0.53,31.77,66070,1.8
+Michigan,"Computer Occupations, All Other",10390,4.1,2.391,0.89,36.01,74890,1.4
+Michigan,Actuaries,740,32.6,0.17,1.12,46.94,97630,4.2
+Michigan,Mathematicians,80,38.2,0.018,1.01,37.92,78860,8.8
+Michigan,Operations Research Analysts,1950,9.3,0.449,0.66,41.21,85720,1.8
+Michigan,Statisticians,670,8.4,0.154,0.58,38.68,80460,1.9
+Michigan,"Data Scientists and Mathematical Science Occupations, All Other",800,13,0.185,0.88,42.59,88590,2.4
+Michigan,Architecture and Engineering Occupations,139900,4.8,32.204,1.82,41.5,86320,1
+Michigan,"Architects, Except Landscape and Naval",2300,10.2,0.53,0.73,39.36,81870,2.1
+Michigan,Landscape Architects,410,27.9,0.095,0.69,32.16,66890,3.9
+Michigan,Cartographers and Photogrammetrists,240,39.9,0.055,0.71,30.07,62550,4
+Michigan,Surveyors,910,11.6,0.209,0.68,29.06,60450,2.4
+Michigan,Bioengineers and Biomedical Engineers,400,39.2,0.092,0.68,40.02,83250,4.4
+Michigan,Chemical Engineers,880,14.9,0.203,0.99,49.47,102900,3.4
+Michigan,Civil Engineers,6640,6.6,1.529,0.72,39.23,81600,1.3
+Michigan,Computer Hardware Engineers,**,**,**,**,44.51,92570,2.4
+Michigan,Electrical Engineers,9620,9.3,2.215,1.75,44.44,92430,1.1
+Michigan,"Electronics Engineers, Except Computer",4470,21.6,1.029,1.17,49.62,103210,5.5
+Michigan,Environmental Engineers,1260,9.6,0.289,0.8,45.78,95220,2.8
+Michigan,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",570,13.3,0.131,0.75,47.26,98310,2.5
+Michigan,Industrial Engineers,29470,11.9,6.785,3.42,43.52,90530,1.1
+Michigan,Materials Engineers,1410,12.7,0.324,1.77,39.82,82820,1.5
+Michigan,Mechanical Engineers,43850,6.3,10.094,4.83,44.64,92850,1.1
+Michigan,"Mining and Geological Engineers, Including Mining Safety Engineers",180,16.7,0.041,0.96,34.98,72760,5.7
+Michigan,Nuclear Engineers,790,40.9,0.183,1.69,*,*,*
+Michigan,Petroleum Engineers,120,20,0.027,0.12,*,*,*
+Michigan,"Engineers, All Other",11350,8.7,2.612,2.52,44.32,92190,4.3
+Michigan,Architectural and Civil Drafters,2010,10.7,0.462,0.69,24.8,51580,2.4
+Michigan,Electrical and Electronics Drafters,500,16.3,0.116,0.71,25.63,53310,3.3
+Michigan,Mechanical Drafters,2470,8.9,0.568,1.51,28.31,58870,2
+Michigan,"Drafters, All Other",350,40.8,0.081,0.82,25.07,52140,4.6
+Michigan,Civil Engineering Technologists and Technicians,1490,9.7,0.343,0.73,26.38,54870,2
+Michigan,Electrical and Electronic Engineering Technologists and Technicians,2320,13.9,0.534,0.64,28.19,58640,1.5
+Michigan,Electro-Mechanical and Mechatronics Technologists and Technicians,340,22.4,0.078,0.8,26.72,55570,3.7
+Michigan,Environmental Engineering Technologists and Technicians,130,14.2,0.031,0.25,22.6,47010,6.1
+Michigan,Industrial Engineering Technologists and Technicians,4250,8.9,0.977,2.14,27.22,56630,2.1
+Michigan,Mechanical Engineering Technologists and Technicians,4700,10.1,1.082,3.71,27.65,57510,2.2
+Michigan,Surveying and Mapping Technicians,980,9.7,0.225,0.62,18.71,38920,3.7
+Michigan,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",2310,21.7,0.531,0.88,31.8,66140,3.1
+Michigan,"Life, Physical, and Social Science Occupations",31540,4.1,7.26,0.83,32.3,67190,2
+Michigan,Animal Scientists,60,37.5,0.013,0.71,*,*,*
+Michigan,Food Scientists and Technologists,530,48.4,0.123,1.34,31.38,65270,9.4
+Michigan,Soil and Plant Scientists,380,14.5,0.088,0.91,27.33,56850,2.7
+Michigan,Biochemists and Biophysicists,**,**,**,**,39.82,82820,7.6
+Michigan,Microbiologists,280,8.2,0.064,0.51,29.94,62280,2.6
+Michigan,Zoologists and Wildlife Biologists,380,17.5,0.086,0.66,31.27,65040,1.7
+Michigan,"Biological Scientists, All Other",440,4.2,0.102,0.37,36.73,76390,2.6
+Michigan,Conservation Scientists,440,12.9,0.1,0.67,31,64480,3.6
+Michigan,Foresters,270,5.2,0.061,0.95,33.11,68870,1.5
+Michigan,Epidemiologists,170,5.9,0.04,0.78,35.55,73930,2.4
+Michigan,"Medical Scientists, Except Epidemiologists",2110,4.1,0.487,0.56,37.97,78970,6.7
+Michigan,"Life Scientists, All Other",140,2,0.031,0.71,34.64,72050,2.4
+Michigan,Physicists,530,5.3,0.121,1.06,54.2,112730,6.8
+Michigan,Atmospheric and Space Scientists,190,8.5,0.043,0.67,42.33,88040,1.9
+Michigan,Chemists,3490,13.3,0.802,1.41,37.75,78510,3.6
+Michigan,Materials Scientists,230,39.2,0.054,1.18,41.66,86660,4.9
+Michigan,"Environmental Scientists and Specialists, Including Health",3030,9.2,0.697,1.21,34.2,71140,2.6
+Michigan,"Geoscientists, Except Hydrologists and Geographers",440,16.5,0.101,0.51,*,*,*
+Michigan,Hydrologists,80,21.6,0.018,0.4,42.31,88000,3.8
+Michigan,"Physical Scientists, All Other",350,18.6,0.081,0.68,46.63,96990,3.4
+Michigan,Economists,210,8.2,0.048,0.37,45.1,93800,4.9
+Michigan,Survey Researchers,200,11.6,0.046,0.68,34.52,71790,2.9
+Michigan,"Clinical, Counseling, and School Psychologists",2590,6.5,0.597,0.77,43.6,90700,3
+Michigan,"Psychologists, All Other",240,7,0.054,0.56,41.44,86190,5.7
+Michigan,Sociologists,110,6.6,0.026,1.46,42.75,88920,4.3
+Michigan,Urban and Regional Planners,870,21.7,0.201,0.77,32.12,66820,2.1
+Michigan,Historians,50,3.7,0.012,0.56,30.61,63680,4
+Michigan,Political Scientists,80,34.4,0.017,0.42,*,*,*
+Michigan,"Social Scientists and Related Workers, All Other",370,8.6,0.085,0.37,37.33,77650,3.3
+Michigan,Agricultural and Food Science Technicians,190,27.3,0.044,0.29,20.84,43350,3.6
+Michigan,Biological Technicians,3460,21.2,0.796,1.47,20.39,42400,1.9
+Michigan,Chemical Technicians,1870,10.1,0.43,0.96,*,*,*
+Michigan,"Environmental Science and Protection Technicians, Including Health",670,11.7,0.155,0.7,21.8,45350,2.8
+Michigan,Geological and Hydrologic Technicians,300,19.8,0.069,0.59,28.93,60170,4.1
+Michigan,Nuclear Technicians,120,14.3,0.028,0.63,47.82,99460,6
+Michigan,Social Science Research Assistants,650,8.6,0.149,0.61,22.17,46120,5.6
+Michigan,Forest and Conservation Technicians,170,4.7,0.039,0.3,22.42,46630,0.9
+Michigan,Forensic Science Technicians,360,1.2,0.082,0.73,31.33,65170,1.9
+Michigan,"Life, Physical, and Social Science Technicians, All Other",2060,2.8,0.475,1.09,20.39,42420,4.1
+Michigan,Occupational Health and Safety Specialists,2320,5.1,0.533,0.84,35.05,72900,1.5
+Michigan,Occupational Health and Safety Technicians,380,13.2,0.086,0.62,24.74,51460,2.8
+Michigan,Community and Social Service Occupations,62870,2,14.472,0.95,23.33,48530,0.9
+Michigan,"Educational, Guidance, and Career Counselors and Advisors",7280,4.6,1.676,0.83,27.63,57470,1.8
+Michigan,Marriage and Family Therapists,230,15.8,0.052,0.13,21.45,44610,2.9
+Michigan,Rehabilitation Counselors,3590,7.2,0.826,1.11,19.4,40360,2.2
+Michigan,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",7130,4.2,1.642,0.85,23.36,48580,2.3
+Michigan,"Counselors, All Other",130,15.5,0.03,0.17,18.58,38650,4.2
+Michigan,"Child, Family, and School Social Workers",13760,3.2,3.168,1.42,24.72,51410,1.1
+Michigan,Healthcare Social Workers,5410,5,1.246,1.05,27.54,57280,1.3
+Michigan,Mental Health and Substance Abuse Social Workers,4190,6.8,0.964,1.2,24.25,50440,1.3
+Michigan,"Social Workers, All Other",1310,7.3,0.301,0.76,27,56150,3
+Michigan,Health Education Specialists,1630,5.8,0.375,0.94,25.68,53420,2.6
+Michigan,Probation Officers and Correctional Treatment Specialists,2220,1.9,0.511,0.85,29.89,62170,1
+Michigan,Social and Human Service Assistants,9770,5,2.249,0.82,15.85,32960,1.6
+Michigan,Community Health Workers,1610,5.7,0.371,0.92,22.39,46580,1.5
+Michigan,"Community and Social Service Specialists, All Other",960,8.6,0.22,0.33,20.19,42000,3.5
+Michigan,Clergy,2270,8.3,0.522,1.44,21.86,45470,3.7
+Michigan,"Directors, Religious Activities and Education",1170,15.3,0.268,1.81,20.61,42860,6.9
+Michigan,"Religious Workers, All Other",220,21.8,0.051,0.79,18.15,37760,5.4
+Michigan,Legal Occupations,25940,3,5.972,0.76,43.27,90000,2.7
+Michigan,Lawyers,14320,4.1,3.297,0.74,55.92,116310,3.4
+Michigan,Judicial Law Clerks,190,3.8,0.043,0.38,22.95,47730,2.4
+Michigan,"Administrative Law Judges, Adjudicators, and Hearing Officers",370,0.9,0.086,0.87,55.79,116050,1.2
+Michigan,"Arbitrators, Mediators, and Conciliators",250,16.6,0.058,1.4,33.93,70570,1.8
+Michigan,"Judges, Magistrate Judges, and Magistrates",600,5.2,0.139,0.71,*,*,*
+Michigan,Paralegals and Legal Assistants,7060,6.9,1.626,0.72,24.9,51790,2.2
+Michigan,"Title Examiners, Abstractors, and Searchers",1950,21.2,0.448,1.24,21.7,45130,2.5
+Michigan,Educational Instruction and Library Occupations,225130,1.5,51.822,0.86,26.76,55670,1.8
+Michigan,"Business Teachers, Postsecondary",2350,6.7,0.54,0.95,*,103510,6.3
+Michigan,"Computer Science Teachers, Postsecondary",920,8.5,0.212,0.98,*,103070,4.4
+Michigan,"Mathematical Science Teachers, Postsecondary",1800,8.3,0.414,1.19,*,86390,3.5
+Michigan,"Architecture Teachers, Postsecondary",200,17.1,0.046,0.99,*,80970,2.9
+Michigan,"Engineering Teachers, Postsecondary",1500,16.1,0.344,1.4,*,114240,2.7
+Michigan,"Agricultural Sciences Teachers, Postsecondary",240,1,0.056,0.87,*,113070,2.3
+Michigan,"Biological Science Teachers, Postsecondary",1290,7.8,0.298,0.82,*,93240,4.9
+Michigan,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",230,15.2,0.054,0.72,*,98790,8.4
+Michigan,"Chemistry Teachers, Postsecondary",500,9.1,0.114,0.79,*,94560,4.1
+Michigan,"Environmental Science Teachers, Postsecondary",220,6.1,0.05,1.21,*,*,*
+Michigan,"Physics Teachers, Postsecondary",580,11.4,0.133,1.42,*,97900,5
+Michigan,"Anthropology and Archeology Teachers, Postsecondary",170,5,0.04,0.99,*,85740,2.6
+Michigan,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",300,2.4,0.07,0.97,*,*,*
+Michigan,"Economics Teachers, Postsecondary",310,5.2,0.072,0.79,*,115960,6.5
+Michigan,"Geography Teachers, Postsecondary",140,6,0.032,1.19,*,87380,3.2
+Michigan,"Political Science Teachers, Postsecondary",400,3.7,0.091,0.85,*,102240,5.6
+Michigan,"Psychology Teachers, Postsecondary",990,7.1,0.229,0.9,*,84970,4.4
+Michigan,"Sociology Teachers, Postsecondary",480,13.3,0.11,1.17,*,84480,3.9
+Michigan,"Social Sciences Teachers, Postsecondary, All Other",590,14.4,0.136,1.19,*,68630,5.7
+Michigan,"Health Specialties Teachers, Postsecondary",3350,3.5,0.771,0.56,*,106930,6.2
+Michigan,"Nursing Instructors and Teachers, Postsecondary",1640,13.6,0.378,0.93,*,81510,2.5
+Michigan,"Education Teachers, Postsecondary",1220,5.6,0.281,0.67,*,76830,3
+Michigan,"Library Science Teachers, Postsecondary",200,6.2,0.045,1.52,*,90720,2.1
+Michigan,"Criminal Justice and Law Enforcement Teachers, Postsecondary",390,16,0.089,0.93,*,83070,8.6
+Michigan,"Law Teachers, Postsecondary",450,2.8,0.105,0.95,*,112270,8.7
+Michigan,"Social Work Teachers, Postsecondary",550,6.3,0.127,1.37,*,73540,2.5
+Michigan,"Art, Drama, and Music Teachers, Postsecondary",2660,20.6,0.613,0.96,*,77150,3.2
+Michigan,"Communications Teachers, Postsecondary",840,4.3,0.193,0.97,*,75230,2.7
+Michigan,"English Language and Literature Teachers, Postsecondary",2160,9.9,0.497,1.07,*,79610,5.2
+Michigan,"Foreign Language and Literature Teachers, Postsecondary",410,8.9,0.094,0.55,*,74030,3.3
+Michigan,"History Teachers, Postsecondary",530,4.7,0.121,0.84,*,81540,2.1
+Michigan,"Philosophy and Religion Teachers, Postsecondary",790,12.1,0.183,1.14,*,76970,3.6
+Michigan,"Recreation and Fitness Studies Teachers, Postsecondary",420,7,0.097,0.9,*,78210,3.7
+Michigan,"Career/Technical Education Teachers, Postsecondary",2120,11.3,0.487,0.64,29.8,61990,4.1
+Michigan,"Preschool Teachers, Except Special Education",9940,8.8,2.288,0.78,16.73,34790,3.6
+Michigan,"Kindergarten Teachers, Except Special Education",1460,9.2,0.335,0.4,*,60320,2.5
+Michigan,"Elementary School Teachers, Except Special Education",37130,3.9,8.547,0.88,*,69050,2
+Michigan,"Middle School Teachers, Except Special and Career/Technical Education",13910,9.2,3.202,0.76,*,64920,1.5
+Michigan,"Secondary School Teachers, Except Special and Career/Technical Education",22820,5.2,5.254,0.74,*,63000,1.3
+Michigan,"Career/Technical Education Teachers, Secondary School",1060,11.9,0.245,0.48,*,68440,2.1
+Michigan,"Special Education Teachers, Preschool",310,17.2,0.071,0.47,*,65560,2.9
+Michigan,"Special Education Teachers, Kindergarten and Elementary School",2840,11.5,0.653,0.49,*,66890,1.9
+Michigan,"Special Education Teachers, Middle School",890,19.9,0.206,0.35,*,66990,2.8
+Michigan,"Special Education Teachers, Secondary School",1880,10.6,0.432,0.44,*,63940,3.1
+Michigan,"Special Education Teachers, All Other",1800,8.8,0.415,1.71,*,77240,4.4
+Michigan,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",900,8.2,0.208,0.59,25.78,53620,4.8
+Michigan,Self-Enrichment Teachers,7030,8.4,1.618,0.94,19.57,40700,3.7
+Michigan,"Substitute Teachers, Short-Term",15380,9.4,3.541,0.89,15.39,32010,2.9
+Michigan,"Tutors and Teachers and Instructors, All Other",10130,5.4,2.333,1.07,*,47790,6.1
+Michigan,Archivists,180,10,0.042,0.94,24.31,50560,6.2
+Michigan,Curators,260,7,0.061,0.69,27.04,56250,6.3
+Michigan,Museum Technicians and Conservators,310,6.6,0.072,0.8,16.93,35220,4
+Michigan,Librarians and Media Collections Specialists,3850,7.2,0.887,0.96,25.63,53310,2.3
+Michigan,Library Technicians,3230,10,0.744,1.23,15.48,32200,2.5
+Michigan,Farm and Home Management Educators,520,1.6,0.119,2.01,24.41,50770,1.9
+Michigan,Instructional Coordinators,3890,6.2,0.896,0.74,33.89,70500,2.5
+Michigan,"Teaching Assistants, Postsecondary",13810,3.9,3.18,3.4,*,36900,10.2
+Michigan,"Teaching Assistants, Except Postsecondary",35330,3.1,8.134,0.89,*,28610,1.3
+Michigan,"Educational Instruction and Library Workers, All Other",1150,19.6,0.264,0.3,16.89,35130,4.3
+Michigan,"Arts, Design, Entertainment, Sports, and Media Occupations",54050,2.4,12.442,0.91,25.44,52910,1.4
+Michigan,Art Directors,1280,6.5,0.295,1.01,41.07,85420,3.1
+Michigan,Craft Artists,200,24.2,0.046,1.46,16.09,33460,6.3
+Michigan,"Fine Artists, Including Painters, Sculptors, and Illustrators",**,**,**,**,25.42,52870,9.5
+Michigan,Special Effects Artists and Animators,550,12.2,0.127,0.64,29.95,62290,2.5
+Michigan,Commercial and Industrial Designers,4520,10.1,1.039,4.66,36.84,76640,2.7
+Michigan,Fashion Designers,140,16.7,0.031,0.21,31.96,66470,2.1
+Michigan,Floral Designers,1170,25.8,0.268,0.94,14.25,29650,3.4
+Michigan,Graphic Designers,6000,5.2,1.382,0.94,23.68,49250,1.1
+Michigan,Interior Designers,1660,11.4,0.381,0.92,25.68,53410,3.2
+Michigan,Merchandise Displayers and Window Trimmers,5970,6.7,1.375,1.43,13.98,29070,2
+Michigan,Set and Exhibit Designers,150,13.8,0.035,0.43,22.55,46910,3.4
+Michigan,"Designers, All Other",110,14.5,0.026,0.36,29.62,61620,5.9
+Michigan,Actors,270,33.8,0.062,0.17,22.46,*,18.7
+Michigan,Producers and Directors,2070,8.6,0.476,0.54,32.23,67030,2.3
+Michigan,Athletes and Sports Competitors,80,21.9,0.018,0.23,*,48950,12.4
+Michigan,Coaches and Scouts,7500,7.3,1.727,1.05,*,46320,3.9
+Michigan,"Umpires, Referees, and Other Sports Officials",880,7.1,0.203,1.48,*,28090,5.1
+Michigan,Music Directors and Composers,390,12.9,0.09,1.25,25.12,52250,7.3
+Michigan,Musicians and Singers,1200,9.9,0.277,0.99,35.42,*,6.2
+Michigan,Broadcast Announcers and Radio Disc Jockeys,1140,13.5,0.262,1.32,21.37,44440,8
+Michigan,"News Analysts, Reporters, and Journalists",1140,15.6,0.262,0.87,20.86,43380,5.7
+Michigan,Public Relations Specialists,6270,3.6,1.442,0.87,30.03,62460,2.3
+Michigan,Editors,1610,9.3,0.37,0.57,29.95,62290,3.1
+Michigan,Technical Writers,1440,15.5,0.332,0.96,33.26,69180,3
+Michigan,Writers and Authors,1120,8.7,0.258,0.83,29.33,61010,4.8
+Michigan,Interpreters and Translators,1100,11.8,0.253,0.63,24.35,50650,9.2
+Michigan,Court Reporters and Simultaneous Captioners,480,33.3,0.109,1.11,29.77,61920,12.2
+Michigan,"Media and Communication Workers, All Other",220,17,0.05,0.29,17.98,37400,6.8
+Michigan,Audio and Video Technicians,1550,10.1,0.356,0.71,21.44,44600,3.9
+Michigan,Broadcast Technicians,580,18.3,0.134,0.68,20.78,43230,3.2
+Michigan,Sound Engineering Technicians,90,16.6,0.02,0.23,*,*,*
+Michigan,Photographers,1270,9.1,0.293,0.85,23.97,49850,12
+Michigan,"Camera Operators, Television, Video, and Film",170,18.2,0.039,0.27,22.24,46260,6.4
+Michigan,Film and Video Editors,420,15.5,0.096,0.51,28.18,58620,6.8
+Michigan,"Lighting Technicians and Media and Communication Equipment Workers, All Other",440,10.9,0.1,0.63,*,*,*
+Michigan,Healthcare Practitioners and Technical Occupations,279500,2.3,64.337,1.09,38.86,80830,1.1
+Michigan,Chiropractors,1160,9.1,0.267,1.12,32.01,66580,6
+Michigan,"Dentists, General",3720,9,0.856,1.14,104,216310,5.5
+Michigan,Oral and Maxillofacial Surgeons,160,29.9,0.037,1.18,101.06,210210,28.7
+Michigan,Orthodontists,70,43.7,0.015,0.38,97.56,202930,15.9
+Michigan,"Dentists, All Other Specialists",**,**,**,**,54.62,113600,3.9
+Michigan,Dietitians and Nutritionists,2040,6,0.469,1.02,26.96,56070,2.1
+Michigan,Optometrists,1370,15,0.314,1.17,60.36,125550,4
+Michigan,Pharmacists,8650,4,1.992,0.94,58.23,121110,1.7
+Michigan,Physician Assistants,4840,5.2,1.115,1.36,53.13,110510,0.9
+Michigan,Podiatrists,440,12.7,0.102,1.53,69.33,144200,7.9
+Michigan,Occupational Therapists,4620,4.6,1.064,1.17,37.5,78010,1.2
+Michigan,Physical Therapists,8060,5.2,1.856,1.17,43.51,90500,1.5
+Michigan,Radiation Therapists,460,4.8,0.106,0.87,39.01,81140,1
+Michigan,Recreational Therapists,780,6.5,0.18,1.39,23.32,48510,1.1
+Michigan,Respiratory Therapists,4520,5,1.042,1.16,28.3,58870,0.7
+Michigan,Speech-Language Pathologists,4300,8.2,0.99,0.94,38.88,80870,2
+Michigan,Exercise Physiologists,550,7.6,0.127,2.56,23.26,48380,1.4
+Michigan,"Therapists, All Other",110,14.3,0.025,0.3,28.92,60150,2.9
+Michigan,Veterinarians,2190,11.5,0.504,0.99,48.27,100410,3.6
+Michigan,Registered Nurses,96900,3.6,22.304,1.1,35.19,73200,0.9
+Michigan,Nurse Anesthetists,2330,8.3,0.537,1.81,93.58,194640,4
+Michigan,Nurse Midwives,280,10.6,0.065,1.38,44.61,92790,4.8
+Michigan,Nurse Practitioners,4840,4.5,1.113,0.82,52.24,108660,1.4
+Michigan,Audiologists,450,19.3,0.104,1.12,35.77,74400,2.9
+Michigan,Anesthesiologists,990,13.4,0.227,1.08,112.97,234970,10.3
+Michigan,Family Medicine Physicians,3270,8.5,0.752,1.01,99.68,207330,4.1
+Michigan,General Internal Medicine Physicians,2290,9.8,0.528,1.74,82.31,171210,7.9
+Michigan,Obstetricians and Gynecologists,930,14.2,0.213,1.68,88.17,183400,7
+Michigan,"Pediatricians, General",1150,8.7,0.264,1.3,*,*,*
+Michigan,Psychiatrists,700,23.9,0.161,0.93,95.75,199170,6.6
+Michigan,"Physicians, All Other; and Ophthalmologists, Except Pediatric",15810,4.2,3.639,1.37,80.86,168190,4.7
+Michigan,"Surgeons, Except Ophthalmologists",1670,10.3,0.385,1.56,109.94,228660,8.7
+Michigan,Dental Hygienists,9140,4.1,2.105,1.4,31.54,65610,1.7
+Michigan,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",580,12.3,0.134,0.54,48.81,101530,10.3
+Michigan,Clinical Laboratory Technologists and Technicians,12200,8.4,2.807,1.26,24.46,50870,1.1
+Michigan,Cardiovascular Technologists and Technicians,2340,6.1,0.538,1.41,27.21,56590,1.4
+Michigan,Diagnostic Medical Sonographers,2660,5.9,0.613,1.24,30.29,62990,1.1
+Michigan,Nuclear Medicine Technologists,610,6.4,0.141,1.14,34.61,71980,1.1
+Michigan,Radiologic Technologists and Technicians,6750,3.8,1.553,1.1,27.65,57510,0.8
+Michigan,Magnetic Resonance Imaging Technologists,1350,8.9,0.311,1.21,30.7,63860,1
+Michigan,Emergency Medical Technicians and Paramedics,7160,7.9,1.648,0.93,16.23,33760,1.6
+Michigan,Dietetic Technicians,920,17.9,0.213,1.07,13.2,27460,1.6
+Michigan,Pharmacy Technicians,15040,3.9,3.462,1.22,16.27,33850,2.2
+Michigan,Psychiatric Technicians,2440,5.9,0.562,1.05,18.59,38670,3.6
+Michigan,Surgical Technologists,4240,5.6,0.976,1.31,21.44,44590,0.7
+Michigan,Veterinary Technologists and Technicians,2580,12.6,0.594,0.79,18.18,37810,2.3
+Michigan,Ophthalmic Medical Technicians,1690,17.2,0.389,0.98,18.49,38450,2.9
+Michigan,Licensed Practical and Licensed Vocational Nurses,14140,3.3,3.254,0.69,24.18,50300,0.7
+Michigan,"Opticians, Dispensing",3590,13,0.826,1.68,17.34,36070,1.7
+Michigan,Orthotists and Prosthetists,820,21.5,0.19,2.84,36.41,75740,2.8
+Michigan,Hearing Aid Specialists,390,47.5,0.089,1.59,28.15,58550,4.1
+Michigan,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",8380,6.3,1.928,0.85,21.49,44690,1.5
+Michigan,Athletic Trainers,**,**,**,**,*,45270,3.5
+Michigan,Genetic Counselors,100,25.1,0.023,1.4,35.98,74840,2.2
+Michigan,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",**,**,**,**,29.84,62060,2.6
+Michigan,Healthcare Support Occupations,180500,1.7,41.55,0.94,14.78,30750,0.6
+Michigan,Home Health and Personal Care Aides,68860,3.3,15.852,0.74,12.34,25660,0.6
+Michigan,Nursing Assistants,51270,2.8,11.803,1.22,15.01,31220,0.8
+Michigan,Orderlies,1840,6.9,0.424,1.33,14.28,29690,1.2
+Michigan,Psychiatric Aides,2530,11.4,0.582,1.55,18.07,37580,2.5
+Michigan,Occupational Therapy Assistants,1230,6.9,0.282,0.92,25.5,53040,1.5
+Michigan,Occupational Therapy Aides,40,10.9,0.008,0.16,17.24,35860,4.3
+Michigan,Physical Therapist Assistants,3540,4.8,0.815,1.24,26.07,54220,1.3
+Michigan,Physical Therapist Aides,1700,12.1,0.391,1.16,13.8,28710,3.3
+Michigan,Massage Therapists,2270,11.3,0.522,0.71,22.03,45830,3.7
+Michigan,Dental Assistants,9610,4.9,2.211,0.92,18.92,39340,1.5
+Michigan,Medical Assistants,24580,3.7,5.657,1.17,16.23,33760,0.7
+Michigan,Medical Equipment Preparers,1850,6.5,0.426,1.1,17.82,37070,1.2
+Michigan,Medical Transcriptionists,1450,5.1,0.335,0.88,15.89,33050,1.7
+Michigan,Pharmacy Aides,600,20.2,0.139,0.55,13.94,29000,5.1
+Michigan,Veterinary Assistants and Laboratory Animal Caretakers,3580,7.6,0.825,1.25,13.53,28150,2.3
+Michigan,Phlebotomists,3520,7.3,0.811,0.93,16.16,33610,0.9
+Michigan,"Healthcare Support Workers, All Other",2040,9,0.469,0.74,14.33,29810,3.8
+Michigan,Protective Service Occupations,77640,1.9,17.871,0.75,21.84,45420,1.9
+Michigan,First-Line Supervisors of Correctional Officers,880,1.3,0.204,0.64,32.59,67790,1
+Michigan,First-Line Supervisors of Police and Detectives,2440,3.1,0.561,0.68,40.1,83400,1.3
+Michigan,First-Line Supervisors of Firefighting and Prevention Workers,1340,5.2,0.309,0.65,34.42,71590,1.4
+Michigan,"Miscellaneous First-Line Supervisors, Protective Service Workers",1990,7,0.459,0.82,23.3,48470,2.4
+Michigan,Firefighters,7230,4.8,1.664,0.75,22.12,46010,1.7
+Michigan,Fire Inspectors and Investigators,440,17.5,0.1,1.07,31.62,65760,3
+Michigan,Bailiffs,860,4.8,0.198,1.48,21.46,44630,1.9
+Michigan,Correctional Officers and Jailers,9010,1.7,2.075,0.72,25.49,53030,1.1
+Michigan,Detectives and Criminal Investigators,2090,2.1,0.481,0.67,42.59,88580,3.7
+Michigan,Fish and Game Wardens,230,4.3,0.052,1.12,28.1,58440,1.5
+Michigan,Parking Enforcement Workers,260,5.5,0.06,1.15,16.36,34040,2.1
+Michigan,Police and Sheriff's Patrol Officers,16310,2,3.755,0.83,28.25,58770,0.9
+Michigan,Transit and Railroad Police,70,1.8,0.015,0.49,24.21,50360,7.6
+Michigan,Animal Control Workers,210,4.1,0.048,0.58,19.35,40240,1.4
+Michigan,Private Detectives and Investigators,740,11.3,0.17,0.71,23.1,48040,4.4
+Michigan,Gambling Surveillance Officers and Gambling Investigators,770,20.1,0.177,2.52,16.08,33440,3.8
+Michigan,Security Guards,24660,4.5,5.676,0.74,13.97,29050,1.8
+Michigan,Crossing Guards and Flaggers,1830,17.3,0.42,0.73,12.13,25220,1.9
+Michigan,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",3200,9.2,0.737,0.75,12.93,26880,1.1
+Michigan,Transportation Security Screeners,1000,0.7,0.23,0.72,19.88,41350,2.6
+Michigan,"School Bus Monitors and Protective Service Workers, All Other",2070,10.1,0.477,0.48,14.58,30330,3.6
+Michigan,Food Preparation and Serving Related Occupations,393970,0.8,90.689,0.99,12.42,25840,0.5
+Michigan,Chefs and Head Cooks,2520,10.2,0.58,0.66,26.63,55390,2.7
+Michigan,First-Line Supervisors of Food Preparation and Serving Workers,30800,3,7.09,1.03,17.82,37070,1.2
+Michigan,"Cooks, Fast Food",9880,22.9,2.274,0.63,11.66,24250,1.4
+Michigan,"Cooks, Institution and Cafeteria",9450,4.8,2.175,0.79,14.12,29380,0.9
+Michigan,"Cooks, Restaurant",41490,3.3,9.55,1,12.9,26820,0.8
+Michigan,"Cooks, Short Order",3400,14.5,0.782,0.75,11.32,23540,1.7
+Michigan,"Cooks, All Other",310,24,0.071,0.54,13.47,28020,4.2
+Michigan,Food Preparation Workers,16600,9.4,3.822,0.65,12.27,25520,1.6
+Michigan,Bartenders,18640,6.2,4.29,0.97,12.86,26750,2
+Michigan,Fast Food and Counter Workers,127870,3,29.435,1.08,11.12,23140,0.5
+Michigan,Waiters and Waitresses,82380,2.7,18.963,1.08,12.26,25500,1.3
+Michigan,"Food Servers, Nonrestaurant",9000,6.8,2.073,1.1,12.27,25530,0.9
+Michigan,Dining Room and Cafeteria Attendants and Bartender Helpers,11930,6.8,2.745,0.84,11.5,23910,0.9
+Michigan,Dishwashers,14880,5.8,3.425,0.98,11.1,23080,0.9
+Michigan,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",13960,9.3,3.213,1.11,10.9,22670,0.9
+Michigan,"Food Preparation and Serving Related Workers, All Other",870,23.2,0.2,0.41,13.16,27380,2.4
+Michigan,Building and Grounds Cleaning and Maintenance Occupations,126870,1.7,29.204,0.97,14.35,29850,0.6
+Michigan,First-Line Supervisors of Housekeeping and Janitorial Workers,3910,5.6,0.9,0.85,20.6,42840,3.6
+Michigan,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3440,9.4,0.791,1.12,23.68,49260,2.2
+Michigan,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",60550,2.9,13.938,0.95,13.63,28350,0.9
+Michigan,Maids and Housekeeping Cleaners,25230,4,5.807,0.92,12.42,25840,0.7
+Michigan,"Building Cleaning Workers, All Other",**,**,**,**,12.3,25570,4.7
+Michigan,Pest Control Workers,1010,11.2,0.233,0.43,21.17,44030,3.8
+Michigan,Landscaping and Groundskeeping Workers,29250,3.9,6.732,1.08,14.86,30910,0.9
+Michigan,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",620,24.7,0.142,0.81,16.61,34560,2.9
+Michigan,Tree Trimmers and Pruners,2250,27.6,0.518,1.61,19.8,41190,3.4
+Michigan,"Grounds Maintenance Workers, All Other",110,22.1,0.025,0.26,26.97,56090,5.7
+Michigan,Personal Care and Service Occupations,90160,2.5,20.753,0.92,14.16,29450,0.9
+Michigan,First-Line Supervisors of Gambling Services Workers,1210,14.9,0.279,1.39,24.98,51970,3
+Michigan,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",6430,4.7,1.481,1,19.53,40620,1.3
+Michigan,Animal Trainers,320,26,0.073,0.65,19.84,41270,11.2
+Michigan,Animal Caretakers,6300,10.8,1.45,1,12.46,25910,2.2
+Michigan,Gambling Dealers,2790,16.7,0.642,0.95,12.02,24990,7.6
+Michigan,Gambling and Sports Book Writers and Runners,**,**,**,**,12.22,25410,2.7
+Michigan,"Gambling Service Workers, All Other",300,24.5,0.069,0.97,15.65,32550,2
+Michigan,Motion Picture Projectionists,50,16.3,0.012,0.39,13,27040,5.2
+Michigan,"Ushers, Lobby Attendants, and Ticket Takers",3320,18.1,0.765,0.81,11.74,24420,3.1
+Michigan,Amusement and Recreation Attendants,10270,6.9,2.365,1.03,11.58,24090,1.2
+Michigan,Costume Attendants,70,14.3,0.017,0.33,17.58,36560,5.5
+Michigan,"Locker Room, Coatroom, and Dressing Room Attendants",350,35.8,0.081,0.74,11.64,24220,3
+Michigan,Embalmers,**,**,**,**,24.32,50580,7.8
+Michigan,Funeral Attendants,1130,20,0.26,1.11,14.42,30000,2.9
+Michigan,"Morticians, Undertakers, and Funeral Arrangers",920,13.7,0.213,1.23,31.77,66070,4.5
+Michigan,Barbers,520,48,0.119,0.87,14.09,29300,6
+Michigan,"Hairdressers, Hairstylists, and Cosmetologists",11990,5.2,2.761,1.05,14.58,30320,2.6
+Michigan,Manicurists and Pedicurists,930,29.4,0.213,0.28,14.69,30560,5
+Michigan,Shampooers,**,**,**,**,11.91,24780,6.5
+Michigan,Skincare Specialists,1020,21,0.235,0.61,16.26,33820,2.6
+Michigan,Baggage Porters and Bellhops,600,19.5,0.139,0.51,12.66,26330,2.8
+Michigan,Concierges,640,22.9,0.148,0.52,13.25,27570,2.9
+Michigan,Tour and Travel Guides,1430,5.4,0.329,0.99,12.04,25050,2.5
+Michigan,Childcare Workers,17230,7.2,3.966,1.04,11.82,24580,1.1
+Michigan,Exercise Trainers and Group Fitness Instructors,6730,9.7,1.549,0.7,18.9,39320,2.7
+Michigan,Recreation Workers,12230,6.7,2.816,1.15,13.46,27990,2
+Michigan,Residential Advisors,2300,7.9,0.529,0.72,14.14,29400,2.9
+Michigan,"Crematory Operators and Personal Care and Service Workers, All Other",770,30.1,0.176,0.42,12.46,25920,2.4
+Michigan,Sales and Related Occupations,409870,1.2,94.347,0.96,20.15,41910,0.9
+Michigan,First-Line Supervisors of Retail Sales Workers,33510,2.6,7.714,0.97,21.68,45090,1.3
+Michigan,First-Line Supervisors of Non-Retail Sales Workers,7440,4.9,1.713,1.01,40.62,84490,2.5
+Michigan,Cashiers,94700,3.3,21.799,0.89,11.57,24060,0.5
+Michigan,Gambling Change Persons and Booth Cashiers,1000,15.5,0.229,1.58,15.97,33220,3.6
+Michigan,Counter and Rental Clerks,11820,6.1,2.721,0.97,13.79,28680,1.8
+Michigan,Parts Salespersons,9300,11.6,2.142,1.23,16.34,34000,4.5
+Michigan,Retail Salespersons,136190,2.6,31.349,1.07,14.11,29350,1.1
+Michigan,Advertising Sales Agents,3450,8.3,0.793,0.9,26.35,54800,3.4
+Michigan,Insurance Sales Agents,12030,5.5,2.77,0.99,33.1,68840,3.9
+Michigan,"Securities, Commodities, and Financial Services Sales Agents",9010,7.6,2.074,0.7,35.5,73840,5.5
+Michigan,Travel Agents,1570,9.3,0.361,0.8,22.06,45880,4.1
+Michigan,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",26470,3.7,6.094,0.86,31.34,65190,2.1
+Michigan,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",6410,10.2,1.476,0.71,49.53,103030,3.3
+Michigan,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",47310,2.4,10.89,1.19,34.91,72610,1.4
+Michigan,Demonstrators and Product Promoters,**,**,**,**,20.32,42270,10
+Michigan,Real Estate Brokers,590,40.1,0.135,0.46,34.46,71670,15.1
+Michigan,Real Estate Sales Agents,2120,12.5,0.487,0.44,27.49,57170,5.8
+Michigan,Sales Engineers,1810,10.6,0.416,0.96,45.28,94190,3
+Michigan,Telemarketers,2320,27.5,0.533,0.58,13.21,27490,3.5
+Michigan,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",80,49.8,0.019,0.31,13.41,27900,3.2
+Michigan,"Sales and Related Workers, All Other",1470,9.2,0.338,0.42,14.83,30840,2.4
+Michigan,Office and Administrative Support Occupations,543970,0.8,125.217,0.94,19.05,39620,0.3
+Michigan,First-Line Supervisors of Office and Administrative Support Workers,34280,1.8,7.891,0.78,27.68,57570,0.6
+Michigan,"Switchboard Operators, Including Answering Service",2110,12.5,0.486,1.05,15.44,32120,1.5
+Michigan,Telephone Operators,90,9.8,0.02,0.61,16.25,33790,5
+Michigan,Bill and Account Collectors,4130,13.1,0.951,0.59,18.8,39100,1.9
+Michigan,Billing and Posting Clerks,13060,4.2,3.006,0.95,18.72,38930,1
+Michigan,"Bookkeeping, Accounting, and Auditing Clerks",37090,2.3,8.539,0.83,19.22,39970,0.5
+Michigan,Gambling Cage Workers,470,14.5,0.109,1.12,14.9,30990,3.8
+Michigan,Payroll and Timekeeping Clerks,3610,8.2,0.831,0.86,22.09,45950,1.1
+Michigan,Procurement Clerks,1440,5.4,0.332,0.74,19.24,40030,1.2
+Michigan,Tellers,14250,6.4,3.28,1.09,14.94,31070,0.9
+Michigan,"Financial Clerks, All Other",250,15.7,0.057,0.27,21.1,43890,3.9
+Michigan,Brokerage Clerks,800,15.2,0.184,0.56,24.49,50930,1.9
+Michigan,Correspondence Clerks,80,29.9,0.017,0.41,17.77,36960,2.6
+Michigan,"Court, Municipal, and License Clerks",7300,5.3,1.68,1.6,19.06,39640,1.2
+Michigan,"Credit Authorizers, Checkers, and Clerks",380,11,0.087,0.48,23.72,49330,2.9
+Michigan,Customer Service Representatives,88540,3.3,20.38,1.03,18.19,37840,1.1
+Michigan,"Eligibility Interviewers, Government Programs",4510,1.3,1.039,1.09,25.38,52790,1.3
+Michigan,File Clerks,2070,7.6,0.476,0.68,17.03,35410,1.5
+Michigan,"Hotel, Motel, and Resort Desk Clerks",6100,7.7,1.404,0.77,11.92,24800,1.1
+Michigan,"Interviewers, Except Eligibility and Loan",2670,5.8,0.614,0.48,18.01,37450,4.8
+Michigan,"Library Assistants, Clerical",4000,6.5,0.92,1.57,13.29,27640,1.8
+Michigan,Loan Interviewers and Clerks,5960,10.6,1.371,0.97,19.7,40980,1.8
+Michigan,New Accounts Clerks,1660,12.7,0.381,1.29,17.17,35720,2.7
+Michigan,Order Clerks,1840,11.3,0.423,0.45,15.95,33180,2.3
+Michigan,"Human Resources Assistants, Except Payroll and Timekeeping",3000,7.1,0.689,0.86,19.05,39630,1.2
+Michigan,Receptionists and Information Clerks,28850,2.7,6.642,0.92,14.85,30890,0.9
+Michigan,Reservation and Transportation Ticket Agents and Travel Clerks,1550,9.4,0.357,0.42,23.05,47950,4.7
+Michigan,"Information and Record Clerks, All Other",2570,7.5,0.592,0.57,18.13,37700,2.4
+Michigan,Cargo and Freight Agents,2600,16.8,0.599,0.92,21.6,44930,2.6
+Michigan,Couriers and Messengers,2360,19.4,0.542,1.07,14.2,29540,1.3
+Michigan,Public Safety Telecommunicators,2340,5.1,0.538,0.83,21.02,43720,1
+Michigan,"Dispatchers, Except Police, Fire, and Ambulance",5730,8.8,1.319,0.97,20.89,43460,2.6
+Michigan,"Meter Readers, Utilities",**,**,**,**,23.21,48280,3
+Michigan,Postal Service Clerks,2680,0,0.616,1.12,25.03,52070,0.9
+Michigan,Postal Service Mail Carriers,12180,0,2.804,1.21,24.97,51930,1
+Michigan,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",3240,0,0.745,1.07,24.89,51770,1.6
+Michigan,"Production, Planning, and Expediting Clerks",10310,5.5,2.373,0.94,24.45,50860,2
+Michigan,"Shipping, Receiving, and Inventory Clerks",24630,3.8,5.669,1.18,17.42,36230,1.7
+Michigan,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",890,10.3,0.204,0.49,18.08,37600,3
+Michigan,Executive Secretaries and Executive Administrative Assistants,8930,2.6,2.056,0.56,27.91,58060,0.9
+Michigan,Legal Secretaries and Administrative Assistants,4260,10,0.981,0.86,22.79,47410,2.4
+Michigan,Medical Secretaries and Administrative Assistants,25940,3.7,5.972,1.45,17.24,35860,0.7
+Michigan,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",49580,1.8,11.412,0.82,18.62,38740,0.8
+Michigan,Data Entry Keyers,5660,10.9,1.304,1.2,16.72,34780,1.9
+Michigan,Word Processors and Typists,1250,10.9,0.289,0.89,18.22,37900,1.8
+Michigan,Desktop Publishers,150,19.7,0.035,0.58,21.24,44180,4.8
+Michigan,Insurance Claims and Policy Processing Clerks,5360,10.7,1.233,0.7,19.63,40830,2.2
+Michigan,"Mail Clerks and Mail Machine Operators, Except Postal Service",1650,10.8,0.38,0.67,16.21,33720,2.3
+Michigan,"Office Clerks, General",96950,1.6,22.318,1.11,17.39,36160,0.7
+Michigan,"Office Machine Operators, Except Computer",1110,13.1,0.256,0.82,17.04,35440,1.5
+Michigan,Proofreaders and Copy Markers,240,11,0.054,1.03,17.41,36210,3.2
+Michigan,Statistical Assistants,160,26.9,0.036,0.53,23.66,49210,3.7
+Michigan,"Office and Administrative Support Workers, All Other",2210,3.9,0.508,0.4,23.98,49880,3
+Michigan,"Farming, Fishing, and Forestry Occupations",5180,7.5,1.193,0.36,15.74,32740,1.9
+Michigan,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",260,13.2,0.059,0.39,27.68,57580,3.5
+Michigan,Agricultural Inspectors,**,**,**,**,27.04,56250,3.5
+Michigan,"Graders and Sorters, Agricultural Products",600,39.8,0.139,0.59,12,24960,2.8
+Michigan,Agricultural Equipment Operators,410,31.3,0.095,0.52,18.25,37970,11.6
+Michigan,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2100,9.8,0.482,0.24,13.04,27120,1.9
+Michigan,"Farmworkers, Farm, Ranch, and Aquacultural Animals",420,24,0.096,0.39,13.96,29030,6.1
+Michigan,"Agricultural Workers, All Other",60,32.6,0.014,0.32,13.86,28820,5.1
+Michigan,Fallers,**,**,**,**,18.14,37720,8
+Michigan,Logging Equipment Operators,890,15.7,0.205,1.16,16.59,34510,5.7
+Michigan,Log Graders and Scalers,60,16.1,0.014,0.63,20.37,42360,4.3
+Michigan,Construction and Extraction Occupations,147200,1.4,33.884,0.8,25.44,52920,0.8
+Michigan,First-Line Supervisors of Construction Trades and Extraction Workers,14560,3.9,3.353,0.79,33.64,69970,1.2
+Michigan,Boilermakers,640,17.1,0.148,1.37,34.96,72720,2.7
+Michigan,Brickmasons and Blockmasons,2570,18.8,0.591,1.43,27.26,56700,2.2
+Michigan,Stonemasons,200,20,0.047,0.55,20.5,42640,2.9
+Michigan,Carpenters,20480,4.7,4.714,0.94,23.69,49280,1.6
+Michigan,Carpet Installers,1050,16.2,0.241,1.36,19.57,40710,4.4
+Michigan,"Floor Layers, Except Carpet, Wood, and Hard Tiles",530,17.8,0.123,1.11,22.8,47430,2.7
+Michigan,Floor Sanders and Finishers,50,33.9,0.012,0.34,20.25,42130,8.2
+Michigan,Tile and Stone Setters,750,19.3,0.172,0.63,22.49,46780,6
+Michigan,Cement Masons and Concrete Finishers,5270,8.8,1.214,0.91,23.66,49220,2
+Michigan,Terrazzo Workers and Finishers,50,36.9,0.012,0.6,22.3,46390,7.2
+Michigan,Construction Laborers,25730,4.1,5.923,0.85,19.58,40720,1
+Michigan,"Paving, Surfacing, and Tamping Equipment Operators",940,18.4,0.217,0.7,20.95,43580,4
+Michigan,Operating Engineers and Other Construction Equipment Operators,8300,5.2,1.91,0.69,26.39,54880,1.3
+Michigan,Drywall and Ceiling Tile Installers,1250,19.8,0.288,0.41,21.29,44270,3.8
+Michigan,Tapers,230,32.6,0.053,0.43,28.63,59550,2.9
+Michigan,Electricians,22380,3.7,5.151,1.1,30.04,62480,2.6
+Michigan,Glaziers,1520,27.1,0.351,0.98,23.12,48100,5.6
+Michigan,"Insulation Workers, Floor, Ceiling, and Wall",420,20.9,0.096,0.42,16.33,33960,4.4
+Michigan,"Insulation Workers, Mechanical",570,25,0.131,0.72,26.35,54800,5
+Michigan,"Painters, Construction and Maintenance",4560,5.5,1.05,0.66,19.3,40140,2
+Michigan,Pipelayers,480,27.9,0.11,0.45,23.33,48520,5.8
+Michigan,"Plumbers, Pipefitters, and Steamfitters",12180,6.7,2.803,0.93,30.06,62530,1.9
+Michigan,Plasterers and Stucco Masons,180,32,0.041,0.22,26.99,56140,2.9
+Michigan,Reinforcing Iron and Rebar Workers,110,40.3,0.025,0.19,24.05,50030,3.1
+Michigan,Roofers,2790,10.2,0.641,0.73,22.08,45920,3.7
+Michigan,Sheet Metal Workers,2930,14.8,0.674,0.75,26.53,55190,3.1
+Michigan,Structural Iron and Steel Workers,1620,16.5,0.372,0.71,27.93,58090,2.6
+Michigan,Solar Photovoltaic Installers,**,**,**,**,18.54,38560,13.1
+Michigan,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",180,32.5,0.041,0.26,18.1,37650,4.2
+Michigan,Helpers--Carpenters,310,36.5,0.072,0.32,13.99,29090,3.2
+Michigan,Helpers--Electricians,460,40.6,0.106,0.2,18.12,37690,4.4
+Michigan,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",60,40.2,0.014,0.19,16.95,35260,11.5
+Michigan,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",690,25.1,0.158,0.4,15.14,31490,5.9
+Michigan,Helpers--Roofers,**,**,**,**,13.04,27120,8
+Michigan,"Helpers, Construction Trades, All Other",230,25.2,0.052,0.27,16.6,34530,3.3
+Michigan,Construction and Building Inspectors,2980,7.5,0.686,0.91,25.9,53880,1.9
+Michigan,Elevator and Escalator Installers and Repairers,930,49,0.214,1.11,41.38,86070,4.3
+Michigan,Fence Erectors,**,**,**,**,16.62,34560,7.1
+Michigan,Hazardous Materials Removal Workers,520,13.8,0.121,0.4,19.82,41220,3.8
+Michigan,Highway Maintenance Workers,2780,4.7,0.64,0.62,20.79,43250,1.3
+Michigan,Rail-Track Laying and Maintenance Equipment Operators,160,23.1,0.036,0.32,26.34,54780,2.4
+Michigan,Septic Tank Servicers and Sewer Pipe Cleaners,1100,10,0.253,1.25,19.74,41070,1.9
+Michigan,Miscellaneous Construction and Related Workers,260,21.1,0.06,0.27,21.21,44130,6.4
+Michigan,"Derrick Operators, Oil and Gas",60,33,0.013,0.16,19.22,39970,6.7
+Michigan,"Rotary Drill Operators, Oil and Gas",160,27.2,0.037,0.26,20.76,43170,4.6
+Michigan,"Service Unit Operators, Oil and Gas",280,19.5,0.065,0.19,24.72,51420,6.1
+Michigan,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1350,16.6,0.31,1.03,22.37,46520,6
+Michigan,Continuous Mining Machine Operators,120,20.3,0.028,0.28,20.3,42230,2.3
+Michigan,"Rock Splitters, Quarry",50,31.3,0.012,0.34,17.96,37360,3.1
+Michigan,"Roustabouts, Oil and Gas",380,15.9,0.088,0.22,21.19,44070,4.8
+Michigan,Helpers--Extraction Workers,30,45.8,0.007,0.06,18.21,37870,5
+Michigan,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",520,24.4,0.12,0.71,18.87,39260,5.6
+Michigan,"Installation, Maintenance, and Repair Occupations",172470,1.6,39.7,1.02,23.67,49230,0.6
+Michigan,"First-Line Supervisors of Mechanics, Installers, and Repairers",14770,2.5,3.399,1.03,34.19,71120,0.9
+Michigan,"Computer, Automated Teller, and Office Machine Repairers",2180,10.5,0.502,0.75,19.29,40120,2.1
+Michigan,"Radio, Cellular, and Tower Equipment Installers and Repairers",340,12.4,0.079,0.81,27.14,56450,2.9
+Michigan,"Telecommunications Equipment Installers and Repairers, Except Line Installers",6380,16,1.468,1.03,26.93,56020,3.5
+Michigan,"Electric Motor, Power Tool, and Related Repairers",440,31.9,0.102,0.94,19.43,40410,8.1
+Michigan,"Electrical and Electronics Installers and Repairers, Transportation Equipment",140,33.1,0.031,0.47,29.91,62210,3.8
+Michigan,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",**,**,**,**,31.04,64570,4.5
+Michigan,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1410,7.5,0.324,2.1,42.76,88940,2.2
+Michigan,"Electronic Equipment Installers and Repairers, Motor Vehicles",150,36.2,0.035,0.5,14.89,30980,5
+Michigan,Audiovisual Equipment Installers and Repairers,270,24.2,0.062,0.36,19.19,39910,5.7
+Michigan,Security and Fire Alarm Systems Installers,1290,15.6,0.298,0.61,22.79,47410,2.5
+Michigan,Aircraft Mechanics and Service Technicians,3520,13,0.809,0.89,27.6,57410,5.7
+Michigan,Automotive Body and Related Repairers,5200,5.4,1.196,1.22,24.45,50860,3.2
+Michigan,Automotive Glass Installers and Repairers,350,42.4,0.081,0.61,17.12,35620,2.5
+Michigan,Automotive Service Technicians and Mechanics,18700,4,4.305,0.96,21.15,43980,1.7
+Michigan,Bus and Truck Mechanics and Diesel Engine Specialists,8960,5.8,2.063,1.14,22.91,47650,1.1
+Michigan,Farm Equipment Mechanics and Service Technicians,790,13.6,0.182,0.74,19.48,40520,2.5
+Michigan,"Mobile Heavy Equipment Mechanics, Except Engines",2570,7.3,0.591,0.59,24.92,51820,1.2
+Michigan,Rail Car Repairers,450,10,0.102,0.58,26.89,55920,4.4
+Michigan,Motorboat Mechanics and Service Technicians,1230,16.9,0.282,1.81,19.29,40130,3
+Michigan,Motorcycle Mechanics,660,15.1,0.151,1.43,17.33,36040,3.3
+Michigan,Outdoor Power Equipment and Other Small Engine Mechanics,1450,12,0.335,1.53,18.45,38380,2.2
+Michigan,Bicycle Repairers,770,18,0.176,1.97,14.1,29320,2.9
+Michigan,Recreational Vehicle Service Technicians,420,25.7,0.097,0.92,16.85,35040,3.7
+Michigan,Tire Repairers and Changers,3270,14.7,0.752,1,14.93,31050,2
+Michigan,Mechanical Door Repairers,450,35.9,0.104,0.66,18.97,39450,7.5
+Michigan,"Control and Valve Installers and Repairers, Except Mechanical Door",2420,6.8,0.558,1.57,33.69,70080,3
+Michigan,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",9010,8,2.073,0.89,24.11,50150,2.4
+Michigan,Home Appliance Repairers,1670,17,0.384,1.82,18.4,38270,4.8
+Michigan,Industrial Machinery Mechanics,22670,3.1,5.219,1.98,25.18,52370,0.8
+Michigan,"Maintenance Workers, Machinery",980,13,0.226,0.46,22.98,47800,1.5
+Michigan,Millwrights,3360,7.6,0.773,2.4,30.68,63820,1.4
+Michigan,Electrical Power-Line Installers and Repairers,3230,10.2,0.744,0.98,35.03,72860,3.8
+Michigan,Telecommunications Line Installers and Repairers,1410,15.3,0.325,0.4,21.23,44150,2
+Michigan,Camera and Photographic Equipment Repairers,**,**,**,**,20.02,41640,7.6
+Michigan,Medical Equipment Repairers,1440,14.2,0.332,1.05,26.2,54500,4.5
+Michigan,Musical Instrument Repairers and Tuners,310,41.1,0.071,1.3,16.5,34320,4
+Michigan,Watch and Clock Repairers,100,42.6,0.023,1.2,25.67,53400,8
+Michigan,"Precision Instrument and Equipment Repairers, All Other",150,29.9,0.033,0.46,27.86,57940,9.2
+Michigan,"Maintenance and Repair Workers, General",40710,2.4,9.37,0.97,18.64,38760,0.8
+Michigan,"Coin, Vending, and Amusement Machine Servicers and Repairers",820,12.6,0.189,0.88,20.7,43060,3.8
+Michigan,Commercial Divers,**,**,**,**,23.37,48620,6.6
+Michigan,Locksmiths and Safe Repairers,330,14.9,0.077,0.66,21.17,44040,6
+Michigan,Riggers,390,20.1,0.09,0.58,25.63,53310,6.3
+Michigan,Signal and Track Switch Repairers,80,19.8,0.019,0.41,32.88,68380,5.3
+Michigan,"Helpers--Installation, Maintenance, and Repair Workers",1460,13.7,0.335,0.49,14.42,29990,3.6
+Michigan,"Installation, Maintenance, and Repair Workers, All Other",2520,12.5,0.579,0.53,21.5,44710,4.9
+Michigan,Production Occupations,476190,1.4,109.614,1.76,19.61,40790,0.8
+Michigan,First-Line Supervisors of Production and Operating Workers,31100,2.3,7.159,1.67,31.9,66340,0.7
+Michigan,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",150,13.8,0.034,0.12,23.88,49670,12.7
+Michigan,"Coil Winders, Tapers, and Finishers",**,**,**,**,19.11,39740,2.3
+Michigan,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",12520,11,2.881,1.48,16.6,34520,2.2
+Michigan,Engine and Other Machine Assemblers,9580,10.3,2.205,7.05,24.88,51750,2.4
+Michigan,Structural Metal Fabricators and Fitters,2310,20.4,0.532,1.02,20.3,42230,4.5
+Michigan,Fiberglass Laminators and Fabricators,680,17,0.157,1.15,16.94,35240,2.7
+Michigan,Timing Device Assemblers and Adjusters,**,**,**,**,16.4,34110,7.4
+Michigan,Miscellaneous Assemblers and Fabricators,110680,3.4,25.478,2.73,18.52,38510,2.3
+Michigan,Bakers,6040,10.7,1.391,1.1,13.11,27270,1.3
+Michigan,Butchers and Meat Cutters,3940,10.3,0.906,0.97,15.05,31310,1.9
+Michigan,"Meat, Poultry, and Fish Cutters and Trimmers",1530,17.9,0.353,0.34,14.72,30610,1.8
+Michigan,Slaughterers and Meat Packers,1610,13.6,0.37,0.74,15.14,31490,2.1
+Michigan,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",670,20.5,0.153,1.08,15.64,32540,3.2
+Michigan,Food Batchmakers,4190,8.2,0.963,0.89,16.65,34630,3.3
+Michigan,Food Cooking Machine Operators and Tenders,370,17.6,0.085,0.42,16.76,34850,4.6
+Michigan,"Food Processing Workers, All Other",**,**,**,**,14.23,29610,1.6
+Michigan,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",2820,12.7,0.649,1.24,15.95,33180,2.2
+Michigan,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",900,12.9,0.208,1.87,20.17,41950,3.1
+Michigan,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1130,23.7,0.26,1.18,20.62,42900,4
+Michigan,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",23170,6.1,5.334,4.02,19.09,39720,3.2
+Michigan,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",570,25.3,0.13,1.76,19.13,39780,5.5
+Michigan,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",6160,10.1,1.418,2.71,18.74,38990,1.8
+Michigan,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3350,15.8,0.771,4.04,19.29,40130,2.2
+Michigan,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",**,**,**,**,23.02,47870,4.4
+Michigan,Machinists,26600,4.1,6.123,2.35,21.1,43900,1.4
+Michigan,Metal-Refining Furnace Operators and Tenders,730,33.9,0.168,1.44,19.8,41180,2.8
+Michigan,"Pourers and Casters, Metal",**,**,**,**,21.21,44110,2.4
+Michigan,"Model Makers, Metal and Plastic",1100,16,0.254,8.69,29.16,60650,3
+Michigan,"Patternmakers, Metal and Plastic",360,16.9,0.084,4.09,26.45,55020,3.1
+Michigan,Foundry Mold and Coremakers,2230,20.3,0.514,4.29,19.68,40940,4
+Michigan,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",21150,6.2,4.869,4.15,15.66,32580,1.8
+Michigan,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",9440,9.5,2.174,2.17,19.69,40960,3.7
+Michigan,Tool and Die Makers,13310,7.7,3.064,6.36,26.45,55020,1.3
+Michigan,"Welders, Cutters, Solderers, and Brazers",14390,4.9,3.312,1.18,19.73,41050,0.9
+Michigan,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",2700,16.6,0.621,2.6,19.41,40360,4.2
+Michigan,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1510,11.2,0.346,2.6,18.36,38190,2.2
+Michigan,"Layout Workers, Metal and Plastic",70,22.1,0.017,0.3,24.23,50400,3.1
+Michigan,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",2900,13.3,0.666,2.34,16.07,33430,2.4
+Michigan,"Tool Grinders, Filers, and Sharpeners",320,11.7,0.074,1.68,21.46,44630,3.5
+Michigan,"Metal Workers and Plastic Workers, All Other",2250,32.9,0.519,3.13,15.78,32810,6.9
+Michigan,Prepress Technicians and Workers,620,13.2,0.143,0.69,20.66,42970,3
+Michigan,Printing Press Operators,5870,5.9,1.351,1.14,17.84,37110,1.7
+Michigan,Print Binding and Finishing Workers,1360,11.6,0.313,1.01,16.92,35200,2.1
+Michigan,Laundry and Dry-Cleaning Workers,6520,5.4,1.5,1.05,12.33,25650,1.3
+Michigan,"Pressers, Textile, Garment, and Related Materials",430,30.6,0.099,0.38,11.49,23910,3.1
+Michigan,Sewing Machine Operators,2710,6,0.623,0.69,13.61,28300,3.5
+Michigan,Shoe and Leather Workers and Repairers,410,22.7,0.095,1.59,14.94,31060,5.2
+Michigan,"Tailors, Dressmakers, and Custom Sewers",580,45.3,0.134,0.82,17.36,36110,4
+Michigan,Textile Bleaching and Dyeing Machine Operators and Tenders,70,41.9,0.016,0.27,13.55,28180,4.5
+Michigan,"Textile Cutting Machine Setters, Operators, and Tenders",520,20.8,0.12,1.34,16.14,33570,2.8
+Michigan,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",70,46.1,0.017,0.12,16.99,35330,12.9
+Michigan,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",80,31.2,0.018,0.09,13.71,28520,8.9
+Michigan,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",580,30.4,0.133,1.07,17.69,36790,4.2
+Michigan,Fabric and Apparel Patternmakers,40,26.3,0.01,0.25,20.7,43060,5.7
+Michigan,Upholsterers,710,17.9,0.163,0.81,15.25,31730,5
+Michigan,"Textile, Apparel, and Furnishings Workers, All Other",380,40.3,0.088,0.72,11.63,24190,3.3
+Michigan,Cabinetmakers and Bench Carpenters,2890,21.2,0.665,0.98,19.17,39880,2.4
+Michigan,Furniture Finishers,510,16.6,0.117,1.06,17.27,35930,2.7
+Michigan,"Model Makers, Wood",60,24.7,0.014,2.51,31.29,65080,3.8
+Michigan,"Patternmakers, Wood",70,40.9,0.015,5.9,32.85,68340,2.2
+Michigan,"Sawing Machine Setters, Operators, and Tenders, Wood",1290,10.6,0.297,0.86,16.24,33770,2.5
+Michigan,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2650,11.1,0.611,1.14,16.21,33710,2.5
+Michigan,Nuclear Power Reactor Operators,280,41,0.066,1.91,*,*,*
+Michigan,Power Distributors and Dispatchers,370,16,0.085,1.17,44.41,92380,3.1
+Michigan,Power Plant Operators,1770,11.2,0.407,1.78,40.76,84770,1.6
+Michigan,Stationary Engineers and Boiler Operators,560,8,0.128,0.58,30.32,63070,1.7
+Michigan,Water and Wastewater Treatment Plant and System Operators,3240,5.5,0.746,0.89,23.17,48190,1.2
+Michigan,Chemical Plant and System Operators,**,**,**,**,26.42,54950,3.7
+Michigan,Gas Plant Operators,480,18.5,0.111,1.13,36.63,76190,1.6
+Michigan,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",320,7.1,0.075,0.27,31.19,64880,4.6
+Michigan,"Plant and System Operators, All Other",**,**,**,**,30.62,63700,3
+Michigan,Chemical Equipment Operators and Tenders,4120,26.4,0.949,1.6,27.63,57470,3.2
+Michigan,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1540,13.3,0.354,1.02,18.22,37890,2
+Michigan,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",560,14.6,0.129,0.57,19.32,40190,2.7
+Michigan,"Grinding and Polishing Workers, Hand",1480,15.3,0.34,1.71,15.36,31950,2.9
+Michigan,"Mixing and Blending Machine Setters, Operators, and Tenders",3910,8.9,0.899,1.05,18.89,39290,2.3
+Michigan,"Cutters and Trimmers, Hand",210,13,0.049,0.74,15.16,31530,3.6
+Michigan,"Cutting and Slicing Machine Setters, Operators, and Tenders",1540,11.5,0.355,0.9,17.46,36320,3.8
+Michigan,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",3400,11.4,0.782,1.6,17.25,35880,2.1
+Michigan,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",720,14.1,0.166,1.29,20.92,43520,4
+Michigan,"Inspectors, Testers, Sorters, Samplers, and Weighers",32890,4.8,7.572,1.93,17.96,37360,1.3
+Michigan,Jewelers and Precious Stone and Metal Workers,720,24.9,0.165,1.03,22.81,47430,6.7
+Michigan,Dental Laboratory Technicians,1580,9,0.364,1.55,21.87,45490,2.5
+Michigan,Medical Appliance Technicians,720,25.4,0.165,1.72,22.74,47300,4.6
+Michigan,Ophthalmic Laboratory Technicians,890,21.1,0.204,1.03,17.15,35670,1.8
+Michigan,Packaging and Filling Machine Operators and Tenders,14710,9,3.386,1.27,16.84,35030,2.9
+Michigan,"Painting, Coating, and Decorating Workers",120,20.7,0.028,0.33,15.15,31510,4.4
+Michigan,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",6150,9.6,1.415,1.42,18.57,38620,2.4
+Michigan,Photographic Process Workers and Processing Machine Operators,350,37.3,0.08,0.98,15.04,31280,3.3
+Michigan,Computer Numerically Controlled Tool Operators,8630,6.2,1.988,1.92,19.71,41000,1.5
+Michigan,Computer Numerically Controlled Tool Programmers,2400,10.8,0.553,3.18,25.98,54030,1.8
+Michigan,Adhesive Bonding Machine Operators and Tenders,490,23.9,0.112,1.18,19.07,39660,2.4
+Michigan,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",750,14.5,0.172,1.54,16,33270,2.8
+Michigan,Cooling and Freezing Equipment Operators and Tenders,140,47.7,0.033,0.55,17.8,37030,3.3
+Michigan,Etchers and Engravers,**,**,**,**,18.81,39120,8.4
+Michigan,"Molders, Shapers, and Casters, Except Metal and Plastic",2550,27.6,0.586,1.92,16.23,33760,3.9
+Michigan,"Paper Goods Machine Setters, Operators, and Tenders",3760,8.8,0.866,1.27,19.63,40840,3.1
+Michigan,Tire Builders,**,**,**,**,15.85,32960,4.5
+Michigan,Helpers--Production Workers,11430,13.6,2.632,1.28,13.74,28590,3.1
+Michigan,"Production Workers, All Other",6470,7,1.489,0.98,14.73,30630,1.5
+Michigan,Transportation and Material Moving Occupations,356000,1.3,81.948,0.96,17.91,37260,3.7
+Michigan,Aircraft Cargo Handling Supervisors,160,22.2,0.037,0.57,29.45,61260,11.7
+Michigan,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",11510,4.3,2.649,0.85,26.73,55600,1.1
+Michigan,"Airline Pilots, Copilots, and Flight Engineers",3050,0.4,0.702,1.22,*,238270,19.7
+Michigan,Commercial Pilots,1140,14.4,0.263,1.02,*,88350,4.9
+Michigan,Airfield Operations Specialists,320,8.3,0.073,1,27.68,57580,5.1
+Michigan,Flight Attendants,3700,1.4,0.852,1.04,*,57620,3.7
+Michigan,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",230,30,0.054,0.53,14.71,30590,5.8
+Michigan,Driver/Sales Workers,10720,7.6,2.466,0.81,15.17,31540,2.6
+Michigan,Heavy and Tractor-Trailer Truck Drivers,60490,3.3,13.924,1.1,20.74,43150,1.1
+Michigan,Light Truck Drivers,26470,5.5,6.094,0.97,18.02,37480,2.2
+Michigan,"Bus Drivers, Transit and Intercity",4740,6.4,1.091,0.89,17.48,36350,2.4
+Michigan,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",19750,5.5,4.545,0.95,15.82,32910,1.2
+Michigan,"Motor Vehicle Operators, All Other",2090,13.4,0.481,1.25,13.99,29100,4.1
+Michigan,Locomotive Engineers,410,12.7,0.094,0.39,33.2,69060,4.9
+Michigan,"Rail Yard Engineers, Dinkey Operators, and Hostlers",**,**,**,**,19.68,40930,6.7
+Michigan,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",140,26.5,0.032,0.42,29.03,60370,6.4
+Michigan,Railroad Conductors and Yardmasters,580,28.1,0.133,0.43,31.69,65910,3
+Michigan,Sailors and Marine Oilers,130,27,0.03,0.14,21.56,44850,7.2
+Michigan,"Captains, Mates, and Pilots of Water Vessels",240,25.8,0.055,0.24,39.69,82560,24.5
+Michigan,Bridge and Lock Tenders,60,4.9,0.015,0.69,22.63,47070,8.2
+Michigan,Parking Attendants,3760,14.8,0.866,0.86,11.95,24860,1.9
+Michigan,Automotive and Watercraft Service Attendants,3570,11.7,0.823,1.03,12.27,25520,1.6
+Michigan,Traffic Technicians,100,30.8,0.022,0.43,21.87,45500,2.6
+Michigan,Transportation Inspectors,420,16.2,0.096,0.47,41.26,85820,5.3
+Michigan,Passenger Attendants,1660,6.5,0.382,1.99,12.36,25700,3.3
+Michigan,"Aircraft Service Attendants and Transportation Workers, All Other",300,36.8,0.07,0.29,15.23,31680,10.7
+Michigan,Conveyor Operators and Tenders,700,37.4,0.16,0.98,17.82,37070,2.8
+Michigan,Crane and Tower Operators,1100,33.8,0.253,0.82,21.44,44600,2.4
+Michigan,Hoist and Winch Operators,110,24.8,0.026,0.8,17.88,37190,4.7
+Michigan,Industrial Truck and Tractor Operators,22520,3.7,5.185,1.21,18.53,38540,2.1
+Michigan,Cleaners of Vehicles and Equipment,10960,6.1,2.523,0.97,12.77,26560,1.2
+Michigan,"Laborers and Freight, Stock, and Material Movers, Hand",73510,3.2,16.92,0.84,15.47,32180,0.7
+Michigan,Machine Feeders and Offbearers,870,18.5,0.201,0.47,16.67,34670,3.8
+Michigan,"Packers and Packagers, Hand",22630,8.9,5.208,1.21,14.16,29460,4.2
+Michigan,Stockers and Order Fillers,63130,2.9,14.531,1,13.85,28820,0.8
+Michigan,Wellhead Pumpers,70,37.7,0.017,0.19,24.6,51160,7.9
+Michigan,Refuse and Recyclable Material Collectors,3750,15.2,0.863,1.04,19.86,41300,2.8
+Michigan,"Tank Car, Truck, and Ship Loaders",220,10.1,0.05,0.64,21.92,45600,4.4
+Michigan,"Material Moving Workers, All Other",130,29.4,0.029,0.15,22.75,47330,4.9
