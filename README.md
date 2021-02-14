@@ -13,23 +13,23 @@ Built With: Xcode, Swift, UIKit, SwiftUI
 
 --------------------------------
 ### Viewing Data for a Single Job
-<img src="UIDemo/SingleJob/Input1.png" alt="Input1 Page" height="500">
-<img src="UIDemo/SingleJob/Input2.png" alt="Input2 Page" height="500">
-<img src="UIDemo/SingleJob/Input3a.png" alt="Input3a Page" height="500">
-<img src="UIDemo/SingleJob/OutputA_Raw.png" alt="OutputA Page (Raw Data)" height="500">
-<img src="UIDemo/SingleJob/OutputA_Adjusted.png" alt="OutputA Page (Adjusted Data)" height="500">
+<img src="Static/UIDemo/SingleJob/Input1.png" alt="Input1 Page" height="500">
+<img src="Static/UIDemo/SingleJob/Input2.png" alt="Input2 Page" height="500">
+<img src="Static/UIDemo/SingleJob/Input3a.png" alt="Input3a Page" height="500">
+<img src="Static/UIDemo/SingleJob/OutputA_Raw.png" alt="OutputA Page (Raw Data)" height="500">
+<img src="Static/UIDemo/SingleJob/OutputA_Adjusted.png" alt="OutputA Page (Adjusted Data)" height="500">
 
 --------------------------------
 ### Comparing Two Jobs Within Same State
-<img src="UIDemo/1State2Jobs/Input1.png" alt="Input1 Page" height="500">
-<img src="UIDemo/1State2Jobs/Input2.png" alt="Input2 Page" height="500">
-<img src="UIDemo/1State2Jobs/Input3b.png" alt="Input3b Page" height="500">
-<img src="UIDemo/1State2Jobs/OutputB.png" alt="OutputB Page" height="500">
+<img src="Static/UIDemo/1State2Jobs/Input1.png" alt="Input1 Page" height="500">
+<img src="Static/UIDemo/1State2Jobs/Input2.png" alt="Input2 Page" height="500">
+<img src="Static/UIDemo/1State2Jobs/Input3b.png" alt="Input3b Page" height="500">
+<img src="Static/UIDemo/1State2Jobs/OutputB.png" alt="OutputB Page" height="500">
 
 --------------------------------
 ### Comparing Two Jobs in Different States
-<img src="UIDemo/2State2Jobs/Input1.png" alt="Input1 Page" height="500">
-<img src="UIDemo/2State2Jobs/Input2.png" alt="Input2 Page" height="500">
-<img src="UIDemo/2State2Jobs/Input3a.png" alt="Input3a Page" height="500">
-<img src="UIDemo/2State2Jobs/OutputA_Raw.png" alt="OutputA Page (Raw Data)" height="500">
-<img src="UIDemo/2State2Jobs/OutputA_Adjusted.png" alt="OutputA Page (Adjusted Data)" height="500">
+<img src="Static/UIDemo/2State2Jobs/Input1.png" alt="Input1 Page" height="500">
+<img src="Static/UIDemo/2State2Jobs/Input2.png" alt="Input2 Page" height="500">
+<img src="Static/UIDemo/2State2Jobs/Input3a.png" alt="Input3a Page" height="500">S
+<img src="Static/UIDemo/2State2Jobs/OutputA_Raw.png" alt="OutputA Page (Raw Data)" height="500">
+<img src="Static/UIDemo/2State2Jobs/OutputA_Adjusted.png" alt="OutputA Page (Adjusted Data)" height="500">
